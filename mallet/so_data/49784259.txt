@@ -1,0 +1,1 @@
+Exported Electron APP doesn't work on MacOS

@@ -1,0 +1,1 @@
+NW.js child_process not working with vue.js app

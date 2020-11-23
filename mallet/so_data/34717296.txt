@@ -1,0 +1,1 @@
+Cannot completely remove mouse cursor in nw.js app

@@ -1,0 +1,1 @@
+Trying to clear cache in Electron but it doesn't seem to work

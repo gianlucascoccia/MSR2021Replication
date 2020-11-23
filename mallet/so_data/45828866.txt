@@ -1,0 +1,1 @@
+How to make a semi-transparent app background with electron?

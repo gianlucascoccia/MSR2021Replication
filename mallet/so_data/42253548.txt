@@ -1,0 +1,1 @@
+Sentry/Raven on an Electron React app - what am i doing wrong?

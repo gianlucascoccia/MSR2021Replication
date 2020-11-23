@@ -1,0 +1,1 @@
+Why does the errno in node-webkit differ from Node.js?

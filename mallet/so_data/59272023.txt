@@ -1,0 +1,1 @@
+How can I start an Electron 7.x.x main.js with package.json in parent directory?

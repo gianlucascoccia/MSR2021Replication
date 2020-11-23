@@ -1,0 +1,1 @@
+HTTPS on localhost for OAuth for a desktop application

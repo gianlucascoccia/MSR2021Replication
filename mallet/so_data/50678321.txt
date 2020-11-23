@@ -1,0 +1,1 @@
+Why is array length zero for a array that has contents?

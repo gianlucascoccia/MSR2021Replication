@@ -1,0 +1,1 @@
+Node-webkit secure data storage

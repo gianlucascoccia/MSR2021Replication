@@ -1,0 +1,1 @@
+Electron application exits immediately after starting

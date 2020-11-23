@@ -1,0 +1,1 @@
+how to clear user data while delete mac electron app from application directly?

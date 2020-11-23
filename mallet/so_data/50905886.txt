@@ -1,0 +1,1 @@
+I am trying to turn my electron app to windows portable

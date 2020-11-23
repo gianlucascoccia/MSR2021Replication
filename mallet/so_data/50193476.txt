@@ -1,0 +1,1 @@
+Require is not defined on electron with cypress

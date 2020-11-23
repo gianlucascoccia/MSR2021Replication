@@ -1,0 +1,1 @@
+Close Electron frameless window not working

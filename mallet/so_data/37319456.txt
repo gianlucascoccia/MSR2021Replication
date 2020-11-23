@@ -1,0 +1,1 @@
+Electron JS: Application not running after packaging using electron-packager (VCRUNTIME140.dll MSVCP140.dll)

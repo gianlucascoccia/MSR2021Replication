@@ -1,0 +1,1 @@
+Check to see if electron is running via external browser

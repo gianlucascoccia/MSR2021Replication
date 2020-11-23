@@ -1,0 +1,1 @@
+Build NodeJS back-end with dependencies for NWJS desktop application

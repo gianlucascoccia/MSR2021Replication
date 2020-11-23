@@ -1,0 +1,1 @@
+How to access jquery from the render process inside the preload script on Electron

@@ -1,0 +1,1 @@
+the proper way to callback a value and append it nodejs electron

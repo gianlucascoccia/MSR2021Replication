@@ -1,0 +1,1 @@
+Statement is not being reached after setting State in react ES-6

@@ -1,0 +1,1 @@
+String functions not working in electron app

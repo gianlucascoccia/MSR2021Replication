@@ -1,0 +1,1 @@
+Advantages/disadvantages for an app manager using either Node JS (desktop app) or iOS (mobile app)

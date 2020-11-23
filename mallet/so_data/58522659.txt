@@ -1,0 +1,1 @@
+Istanbul Cover js files run by electron during jest or mocha tests

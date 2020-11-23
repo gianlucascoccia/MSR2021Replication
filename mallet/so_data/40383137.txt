@@ -1,0 +1,1 @@
+Webpack fails with Node FFI and Typescript - dynamic require error

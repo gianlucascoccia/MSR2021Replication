@@ -1,0 +1,1 @@
+Promise returns with 'undefined' or babel compiled code doesn't wait for return (async/await)

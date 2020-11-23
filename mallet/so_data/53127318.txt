@@ -1,0 +1,1 @@
+Why my ui thread is blocked even though i am using promise?

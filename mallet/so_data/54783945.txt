@@ -1,0 +1,1 @@
+Electron setTimeout returns number in renderer process instead of Timeout object

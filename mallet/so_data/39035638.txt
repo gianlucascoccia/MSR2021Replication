@@ -1,0 +1,1 @@
+Javascript const declaration with braces

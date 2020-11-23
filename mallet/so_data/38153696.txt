@@ -1,0 +1,1 @@
+Electron: Get current BrowserWindow ID from AngularJS controller

@@ -1,0 +1,1 @@
+Accessing webContents from within preload script in BrowserWindow

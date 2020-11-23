@@ -1,0 +1,1 @@
+electron linux app is not displaying the icon after built

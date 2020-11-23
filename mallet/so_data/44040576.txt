@@ -1,0 +1,1 @@
+Not getting desired output in electron app but getting the same in node CLI using same Nodejs file

@@ -1,0 +1,1 @@
+Enable Generic Sensor & Generic Sensor Extra Classes chrome flags

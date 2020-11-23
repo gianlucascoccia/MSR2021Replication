@@ -1,0 +1,1 @@
+angular 2 router.navigate doesn't work with electron IPC callback

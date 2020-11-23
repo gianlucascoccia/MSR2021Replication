@@ -1,0 +1,1 @@
+uncaught syntaxerror:unexpected token => in build index.html

@@ -1,0 +1,1 @@
+Trouble with codesigning NW.js app for MacOS

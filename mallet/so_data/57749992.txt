@@ -1,0 +1,1 @@
+Electron-Typescript-React renderer devtools source is showing in plaintext with sourcemaps

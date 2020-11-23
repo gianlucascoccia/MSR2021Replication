@@ -1,0 +1,1 @@
+Using electron-boilerplate to create an .exe for windows. It needs to run a .bat file. Once it's packaged, it doesn't run

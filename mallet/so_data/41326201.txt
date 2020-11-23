@@ -1,0 +1,1 @@
+Directions on porting my angular 2 app to electron

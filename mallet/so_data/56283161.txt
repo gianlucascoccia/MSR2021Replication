@@ -1,0 +1,1 @@
+No data after piping response stream

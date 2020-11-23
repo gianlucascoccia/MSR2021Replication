@@ -1,0 +1,1 @@
+How to convert a bitmap with javascript to an image?

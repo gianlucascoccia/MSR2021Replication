@@ -1,0 +1,1 @@
+Debug typescript electron program in vscode

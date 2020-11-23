@@ -1,0 +1,1 @@
+Does localStorage get reset when I recompile native modules?

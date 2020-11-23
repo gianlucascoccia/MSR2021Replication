@@ -1,0 +1,1 @@
+After installing appx created with electron-builder setting default electron icon to my installed app

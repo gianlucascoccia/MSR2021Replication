@@ -1,0 +1,1 @@
+Serialport module compiled against different node version

@@ -1,0 +1,1 @@
+Could not create Relay Container; graphql.js file appears to have webpack artifacts?

@@ -1,0 +1,1 @@
+building serialport.js with nw.gyp for nw.js

@@ -1,0 +1,1 @@
+Firebase Google Auth in Electron App gives "location.protocol" must be http, https

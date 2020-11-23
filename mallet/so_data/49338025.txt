@@ -1,0 +1,1 @@
+Angular route issue with new created electron-forge project

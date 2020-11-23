@@ -1,0 +1,1 @@
+Error at rebuild SQLite3 for a Electron app

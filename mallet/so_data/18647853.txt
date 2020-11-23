@@ -1,0 +1,1 @@
+Is there a way to package chrome apps using nodejs-webkit

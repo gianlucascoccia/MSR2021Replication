@@ -1,0 +1,1 @@
+How to open an electron app without opening a window

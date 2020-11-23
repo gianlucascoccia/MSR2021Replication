@@ -1,0 +1,1 @@
+rcedit.exe failed with exit code 193. wine: Bad EXE format

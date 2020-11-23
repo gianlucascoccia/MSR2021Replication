@@ -1,0 +1,1 @@
+AngularJS routing causing issues with server calls

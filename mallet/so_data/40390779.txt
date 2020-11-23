@@ -1,0 +1,1 @@
+Why does an Electron.js app respond slow to user inputs?

@@ -1,0 +1,1 @@
+Data is showing in controller and service but not showing in view

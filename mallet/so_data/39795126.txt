@@ -1,0 +1,1 @@
+How to set OverlayIcon on Electron windows app build for release with Squirrel.Windows

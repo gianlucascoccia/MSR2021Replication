@@ -1,0 +1,1 @@
+nw command linked with nanoc

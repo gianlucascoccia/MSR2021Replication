@@ -1,0 +1,1 @@
+No Angular change detection when communicating from IpcMain

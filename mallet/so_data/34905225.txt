@@ -1,0 +1,1 @@
+Can't open file dialog using Electron and Angular

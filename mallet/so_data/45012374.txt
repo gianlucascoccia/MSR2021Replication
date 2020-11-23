@@ -1,0 +1,1 @@
+call variable inside Nedb database in another function

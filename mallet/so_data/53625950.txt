@@ -1,0 +1,1 @@
+Doing workbook.xlsx.writeFile without page reload (refresh or restart) in Electron

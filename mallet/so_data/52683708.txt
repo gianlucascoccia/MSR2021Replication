@@ -1,0 +1,1 @@
+How do I parse large .xls files in an ElectronJS app in the background?

@@ -1,0 +1,1 @@
+Javascript syntax errors swallowed and hidden in async/await functions

@@ -1,0 +1,1 @@
+Save image blob-object to local filesystem Javascript

@@ -1,0 +1,1 @@
+Get value from server in client

@@ -1,0 +1,1 @@
+How to make electron display python print command data rather than waiting for entire program to finish

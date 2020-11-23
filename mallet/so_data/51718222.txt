@@ -1,0 +1,1 @@
+Microsoft Azure login fails in electron app

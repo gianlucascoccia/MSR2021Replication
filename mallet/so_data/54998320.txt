@@ -1,0 +1,1 @@
+how to print child window in nwjs

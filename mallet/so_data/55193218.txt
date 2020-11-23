@@ -1,0 +1,1 @@
+Can I use classes in native Node.js?

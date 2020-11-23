@@ -1,0 +1,1 @@
+CFBundleIdentifier Collision while uploading a macOS app developed with Electron and built with electron-builder

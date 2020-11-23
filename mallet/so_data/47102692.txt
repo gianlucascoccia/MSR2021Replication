@@ -1,0 +1,1 @@
+"Range out of order in character class" regex error in electron but not chrome

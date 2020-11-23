@@ -1,0 +1,1 @@
+iframe with local resource in Electron

@@ -1,0 +1,1 @@
+Scanning potentially large file for string in node/electron - cross-platform

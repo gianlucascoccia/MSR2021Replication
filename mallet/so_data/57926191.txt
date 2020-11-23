@@ -1,0 +1,1 @@
+Failed to install vue-cli-plugin-electron-builder

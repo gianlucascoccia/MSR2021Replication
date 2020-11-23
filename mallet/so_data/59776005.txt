@@ -1,0 +1,1 @@
+How to share state (react)between electron's multiple windows?

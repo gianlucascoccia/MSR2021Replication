@@ -1,0 +1,1 @@
+Testing Visual Studio Code Extension with Spectron - How to determine when VSCode is ready?

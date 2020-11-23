@@ -1,0 +1,1 @@
+Cant figure out how to get bootstrap table to work with electron renderer

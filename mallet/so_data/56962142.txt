@@ -1,0 +1,1 @@
+can't fetch local json file in electron-vue

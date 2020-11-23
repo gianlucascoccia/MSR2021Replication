@@ -1,0 +1,1 @@
+How can I avoid the automatic download of unsupported file format in electron <webview>

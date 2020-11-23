@@ -1,0 +1,1 @@
+Node-webkit: using the same codebase for web- and desktop application

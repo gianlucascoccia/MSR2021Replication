@@ -1,0 +1,1 @@
+How to embed a script in electron binary?

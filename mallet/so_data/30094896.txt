@@ -1,0 +1,1 @@
+Catch file download events in Electron app

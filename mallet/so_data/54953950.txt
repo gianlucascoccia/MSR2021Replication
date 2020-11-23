@@ -1,0 +1,1 @@
+Continuously running loop in ElectronJS/Angularapp without blocking renderer

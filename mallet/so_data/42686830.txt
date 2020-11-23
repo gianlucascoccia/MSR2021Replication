@@ -1,0 +1,1 @@
+electron js with python 3.6, print error on npm start, downgrade python?

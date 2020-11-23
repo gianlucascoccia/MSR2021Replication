@@ -1,0 +1,1 @@
+Electronjs ipcMain doesn't send message to ipcRenderer

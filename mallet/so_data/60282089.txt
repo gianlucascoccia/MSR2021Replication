@@ -1,0 +1,1 @@
+Multithreaded EXE not spawning all of its threads when ran using child_process spawn

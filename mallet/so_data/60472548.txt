@@ -1,0 +1,1 @@
+electron app crashed when I import a file

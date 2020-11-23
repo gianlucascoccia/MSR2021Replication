@@ -1,0 +1,1 @@
+electron webFrame.executeJavaScriptInIsolatedWorld is not a function

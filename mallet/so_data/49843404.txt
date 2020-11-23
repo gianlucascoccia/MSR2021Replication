@@ -1,0 +1,1 @@
+is there any way to send async messages to every renderer process in electron?

@@ -1,0 +1,1 @@
+Electron-Builder cannot build update for Windows

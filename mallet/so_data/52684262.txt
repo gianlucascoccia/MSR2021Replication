@@ -1,0 +1,1 @@
+Mathjax in an electron application

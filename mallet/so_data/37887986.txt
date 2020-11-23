@@ -1,0 +1,1 @@
+Amazon S3 javascript sdk for Browser throwing 403 error

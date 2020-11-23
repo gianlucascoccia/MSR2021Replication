@@ -1,0 +1,1 @@
+How to use embeded firebird database in electron.net using .net core

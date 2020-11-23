@@ -1,0 +1,1 @@
+I want to better write require() path in the Renderer process

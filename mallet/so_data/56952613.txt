@@ -1,0 +1,1 @@
+Is there a way to build an ElectronJS app executable for CentOS with all libraries embedded (without shared libraries)?

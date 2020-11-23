@@ -1,0 +1,1 @@
+How to detect that the Electron app is running for the first time?

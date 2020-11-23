@@ -1,0 +1,1 @@
+Prevent another app from reading password saved by Keytar

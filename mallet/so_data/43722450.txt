@@ -1,0 +1,1 @@
+Electron function to read a local file - FS - Not reading

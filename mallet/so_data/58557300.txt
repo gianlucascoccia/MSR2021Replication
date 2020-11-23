@@ -1,0 +1,1 @@
+Body that don't take the entire avaible space in an Electron app

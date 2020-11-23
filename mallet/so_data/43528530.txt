@@ -1,0 +1,1 @@
+Where is Electron (or Chrome) saving the zoom setting?

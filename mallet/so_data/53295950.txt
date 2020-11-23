@@ -1,0 +1,1 @@
+Electron builder Application name in programs list without version on windows

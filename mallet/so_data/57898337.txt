@@ -1,0 +1,1 @@
+How to manage your files in Electron app when packaging?

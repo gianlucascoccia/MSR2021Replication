@@ -1,0 +1,1 @@
+Electron bulder Unhandled rejection HttpError: 404 Not Found on private repo

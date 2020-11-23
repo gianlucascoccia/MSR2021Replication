@@ -1,0 +1,1 @@
+Swapping image src to a very large base64 encoded image causes whole window to freeze for a second or 2 (electron)

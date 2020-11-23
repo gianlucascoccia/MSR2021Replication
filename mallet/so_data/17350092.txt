@@ -1,0 +1,1 @@
+Can I drag a file out of a node-webkit app and drop it on the Desktop?

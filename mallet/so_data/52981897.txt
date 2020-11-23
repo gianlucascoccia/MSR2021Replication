@@ -1,0 +1,1 @@
+Error when initialising electron App using electron-forge with electron-compile and electron-squirrel-startup

@@ -1,0 +1,1 @@
+How to disable middle mouse click paste in Atom editor?

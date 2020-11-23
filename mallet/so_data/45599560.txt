@@ -1,0 +1,1 @@
+handle operating system restart and shutdown in electron by an API call before restart and shutdown

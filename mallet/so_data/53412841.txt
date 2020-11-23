@@ -1,0 +1,1 @@
+Adding electron application path to user environment variables after install

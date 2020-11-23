@@ -1,0 +1,1 @@
+Make electron app compatible with El Capitan

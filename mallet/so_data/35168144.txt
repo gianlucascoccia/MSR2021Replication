@@ -1,0 +1,1 @@
+How to have multiple evaluate methods run in nightmare.js?

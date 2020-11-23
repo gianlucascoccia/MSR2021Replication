@@ -1,0 +1,1 @@
+Load html in window , what the substitute for thus code ,it keep giving me security alert

@@ -1,0 +1,1 @@
+How do I use a type definition that is not exposed by the library but is implemented in the typing?

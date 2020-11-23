@@ -1,0 +1,1 @@
+Data from getBoundingClientRect is not correct after calling setZoomFactor in Electron

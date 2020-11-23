@@ -1,0 +1,1 @@
+Is there a solution for converting pre-built Angular2 apps to Electron.js?

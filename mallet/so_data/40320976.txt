@@ -1,0 +1,1 @@
+Attaching event emitter to socket.connected

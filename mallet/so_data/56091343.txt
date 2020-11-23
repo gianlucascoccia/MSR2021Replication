@@ -1,0 +1,1 @@
+TypeError: window.require is not a function

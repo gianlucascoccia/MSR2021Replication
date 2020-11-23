@@ -1,0 +1,1 @@
+Single e2e code base for both AngularJS and ElectronJS automated testing

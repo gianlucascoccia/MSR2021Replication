@@ -1,0 +1,1 @@
+Electron does not show the images not stored when compiling the application

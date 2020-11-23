@@ -1,0 +1,1 @@
+electron and node on windows, kill a spawned process

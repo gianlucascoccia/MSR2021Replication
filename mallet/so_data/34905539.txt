@@ -1,0 +1,1 @@
+Electron's BrowserWindow zoomFactor can be changed after construction? and how to choose nearest neighbor instead of smoothing?

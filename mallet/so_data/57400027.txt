@@ -1,0 +1,1 @@
+ZeroMQ Rebuild for Electron 5.1.0 fails with error MSB4019: The imported project "C:\Microsoft.Cpp.Default.props" was not found

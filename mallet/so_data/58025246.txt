@@ -1,0 +1,1 @@
+Packaging an executable binary with angular-electron

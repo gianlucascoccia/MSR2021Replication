@@ -1,0 +1,1 @@
+Test on Bluetooth status on OSX (Active or Not) using JS or TS or electron

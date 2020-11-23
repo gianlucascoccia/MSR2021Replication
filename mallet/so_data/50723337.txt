@@ -1,0 +1,1 @@
+Can You Dynamically Create A IMG element, and access it with document.GetElementById(name);

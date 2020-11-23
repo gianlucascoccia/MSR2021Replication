@@ -1,0 +1,1 @@
+Node-hid Module did not self-register on webworker

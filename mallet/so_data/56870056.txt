@@ -1,0 +1,1 @@
+Angular Service Worker: Request scheme 'chrome-extension' is unsupported

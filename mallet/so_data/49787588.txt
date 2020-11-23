@@ -1,0 +1,1 @@
+How to natively show the Save Changes Dialog when closing an Electron app?

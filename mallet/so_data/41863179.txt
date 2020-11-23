@@ -1,0 +1,1 @@
+Setting transparent property on an already created window in electron

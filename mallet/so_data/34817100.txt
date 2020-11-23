@@ -1,0 +1,1 @@
+Autoinstall modules when running the Node Webkit build

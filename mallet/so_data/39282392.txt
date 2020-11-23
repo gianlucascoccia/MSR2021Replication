@@ -1,0 +1,1 @@
+Electron process in multithread doesn't close after error

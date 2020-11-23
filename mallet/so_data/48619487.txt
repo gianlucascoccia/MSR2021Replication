@@ -1,0 +1,1 @@
+Fetch API cannot load in Electron

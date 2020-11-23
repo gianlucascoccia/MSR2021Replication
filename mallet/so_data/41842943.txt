@@ -1,0 +1,1 @@
+Get DOM javascript variable from Node.JS in Electron

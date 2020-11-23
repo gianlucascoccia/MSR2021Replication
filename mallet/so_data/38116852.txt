@@ -1,0 +1,1 @@
+Local Electron solution for basic CRUD operations

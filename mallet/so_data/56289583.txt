@@ -1,0 +1,1 @@
+How does IPCRenderer.send() serialize data to JSON?

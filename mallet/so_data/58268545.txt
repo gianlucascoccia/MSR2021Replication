@@ -1,0 +1,1 @@
+ssh2-sftp-client get() request giving 'denied permission - error'

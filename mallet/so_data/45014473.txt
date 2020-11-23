@@ -1,0 +1,1 @@
+Electron: Minimize the application when launched after computer is restarted

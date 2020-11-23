@@ -1,0 +1,1 @@
+Running Angular app (with router) without a server

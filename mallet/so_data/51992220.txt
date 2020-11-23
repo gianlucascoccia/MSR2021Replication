@@ -1,0 +1,1 @@
+Issue running a child process from an electron app using spawn method

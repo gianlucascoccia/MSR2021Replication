@@ -1,0 +1,1 @@
+Why electron application after building package and installation on Windows OS removes aria-attributes

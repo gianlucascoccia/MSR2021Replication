@@ -1,0 +1,1 @@
+Implementing an as-you-type spell checker UI for type.js

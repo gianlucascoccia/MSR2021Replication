@@ -1,0 +1,1 @@
+Copy file to clipboard Node.JS

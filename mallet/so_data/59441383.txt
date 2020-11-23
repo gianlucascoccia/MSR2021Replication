@@ -1,0 +1,1 @@
+Electron app crashes when I sign it on mac

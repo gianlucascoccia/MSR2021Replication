@@ -1,0 +1,1 @@
+How to launch the new app from node-webkit app

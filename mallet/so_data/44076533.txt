@@ -1,0 +1,1 @@
+Images Rendered to Canvas in Node Webkit are Blurry

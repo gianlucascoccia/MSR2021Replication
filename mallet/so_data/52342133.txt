@@ -1,0 +1,1 @@
+electron-vue: store properties set but not rendering (VUEX)

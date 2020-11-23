@@ -1,0 +1,1 @@
+Do you know any minimum version of an electron that can work on catalina?

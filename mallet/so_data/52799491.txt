@@ -1,0 +1,1 @@
+How to open multiple window in electron using electron-window-manager

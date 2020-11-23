@@ -1,0 +1,1 @@
+electron package with alternative package.json?

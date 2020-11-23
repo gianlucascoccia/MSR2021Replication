@@ -1,0 +1,1 @@
+Apple no longer accepts submissions of apps that use QuickTime or QTKit APIs of Electron App

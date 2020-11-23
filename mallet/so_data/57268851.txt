@@ -1,0 +1,1 @@
+Can we automate Electron app with protractor?

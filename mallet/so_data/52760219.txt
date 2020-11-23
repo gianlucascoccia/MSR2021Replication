@@ -1,0 +1,1 @@
+Use AudioWorklet within electron (DOMException: The user aborted a request)

@@ -1,0 +1,1 @@
+Drop file into app and copy that file to a folder

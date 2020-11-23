@@ -1,0 +1,1 @@
+How to make Browser Window draggable?

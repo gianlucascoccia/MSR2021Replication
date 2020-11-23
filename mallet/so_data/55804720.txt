@@ -1,0 +1,1 @@
+File upload error in easy-ftp with electron & node.js app

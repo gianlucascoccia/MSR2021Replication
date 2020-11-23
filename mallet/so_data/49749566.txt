@@ -1,0 +1,1 @@
+How to run multiple instances of webpack electron application

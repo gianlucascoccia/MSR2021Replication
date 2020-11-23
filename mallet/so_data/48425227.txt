@@ -1,0 +1,1 @@
+White page when changing route in Angular 5 + ElectronJS

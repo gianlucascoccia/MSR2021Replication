@@ -1,0 +1,1 @@
+When I install electron on mac i have got permission denied message

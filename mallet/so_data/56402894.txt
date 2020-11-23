@@ -1,0 +1,1 @@
+Can't get SWF file to run. Get's stuck at please "Right click click to run adobe flash player"

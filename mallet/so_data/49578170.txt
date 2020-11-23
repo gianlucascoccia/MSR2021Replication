@@ -1,0 +1,1 @@
+Electron app performance: blocking thread with ipcRenderer.sendSync

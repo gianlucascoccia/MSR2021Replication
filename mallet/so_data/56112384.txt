@@ -1,0 +1,1 @@
+how to generate node.lib for native c++ addon (just like the library used in node-gyp) when build electron from source code

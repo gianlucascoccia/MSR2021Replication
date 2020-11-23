@@ -1,0 +1,1 @@
+create custom page, after the install is complete

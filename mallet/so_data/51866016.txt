@@ -1,0 +1,1 @@
+Electron - Where does logging go?

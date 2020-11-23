@@ -1,0 +1,1 @@
+Where do I find a find list of Node substitution variables?

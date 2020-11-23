@@ -1,0 +1,1 @@
+Killing a spawned electron instance

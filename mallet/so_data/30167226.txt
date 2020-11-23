@@ -1,0 +1,1 @@
+How to protect source code in electron project

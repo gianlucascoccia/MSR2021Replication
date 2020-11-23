@@ -1,0 +1,1 @@
+how to create deb or exe file of angular electron app

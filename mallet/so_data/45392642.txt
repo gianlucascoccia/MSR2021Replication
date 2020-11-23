@@ -1,0 +1,1 @@
+How to add folders and files to electron build using electron-builder

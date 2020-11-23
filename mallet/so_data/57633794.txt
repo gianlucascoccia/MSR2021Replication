@@ -1,0 +1,1 @@
+Send command to customer pole display COM2 using Serialport nodejs module

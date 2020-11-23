@@ -1,0 +1,1 @@
+Electron Builder Vue cli 3 application on Windows throwing error registerStandardSchemes undefined

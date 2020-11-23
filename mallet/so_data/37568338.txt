@@ -1,0 +1,1 @@
+How to align two windows side by side in nw.js?

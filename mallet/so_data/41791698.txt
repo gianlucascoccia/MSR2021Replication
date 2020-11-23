@@ -1,0 +1,1 @@
+After building app using electron-packager the javascript can't find images

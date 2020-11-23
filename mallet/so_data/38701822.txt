@@ -1,0 +1,1 @@
+Get Mac logged in user email in Electron Application

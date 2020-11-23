@@ -1,0 +1,1 @@
+How to disable touch-pad without typing AutoHotKey?

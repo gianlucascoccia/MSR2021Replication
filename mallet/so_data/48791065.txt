@@ -1,0 +1,1 @@
+Uncompressed, unencrypted, unaltered, raw transfer of real-time PCM audio data through WebRTC stream

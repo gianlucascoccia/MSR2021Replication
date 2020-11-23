@@ -1,0 +1,1 @@
+Download a JSON behind a login page with nightmare

@@ -1,0 +1,1 @@
+Angularjs in Node-Webkit function lose $scope

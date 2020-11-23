@@ -1,0 +1,1 @@
+How to debug an electron app packaged with squirrel that won't start on some computers

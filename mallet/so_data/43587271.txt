@@ -1,0 +1,1 @@
+Windows 'start' command not executing with child_process.exec in VS Code plugin

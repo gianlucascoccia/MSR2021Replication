@@ -1,0 +1,1 @@
+how to add two textfiled and one button in electron Dialog box

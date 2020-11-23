@@ -1,0 +1,1 @@
+electron event.returnValue returns mongo document _id as a bson object instead of a objectid

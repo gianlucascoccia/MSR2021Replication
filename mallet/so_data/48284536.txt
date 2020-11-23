@@ -1,0 +1,1 @@
+flashFrame: false on Electron app don't work

@@ -1,0 +1,1 @@
+Context menu to delete foo inside a Table

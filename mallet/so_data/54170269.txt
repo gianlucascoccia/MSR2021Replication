@@ -1,0 +1,1 @@
+Electron and macOS: how to customize the 'About <app>' display panel that pops up when user clicks the 'About <app>' menuItem?

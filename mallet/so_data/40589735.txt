@@ -1,0 +1,1 @@
+Electron - Tidy Up Packaged App Folder

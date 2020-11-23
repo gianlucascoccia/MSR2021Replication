@@ -1,0 +1,1 @@
+how to create exe package of angular electron app

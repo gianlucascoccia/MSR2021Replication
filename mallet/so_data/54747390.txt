@@ -1,0 +1,1 @@
+Is there any way for me to run a nodejs application as a server and it communicate with deployed electron applications?

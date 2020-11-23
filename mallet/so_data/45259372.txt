@@ -1,0 +1,1 @@
+Trying to send data from one electron window to another via ipc

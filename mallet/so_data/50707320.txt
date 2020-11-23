@@ -1,0 +1,1 @@
+Semi-automated NightmareJS -> ability to view/interact with Electron browser window on Lambda

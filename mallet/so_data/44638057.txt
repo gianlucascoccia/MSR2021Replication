@@ -1,0 +1,1 @@
+"clearTimeout is not defined" in tsc.js

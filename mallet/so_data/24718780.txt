@@ -1,0 +1,1 @@
+Screen reader can't read content on node-webkit app

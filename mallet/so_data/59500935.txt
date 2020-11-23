@@ -1,0 +1,1 @@
+Check microphone permission status for windows platform in electron

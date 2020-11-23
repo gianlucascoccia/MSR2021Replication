@@ -1,0 +1,1 @@
+Print output log from folder watcher to browser window using Electron

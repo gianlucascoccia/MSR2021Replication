@@ -1,0 +1,1 @@
+Compiling a Node.js (github action) into a single file using `@zeit/ncc`

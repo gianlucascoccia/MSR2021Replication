@@ -1,0 +1,1 @@
+How to open Electron-based application using Nightwatch framework?

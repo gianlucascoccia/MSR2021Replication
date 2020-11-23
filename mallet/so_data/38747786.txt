@@ -1,0 +1,1 @@
+Do i need to setup a server to use spotifys authorization code flow?

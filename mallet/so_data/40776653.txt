@@ -1,0 +1,1 @@
+electron menu accelerator not working

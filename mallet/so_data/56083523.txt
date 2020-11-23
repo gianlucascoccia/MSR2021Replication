@@ -1,0 +1,1 @@
+Electron.js app freezes after an hour unused

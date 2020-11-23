@@ -1,0 +1,1 @@
+How can I rebuild zeromq.js bindings for electron version 4.1.4?

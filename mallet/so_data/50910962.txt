@@ -1,0 +1,1 @@
+Audio recorded with Web Audio API is truncated at the beginning

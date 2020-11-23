@@ -1,0 +1,1 @@
+Bootstrap doesn't detect JQuery unless I import it from url

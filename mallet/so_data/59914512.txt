@@ -1,0 +1,1 @@
+Cross-platform way to get permissions to write files on Electron

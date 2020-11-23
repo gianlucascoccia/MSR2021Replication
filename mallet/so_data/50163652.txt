@@ -1,0 +1,1 @@
+Calling an object in main.js from a module in Electron

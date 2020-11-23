@@ -1,0 +1,1 @@
+Setting platform dependant icon via electron-forge electronPackagerConfig

@@ -1,0 +1,1 @@
+node-serialport does not work with Electron

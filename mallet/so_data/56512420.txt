@@ -1,0 +1,1 @@
+Error TypeError: roadHouse.isRunning is not a function when using custom TypeScript class

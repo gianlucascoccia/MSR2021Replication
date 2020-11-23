@@ -1,0 +1,1 @@
+Electron frameless Browser Window does not completely remove entire frame/title bar on Mac

@@ -1,0 +1,1 @@
+How to active another application window when electron's window hide

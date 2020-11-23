@@ -1,0 +1,1 @@
+Will an Electron based app pass system wide nodejs environment variables?

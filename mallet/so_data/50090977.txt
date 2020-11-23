@@ -1,0 +1,1 @@
+how to get a Network Panel show up when debugging Electron/Node applications

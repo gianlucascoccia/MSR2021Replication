@@ -1,0 +1,1 @@
+Your profile cannot be used because it is from a newer version of NW.js

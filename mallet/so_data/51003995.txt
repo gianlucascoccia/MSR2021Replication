@@ -1,0 +1,1 @@
+How can I test electron-builder auto-update flow?

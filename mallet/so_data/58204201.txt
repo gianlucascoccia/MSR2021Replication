@@ -1,0 +1,1 @@
+Open MacOS Terminal window and execute command

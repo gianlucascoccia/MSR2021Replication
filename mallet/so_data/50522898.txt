@@ -1,0 +1,1 @@
+NW.js how to show the file path and toolbar on window?

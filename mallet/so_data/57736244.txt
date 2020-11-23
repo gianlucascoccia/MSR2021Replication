@@ -1,0 +1,1 @@
+Electron app with the embedded SQLite database, multiple users, authentication and authorization

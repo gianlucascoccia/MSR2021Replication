@@ -1,0 +1,1 @@
+window.close() stops working in node-webkit after navigating away from the main html

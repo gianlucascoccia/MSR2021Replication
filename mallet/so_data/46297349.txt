@@ -1,0 +1,1 @@
+Using vanilla javascript library with electron/typescript

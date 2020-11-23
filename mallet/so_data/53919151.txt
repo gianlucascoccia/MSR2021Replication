@@ -1,0 +1,1 @@
+Why can electron app be published on MAC App Store?

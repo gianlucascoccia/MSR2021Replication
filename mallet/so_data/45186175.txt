@@ -1,0 +1,1 @@
+Extend the response time of http request in electron

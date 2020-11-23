@@ -1,0 +1,1 @@
+Best way to use lokijs with angular2 and electron

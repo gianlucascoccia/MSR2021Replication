@@ -1,0 +1,1 @@
+Is it possible to build Electron Apps on Mac Pro? Doesn't seem like it due to Bizarre GPU issue

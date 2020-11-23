@@ -1,0 +1,1 @@
+Accessing file properties in nw.js

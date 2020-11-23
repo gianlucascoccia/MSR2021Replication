@@ -1,0 +1,1 @@
+NW/Node Webkit - Image decodes even if it is already visible

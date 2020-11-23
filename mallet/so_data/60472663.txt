@@ -1,0 +1,1 @@
+how to stream input/mic audio in Node Js without SOX or Navigator.getUserMedia()

@@ -1,0 +1,1 @@
+How can use Node module to get idle time from an electron app?

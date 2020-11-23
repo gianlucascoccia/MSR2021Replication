@@ -1,0 +1,1 @@
+include external simple node module in node-webkit

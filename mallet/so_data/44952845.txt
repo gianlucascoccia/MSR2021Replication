@@ -1,0 +1,1 @@
+using shell.openItem() to open a file in an asar archive

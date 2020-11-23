@@ -1,0 +1,1 @@
+Access GPS location of Windows Tab in Electron + React App

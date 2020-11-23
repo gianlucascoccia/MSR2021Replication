@@ -1,0 +1,1 @@
+How to test with cross-origin data in node-webkit?

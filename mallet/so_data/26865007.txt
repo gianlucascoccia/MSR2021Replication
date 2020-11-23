@@ -1,0 +1,1 @@
+How can I open data:image in browser from node-webkit app?

@@ -1,0 +1,1 @@
+my app electron doesn't recognize data from localstorage

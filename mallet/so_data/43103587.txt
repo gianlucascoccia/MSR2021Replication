@@ -1,0 +1,1 @@
+electron, after browserify, fs.existsSync is not a function

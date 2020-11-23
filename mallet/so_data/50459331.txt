@@ -1,0 +1,1 @@
+React build on electron appimage not showing static images

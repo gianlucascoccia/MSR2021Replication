@@ -1,0 +1,1 @@
+jQuery find element :contains, then get class

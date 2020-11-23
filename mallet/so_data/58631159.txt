@@ -1,0 +1,1 @@
+Electron : using showOpenDialog allows files to be chosen on Linux & Win10 but why can't I choose file on MacOS?

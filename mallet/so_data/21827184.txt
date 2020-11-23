@@ -1,0 +1,1 @@
+How do I package a node web-kit app for publishing in mac app store?

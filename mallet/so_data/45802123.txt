@@ -1,0 +1,1 @@
+React - Can't access refs in stateful component event handler

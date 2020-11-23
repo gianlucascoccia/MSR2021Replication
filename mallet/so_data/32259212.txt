@@ -1,0 +1,1 @@
+Add menu item in nw.js doesn't show up on Windows

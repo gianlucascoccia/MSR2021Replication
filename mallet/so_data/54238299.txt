@@ -1,0 +1,1 @@
+Electron session webrequest function in a renderer window that has been closed or released

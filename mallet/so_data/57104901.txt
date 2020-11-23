@@ -1,0 +1,1 @@
+How to Get JSON Values and save them in another file in js

@@ -1,0 +1,1 @@
+how to write file with node webkit js?

@@ -1,0 +1,1 @@
+How do I preserve a COM connection across webpages? (Electron)

@@ -1,0 +1,1 @@
+Electron - Subpixel antialiasing does not work

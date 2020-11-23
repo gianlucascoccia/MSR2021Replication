@@ -1,0 +1,1 @@
+option force_s3tc_enable overridden by environment

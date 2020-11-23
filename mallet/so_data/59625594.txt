@@ -1,0 +1,1 @@
+node-windows permission Denied - and not requesting rights after compiling?

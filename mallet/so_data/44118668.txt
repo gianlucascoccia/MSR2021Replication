@@ -1,0 +1,1 @@
+Electron Builder; changed name of app, auto updates failing

@@ -1,0 +1,1 @@
+Check if folder exists in renderer process using Electron, React

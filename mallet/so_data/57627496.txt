@@ -1,0 +1,1 @@
+How can we Remove the AppData of an electron msi Application when we uninstall it ?(using electron-builder)

@@ -1,0 +1,1 @@
+In electron 4.0.1 how do you hide the menu bar under linux

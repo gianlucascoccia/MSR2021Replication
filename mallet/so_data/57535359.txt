@@ -1,0 +1,1 @@
+Would I be able to give access to specific electron APIs safely?

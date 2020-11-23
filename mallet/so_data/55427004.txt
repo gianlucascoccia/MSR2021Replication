@@ -1,0 +1,1 @@
+Singleton redux store for Angular Electron app

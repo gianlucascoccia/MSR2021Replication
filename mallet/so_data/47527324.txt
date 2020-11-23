@@ -1,0 +1,1 @@
+How to start electron desktop application as Administrator

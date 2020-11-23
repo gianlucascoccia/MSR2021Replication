@@ -1,0 +1,1 @@
+Node native add-on, dependent on V8

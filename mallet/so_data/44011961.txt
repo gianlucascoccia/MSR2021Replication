@@ -1,0 +1,1 @@
+Pass TypeScript object to Window in Electron app

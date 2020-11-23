@@ -1,0 +1,1 @@
+HTML/Javascript: Detect when draggable element is NOT dropped

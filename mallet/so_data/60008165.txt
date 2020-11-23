@@ -1,0 +1,1 @@
+For Electron app that spawns node subprocesses, subprocess aren't getting Full Disk Access

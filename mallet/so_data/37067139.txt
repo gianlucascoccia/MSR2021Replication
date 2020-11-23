@@ -1,0 +1,1 @@
+Node-Webkit: What authentication method should I use to authenticate user from google account

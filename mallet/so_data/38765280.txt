@@ -1,0 +1,1 @@
+Building electron app fails with Electron packager and electron builder

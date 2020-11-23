@@ -1,0 +1,1 @@
+How to use require('xyz") in Ionic2 typescript

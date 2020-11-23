@@ -1,0 +1,1 @@
+Portable electron app is extracted in a different folder every time it opens

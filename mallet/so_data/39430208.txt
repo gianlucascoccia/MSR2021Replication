@@ -1,0 +1,1 @@
+[Electron][OSX] Always show the tray icon

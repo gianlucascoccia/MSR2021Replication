@@ -1,0 +1,1 @@
+sharing a global var through vue and electron

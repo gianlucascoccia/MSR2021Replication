@@ -1,0 +1,1 @@
+Should I use Angular for a local only NW.js project?

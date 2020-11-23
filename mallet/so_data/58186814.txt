@@ -1,0 +1,1 @@
+How to know the reason could not load libpepflashplayer.so in an electron App

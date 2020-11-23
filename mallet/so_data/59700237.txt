@@ -1,0 +1,1 @@
+Delete cache every time reloads the page. (Electron)

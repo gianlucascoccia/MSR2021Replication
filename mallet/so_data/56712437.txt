@@ -1,0 +1,1 @@
+How to debug Quasar Electron App with VS Code

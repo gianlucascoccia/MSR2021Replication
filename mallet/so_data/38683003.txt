@@ -1,0 +1,1 @@
+Configure hapi, typescript, webpack, angular2 for electron

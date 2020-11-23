@@ -1,0 +1,1 @@
+use inetc plugin for nsis with electron builder

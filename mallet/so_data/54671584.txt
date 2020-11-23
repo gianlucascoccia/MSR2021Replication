@@ -1,0 +1,1 @@
+Change desktop app icons on mac, programatically. 2019

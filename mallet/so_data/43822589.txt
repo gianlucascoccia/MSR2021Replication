@@ -1,0 +1,1 @@
+react-router v4 - browserHistory is undefined

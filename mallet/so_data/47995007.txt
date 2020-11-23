@@ -1,0 +1,1 @@
+I can't reinstall or update Electron package

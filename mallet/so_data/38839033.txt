@@ -1,0 +1,1 @@
+Electron app doesn't print when using silence:true in linux

@@ -1,0 +1,1 @@
+How do i install spectron and start scripting on it?

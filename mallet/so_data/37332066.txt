@@ -1,0 +1,1 @@
+When I download my validly codesigned app from a browser, it says it's damaged

@@ -1,0 +1,1 @@
+How can I stop an Electron app from restarting itself after using app.relaunch?

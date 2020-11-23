@@ -1,0 +1,1 @@
+'Unknown stdin file type' error in windows

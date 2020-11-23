@@ -1,0 +1,1 @@
+Why is ctrlKey's behaviour so weird?

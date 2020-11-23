@@ -1,0 +1,1 @@
+Increase/Expand height of the electron window on button click

@@ -1,0 +1,1 @@
+Node webkit: How to open external link with system default browser in MAC

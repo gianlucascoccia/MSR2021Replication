@@ -1,0 +1,1 @@
+Does NeDB use the disk to do find queries?

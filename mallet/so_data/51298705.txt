@@ -1,0 +1,1 @@
+Saving Auth token in localStorage (React + ROR)

@@ -1,0 +1,1 @@
+In electronjs , what is the advantage of using child_process.fork in Main Process then in Renderer Process

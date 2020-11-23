@@ -1,0 +1,1 @@
+Error on adding winston log to electron angular application

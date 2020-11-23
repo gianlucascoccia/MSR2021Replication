@@ -1,0 +1,1 @@
+What's the best way to test an electron application that only uses inline svg (one single svg file containing all buttons) for interactions?

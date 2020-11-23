@@ -1,0 +1,1 @@
+How to make a widget using electron that sticks to bottom and is still usable

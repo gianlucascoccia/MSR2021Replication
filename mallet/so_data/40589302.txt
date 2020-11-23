@@ -1,0 +1,1 @@
+How to enable file upload on React's Material UI simple input?

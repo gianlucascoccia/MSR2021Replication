@@ -1,0 +1,1 @@
+Why am I unable to send JSON data to the ipcRenderer

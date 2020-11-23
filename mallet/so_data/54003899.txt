@@ -1,0 +1,1 @@
+JS: electron use fs.readSync in render process

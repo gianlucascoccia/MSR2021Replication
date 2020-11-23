@@ -1,0 +1,1 @@
+NW.js - check if confirm window has focus

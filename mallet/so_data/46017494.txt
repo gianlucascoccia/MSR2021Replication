@@ -1,0 +1,1 @@
+HTTP Requests before Electron application show any window

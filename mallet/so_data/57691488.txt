@@ -1,0 +1,1 @@
+Running python-shell from ElectronJS script

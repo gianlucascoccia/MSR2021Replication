@@ -1,0 +1,1 @@
+angularjs ng-route. not work templateUrl

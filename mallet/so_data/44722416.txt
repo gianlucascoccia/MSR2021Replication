@@ -1,0 +1,1 @@
+First approach for an electron chat application

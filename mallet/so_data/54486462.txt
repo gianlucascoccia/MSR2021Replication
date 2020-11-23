@@ -1,0 +1,1 @@
+Can Electron's spellCheckHandler be used to arbitrarily flag substrings in a textarea?

@@ -1,0 +1,1 @@
+Building electron app on ubuntu fails with 'Permission denied'

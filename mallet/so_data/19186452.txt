@@ -1,0 +1,1 @@
+node-webkit crashes when I create an ArrayBuffer inside c++ add-on

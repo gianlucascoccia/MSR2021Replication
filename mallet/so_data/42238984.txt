@@ -1,0 +1,1 @@
+Uncaught TypeError: this.method is not a function - Node js class export

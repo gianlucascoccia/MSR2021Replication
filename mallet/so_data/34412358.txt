@@ -1,0 +1,1 @@
+node webkit doesn't launch with '#' in folder name

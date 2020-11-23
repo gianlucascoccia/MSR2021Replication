@@ -1,0 +1,1 @@
+Electron: How do I get the selected text from a focused window?

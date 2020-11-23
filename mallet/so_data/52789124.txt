@@ -1,0 +1,1 @@
+Electron get internet connection type

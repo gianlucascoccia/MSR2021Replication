@@ -1,0 +1,1 @@
+Inlcuding another .app in an objective c application

@@ -1,0 +1,1 @@
+Cannot access Angular $scope variable implemented inside Electron ipcRenderer

@@ -1,0 +1,1 @@
+How to limit copying from electron app to certain word length?

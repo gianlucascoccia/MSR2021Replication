@@ -1,0 +1,1 @@
+Windows 10, existing binding.node file cannot be found when running jest

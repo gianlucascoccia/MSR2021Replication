@@ -1,0 +1,1 @@
+array.length is zero, but the array has elements in it

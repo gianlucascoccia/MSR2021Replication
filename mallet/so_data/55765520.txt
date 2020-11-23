@@ -1,0 +1,1 @@
+Getting "Uncaught reference error: $ is not defined" - scripts are loading in correct order - and works from console

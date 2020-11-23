@@ -1,0 +1,1 @@
+angular, how to combine modules

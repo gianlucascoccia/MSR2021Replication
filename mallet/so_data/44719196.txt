@@ -1,0 +1,1 @@
+Using Electron / Node.js, how can I detect all installed browsers on macOS?

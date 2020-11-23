@@ -1,0 +1,1 @@
+Golden Layout not calling React.Component.render

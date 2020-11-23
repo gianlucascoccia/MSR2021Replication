@@ -1,0 +1,1 @@
+NPM cannot install module, permission denied with mkdir

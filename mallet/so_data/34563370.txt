@@ -1,0 +1,1 @@
+How do I access the scraped data from node module in my html code in NodeWebkit

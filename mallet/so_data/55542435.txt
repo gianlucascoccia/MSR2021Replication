@@ -1,0 +1,1 @@
+Can't get displayName in the Electron

@@ -1,0 +1,1 @@
+require() not working for node-webkit 6.0

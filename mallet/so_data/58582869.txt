@@ -1,0 +1,1 @@
+electron: how to test a MAS package before submitting to the apple store?

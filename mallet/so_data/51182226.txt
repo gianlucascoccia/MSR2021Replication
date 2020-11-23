@@ -1,0 +1,1 @@
+electron-builder is not bundling the python files

@@ -1,0 +1,1 @@
+Is it possible to distribute a NWJS app as a single exe-file?

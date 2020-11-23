@@ -1,0 +1,1 @@
+tray icon doesn't close immediately on app.quit in electron

@@ -1,0 +1,1 @@
+How to display value from a Javascript function onto an HTML page?

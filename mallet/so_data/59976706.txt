@@ -1,0 +1,1 @@
+Required is not defined, when using electron, how do I fix it? (already tried nodeintegration)

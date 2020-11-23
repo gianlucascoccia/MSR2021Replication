@@ -1,0 +1,1 @@
+Does a spawned process inherit the parents buffering setting?

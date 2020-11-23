@@ -1,0 +1,1 @@
+How can I gain root access and use disk usage (du) from electron's main process?

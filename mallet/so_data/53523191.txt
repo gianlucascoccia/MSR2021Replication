@@ -1,0 +1,1 @@
+How to use Electron menu to execute angular 7 navigation

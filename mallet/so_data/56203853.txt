@@ -1,0 +1,1 @@
+I want to communicate between a client and a server to notify the user that their app is out of date like steam

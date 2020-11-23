@@ -1,0 +1,1 @@
+Importing @pokusew/pcsclite in Angular2/Electron throws TypeError

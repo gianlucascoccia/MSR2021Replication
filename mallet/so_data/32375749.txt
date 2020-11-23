@@ -1,0 +1,1 @@
+how to call a child component from parent component in electron-es6-react

@@ -1,0 +1,1 @@
+Angular reading the value of a js function as undefined, even when the object has value

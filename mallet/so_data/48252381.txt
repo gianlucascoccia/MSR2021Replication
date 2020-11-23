@@ -1,0 +1,1 @@
+Firebase with Electron, How to secure host?

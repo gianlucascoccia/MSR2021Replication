@@ -1,0 +1,1 @@
+Regex pattern to ignore multiple folders

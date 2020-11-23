@@ -1,0 +1,1 @@
+Missing icudt.dll when building nwjs in Release_x64

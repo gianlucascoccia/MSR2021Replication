@@ -1,0 +1,1 @@
+how to convert the electron app into single packager installer(only executable) in linux?

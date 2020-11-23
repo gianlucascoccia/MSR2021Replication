@@ -1,0 +1,1 @@
+Electron how to show loading spinner while loading page in BrowserWindow

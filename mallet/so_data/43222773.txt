@@ -1,0 +1,1 @@
+Get React.js component by name or something

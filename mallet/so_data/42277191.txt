@@ -1,0 +1,1 @@
+Add NSIS script with electron builder to run DPInst.exe during install

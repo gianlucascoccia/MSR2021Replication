@@ -1,0 +1,1 @@
+Node.js spawn child process and get terminal output to log realtime

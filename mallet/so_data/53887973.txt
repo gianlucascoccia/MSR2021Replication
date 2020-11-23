@@ -1,0 +1,1 @@
+Audio.play() rejected with NotSupportedError inside Electron webview

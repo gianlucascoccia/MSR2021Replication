@@ -1,0 +1,1 @@
+Can you only spawn child processes from the main script (e.g. app.js) in an Electron app?

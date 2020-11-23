@@ -1,0 +1,1 @@
+Async callback with Electron+Vue and nodeffi

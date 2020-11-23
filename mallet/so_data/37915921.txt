@@ -1,0 +1,1 @@
+Electron app - Invoke loadURL function with another html page after some time interval

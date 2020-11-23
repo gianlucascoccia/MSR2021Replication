@@ -1,0 +1,1 @@
+Open a standard link in electron from a remote web app

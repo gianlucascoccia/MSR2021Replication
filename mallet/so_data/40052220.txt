@@ -1,0 +1,1 @@
+Recursive method call on es2015 class method transpiled with babel

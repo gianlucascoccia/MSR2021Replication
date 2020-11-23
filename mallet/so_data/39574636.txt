@@ -1,0 +1,1 @@
+Prompt to save / quit before closing window

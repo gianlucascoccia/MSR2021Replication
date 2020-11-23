@@ -1,0 +1,1 @@
+Angular2 and electron accessing browserWindwow object

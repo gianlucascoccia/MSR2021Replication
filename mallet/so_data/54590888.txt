@@ -1,0 +1,1 @@
+Faster alternatives for Electron's IPC module

@@ -1,0 +1,1 @@
+Dialog box minimizes on clicking elsewhere in the main window

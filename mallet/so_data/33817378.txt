@@ -1,0 +1,1 @@
+Unhide the menu bar for app after compiled with electron-packager

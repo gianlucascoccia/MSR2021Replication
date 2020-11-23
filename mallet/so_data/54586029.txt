@@ -1,0 +1,1 @@
+Try to call function inside controller in react component

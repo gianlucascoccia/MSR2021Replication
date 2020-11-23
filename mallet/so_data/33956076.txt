@@ -1,0 +1,1 @@
+Clearing font cache in Electron app

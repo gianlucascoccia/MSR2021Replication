@@ -1,0 +1,1 @@
+silent print is not working [ Electron JS ]

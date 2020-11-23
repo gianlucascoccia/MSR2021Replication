@@ -1,0 +1,1 @@
+NodeJS: Cannot read property 'hide' of undefined

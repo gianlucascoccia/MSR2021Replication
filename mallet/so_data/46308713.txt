@@ -1,0 +1,1 @@
+Best practice to load settings to the web application

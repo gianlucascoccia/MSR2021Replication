@@ -1,0 +1,1 @@
+node-webkit MySQL connection Error - ER_HANDSHAKE_ERROR: Bad handshake

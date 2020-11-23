@@ -1,0 +1,1 @@
+Should electron-packager distribution files be included in version control?

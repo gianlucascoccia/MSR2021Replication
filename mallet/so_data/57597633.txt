@@ -1,0 +1,1 @@
+`electron-builder` failed with code signing error in mac

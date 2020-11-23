@@ -1,0 +1,1 @@
+I am able to read COM from Electron using Winax package. Is it possible to read COM from ReactJs using Winax?

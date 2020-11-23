@@ -1,0 +1,1 @@
+electron build single exe file

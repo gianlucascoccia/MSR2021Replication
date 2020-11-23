@@ -1,0 +1,1 @@
+How can I return a value from NeDB find query instead of undefined

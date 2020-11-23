@@ -1,0 +1,1 @@
+AngularJs With Electron Close Application Clear All localStorage

@@ -1,0 +1,1 @@
+How can I check if the database was updated or not to send mail

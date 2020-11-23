@@ -1,0 +1,1 @@
+How can i achieve local persistence in my electron app?

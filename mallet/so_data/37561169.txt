@@ -1,0 +1,1 @@
+How does oauth2 redirect url work for desktop applications?

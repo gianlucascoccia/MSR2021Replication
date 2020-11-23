@@ -1,0 +1,1 @@
+"null" value when inserting data in a database

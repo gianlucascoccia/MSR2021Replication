@@ -1,0 +1,1 @@
+Parameter 'event' implicitly has an 'any' type.ts(7006)

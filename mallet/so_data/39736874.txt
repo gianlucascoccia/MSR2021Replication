@@ -1,0 +1,1 @@
+Uncaught Exception: ReferenceError: debug is not defined

@@ -1,0 +1,1 @@
+node-webkit not minimizing to tray if window.location.href is set

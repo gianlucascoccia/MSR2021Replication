@@ -1,0 +1,1 @@
+How can I check why my electron processes are getting killed by Windows?

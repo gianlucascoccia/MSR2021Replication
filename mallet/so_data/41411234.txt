@@ -1,0 +1,1 @@
+electron packager returns an error - command failed npm prune --production

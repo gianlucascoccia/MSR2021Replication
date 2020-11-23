@@ -1,0 +1,1 @@
+Setting up eslint for testcafe in neovim

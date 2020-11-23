@@ -1,0 +1,1 @@
+NeDB updates but removes fields that wasn't updated, why?

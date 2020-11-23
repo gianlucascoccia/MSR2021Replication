@@ -1,0 +1,1 @@
+How can I blur other windows and not the electron window?

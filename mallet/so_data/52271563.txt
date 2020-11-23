@@ -1,0 +1,1 @@
+setting global variable in ipcRenderer.on eventhandler running ionic on electron does not work

@@ -1,0 +1,1 @@
+App threw an error when running [SyntaxError: Unexpected token import]

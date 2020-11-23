@@ -1,0 +1,1 @@
+How can I reduce a collection by keeping only change points?

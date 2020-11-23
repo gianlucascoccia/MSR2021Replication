@@ -1,0 +1,1 @@
+Passing "this" as a context to a module?

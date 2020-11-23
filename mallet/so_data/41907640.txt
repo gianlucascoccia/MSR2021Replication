@@ -1,0 +1,1 @@
+how to create electron desktop app with existing angular2 project

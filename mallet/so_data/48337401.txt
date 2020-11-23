@@ -1,0 +1,1 @@
+Unable to test better-sqlite3 within a project based on electron-vue boilerplate

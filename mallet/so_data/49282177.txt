@@ -1,0 +1,1 @@
+I have a webrtc based screen sharing for cross domain . Its running perfectly in web but when i convert it to electron it stops working

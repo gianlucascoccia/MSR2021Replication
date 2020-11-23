@@ -1,0 +1,1 @@
+How to enable chrome:webrtc-internals in electron to download webrtc getstats files

@@ -1,0 +1,1 @@
+How do I put an application to run in the background when it's closed?

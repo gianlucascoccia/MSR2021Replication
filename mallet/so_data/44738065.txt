@@ -1,0 +1,1 @@
+Uncaught TypeError: URL is not a constructor using WHATWG URL object support for electron

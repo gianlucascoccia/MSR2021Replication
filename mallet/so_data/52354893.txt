@@ -1,0 +1,1 @@
+ejs-electron not working with electron-forge

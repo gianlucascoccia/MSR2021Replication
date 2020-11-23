@@ -1,0 +1,1 @@
+Nodejs Electron how to get rid of the right click option on the windows context menu

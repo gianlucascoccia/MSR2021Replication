@@ -1,0 +1,1 @@
+Javascript Electron / Monaco Editor Load file without dialog

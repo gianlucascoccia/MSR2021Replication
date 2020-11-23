@@ -1,0 +1,1 @@
+How to run headless tests against Electron app on MacOS?

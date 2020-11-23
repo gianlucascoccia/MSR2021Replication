@@ -1,0 +1,1 @@
+Electron: force specific resolution for content and scale to fit window

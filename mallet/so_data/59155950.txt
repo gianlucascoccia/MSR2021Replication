@@ -1,0 +1,1 @@
+How to specify in electron packager to publish package in release mode and not in debug mode

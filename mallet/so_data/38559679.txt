@@ -1,0 +1,1 @@
+Is it possible to send query to online database from an electron application?

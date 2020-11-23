@@ -1,0 +1,1 @@
+In Atom, how do I style the line that shows in between tabs when a tab is grabbed?

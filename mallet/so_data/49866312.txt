@@ -1,0 +1,1 @@
+Why are these console.log statements not working? Electron

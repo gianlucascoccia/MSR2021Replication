@@ -1,0 +1,1 @@
+Use Spectron or selenium test electron based application, start Electron from cmd need pass parameter, how to pass parameters?

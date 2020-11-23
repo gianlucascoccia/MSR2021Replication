@@ -1,0 +1,1 @@
+Electron/Node.js - How to spawn a python script from another directory

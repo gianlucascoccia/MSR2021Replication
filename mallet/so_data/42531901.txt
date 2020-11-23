@@ -1,0 +1,1 @@
+Call renderer process from React-Redux action (Electron)

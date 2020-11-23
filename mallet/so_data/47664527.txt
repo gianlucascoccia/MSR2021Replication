@@ -1,0 +1,1 @@
+Spectron/WebdriverIO nth child using $$[n] instead of selector

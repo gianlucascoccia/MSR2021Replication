@@ -1,0 +1,1 @@
+Testing apps made of electron application framework

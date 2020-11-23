@@ -1,0 +1,1 @@
+Dealing with "ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed" (Electron 7.0)

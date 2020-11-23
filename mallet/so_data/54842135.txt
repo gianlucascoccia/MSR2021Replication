@@ -1,0 +1,1 @@
+Which frameworks should I use for Desktop/Touch Angular App which uses USB/Hardware APIs?

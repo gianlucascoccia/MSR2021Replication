@@ -1,0 +1,1 @@
+Can't understand `sendInputEvent ` in webContents in ElectronJS

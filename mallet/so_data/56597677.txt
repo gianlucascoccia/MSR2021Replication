@@ -1,0 +1,1 @@
+Transfer electron renderer process to default browser

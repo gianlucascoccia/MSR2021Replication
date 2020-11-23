@@ -1,0 +1,1 @@
+is it possible to open angular 2 application in node webkit and explain how?

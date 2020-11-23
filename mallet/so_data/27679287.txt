@@ -1,0 +1,1 @@
+Why is this replace function not working for the string

@@ -1,0 +1,1 @@
+ClojureScript - name goog is not defined in the externs

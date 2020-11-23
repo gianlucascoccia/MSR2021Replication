@@ -1,0 +1,1 @@
+Using ncp with Node, no files or folders are copied

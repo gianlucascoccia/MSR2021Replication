@@ -1,0 +1,1 @@
+Uncaught TypeError: document.getElementById(...).addEventHandler is not a function

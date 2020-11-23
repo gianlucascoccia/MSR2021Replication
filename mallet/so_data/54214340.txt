@@ -1,0 +1,1 @@
+electron-builder, how to set node environmental variables

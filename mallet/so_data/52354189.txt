@@ -1,0 +1,1 @@
+Integrating Electron Builder with React resulting in bigger app

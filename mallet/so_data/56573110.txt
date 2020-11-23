@@ -1,0 +1,1 @@
+Printer select window is shown even if silent option is true in webContents.print()

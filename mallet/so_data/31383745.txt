@@ -1,0 +1,1 @@
+There is no 'package.json' - node-webkit app

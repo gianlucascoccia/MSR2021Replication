@@ -1,0 +1,1 @@
+Sharing global object with typescript version

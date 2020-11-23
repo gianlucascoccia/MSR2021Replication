@@ -1,0 +1,1 @@
+CSS Loading animation not animating in NW.js (node-webkit)

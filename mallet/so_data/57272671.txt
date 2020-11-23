@@ -1,0 +1,1 @@
+Destroy BrowserView after printing or cancelling printing

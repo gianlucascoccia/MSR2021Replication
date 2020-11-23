@@ -1,0 +1,1 @@
+Error "document is not defined" when executing electron

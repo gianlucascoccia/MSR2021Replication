@@ -1,0 +1,1 @@
+Need to interact with Hardware device like Cash Drawer using Electron JS

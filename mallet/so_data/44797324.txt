@@ -1,0 +1,1 @@
+Shortcuts in Electron on Mac

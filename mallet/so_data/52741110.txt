@@ -1,0 +1,1 @@
+How can I wait to electron while loading html

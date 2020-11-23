@@ -1,0 +1,1 @@
+Unable to create virtual table in sqlite3 in electron app

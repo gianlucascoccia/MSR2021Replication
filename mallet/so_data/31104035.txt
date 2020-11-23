@@ -1,0 +1,1 @@
+Read internal and external files with node-webkit

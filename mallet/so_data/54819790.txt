@@ -1,0 +1,1 @@
+installing node-webcrypto-ossl on electron project in windows throws error

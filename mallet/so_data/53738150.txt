@@ -1,0 +1,1 @@
+X11 xorg Electron App cant open in fullscreen

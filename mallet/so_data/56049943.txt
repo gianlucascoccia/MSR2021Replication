@@ -1,0 +1,1 @@
+Sha hash file comparison issues on OSX

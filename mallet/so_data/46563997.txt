@@ -1,0 +1,1 @@
+Converting NeDB find() results to observable

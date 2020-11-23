@@ -1,0 +1,1 @@
+How do I use require('electron') in a quasar vue component environment?

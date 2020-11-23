@@ -1,0 +1,1 @@
+How should I instantiate an object which use external const require

@@ -1,0 +1,1 @@
+Electron+nuxt+amCharts 4: Unexpected token export

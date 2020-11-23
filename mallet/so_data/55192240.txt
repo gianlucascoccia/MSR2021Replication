@@ -1,0 +1,1 @@
+Is there a way to create multiple electron browserwindow instances from on browserwindow object (diff cookies and all)

@@ -1,0 +1,1 @@
+I am getting an error while connecting to sqlite3 database

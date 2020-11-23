@@ -1,0 +1,1 @@
+Firebase WEB is taking time to work (CRUD operations) after some time in stand by

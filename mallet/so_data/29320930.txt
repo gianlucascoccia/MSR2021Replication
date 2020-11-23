@@ -1,0 +1,1 @@
+How to reset the renderer javascript context in atom-shell

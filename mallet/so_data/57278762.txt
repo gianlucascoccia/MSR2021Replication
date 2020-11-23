@@ -1,0 +1,1 @@
+Adding More Content to Tray Menu Item using Electron's Menu.buildFromTemplate()

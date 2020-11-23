@@ -1,0 +1,1 @@
+Error after updating electron and changin nodeIntegration to true

@@ -1,0 +1,1 @@
+How to send data between electron ipcMain and angular ipcRenderer asynchronously with observables

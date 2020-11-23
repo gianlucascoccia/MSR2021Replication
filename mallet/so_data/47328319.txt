@@ -1,0 +1,1 @@
+How to initialize data in a Vue.js component from SQL query

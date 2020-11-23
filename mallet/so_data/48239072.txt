@@ -1,0 +1,1 @@
+Why does a packaged Electron app fail due to Menu.getApplicationMenu() returning null while running it with electron . is fine?

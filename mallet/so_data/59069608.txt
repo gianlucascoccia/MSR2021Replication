@@ -1,0 +1,1 @@
+sqlite3 node js insert into multiple table

@@ -1,0 +1,1 @@
+Electron with Angular js 6, dynamic images are not displaying in same build

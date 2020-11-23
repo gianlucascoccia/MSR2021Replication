@@ -1,0 +1,1 @@
+nwjs reactjs, confused about my context. Document is undefined

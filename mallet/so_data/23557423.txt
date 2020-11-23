@@ -1,0 +1,1 @@
+Node-Webkit and AngularJS package apps: require not defined

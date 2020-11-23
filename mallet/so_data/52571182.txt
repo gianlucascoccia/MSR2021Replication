@@ -1,0 +1,1 @@
+Intercept https requests for a single browser window only

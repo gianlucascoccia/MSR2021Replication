@@ -1,0 +1,1 @@
+How do I add Inspect Element right click into an electron app? (Just like in Google Chrome)

@@ -1,0 +1,1 @@
+Observable event not rendered in Angular2 template

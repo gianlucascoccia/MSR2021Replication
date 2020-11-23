@@ -1,0 +1,1 @@
+Typescript generics - multiple types depending on common key

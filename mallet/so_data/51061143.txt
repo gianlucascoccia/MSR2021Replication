@@ -1,0 +1,1 @@
+Electron.js prevent windows close conditionally

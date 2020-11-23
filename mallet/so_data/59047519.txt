@@ -1,0 +1,1 @@
+ElectronJS autostarting for current user but not for all users on machine

@@ -1,0 +1,1 @@
+Is AOT compilation helpful for Electron applications

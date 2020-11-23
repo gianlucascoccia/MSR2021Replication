@@ -1,0 +1,1 @@
+Run shell script inside Angular app packaged in Electron

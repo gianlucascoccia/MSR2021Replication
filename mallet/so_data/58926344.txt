@@ -1,0 +1,1 @@
+Spectron: how to test Electron `shell.openExternal('some url')`

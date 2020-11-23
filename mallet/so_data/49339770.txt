@@ -1,0 +1,1 @@
+Webpack config target:"node-webkit" fails with Uncaught ReferenceError: require is not defined

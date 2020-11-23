@@ -1,0 +1,1 @@
+Responsive SVG not working correctly?

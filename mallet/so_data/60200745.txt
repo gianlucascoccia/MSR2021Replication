@@ -1,0 +1,1 @@
+"require is not defined" error comes when i try to import js file (with node modules) to my main electron js file

@@ -1,0 +1,1 @@
+Node webkit app - nw is undefined if it's navigated to local file system

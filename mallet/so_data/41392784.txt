@@ -1,0 +1,1 @@
+document is not defined error in Electron

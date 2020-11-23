@@ -1,0 +1,1 @@
+Electron Menu change item Label dynamically

@@ -1,0 +1,1 @@
+sequelize postgres install dependency error with sqlite dialect

@@ -1,0 +1,1 @@
+execute main.js from a sub directory

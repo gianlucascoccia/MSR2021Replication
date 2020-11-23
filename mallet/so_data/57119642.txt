@@ -1,0 +1,1 @@
+I'm not able to see the content in a nedb database using the "find" function

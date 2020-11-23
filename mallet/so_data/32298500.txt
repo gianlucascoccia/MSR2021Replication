@@ -1,0 +1,1 @@
+Polymer @import theme file with :host in styles has no affect

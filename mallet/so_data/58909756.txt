@@ -1,0 +1,1 @@
+Serve static files with express from within electron-forge app

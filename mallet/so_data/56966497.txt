@@ -1,0 +1,1 @@
+binding.gyp: How to use "copies" section to copy files in multiple location

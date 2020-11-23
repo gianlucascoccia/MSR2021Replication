@@ -1,0 +1,1 @@
+Choose which popups should be allowed from webview in electron app

@@ -1,0 +1,1 @@
+'npm require' causes promise to not resolve

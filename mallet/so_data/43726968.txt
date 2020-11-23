@@ -1,0 +1,1 @@
+Vue devtools in Electron not displaying components

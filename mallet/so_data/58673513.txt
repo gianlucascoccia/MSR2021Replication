@@ -1,0 +1,1 @@
+How to ignore multiple directories and files using electron releoad

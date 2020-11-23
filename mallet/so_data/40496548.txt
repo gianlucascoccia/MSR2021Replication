@@ -1,0 +1,1 @@
+How can I specify an app icon for an electron app on Ubuntu 16.04?

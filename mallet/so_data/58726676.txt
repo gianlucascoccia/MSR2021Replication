@@ -1,0 +1,1 @@
+Use electron api in ionic 4 capacitor angular project

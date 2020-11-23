@@ -1,0 +1,1 @@
+How to fix "Error: spawn py ENOENT" error when running python script from electron app?

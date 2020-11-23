@@ -1,0 +1,1 @@
+Allowing an Electron-hosted webapp to call window.open and to use the result as if it were a regular Chrome window

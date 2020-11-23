@@ -1,0 +1,1 @@
+Polymer neon-animated pages: no transition animation played

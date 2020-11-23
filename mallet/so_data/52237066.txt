@@ -1,0 +1,1 @@
+Why do some borders not print from an Electron app?

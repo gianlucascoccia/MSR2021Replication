@@ -1,0 +1,1 @@
+setup nedb on production mode using electron-vue app

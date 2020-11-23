@@ -1,0 +1,1 @@
+Show system "open with" dialog when clicking file from electron application

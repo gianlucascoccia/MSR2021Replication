@@ -1,0 +1,1 @@
+Create an electron create-react-app distribution with static files

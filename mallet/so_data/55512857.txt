@@ -1,0 +1,1 @@
+Electron can't seem to find my function when using onclick

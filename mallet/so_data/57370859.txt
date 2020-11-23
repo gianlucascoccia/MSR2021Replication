@@ -1,0 +1,1 @@
+I want to build a desktop app which takes ESC/POS command to print in electron.js app

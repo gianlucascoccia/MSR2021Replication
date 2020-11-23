@@ -1,0 +1,1 @@
+Build GUI for a CLI application as a side project

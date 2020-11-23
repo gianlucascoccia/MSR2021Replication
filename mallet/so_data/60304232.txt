@@ -1,0 +1,1 @@
+Electron-Angular9 App showing blank white screen in Windows 7 , but working fine on Windows 8

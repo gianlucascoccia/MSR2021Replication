@@ -1,0 +1,1 @@
+electron-builder, in windows ,how to config that can exit the installation process?

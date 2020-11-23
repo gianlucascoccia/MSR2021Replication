@@ -1,0 +1,1 @@
+no output when node.js calls applescript application

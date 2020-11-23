@@ -1,0 +1,1 @@
+BitBucket Pipeline failed for electron application build error in image format

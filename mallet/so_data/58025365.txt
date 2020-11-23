@@ -1,0 +1,1 @@
+trouble updating angular component in IPC communication between back and front

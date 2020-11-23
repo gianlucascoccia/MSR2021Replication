@@ -1,0 +1,1 @@
+Electron app packaged with electron-packager doesnt work on other pc's cause of nfc-pcsc

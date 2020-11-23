@@ -1,0 +1,1 @@
+I get a wrong pid with child_process.spawn

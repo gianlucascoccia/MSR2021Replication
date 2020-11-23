@@ -1,0 +1,1 @@
+How do I subscribe to a "window move" event in the Atom edtor?

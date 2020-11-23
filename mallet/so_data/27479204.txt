@@ -1,0 +1,1 @@
+window.print can't work in node-webkit

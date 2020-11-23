@@ -1,0 +1,1 @@
+providing custom index.html file for electron-webpack

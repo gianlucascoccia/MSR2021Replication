@@ -1,0 +1,1 @@
+Angular to electron converting then face issue in node_module file index.js have issue regarding with "path" and "fs"

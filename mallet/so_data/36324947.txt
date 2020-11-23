@@ -1,0 +1,1 @@
+Google API causes huge page hangs in Electron

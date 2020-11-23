@@ -1,0 +1,1 @@
+Not managing to chain selectors with $ and $$ as documented in Webdriver-IO docs

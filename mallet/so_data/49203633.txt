@@ -1,0 +1,1 @@
+How to Capture events in Vue 2 / electron with embedded web page

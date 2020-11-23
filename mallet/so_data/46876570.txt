@@ -1,0 +1,1 @@
+create-react-app exclude folder from triggering reload

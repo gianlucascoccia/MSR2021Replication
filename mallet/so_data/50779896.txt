@@ -1,0 +1,1 @@
+communicate between apps over network

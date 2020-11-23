@@ -1,0 +1,1 @@
+Any way to have a listener for when you copy things to the clipboard?

@@ -1,0 +1,1 @@
+Node-Webkit - Try enumerate file under directory from webkitdirectory input but return only directory path

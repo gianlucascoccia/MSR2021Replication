@@ -1,0 +1,1 @@
+What external context could cause splice to not do anything?

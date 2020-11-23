@@ -1,0 +1,1 @@
+electronJS / OSX - open file with my application, how to use the Apple event?

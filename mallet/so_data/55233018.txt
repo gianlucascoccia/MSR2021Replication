@@ -1,0 +1,1 @@
+I don´t know how select HTML Class attribute handled in Javascript toolkit Framework

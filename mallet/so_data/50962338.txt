@@ -1,0 +1,1 @@
+How Offline Data persistance for Desktop app with electron Framework can be done?

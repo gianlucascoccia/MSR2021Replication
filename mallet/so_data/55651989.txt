@@ -1,0 +1,1 @@
+Passing regex expression via API results in an error

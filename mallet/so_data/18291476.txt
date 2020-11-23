@@ -1,0 +1,1 @@
+connect sequelize.js to node-webkit desktop app using sqlite

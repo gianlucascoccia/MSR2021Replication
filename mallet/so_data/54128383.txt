@@ -1,0 +1,1 @@
+electron-updater: Can not find module 'debug'

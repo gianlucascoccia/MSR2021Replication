@@ -1,0 +1,1 @@
+Vue CLI Plugin Electron Builder dispatching vuex actions fails

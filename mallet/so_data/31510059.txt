@@ -1,0 +1,1 @@
+Node Webkit: forced shutdown of a Windows 8 machine from kiosk app

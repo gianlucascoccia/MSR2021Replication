@@ -1,0 +1,1 @@
+NWJS, Electron - DOM not updating during long-running process

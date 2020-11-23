@@ -1,0 +1,1 @@
+Unable to get/read cookies from the server using electron application

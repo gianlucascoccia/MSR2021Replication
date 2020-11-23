@@ -1,0 +1,1 @@
+Electron app launched from start menu shell link alters process.execPath?

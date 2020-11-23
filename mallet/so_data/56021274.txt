@@ -1,0 +1,1 @@
+JavaScript: Electron App doesn't close properly

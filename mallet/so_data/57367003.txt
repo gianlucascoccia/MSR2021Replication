@@ -1,0 +1,1 @@
+electron-builder: How can I remove deeplinking protocols once the program is uninstalled?

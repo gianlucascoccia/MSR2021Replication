@@ -1,0 +1,1 @@
+fomantic JS not working correctly in Electron nodejs application

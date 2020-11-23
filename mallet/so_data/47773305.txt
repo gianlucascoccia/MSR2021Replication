@@ -1,0 +1,1 @@
+how can i remove the blank page created during the transition from index.html to contact.html in electron?

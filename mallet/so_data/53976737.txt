@@ -1,0 +1,1 @@
+Can I call Ionic 4 / Capacitor Electron code from the Ionic part of the application?

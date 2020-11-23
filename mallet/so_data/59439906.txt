@@ -1,0 +1,1 @@
+how to execute a command line programm with additional properties?

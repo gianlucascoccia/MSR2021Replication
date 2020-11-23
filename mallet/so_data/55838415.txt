@@ -1,0 +1,1 @@
+Is Data Stored in my Vuex when i build electron app and then close it?

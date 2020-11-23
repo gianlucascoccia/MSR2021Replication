@@ -1,0 +1,1 @@
+electron - node.js - ng : file path\ng.ps1 cannot be loaded because running scripts is disabled on this system

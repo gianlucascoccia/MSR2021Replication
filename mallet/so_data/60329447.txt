@@ -1,0 +1,1 @@
+Need some info about possible solutions for recognizing text patterns with JS

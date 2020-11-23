@@ -1,0 +1,1 @@
+VueJS: How to embed the emoji component dynamically in contentEditable div

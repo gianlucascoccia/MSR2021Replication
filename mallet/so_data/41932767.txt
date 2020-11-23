@@ -1,0 +1,1 @@
+How to stop angular from creating multiple instances of a controller every time we use $state.go

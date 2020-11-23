@@ -1,0 +1,1 @@
+Opening index.html without running localserver in webpack dist folder

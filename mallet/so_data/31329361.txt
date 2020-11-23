@@ -1,0 +1,1 @@
+Electron app with protractor end-to-end testing

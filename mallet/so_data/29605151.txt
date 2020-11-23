@@ -1,0 +1,1 @@
+how to make a redraw on frame with nodewebkit in javascript?

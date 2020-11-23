@@ -1,0 +1,1 @@
+How can I resize a window towards the left when the Electron app is docked on the right side of the screen?

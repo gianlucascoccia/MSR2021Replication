@@ -1,0 +1,1 @@
+How can I open a page by clicking on notification using electron

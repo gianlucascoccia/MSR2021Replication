@@ -1,0 +1,1 @@
+Customize NSIS installer electron

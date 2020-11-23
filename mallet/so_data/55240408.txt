@@ -1,0 +1,1 @@
+angular routerLink attribute click is not working with nwjs

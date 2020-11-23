@@ -1,0 +1,1 @@
+Requiring a JavaScript Node.js module in TypeScript (allowJs' is not set)

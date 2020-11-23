@@ -1,0 +1,1 @@
+Storing data in locadb in angular electron desktop app while offline

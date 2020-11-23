@@ -1,0 +1,1 @@
+Javascript settimeinterval stops working in nodewebkit

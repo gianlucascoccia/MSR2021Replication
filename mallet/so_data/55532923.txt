@@ -1,0 +1,1 @@
+I want a method in electron module to hide it in taskbar

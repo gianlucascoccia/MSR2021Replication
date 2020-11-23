@@ -1,0 +1,1 @@
+Atom Electron Doesn't work for Raspberry Pi

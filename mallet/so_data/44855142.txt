@@ -1,0 +1,1 @@
+FS in Typescript- readFile is not a function

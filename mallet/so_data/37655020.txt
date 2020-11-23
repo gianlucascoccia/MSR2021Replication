@@ -1,0 +1,1 @@
+Local, file-based database for an Electron application

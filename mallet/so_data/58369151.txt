@@ -1,0 +1,1 @@
+TestCafe with Electron: Determine if app is visible on Windows desktop

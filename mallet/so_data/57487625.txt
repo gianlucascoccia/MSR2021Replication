@@ -1,0 +1,1 @@
+How to add a page refresh feature after a TTS message is read

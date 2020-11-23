@@ -1,0 +1,1 @@
+Tedious package giving error "undefined is not a function" with es6,React,webpack

@@ -1,0 +1,1 @@
+Nightmare JS will not open file dialog

@@ -1,0 +1,1 @@
+Node js windows child process on exit and close event

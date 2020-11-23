@@ -1,0 +1,1 @@
+How to disable http cache for electron app after packaging to .exe using electron-packager

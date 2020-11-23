@@ -1,0 +1,1 @@
+Is there a way to create a generic Electron application with electron-builder to build multiple Ember.js projects with independent versioning?

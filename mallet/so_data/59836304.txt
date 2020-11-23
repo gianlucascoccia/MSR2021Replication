@@ -1,0 +1,1 @@
+Detect if the user is dragging a file from file explorer and show a window

@@ -1,0 +1,1 @@
+Electron : How to call COM object of all OS windows/macOS/Linux like Excel.Application/ Outlook.Application from node.js with electron?

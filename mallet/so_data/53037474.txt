@@ -1,0 +1,1 @@
+Node Js: Using a WebWorker to resize images

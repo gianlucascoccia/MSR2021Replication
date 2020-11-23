@@ -1,0 +1,1 @@
+Firebase database looses websocket connection which results in delays

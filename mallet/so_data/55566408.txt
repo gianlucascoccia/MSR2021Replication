@@ -1,0 +1,1 @@
+Get barcode sanner data via USB in angular/node

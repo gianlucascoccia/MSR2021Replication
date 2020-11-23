@@ -1,0 +1,1 @@
+angular6+electron, how to get upload file path, in one computer?

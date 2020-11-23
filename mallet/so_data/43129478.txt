@@ -1,0 +1,1 @@
+Is PouchDB with LevelDB adapter supposed to create a local file?

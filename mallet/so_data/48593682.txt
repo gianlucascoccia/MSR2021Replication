@@ -1,0 +1,1 @@
+Installing electron globally on Ubuntu with NPM

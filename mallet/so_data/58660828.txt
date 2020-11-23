@@ -1,0 +1,1 @@
+Firebase analytics log event not working in production build of electron

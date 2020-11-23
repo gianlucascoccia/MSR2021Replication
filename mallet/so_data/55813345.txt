@@ -1,0 +1,1 @@
+How to write package.json to use Electron with TypeScript, React

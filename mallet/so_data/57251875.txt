@@ -1,0 +1,1 @@
+Webpack: use node's require.resolve() instead of webpack's

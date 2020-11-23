@@ -1,0 +1,1 @@
+Passing in type as parameter does not work in production in TypeScript

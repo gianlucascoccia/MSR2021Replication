@@ -1,0 +1,1 @@
+Intercept sent notifications from an Electron app

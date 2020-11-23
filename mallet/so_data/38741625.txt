@@ -1,0 +1,1 @@
+Electron app throw version Module version mismatch error. Expected 49, got 48

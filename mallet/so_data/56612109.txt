@@ -1,0 +1,1 @@
+How to path to an image file in an electron app?

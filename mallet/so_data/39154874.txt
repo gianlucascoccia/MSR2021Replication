@@ -1,0 +1,1 @@
+Make electron-packager use local files, vs downloading from internet

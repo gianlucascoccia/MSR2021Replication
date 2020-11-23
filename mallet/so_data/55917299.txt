@@ -1,0 +1,1 @@
+Is responsive voice sound working in electron.net?

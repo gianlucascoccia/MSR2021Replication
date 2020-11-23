@@ -1,0 +1,1 @@
+serialport.io list returns empty array for virtual Com ports

@@ -1,0 +1,1 @@
+Electron Packager - set App Icons for OSX & Windows

@@ -1,0 +1,1 @@
+Electron Desktop App: Using mysql data in a component with Angular2 front end

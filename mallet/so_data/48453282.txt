@@ -1,0 +1,1 @@
+Bundling an Electron App with Angular 4 and PouchDB

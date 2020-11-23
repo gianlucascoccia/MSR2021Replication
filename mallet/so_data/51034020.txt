@@ -1,0 +1,1 @@
+How to specify setInterval interface while use Node.js & ES6 (electron,react)

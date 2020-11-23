@@ -1,0 +1,1 @@
+Grab ETAG from google cloud bucket file

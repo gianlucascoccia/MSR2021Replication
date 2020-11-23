@@ -1,0 +1,1 @@
+Replacement for NeDB for consistant, replicated persistent node.js data storage

@@ -1,0 +1,1 @@
+React - Attaching click handler to dynamic children

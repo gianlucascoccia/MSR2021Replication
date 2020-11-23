@@ -1,0 +1,1 @@
+jsPDF : Black rectangular box appears when using addimage on node.js

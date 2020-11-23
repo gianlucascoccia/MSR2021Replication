@@ -1,0 +1,1 @@
+Property 'sort' does not exist on type 'JQuery<HTMLElement>'

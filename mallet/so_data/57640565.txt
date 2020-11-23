@@ -1,0 +1,1 @@
+Add js in the electron app and save it, then import it in react

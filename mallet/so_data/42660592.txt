@@ -1,0 +1,1 @@
+How to detect windows soft keyboard in electron/chromium app?

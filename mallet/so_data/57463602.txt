@@ -1,0 +1,1 @@
+Electron auto-update failing - "The server sent an invalid response"

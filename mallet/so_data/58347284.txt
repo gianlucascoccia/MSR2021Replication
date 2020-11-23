@@ -1,0 +1,1 @@
+Electron + Phaser, DRAG/POINTERMOVE event is not catched by Phaser

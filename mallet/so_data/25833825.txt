@@ -1,0 +1,1 @@
+node-webkit karma temporary environment variable

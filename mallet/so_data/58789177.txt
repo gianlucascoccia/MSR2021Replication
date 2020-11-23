@@ -1,0 +1,1 @@
+Checking variable status from config file

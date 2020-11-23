@@ -1,0 +1,1 @@
+Opening an excel file with opn while another excel file is open, will execute code immediately without waiting

@@ -1,0 +1,1 @@
+JavaScript: How to stringify a class, after calling new

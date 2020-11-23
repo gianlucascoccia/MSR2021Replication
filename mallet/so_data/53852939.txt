@@ -1,0 +1,1 @@
+electron auto updater not installing in OSx

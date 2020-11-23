@@ -1,0 +1,1 @@
+Video Stream with Electron + React : very weird display

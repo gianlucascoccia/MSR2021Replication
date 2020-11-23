@@ -1,0 +1,1 @@
+failed to run electron-rebuild with ffi on windows 10 (src\ffi.cc(228): error C2065: 'Handle': undeclared identifier)

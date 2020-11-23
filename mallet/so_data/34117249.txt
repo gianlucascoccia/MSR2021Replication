@@ -1,0 +1,1 @@
+how to automate mouse clicks in nw.js (node-webkit)

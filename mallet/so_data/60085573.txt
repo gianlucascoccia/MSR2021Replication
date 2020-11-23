@@ -1,0 +1,1 @@
+Electron App with Vue and vue-cli-plugin-electron-builder can't working with Tesseract.js

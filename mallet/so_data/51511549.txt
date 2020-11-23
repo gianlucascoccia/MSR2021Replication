@@ -1,0 +1,1 @@
+JavaScript - Why can the require function be used in a browser's script tag in ElectronJs?

@@ -1,0 +1,1 @@
+Cannot find module './installers/setupEvents' with Electron-Winstaller

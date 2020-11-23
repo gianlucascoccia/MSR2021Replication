@@ -1,0 +1,1 @@
+How to auto update the electron application using the electron-updater?

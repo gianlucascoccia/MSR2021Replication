@@ -1,0 +1,1 @@
+Electron's shell.openExternal opens a new window in internet explorer

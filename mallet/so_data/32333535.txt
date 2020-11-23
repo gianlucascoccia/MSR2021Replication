@@ -1,0 +1,1 @@
+Electron - Javascript (ES6) - import remote Class

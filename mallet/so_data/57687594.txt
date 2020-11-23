@@ -1,0 +1,1 @@
+What is the right way to add an eventListener or attachEvent to an anchor tag in Electron?

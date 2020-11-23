@@ -1,0 +1,1 @@
+Ffmpeg gets aborted in an Electron sandboxed application

@@ -1,0 +1,1 @@
+Electron / Quasar - how to run a Mac app after signing & sandboxing?

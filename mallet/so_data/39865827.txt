@@ -1,0 +1,1 @@
+nw.js pass element ID to menuitem

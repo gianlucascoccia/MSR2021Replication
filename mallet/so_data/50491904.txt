@@ -1,0 +1,1 @@
+Wait for Async callback during Electron preload script

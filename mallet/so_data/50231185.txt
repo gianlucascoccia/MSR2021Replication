@@ -1,0 +1,1 @@
+how to run electron binary in command line terminal (vty)

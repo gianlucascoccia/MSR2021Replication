@@ -1,0 +1,1 @@
+jquery not working in nw.js (node webkit)

@@ -1,0 +1,1 @@
+Display canvas in menubar electron OSX

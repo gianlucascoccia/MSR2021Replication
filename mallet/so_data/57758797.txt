@@ -1,0 +1,1 @@
+SteamCMD - App state is 0x602 after update job

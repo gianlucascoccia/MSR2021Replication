@@ -1,0 +1,1 @@
+Can electron automatically figure out whether to use HTTP or HTTPS given a URL without a protocol?

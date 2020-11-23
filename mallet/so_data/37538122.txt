@@ -1,0 +1,1 @@
+ElectronJs: app.quit is crashing the application

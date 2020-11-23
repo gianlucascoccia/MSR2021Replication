@@ -1,0 +1,1 @@
+Get the path to the current application in node-webkit

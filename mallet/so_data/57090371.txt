@@ -1,0 +1,1 @@
+How to enable Chromium touch gestures in Electron app?

@@ -1,0 +1,1 @@
+Code Object is not signed at all in node_sqlite3.node

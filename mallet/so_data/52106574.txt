@@ -1,0 +1,1 @@
+Electron shell.openExternal can't open some .lnk shortcuts

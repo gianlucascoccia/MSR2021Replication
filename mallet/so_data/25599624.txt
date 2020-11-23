@@ -1,0 +1,1 @@
+Node-webkit + Angular.js Uncaught Error: [$injector:modulerr]

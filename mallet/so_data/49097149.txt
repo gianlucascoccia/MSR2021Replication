@@ -1,0 +1,1 @@
+How to prevent multiple dialog box in electron

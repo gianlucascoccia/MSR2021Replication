@@ -1,0 +1,1 @@
+Electron preload.js doesn't function the way it is suppose to

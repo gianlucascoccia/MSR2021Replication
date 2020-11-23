@@ -1,0 +1,1 @@
+I want to integrate these two angularJS Dependency Injection in one project

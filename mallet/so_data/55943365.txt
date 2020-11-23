@@ -1,0 +1,1 @@
+How can we use electron.protocol.interceptFileProtocol with only certain paths, leaving other requests untouched?

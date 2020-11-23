@@ -1,0 +1,1 @@
+prevent mouse leaving window (javascript or nw.js)

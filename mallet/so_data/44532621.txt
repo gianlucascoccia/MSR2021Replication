@@ -1,0 +1,1 @@
+Background image not loading in Electron Application

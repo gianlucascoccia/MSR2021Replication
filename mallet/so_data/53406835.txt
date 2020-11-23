@@ -1,0 +1,1 @@
+Electron's localstorage not saving my on-click events on dynamically created elements

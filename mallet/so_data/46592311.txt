@@ -1,0 +1,1 @@
+How can I access global variables from outside of electron main.js in React component?

@@ -1,0 +1,1 @@
+Achieving 'Quasimode' on Caps Lock key using JavaScript/Node

@@ -1,0 +1,1 @@
+NodeJS Cannot read property 'length' of undefined - MagicMirror Module

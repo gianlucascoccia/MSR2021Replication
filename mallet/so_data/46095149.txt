@@ -1,0 +1,1 @@
+Failed to run Electron Helper in sandbox environment

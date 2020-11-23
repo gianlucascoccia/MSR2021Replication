@@ -1,0 +1,1 @@
+nsis installer removes existing app links in start menu subdirectory

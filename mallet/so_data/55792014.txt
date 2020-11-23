@@ -1,0 +1,1 @@
+How to use electron-builder with target portable?

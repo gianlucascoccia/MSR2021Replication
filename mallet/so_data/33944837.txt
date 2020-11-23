@@ -1,0 +1,1 @@
+clear cache in Nightmare.js (Electron)

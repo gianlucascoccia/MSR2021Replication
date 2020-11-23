@@ -1,0 +1,1 @@
+Launching Electron app from a standard web browser

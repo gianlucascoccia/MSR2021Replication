@@ -1,0 +1,1 @@
+(electron-store) How can I use "patternProperties" when define schema

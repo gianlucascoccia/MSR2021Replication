@@ -1,0 +1,1 @@
+Electron location.pathname is incorrect on initial load

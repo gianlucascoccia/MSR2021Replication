@@ -1,0 +1,1 @@
+Use Angular router link in new tab src tag in an Electron app

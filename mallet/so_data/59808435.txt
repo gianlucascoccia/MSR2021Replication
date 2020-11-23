@@ -1,0 +1,1 @@
+TestCafe With Electron: can't load main page (main page may return a '304' http code)

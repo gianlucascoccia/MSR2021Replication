@@ -1,0 +1,1 @@
+How to change firebase config for deployed app

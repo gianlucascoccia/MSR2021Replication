@@ -1,0 +1,1 @@
+Prohibit installer when application is still running

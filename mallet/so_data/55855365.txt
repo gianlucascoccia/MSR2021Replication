@@ -1,0 +1,1 @@
+Does long time IO operation in Electron main process block the UI

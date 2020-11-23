@@ -1,0 +1,1 @@
+See through effect with CSS (like iOS 7/Aero)

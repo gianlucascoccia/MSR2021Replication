@@ -1,0 +1,1 @@
+Monaco editor in Electron: How can I compare JSON old and new to see changed properties?

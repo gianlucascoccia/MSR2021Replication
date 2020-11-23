@@ -1,0 +1,1 @@
+Variable undefined when used outside of component constructor

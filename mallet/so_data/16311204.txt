@@ -1,0 +1,1 @@
+Node.js (node-webkit) error using http.get for rss feed, HPE_INVALID_CONSTANT

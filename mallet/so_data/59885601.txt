@@ -1,0 +1,1 @@
+electron app to manage wifi connection of the device

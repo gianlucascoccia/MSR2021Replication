@@ -1,0 +1,1 @@
+How to send get request to proxy by axios in electron app?

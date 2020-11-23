@@ -1,0 +1,1 @@
+How to set a custom path for Electron app installer

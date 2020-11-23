@@ -1,0 +1,1 @@
+Electron/NodeJS : I can't retriving mysql table data and print them on the index.html page

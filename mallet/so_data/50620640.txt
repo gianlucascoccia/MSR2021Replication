@@ -1,0 +1,1 @@
+electron-builder install-app-deps tries to include react-native while I have an alias set in webpack to react-native-electron

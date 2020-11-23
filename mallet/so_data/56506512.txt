@@ -1,0 +1,1 @@
+Maintaining native module dependencies for node.js and electron at the same time

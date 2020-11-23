@@ -1,0 +1,1 @@
+Cannot store HERE maps offline in Electron

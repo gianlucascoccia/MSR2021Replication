@@ -1,0 +1,1 @@
+Printer prints garbage after reinstalling driver

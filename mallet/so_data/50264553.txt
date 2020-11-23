@@ -1,0 +1,1 @@
+Does Electron's main thread block BrowserWindow?

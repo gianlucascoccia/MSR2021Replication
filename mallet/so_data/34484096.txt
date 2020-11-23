@@ -1,0 +1,1 @@
+ERROR in multi common Module not found: Error: Cannot resolve module 'react-router' in /path-to-project/app-name @ multi common

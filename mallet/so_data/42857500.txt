@@ -1,0 +1,1 @@
+Nightmare iterating inside loop

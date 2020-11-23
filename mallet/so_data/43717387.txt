@@ -1,0 +1,1 @@
+Webpack concat and electron index.js require issue

@@ -1,0 +1,1 @@
+unixODBC and Electron JS, ODBC works in development but not in production build

@@ -1,0 +1,1 @@
+Node smartcard throw SCardConnect error while scanning the card and SCardListReaders error after disconnect

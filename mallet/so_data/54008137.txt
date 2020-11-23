@@ -1,0 +1,1 @@
+Getting data in console but shows undefined in main output

@@ -1,0 +1,1 @@
+electron ipcRenderer passing string one letter at a time

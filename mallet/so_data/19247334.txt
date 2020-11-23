@@ -1,0 +1,1 @@
+Using Jam.js, require.js and node-webkit without conflicts

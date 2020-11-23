@@ -1,0 +1,1 @@
+Is there a way to package an Electron app in order to have an .exe file and just a folder with HTML/JS/CSS files next to it?

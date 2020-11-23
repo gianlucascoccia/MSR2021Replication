@@ -1,0 +1,1 @@
+mapbox-map-image-export returns a non-specified error "Error {}" on Ubuntu server

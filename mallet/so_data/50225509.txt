@@ -1,0 +1,1 @@
+Call a method within a React Component from Electron's globalShortcut

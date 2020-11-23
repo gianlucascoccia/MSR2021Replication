@@ -1,0 +1,1 @@
+is an electron BrowserWindow id guaranteed to be unique for the life of an application?

@@ -1,0 +1,1 @@
+Initialize database through sequelize on electronjs app startup

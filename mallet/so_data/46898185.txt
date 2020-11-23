@@ -1,0 +1,1 @@
+Electron + Jest - ipcRenderer is undefined in unit tests

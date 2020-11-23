@@ -1,0 +1,1 @@
+Angular 7/Electron: Routing does not complete after BrowserWindow.hide followed by BrowserWindow.show

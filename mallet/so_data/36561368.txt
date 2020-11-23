@@ -1,0 +1,1 @@
+Electron open new full-screen window from menubar

@@ -1,0 +1,1 @@
+Handling NodeJS's child_process in electron app

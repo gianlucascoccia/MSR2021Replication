@@ -1,0 +1,1 @@
+ajax calling javascript with parameters and get response, node-webkit

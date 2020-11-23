@@ -1,0 +1,1 @@
+Electron fails to find react module on its installed dependencies

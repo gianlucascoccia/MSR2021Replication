@@ -1,0 +1,1 @@
+app.relaunch([options]) is not working in electron

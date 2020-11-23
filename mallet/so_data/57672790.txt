@@ -1,0 +1,1 @@
+How to handle OS shutdown inside electron application?

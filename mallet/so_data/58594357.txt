@@ -1,0 +1,1 @@
+NodeJS - Electron tray icon disappearing after a minute

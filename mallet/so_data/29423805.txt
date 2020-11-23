@@ -1,0 +1,1 @@
+NEDB is clearing content of file when app's relauched

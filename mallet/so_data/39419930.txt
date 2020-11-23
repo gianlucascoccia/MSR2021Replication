@@ -1,0 +1,1 @@
+simulate('scroll') on a div inside a React component returns `AssertionError: expected false to be true`

@@ -1,0 +1,1 @@
+NeDB ( with Vue-Electron ) couldn't save local DB file

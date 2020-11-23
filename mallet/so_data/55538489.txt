@@ -1,0 +1,1 @@
+Reload page in electron BrowserWindow but keep session

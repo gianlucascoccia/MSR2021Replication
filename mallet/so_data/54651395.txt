@@ -1,0 +1,1 @@
+Not able to render pdf by passing Uint8Array in the viewer.html file parameter while using pdfjs

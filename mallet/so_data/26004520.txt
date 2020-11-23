@@ -1,0 +1,1 @@
+Finger scanner in node-webkit application

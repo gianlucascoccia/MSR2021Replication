@@ -1,0 +1,1 @@
+Electron-Angular: Running Karma errors because of undefined ipcRenderer inside angular component

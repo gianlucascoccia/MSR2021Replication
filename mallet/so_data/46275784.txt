@@ -1,0 +1,1 @@
+How to call downloadItem.pause() and downloadItem.pause() from outside of session.on(‘will-download’)?

@@ -1,0 +1,1 @@
+Vuex and Electron carrying state over into new window

@@ -1,0 +1,1 @@
+Date#toLocaleDateString Chrome vs Electron

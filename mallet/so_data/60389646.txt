@@ -1,0 +1,1 @@
+Notifications in Electron are empty

@@ -1,0 +1,1 @@
+Javascript Canvas how to remove a shape or area from an image?

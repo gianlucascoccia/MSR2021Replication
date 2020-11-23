@@ -1,0 +1,1 @@
+Managing electron child process spawn

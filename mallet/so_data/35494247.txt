@@ -1,0 +1,1 @@
+Saving an image file with node.js from canvas.toDataURL()

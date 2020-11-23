@@ -1,0 +1,1 @@
+cannot include a user module in electron (node js)

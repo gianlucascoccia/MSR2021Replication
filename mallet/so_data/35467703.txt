@@ -1,0 +1,1 @@
+Electron Squirrel createShortcut not working with options

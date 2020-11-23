@@ -1,0 +1,1 @@
+How to embed a mac app extension in an Electron app?

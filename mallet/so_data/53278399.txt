@@ -1,0 +1,1 @@
+Access Node module on Electron child process after compiling

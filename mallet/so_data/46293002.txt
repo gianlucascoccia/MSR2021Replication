@@ -1,0 +1,1 @@
+Secure content (huge data) in electron App

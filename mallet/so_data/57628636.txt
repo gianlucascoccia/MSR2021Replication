@@ -1,0 +1,1 @@
+Build and run 2 exe files of an electron/reactjs app with npm

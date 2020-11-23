@@ -1,0 +1,1 @@
+File gets copies with 0kb size using nodeJS

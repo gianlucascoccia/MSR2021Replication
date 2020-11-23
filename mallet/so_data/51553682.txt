@@ -1,0 +1,1 @@
+Drag and drop files out of an electron app that is built with ReactJS

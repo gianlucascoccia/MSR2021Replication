@@ -1,0 +1,1 @@
+Prevent child window from closing when parent window is closed in Electron

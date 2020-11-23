@@ -1,0 +1,1 @@
+Can't launch Intel XDK's debugger in emulator

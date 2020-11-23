@@ -1,0 +1,1 @@
+Uncaught ReferenceError: module is not defined on 'delete module.exports'

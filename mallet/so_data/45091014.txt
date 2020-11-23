@@ -1,0 +1,1 @@
+Electron: Send message from BrowserWindow to Electron app

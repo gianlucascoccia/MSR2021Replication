@@ -1,0 +1,1 @@
+NW.JS Open New Window Errors Id does not work

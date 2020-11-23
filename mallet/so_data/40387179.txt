@@ -1,0 +1,1 @@
+How to listen for fullscreen click event

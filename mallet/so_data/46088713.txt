@@ -1,0 +1,1 @@
+Is there any way to modify the basepath value at runtime in angularjs?

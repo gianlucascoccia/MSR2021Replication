@@ -1,0 +1,1 @@
+In a Node webkit App, WEB SQL API is not creating a database

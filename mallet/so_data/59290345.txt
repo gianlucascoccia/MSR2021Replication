@@ -1,0 +1,1 @@
+Setting Proxy config in electron app same work like in angular-cli

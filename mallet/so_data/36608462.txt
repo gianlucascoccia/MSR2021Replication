@@ -1,0 +1,1 @@
+electron-packager - Generated exe stays in memory after closing the window

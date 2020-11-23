@@ -1,0 +1,1 @@
+Pass request result to view

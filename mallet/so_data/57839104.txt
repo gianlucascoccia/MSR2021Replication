@@ -1,0 +1,1 @@
+How can I use electron js app as a web browser for one localhost link?

@@ -1,0 +1,1 @@
+Where to store files in angular+electron project so the project doesn't recompile when they are changed?

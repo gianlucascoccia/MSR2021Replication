@@ -1,0 +1,1 @@
+Electron (Atom shell) native code: window focus

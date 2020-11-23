@@ -1,0 +1,1 @@
+Electron fails on build with exit code 255

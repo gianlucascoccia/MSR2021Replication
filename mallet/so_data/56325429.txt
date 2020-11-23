@@ -1,0 +1,1 @@
+Issue after codesigning windows exe file created in nw.js framework

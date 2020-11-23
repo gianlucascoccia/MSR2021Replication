@@ -1,0 +1,1 @@
+Reddit Api Error trying to get reddit self text via snoocore node.js

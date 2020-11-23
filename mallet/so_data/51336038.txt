@@ -1,0 +1,1 @@
+How do i render a .js file on a button click in reactjs?

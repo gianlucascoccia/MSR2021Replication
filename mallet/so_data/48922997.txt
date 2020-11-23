@@ -1,0 +1,1 @@
+Touchbar icon with custom image doesn't load in Electron

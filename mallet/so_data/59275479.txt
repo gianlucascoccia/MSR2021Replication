@@ -1,0 +1,1 @@
+Blank screen on electron app when no Internet access

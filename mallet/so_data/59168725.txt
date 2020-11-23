@@ -1,0 +1,1 @@
+Video.js work with vue-electron for video playlist

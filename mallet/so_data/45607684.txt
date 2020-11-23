@@ -1,0 +1,1 @@
+NPM 'excel' module returns empty array after parsing, in electron app

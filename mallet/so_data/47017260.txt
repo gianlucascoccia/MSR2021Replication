@@ -1,0 +1,1 @@
+Electron print without dialog (silent print)

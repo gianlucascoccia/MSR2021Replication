@@ -1,0 +1,1 @@
+Error running exe generated from Framework7 CLI Electron

@@ -1,0 +1,1 @@
+Packaged Electron App cannot find module sqlite3

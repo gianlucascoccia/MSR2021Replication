@@ -1,0 +1,1 @@
+Creating directory at wrong place after packaging Electron

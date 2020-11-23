@@ -1,0 +1,1 @@
+window.__REDUX_DEVTOOLS_EXTENSION_COMPOSER__ is undefined in Electron app

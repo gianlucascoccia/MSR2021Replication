@@ -1,0 +1,1 @@
+Node.js nwjs package compilation error: Invalid file descriptor to ICU data

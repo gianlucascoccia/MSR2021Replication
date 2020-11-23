@@ -1,0 +1,1 @@
+Re-building nodejs serialport module in electron-angular

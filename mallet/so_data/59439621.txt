@@ -1,0 +1,1 @@
+Scraping dynamic webpages with nightmare (PhantomJS) on NodeJS takes way too long. How can I make this process faster?

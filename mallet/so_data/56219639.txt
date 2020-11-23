@@ -1,0 +1,1 @@
+Using event listener to update the react state, application hangs because of high frequency render(probably). How can I optimise this?

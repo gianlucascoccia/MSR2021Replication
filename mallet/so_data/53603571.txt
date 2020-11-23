@@ -1,0 +1,1 @@
+Node-Serialport Import Error: exists is not a function in node_modules/bindings.js

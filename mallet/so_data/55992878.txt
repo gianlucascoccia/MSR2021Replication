@@ -1,0 +1,1 @@
+How to make an installer out of my electron app similar to vscode installation setup?

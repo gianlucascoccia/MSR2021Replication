@@ -1,0 +1,1 @@
+How can I intercept requests against file and change them to http protocol?

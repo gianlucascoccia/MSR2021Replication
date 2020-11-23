@@ -1,0 +1,1 @@
+Only allow json to be edited via my program

@@ -1,0 +1,1 @@
+How to require('electron') when script is loaded by system.js

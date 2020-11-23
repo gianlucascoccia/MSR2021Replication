@@ -1,0 +1,1 @@
+Is there any other way to close a frameless window in electron 5.0.1

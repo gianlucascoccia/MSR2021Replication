@@ -1,0 +1,1 @@
+Storing client secrets for desktop apps particularly electron/cli apps

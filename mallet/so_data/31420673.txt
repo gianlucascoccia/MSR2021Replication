@@ -1,0 +1,1 @@
+Pass a packed JS file within an asar package to a spawned node child process

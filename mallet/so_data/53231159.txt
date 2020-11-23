@@ -1,0 +1,1 @@
+Is there any difference between Electron built-in module and the one installed with npm? How to access to the electron object from other modules?

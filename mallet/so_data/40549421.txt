@@ -1,0 +1,1 @@
+Retrieve or Specify output file name in electron-builder

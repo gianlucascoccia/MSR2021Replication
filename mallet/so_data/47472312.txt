@@ -1,0 +1,1 @@
+No 'Access-Control-Allow-Origin' header when launch ajax in vue component under electron-vue dev envrironment

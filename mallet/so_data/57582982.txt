@@ -1,0 +1,1 @@
+Getting a Render not Function Error, when I run this Code Context API and Reactjs

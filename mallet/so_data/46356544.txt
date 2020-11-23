@@ -1,0 +1,1 @@
+showOpenDialog() refreshes window

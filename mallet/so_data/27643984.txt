@@ -1,0 +1,1 @@
+Angular JS and Store DB like persistance

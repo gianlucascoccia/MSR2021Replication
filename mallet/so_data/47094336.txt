@@ -1,0 +1,1 @@
+Same UI for Electron-users and Browser-users

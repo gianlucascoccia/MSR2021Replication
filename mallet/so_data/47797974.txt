@@ -1,0 +1,1 @@
+Error when opening my packaged Node.js app, no error when opening the unpackaged app

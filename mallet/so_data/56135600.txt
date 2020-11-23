@@ -1,0 +1,1 @@
+"setRowData" method from Grid API of ag-grid won't load any row even after the javascript object prints values

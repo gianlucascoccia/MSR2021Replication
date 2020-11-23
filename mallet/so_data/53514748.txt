@@ -1,0 +1,1 @@
+How do i make sure that Electron express app is only accessible from inside electron window

@@ -1,0 +1,1 @@
+Trigger ipcRenderer event from devtools in Electron BrowserWindow

@@ -1,0 +1,1 @@
+Electron proxy support for requestjs

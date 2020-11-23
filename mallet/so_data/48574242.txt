@@ -1,0 +1,1 @@
+Electron | Rpm need to have licence in (main package)

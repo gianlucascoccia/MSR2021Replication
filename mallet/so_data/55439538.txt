@@ -1,0 +1,1 @@
+inject script into main dom from webview

@@ -1,0 +1,1 @@
+Can't require renderer in http protocol in electron

@@ -1,0 +1,1 @@
+Node-webkit multi platform native module with nw-gyp

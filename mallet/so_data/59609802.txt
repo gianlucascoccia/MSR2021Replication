@@ -1,0 +1,1 @@
+electron - process.env.NODE_ENV is always 'development' even in production

@@ -1,0 +1,1 @@
+The Console.logs of an Electron app runned by gulp are not shown

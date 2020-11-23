@@ -1,0 +1,1 @@
+Display JS Console output in new Electron Window

@@ -1,0 +1,1 @@
+Shared service for Electron and Angular 4

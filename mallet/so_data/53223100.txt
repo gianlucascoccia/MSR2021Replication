@@ -1,0 +1,1 @@
+Chrome driver not working when extracting electron package using --asar

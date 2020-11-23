@@ -1,0 +1,1 @@
+How execute a combination key on node-webkit like c# sendkeys

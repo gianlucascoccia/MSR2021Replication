@@ -1,0 +1,1 @@
+Is there any maximum reqest() call limit per second in electron js?

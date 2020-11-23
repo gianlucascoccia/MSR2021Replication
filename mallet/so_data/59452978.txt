@@ -1,0 +1,1 @@
+got this error after created electron application and try to open

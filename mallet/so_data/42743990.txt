@@ -1,0 +1,1 @@
+Angular 2's two-way binding not working on initial load of electron app

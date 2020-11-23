@@ -1,0 +1,1 @@
+Cant get compiled typescript to work inside html

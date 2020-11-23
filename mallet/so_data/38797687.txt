@@ -1,0 +1,1 @@
+HTML is changed before the copying of the image is completed leading the image to not being displayed in Electron

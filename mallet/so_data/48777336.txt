@@ -1,0 +1,1 @@
+Is disabling webSecurity on the Electron window the only way to display local images?

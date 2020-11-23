@@ -1,0 +1,1 @@
+NW.js - Uncaught Error: Bootstrap's JavaScript requires jQuery

@@ -1,0 +1,1 @@
+Check if size of electron window changed

@@ -1,0 +1,1 @@
+How can I hide the source code of a nodeJS solution built with Electron (asar files)?

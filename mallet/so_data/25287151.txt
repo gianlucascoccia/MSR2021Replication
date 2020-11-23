@@ -1,0 +1,1 @@
+node-webkit running a function from external source

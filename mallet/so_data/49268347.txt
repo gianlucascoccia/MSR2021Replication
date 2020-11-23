@@ -1,0 +1,1 @@
+How to pass command line arguments when run after install with electron-builder NSIS installer

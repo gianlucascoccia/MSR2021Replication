@@ -1,0 +1,1 @@
+Faster MediaStream ImageCapture (read media stream as buffer in nodejs)

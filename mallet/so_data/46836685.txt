@@ -1,0 +1,1 @@
+angularjs with nw.js not working. ng-src attribute

@@ -1,0 +1,1 @@
+Node-Webkit (nwjs) How to align window to the right?

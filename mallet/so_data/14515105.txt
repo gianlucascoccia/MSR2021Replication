@@ -1,0 +1,1 @@
+Node-Webkit sharing data in node via exports

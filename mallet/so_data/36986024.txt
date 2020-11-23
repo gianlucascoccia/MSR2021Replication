@@ -1,0 +1,1 @@
+Good, working example of Angular2 with Electron

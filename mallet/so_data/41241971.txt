@@ -1,0 +1,1 @@
+SystemJS cannot find xml-js module with typescript and electron

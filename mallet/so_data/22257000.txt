@@ -1,0 +1,1 @@
+Can I detect if a (node-webkit) window is visible?

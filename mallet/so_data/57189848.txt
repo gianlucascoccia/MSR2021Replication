@@ -1,0 +1,1 @@
+unable to install zerorpc on windows 10 using npm

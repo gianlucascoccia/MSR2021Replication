@@ -1,0 +1,1 @@
+TypeScript: how to NOT use relative paths to import classes?

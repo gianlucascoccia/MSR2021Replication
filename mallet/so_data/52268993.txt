@@ -1,0 +1,1 @@
+Get the filepath which open with electron app

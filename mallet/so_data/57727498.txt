@@ -1,0 +1,1 @@
+Compiled application cannot find the path for sqllite

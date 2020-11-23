@@ -1,0 +1,1 @@
+Can write in a file in "Development mode" but can't write "Distrubiton mode" in electron

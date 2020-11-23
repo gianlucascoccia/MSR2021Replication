@@ -1,0 +1,1 @@
+NW.js application writing to AppData/Local Directory

@@ -1,0 +1,1 @@
+Mobx Uncaught SyntaxError in Electron

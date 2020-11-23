@@ -1,0 +1,1 @@
+$.ajax has no request payload for absolute filesystem path

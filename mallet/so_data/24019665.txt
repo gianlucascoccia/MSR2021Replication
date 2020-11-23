@@ -1,0 +1,1 @@
+node-webkit can't resolve path correctly on Windows

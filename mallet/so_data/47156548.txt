@@ -1,0 +1,1 @@
+Clearing local storage on running electron-builder

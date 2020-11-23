@@ -1,0 +1,1 @@
+How to create nwjs app installer for MaxOS X ? Does it require MacBook to create installer?

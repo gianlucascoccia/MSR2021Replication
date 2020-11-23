@@ -1,0 +1,1 @@
+Electron Application - how to print the current page

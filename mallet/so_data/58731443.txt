@@ -1,0 +1,1 @@
+how to enalbe "Press ESC to exit full screen mode" in electron

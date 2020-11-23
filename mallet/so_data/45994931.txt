@@ -1,0 +1,1 @@
+How to center electron popup window dialog showOpenDialog

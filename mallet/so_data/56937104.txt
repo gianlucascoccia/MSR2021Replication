@@ -1,0 +1,1 @@
+how to fix: "exports is not defined" & "require is not defined" error when importing package from vscode webview extension

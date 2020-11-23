@@ -1,0 +1,1 @@
+Electron app got cannot find module when run as packaged Mac app

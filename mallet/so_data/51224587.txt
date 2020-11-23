@@ -1,0 +1,1 @@
+How to render update in inactive window in electron-app with angular 6?

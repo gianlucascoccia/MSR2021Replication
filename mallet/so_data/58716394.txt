@@ -1,0 +1,1 @@
+Pass to a Variable a query result of knex

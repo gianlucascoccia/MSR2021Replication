@@ -1,0 +1,1 @@
+set no menu / menubar | remove default menu [electronjs]

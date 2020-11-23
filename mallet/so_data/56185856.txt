@@ -1,0 +1,1 @@
+Appimage is vanishing after updates completed

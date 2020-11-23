@@ -1,0 +1,1 @@
+How to process and display an array of objects in AngularJS

@@ -1,0 +1,1 @@
+export/import javascript class like module node into electron with webpack

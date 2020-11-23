@@ -1,0 +1,1 @@
+"chrome.debugger" conflict with "showDevTools(true)" in NW.js

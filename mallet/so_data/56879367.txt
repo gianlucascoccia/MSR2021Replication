@@ -1,0 +1,1 @@
+Understanding node.js, Electron, extensions, deprecated XULRunner as related to web applications running locally as desktop applications

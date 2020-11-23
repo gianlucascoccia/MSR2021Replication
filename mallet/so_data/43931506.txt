@@ -1,0 +1,1 @@
+Event when machine has been locked/unlocked (Electron Windows)

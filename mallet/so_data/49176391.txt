@@ -1,0 +1,1 @@
+Is there any bootstrapping template to build apps that look like Visual Studio Code

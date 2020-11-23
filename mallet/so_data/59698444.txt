@@ -1,0 +1,1 @@
+Electron: Cannot access dialog before initialization

@@ -1,0 +1,1 @@
+Can we force load .NET 4.7.2 with electron-edge-js? .Net 4.5.2 has security issue where TLS 1.0 is used

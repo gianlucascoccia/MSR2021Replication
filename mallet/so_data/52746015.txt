@@ -1,0 +1,1 @@
+Can we rebuild node native module on Linux for win32 platform using node-gyp?

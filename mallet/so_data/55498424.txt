@@ -1,0 +1,1 @@
+Error with sqlite3 after updating electron-react app

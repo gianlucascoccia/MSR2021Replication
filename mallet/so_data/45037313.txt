@@ -1,0 +1,1 @@
+Electron crashes when making an HTTPS request inside an addeventlistener callback function

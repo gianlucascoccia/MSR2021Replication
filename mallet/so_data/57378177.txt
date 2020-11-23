@@ -1,0 +1,1 @@
+Getting HDD Serial Number with Intel Optane Disk

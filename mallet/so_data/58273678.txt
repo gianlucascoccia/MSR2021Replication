@@ -1,0 +1,1 @@
+Push additional file to the S3 bucket with Electron Builder

@@ -1,0 +1,1 @@
+Electron process keep running after closing

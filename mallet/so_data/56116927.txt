@@ -1,0 +1,1 @@
+UnhandledPromiseRejectionWarning: Error: Cannot process ISO 14443-4 tag because AID was not set

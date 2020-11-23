@@ -1,0 +1,1 @@
+Angular2 rc5 and Electron Error - Cannot resolve component using

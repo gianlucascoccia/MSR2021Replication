@@ -1,0 +1,1 @@
+Electron: [Violation] 'click' handler took 574ms

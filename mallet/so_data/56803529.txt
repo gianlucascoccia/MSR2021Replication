@@ -1,0 +1,1 @@
+Detect internet connection in Electron

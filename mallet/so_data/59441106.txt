@@ -1,0 +1,1 @@
+Using electron, how to take HTML input and use it to create a python variable?

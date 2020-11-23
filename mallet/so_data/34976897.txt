@@ -1,0 +1,1 @@
+Atom Runs Incredibly Slow on Ubuntu 15.10 - Something about a Renderer?

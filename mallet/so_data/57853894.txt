@@ -1,0 +1,1 @@
+Why my SQLite file is turning to a empty text file when main window is closed?

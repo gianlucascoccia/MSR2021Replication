@@ -1,0 +1,1 @@
+Electron - Variable changes value when passed from renderer to main

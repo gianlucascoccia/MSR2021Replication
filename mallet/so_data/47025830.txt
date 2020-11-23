@@ -1,0 +1,1 @@
+Electron -- Loading an SVG (as markup)

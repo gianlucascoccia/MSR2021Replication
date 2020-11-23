@@ -1,0 +1,1 @@
+electron-packager does not preserve file times

@@ -1,0 +1,1 @@
+Save Lokijs DB in Electron

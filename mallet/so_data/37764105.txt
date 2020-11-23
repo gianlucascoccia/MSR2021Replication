@@ -1,0 +1,1 @@
+Electron API accessible from client apps (other client electron apps in a network)

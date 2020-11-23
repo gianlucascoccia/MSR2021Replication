@@ -1,0 +1,1 @@
+Is it possible to open an interactive pane or window with Visual Studio Code extension

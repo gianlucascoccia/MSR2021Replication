@@ -1,0 +1,1 @@
+Node.js FileSystem access returns ENOENT despite the file existing

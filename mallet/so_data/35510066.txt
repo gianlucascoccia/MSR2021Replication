@@ -1,0 +1,1 @@
+Possible to use http-parser-js in an Electron app?

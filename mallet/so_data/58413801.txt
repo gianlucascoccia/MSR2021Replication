@@ -1,0 +1,1 @@
+Is there a way to improve the performance of webview in Electron?

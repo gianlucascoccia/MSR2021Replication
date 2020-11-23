@@ -1,0 +1,1 @@
+I want to reduce number of files after electron has packaged my app

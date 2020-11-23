@@ -1,0 +1,1 @@
+Is there a standard way for an Electron or Node.js app to access system-level icons?

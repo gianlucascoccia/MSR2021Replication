@@ -1,0 +1,1 @@
+Electron application doesn't showing browser alerts

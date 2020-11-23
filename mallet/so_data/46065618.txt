@@ -1,0 +1,1 @@
+How to pass data to Angular2 Component from AngularFire2 Service

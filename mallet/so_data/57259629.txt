@@ -1,0 +1,1 @@
+Electron how to use a method that's not in the main.js file

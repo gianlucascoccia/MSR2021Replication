@@ -1,0 +1,1 @@
+Gender emojis in electron applications for macOS

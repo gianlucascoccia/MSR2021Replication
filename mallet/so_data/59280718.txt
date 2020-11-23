@@ -1,0 +1,1 @@
+compress the size of electron application

@@ -1,0 +1,1 @@
+When creating a feathers service with nedb, is it possible to define a unique index?

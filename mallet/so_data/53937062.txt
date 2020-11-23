@@ -1,0 +1,1 @@
+Electron JS Error: Cannot create BrowserWindow before app is ready

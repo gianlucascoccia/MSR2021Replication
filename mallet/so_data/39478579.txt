@@ -1,0 +1,1 @@
+What is .asar file and why it's used in electron applications

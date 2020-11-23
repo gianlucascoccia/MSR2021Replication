@@ -1,0 +1,1 @@
+how to prevent empying an array when switching between pages in Electron?

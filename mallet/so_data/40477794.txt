@@ -1,0 +1,1 @@
+Form submission refreshes page even with return false and preventdefault

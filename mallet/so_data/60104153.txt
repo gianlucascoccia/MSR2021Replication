@@ -1,0 +1,1 @@
+regEx to ignore build and dist directories at top level of project?

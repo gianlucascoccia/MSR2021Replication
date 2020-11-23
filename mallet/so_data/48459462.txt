@@ -1,0 +1,1 @@
+How best to package files on base install directory of electron

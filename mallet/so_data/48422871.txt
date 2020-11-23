@@ -1,0 +1,1 @@
+Electron Builder NSIS Create a shortcut in startup

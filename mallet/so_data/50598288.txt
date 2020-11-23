@@ -1,0 +1,1 @@
+After packaging an electron app (installed with -no--asar) child_process.spawn not working

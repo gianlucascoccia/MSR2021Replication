@@ -1,0 +1,1 @@
+Submitting Electron App to Mac App Store: Error "Invalid Signature"

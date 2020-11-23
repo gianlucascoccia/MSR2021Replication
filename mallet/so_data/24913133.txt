@@ -1,0 +1,1 @@
+Is CRUD API of NeDB compatibale with MongoDB?

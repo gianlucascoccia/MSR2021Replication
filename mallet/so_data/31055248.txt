@@ -1,0 +1,1 @@
+Node Webkit - Options for encoding in writeFileSync not work?

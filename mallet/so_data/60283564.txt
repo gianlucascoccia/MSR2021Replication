@@ -1,0 +1,1 @@
+Looking for a _working_ simple example of Electron v8 and TypeScript

@@ -1,0 +1,1 @@
+mainWindow.loadFile(`file://${__dirname}/index.html`)- not working even after using 'backtick'

@@ -1,0 +1,1 @@
+Run Node.js server file automatically after launching Electron App

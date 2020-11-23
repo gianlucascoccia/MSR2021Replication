@@ -1,0 +1,1 @@
+Unable to use keytar in main.js of electron project

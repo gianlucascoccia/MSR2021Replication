@@ -1,0 +1,1 @@
+With contextIsolation = true, is it possible to use ipcRenderer?

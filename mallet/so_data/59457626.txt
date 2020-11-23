@@ -1,0 +1,1 @@
+Check if a line already exists in a file with JavaScript (Electron/node.js)

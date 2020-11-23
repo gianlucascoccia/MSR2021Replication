@@ -1,0 +1,1 @@
+Synchronously loading an image by freezing the browser

@@ -1,0 +1,1 @@
+How to use Select2 with Electron (Uncaught TypeError: $(...).select2 is not a function)

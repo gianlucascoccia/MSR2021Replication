@@ -1,0 +1,1 @@
+electron + react + webpack dev middleware + hmr - refreshes entire page instead of hot reloading

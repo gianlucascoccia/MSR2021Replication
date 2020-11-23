@@ -1,0 +1,1 @@
+Module did not self-register. Electron app using a custom build c++ node module compiled with cmake-js

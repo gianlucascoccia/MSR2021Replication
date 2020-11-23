@@ -1,0 +1,1 @@
+NW.js 16 won't show script in the sources tab

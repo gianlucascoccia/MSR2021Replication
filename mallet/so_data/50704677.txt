@@ -1,0 +1,1 @@
+Browser style tabs on the windows navigation bar

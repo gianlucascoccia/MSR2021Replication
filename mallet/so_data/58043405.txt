@@ -1,0 +1,1 @@
+Build standalone .exe from electron app using electron-builder

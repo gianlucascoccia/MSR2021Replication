@@ -1,0 +1,1 @@
+How does Google Analytics detect browser/version?

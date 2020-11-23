@@ -1,0 +1,1 @@
+CreateReadStream event are not generated properly if there are multiple pipes

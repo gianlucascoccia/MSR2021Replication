@@ -1,0 +1,1 @@
+How can you record a `.har` of an Electron `webContents` session?

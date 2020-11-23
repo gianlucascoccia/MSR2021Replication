@@ -1,0 +1,1 @@
+React - variable is undefined instead of true/false - component gets rendered first?

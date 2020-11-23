@@ -1,0 +1,1 @@
+electron-packager with sqlite3 and webpack

@@ -1,0 +1,1 @@
+How do you prevent cross domain iframe window.top access?

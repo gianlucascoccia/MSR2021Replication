@@ -1,0 +1,1 @@
+How i get events in electron webcontents?

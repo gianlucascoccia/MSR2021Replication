@@ -1,0 +1,1 @@
+Retrieve tray position on menuItem click

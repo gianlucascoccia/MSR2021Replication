@@ -1,0 +1,1 @@
+ember-electron use fs in third party npm module

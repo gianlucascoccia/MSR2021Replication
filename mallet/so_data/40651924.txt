@@ -1,0 +1,1 @@
+Can I read webview's cookies in an Electron app?

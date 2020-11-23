@@ -1,0 +1,1 @@
+vue-i18n with vue-electron : TypeError: Cannot read property '_t' of undefined

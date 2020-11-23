@@ -1,0 +1,1 @@
+Get chrome dev tool network tab value

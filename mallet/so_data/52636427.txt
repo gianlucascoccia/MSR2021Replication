@@ -1,0 +1,1 @@
+How to call a function in another script from main.js in electron

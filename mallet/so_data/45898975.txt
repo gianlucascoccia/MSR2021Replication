@@ -1,0 +1,1 @@
+Script affects all divs, how can I get it to affect just one?

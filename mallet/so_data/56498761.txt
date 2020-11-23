@@ -1,0 +1,1 @@
+electron ipcRenderer from Vue.js Single File Component

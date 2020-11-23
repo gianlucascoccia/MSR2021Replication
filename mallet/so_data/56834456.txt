@@ -1,0 +1,1 @@
+Calling chrome.webNavigation.getAllFrames() in the NW.js extension closes the app

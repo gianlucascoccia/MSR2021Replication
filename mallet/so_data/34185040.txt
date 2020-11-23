@@ -1,0 +1,1 @@
+Replacing the ffmpegsumo in nwjs makes the application crash

@@ -1,0 +1,1 @@
+can we create a chrome extension for electron app with our existing codebase easily

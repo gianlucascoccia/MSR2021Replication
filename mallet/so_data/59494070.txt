@@ -1,0 +1,1 @@
+Difference between Electron-based XMLHttpRequest and browser-based URL with query string?

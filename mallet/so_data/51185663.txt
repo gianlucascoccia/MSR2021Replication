@@ -1,0 +1,1 @@
+Add custom page/field to NSIS setup created with electron-builder

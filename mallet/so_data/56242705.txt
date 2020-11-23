@@ -1,0 +1,1 @@
+exiftool-vendored doesn't return when used in an electron app on Mac?

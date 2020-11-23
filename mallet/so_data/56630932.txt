@@ -1,0 +1,1 @@
+Run function passed in global in renderer thread

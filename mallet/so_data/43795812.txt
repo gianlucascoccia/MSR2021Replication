@@ -1,0 +1,1 @@
+How can I "feed" variables through links to Electron / JavaScript to launch exe's?

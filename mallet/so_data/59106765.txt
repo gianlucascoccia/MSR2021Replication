@@ -1,0 +1,1 @@
+How is an electron-builder NSIS block map generated? Can it be controlled?

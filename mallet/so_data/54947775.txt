@@ -1,0 +1,1 @@
+Print current vue-view with electron.js

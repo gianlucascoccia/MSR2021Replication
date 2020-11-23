@@ -1,0 +1,1 @@
+How to expose node binary to electron app without install node

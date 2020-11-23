@@ -1,0 +1,1 @@
+Calling a function in the main process from the renderer

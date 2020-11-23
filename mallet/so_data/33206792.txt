@@ -1,0 +1,1 @@
+how to access the node api from a remote page in electron?

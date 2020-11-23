@@ -1,0 +1,1 @@
+Can we launch a node command on a mac without node installed when using electron-packager?

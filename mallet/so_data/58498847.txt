@@ -1,0 +1,1 @@
+How to send application insights data when device reboot? (with electron app)

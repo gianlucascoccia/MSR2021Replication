@@ -1,0 +1,1 @@
+In Electron why is my second breakpoint not getting hit?

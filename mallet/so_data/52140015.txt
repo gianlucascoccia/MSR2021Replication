@@ -1,0 +1,1 @@
+Define multi run config with same package.json file

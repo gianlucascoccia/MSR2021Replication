@@ -1,0 +1,1 @@
+I want to don't build one specific directory of my Electron app packaged with electron-packager

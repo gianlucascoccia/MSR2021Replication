@@ -1,0 +1,1 @@
+Node require() inside Angular 2 App with Electron

@@ -1,0 +1,1 @@
+How to include a gigantic 14GB+ folder in the NSIS installer of an Electron app?

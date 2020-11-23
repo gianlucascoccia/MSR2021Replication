@@ -1,0 +1,1 @@
+Electron browser icon not showing in Linux

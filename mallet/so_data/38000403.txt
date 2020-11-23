@@ -1,0 +1,1 @@
+Electron app installed but doesn't appear in start menu

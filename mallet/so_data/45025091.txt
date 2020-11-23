@@ -1,0 +1,1 @@
+electron-packager and electron-builder error build with electron-vue when put in file server

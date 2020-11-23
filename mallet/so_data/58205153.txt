@@ -1,0 +1,1 @@
+Is this typescript error about overloads not matching my code or a bug in the provided typings?

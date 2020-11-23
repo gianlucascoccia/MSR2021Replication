@@ -1,0 +1,1 @@
+Is there a way to continuously receive updated mongodb data sent from main.js to renderer.js?

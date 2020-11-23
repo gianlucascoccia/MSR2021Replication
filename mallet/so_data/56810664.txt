@@ -1,0 +1,1 @@
+ElectronJs: How to send message from ipcMain to IpcRender and then receive a reply?

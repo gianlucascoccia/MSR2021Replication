@@ -1,0 +1,1 @@
+Setting variables per environment electron-react app

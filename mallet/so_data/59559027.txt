@@ -1,0 +1,1 @@
+electron 5.0.2 + node 12 + ali-oss 6.4.0: client.getStream is not a function

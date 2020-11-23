@@ -1,0 +1,1 @@
+How to re-calculate the stop and resume animation calculation correctly in my project

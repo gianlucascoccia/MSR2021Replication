@@ -1,0 +1,1 @@
+window.open() is not working in desktop application

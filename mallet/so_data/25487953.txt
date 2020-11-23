@@ -1,0 +1,1 @@
+Hide cursor on atom-shell application startup

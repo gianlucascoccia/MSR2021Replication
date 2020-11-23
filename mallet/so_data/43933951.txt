@@ -1,0 +1,1 @@
+How to increase the max memory limit for the app built by electron-builder?

@@ -1,0 +1,1 @@
+How do I access an object from the main process from a render process [Electron]

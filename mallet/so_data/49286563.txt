@@ -1,0 +1,1 @@
+setting Style backgroundImage for both electron and browser application

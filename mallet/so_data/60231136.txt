@@ -1,0 +1,1 @@
+How do I make my electron app behave like a mobile device

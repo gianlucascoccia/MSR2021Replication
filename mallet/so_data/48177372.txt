@@ -1,0 +1,1 @@
+Materialize-CSS Navbar with tabs not working on Electron

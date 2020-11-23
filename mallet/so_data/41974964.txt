@@ -1,0 +1,1 @@
+Object Destructuring Assignment Behaving Weirdly in Constructor

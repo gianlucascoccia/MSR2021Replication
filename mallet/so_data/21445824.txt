@@ -1,0 +1,1 @@
+Angular service, trying to read data from file (I'm using node-webkit), can't get it to work

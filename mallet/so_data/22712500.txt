@@ -1,0 +1,1 @@
+Safe passwords locally with node-webkit

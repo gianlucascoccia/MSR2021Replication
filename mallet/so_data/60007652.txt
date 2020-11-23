@@ -1,0 +1,1 @@
+Electron : Error on generating Setup for Windows with electron-winstaller on MacOsx

@@ -1,0 +1,1 @@
+How to specify custom dist folder in electron-forge

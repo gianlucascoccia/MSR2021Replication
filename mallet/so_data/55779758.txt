@@ -1,0 +1,1 @@
+How to solve this error Module not found: Error: Can't resolve 'fs'

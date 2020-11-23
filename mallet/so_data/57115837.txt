@@ -1,0 +1,1 @@
+<script> require('renderer.js') </script> - does not connect the js file

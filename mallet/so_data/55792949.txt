@@ -1,0 +1,1 @@
+Getting an unhandled promise rejection error while running electron-windows-store

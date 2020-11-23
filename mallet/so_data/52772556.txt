@@ -1,0 +1,1 @@
+Angular 6 cannot resolve 'fs' and 'path' for using electron

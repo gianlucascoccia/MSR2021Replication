@@ -1,0 +1,1 @@
+Angular javascript to detect and install jdk

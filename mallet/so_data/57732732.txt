@@ -1,0 +1,1 @@
+Javascript open external link from electron app 2min after i click on call button

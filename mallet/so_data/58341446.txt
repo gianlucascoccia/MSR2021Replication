@@ -1,0 +1,1 @@
+Download link inside iFrame works in Chrome, but not in Electron

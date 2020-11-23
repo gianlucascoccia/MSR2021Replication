@@ -1,0 +1,1 @@
+Some code can't be used after packing with electron-packager

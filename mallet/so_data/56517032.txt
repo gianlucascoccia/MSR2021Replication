@@ -1,0 +1,1 @@
+I want the website inside the loadURL to go back when I press the backspace key

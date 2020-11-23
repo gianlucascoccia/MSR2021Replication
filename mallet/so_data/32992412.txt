@@ -1,0 +1,1 @@
+Why is jsdom throwing a Type Error?

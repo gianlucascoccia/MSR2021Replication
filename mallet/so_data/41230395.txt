@@ -1,0 +1,1 @@
+React-Router - Can i get the next path string in browser history of react router or check if there is somthing forward?

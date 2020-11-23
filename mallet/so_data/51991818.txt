@@ -1,0 +1,1 @@
+angular-electron app not launching and automatically exiting

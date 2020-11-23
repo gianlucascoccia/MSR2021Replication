@@ -1,0 +1,1 @@
+Uncaught Error: process.binding is not supported (when developing in React, fluxible and electron)

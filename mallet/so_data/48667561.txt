@@ -1,0 +1,1 @@
+Electron threw a compile error and Windows command prompt goes non writable

@@ -1,0 +1,1 @@
+Angular2 / Electron application components cannot find template HTML file

@@ -1,0 +1,1 @@
+Screen recording in electron using angularJS framework

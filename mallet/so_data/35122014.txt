@@ -1,0 +1,1 @@
+How to route from outside of components with `react-router` in Electron?

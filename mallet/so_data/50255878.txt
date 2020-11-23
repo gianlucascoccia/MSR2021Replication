@@ -1,0 +1,1 @@
+Unable to build with electron-builder after migration from bower to yarn

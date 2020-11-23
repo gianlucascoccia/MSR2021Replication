@@ -1,0 +1,1 @@
+How to know if web app and executable app both are active at same time

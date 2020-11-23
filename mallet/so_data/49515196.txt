@@ -1,0 +1,1 @@
+Angular 5 Electron-Packager fails at 'npm prune --production'

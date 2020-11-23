@@ -1,0 +1,1 @@
+ZOE ERROR (from /usr/lib/snap/snap): error opening parameter file

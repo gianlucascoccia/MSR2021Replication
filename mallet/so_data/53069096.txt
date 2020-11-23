@@ -1,0 +1,1 @@
+Setting nodeIntegration: false when using create-react-app-typescript and electron

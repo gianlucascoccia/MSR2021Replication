@@ -1,0 +1,1 @@
+How to clear the cache data in Electron(atom shell)?

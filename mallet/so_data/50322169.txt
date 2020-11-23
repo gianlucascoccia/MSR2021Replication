@@ -1,0 +1,1 @@
+Need some suggestions for developing a desktop application that uses offline database

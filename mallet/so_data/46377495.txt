@@ -1,0 +1,1 @@
+How to automate desktop application developed using electron framework?

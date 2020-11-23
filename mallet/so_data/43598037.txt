@@ -1,0 +1,1 @@
+ERROR in renderer.js from UglifyJs Unexpected token punc «(»

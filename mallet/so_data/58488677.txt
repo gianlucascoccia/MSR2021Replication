@@ -1,0 +1,1 @@
+What is wrong about this IPC code? It does not emit an event

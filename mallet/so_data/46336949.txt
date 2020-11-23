@@ -1,0 +1,1 @@
+Electron update-available and update-downloaded event not fire on client

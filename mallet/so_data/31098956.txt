@@ -1,0 +1,1 @@
+IPC on Terminal Server with C/C++ an nw.js/node.js/node-native-module (C++)?

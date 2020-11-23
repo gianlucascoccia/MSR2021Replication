@@ -1,0 +1,1 @@
+How can i run Spectron test in docker?

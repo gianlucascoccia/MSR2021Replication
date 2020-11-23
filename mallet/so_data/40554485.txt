@@ -1,0 +1,1 @@
+Perform click operation in succession on dynamic list of selected elements in nightmare js

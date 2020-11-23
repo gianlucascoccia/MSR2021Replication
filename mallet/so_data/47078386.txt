@@ -1,0 +1,1 @@
+FileSaver.js Save as type is incorrect

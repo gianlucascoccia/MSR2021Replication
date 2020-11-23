@@ -1,0 +1,1 @@
+Constant minor CPU usage while using node-sqlite3

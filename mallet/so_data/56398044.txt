@@ -1,0 +1,1 @@
+How Would I Use Electron IPC In Front-End Js File Electron App?

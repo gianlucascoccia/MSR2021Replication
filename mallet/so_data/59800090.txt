@@ -1,0 +1,1 @@
+How to prevent Content Security Policy errors with testcafe electron plugin?

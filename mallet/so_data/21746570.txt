@@ -1,0 +1,1 @@
+Requiring/running JavaScript outside of node-webkit application

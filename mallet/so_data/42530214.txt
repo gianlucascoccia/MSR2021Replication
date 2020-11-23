@@ -1,0 +1,1 @@
+Is it possible to bundle a precomposed binary in VsCode extension?

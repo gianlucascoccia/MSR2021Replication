@@ -1,0 +1,1 @@
+App 'can’t be opened because its integrity cannot be verified' on macOS Catalina

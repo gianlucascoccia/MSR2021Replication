@@ -1,0 +1,1 @@
+Visual Studio Code creates “com.screencastomatic” in MacOS, what is that thing?

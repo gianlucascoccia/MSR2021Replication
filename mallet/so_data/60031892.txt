@@ -1,0 +1,1 @@
+Ably.Realtime causes whitescreen after 30 Seconds in my electron-boilerplate project

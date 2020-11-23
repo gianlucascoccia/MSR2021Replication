@@ -1,0 +1,1 @@
+Draggable and resizable div leaves a trail in electron frameless/transparent window

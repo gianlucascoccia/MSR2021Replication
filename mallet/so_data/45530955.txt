@@ -1,0 +1,1 @@
+Listening for Electron's ipcRenderer message inside a Vue component

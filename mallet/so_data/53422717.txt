@@ -1,0 +1,1 @@
+electron-builder not working for production due to path

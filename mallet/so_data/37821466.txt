@@ -1,0 +1,1 @@
+bootstrap dropdown not working in electron

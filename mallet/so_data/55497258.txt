@@ -1,0 +1,1 @@
+SpeechRecognition network error (electronjs)

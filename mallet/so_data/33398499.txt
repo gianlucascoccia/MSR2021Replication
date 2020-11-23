@@ -1,0 +1,1 @@
+How to detect desktop idle time from an Electron app?

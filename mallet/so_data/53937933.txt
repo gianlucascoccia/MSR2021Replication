@@ -1,0 +1,1 @@
+Artist.findOne is not a function

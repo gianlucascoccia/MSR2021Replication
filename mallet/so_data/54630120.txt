@@ -1,0 +1,1 @@
+View does not refresh on IPC message received

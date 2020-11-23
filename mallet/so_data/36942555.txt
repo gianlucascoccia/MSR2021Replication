@@ -1,0 +1,1 @@
+Does the electron framework allow multi-threading through web workers?

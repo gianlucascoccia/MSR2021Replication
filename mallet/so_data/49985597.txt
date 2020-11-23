@@ -1,0 +1,1 @@
+Electron app window does not gain focus when distributed for Mac

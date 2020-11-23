@@ -1,0 +1,1 @@
+Webpack + Electron: Why I need "electron-renderer" script if application work without it?

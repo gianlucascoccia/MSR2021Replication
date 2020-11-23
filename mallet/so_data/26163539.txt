@@ -1,0 +1,1 @@
+Is it safe to use a UUID as the name for a Node Webkit package?

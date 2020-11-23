@@ -1,0 +1,1 @@
+How to install 3rd party applications using Electron as a background process

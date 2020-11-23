@@ -1,0 +1,1 @@
+Configuring Cypress's Electron browser to handle downloads

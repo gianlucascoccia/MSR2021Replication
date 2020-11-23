@@ -1,0 +1,1 @@
+Click with robotjs when the speed of the mouse is low

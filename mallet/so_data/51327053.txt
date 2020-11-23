@@ -1,0 +1,1 @@
+AngularJS scope variable not setting properly

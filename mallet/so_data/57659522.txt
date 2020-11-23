@@ -1,0 +1,1 @@
+Electron: Include binary dependency with Webpack

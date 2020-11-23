@@ -1,0 +1,1 @@
+How do I protect a commercial app built with Electron?

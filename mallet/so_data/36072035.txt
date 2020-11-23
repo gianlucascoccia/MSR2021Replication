@@ -1,0 +1,1 @@
+how to open new window in place of current window in Electron

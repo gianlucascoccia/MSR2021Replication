@@ -1,0 +1,1 @@
+extraHeaders doesnt work in socket.io-client

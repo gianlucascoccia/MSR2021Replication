@@ -1,0 +1,1 @@
+how implement auth0 authentication using external browser(chrome,firefox etc.) in electron application

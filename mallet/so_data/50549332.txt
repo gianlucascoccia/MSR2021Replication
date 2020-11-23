@@ -1,0 +1,1 @@
+IpcMain and IpcRenderer call main.js function from index.html

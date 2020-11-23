@@ -1,0 +1,1 @@
+Electron and sequelize error: the dialect sqlite is not supported

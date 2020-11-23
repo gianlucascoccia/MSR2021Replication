@@ -1,0 +1,1 @@
+Extract search results from external url using Electron cross platform?

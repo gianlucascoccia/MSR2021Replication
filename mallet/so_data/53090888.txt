@@ -1,0 +1,1 @@
+Have $emit() execute synchronously after a function in Vue

@@ -1,0 +1,1 @@
+Firebase and Electron : firebase.auth(...).onAuthStateChanged is not a function

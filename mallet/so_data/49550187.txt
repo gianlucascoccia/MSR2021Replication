@@ -1,0 +1,1 @@
+Integrate g-suite (google) for signup and get user roles in desktop application

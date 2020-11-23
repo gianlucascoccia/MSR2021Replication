@@ -1,0 +1,1 @@
+Opening a new BrowserWindow in electron that renders a new react component

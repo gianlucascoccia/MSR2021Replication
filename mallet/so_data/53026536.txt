@@ -1,0 +1,1 @@
+electron builded exe app - generating file (unpacked - ok / portable - nothing) - why?

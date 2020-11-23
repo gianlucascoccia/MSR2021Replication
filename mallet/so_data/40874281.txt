@@ -1,0 +1,1 @@
+Angular 2 (global variables): How do I access a variable defined in index.html, in the Typescript code?

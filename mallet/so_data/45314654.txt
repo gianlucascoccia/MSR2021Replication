@@ -1,0 +1,1 @@
+How to Debug a JavaScript code when it is loaded by document.write?

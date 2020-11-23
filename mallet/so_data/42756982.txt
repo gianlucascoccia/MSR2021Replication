@@ -1,0 +1,1 @@
+How do you specify a custom file extension in an Electron app?

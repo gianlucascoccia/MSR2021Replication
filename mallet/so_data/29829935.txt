@@ -1,0 +1,1 @@
+NodeWebkit (nw.js) allow self signed SSL certificate inside iframe

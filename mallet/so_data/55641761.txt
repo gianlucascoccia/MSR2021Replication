@@ -1,0 +1,1 @@
+Can an Electron window use windows authentication to login to SSO?

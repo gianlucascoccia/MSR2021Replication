@@ -1,0 +1,1 @@
+How can I open chrome and do a google image search from a node/electron application

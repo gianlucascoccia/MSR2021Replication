@@ -1,0 +1,1 @@
+How to open newBrowserWindow in a total center of two extended monitors at electron atom

@@ -1,0 +1,1 @@
+How to traverse all files, and support pause and continue

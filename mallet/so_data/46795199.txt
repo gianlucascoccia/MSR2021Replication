@@ -1,0 +1,1 @@
+Electron: Maximized browserWindow overlaps Window' taskbar

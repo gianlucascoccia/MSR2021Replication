@@ -1,0 +1,1 @@
+How to duplicate the content of a window - Electron

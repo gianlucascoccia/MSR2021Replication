@@ -1,0 +1,1 @@
+How can I resolve loading of xml2json in my electron app

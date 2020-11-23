@@ -1,0 +1,1 @@
+TypeScript prevents me from passing the correct constraints to getUserMedia

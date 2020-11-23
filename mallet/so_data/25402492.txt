@@ -1,0 +1,1 @@
+nw reactjs requring in multiple files does not work

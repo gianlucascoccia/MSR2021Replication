@@ -1,0 +1,1 @@
+Handle SIGABRT in Electron.js/Node.js application

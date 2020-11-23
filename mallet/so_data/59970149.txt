@@ -1,0 +1,1 @@
+Problem getting messages after loading html between main and renderer

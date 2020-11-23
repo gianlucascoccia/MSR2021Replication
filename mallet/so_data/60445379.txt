@@ -1,0 +1,1 @@
+fs.readdirSync is not a function - electron + react.js

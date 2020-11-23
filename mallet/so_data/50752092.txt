@@ -1,0 +1,1 @@
+How can I ensure Electron windows are removed from memory entirely?

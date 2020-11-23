@@ -1,0 +1,1 @@
+A dynamic link library (DLL) initialization routine failed in electron with nodegit

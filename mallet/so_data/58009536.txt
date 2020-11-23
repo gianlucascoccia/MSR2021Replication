@@ -1,0 +1,1 @@
+Distribute version with electron-builder staged rollout to a percentage of users and if broken update only for those users

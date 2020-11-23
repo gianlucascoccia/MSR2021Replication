@@ -1,0 +1,1 @@
+react-scripts start error code-134, not starting application

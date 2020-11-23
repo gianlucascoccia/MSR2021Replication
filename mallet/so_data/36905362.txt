@@ -1,0 +1,1 @@
+How to send json back to angular using electron-json-storage

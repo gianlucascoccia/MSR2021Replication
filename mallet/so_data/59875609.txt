@@ -1,0 +1,1 @@
+Error "Cannot read property 'indexOf' of undefined" binding n-api module

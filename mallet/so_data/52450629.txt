@@ -1,0 +1,1 @@
+Electron: Manage the sound volume level of inner webviews

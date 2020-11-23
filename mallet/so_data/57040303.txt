@@ -1,0 +1,1 @@
+Electron with Angular, new file is not updated in app.asar bag from app.asar.unpacked folder

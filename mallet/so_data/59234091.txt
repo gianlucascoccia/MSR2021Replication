@@ -1,0 +1,1 @@
+Reading from a file which I write to the mocked file system using Mock-FS library

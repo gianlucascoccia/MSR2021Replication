@@ -1,0 +1,1 @@
+Quotes conflict when span added with paste

@@ -1,0 +1,1 @@
+Type assertion for non exported interface

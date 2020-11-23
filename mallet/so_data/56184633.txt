@@ -1,0 +1,1 @@
+Remove the source code i.e. include only .node binary in native electron dependency

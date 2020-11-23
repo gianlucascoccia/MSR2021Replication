@@ -1,0 +1,1 @@
+Electron overriding High DPI support on macOS with SDL

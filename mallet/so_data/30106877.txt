@@ -1,0 +1,1 @@
+Passing information between js and html parts in electron (atom-shell)

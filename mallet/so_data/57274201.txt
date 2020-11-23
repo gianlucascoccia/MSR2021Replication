@@ -1,0 +1,1 @@
+Can't use event listeners in renderer process in electron

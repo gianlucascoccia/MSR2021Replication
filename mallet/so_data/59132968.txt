@@ -1,0 +1,1 @@
+HTML to pdf using MVC razor view - page contains multiple <thead> but pdf uses first header for all pages

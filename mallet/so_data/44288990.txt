@@ -1,0 +1,1 @@
+Update.exe doesn't create start menu shortcuts when passing in process-start-args

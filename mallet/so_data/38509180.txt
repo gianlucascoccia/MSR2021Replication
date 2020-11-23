@@ -1,0 +1,1 @@
+Trying to connect to Oracle DB through Electron in Windows 7

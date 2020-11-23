@@ -1,0 +1,1 @@
+Read content of all files inside a directory in order using node.js

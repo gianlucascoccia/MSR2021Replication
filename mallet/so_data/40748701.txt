@@ -1,0 +1,1 @@
+How to run serialport once port is ready to receive the data?

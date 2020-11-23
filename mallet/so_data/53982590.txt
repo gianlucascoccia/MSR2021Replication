@@ -1,0 +1,1 @@
+Using foreverjs in electron causes electron app duplicates in dock

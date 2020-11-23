@@ -1,0 +1,1 @@
+How to add license to a Mac DMG target electron app using electron builder?

@@ -1,0 +1,1 @@
+Cookies in an iframe inside an electron app stop working when setting custom header via webRequest.onBeforeSendHeaders

@@ -1,0 +1,1 @@
+Can't close the window with Electron and Socket io

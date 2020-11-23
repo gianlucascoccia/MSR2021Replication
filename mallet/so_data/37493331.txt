@@ -1,0 +1,1 @@
+Making a library importable using webpack and babel

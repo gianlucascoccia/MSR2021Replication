@@ -1,0 +1,1 @@
+Context menu click/open event with Atom Shell/Electron?

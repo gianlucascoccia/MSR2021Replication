@@ -1,0 +1,1 @@
+Electron app authentication works in dev but not after package with electron-builder

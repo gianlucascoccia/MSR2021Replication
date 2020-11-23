@@ -1,0 +1,1 @@
+Is it possible to write automation tests for nwjs app?

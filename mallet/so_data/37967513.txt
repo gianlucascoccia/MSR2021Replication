@@ -1,0 +1,1 @@
+Exit full screen when "esc" is pressed (using javascript with electron)

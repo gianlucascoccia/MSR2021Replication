@@ -1,0 +1,1 @@
+localstorage not persisting on node-webkit

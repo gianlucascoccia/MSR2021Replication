@@ -1,0 +1,1 @@
+Close application on press of GlobalShortcut keys when application is in focus

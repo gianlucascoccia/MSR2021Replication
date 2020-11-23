@@ -1,0 +1,1 @@
+I want to block electron app from communicating with outside world

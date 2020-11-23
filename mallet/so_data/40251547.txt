@@ -1,0 +1,1 @@
+Electron: how to capture computer activities with electron app?

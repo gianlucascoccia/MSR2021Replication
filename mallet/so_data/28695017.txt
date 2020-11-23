@@ -1,0 +1,1 @@
+node-webkit (nw.js) Ubuntu 12.04 LTS SUID sandbox error

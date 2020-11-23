@@ -1,0 +1,1 @@
+Send sync message from IpcMain to IpcRenderer - Electron

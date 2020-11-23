@@ -1,0 +1,1 @@
+How to distinguish keypress Jquery event between on-screen keyboard and physical keyboard in NW.exe?

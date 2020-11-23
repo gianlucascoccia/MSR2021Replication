@@ -1,0 +1,1 @@
+Electron webview preload only file:// protocol is supported when using create-react-app base

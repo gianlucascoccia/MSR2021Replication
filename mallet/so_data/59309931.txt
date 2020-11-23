@@ -1,0 +1,1 @@
+NW.js + vue-cli: how to read a local file?

@@ -1,0 +1,1 @@
+Passing returned parameter (results) in invoke method of callback to other Javascript file

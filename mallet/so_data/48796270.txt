@@ -1,0 +1,1 @@
+Interacting with dev tools while scraping with nightmare.js with .evaluate

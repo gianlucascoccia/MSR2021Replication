@@ -1,0 +1,1 @@
+Listener for "accent color override" for system tray on windows on Electron

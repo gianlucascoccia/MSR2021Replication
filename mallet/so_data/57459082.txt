@@ -1,0 +1,1 @@
+Black border arround content in Electron

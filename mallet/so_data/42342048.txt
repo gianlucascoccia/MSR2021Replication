@@ -1,0 +1,1 @@
+How do I determine if an application is built by Electron or not?

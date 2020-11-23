@@ -1,0 +1,1 @@
+N-API C++ addon causing Electron GUI to block

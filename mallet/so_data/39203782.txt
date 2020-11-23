@@ -1,0 +1,1 @@
+NW.JS - How to use chrome.desktopCapture to just save a PNG screenshot of user's desktop?

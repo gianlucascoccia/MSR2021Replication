@@ -1,0 +1,1 @@
+Create persistent redux state backed by MongoDB in Electron + React

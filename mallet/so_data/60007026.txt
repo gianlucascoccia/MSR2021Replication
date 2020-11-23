@@ -1,0 +1,1 @@
+Node Webkit open folder by path of shell windows

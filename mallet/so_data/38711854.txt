@@ -1,0 +1,1 @@
+Error when trying to acces parent folder in Electron/Node.js

@@ -1,0 +1,1 @@
+Electron entitlements error "ITMS-90287" when submitting to app store

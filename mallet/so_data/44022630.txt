@@ -1,0 +1,1 @@
+Error while installinng libimobiledevice in ubuntu 14.04

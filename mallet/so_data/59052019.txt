@@ -1,0 +1,1 @@
+Strange behavior of Vuex mutations in Electron app based on electron-vue

@@ -1,0 +1,1 @@
+javascript electron function shell.openExternal(url) take time to open link

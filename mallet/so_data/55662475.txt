@@ -1,0 +1,1 @@
+how to get squared corners with frameless windows in electronjs on macOS?

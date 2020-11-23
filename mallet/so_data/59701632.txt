@@ -1,0 +1,1 @@
+useContentSize set to undefined after setMinimumSize

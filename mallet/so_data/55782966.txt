@@ -1,0 +1,1 @@
+How is the ipcRenderer argument JSON object losing data when passed from an Angular 7 service?

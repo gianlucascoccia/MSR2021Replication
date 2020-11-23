@@ -1,0 +1,1 @@
+electron sending data from ipcMain to ipcRender

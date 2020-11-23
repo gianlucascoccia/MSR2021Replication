@@ -1,0 +1,1 @@
+Shortcut icon not loading properly in electron-packager

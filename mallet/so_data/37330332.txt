@@ -1,0 +1,1 @@
+electron BrowserWindow min height and width not working after hide() show() methods

@@ -1,0 +1,1 @@
+How do I get the id of a particular record in database using NeDB?

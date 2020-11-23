@@ -1,0 +1,1 @@
+Is there a way to disable all browser-like behaviors in an electron app?

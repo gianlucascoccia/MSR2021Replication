@@ -1,0 +1,1 @@
+shown.bs.tab event not firing in electron app

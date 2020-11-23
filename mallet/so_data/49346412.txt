@@ -1,0 +1,1 @@
+How to build vue views from within electron apps to mount as plugins

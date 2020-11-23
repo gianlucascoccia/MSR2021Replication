@@ -1,0 +1,1 @@
+Google's Speech-to-text streaming API not working in Electron-Vue

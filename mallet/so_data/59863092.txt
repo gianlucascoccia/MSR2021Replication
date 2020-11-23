@@ -1,0 +1,1 @@
+Node.js/Electron/React: msnodesqlv8 installation warns Critical dependency: the request of a dependency is an expression

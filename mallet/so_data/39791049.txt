@@ -1,0 +1,1 @@
+Typescript megring namespaces in d.ts files

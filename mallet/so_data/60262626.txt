@@ -1,0 +1,1 @@
+electron automatically removing dynamically added html

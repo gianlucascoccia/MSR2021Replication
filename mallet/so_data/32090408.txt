@@ -1,0 +1,1 @@
+Is it possible with Node-webkit to disable maximize on osx yosemite 10.10.3

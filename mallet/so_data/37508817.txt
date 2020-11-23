@@ -1,0 +1,1 @@
+how can detect devices on my computer with electron desktop build app

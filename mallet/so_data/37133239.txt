@@ -1,0 +1,1 @@
+Kimono Desktop's payload url and index fields missing

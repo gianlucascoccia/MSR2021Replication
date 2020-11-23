@@ -1,0 +1,1 @@
+Ionic 4 and Electron - 2 way binding giving error

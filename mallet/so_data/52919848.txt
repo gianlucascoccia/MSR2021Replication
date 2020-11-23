@@ -1,0 +1,1 @@
+electron-compile not playing nice with Electron v3.0.5/Chrome 66 due to .scss files

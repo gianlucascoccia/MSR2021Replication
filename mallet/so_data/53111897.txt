@@ -1,0 +1,1 @@
+Correcting error with toJpeg in ElectronJS

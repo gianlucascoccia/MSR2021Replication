@@ -1,0 +1,1 @@
+Winston logger in angular-electron application

@@ -1,0 +1,1 @@
+Electron: Is it possible to set the current window to be frameless?

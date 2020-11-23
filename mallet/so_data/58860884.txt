@@ -1,0 +1,1 @@
+Run globally installed node module from electron app

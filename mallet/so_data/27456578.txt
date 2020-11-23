@@ -1,0 +1,1 @@
+Change color for setBadgelabel Node Webkit

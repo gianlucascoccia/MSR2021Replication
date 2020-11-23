@@ -1,0 +1,1 @@
+electron: how to set text on about for Darwin/OS X

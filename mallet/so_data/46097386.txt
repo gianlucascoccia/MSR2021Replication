@@ -1,0 +1,1 @@
+Using node-cmd module while handling Squirrel Events function

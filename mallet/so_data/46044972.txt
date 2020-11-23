@@ -1,0 +1,1 @@
+WebSocket opening handshake was canceled for electron app on localhost

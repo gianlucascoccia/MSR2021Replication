@@ -1,0 +1,1 @@
+How to retrieve code from real barcode scanner in node.js for node-webkit app

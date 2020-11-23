@@ -1,0 +1,1 @@
+Read/Write and store data internelly in a Local App (no server) with JavaScript

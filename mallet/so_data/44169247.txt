@@ -1,0 +1,1 @@
+spatialite NodeJS module seems too slow

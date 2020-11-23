@@ -1,0 +1,1 @@
+access variable from index.ts to a component

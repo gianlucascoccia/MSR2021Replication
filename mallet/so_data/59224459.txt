@@ -1,0 +1,1 @@
+Why multiple sub-instance are running in electron?

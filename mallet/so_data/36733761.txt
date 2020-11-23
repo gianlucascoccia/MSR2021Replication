@@ -1,0 +1,1 @@
+how can i turn off the debug view in electron?i cant find any about it using google

@@ -1,0 +1,1 @@
+Browser window closing as soon as we serve the electron app

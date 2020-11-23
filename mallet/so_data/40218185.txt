@@ -1,0 +1,1 @@
+NW.js + TypeScript: Cannot find module 'nw.gui'

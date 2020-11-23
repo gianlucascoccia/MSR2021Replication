@@ -1,0 +1,1 @@
+Uncaught Error when nat-upnp in Node-Webkit

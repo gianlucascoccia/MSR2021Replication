@@ -1,0 +1,1 @@
+Prevent emitting certain code when using webpack to deploy Electron app for the web

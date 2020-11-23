@@ -1,0 +1,1 @@
+What is the most efficient way to display images from a ZIP archive on an offline desktop app?

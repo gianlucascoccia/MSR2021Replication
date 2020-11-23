@@ -1,0 +1,1 @@
+nw.js freeze after a long time in background

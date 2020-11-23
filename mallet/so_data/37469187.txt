@@ -1,0 +1,1 @@
+Share ipc object between child and parent processes

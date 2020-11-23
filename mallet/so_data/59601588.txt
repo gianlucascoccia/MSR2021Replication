@@ -1,0 +1,1 @@
+Cannot call a function in Javascript - Chart.js

@@ -1,0 +1,1 @@
+require('fs') not working with angular and electron

@@ -1,0 +1,1 @@
+Electron/Javascript: Detect when window is un/maximized

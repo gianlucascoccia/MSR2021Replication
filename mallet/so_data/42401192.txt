@@ -1,0 +1,1 @@
+nwbuilder won't build normal flavors

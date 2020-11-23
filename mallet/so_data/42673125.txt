@@ -1,0 +1,1 @@
+Electron: Is it Possible to Update Existing browserWindow Options - Avoid Needing To Create a New Window

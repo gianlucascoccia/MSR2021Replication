@@ -1,0 +1,1 @@
+How do run reload() and open() in Atom-Shell

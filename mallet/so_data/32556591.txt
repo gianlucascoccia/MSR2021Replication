@@ -1,0 +1,1 @@
+Video's full path with Node.js

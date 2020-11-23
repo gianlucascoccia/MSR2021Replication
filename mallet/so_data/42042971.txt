@@ -1,0 +1,1 @@
+isEventSupported.js Uncaught TypeError: Cannot call a class as a function

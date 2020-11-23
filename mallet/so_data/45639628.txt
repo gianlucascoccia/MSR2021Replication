@@ -1,0 +1,1 @@
+How to fix BrowserWindow is not a constructor error when creating child window in Electron renderer process

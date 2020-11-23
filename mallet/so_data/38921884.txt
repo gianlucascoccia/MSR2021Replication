@@ -1,0 +1,1 @@
+How get a template from a remote URL with AngularJS

@@ -1,0 +1,1 @@
+Open Associated File in Electron App by Double Click the File in File Explorer

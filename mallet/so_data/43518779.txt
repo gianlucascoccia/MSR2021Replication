@@ -1,0 +1,1 @@
+edge.js: how to call a method from .NET assembly with a reference to a COM object?

@@ -1,0 +1,1 @@
+nedb method update and delete creates a new entry instead updating existing one

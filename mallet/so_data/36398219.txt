@@ -1,0 +1,1 @@
+How can I get the right string when capturing http post response in Electron?

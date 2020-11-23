@@ -1,0 +1,1 @@
+navigator.webkitGetUserMedia stream improperly updating [electron's DesktopCapturer]

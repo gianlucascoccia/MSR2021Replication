@@ -1,0 +1,1 @@
+How do I create a new Window in electron js such that the original window is unusable until i close the new window?

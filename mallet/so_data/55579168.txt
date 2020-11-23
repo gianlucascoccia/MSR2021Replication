@@ -1,0 +1,1 @@
+How can I get Electron stdout content from within my main process code?

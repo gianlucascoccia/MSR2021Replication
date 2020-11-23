@@ -1,0 +1,1 @@
+Can't resolve module 'child_process'

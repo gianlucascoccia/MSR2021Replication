@@ -1,0 +1,1 @@
+Meteor leaderboard app on node-webkit

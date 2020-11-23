@@ -1,0 +1,1 @@
+Can I debug modules in node-webkit loaded via require?

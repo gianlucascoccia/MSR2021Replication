@@ -1,0 +1,1 @@
+How to disable keyboard shortcuts 'Alt + F4' in ElectronJS

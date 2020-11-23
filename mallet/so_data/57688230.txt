@@ -1,0 +1,1 @@
+How to use x86 dll file with ActiveXObject of winax in Electron

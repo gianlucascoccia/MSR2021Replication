@@ -1,0 +1,1 @@
+How set app version in ember electron app?

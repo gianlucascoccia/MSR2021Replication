@@ -1,0 +1,1 @@
+ElectronStore not permitted to access config in home for snap with 'strict' confinement?

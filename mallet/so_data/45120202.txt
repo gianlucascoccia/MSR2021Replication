@@ -1,0 +1,1 @@
+Strange multi-threaded behavior in electron's renderer process

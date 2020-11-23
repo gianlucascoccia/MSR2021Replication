@@ -1,0 +1,1 @@
+NodeWebkit + CKEditor Crashing app in OSX

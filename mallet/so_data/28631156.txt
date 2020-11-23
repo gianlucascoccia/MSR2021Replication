@@ -1,0 +1,1 @@
+Node Webkit program crashes with nwdirectory

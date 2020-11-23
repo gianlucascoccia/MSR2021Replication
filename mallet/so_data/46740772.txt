@@ -1,0 +1,1 @@
+No osx files in cordova-plugin-statusbar/networkstatus/network-information

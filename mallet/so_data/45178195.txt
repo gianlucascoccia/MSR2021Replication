@@ -1,0 +1,1 @@
+Image assets not found in packaged electron app - angular4 and webpack

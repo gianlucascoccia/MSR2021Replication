@@ -1,0 +1,1 @@
+Electron win.setMaximizable(true) not working

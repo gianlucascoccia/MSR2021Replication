@@ -1,0 +1,1 @@
+How can a MenuItem be separated into its own module in Electron?

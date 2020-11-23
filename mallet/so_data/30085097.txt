@@ -1,0 +1,1 @@
+Serialport.js in Node-webkit (nw.js) on Win 7

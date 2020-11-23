@@ -1,0 +1,1 @@
+Electron, how open app from tray instead start a new one?

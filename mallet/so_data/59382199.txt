@@ -1,0 +1,1 @@
+Does Electron have MDI similar to WinForm MDI

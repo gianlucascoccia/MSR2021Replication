@@ -1,0 +1,1 @@
+Notarizing Electron application with Finder Sync extension

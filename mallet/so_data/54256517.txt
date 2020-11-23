@@ -1,0 +1,1 @@
+make document.execCommand('insertText', false, 'message') work with draftjs?

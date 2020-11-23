@@ -1,0 +1,1 @@
+setState from inside of a callback to render related content in a React component

@@ -1,0 +1,1 @@
+checking if certain row exist in nedb

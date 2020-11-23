@@ -1,0 +1,1 @@
+onclick kiosk mode to another opened window

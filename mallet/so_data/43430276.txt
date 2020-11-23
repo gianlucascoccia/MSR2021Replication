@@ -1,0 +1,1 @@
+Require node module in angular2 component

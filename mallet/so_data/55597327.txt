@@ -1,0 +1,1 @@
+Robotjs on Electron typeString() is not working as expected

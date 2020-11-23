@@ -1,0 +1,1 @@
+Canvas stops tracking mouse after awhile

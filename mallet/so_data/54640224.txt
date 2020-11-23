@@ -1,0 +1,1 @@
+How to send data from one Electron window to another with ipcRenderer using vuejs?

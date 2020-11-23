@@ -1,0 +1,1 @@
+How to open new window in electronjs with angular routing properly?

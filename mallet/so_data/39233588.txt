@@ -1,0 +1,1 @@
+How can I obfuscate the client side source code of my ES6 / React / Redux / Electron project?

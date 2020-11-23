@@ -1,0 +1,1 @@
+How would I do component testing if my component requires access to a database

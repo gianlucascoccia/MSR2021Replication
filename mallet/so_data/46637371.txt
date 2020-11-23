@@ -1,0 +1,1 @@
+Optimize memory usage for electron app when using canvas context

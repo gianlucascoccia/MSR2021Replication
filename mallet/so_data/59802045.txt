@@ -1,0 +1,1 @@
+Run sudo command without password prompt

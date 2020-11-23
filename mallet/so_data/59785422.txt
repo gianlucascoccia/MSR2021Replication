@@ -1,0 +1,1 @@
+Electron NET Application using Serilog for logging to a file

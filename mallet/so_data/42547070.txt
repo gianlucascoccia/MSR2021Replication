@@ -1,0 +1,1 @@
+Very fast endless loop without blocking I/O

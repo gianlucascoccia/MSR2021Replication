@@ -1,0 +1,1 @@
+Capture messages in from python-shell in an array

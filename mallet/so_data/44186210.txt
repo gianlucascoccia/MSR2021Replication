@@ -1,0 +1,1 @@
+electron-forge --template argument does not work

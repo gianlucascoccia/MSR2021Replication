@@ -1,0 +1,1 @@
+Why my electron with angular app is using 31 threads in activity monitor

@@ -1,0 +1,1 @@
+ElectronJS printToPDF - is there an option to set the page width dynamically?

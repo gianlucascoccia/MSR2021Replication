@@ -1,0 +1,1 @@
+How to identify user when trying to send data via socket

@@ -1,0 +1,1 @@
+Electron Net module return no event

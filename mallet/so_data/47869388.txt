@@ -1,0 +1,1 @@
+Get path of electron app for React routing

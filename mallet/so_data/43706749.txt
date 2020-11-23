@@ -1,0 +1,1 @@
+could not install electron in windows 10

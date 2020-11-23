@@ -1,0 +1,1 @@
+How to make communication between angular and electron's main thread less tedious?

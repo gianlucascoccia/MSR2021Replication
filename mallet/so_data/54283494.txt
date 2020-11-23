@@ -1,0 +1,1 @@
+download a file on ajax success electron, jsp

@@ -1,0 +1,1 @@
+Why set a variable to null right before returning from a function?

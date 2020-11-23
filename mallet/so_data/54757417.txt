@@ -1,0 +1,1 @@
+How can I check in SQLite whether a user id exists?

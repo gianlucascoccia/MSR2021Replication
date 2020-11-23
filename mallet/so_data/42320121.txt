@@ -1,0 +1,1 @@
+Calling a function through require in NW.js

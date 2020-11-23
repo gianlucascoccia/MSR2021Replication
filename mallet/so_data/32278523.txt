@@ -1,0 +1,1 @@
+Creating TypeScript definition with NW.js possible?

@@ -1,0 +1,1 @@
+Unable to access some DOM methods in Electron renderer process

@@ -1,0 +1,1 @@
+node-webkit: unexpected "undefined is not a function" on String.prototype.includes()

@@ -1,0 +1,1 @@
+Call function from within node event handler

@@ -1,0 +1,1 @@
+changing the language when building an executable with electron-builder

@@ -1,0 +1,1 @@
+NWJS SDK is not using package.json

@@ -1,0 +1,1 @@
+Signing installer for windows app using electron builder

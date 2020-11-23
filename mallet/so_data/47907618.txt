@@ -1,0 +1,1 @@
+npm install odbc fails on macOS Sierra(Version 10.12.6)

@@ -1,0 +1,1 @@
+My electron app size is 530mb . So, i unzip the asar file that i found it has node_modules folder which itself takes 300 mb how to remove it?

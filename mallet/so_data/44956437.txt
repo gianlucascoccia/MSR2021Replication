@@ -1,0 +1,1 @@
+Get Azure Active Directory token from an electron app

@@ -1,0 +1,1 @@
+`webContents.on('context-menu')` makes the webview unresponsive (cannot call webview's functions)

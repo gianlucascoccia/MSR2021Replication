@@ -1,0 +1,1 @@
+Does electron-builder minify code or do I have to do that myself?

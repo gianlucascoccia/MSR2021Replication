@@ -1,0 +1,1 @@
+Where does NeDB store its files in an Electron app?

@@ -1,0 +1,1 @@
+Blank regions on electron(node.js) window

@@ -1,0 +1,1 @@
+Do users have control over specifying dimension for file properties window

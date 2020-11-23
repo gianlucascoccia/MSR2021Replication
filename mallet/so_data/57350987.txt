@@ -1,0 +1,1 @@
+Module-scope variable refuses to be overwritten by an async function. Why?

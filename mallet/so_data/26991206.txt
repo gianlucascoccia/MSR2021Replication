@@ -1,0 +1,1 @@
+how to understand the browser-side vs. client-side of atom-shell

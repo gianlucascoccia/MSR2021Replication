@@ -1,0 +1,1 @@
+What are the implications of turning on the plugins attribute of an Electron webview?

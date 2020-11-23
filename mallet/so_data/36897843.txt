@@ -1,0 +1,1 @@
+nodejs crypto hmac produces different hashes if secret is passed as a literal vs variable

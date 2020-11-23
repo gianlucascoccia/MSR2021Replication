@@ -1,0 +1,1 @@
+@HostListener for KeyCommands not working [Electron, Angular]

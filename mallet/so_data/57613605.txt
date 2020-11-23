@@ -1,0 +1,1 @@
+Ionic 4 app is not working as Electron app

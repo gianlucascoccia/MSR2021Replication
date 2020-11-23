@@ -1,0 +1,1 @@
+How to pass download.prompt_for_download in Spectron

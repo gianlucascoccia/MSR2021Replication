@@ -1,0 +1,1 @@
+Wine: exe file build with electron creates error "Bad EXE format"

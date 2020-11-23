@@ -1,0 +1,1 @@
+Electron crashes with C++ addon using openssl library

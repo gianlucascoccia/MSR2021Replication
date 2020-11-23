@@ -1,0 +1,1 @@
+NW.js open a new window and close it on event

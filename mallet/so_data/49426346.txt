@@ -1,0 +1,1 @@
+User input JavaScript with Electron - alternative to Window.Prompt()

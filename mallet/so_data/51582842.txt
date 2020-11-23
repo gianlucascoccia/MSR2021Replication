@@ -1,0 +1,1 @@
+Electron Tray application: How to reference target balloon in event handler of balloon-clicked event?

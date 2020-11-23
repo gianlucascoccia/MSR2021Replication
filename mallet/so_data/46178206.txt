@@ -1,0 +1,1 @@
+Creating multiple invisible windows with different parameters in Electron

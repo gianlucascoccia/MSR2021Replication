@@ -1,0 +1,1 @@
+In Git Bash, the command `npm start` returns an error

@@ -1,0 +1,1 @@
+Can't resolve require path correctly in renderer process

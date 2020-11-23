@@ -1,0 +1,1 @@
+Remove menubar from Finder in Electron on OSX

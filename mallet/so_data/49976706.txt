@@ -1,0 +1,1 @@
+How to add custom sidebar to a mainWindow in electorn when loading an external url(eg: mainWindow.loadURL("https://gmail.com") )

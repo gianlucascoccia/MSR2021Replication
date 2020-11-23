@@ -1,0 +1,1 @@
+ember electron:package build failed, caused by ember-browserify

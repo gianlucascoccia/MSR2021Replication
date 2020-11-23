@@ -1,0 +1,1 @@
+Object has been destroyed when open secondary/child window in electron js

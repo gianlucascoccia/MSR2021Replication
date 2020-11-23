@@ -1,0 +1,1 @@
+Debugging Electron-Atom script with Visual Studio Code

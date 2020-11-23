@@ -1,0 +1,1 @@
+Detect installed applications from node JS (Electron/macOS)

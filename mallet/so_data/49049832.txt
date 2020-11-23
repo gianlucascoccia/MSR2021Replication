@@ -1,0 +1,1 @@
+AngularJS: Retrieve mysql data in electron and publish it to AngularJS scope

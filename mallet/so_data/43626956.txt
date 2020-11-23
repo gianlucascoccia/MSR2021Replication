@@ -1,0 +1,1 @@
+Class of type Blob being converted to Object in Emberjs, Electron and PouchDB/CouchDB Project

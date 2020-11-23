@@ -1,0 +1,1 @@
+Buffer automatically converting hexadecimal to decimal

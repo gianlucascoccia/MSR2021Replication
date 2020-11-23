@@ -1,0 +1,1 @@
+Does anyone know how to use sip.js version 0.8 or higher with electron (desktop app) or with Ionic (mobile app)?

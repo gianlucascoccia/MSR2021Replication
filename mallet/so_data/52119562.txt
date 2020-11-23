@@ -1,0 +1,1 @@
+Electron app: How to make dialog.showOpenDialog modal

@@ -1,0 +1,1 @@
+Silent creation of a pdf file from angular 7 through electron

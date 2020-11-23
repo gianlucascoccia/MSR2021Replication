@@ -1,0 +1,1 @@
+Make a non-frameless Electron window have a transparent background

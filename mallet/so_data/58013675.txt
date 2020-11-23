@@ -1,0 +1,1 @@
+How to Close React App on Electron App Quit

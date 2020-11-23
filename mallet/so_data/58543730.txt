@@ -1,0 +1,1 @@
+Is it possible to print a byte array on a printer in npm like in java with DocFlavor.BYTE_ARRAY.AUTOSENSE

@@ -1,0 +1,1 @@
+Electron Desktop Application communicating with remote NoSql server

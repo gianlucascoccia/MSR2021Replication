@@ -1,0 +1,1 @@
+Cannot reset select option list, only in one document

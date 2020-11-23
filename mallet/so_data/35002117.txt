@@ -1,0 +1,1 @@
+Remove terminal icon in node notifier

@@ -1,0 +1,1 @@
+How to use relative path in Node Webkit

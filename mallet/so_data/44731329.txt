@@ -1,0 +1,1 @@
+Accessing sqlite databases on remote machine with static adress (Electron / Nodejs / fs)

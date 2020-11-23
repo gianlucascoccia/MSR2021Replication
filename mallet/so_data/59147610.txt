@@ -1,0 +1,1 @@
+Render endpoints using electron's ipc render in a create-react-app/electron app?

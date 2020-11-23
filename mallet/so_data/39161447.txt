@@ -1,0 +1,1 @@
+Using logger in Nodewebkit environment

@@ -1,0 +1,1 @@
+How to catch the event of clicking the app window's close button in Electron app

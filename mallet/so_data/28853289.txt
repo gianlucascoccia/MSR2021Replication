@@ -1,0 +1,1 @@
+Style system tray with node-webkit application

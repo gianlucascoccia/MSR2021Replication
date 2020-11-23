@@ -1,0 +1,1 @@
+FontAwesome fails to load fonts locally and in electron app

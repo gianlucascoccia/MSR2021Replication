@@ -1,0 +1,1 @@
+Cannot load Goldenlayout library on electron app

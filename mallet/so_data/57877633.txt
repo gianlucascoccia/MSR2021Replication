@@ -1,0 +1,1 @@
+Transform electron NativeImage from <webview>.capturePage() to base64 or dataURL

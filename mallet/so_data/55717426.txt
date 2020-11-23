@@ -1,0 +1,1 @@
+Why is TestCafe crashing on launch testing Electron app with simple command-line?

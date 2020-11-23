@@ -1,0 +1,1 @@
+Electron appUpdater removes everything in folder

@@ -1,0 +1,1 @@
+How to programmatically click on elements in Electron?

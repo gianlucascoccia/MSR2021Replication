@@ -1,0 +1,1 @@
+how do I remove menu bar from electron app

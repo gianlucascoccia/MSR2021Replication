@@ -1,0 +1,1 @@
+Electron and TypeScript source code protection

@@ -1,0 +1,1 @@
+Module version mismatch. Expected 43, got 14. while running node-imagemagick-native sample program

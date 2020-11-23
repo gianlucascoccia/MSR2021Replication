@@ -1,0 +1,1 @@
+After distribution, Electron app cannot file directory

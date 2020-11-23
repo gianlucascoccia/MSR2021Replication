@@ -1,0 +1,1 @@
+New BLOB losing data javascript

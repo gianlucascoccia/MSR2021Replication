@@ -1,0 +1,1 @@
+Electron App node-integration : How to access require() after POST

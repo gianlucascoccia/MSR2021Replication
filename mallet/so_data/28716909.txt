@@ -1,0 +1,1 @@
+Writing png after capturing from webcam in node-webkit not working

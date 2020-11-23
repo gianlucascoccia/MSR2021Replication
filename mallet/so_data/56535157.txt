@@ -1,0 +1,1 @@
+Cannot access div which is created by ajax (is dynamic)

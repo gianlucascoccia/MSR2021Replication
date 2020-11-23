@@ -1,0 +1,1 @@
+Electron Fetches Resources of React From Root Dir

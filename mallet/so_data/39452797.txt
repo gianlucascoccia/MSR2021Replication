@@ -1,0 +1,1 @@
+Don't prevent default action in Electron using globalShortcut

@@ -1,0 +1,1 @@
+`knex` SQLITE_CANTOPEN error in production `electron` app

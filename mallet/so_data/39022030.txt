@@ -1,0 +1,1 @@
+Can I deactivate a monitor/display with node/electron?

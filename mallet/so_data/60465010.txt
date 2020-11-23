@@ -1,0 +1,1 @@
+electron: drag range control while holding meta key

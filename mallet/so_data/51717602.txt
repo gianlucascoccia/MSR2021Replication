@@ -1,0 +1,1 @@
+Issue adding Firebase to electron project, gRPC dependency issue

@@ -1,0 +1,1 @@
+a set variable global cant be used in out of nested function

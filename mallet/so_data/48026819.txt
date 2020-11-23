@@ -1,0 +1,1 @@
+Node.js mysql loop only showing the last entry

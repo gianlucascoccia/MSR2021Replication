@@ -1,0 +1,1 @@
+Is there a way to send parameters with my predefined napi_threadsafe_function?

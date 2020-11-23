@@ -1,0 +1,1 @@
+Read/Write local json file in electron by angular

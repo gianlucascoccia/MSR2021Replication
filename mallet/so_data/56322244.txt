@@ -1,0 +1,1 @@
+Electron Forge Template Angular index.ts ipcRenderer listener in separate file

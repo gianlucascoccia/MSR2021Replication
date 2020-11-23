@@ -1,0 +1,1 @@
+(Electron JS) How can you make a program that automatically saves even after closing? Specifically like Microsoft Sticky Notes

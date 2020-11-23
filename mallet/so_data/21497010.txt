@@ -1,0 +1,1 @@
+node-webkit: How can I detect how many screen/monitor user have using?

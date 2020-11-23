@@ -1,0 +1,1 @@
+How to get button event from iziModal in vuejs

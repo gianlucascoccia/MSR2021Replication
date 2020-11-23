@@ -1,0 +1,1 @@
+Electron: jQuery is not defined (for an EXTERNAL site)

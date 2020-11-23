@@ -1,0 +1,1 @@
+Invoking an API Gateway Lambda from an Electron/React app using Amplify

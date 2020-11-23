@@ -1,0 +1,1 @@
+Electron breakpad minidump version mismatch

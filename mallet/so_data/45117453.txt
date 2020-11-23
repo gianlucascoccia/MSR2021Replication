@@ -1,0 +1,1 @@
+In NeDB is an array in a document better than multiple documents?

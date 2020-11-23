@@ -1,0 +1,1 @@
+Why doesn't electron 2.0 support TypeScript (ES6) import?

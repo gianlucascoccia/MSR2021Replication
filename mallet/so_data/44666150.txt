@@ -1,0 +1,1 @@
+electron loadURL re-renders the same page

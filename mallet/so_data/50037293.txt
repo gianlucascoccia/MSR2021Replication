@@ -1,0 +1,1 @@
+'Unable to find a valid app' error building electron app using electron-packager

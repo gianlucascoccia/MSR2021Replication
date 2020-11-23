@@ -1,0 +1,1 @@
+Creating a desktop shortcut via Squirrel events with Electron

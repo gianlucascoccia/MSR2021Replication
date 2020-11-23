@@ -1,0 +1,1 @@
+Make video fit 100% with any choosen screen resolution

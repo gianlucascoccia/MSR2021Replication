@@ -1,0 +1,1 @@
+Check user permissions in Electron on Mac

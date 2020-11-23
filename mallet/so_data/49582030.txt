@@ -1,0 +1,1 @@
+Unexpected behaviour of require() in electron when using relative paths

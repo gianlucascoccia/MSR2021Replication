@@ -1,0 +1,1 @@
+Atom Electron capture all keyboard events even when app is unfocused

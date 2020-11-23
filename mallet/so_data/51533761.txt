@@ -1,0 +1,1 @@
+electron store data -> read/write from/to json file on network drive

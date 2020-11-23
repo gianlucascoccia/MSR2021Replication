@@ -1,0 +1,1 @@
+Sendkeys to VSCode with Powershell: only works 1st time, 2nd time, why do I get an error about nodejs?

@@ -1,0 +1,1 @@
+Is there a way to access Windows APIs like CORTANA form electron / node.js apps?

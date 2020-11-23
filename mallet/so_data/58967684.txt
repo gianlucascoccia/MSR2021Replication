@@ -1,0 +1,1 @@
+State is not upating in renderer() component

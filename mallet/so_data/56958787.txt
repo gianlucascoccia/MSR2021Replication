@@ -1,0 +1,1 @@
+NSIS build does not install the Electron application on Windows. The installer exits silently and produces a 1620 error

@@ -1,0 +1,1 @@
+Why extensions not active in app electron?

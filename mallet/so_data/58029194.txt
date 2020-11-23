@@ -1,0 +1,1 @@
+Was anybody able to setup the balea etcher build enviroment on windows?

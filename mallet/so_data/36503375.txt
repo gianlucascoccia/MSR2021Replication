@@ -1,0 +1,1 @@
+AngularJS Http Request return 401 from a SailsJS server with Electron

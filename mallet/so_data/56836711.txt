@@ -1,0 +1,1 @@
+copyFileSync not copying file and not throwing error

@@ -1,0 +1,1 @@
+Disable reload via keyboard shortcut electron app

@@ -1,0 +1,1 @@
+Tips on solving 'DevTools was disconnected from the page' and Electron Helper dies

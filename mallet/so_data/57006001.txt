@@ -1,0 +1,1 @@
+Application can't launch on mac os

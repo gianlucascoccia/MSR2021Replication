@@ -1,0 +1,1 @@
+PouchDB security concerns, client-side permission logic

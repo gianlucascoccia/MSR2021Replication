@@ -1,0 +1,1 @@
+DOM not updating during long function

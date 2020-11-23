@@ -1,0 +1,1 @@
+how to open another desktop application from electron js application

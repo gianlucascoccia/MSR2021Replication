@@ -1,0 +1,13 @@
+SELECT * FROM `sotorrent-org.2020_03_15.Posts` 
+WHERE PostTypeId = 1 
+AND Tags > ''
+AND (Tags LIKE '%<electron>%' or 
+	 Tags LIKE '%<electron-builder>%' or 
+	 Tags LIKE '%<electron-packager>%' or
+	 Tags LIKE '%<electron-forge>%' or
+	 Tags LIKE '%<nwjs>%' or
+	 Tags LIKE '%<nw.js>%' or
+	 Tags LIKE '%<nedb>%' or
+	 Tags LIKE '%<spectron>%' or
+	 Tags LIKE '%<node-webkit>%' 
+	 )

@@ -1,0 +1,1 @@
+Is there a way to use cocoasudo (graphical “sudo” for Mac OS X) in Electron/Node app?

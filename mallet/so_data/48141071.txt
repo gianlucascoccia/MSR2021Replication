@@ -1,0 +1,1 @@
+unable to install electron on high sierra

@@ -1,0 +1,1 @@
+Best way to animate a constant (unknown) data flow with Vue.js?

@@ -1,0 +1,1 @@
+Which stable version of electron supported 32 bit system

@@ -1,0 +1,1 @@
+Testing Electron app using selenium, java in MacOS environment

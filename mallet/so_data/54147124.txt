@@ -1,0 +1,1 @@
+How to fix "Skip checkForUpdatesAndNotify because application is not packed" in electron.js

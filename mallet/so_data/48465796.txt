@@ -1,0 +1,1 @@
+Getting "Class extends value undefined" when importing Electron app for unit testing using Mocha

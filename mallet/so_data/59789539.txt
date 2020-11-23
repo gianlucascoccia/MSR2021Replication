@@ -1,0 +1,1 @@
+ElectronJS ReferenceError: navigator is not defined

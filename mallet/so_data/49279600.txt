@@ -1,0 +1,1 @@
+Two Electron windows, hide one from the dock, show the other

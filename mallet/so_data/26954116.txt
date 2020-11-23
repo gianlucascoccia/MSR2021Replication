@@ -1,0 +1,1 @@
+Closing webkit window from ReactJS controlled dom element

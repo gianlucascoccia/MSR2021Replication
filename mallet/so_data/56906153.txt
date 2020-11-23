@@ -1,0 +1,1 @@
+Mime error with Angular 8 in Firebase Hosting

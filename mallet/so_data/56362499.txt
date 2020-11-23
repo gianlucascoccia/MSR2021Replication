@@ -1,0 +1,1 @@
+Automating code signing with EV certificate

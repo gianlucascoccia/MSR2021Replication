@@ -1,0 +1,1 @@
+How to get information of currently running other windows/ mac applications from election.js?

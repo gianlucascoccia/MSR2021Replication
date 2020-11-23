@@ -1,0 +1,1 @@
+Close event not triggered in renderer process, but other events are fine

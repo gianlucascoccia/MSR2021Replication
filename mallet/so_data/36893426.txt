@@ -1,0 +1,1 @@
+Bringing an electron app to foreground with a global shortcut (like Spotlight/Launchy)

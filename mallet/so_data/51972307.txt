@@ -1,0 +1,1 @@
+Spectron opens Empty terminals during test run

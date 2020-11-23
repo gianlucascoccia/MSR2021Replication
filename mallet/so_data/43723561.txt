@@ -1,0 +1,1 @@
+Hosted Breakpad server (Electron Crash Reporter)

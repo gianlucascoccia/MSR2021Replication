@@ -1,0 +1,1 @@
+Electron.remote.require('sqlite3') query performance 5x slower, callback 500x slower

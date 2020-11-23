@@ -1,0 +1,1 @@
+Unit testing an Angular2 service that requires Electron

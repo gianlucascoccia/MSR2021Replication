@@ -1,0 +1,1 @@
+Best way to read from a big CSV file without loading everything to memory using Javascript

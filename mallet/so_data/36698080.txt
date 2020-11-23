@@ -1,0 +1,1 @@
+Parent view not setting global variable on <webview> in Electron after updating

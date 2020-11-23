@@ -1,0 +1,1 @@
+NodeJs shell.openExternal open exe and minimize it

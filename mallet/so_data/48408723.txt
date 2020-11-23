@@ -1,0 +1,1 @@
+Socket.io Failed to load resource when used within Angular 5 and ElectronJS

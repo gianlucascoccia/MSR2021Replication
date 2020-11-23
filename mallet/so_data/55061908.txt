@@ -1,0 +1,1 @@
+Having two isolated (in terms of history/cookies/localstorage) BrowserViews in the same BrowserWindow with Electron

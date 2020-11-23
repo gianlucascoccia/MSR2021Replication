@@ -1,0 +1,1 @@
+Can I update a module on end user's machine without npm or node?

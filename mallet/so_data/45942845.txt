@@ -1,0 +1,1 @@
+How to get the file dialogue in NW.JS to open to a folder inside of the application

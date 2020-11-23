@@ -1,0 +1,1 @@
+electron-forge : Missing dependencies = git and node, but which git can I choose?

@@ -1,0 +1,1 @@
+Vue.js Electron: Synchronize variables between backend and frontend

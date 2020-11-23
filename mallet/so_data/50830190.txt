@@ -1,0 +1,1 @@
+React render() method is not calling in runtime when i clicking a button in the electron app

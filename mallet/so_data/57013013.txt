@@ -1,0 +1,1 @@
+Nodejs module "worker_threads" returning error "Error: The V8 platform used by this instance of Node does not support creating Workers"

@@ -1,0 +1,1 @@
+NeDB How can i use variable in find query?

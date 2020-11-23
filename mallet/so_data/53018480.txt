@@ -1,0 +1,1 @@
+Angular 6 SSH2 - How can I handle errors using promises?

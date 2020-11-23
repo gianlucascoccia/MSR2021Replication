@@ -1,0 +1,1 @@
+Google API on Published Electron app: gapi.auth2.ExternallyVisibleError: Invalid cookiePolicy

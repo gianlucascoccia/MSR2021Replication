@@ -1,0 +1,1 @@
+How can I kill a child_process spwaned by node.js/electron correctly in windows?

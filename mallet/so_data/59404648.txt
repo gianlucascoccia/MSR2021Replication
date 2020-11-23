@@ -1,0 +1,1 @@
+Automated Electron desktop application is not working in Electron version 4.0 which is worked on version 2.0

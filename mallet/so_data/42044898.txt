@@ -1,0 +1,1 @@
+Open a new window to display a html file using a menu click - Electron

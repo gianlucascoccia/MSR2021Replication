@@ -1,0 +1,1 @@
+AngularJS doesn't work into Electron

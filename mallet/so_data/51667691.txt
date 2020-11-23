@@ -1,0 +1,1 @@
+Web API Notification requireInteraction is not working in Electron App for Windows

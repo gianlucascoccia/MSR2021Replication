@@ -1,0 +1,1 @@
+nw-builder - Menus in windows64 build with version 0.12.2 are not shown

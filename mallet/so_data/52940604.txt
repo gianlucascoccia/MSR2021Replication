@@ -1,0 +1,1 @@
+Chromium revision is not downloaded. Run "npm install" or "yarn install" at Launcher.launch in Electron build

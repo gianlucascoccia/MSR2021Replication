@@ -1,0 +1,1 @@
+How to specify install location for electron app on windows using squirrel

@@ -1,0 +1,1 @@
+GatsbyJS in Electron, how to solve issue with file://

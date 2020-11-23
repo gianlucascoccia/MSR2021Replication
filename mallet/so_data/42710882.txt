@@ -1,0 +1,1 @@
+css border: 1px appear as 0.667px or 1px depending on the computer / display resolution (?)

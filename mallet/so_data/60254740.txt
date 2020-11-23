@@ -1,0 +1,1 @@
+How can I receive an event from Electron in a Non-Electron Web Page

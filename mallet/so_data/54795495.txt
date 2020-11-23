@@ -1,0 +1,1 @@
+How can I fix an "SE50P is undefined" error in Electron app?

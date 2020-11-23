@@ -1,0 +1,1 @@
+Order of process.stdout.on( 'data', ... ) and process.stderr.on( 'data', ... )

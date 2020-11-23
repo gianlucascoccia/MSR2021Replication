@@ -1,0 +1,1 @@
+Where to store user settings in Electron (Atom Shell) Application?

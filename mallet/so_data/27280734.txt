@@ -1,0 +1,1 @@
+Polymer in node-webkit: how to render/refresh data changes? Platform.flush() doesn't works

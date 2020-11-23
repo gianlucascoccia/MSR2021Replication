@@ -1,0 +1,1 @@
+Check if nw.js application is running on built version (prod) or development

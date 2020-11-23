@@ -1,0 +1,1 @@
+mainWindow.webContents.send() not received by ipcRenderer.on() function

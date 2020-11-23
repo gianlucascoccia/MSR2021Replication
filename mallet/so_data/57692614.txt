@@ -1,0 +1,1 @@
+How to detect if git clone command (run from a UI - built using electron.js) is asking for username in the command line

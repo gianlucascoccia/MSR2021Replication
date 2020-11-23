@@ -1,0 +1,1 @@
+Using synced folder (dropbox, gdrive, syncthing etc) as database

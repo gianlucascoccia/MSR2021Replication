@@ -1,0 +1,1 @@
+TestCafe with Electron: show and hide main window

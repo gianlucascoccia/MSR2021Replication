@@ -1,0 +1,1 @@
+How can i see custom bookmark in electron.dialog.showOpenDialog with Ubuntu?

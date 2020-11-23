@@ -1,0 +1,1 @@
+Child_process not capturing binary file output?

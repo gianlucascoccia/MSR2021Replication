@@ -1,0 +1,1 @@
+Promise failing with save() and get(), using Node Webkit, Sequelize, and SQLite3

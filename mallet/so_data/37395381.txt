@@ -1,0 +1,1 @@
+Limit of how many nw-js instances can we run?

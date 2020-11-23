@@ -1,0 +1,1 @@
+Injecting script into iframe before load in node-webkit

@@ -1,0 +1,1 @@
+Angular / Electron using the renderer.js with angular components

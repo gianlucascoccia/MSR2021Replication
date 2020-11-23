@@ -1,0 +1,1 @@
+::selection span is not as high as actual <span/> tag container, only as high as text

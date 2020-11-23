@@ -1,0 +1,1 @@
+How to use worker-loader in electron main process

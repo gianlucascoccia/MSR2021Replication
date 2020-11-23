@@ -1,0 +1,1 @@
+Broadcasting events from main process to all renderer process electron

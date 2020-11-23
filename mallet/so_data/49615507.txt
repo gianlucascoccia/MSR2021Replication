@@ -1,0 +1,1 @@
+send invisible command from Electron to R via xterm.js

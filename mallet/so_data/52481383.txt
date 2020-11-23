@@ -1,0 +1,1 @@
+Angular - electron view does not update after model changes

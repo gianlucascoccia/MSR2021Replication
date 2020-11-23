@@ -1,0 +1,1 @@
+Share dynamic variables between JS files in Electron/Node

@@ -1,0 +1,1 @@
+Send data from .net application to electron app

@@ -1,0 +1,1 @@
+Is writing semantic html important in a electron app?

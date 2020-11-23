@@ -1,0 +1,1 @@
+Why can't variables declared outside a function be used within it?

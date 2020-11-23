@@ -1,0 +1,1 @@
+addEventListener not working when i import modules in the same javascript from electron

@@ -1,0 +1,1 @@
+Electron - Messages from Main to Renderer result in empty object

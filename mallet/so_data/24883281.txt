@@ -1,0 +1,1 @@
+Shared settings location on desktop application

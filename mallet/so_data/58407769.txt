@@ -1,0 +1,1 @@
+Does Electron support 4K USB Video resolution?

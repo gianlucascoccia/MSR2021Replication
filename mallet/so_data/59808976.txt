@@ -1,0 +1,1 @@
+In electron i keep getting the error message "ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command", why?

@@ -1,0 +1,1 @@
+Callback inside of method in an ES6 class calling another method

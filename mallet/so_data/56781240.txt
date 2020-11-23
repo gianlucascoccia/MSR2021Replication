@@ -1,0 +1,1 @@
+Can Electron apps bundle VueJS, MongoDB, etc. or do they need to be installed on users PCs for the app to run?

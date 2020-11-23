@@ -1,0 +1,1 @@
+set-cookie header will be ignored even by enabling withCredentials option, angular + electronjs

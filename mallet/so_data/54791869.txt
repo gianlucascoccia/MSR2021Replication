@@ -1,0 +1,1 @@
+Click any element in array of root folder and get its path?

@@ -1,0 +1,1 @@
+How to add a right-click menu in Electron that has "Inspect Element" option like Chrome?

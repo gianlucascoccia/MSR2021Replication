@@ -1,0 +1,1 @@
+Create folder with outputted files with Wraith in packaged Electron App

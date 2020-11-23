@@ -1,0 +1,1 @@
+Electron kill child_process.exec

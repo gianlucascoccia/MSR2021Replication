@@ -1,0 +1,1 @@
+On render done event after update VueJS Electron

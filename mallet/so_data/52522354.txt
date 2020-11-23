@@ -1,0 +1,1 @@
+electron - window.postMessage to talk between preload and renderer with specific target origin

@@ -1,0 +1,1 @@
+css-loader url() loads with `module.exports =`, Is there any options?

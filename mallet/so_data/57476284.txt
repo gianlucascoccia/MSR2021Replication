@@ -1,0 +1,1 @@
+Can't connect to web socket from Electron when using self signed cert

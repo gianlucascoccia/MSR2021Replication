@@ -1,0 +1,1 @@
+Why window.maximize() called in main process and render process are different from the animation on macos?

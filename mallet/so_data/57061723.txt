@@ -1,0 +1,1 @@
+How does Postman (an electron app) get around CORS?

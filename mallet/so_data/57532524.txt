@@ -1,0 +1,1 @@
+How to Restrict Unpacking of app.asar of an electron app?

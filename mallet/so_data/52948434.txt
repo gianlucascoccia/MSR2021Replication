@@ -1,0 +1,1 @@
+Prevent BrowserWindow hide on blur if user opens a dialog

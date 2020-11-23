@@ -1,0 +1,1 @@
+Where is the state of a Electron-Vue application stored?

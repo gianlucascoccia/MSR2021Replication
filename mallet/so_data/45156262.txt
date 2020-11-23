@@ -1,0 +1,1 @@
+nodeJS / Electron renders pages slower than Chrome

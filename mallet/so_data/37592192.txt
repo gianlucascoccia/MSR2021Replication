@@ -1,0 +1,1 @@
+In Electron version 1.X, how can I emit an event from one BrowserWindow and consume it in another BrowserWindow?

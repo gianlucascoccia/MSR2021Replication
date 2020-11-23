@@ -1,0 +1,1 @@
+Why are my events getting called so many times? [React + Electron]

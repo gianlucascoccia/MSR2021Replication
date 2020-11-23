@@ -1,0 +1,1 @@
+Trying to get serial port to work with electron. Getting very long error on electron-rebuild

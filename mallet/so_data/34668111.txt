@@ -1,0 +1,1 @@
+ElectronJS: Select app icon from Alt+Tab selection, what event fires?

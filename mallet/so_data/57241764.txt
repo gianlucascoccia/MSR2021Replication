@@ -1,0 +1,1 @@
+How can I get an Electron and Socket.io app to run in a thin client architecture?

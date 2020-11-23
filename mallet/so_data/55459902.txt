@@ -1,0 +1,1 @@
+Electron build for windows shows sqlite3 error. But same build for Ubuntu Works

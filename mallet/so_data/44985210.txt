@@ -1,0 +1,1 @@
+Webpack Externals require not defined with Electron and Angular 4

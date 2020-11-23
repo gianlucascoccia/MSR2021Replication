@@ -1,0 +1,1 @@
+Disabling orange focus outline around Bootstrap buttons in Electron

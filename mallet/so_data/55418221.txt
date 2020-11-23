@@ -1,0 +1,1 @@
+TypeScript <string, BrowserWindow> tupple only allows to use parameter value: string | BrowserWindow on forEach method

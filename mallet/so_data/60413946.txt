@@ -1,0 +1,1 @@
+Can't start an electron-angular app after an angular update

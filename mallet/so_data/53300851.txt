@@ -1,0 +1,1 @@
+Prevent 'showOpenDialog' from adding a recent document entry

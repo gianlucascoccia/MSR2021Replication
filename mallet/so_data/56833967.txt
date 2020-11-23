@@ -1,0 +1,1 @@
+Icon file is not recognized in electron framework when building for different platform

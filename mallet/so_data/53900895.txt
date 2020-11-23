@@ -1,0 +1,1 @@
+Window resize doesn't work after minimizing electron application to system tray

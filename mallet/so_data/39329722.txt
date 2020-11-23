@@ -1,0 +1,1 @@
+Electron App Linux - HTTP requests do not run until the terminal window is resized

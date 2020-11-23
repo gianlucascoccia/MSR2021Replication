@@ -1,0 +1,1 @@
+Enabling Manual Garbage Collection in Electron app

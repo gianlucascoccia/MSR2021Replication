@@ -1,0 +1,1 @@
+Node Webkit: Using Fullscreen API while beeing in kiosk mode

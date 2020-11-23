@@ -1,0 +1,1 @@
+array.map from redux won't return data on the first load of react component

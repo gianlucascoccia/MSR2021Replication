@@ -1,0 +1,1 @@
+Getting frameless React/Electron app title bar to not disappear during scroll

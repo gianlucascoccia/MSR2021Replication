@@ -1,0 +1,1 @@
+can we create stand alone application for Spring boot web mvc using Electron tool?

@@ -1,0 +1,1 @@
+Why aren't alerts modal and closed in my Electron application when tested with Selenium?

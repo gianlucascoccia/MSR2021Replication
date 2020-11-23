@@ -1,0 +1,1 @@
+PDFJS / Worker / Electron - Avoid using NodeJS for requests

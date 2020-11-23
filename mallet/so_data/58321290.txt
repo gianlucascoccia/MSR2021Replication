@@ -1,0 +1,1 @@
+Notarizing electron app with electron-installer-dmg ( without electron-builder )

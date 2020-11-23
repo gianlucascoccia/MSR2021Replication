@@ -1,0 +1,1 @@
+I get the error $(...).modal is not a function even though bootstrap is imported after jQuery how can i fix this (using npm versions)?

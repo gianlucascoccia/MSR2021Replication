@@ -1,0 +1,1 @@
+How to differentiate two ipc renderer in one ipc main (same channel)

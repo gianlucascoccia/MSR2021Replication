@@ -1,0 +1,1 @@
+View doesn't update after pushing new POJO ember

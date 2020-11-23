@@ -1,0 +1,1 @@
+How to handle multiple windows in Electron application with React.JS?

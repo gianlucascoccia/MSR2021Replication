@@ -1,0 +1,1 @@
+Error: Not allowed to load local resource - while using electron-builder for electron app update

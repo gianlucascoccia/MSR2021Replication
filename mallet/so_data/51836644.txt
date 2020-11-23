@@ -1,0 +1,1 @@
+Enable Sticky Behaviour of Electron App Notifications on Windows Platform

@@ -1,0 +1,1 @@
+Access parent window's 'window' object from child window - Electron

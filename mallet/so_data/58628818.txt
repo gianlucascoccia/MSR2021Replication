@@ -1,0 +1,1 @@
+Electron unable to fetch resources (.swf)

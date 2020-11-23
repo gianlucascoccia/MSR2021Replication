@@ -1,0 +1,1 @@
+Store large amounts of data from my Laravel website using SQLite3 database and React-Native App or similar

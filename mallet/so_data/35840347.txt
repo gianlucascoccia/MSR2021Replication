@@ -1,0 +1,1 @@
+Open external file with OS' default application (docx with Word, etc.) using NodeJS and Electron

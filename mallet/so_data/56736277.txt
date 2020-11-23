@@ -1,0 +1,1 @@
+Closing MatDialogRef in Electron

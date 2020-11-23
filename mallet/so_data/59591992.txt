@@ -1,0 +1,1 @@
+After electron-build node-adodb got error: 'Spawn C:\WINDOWS\SysWOW64\cscript.exe error'

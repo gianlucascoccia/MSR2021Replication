@@ -1,0 +1,1 @@
+How do I get result by 'return' from NeDB in vue.js

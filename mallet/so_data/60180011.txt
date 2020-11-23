@@ -1,0 +1,1 @@
+Uncaught EvalError when using NPM live-server within Electron app

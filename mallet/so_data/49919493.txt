@@ -1,0 +1,1 @@
+Do github personal access tokens provide write access to all public repos?

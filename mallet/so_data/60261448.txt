@@ -1,0 +1,1 @@
+How do I auto delete all records/rows that are older than a week in NodeJs?

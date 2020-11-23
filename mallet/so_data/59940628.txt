@@ -1,0 +1,1 @@
+Is it possible to trigger a function from another application using hotkeys or something similar on Mac?

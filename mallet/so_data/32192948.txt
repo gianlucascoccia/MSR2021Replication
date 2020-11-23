@@ -1,0 +1,1 @@
+Not able to upload file of 1GB from filesystem, (hardcoded file not using input type file) using xhr from Electron application using node.js

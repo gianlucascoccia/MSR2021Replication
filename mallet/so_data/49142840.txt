@@ -1,0 +1,1 @@
+Electron border-less window shows title bar when window is not in focus

@@ -1,0 +1,1 @@
+Electron reactjs app show empty page after reloading if user navigate to other route

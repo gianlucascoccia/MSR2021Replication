@@ -1,0 +1,1 @@
+How to check if particular software is installed or not on system using Electron?

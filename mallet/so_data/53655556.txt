@@ -1,0 +1,1 @@
+React devtools does not have a profiler tab in electron

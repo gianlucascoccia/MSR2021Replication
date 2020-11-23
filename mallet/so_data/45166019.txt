@@ -1,0 +1,1 @@
+'onShow' event needed in Electron browser window

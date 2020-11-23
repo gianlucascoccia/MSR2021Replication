@@ -1,0 +1,1 @@
+How much time is it necessary for an electron app certificate to build enough trust?

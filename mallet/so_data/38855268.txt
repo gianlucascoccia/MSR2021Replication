@@ -1,0 +1,1 @@
+External promises don't trigger Angular2 change detection (UPDATE: they do)

@@ -1,0 +1,1 @@
+Removing Electron bootstrapping from an Angular app

@@ -1,0 +1,1 @@
+Angular Material Table in Electron - Not Updating a Cell Until Alt-Tabbing

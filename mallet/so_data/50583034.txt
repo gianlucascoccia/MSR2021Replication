@@ -1,0 +1,1 @@
+Hide titlebar on window hover in electron?

@@ -1,0 +1,1 @@
+How to save scraped data from client-side browser to a user file? Use Electron?

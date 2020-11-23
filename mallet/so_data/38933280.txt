@@ -1,0 +1,1 @@
+New electron BrowserWindow starting at specified ui-router state

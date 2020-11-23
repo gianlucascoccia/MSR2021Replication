@@ -1,0 +1,1 @@
+How do I add an Electron DMG background image?

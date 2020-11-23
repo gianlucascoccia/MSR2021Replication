@@ -1,0 +1,1 @@
+How do I open a url from <a> on default OS browser in Electron app?

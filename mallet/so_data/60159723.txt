@@ -1,0 +1,1 @@
+How to append item on Tray context menu in renderer process?

@@ -1,0 +1,1 @@
+Error: Uncaught Error: EPERM: operation not permitted, rename when installing electron app on windows

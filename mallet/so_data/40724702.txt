@@ -1,0 +1,1 @@
+Get full path of a directory in node webkit

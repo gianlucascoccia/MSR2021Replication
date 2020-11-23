@@ -1,0 +1,1 @@
+Visual Studio Code opens multiple terminals while running electron

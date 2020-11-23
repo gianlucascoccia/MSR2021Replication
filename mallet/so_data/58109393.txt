@@ -1,0 +1,1 @@
+Importing an image is importing a base64 encoded string (electron-webpack)

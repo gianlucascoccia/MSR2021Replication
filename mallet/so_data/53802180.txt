@@ -1,0 +1,1 @@
+Typescript class property initialized in constructor and undefined in member function

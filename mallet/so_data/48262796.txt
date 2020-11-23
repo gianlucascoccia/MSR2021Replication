@@ -1,0 +1,1 @@
+Can Webapp work exactly same as a desktop app using electron?

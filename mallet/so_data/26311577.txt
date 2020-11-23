@@ -1,0 +1,1 @@
+Node.js cannot require a .js file in the same directory

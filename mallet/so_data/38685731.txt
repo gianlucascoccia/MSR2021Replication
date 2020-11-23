@@ -1,0 +1,1 @@
+How do I get the coordinates of an application window running in foreground on Mac using Node.js?

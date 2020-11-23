@@ -1,0 +1,1 @@
+Property height 100% not working in Angular 7 + Electron 4

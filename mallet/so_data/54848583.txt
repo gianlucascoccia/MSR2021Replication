@@ -1,0 +1,1 @@
+Moustrap node.js; Uncaught TypeError: callback is not a function

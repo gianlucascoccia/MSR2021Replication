@@ -1,0 +1,1 @@
+Launching Adobe Indesign through Electron and do some task and on exiting Indesign how to get the work in Electron?

@@ -1,0 +1,1 @@
+Persist IndexedDB even after computer restart in Electron

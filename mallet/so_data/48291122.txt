@@ -1,0 +1,1 @@
+Scroll bar below fixed header with Vuetify + Electron

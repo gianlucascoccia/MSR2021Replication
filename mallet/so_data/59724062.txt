@@ -1,0 +1,1 @@
+Write to file in "appData" in Electron. Where to add import { app } from "electron";?

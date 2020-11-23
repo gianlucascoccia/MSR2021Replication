@@ -1,0 +1,1 @@
+ElectronJs: What does curly braces '{}' mean in package json

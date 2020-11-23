@@ -1,0 +1,1 @@
+electron read remote file on boot up and share info to all component/containers

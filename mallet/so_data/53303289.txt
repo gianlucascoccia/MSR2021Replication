@@ -1,0 +1,1 @@
+pouchdb-adapter-leveldb showing error in leveldown.js

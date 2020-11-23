@@ -1,0 +1,1 @@
+I want to record the current window video + system sound + microphone sound in electron

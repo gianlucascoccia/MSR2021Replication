@@ -1,0 +1,1 @@
+Create a buffer and pipe data to play it javascript

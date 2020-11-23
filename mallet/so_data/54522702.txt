@@ -1,0 +1,1 @@
+Drag'n'Drop into Electron app is not allowed

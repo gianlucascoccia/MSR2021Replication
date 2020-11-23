@@ -1,0 +1,1 @@
+Call Python script from local JavaScript App

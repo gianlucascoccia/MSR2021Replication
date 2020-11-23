@@ -1,0 +1,1 @@
+Framework similar to electronJS for developing cross-platform mobile apps

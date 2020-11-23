@@ -1,0 +1,1 @@
+Electron - how to handle ipc with Angular2?

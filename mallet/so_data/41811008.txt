@@ -1,0 +1,1 @@
+nightmare/electron, how to carry out different operations depend on whether an element exists?

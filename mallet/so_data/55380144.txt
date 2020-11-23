@@ -1,0 +1,1 @@
+Can't insert data forms to sql server using electron

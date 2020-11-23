@@ -1,0 +1,1 @@
+Unable to remove splash screen on electron forge

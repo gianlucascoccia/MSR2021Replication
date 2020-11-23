@@ -1,0 +1,1 @@
+Why is my Angular 8 app not properly packaging my app using Electron Packager?

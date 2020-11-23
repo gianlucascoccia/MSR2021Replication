@@ -1,0 +1,1 @@
+get data from sql-server via odbc with electron (deploy for Windows)

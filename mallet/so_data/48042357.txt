@@ -1,0 +1,1 @@
+Angular 5 not updating the dom after receiving async message from Electron IPC, this suppose to be simple but it's not very obvious

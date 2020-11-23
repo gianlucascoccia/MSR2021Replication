@@ -1,0 +1,1 @@
+How can I make my search function case insensitive?

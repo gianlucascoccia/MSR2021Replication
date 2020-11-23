@@ -1,0 +1,1 @@
+Need to get the LDAP groups for the current windows user in electron project

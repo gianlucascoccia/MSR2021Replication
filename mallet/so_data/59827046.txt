@@ -1,0 +1,1 @@
+Upgrade Electron in Electron Forge application

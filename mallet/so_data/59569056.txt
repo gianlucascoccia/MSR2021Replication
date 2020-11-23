@@ -1,0 +1,1 @@
+Fullscreen to Maximize on MacOS using JS

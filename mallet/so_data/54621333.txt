@@ -1,0 +1,1 @@
+How to prepare entitlements for NWJS to submit app to mac app store?

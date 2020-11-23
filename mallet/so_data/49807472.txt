@@ -1,0 +1,1 @@
+Firebase can't authenticate after building electron app

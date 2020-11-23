@@ -1,0 +1,1 @@
+NW.js: If both arrays are equal not working

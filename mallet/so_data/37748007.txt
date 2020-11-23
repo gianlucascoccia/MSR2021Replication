@@ -1,0 +1,1 @@
+require vm2 using electron and webpack

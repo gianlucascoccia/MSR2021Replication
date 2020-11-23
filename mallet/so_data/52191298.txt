@@ -1,0 +1,1 @@
+Accept stdin in Electron-Main process on Windows?

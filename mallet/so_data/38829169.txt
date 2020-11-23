@@ -1,0 +1,1 @@
+electron ES6 code Unexpected token import

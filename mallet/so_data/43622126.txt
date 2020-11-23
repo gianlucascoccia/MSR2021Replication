@@ -1,0 +1,1 @@
+React/redux router isn't going into page

@@ -1,0 +1,1 @@
+EXTJS: Scrolling of the page is very slow in windows XP

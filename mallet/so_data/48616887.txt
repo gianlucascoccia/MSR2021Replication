@@ -1,0 +1,1 @@
+Browser Mediarecorder - API when capture more than one sources sometimes video will broken

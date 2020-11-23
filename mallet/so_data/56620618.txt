@@ -1,0 +1,1 @@
+Electron ERROR Error: Cannot find module 'mysql' Require stack:

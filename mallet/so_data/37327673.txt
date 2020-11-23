@@ -1,0 +1,1 @@
+Difference between `const var_name` vs `const {var_name}` in JS

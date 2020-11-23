@@ -1,0 +1,1 @@
+Adding a custom method/object to Javascript in Electron

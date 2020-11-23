@@ -1,0 +1,1 @@
+Running packed Electron app made with Angular

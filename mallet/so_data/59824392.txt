@@ -1,0 +1,1 @@
+Issue with integrating node-pty and XtermJS with VueJS in Electron app

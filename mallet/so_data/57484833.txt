@@ -1,0 +1,1 @@
+Improving speed from html2canvas while leaflet loads tiles

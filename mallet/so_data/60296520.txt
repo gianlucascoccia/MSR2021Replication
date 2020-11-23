@@ -1,0 +1,1 @@
+Can one make a portion of window transparent build using Electron?

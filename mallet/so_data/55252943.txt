@@ -1,0 +1,1 @@
+How do you tell if the message is from send or sendSync in the main process?

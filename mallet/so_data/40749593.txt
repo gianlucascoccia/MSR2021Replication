@@ -1,0 +1,1 @@
+As an electron client, is there a way I can make session persist after an app close?

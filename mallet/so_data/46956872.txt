@@ -1,0 +1,1 @@
+Whole webpage refreshes after invoking process

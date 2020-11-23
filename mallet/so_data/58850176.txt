@@ -1,0 +1,1 @@
+Angular-Electron-Sequelize TypeError: Cannot read property 'replace' of undefined

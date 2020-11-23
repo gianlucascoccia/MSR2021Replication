@@ -1,0 +1,1 @@
+how make electron executable file read a [json] file from the same build directory

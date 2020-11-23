@@ -1,0 +1,1 @@
+How to include a local executable when building an Electron app with Electron-builder

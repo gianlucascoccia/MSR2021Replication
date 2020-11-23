@@ -1,0 +1,1 @@
+running minify on electron app before electron packager

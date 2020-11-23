@@ -1,0 +1,1 @@
+Electron: Is there any way to access/modify a main process array over ipc

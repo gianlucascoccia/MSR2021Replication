@@ -1,0 +1,1 @@
+Trying to understand "Since Electron is very likely to use a different V8 version" explanation

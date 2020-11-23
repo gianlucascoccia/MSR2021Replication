@@ -1,0 +1,1 @@
+npm err! code 1 when installing request module to be used in electron app

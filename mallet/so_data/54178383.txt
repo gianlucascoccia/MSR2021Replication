@@ -1,0 +1,1 @@
+How to disable touch-pad while using electron app?

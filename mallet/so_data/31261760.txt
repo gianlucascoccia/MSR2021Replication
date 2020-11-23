@@ -1,0 +1,1 @@
+how to change screen size from the webview itself?

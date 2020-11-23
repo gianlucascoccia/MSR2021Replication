@@ -1,0 +1,1 @@
+Electron isn't loading Netflix even with a Widevine plugin fully functional

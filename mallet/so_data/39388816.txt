@@ -1,0 +1,1 @@
+Electron autoUpdater: User initiated download on 'update-available'

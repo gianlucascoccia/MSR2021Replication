@@ -1,0 +1,1 @@
+Access renderer process cookies by electron's main process

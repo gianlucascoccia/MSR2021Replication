@@ -1,0 +1,1 @@
+'cannot find module' issue in renderer process in Electron app build for the win32 with electron-packager

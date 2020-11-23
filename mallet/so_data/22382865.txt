@@ -1,0 +1,1 @@
+KrakenJS & Node-Webkit - Sample Project

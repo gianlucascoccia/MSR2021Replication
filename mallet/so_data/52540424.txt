@@ -1,0 +1,1 @@
+After update to MacOs Mojave Visual Studio Code text is almost unreadable

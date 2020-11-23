@@ -1,0 +1,1 @@
+Electron: Prevent <style> tags in DOM from loading

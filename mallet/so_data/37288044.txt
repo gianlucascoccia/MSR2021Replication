@@ -1,0 +1,1 @@
+Atom Electron cant find path of child process?

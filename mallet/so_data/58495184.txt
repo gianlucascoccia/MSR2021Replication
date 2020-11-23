@@ -1,0 +1,1 @@
+Electron JS Mac OS X Build Failure with Tray icon in .png format

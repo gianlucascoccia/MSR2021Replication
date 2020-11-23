@@ -1,0 +1,1 @@
+Were there some changes to Electron 5 and 6 that would prevent inbound IPC connections?

@@ -1,0 +1,1 @@
+Jest expects a native dependency built for Node, but mine are built for Electron - What can I do?

@@ -1,0 +1,1 @@
+Center the div in the body

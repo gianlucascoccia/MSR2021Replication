@@ -1,0 +1,1 @@
+How to store and load models from Ember data to and from local files?

@@ -1,0 +1,1 @@
+Include .dll .pak .bin in .exe

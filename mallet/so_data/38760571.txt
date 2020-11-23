@@ -1,0 +1,1 @@
+Cover a div with a transparent overlay

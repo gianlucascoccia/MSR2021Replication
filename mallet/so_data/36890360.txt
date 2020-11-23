@@ -1,0 +1,1 @@
+Access local file in javascript

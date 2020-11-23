@@ -1,0 +1,1 @@
+Is it possible to register a new app with soundcloud API using a custom http protocol in electron?

@@ -1,0 +1,1 @@
+How can I copy a folder that contains symlinks from Windows to mac?

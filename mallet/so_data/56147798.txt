@@ -1,0 +1,1 @@
+Unpack .appx and modify the appmanifest.xml file

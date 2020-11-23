@@ -1,0 +1,1 @@
+node-webkit can not write file in app.nw

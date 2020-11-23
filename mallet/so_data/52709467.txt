@@ -1,0 +1,1 @@
+Electron login helper won't work - "Process is not in an inherited sandbox"

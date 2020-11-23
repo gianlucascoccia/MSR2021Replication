@@ -1,0 +1,1 @@
+Issue when opening Electron application on Mac - "the git command requires command line developer tools."

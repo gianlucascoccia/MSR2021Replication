@@ -1,0 +1,1 @@
+Access a function in main window from renderer process in Electron

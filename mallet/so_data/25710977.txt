@@ -1,0 +1,1 @@
+Node-webkit desktop app restrictions

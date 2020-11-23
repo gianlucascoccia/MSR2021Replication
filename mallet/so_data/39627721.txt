@@ -1,0 +1,1 @@
+Does changing an img src attribute emit any emitters?

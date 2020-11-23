@@ -1,0 +1,1 @@
+I am sending id like this <a href="update.html?id="+element.id+> and I want to catch this id in variable on update.html in electron javascript

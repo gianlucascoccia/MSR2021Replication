@@ -1,0 +1,1 @@
+Coverage only reported of karma-test-shim (Electron/Angular2/SystemJS)

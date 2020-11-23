@@ -1,0 +1,1 @@
+Error while running execFileSync in packaged Electron app

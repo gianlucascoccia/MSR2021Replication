@@ -1,0 +1,1 @@
+How use the returned "buffer" of Electronjs function "getNativeWindowHandle()" in native functions?

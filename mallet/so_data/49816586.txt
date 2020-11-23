@@ -1,0 +1,1 @@
+Can't get the stdin stream of the executed process by node.js

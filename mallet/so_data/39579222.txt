@@ -1,0 +1,1 @@
+RegExp over electron ipc turns into plain object

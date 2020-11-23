@@ -1,0 +1,1 @@
+Javascript : how to call a function from an html page that is in a script file

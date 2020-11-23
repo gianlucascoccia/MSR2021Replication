@@ -1,0 +1,1 @@
+Electron / Linux : Give fullscreen back to previous application

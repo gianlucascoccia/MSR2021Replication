@@ -1,0 +1,1 @@
+python-shell with electron-builder work fine in my computer but not working in other computer

@@ -1,0 +1,1 @@
+NWJS: Cannot find module ./lib/helpers

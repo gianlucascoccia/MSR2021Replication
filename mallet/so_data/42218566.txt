@@ -1,0 +1,1 @@
+Copy <canvas> image from a BrowserWindow to another at 60fps in Atom Electron

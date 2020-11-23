@@ -1,0 +1,1 @@
+Load model from JSON on backbone

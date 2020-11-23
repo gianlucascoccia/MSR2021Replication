@@ -1,0 +1,1 @@
+Electron command opens file asscociation menu in Windows 10

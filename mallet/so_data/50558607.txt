@@ -1,0 +1,1 @@
+Managing Session Cookies with Firebase and Electron

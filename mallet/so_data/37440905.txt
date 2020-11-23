@@ -1,0 +1,1 @@
+How can I keep form updated without reloading DOM?

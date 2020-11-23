@@ -1,0 +1,1 @@
+Loading Electron window after getting all data from JavaScript

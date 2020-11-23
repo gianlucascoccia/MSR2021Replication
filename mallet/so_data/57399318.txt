@@ -1,0 +1,1 @@
+Why is React Context API mis-behaving in Electron app?

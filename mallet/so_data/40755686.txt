@@ -1,0 +1,1 @@
+How much Data I can save through Electron in my local database?

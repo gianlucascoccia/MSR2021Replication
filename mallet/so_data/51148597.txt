@@ -1,0 +1,1 @@
+Angular + Express.js app in Electron doesn't starts

@@ -1,0 +1,1 @@
+How can I cancel a bash command/script from my Electron app with Node's child_process?

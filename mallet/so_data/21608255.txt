@@ -1,0 +1,1 @@
+How to load external node module in node-webkit application

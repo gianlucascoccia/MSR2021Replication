@@ -1,0 +1,1 @@
+How to set up an event listener without an anonymous function? (not losing scope)

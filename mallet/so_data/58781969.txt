@@ -1,0 +1,1 @@
+How to call electron app from html page by clicking the button or making a request instead of executing from command prompt using npm start command

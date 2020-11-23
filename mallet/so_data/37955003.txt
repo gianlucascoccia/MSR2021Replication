@@ -1,0 +1,1 @@
+How to avoid the eslint-plugin-import "unresolved path to module 'electron'" error

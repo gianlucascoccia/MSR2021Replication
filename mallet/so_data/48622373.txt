@@ -1,0 +1,1 @@
+Small gap in very right side of window (window oversize)

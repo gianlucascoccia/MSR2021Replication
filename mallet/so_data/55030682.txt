@@ -1,0 +1,1 @@
+Can bower.json be chained to npm install in package.json?

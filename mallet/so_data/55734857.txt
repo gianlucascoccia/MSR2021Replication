@@ -1,0 +1,1 @@
+How do I use Mocha to test my custom module that requires Node API? "Cannot read property 'require' of undefined"

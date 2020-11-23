@@ -1,0 +1,1 @@
+Access the DOM of the connected project from the Electron application?

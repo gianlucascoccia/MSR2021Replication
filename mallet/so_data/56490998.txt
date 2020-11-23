@@ -1,0 +1,1 @@
+creating mocha test suite to start app just once

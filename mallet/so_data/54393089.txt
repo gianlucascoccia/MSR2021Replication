@@ -1,0 +1,1 @@
+decoratorsBeforeExport Error when using electron-webpack dev

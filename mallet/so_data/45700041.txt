@@ -1,0 +1,1 @@
+React-Router Redirect not working at all, using React-Redux-Electron

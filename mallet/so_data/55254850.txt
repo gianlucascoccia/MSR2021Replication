@@ -1,0 +1,1 @@
+how can I change value in index.html from main.js in electron?

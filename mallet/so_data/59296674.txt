@@ -1,0 +1,1 @@
+Mocha testing in Electron project. Why is Babel needed?

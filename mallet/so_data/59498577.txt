@@ -1,0 +1,1 @@
+Getting shadow in transparent window in Electron

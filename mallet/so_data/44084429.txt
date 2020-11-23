@@ -1,0 +1,1 @@
+User.config file path without .NET Framework

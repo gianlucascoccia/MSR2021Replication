@@ -1,0 +1,1 @@
+Get result of a callback in a variable

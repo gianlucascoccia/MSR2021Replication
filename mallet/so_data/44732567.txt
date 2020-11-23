@@ -1,0 +1,1 @@
+Electron app not seeing updates in the installed application

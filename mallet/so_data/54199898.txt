@@ -1,0 +1,1 @@
+How to remove indentation on new line in Codemirror

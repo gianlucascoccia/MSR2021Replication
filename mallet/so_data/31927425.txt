@@ -1,0 +1,1 @@
+TypeScript + Node-Webkit : need compiler to ignore "error" of importing External module in Internal module

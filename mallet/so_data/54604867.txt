@@ -1,0 +1,1 @@
+SQLite "SELECT" wrapper function returns empty object

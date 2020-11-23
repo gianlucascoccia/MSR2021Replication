@@ -1,0 +1,1 @@
+dialog opened by electron dialog.showOpenDialog method doesn't show network drivers

@@ -1,0 +1,1 @@
+SpeechRecognition network error when working with electron / chromium browser

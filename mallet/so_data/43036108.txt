@@ -1,0 +1,1 @@
+Electron-edge precompile for node v7.4.0

@@ -1,0 +1,1 @@
+I cannot use python-shell on electron app

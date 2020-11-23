@@ -1,0 +1,1 @@
+open a new window on mouse click in React

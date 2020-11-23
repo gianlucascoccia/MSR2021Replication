@@ -1,0 +1,1 @@
+Electron + Angular7 How to use serialport.list() in a Component

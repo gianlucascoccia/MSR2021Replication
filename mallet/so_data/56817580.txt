@@ -1,0 +1,1 @@
+In nwjs DOM seems to be empty when accessed from another module

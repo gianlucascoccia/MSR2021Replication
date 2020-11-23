@@ -1,0 +1,1 @@
+DataTable selection doesn't work in Electron

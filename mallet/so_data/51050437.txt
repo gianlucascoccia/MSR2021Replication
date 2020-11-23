@@ -1,0 +1,1 @@
+Renderer doesn't receive data from another renderer while using ipc

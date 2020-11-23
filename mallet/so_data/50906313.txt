@@ -1,0 +1,1 @@
+Calling a function in a renderer process when main window is closed in electron js

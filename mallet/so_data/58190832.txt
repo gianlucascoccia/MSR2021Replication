@@ -1,0 +1,1 @@
+Change detection stopped working in Electron app when using zone.js 0.9.1

@@ -1,0 +1,1 @@
+Using typescript in Electron's preload scripts

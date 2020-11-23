@@ -1,0 +1,1 @@
+Including executable file to be called in Electron Vue app

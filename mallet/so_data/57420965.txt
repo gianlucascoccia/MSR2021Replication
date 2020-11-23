@@ -1,0 +1,1 @@
+'Unexpected Identifier' when using Electron with Parcel and Babel 7

@@ -1,0 +1,1 @@
+Using .NET System.SpecialFolders or similar enum in node.js

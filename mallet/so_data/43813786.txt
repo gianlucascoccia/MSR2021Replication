@@ -1,0 +1,1 @@
+VUE Router not working with two Electron BrowserWindows

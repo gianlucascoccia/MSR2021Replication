@@ -1,0 +1,1 @@
+how to use node-gyp with electron to access a C library

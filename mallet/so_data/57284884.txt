@@ -1,0 +1,1 @@
+Electron function window all closed cant see other function

@@ -1,0 +1,1 @@
+how can inject script in node-webkit when visit other url

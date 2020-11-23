@@ -1,0 +1,1 @@
+Pass data from OpenCV C++ to NodeJS/JS | Electron

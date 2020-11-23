@@ -1,0 +1,1 @@
+Simulating key strokes, like sendkeys, in node-webkit Windows 7 app

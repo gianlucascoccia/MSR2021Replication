@@ -1,0 +1,1 @@
+How Can I set the background of a browser window blend with the desktop background?

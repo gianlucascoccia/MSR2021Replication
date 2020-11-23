@@ -1,0 +1,1 @@
+Problem building node-serialport with nw-gyp (win10 64bit)

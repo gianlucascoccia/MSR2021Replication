@@ -1,0 +1,1 @@
+Incorporating an integrated PowerShell terminal like Visual Studio Code

@@ -1,0 +1,1 @@
+how to showing data of my Db in electron.js?

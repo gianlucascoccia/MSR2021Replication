@@ -1,0 +1,1 @@
+validation with angular checkbox-model

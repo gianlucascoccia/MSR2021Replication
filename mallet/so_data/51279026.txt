@@ -1,0 +1,1 @@
+Dynamically load firebase config params for different environments

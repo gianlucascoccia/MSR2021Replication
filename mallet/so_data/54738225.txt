@@ -1,0 +1,1 @@
+Electronjs and Nodejs(Crypto) crypto.scryptSync is not a function

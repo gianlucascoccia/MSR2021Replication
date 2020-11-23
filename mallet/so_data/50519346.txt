@@ -1,0 +1,1 @@
+External image links in Electron do not open in an external browser

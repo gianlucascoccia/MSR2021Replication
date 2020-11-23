@@ -1,0 +1,1 @@
+When electron app is code signed, it won't open on older versions of mac osx

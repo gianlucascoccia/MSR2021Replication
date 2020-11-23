@@ -1,0 +1,1 @@
+Using ES6 on Electron app with io.js

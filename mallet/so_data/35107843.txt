@@ -1,0 +1,1 @@
+How to include jquery and datatables through <script> tag in electron app

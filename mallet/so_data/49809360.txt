@@ -1,0 +1,1 @@
+Encrypt and Decrypt files using Node.js Crypto Stream

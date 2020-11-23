@@ -1,0 +1,1 @@
+what does web preference mean in electron js and why nodeIntegration is set to false default?

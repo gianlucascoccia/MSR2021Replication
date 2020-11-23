@@ -1,0 +1,1 @@
+Why am I getting error on my browser after my view changed to other view (angular)?

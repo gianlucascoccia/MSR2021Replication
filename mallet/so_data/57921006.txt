@@ -1,0 +1,1 @@
+Flask app shows only 1 image and does not show other images

@@ -1,0 +1,1 @@
+node serialport module not working with child process fork()

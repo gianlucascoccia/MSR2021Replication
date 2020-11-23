@@ -1,0 +1,1 @@
+Why does package.json lose my saved changes whenever I save my Electron Fiddle project?

@@ -1,0 +1,1 @@
+Cypress test fails for asserting equal to DOM title

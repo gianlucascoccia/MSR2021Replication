@@ -1,0 +1,1 @@
+Javascript function to convert Javascript Code to String

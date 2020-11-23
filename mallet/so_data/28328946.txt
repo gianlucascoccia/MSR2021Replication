@@ -1,0 +1,1 @@
+node webkit text to speech api not working?

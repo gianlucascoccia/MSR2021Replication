@@ -1,0 +1,1 @@
+Repeatedly clicking an element on a page using Electron (NightareJS)

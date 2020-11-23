@@ -1,0 +1,1 @@
+Handle OAuth callback in node-webkit

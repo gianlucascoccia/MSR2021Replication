@@ -1,0 +1,1 @@
+Triggering click from Electron main script

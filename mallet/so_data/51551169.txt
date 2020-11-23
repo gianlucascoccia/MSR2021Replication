@@ -1,0 +1,1 @@
+How to set default state to closed for sidenav nav-links in vmware-clarity, Angular6

@@ -1,0 +1,1 @@
+Proper entitlements to automatically open directory on macOS

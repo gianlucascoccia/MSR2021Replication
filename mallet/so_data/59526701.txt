@@ -1,0 +1,1 @@
+Error when packaging Electron app to macOS

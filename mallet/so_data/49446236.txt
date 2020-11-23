@@ -1,0 +1,1 @@
+How should i exclude all node_modules in electron-packager

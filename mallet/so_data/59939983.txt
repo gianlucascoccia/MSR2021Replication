@@ -1,0 +1,1 @@
+Using Spectron to "mock" Electron when testing with Jest

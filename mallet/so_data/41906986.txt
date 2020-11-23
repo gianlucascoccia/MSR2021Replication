@@ -1,0 +1,1 @@
+Two Way Data Binding Angular 2 in Electron not working

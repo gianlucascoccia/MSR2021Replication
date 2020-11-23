@@ -1,0 +1,1 @@
+Typescript Electron Renderer process not working

@@ -1,0 +1,1 @@
+Package nwjs app into a single exe

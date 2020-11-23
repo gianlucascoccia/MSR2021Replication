@@ -1,0 +1,1 @@
+Run python script on node-webkit startup (nw.js)

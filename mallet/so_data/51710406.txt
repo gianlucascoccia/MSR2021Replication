@@ -1,0 +1,1 @@
+clearInterval not working electron on ARM

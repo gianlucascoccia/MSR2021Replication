@@ -1,0 +1,1 @@
+ElectronJS crashes on dialog.showOpenDialog(...)

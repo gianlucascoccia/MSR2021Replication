@@ -1,0 +1,1 @@
+Unable to send state data as props to another component

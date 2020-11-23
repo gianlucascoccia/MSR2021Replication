@@ -1,0 +1,1 @@
+DOM ready event inside Electron how?

@@ -1,0 +1,1 @@
+Blocked a frame with origin "file://" from accessing a cross-origin frame

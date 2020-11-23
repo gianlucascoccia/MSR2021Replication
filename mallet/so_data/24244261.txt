@@ -1,0 +1,1 @@
+Disable PDF loading in browser's page

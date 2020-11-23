@@ -1,0 +1,1 @@
+Unable to locate vendor files using electron with angular2 and angular-cli

@@ -1,0 +1,1 @@
+Retrieve more detailed errors from Electron preload script

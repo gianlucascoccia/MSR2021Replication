@@ -1,0 +1,1 @@
+NW.js How to make F11 hot key to switch between full screen window and standard window?

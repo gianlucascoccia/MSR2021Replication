@@ -1,0 +1,1 @@
+Node buffer to HTMLImageElement src

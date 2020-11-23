@@ -1,0 +1,1 @@
+Exporting sqlite3 db file from inside electron app. Is this possible?

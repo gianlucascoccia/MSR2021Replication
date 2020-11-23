@@ -1,0 +1,1 @@
+How do I know if the OSX taskbar icon of a Node-Webkit application is clicked?

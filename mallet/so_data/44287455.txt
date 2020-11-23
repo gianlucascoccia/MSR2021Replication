@@ -1,0 +1,1 @@
+Running an electron app, i encounter multiple MacOS errors

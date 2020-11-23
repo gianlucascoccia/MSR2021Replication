@@ -1,0 +1,1 @@
+Using an exported function from a Babel-transpiled Javascript file inside a non-transpiled HTML page

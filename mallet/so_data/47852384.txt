@@ -1,0 +1,1 @@
+electron builder change install directory - referencing environmenal variable from within installer.nsh

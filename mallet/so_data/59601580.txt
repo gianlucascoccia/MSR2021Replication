@@ -1,0 +1,1 @@
+Drag and drop .webloc (browser url) file into electron app or react component

@@ -1,0 +1,1 @@
+Loading a medium sized JSON file in Electron renderer takes too much time

@@ -1,0 +1,1 @@
+I failed to load data in same window second screen Electron js application

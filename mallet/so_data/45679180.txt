@@ -1,0 +1,1 @@
+Increase node memory using npm package.json script

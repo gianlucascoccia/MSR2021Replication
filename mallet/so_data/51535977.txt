@@ -1,0 +1,1 @@
+Set app variables from Electron Packager build script

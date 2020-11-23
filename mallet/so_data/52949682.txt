@@ -1,0 +1,1 @@
+"loadURL" electron-Angular project only once Angular Compiler is ready

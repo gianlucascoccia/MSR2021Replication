@@ -1,0 +1,1 @@
+Use simple js prompt with node to electron app

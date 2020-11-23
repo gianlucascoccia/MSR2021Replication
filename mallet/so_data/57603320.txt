@@ -1,0 +1,1 @@
+Side bar menu with two action, either open in same window or on new window

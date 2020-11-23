@@ -1,0 +1,1 @@
+p/Contents/MacOS/Electron Helper[5250]: ../../third_party/electron_node/src/inspector_agent.cc:746:bool node::inspector::Agent::Star

@@ -1,0 +1,1 @@
+How can I change BrowserWindow hash url without reloading the page

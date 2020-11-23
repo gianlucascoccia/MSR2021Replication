@@ -1,0 +1,1 @@
+keep window hidden until init completes

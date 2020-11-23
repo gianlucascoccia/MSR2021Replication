@@ -1,0 +1,1 @@
+database.find{} problems with nedb in node.js-express

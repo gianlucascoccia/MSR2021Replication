@@ -1,0 +1,1 @@
+Nw.js merge the zipped app.nw file into the NW.js executable

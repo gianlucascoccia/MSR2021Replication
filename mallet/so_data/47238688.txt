@@ -1,0 +1,1 @@
+Should I bother with cross browser compatibility if i'll be just using nwjs?

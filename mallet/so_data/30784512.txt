@@ -1,0 +1,1 @@
+Execute createShortcut in a Squirrel event, in an Electron app

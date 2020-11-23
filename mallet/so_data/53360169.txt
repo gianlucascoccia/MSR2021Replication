@@ -1,0 +1,1 @@
+Electron event emitter error while app.quit with closing all open renderer processes

@@ -1,0 +1,1 @@
+store cookies in electron application

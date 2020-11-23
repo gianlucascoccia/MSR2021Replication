@@ -1,0 +1,1 @@
+How can I open link from webview in external browser in electron with sandbox?

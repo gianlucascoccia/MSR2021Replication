@@ -1,0 +1,1 @@
+Open another .exe from nwjs app

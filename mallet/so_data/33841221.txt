@@ -1,0 +1,1 @@
+Unable to build c++ application using nw-gyp build. Error: error MSB6006: "CL.exe" exited with code -1073741515

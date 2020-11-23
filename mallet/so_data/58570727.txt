@@ -1,0 +1,1 @@
+How to get current electron window reference in angular component?

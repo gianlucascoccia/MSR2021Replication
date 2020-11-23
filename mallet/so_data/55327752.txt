@@ -1,0 +1,1 @@
+ElectronJS: What's the safest way to load user's local files in the DOM (<video src="C:\...">)?

@@ -1,0 +1,1 @@
+Electron doesn't render any html after an select box

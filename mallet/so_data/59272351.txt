@@ -1,0 +1,1 @@
+Electron dialog object not return anything, says Promise { <pending> }

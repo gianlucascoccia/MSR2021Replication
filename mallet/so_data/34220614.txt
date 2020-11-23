@@ -1,0 +1,1 @@
+nw.js browser showing Uncaught ReferenceError: require is not defined

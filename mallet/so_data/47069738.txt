@@ -1,0 +1,1 @@
+Should I disable create-react-app serviceWorker in Electron app?

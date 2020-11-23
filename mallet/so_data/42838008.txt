@@ -1,0 +1,1 @@
+Universal Windows App - the equivalent of NW.JS's typeof process == "object"

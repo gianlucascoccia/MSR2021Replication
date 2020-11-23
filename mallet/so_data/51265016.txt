@@ -1,0 +1,1 @@
+Electron - restart app / refresh environment variables

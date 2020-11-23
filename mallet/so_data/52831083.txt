@@ -1,0 +1,1 @@
+restrict electron app to able to install only on windows 7 and above?

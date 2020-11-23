@@ -1,0 +1,1 @@
+Noise bug in VSCode when I keep in the background

@@ -1,0 +1,1 @@
+How can I ensure that a React component's state is correct?

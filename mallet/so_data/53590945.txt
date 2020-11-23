@@ -1,0 +1,1 @@
+Click noise when recording audio with a web audio worklet

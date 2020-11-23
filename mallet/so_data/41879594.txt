@@ -1,0 +1,1 @@
+Can I make a portion of JS run continously?

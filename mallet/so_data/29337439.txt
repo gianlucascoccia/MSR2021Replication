@@ -1,0 +1,1 @@
+Can I compile/package a Node-Webkit (NW.js) app into an exe for windows and a version for Linux?

@@ -1,0 +1,1 @@
+How to change electron-builder path for portable application on windows?

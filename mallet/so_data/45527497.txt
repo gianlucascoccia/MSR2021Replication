@@ -1,0 +1,1 @@
+Failing to install sqlite3 plugin for electron project on windows

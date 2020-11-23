@@ -1,0 +1,1 @@
+When building ionic desktop app I get windows-build.js not found

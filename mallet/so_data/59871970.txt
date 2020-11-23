@@ -1,0 +1,1 @@
+Electron application built with electron-builder can't load image when installed in Program Files (x86)

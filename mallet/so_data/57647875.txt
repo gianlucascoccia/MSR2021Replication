@@ -1,0 +1,1 @@
+Cypress - Alert message when running electron browser asking to update to latest Chrome fails tests covering elements

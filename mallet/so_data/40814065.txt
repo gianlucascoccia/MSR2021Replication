@@ -1,0 +1,1 @@
+fs.writeFile() and fs.readFile() strange behavior

@@ -1,0 +1,1 @@
+nwjs builder won't change my exe icon

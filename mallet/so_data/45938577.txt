@@ -1,0 +1,1 @@
+app and autoUpdater not available in reactjs, but available in nodejs

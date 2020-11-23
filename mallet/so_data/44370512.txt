@@ -1,0 +1,1 @@
+Why doesn't npm start run electron app?

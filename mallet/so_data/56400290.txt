@@ -1,0 +1,1 @@
+White Screen on Fresh New Angular 8/Electron 5 App

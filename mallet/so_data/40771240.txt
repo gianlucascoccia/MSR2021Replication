@@ -1,0 +1,1 @@
+where to put nw.js temp data -- `nw.App.dataPath + '/Cache'`?

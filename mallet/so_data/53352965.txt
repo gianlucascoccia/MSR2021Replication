@@ -1,0 +1,1 @@
+Cursor not moving to secondary display in Electron

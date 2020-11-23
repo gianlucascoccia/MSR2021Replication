@@ -1,0 +1,1 @@
+Save data to file and close window on single button click

@@ -1,0 +1,1 @@
+Elevation of entire Electron app / Mounting to /Volumes on MacOS Sierra

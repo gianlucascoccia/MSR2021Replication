@@ -1,0 +1,1 @@
+How to fix electron sqlite3 rebuild error ( Syntax error) on windows 10

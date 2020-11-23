@@ -1,0 +1,1 @@
+Forking from Electron process fails on Windows only from installed executable

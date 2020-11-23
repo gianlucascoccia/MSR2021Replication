@@ -1,0 +1,1 @@
+Electron Packager creates errors in the packaged file

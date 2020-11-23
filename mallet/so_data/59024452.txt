@@ -1,0 +1,1 @@
+When exporting my electron app the file size is 2.22 GB

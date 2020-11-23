@@ -1,0 +1,1 @@
+Angular js unable to assign scope

@@ -1,0 +1,1 @@
+Electron app with pm2 packaged for Mac respawns itself

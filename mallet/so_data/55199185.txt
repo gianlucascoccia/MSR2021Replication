@@ -1,0 +1,1 @@
+AngularJS and Electron: Can't run AngularJS application inside Electron

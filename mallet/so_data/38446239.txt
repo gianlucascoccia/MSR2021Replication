@@ -1,0 +1,1 @@
+typescript import doesn't work

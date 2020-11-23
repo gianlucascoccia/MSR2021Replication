@@ -1,0 +1,1 @@
+How firebase auth state persistence works in electron apps?

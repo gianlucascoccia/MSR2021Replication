@@ -1,0 +1,1 @@
+electron-rebuild fails for sqlite3

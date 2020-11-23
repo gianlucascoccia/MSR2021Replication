@@ -1,0 +1,1 @@
+ElectronJS - Read another app's contents like the web contents of an unrelated Chrome Window

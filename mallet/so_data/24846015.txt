@@ -1,0 +1,1 @@
+node-webkit: calls to require() throw "AssertionError: missing path"

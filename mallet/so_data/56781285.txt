@@ -1,0 +1,1 @@
+Can Spectron test and Electron application installed in Program Files?

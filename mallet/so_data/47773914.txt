@@ -1,0 +1,1 @@
+Best way to store data in a local Data Base in an application built using Angularjs and Electron

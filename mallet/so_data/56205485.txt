@@ -1,0 +1,1 @@
+Is it possible to comunicate between a nodejs process and a Electron child process?

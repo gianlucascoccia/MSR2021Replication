@@ -1,0 +1,1 @@
+Storage data (localstroage, IndexedDb) gets deleted whenever the application restarts in dev mode (electron-webpack)

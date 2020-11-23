@@ -1,0 +1,1 @@
+Display .icns file in electron renderer process

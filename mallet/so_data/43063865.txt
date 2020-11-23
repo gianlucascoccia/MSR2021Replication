@@ -1,0 +1,1 @@
+Rendering bug kernel freezes Electron App on Raspberry Pi

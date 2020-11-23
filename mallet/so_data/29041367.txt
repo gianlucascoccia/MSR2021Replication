@@ -1,0 +1,1 @@
+Embedding terminal in a node-webkit app?

@@ -1,0 +1,1 @@
+electron builder app size is too large

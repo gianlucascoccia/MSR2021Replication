@@ -1,0 +1,1 @@
+Electron - Catch when window is closed using the "x" button

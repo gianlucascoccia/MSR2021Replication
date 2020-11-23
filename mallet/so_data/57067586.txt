@@ -1,0 +1,1 @@
+Electron, The window belongs to tray. I don’t want it to be showed in the dock bar

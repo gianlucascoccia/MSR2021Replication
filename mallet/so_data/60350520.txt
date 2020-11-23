@@ -1,0 +1,1 @@
+Electron Browser Window Prevent Control+W closing window

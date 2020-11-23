@@ -1,0 +1,1 @@
+Associate file extension with Electron application

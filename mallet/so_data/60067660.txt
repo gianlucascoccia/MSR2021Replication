@@ -1,0 +1,1 @@
+Is there a way to mimic browser flow SSO authentication in a asynchronous JavaScript function?

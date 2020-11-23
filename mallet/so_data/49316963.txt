@@ -1,0 +1,1 @@
+Electron-builder "update-available" event not being triggered when a new release is available

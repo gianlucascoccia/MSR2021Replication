@@ -1,0 +1,1 @@
+MAC OS X difference between "open APP.app" and "APP.app/content/MacOs/APP" shell scripts

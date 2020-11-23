@@ -1,0 +1,1 @@
+how to handle if ip or domain are wrong in fetch in javascript

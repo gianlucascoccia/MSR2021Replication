@@ -1,0 +1,1 @@
+Run jest with electron instead of node

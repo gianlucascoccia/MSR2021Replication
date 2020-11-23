@@ -1,0 +1,1 @@
+How to replace variable names in external js files

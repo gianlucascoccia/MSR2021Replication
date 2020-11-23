@@ -1,0 +1,1 @@
+Hide window from program switcher in NW.JS

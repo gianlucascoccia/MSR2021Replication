@@ -1,0 +1,1 @@
+Need Electron App to be launched from http uri scheme

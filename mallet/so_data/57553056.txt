@@ -1,0 +1,1 @@
+How to read a File from the local storage (say "C:\\" ) using UWP Backbround Task?

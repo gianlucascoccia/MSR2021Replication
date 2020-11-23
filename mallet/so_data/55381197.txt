@@ -1,0 +1,1 @@
+Unexpected identifier {classname} when I try to import a class

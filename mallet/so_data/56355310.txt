@@ -1,0 +1,1 @@
+Does modifying the source code and build and resign my desktop app affect its reputation?

@@ -1,0 +1,1 @@
+Google Cloud Speech to Text in Electron: "error reading first path in the walk C:\...\protos"

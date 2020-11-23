@@ -1,0 +1,1 @@
+Routing doesn't work on packaged Electron app using ReactJS and reach-router

@@ -1,0 +1,1 @@
+Does node JS support ESC POS printing?

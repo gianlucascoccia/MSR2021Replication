@@ -1,0 +1,1 @@
+Can't load jQuery locally in node-webkit app

@@ -1,0 +1,1 @@
+How would I stop a spawned child process safely to initiate a regular "exit" sequence?

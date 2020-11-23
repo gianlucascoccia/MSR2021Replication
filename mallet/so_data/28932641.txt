@@ -1,0 +1,1 @@
+Database and files in Node Webkit (nw.js)

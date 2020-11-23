@@ -1,0 +1,1 @@
+Component DOM not updating if data changes while viewing another component

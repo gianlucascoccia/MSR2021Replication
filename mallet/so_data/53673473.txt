@@ -1,0 +1,1 @@
+NW.js How to debug when your main file is an JS file?

@@ -1,0 +1,1 @@
+Cross platform build on ubuntu for mac with sharp and electron-builder

@@ -1,0 +1,1 @@
+Electron - Retrieving HTTP response headers from the BrowserWindow's loadUrl()

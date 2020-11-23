@@ -1,0 +1,1 @@
+Correct way to return exception information from main process to renderer process

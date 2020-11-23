@@ -1,0 +1,1 @@
+Load nedb database on every request. Is it right?

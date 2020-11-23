@@ -1,0 +1,1 @@
+Windows Electron Application Packaged with Electron Packager not displaying properly in task bar

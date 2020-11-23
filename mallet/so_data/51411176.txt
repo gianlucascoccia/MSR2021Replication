@@ -1,0 +1,1 @@
+Get selected text contents outside of electron window?

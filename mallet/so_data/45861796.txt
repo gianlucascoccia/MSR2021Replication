@@ -1,0 +1,1 @@
+Open new tab in Electron/Angular4 application with a route

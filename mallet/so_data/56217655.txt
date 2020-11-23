@@ -1,0 +1,1 @@
+What's different between open App.app file and App.app/contents/MacOS/Electron on MacOS?

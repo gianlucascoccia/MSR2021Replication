@@ -1,0 +1,1 @@
+Getters involving external data in Vue.js + Vuex

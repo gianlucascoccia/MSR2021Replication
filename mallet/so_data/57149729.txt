@@ -1,0 +1,1 @@
+Electron-builder in a electron react app won't build - Server 500 error. How can we build without the repo?

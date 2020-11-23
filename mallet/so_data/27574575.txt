@@ -1,0 +1,1 @@
+ng-repeat does not show data until I move node-webkit window

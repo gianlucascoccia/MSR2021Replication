@@ -1,0 +1,1 @@
+'Uncaught ReferenceError: require is not defined at [...]' on Electron 5.0.1

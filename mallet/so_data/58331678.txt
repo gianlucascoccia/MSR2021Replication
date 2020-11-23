@@ -1,0 +1,1 @@
+Electron cannot read property 'path' of undefined videos I have uploaded

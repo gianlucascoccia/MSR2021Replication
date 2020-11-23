@@ -1,0 +1,1 @@
+How to load js embbed in electron app ? like twitter embbed

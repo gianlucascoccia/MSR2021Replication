@@ -1,0 +1,1 @@
+Determine if file/foder is hidden in Windows via Electron/Node

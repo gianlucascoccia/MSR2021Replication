@@ -1,0 +1,1 @@
+Angular & Electron - IPC communication between main & render processes

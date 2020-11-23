@@ -1,0 +1,1 @@
+Can not getting complete stdout using node.js

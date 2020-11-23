@@ -1,0 +1,1 @@
+node.js child process doesn't work in node webkit

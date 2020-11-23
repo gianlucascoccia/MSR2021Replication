@@ -1,0 +1,1 @@
+simple example of electron app with spectron test

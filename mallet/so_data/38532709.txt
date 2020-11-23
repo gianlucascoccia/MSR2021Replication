@@ -1,0 +1,1 @@
+Electron disable specific camera device access or set default webcam

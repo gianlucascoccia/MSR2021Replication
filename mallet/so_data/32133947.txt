@@ -1,0 +1,1 @@
+What is shared between multiple windows in an electron app?

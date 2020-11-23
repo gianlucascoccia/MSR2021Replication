@@ -1,0 +1,1 @@
+React input[type=date] component does not work properly

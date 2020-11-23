@@ -1,0 +1,1 @@
+Two.JS rendering from different scopes

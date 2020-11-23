@@ -1,0 +1,1 @@
+Electron - IPC module not sending data to main from renderer

@@ -1,0 +1,1 @@
+No input validation in node webkit (nw.js) based app

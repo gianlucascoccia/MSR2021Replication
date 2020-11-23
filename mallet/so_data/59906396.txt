@@ -1,0 +1,1 @@
+node: managing create-react-app template package.json creation

@@ -1,0 +1,1 @@
+Uncaught ReferenceError: $ is not defined on Electron

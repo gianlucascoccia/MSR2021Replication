@@ -1,0 +1,1 @@
+Using html5 localstorage instead of cookies with passport.js

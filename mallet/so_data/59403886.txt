@@ -1,0 +1,1 @@
+In electron, how to set callback at dialog.showMessageBox for 6.0.0 version?

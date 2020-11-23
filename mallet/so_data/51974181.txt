@@ -1,0 +1,1 @@
+Nothing gets focused when Electron window is set to frame: false

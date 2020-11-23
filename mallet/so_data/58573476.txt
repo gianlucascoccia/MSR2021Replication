@@ -1,0 +1,1 @@
+the store[vuex] of a vue-electron application shows a different application state?

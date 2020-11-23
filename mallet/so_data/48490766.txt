@@ -1,0 +1,1 @@
+Firestore is not a function in a SimulatedGREG/electron-vue application

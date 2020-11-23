@@ -1,0 +1,1 @@
+Electron Doesn't Return Proper Value From window.open()

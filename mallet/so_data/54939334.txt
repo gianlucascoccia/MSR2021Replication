@@ -1,0 +1,1 @@
+How to execute Python script from electron using a button click?

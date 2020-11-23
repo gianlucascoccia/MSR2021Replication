@@ -1,0 +1,1 @@
+Blurry/flickering text rendering in Electron

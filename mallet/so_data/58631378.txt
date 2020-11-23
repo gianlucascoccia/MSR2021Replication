@@ -1,0 +1,1 @@
+How to check if a windows user has read & write privileges to a certain folder using node.js?

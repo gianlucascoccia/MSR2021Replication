@@ -1,0 +1,1 @@
+Why is "-webkit-app-region" not a defined CSS property in most code editors?

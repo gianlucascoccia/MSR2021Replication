@@ -1,0 +1,1 @@
+npm start fails with events.js:174 throw err; on Ubuntu 18.04

@@ -1,0 +1,1 @@
+How to set up google analytics (or Firebase Analytics) in electron desktop app?

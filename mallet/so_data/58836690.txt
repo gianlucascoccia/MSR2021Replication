@@ -1,0 +1,1 @@
+How to create symbolic links inside the program folder of my Electron app?

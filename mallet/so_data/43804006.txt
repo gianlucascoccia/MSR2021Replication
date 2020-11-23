@@ -1,0 +1,1 @@
+Intergrate pdfmake library with angularjs running with nodejs inside electron client

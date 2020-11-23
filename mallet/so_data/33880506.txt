@@ -1,0 +1,1 @@
+Chrome local storage deleting after NWJS application closes on Windows

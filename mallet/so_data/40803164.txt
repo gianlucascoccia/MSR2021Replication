@@ -1,0 +1,1 @@
+Cannot get windows 10 assigned access work with Electron-Windows-Store

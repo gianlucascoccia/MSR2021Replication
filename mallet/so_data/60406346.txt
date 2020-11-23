@@ -1,0 +1,1 @@
+Unable to access new set value out of ipcRenderer scope - electron javascript

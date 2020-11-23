@@ -1,0 +1,1 @@
+JavaScript array returns length 0

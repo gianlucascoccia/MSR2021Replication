@@ -1,0 +1,1 @@
+Receiving information from a html checkbox with JavaScript

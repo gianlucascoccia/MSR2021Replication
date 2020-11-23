@@ -1,0 +1,1 @@
+How do I spawn an App from Electron on Mac in the foreground and get the exit code?

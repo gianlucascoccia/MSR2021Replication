@@ -1,0 +1,1 @@
+Is Babel still necessary when using Typescript and Electron?

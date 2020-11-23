@@ -1,0 +1,1 @@
+fs.writeFile how to disable escaping at stuff like \n

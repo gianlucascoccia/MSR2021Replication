@@ -1,0 +1,1 @@
+Saving DesktopCapturer to file in Electron since Buffer() deprecated

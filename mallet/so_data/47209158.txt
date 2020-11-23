@@ -1,0 +1,1 @@
+Electron not loading web application with full functionalities

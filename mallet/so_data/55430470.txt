@@ -1,0 +1,1 @@
+Video Output is 0 Byte when recording in Electron via MediaRecorder

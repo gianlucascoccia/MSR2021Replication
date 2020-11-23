@@ -1,0 +1,1 @@
+Error: Module version mismatch. when trying to launch in electron shell

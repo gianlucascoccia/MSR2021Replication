@@ -1,0 +1,1 @@
+Electron/electron-packager angular desktop app - http requests to localhost server are refused and blocked

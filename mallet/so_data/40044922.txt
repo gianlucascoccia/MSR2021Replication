@@ -1,0 +1,1 @@
+What is the .app folder? How can it be turned into a .dmg archive?

@@ -1,0 +1,1 @@
+Need to filter the systeminfo findstr

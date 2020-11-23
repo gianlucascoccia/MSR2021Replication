@@ -1,0 +1,1 @@
+Accessing/ referencing external files in node-webkit application

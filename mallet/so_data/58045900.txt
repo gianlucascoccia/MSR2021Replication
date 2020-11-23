@@ -1,0 +1,1 @@
+Emit an event from electron main js into a vue component

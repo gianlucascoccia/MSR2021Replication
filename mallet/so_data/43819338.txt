@@ -1,0 +1,1 @@
+cross domain origin security in NWJS

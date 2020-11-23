@@ -1,0 +1,1 @@
+Electron Installer integrity check has failed

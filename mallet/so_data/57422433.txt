@@ -1,0 +1,1 @@
+Is there a way to see in cypress electron browser some logging?

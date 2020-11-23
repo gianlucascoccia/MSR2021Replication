@@ -1,0 +1,1 @@
+Signing a Windows installer (.exe) for application created using Electron

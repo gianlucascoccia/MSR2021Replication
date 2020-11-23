@@ -1,0 +1,1 @@
+Node app responseHeaders are not lowercased when running Fiddler

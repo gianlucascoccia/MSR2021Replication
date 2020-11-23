@@ -1,0 +1,1 @@
+Electron/Node.js - Replacing/intecepting a .json file request with javascript function that returns data

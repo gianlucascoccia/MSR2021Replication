@@ -1,0 +1,1 @@
+Event loop is never drained because of wait-on so Electron's app.ready event never fire

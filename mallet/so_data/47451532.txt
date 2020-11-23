@@ -1,0 +1,1 @@
+how to load or read local files in Emscripten without using Preload-file?

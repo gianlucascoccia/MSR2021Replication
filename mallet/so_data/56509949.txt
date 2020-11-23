@@ -1,0 +1,1 @@
+Both webView and iFrame overriding 'transparent:true' property in Electron.js browserView

@@ -1,0 +1,1 @@
+How can I spoof screen resolution on electron app?

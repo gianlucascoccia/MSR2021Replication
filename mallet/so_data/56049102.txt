@@ -1,0 +1,1 @@
+How can I spawn a child process that starts an electron app and then kill it while keeping the parent process alive?

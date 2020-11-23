@@ -1,0 +1,1 @@
+Facebook is not fully loaded inside the electron window. And I get UncaughtErrors in the browser console. What might be the cause?

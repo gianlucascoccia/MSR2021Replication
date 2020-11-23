@@ -1,0 +1,1 @@
+Close window but not app on click of "x" on Mac OS with node webkit

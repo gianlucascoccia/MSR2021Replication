@@ -1,0 +1,1 @@
+NW.js - PouchDB - Unable to use PouchDB via require() in node webkit

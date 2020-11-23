@@ -1,0 +1,1 @@
+Nested node_modules folder disappears after packaging

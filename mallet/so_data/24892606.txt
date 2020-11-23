@@ -1,0 +1,1 @@
+How can I open PDF files inside a Mac node-webkit application?

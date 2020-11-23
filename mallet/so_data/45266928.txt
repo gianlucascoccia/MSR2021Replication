@@ -1,0 +1,1 @@
+Electron app has multiple background services running and don't stop on exit

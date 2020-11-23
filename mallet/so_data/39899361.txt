@@ -1,0 +1,1 @@
+Codesign Electron App - How to gracefully switch certificates?

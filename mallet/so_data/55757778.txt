@@ -1,0 +1,1 @@
+How can I achieve separately wrapped web page applications that can communicate with low latency?

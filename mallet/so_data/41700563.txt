@@ -1,0 +1,1 @@
+How do I code sign an Electron app before bundling it (for Mac)?

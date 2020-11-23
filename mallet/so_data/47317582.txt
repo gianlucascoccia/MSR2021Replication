@@ -1,0 +1,1 @@
+What are the security concerns for exposing Electron's ipcRenderer to a embedded webview?

@@ -1,0 +1,1 @@
+Typescript "exports not defined" error when not exporting

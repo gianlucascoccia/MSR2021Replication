@@ -1,0 +1,1 @@
+Notarizing Electron apps throws - "You must first sign the relevant contracts online. (1048)" error

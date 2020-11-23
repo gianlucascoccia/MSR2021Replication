@@ -1,0 +1,1 @@
+Defining different BrowserWindows in an electron main file, but only one of them works?

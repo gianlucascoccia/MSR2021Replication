@@ -1,0 +1,1 @@
+Firebase SDK signInWithPopup() not working with Electron

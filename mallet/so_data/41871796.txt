@@ -1,0 +1,1 @@
+Requiring js file containing 'ref' and 'ffi' node modules from react file

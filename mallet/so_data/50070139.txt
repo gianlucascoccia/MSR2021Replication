@@ -1,0 +1,1 @@
+Can't run Electron app - EINVAL: invalid argument, lstat

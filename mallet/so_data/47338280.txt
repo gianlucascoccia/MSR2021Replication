@@ -1,0 +1,1 @@
+how to store images and display the images when the name of the image is entered in electron app?

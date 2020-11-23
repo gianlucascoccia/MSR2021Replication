@@ -1,0 +1,1 @@
+JSreport and NodeJS, How to generate report using jsreport on nodejs without server?

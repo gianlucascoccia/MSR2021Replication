@@ -1,0 +1,1 @@
+"TypeError: Cannot read property 'on' of undefined" when making an ipc call in electron

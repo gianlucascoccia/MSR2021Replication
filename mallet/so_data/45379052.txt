@@ -1,0 +1,1 @@
+How to properly update electron application menu labels?

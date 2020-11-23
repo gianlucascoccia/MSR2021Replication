@@ -1,0 +1,1 @@
+Cannot send function to Electron Renderer process from Main Process

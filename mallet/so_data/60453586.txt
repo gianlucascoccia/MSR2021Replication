@@ -1,0 +1,1 @@
+Why does my MenuItem icon not show at the top level in Electron 1.1.8?

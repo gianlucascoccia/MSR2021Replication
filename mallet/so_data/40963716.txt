@@ -1,0 +1,1 @@
+Promise fired before waiting for result

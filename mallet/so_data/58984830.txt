@@ -1,0 +1,1 @@
+drivelist on Windows error (A dynamic link library (DLL) initialization routine failed) when used in an NW.js application

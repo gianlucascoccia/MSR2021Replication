@@ -1,0 +1,1 @@
+How to navigate pages via electron menu - angularjs app

@@ -1,0 +1,1 @@
+Get a return value from Electron's webContents.executeJavaScript with NodeIntegration disabled - Possible?

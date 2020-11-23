@@ -1,0 +1,1 @@
+Disable text selection on nested span (React / Electron)

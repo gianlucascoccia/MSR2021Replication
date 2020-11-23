@@ -1,0 +1,1 @@
+How do you add the installation screen for your an electron app like atom, WhatsApp and others?

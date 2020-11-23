@@ -1,0 +1,1 @@
+Detecting USB and HDMI cable event with node js

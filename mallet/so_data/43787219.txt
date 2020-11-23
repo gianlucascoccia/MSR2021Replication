@@ -1,0 +1,1 @@
+How to insert image files in Electron + React.js + Webpack desktop app package for Mac OS

@@ -1,0 +1,1 @@
+How to make Electron automatically open downloaded files in external application?

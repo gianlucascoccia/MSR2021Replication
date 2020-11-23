@@ -1,0 +1,1 @@
+How can I load mysql data into jquery datatable in electon app

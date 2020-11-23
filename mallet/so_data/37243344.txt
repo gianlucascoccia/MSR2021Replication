@@ -1,0 +1,1 @@
+node-webkit app is creating new nw folder in temp folder and not deleting the old one whenever app is upgrade or system is restarted

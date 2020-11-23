@@ -1,0 +1,1 @@
+Electron & Node.js MySQL how to write a console.log before an Error?

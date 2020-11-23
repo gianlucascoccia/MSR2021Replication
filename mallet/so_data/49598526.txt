@@ -1,0 +1,1 @@
+Is there any way to know if a file is being opened by the user?

@@ -1,0 +1,1 @@
+how to connect Web sql in node-webkit app?

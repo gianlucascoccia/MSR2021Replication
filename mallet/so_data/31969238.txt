@@ -1,0 +1,1 @@
+Constrain window aspect ratio in NW.JS

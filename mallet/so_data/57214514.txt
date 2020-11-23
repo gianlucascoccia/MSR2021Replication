@@ -1,0 +1,1 @@
+How to use opencv.js in capacitor's electron build ? ReferenceError: cv is not defined

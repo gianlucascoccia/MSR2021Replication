@@ -1,0 +1,1 @@
+How can I fix this error after installing Electron on Mac with command 'sudo npm install electron -g'

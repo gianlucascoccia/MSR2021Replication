@@ -1,0 +1,1 @@
+Angular type error: Type 'string' is not assignable to type 'string[]'

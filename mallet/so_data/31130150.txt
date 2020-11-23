@@ -1,0 +1,1 @@
+In Electron Framework, Can I access clipboard?

@@ -1,0 +1,1 @@
+Resizable window in electron.js

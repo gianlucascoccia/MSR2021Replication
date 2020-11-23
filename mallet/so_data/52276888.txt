@@ -1,0 +1,1 @@
+New BrowserWindow loadFile not defined when webpacked

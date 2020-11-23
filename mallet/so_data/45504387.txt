@@ -1,0 +1,1 @@
+Electron win.flashFrame() method when app is minimized

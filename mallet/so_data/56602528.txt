@@ -1,0 +1,1 @@
+Import component from a variable path name

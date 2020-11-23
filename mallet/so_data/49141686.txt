@@ -1,0 +1,1 @@
+Make WebdriverIO wait for a specific component to reload

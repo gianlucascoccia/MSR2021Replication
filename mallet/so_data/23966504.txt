@@ -1,0 +1,1 @@
+Nedb Multiple Collection Single Datastore

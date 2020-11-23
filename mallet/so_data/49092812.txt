@@ -1,0 +1,1 @@
+Scraping categories and subcategories using beautifulsoup

@@ -1,0 +1,1 @@
+It is possible to track what apps are in use and what file is openned with nodejs

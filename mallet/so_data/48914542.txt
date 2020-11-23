@@ -1,0 +1,1 @@
+Can't open Electron webview links with target = blank

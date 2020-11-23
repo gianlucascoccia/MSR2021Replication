@@ -1,0 +1,1 @@
+Can node-webkit or atom-shell take screenshot of entire desktop screen?

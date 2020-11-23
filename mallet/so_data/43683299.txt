@@ -1,0 +1,1 @@
+Electron + Angular = no local files?

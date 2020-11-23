@@ -1,0 +1,1 @@
+Electron TypeScript Parcel second BrowserWindow

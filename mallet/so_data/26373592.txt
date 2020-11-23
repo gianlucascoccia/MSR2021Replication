@@ -1,0 +1,1 @@
+node-webkit Right Click a Link and Open in Default Browser

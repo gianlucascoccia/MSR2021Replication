@@ -1,0 +1,1 @@
+nwjs-nodejs- encrypt and decrypt img file (jpg) and use the decrypted data to an img element

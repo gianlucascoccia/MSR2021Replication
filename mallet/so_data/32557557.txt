@@ -1,0 +1,1 @@
+Swap page content in javascript. Why isn't there a solution for this?

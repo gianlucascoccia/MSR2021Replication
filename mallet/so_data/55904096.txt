@@ -1,0 +1,1 @@
+enable screen share in electron without using nodeIntegration true

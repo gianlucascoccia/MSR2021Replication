@@ -1,0 +1,1 @@
+how to add a cover or window above fullscreen app in macos with BrowserWindow in electron？

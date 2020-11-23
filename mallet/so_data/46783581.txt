@@ -1,0 +1,1 @@
+Why can't I set the property of Jquery and get a undefined answer in Electron

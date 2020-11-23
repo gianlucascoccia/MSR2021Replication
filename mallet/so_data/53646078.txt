@@ -1,0 +1,1 @@
+Not able to add taskbar icon to node webkit application

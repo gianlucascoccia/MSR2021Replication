@@ -1,0 +1,1 @@
+Can not install older version of Electron through package.json

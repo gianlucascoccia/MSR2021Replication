@@ -1,0 +1,1 @@
+Why does Electron throw errors in render process with npm modules?

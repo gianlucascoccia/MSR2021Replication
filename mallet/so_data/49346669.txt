@@ -1,0 +1,1 @@
+NW.js have a "loading" icon while processing request

@@ -1,0 +1,1 @@
+exporting module in node.js and nw.js but unable to call to constructor

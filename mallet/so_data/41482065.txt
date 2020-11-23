@@ -1,0 +1,1 @@
+Electron: my custom config.json is not being loaded

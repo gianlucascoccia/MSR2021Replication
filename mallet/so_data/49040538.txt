@@ -1,0 +1,1 @@
+Getting errors trying to create a new file using different methods with node fs in an Electron app

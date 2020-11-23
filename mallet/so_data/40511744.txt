@@ -1,0 +1,1 @@
+Where is Electron's app.getAppPath() pointing to?

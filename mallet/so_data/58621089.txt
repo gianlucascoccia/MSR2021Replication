@@ -1,0 +1,1 @@
+Sign windows electron build on macOS (Catalina)

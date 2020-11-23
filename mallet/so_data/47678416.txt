@@ -1,0 +1,1 @@
+Mihtril.redraw method not working in Electron event handler

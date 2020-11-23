@@ -1,0 +1,1 @@
+Memory leak when sending ArrayBuffers with large amounts of binary data over WebRTC in electron

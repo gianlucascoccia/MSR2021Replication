@@ -1,0 +1,1 @@
+Prevent white flash between page loads electron

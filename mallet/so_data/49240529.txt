@@ -1,0 +1,1 @@
+.NET Core 2 web application and Electron js desktop application - common authentication system

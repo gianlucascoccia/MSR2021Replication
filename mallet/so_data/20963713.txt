@@ -1,0 +1,1 @@
+gaze breaking chrome browser in node-webkit app

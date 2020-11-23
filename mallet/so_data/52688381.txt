@@ -1,0 +1,1 @@
+Is it possible to build a electron desktop app without node server?

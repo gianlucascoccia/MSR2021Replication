@@ -1,0 +1,1 @@
+Error on downloading file with node-webkit ( "chrome-extension" in the URL)

@@ -1,0 +1,1 @@
+LiteCoreDomain Error while opening a database Couchbase-lite

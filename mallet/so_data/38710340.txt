@@ -1,0 +1,1 @@
+How open link with hash (#) in new window with electron?

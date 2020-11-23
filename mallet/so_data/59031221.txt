@@ -1,0 +1,1 @@
+Running two electron windows with single JavaScript context

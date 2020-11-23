@@ -1,0 +1,1 @@
+Why does this shell script fail if I split it in two lines?

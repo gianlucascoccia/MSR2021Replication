@@ -1,0 +1,1 @@
+Electron 6 - context menus now use the OS's theme (dark or light) by default. How to override this behavior?

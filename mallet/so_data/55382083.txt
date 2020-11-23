@@ -1,0 +1,1 @@
+Error when doing anything else than SELECT with node-firebird in Electron app

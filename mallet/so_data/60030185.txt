@@ -1,0 +1,1 @@
+Create menubar outside principal process in electron

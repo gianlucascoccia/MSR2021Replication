@@ -1,0 +1,1 @@
+Electron window handler didn't work with Unity on win10

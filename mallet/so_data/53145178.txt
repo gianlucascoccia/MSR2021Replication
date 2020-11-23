@@ -1,0 +1,1 @@
+NW.js fullscreen mode is actually borderless windowed, not true fullscreen

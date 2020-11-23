@@ -1,0 +1,1 @@
+List of files instead of a rendered page when using electron-vue (vue.js with electron)

@@ -1,0 +1,1 @@
+Not able to resolve path in electron between pre and post packaging

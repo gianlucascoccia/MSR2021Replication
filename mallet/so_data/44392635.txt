@@ -1,0 +1,1 @@
+Node-Webkit Application: Loading thousands of images from disk

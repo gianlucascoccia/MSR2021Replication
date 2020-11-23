@@ -1,0 +1,1 @@
+How can I access multiple instances of mainWindow in an Electron App?

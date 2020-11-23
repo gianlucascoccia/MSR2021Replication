@@ -1,0 +1,1 @@
+What is the best way to communicate from Angular2 to Electron and back?

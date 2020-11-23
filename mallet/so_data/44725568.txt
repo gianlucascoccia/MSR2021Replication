@@ -1,0 +1,1 @@
+Allowing X number of instaces of a Electron application

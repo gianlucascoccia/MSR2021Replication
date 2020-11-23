@@ -1,0 +1,1 @@
+Issues with building an electron app with serialport

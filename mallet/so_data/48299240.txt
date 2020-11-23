@@ -1,0 +1,1 @@
+Json file reading function mysteriously returns null, in electron

@@ -1,0 +1,1 @@
+Alternatives to create multiple windows if you need to share data among them

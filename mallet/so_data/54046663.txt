@@ -1,0 +1,1 @@
+Change the language locale for chrome.app?

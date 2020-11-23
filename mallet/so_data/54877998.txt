@@ -1,0 +1,1 @@
+Node.js: It is possible to convert a BLOB into file and open it with default application using shell?

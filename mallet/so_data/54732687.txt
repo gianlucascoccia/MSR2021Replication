@@ -1,0 +1,1 @@
+Is it possible to debug a node c++ addon within electron application with a common debugger (gdb, lldb, etc.)?

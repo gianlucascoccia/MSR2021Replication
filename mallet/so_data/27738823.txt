@@ -1,0 +1,1 @@
+loadHtml instead of loadUrl in atom-shell? (trying to use jade)

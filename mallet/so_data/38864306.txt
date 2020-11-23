@@ -1,0 +1,1 @@
+Is there a way for a desktop application to connect to a remote sever with socket.io

@@ -1,0 +1,1 @@
+Ionic and Electron Application does not start. Error Launching App, Cannot find module at {Project Directory}

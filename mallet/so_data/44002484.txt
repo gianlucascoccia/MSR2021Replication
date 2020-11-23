@@ -1,0 +1,1 @@
+Electron pass BrowserWindow to external main function (not IPC)

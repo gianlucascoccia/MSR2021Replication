@@ -1,0 +1,1 @@
+How to get access token from node-webkit for a desktop app without hosting page?

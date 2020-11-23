@@ -1,0 +1,1 @@
+Error: cannot find module electron while testing by mocha and spectron in electron-compile app

@@ -1,0 +1,1 @@
+restrict electron app to resize when width is below minimum limit

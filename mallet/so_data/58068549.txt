@@ -1,0 +1,1 @@
+Combine server database and embedded database electron / react application

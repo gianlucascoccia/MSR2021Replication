@@ -1,0 +1,1 @@
+window.open() opens a new electron browser window instead of native browser window

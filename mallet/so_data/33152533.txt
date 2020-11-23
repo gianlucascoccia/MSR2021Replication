@@ -1,0 +1,1 @@
+bundling precompiled binary into electron app

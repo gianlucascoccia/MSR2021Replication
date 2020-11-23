@@ -1,0 +1,1 @@
+Error While showing the progress of electron auto updater

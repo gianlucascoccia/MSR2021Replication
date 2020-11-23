@@ -1,0 +1,1 @@
+Desktop app screen turns white with electron+angular2?

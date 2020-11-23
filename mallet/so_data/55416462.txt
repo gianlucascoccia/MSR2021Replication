@@ -1,0 +1,1 @@
+Javascript get faster Pointer Events

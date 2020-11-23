@@ -1,0 +1,1 @@
+Electron - How to enforce minimum window size even when the Dev Tools is open

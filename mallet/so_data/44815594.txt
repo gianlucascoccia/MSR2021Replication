@@ -1,0 +1,1 @@
+Save current time value to calculate total elapsed time

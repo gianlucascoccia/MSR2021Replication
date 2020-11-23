@@ -1,0 +1,1 @@
+electron setSize with animation not working

@@ -1,0 +1,1 @@
+How to fix "Cannot Find Module node_sqlite3.node" while it works in production but throws this error on publish

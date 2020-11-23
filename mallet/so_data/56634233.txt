@@ -1,0 +1,1 @@
+Node v11 throws with spread operator

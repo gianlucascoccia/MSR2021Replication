@@ -1,0 +1,1 @@
+pdf.js memory leak when generating thumbnails

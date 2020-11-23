@@ -1,0 +1,1 @@
+Using Electron, React component not refreshed when state changes in production mode, but works in dev mode

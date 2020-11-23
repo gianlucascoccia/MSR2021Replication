@@ -1,0 +1,1 @@
+Communication in Electron and React components

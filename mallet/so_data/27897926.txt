@@ -1,0 +1,1 @@
+Socket.io+SailsJS: Chat application-How to check whether the client is shut down,and make the user offline?

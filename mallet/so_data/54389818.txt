@@ -1,0 +1,1 @@
+Using node's fs results in empty object

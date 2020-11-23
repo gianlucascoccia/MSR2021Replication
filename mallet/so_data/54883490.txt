@@ -1,0 +1,1 @@
+router.push electron-vue doesn't work if mainwindow is hidden

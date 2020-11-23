@@ -1,0 +1,1 @@
+Hide window of electron app on workspace change (on macOS)

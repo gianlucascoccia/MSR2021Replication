@@ -1,0 +1,1 @@
+path.join and electron.openExternal in win

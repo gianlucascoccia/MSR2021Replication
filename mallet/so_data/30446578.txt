@@ -1,0 +1,1 @@
+Which app has the focus when a global shortcut is triggered

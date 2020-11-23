@@ -1,0 +1,1 @@
+How to integrate Electron ipcRenderer into Angular 2 app based on TypeScript?

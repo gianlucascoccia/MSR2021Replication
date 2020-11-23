@@ -1,0 +1,1 @@
+Open external anchor links from node-webkit

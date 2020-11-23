@@ -1,0 +1,1 @@
+Set src of an image with object url doesn't work in electron

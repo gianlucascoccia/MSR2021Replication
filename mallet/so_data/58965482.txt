@@ -1,0 +1,1 @@
+Electron-vue not cleaning the package.json when using electron-packager

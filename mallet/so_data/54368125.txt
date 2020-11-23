@@ -1,0 +1,1 @@
+access application name inside custom script

@@ -1,0 +1,1 @@
+Why I cannot using cookies variable value outside the cookie.get function?

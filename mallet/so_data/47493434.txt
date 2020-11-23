@@ -1,0 +1,1 @@
+Hot to get opened window count in an Electron app?

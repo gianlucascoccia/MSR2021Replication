@@ -1,0 +1,1 @@
+Typescript Electron types conflict with Dom types

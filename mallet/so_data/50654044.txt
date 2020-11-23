@@ -1,0 +1,1 @@
+Global variable remains unchanged after file read Javascript

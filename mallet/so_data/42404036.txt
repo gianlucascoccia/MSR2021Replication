@@ -1,0 +1,1 @@
+Making a videoJS instance scale when window size changes

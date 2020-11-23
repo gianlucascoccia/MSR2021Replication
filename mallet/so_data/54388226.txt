@@ -1,0 +1,1 @@
+Angular, electron, typescript and robotjs

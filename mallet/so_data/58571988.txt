@@ -1,0 +1,1 @@
+How to run executable file from packaged Electron app

@@ -1,0 +1,1 @@
+pass data to included ejs template

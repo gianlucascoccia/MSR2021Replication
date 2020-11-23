@@ -1,0 +1,1 @@
+Unable to assign a value in a javascript function while fetching from sqlite

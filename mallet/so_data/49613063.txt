@@ -1,0 +1,1 @@
+Why does electron refresh my JavaScript code?

@@ -1,0 +1,1 @@
+Trust custom CA in electron-builder's autoUpdater, without importing to system

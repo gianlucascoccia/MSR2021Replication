@@ -1,0 +1,1 @@
+NW.js - Hiding window should bring last Application to focus

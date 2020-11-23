@@ -1,0 +1,1 @@
+Chrome Native Messaging with electron app

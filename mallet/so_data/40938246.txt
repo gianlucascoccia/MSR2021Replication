@@ -1,0 +1,1 @@
+Facebook photo uplaod is not working with electron + nodeJS

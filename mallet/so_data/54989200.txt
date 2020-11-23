@@ -1,0 +1,1 @@
+Client Certificate support HttpInterceptor Angular 7 and Electron

@@ -1,0 +1,1 @@
+how to open electron application in browser as a local website

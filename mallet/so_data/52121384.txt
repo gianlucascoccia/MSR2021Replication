@@ -1,0 +1,1 @@
+Sharing Cookies and Sessions between Renderer and Main Process in Electron

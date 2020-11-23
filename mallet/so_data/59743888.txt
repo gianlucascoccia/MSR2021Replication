@@ -1,0 +1,1 @@
+Electron full screen - part of screen "missing" when on-screen keyboard is hidden on MS Surface

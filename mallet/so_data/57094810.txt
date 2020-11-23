@@ -1,0 +1,1 @@
+Move/Resize Child Browser View based on Parent

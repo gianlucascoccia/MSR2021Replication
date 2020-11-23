@@ -1,0 +1,1 @@
+Take a screenshot using Javascript without libraries

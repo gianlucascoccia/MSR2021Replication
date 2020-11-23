@@ -1,0 +1,1 @@
+Change BrowserWindow position dynamically in electron app

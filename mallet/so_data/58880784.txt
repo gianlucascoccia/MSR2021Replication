@@ -1,0 +1,1 @@
+How do I seperate an array of IPC values

@@ -1,0 +1,1 @@
+Can we wrap/ modify Cordova FS APIs with Node APIs by Electron to make them work under Desktop environment?

@@ -1,0 +1,1 @@
+Distributing Homebrew dependencies along with electron-packager

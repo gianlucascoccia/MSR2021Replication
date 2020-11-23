@@ -1,0 +1,1 @@
+Can I disable Win10 S mode support to pass the Windows Store review?

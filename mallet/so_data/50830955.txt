@@ -1,0 +1,1 @@
+Using Nuxt.js project both with or without electron

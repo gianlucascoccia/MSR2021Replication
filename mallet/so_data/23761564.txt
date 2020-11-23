@@ -1,0 +1,1 @@
+NI-DAQmx C libs over nodejs

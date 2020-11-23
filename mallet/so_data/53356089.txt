@@ -1,0 +1,1 @@
+Electron - How to share a single promise resolution from Main to multiple Renderers?

@@ -1,0 +1,1 @@
+Error with watchify when trying to execute npm run watch

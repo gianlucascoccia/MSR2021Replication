@@ -1,0 +1,1 @@
+Angular can't see my Array change in the view

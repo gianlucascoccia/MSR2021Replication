@@ -1,0 +1,1 @@
+%1 is not a valid Win32 application.. Sqlite3 in Electron app

@@ -1,0 +1,1 @@
+Can I update Electron version in a project based on an Electron boilerplate?

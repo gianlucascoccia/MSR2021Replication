@@ -1,0 +1,1 @@
+Promise.race is not a function in my Bluebird installation

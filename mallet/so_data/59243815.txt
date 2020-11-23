@@ -1,0 +1,1 @@
+Access methods of ionic app in Electron renderer window

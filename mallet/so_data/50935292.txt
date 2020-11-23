@@ -1,0 +1,1 @@
+Argv[1] returns unexpected value when I open a file on double click in Electron app

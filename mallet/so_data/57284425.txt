@@ -1,0 +1,1 @@
+How React's 'universal-cookies' works in Electron app?

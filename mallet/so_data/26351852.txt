@@ -1,0 +1,1 @@
+Compiling .cpp file as Objective-C++ via binding.gyp when building Node.js/Node-webkit addons

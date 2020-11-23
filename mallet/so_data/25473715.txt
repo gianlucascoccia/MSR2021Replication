@@ -1,0 +1,1 @@
+How can i timeout an error in Node with shelljs?

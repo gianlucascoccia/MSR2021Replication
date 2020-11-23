@@ -1,0 +1,1 @@
+renderer and main process communication in electron - the right way

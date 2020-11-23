@@ -1,0 +1,1 @@
+Electron: Why occurs 'Uncaught ReferenceError: require is no defined.'?

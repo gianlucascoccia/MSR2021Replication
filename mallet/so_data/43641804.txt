@@ -1,0 +1,1 @@
+Updating Redux with Sqlite3 in an Electron application

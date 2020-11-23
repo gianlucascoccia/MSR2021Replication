@@ -1,0 +1,1 @@
+Node.js - Opening a file in same directory as app without providing entire path?

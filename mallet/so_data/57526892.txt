@@ -1,0 +1,1 @@
+Issue with setup and run Electron + React + Typescript + Webpack application

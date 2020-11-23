@@ -1,0 +1,1 @@
+How can I use fs node module inside an AngularJS application with Electron?

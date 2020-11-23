@@ -1,0 +1,1 @@
+Gridx/Dojo & jQuery : Is there a callback when sorting is completed?

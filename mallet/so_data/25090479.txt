@@ -1,0 +1,1 @@
+Uncaught node.js Error, undefined symbol: _ZN2v811HandleScopeC1Ev

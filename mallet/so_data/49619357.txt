@@ -1,0 +1,1 @@
+electron-forge wont compile component templates from separate HTML files

@@ -1,0 +1,1 @@
+Reloading an Electron application webpage raises a 404 error after having performed a navigation

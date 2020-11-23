@@ -1,0 +1,1 @@
+Angular handle events in own Controller

@@ -1,0 +1,1 @@
+Node webkit package not opening properly from double click in OSX Finder

@@ -1,0 +1,1 @@
+How to load multiple pages in electron like shift

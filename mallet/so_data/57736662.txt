@@ -1,0 +1,1 @@
+How to get desktop streaming while UAC dialog open with electron?

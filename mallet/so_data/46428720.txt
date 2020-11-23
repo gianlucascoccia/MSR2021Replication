@@ -1,0 +1,1 @@
+Does docker have a windows container to build windows applications on?

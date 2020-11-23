@@ -1,0 +1,1 @@
+Get window title and Application/Process name of all the visible application window processes in mac

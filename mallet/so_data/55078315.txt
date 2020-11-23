@@ -1,0 +1,1 @@
+What is the difference between require('electron') and require('electron').remote to get BrowserWindow?

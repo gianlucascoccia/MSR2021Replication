@@ -1,0 +1,1 @@
+Automation framework for Electron mobile app

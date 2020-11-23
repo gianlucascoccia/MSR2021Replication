@@ -1,0 +1,1 @@
+Electron APP shows undefined document.body

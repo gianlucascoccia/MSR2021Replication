@@ -1,0 +1,1 @@
+Is it possible to render image created by Boost GIL in an Electron app?

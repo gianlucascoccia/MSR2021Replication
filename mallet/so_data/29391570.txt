@@ -1,0 +1,1 @@
+Can node webkit build in a single windows .exe file

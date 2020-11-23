@@ -1,0 +1,1 @@
+Save canvas to disk in Node-webkit

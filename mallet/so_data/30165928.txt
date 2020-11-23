@@ -1,0 +1,1 @@
+Node-Webkit do not load net image

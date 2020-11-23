@@ -1,0 +1,1 @@
+Angular 2 view not updating after receiving ipcRenderer.on from Electron

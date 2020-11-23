@@ -1,0 +1,1 @@
+Electron builder code signing: bundle format unrecognized, invalid, or unsuitable

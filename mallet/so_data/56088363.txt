@@ -1,0 +1,1 @@
+How to fix 'window.minimize() is not a function'?

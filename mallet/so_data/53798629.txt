@@ -1,0 +1,1 @@
+Opening a floating window in electron that is visible on all workspaces with window.open

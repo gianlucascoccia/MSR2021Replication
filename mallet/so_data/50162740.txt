@@ -1,0 +1,1 @@
+Trying to connect to a MySQL database using Node.js and the mysql javascript client

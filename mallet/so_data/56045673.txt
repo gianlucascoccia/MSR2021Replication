@@ -1,0 +1,1 @@
+Can I use two ioHook event in my electron app?

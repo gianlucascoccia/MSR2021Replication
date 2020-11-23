@@ -1,0 +1,1 @@
+Any workarounds for app.client.setValue in Spectron?

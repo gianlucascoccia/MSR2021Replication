@@ -1,0 +1,1 @@
+Promise in angular.js + node.js/electron doesn't work

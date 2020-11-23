@@ -1,0 +1,1 @@
+dialog.showMessageBox not returning button index in electron main.js

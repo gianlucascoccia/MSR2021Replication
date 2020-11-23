@@ -1,0 +1,1 @@
+Is there a way to launch an electron forge app without necessarily compiling the source files beforehand?

@@ -1,0 +1,1 @@
+Unable to spawn "ffmpeg" after building an electron app on Mac OSX

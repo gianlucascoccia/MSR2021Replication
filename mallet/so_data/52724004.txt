@@ -1,0 +1,1 @@
+Configure electron-builder to run powershell script

@@ -1,0 +1,1 @@
+Node-Webkit start function in different window

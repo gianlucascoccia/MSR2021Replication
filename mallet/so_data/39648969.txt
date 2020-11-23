@@ -1,0 +1,1 @@
+Node.js Electron Applications for Single Core Windows 7 machines are slow on file I/O

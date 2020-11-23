@@ -1,0 +1,1 @@
+Unable to sign electron app for Windows on Mac using electron-builder

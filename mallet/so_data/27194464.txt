@@ -1,0 +1,1 @@
+How ensure default data in NeDB?

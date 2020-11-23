@@ -1,0 +1,1 @@
+Electron: Scrollbar appears but it's disabled

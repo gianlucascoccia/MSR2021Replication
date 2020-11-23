@@ -1,0 +1,1 @@
+Methods no longer exist when sending to/from ipcRenderer

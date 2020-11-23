@@ -1,0 +1,1 @@
+download-item.cancel() emit 'done' twice?

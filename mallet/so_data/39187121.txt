@@ -1,0 +1,1 @@
+Has anyone ever successfully used electron-packager to convert an electron app into a working .exe on Windows?

@@ -1,0 +1,1 @@
+i have issues while doing bundle using vue js with electron

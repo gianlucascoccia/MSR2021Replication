@@ -1,0 +1,1 @@
+UAC management for an app build with electron-packager

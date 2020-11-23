@@ -1,0 +1,1 @@
+problem with "npm run dist" when using electron-builder

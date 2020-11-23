@@ -1,0 +1,1 @@
+SetUnhandledExceptionFilter in electron node native module disables crash reporter

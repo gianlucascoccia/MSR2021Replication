@@ -1,0 +1,1 @@
+sqlite3 Electron Rebuilding Error: To enable parallel build, please add the "/m" switch

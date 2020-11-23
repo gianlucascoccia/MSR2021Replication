@@ -1,0 +1,1 @@
+Redux works in dev, seems to break in production

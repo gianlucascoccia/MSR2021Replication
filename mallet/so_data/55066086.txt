@@ -1,0 +1,1 @@
+Where to store sensitive data for ElectronJS app?

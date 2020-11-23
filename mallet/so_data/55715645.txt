@@ -1,0 +1,1 @@
+Creating a window and hiding it when close button is clicked

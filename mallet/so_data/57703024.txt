@@ -1,0 +1,1 @@
+Double click the element with style "-webkit-app-region: drag;" to maximize the window leads to an error that "maximize" button does not change

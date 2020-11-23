@@ -1,0 +1,1 @@
+Binding to changes on global variable in electron

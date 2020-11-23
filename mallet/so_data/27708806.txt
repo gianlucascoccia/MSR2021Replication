@@ -1,0 +1,1 @@
+How do you create an event in nodejs-webkit for when the user focuses another application?

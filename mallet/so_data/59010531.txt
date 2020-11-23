@@ -1,0 +1,1 @@
+Electron ignores @css prefers-color-scheme

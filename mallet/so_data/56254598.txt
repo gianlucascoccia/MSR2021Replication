@@ -1,0 +1,1 @@
+Why does the Electron browser reload after running each spec when using cypress run?

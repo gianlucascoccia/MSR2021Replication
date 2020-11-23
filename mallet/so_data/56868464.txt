@@ -1,0 +1,1 @@
+Mocha multiple reporter junit and html

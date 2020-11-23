@@ -1,0 +1,1 @@
+Node Webkit window hide toolbar dynamically in js

@@ -1,0 +1,1 @@
+how to store javascript object as custom class

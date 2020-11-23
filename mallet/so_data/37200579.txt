@@ -1,0 +1,1 @@
+How do I exit and external CMD file from a Node-Webkit Application?

@@ -1,0 +1,1 @@
+Install npm sqlite3 on Windows for Electron App

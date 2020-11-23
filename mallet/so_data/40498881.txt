@@ -1,0 +1,1 @@
+how to drag data (in uri format) from browser to other apps

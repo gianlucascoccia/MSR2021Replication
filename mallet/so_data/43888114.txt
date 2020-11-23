@@ -1,0 +1,1 @@
+How to set X properties in order to create a desktop status bar with electron?

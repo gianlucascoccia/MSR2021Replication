@@ -1,0 +1,1 @@
+How to use postMessage with the result of a promise in JS

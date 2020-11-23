@@ -1,0 +1,1 @@
+Node-Webkit won't open file

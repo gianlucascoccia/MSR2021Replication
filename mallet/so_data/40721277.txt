@@ -1,0 +1,1 @@
+mobx - Leading decorators must be attached to a class declaration

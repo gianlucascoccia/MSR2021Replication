@@ -1,0 +1,1 @@
+electron-forge how to specify a source directory for packaging?

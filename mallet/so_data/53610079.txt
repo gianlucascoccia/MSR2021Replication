@@ -1,0 +1,1 @@
+Electron: Cannot read property 'send' of undefined

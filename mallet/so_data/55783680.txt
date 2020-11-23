@@ -1,0 +1,1 @@
+Some data from VUEX can't show up on the page

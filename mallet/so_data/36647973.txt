@@ -1,0 +1,1 @@
+Can't open DevTools on NW 0.13 in Linux

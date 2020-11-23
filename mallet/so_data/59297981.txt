@@ -1,0 +1,1 @@
+How install Babel on the side of Electron, only to test?

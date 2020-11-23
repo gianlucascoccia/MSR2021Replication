@@ -1,0 +1,1 @@
+How can I register multiple global shortcuts in Electron?

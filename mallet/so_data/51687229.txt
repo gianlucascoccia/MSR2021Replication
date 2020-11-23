@@ -1,0 +1,1 @@
+Cant rebuild My electron App After Installing sqlite3 module

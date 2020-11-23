@@ -1,0 +1,1 @@
+Error EACCES (Node-Webkit / asw2js / Amazon S3)

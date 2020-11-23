@@ -1,0 +1,1 @@
+App can't create folder after using electron-builder

@@ -1,0 +1,1 @@
+Include a folder and the files inside it to electron build using electron-builder?

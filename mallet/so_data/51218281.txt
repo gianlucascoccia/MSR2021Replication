@@ -1,0 +1,1 @@
+modified Cypress lib/gui.js. Require modules not found on npm run binary-build

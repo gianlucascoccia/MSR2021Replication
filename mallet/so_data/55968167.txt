@@ -1,0 +1,1 @@
+How to overlay calculator on the kiosk-mode/full-screen app on mac?

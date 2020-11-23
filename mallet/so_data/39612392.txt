@@ -1,0 +1,1 @@
+Trouble getting globalShortcut to register commands to index.js using send function in node/electron javascript app

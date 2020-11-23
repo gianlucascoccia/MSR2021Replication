@@ -1,0 +1,1 @@
+npm install fails in electron app with node: command not found

@@ -1,0 +1,1 @@
+EPERM error in nodejs when calling execSync

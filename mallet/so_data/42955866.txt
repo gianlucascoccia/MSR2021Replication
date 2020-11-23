@@ -1,0 +1,1 @@
+Cannot use node-hid library in electron app

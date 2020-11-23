@@ -1,0 +1,1 @@
+Problem: re-rendering vue instance when data is changed by a call-back inside a method

@@ -1,0 +1,1 @@
+How to add menu items to Electron Menu from list of serial ports

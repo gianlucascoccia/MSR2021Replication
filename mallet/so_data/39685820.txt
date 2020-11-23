@@ -1,0 +1,1 @@
+Loading async image in Angular2+Electron app after selecting directory from dialog

@@ -1,0 +1,1 @@
+Is Chromium Local Storage an alternative to node-keytar in electron?

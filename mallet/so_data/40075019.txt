@@ -1,0 +1,1 @@
+"Uncaught Error: Received packet in the wrong sequence" with devtools off - Electron + MySQL node driver + Webpack

@@ -1,0 +1,1 @@
+How do I inspect an Electron app's DOM from a script?

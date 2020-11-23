@@ -1,0 +1,1 @@
+Electron and edge.js using .NET core DLL gives errors

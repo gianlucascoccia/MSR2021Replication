@@ -1,0 +1,1 @@
+OAuth2 in electron application in current window

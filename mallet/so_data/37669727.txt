@@ -1,0 +1,1 @@
+Distinction between the renderer and main processes in Electron

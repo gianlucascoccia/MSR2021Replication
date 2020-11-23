@@ -1,0 +1,1 @@
+Start scraping as soon as DOM is ready Nightmarejs

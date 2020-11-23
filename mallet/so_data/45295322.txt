@@ -1,0 +1,1 @@
+Error packaging electron react boilerplate app

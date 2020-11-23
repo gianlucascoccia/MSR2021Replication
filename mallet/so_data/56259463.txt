@@ -1,0 +1,1 @@
+"Unnotarized Developer ID" error occurred while building for mac with Electron Builder

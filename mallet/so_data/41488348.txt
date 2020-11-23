@@ -1,0 +1,1 @@
+Open new Window in NW.js without menubar

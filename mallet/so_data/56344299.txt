@@ -1,0 +1,1 @@
+Starting Electron with JS file as argument

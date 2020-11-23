@@ -1,0 +1,1 @@
+Break lines after loading text from file and placing it in div nwjs

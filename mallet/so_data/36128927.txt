@@ -1,0 +1,1 @@
+Cannot receive message sent from main process to renderer process in Electron

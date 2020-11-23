@@ -1,0 +1,1 @@
+Angular2 passing a JSON object to the constructor of a component

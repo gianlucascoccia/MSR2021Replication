@@ -1,0 +1,1 @@
+Change main window title to that of iframe title

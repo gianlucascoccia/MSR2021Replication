@@ -1,0 +1,1 @@
+this.app.client.electron.remote.app.getApplicationMenu() returns undefined

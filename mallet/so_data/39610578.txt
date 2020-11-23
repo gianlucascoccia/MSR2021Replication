@@ -1,0 +1,1 @@
+Create App installer for windows - Electron (electron-packager, electron-builder)

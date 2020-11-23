@@ -1,0 +1,1 @@
+How can I debug high cpu usage in electron?

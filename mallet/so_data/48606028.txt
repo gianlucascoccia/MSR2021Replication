@@ -1,0 +1,1 @@
+How to intercept electron's request and return a customized response?

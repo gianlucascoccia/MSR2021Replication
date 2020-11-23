@@ -1,0 +1,1 @@
+Simulating global keyboard shortcuts to test an Electron app in travis-ci and appveyor

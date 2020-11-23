@@ -1,0 +1,1 @@
+How to create a server that is only internal to the app in node / npm or modify any response body from outgoing requests

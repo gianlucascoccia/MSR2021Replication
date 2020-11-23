@@ -1,0 +1,1 @@
+Build sqlite3 on windows 10 for electron app

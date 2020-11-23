@@ -1,0 +1,1 @@
+Load image from a Buffer/Blob

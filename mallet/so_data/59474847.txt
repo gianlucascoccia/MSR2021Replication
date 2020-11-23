@@ -1,0 +1,1 @@
+How I can access static files outside the project root?

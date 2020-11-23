@@ -1,0 +1,1 @@
+How do I get system wide proxy settings and apply the same for my electron app?

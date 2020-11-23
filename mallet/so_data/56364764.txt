@@ -1,0 +1,1 @@
+Can I specify a config file that an executable compiled with electron-builder can access after packaging?

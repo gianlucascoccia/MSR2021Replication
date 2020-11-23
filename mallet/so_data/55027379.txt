@@ -1,0 +1,1 @@
+Module compiled against a different Node.js version - SQLite3 error

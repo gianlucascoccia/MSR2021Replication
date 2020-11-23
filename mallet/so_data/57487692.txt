@@ -1,0 +1,1 @@
+In Featherjs NeDB cant query document to check if array contains element

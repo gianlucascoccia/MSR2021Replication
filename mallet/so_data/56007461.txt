@@ -1,0 +1,1 @@
+flatrepo (monorepo hybrid) webpack cannot find module: 'Invariant' installing invariant has no affect

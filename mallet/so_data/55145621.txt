@@ -1,0 +1,1 @@
+OpenQA.Selenium.WebDriverException: 'unknown error: arguments[0].click is not a function while trying to click svg element using ChromeDriver Selenium

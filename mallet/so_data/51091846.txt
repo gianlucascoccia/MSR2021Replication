@@ -1,0 +1,1 @@
+Electron windows installer is not creating the shortcut on desktop

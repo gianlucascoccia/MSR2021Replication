@@ -1,0 +1,1 @@
+React + Redux + Electron desktop application, how to save data on local files

@@ -1,0 +1,1 @@
+Getting a progress for an FTP-upload with node

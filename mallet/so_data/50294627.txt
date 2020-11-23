@@ -1,0 +1,1 @@
+How do you link the STDOUT of node.js and STDIN of python in NW.js

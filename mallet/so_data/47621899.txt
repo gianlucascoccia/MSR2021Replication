@@ -1,0 +1,1 @@
+File written to createWriteStream gets corrupted when listening to 'data' event on createReadStream in NodeJS

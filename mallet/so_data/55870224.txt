@@ -1,0 +1,1 @@
+I tried is to include electron-usb library into my electron-project

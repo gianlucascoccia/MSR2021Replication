@@ -1,0 +1,1 @@
+Electron desktopCapturer to Web API frequency all 0s

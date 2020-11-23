@@ -1,0 +1,1 @@
+Electron-fetch returns json as [object object] but network console shows a proper json object being returned

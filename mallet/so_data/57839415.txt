@@ -1,0 +1,1 @@
+Electron: dialog.showOpenDialog not returning a promise?

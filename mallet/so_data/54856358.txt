@@ -1,0 +1,1 @@
+How to return a response and then redirect in nedb?

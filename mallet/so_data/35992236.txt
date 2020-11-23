@@ -1,0 +1,1 @@
+How can I register a keyboard shortcut that can be used outside of focus using electron?

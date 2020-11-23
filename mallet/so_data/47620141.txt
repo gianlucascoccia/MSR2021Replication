@@ -1,0 +1,1 @@
+Get the file in a dir that is named with the highest number using javascript in NW.JS

@@ -1,0 +1,1 @@
+Electron notifications don't bring app up to front again on click on the notification

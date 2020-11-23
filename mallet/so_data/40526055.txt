@@ -1,0 +1,1 @@
+Electron's app.relaunch() loose stdio

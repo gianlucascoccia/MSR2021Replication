@@ -1,0 +1,1 @@
+Proper way to zoom dynamic created webview

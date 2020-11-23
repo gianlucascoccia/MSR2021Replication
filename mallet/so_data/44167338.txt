@@ -1,0 +1,1 @@
+getting webpack to ignore electron main process packages

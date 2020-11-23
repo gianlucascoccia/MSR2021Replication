@@ -1,0 +1,1 @@
+setInterval Stops After An Hour With Electron

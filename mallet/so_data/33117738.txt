@@ -1,0 +1,1 @@
+Integrate an option to explorer context menu with Electron

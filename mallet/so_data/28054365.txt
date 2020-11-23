@@ -1,0 +1,1 @@
+localStorage security error in node-webkit

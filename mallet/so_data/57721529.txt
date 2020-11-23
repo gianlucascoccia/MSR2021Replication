@@ -1,0 +1,1 @@
+Strange error in Electron. Uncaught Exception: TypeError [ERR_INVALID_ARG_TYPE]: The "path"

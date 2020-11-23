@@ -1,0 +1,1 @@
+check if app is force closed in electron js?

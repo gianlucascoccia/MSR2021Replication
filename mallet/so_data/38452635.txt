@@ -1,0 +1,1 @@
+Electron (Atom Shell) app icon

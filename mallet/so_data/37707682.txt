@@ -1,0 +1,1 @@
+How can I create save file without temporary file with AngularJS / Electron?

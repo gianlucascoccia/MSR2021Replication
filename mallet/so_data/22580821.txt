@@ -1,0 +1,1 @@
+Cannot find instructions to read .dmp file with Symbol file using Google Breakpad

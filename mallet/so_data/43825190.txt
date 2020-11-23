@@ -1,0 +1,1 @@
+In a locally run web app, is there any performance hit from loading fonts?

@@ -1,0 +1,1 @@
+How to customize the window title bar of an Electron app?

@@ -1,0 +1,1 @@
+Starting and stopping node app from inside Electron app

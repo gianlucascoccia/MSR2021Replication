@@ -1,0 +1,1 @@
+NWJS window arguments not working on LINUX

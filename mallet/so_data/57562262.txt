@@ -1,0 +1,1 @@
+Handlebars partial not found (running in Electron app)

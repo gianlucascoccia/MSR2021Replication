@@ -1,0 +1,1 @@
+Terminal inside Electron application like visual studio code editor

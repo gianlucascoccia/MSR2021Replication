@@ -1,0 +1,1 @@
+How can promise chains assert that which value is from which return value?

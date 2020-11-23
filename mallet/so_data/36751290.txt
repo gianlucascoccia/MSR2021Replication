@@ -1,0 +1,1 @@
+TypeScript + NW.js: need namespaces for browser, need commonjs for nodejs - How do I get both?

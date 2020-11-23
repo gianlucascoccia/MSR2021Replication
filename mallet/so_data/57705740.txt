@@ -1,0 +1,1 @@
+Function to copy selection in a 3rd party app into an Electron app

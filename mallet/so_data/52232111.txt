@@ -1,0 +1,1 @@
+In electron are fs operations done in ipcRenderer or ipcMain

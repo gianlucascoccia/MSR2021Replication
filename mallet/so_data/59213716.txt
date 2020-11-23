@@ -1,0 +1,1 @@
+Javascript invalid regular expresion error in NW.js

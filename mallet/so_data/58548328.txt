@@ -1,0 +1,1 @@
+Cannot update application build in electron (The command is disabled and cannot be executed)

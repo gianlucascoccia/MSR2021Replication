@@ -1,0 +1,1 @@
+Electron + renderer process + websocket issue (bounty for the solution!)

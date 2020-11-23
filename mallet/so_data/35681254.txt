@@ -1,0 +1,1 @@
+fs.existsSync is not a function node.js/electron app

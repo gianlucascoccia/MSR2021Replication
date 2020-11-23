@@ -1,0 +1,1 @@
+How to access chrome app installed directory programmatically?

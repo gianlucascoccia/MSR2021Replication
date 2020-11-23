@@ -1,0 +1,1 @@
+Can I move an Angular app from Electron to Browser?

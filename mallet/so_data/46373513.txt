@@ -1,0 +1,1 @@
+ClojureScript Electron app __dirname returns nil

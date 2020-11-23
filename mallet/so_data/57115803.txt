@@ -1,0 +1,1 @@
+error showing while creating a debian file from electronjs project

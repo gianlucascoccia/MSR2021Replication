@@ -1,0 +1,1 @@
+Electron : can not find module jQuery

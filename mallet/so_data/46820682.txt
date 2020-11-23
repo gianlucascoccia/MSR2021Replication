@@ -1,0 +1,1 @@
+How do I reload a page with react-router?

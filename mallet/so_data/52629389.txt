@@ -1,0 +1,1 @@
+Does BrowserWindow.fromId return windows that have been destroyed?

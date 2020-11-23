@@ -1,0 +1,1 @@
+Viewheight units in Electron inconsistent with Windows scaling on two different laptops with the same resolution

@@ -1,0 +1,1 @@
+Is it possible to check the file types of dragged files before they are dropped in Electron?

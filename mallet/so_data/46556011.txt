@@ -1,0 +1,1 @@
+"Uncaught TypeError: React.createClass is not a function" in Render.js file (electron app)

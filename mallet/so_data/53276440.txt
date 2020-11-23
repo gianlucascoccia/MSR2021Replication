@@ -1,0 +1,1 @@
+pouchdb-adapter-node-websql is not working

@@ -1,0 +1,1 @@
+Reading a file's details in nodejs, regardless of file type

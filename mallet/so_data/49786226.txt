@@ -1,0 +1,1 @@
+Stop/Remove daemon (service) when uninstalling App developed with ElectronJS in Mac OS

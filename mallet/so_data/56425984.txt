@@ -1,0 +1,1 @@
+electron : In simple hello world app, not able to view the default menu bar

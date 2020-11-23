@@ -1,0 +1,1 @@
+Node.js module lookup in Electron+Angular 2 & TypeScript application

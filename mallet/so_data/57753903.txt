@@ -1,0 +1,1 @@
+How to set duration for wav file recorded with MediaRecorder

@@ -1,0 +1,1 @@
+(electron+selenium) click operation doesn’t work sometimes

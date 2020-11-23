@@ -1,0 +1,1 @@
+Embedded database for electron, react-native and NodeJS apps?

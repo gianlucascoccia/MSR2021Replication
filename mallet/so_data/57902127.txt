@@ -1,0 +1,1 @@
+how to generate and print reports in electron and angular

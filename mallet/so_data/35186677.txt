@@ -1,0 +1,1 @@
+Multiple instances of Node Webkit (nwjs) shares cookies

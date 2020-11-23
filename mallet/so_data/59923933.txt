@@ -1,0 +1,1 @@
+how can I make electron open an exe file with a button

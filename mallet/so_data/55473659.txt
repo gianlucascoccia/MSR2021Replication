@@ -1,0 +1,1 @@
+Configure next.js to with Babel not to transform async functions

@@ -1,0 +1,1 @@
+Electron - React component is not rendered

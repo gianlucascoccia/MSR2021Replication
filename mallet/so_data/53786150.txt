@@ -1,0 +1,1 @@
+Date.toString(): How to prevent timezone name output in the PC locale in Chromium

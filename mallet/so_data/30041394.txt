@@ -1,0 +1,1 @@
+Abstracting the chrome packaged app filesystem for use with node-webkit

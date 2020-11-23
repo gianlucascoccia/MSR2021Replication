@@ -1,0 +1,1 @@
+Is it possible to block remote scripts from loading inside iframe?

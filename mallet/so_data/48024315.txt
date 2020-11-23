@@ -1,0 +1,1 @@
+How can I solve this error of Sqlite3 with Electron?

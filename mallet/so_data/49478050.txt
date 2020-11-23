@@ -1,0 +1,1 @@
+How to call showOpenDialog() from Angular?

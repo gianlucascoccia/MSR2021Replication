@@ -1,0 +1,1 @@
+Get path of nw archive in node webkit application

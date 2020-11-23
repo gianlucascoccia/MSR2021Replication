@@ -1,0 +1,1 @@
+Can I use Electrons built in IPC to communicate with .NET app?

@@ -1,0 +1,1 @@
+Get VSCode to recognize variable is being used in different javascript file

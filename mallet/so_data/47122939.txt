@@ -1,0 +1,1 @@
+Javascript Array.sort() not finishing before next action starts

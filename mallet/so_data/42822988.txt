@@ -1,0 +1,1 @@
+Saving image in HTML canvas locally from electron?

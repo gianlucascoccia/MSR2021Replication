@@ -1,0 +1,1 @@
+Uncaught TypeError: Cannot read property 'fn' of undefined, electron 2, angular 6?

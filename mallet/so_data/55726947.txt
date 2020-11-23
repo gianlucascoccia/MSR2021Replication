@@ -1,0 +1,1 @@
+Electron - Why is there a big delay when loading the main window through localhost compared to an HTML file?

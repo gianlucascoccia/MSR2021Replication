@@ -1,0 +1,1 @@
+Does Lokijs generates its own IDs?

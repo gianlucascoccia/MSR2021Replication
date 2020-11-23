@@ -1,0 +1,1 @@
+history and router doesn't work with electron

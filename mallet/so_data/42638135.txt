@@ -1,0 +1,1 @@
+Executable run from electron project isn't loading resources

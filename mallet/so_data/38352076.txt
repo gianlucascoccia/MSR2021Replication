@@ -1,0 +1,1 @@
+nwjs and karma-mocha not playing nice

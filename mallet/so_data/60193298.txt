@@ -1,0 +1,1 @@
+nodejs.How do subprocess destroyed along with the masterprocess？

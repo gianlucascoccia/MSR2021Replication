@@ -1,0 +1,1 @@
+Launch file with Electron app; get file's url (process variable)

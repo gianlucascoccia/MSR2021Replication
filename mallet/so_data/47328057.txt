@@ -1,0 +1,1 @@
+Serialport jitter (lag) under electron

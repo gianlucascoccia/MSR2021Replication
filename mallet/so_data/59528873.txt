@@ -1,0 +1,1 @@
+Reset screen capture and microphone permission for all apps through terminal in macOS

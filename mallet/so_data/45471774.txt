@@ -1,0 +1,1 @@
+how to load the navbar and the page content correctly?

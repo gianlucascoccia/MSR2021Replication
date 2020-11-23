@@ -1,0 +1,1 @@
+How is it legitimate to use require in Electron's client when no there is no explicit import of any require framework?

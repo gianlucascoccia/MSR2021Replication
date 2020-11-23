@@ -1,0 +1,1 @@
+How to fix: "Failed to load module script ..." Angular 8, Electron 5

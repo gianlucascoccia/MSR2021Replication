@@ -1,0 +1,1 @@
+Can't see console.log in routes.js using node webkit and express

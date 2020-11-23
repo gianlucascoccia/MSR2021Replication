@@ -1,0 +1,1 @@
+How can one call a function upon the clicking of the application close button (top right X) in Angular 6 or a Windows built in function?

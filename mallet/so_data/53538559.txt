@@ -1,0 +1,1 @@
+Sharing an ESM ".js" module within Node / Electron environment

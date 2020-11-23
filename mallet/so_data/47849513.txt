@@ -1,0 +1,1 @@
+How to perform an action only when a button is clicked in JavaScript

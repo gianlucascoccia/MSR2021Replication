@@ -1,0 +1,1 @@
+Angular JS Auto-update view from events

@@ -1,0 +1,1 @@
+How can I get Spection to run inside gitlab.ci without "A session id is required for this command but wasn't found in the response payload" error?

@@ -1,0 +1,1 @@
+Tooltip on tray icon not working on Windows with node-webkit

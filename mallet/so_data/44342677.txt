@@ -1,0 +1,1 @@
+Unable to render image uploaded within Electron app, built with electron-forge

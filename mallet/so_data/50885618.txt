@@ -1,0 +1,1 @@
+How to get a perfect sized tray icon using electron？

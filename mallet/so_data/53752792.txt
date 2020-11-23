@@ -1,0 +1,1 @@
+In Electron, can I access the console in a renderer process from the main process

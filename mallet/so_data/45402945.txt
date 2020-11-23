@@ -1,0 +1,1 @@
+Jquery: Open a new HTML windows when button is click

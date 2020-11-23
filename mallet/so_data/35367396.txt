@@ -1,0 +1,1 @@
+Python won't find installed module when run as child process within Electron app

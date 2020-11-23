@@ -1,0 +1,1 @@
+Electron application SQLITE package has not been found installed

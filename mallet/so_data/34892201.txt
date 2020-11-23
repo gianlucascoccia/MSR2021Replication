@@ -1,0 +1,1 @@
+Unable to build nw.js hello world application

@@ -1,0 +1,1 @@
+Cannot Read Global Electron Variable from Angular 8

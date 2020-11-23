@@ -1,0 +1,1 @@
+working with electron-edge-js for existing dll with app.config

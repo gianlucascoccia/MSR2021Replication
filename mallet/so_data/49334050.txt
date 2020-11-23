@@ -1,0 +1,1 @@
+Can we use electron functions within external web app?

@@ -1,0 +1,1 @@
+TypeError: fs.existsSync is not a function (Electron/ReactJS/Typescript)

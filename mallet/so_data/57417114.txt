@@ -1,0 +1,1 @@
+Is it possible to execute sudo commands from with an vue-cli Electron 5.x app on linux?

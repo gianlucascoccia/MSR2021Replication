@@ -1,0 +1,1 @@
+NWjs: Chat head click not working if -webkit-app-region: drag is set

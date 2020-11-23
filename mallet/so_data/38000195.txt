@@ -1,0 +1,1 @@
+Closing a BrowserWindow loaded in a Controller

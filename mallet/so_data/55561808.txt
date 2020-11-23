@@ -1,0 +1,1 @@
+Vue Electron, devtools throwing exception

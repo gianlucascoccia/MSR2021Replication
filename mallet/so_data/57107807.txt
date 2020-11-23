@@ -1,0 +1,1 @@
+Declare section where Electron must search text (Vue)

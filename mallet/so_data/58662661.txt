@@ -1,0 +1,1 @@
+Is there an option to enable GPU usage in electron.js

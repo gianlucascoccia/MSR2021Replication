@@ -1,0 +1,1 @@
+Cannot access nw globals in Chrome app

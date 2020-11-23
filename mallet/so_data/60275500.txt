@@ -1,0 +1,1 @@
+Electron Pakaging issue for Windows in Mac Os 10.11.6

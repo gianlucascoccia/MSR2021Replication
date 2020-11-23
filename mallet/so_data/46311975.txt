@@ -1,0 +1,1 @@
+getMediaStream interference from WebConferencing tools (Webex, GotoMeeting, etc.)

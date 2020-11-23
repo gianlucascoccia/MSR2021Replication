@@ -1,0 +1,1 @@
+javascript, electron, ipc doesn't give error or output

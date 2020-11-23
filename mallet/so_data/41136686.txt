@@ -1,0 +1,1 @@
+How to automate work-flow of Electron app with Angular 2

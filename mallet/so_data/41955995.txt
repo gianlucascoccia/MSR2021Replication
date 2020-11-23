@@ -1,0 +1,1 @@
+Express js render pug|ejs file throws Jquery error

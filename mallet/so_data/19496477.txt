@@ -1,0 +1,1 @@
+node-webkit: how to display ExtJS Window as simple nw window?

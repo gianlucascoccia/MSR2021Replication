@@ -1,0 +1,1 @@
+Electron shows blank screen when running in development yet works in production

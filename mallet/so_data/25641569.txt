@@ -1,0 +1,1 @@
+Is it possible to update node-weblit based application without new installation?

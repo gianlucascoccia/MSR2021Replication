@@ -1,0 +1,1 @@
+Electron app won't install if name is different than product name

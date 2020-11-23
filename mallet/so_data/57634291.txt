@@ -1,0 +1,1 @@
+How to save 'tile nicknames' so they don't return to default upon clicking away from/back to page?

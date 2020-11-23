@@ -1,0 +1,1 @@
+Error: Cant access the filesystem. You can use the getBase64 method [ElectronJS + VueJS]

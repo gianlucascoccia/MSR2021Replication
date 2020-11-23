@@ -1,0 +1,1 @@
+Don't see logs on the server side when using console.log

@@ -1,0 +1,1 @@
+Need to play WAV files in Electron using Vue.js or Javascript, No support for WAV from Chrome

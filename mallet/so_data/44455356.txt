@@ -1,0 +1,1 @@
+`document` is not defined Electron

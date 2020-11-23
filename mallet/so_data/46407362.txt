@@ -1,0 +1,1 @@
+Checksum mismatch after code sign Electron Builder / Updater

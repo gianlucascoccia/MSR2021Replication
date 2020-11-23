@@ -1,0 +1,1 @@
+Microsoft Face API - 400 Request Body is invalid

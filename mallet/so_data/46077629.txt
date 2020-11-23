@@ -1,0 +1,1 @@
+JS How to execute stdio operations and Ui operations from same js file?

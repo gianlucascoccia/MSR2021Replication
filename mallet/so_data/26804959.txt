@@ -1,0 +1,1 @@
+How do you conveniently (manually) test your node-webkit applications?

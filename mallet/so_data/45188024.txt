@@ -1,0 +1,1 @@
+How to create a simple strucutre for a React-Redux-ElectronJS application

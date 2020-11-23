@@ -1,0 +1,1 @@
+Node-Webkit App Crashes on Drag and Drop from Browser

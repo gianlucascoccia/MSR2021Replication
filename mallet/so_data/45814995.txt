@@ -1,0 +1,1 @@
+Open specific "html" extension with a specific application

@@ -1,0 +1,1 @@
+Node webkit loading page by window.location.href and require is not a function

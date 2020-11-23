@@ -1,0 +1,1 @@
+How to handle persistent data, functions and tasks in a Electron-powered React application even after routing across multiple components?

@@ -1,0 +1,1 @@
+Is it possible to build console application with nw.js?

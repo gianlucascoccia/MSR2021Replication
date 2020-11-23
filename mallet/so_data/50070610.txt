@@ -1,0 +1,1 @@
+App Object in Electron Module and getAppPath throws Error

@@ -1,0 +1,1 @@
+Chrome Developer tools throwing an error whenever some javascript error is logged on it from Electron

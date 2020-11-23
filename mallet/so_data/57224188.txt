@@ -1,0 +1,1 @@
+How do I get keyboard shortcut/accelerator working in Electron's dialog.showMessageBox on Mac?

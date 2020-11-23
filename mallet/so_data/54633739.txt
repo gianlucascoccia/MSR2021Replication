@@ -1,0 +1,1 @@
+Call API from Electron-Angular project by proxy config

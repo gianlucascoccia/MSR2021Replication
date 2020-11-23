@@ -1,0 +1,1 @@
+Installing/Running an app generated from Electron-package

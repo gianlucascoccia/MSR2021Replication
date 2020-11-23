@@ -1,0 +1,1 @@
+mainWindow is automatically focusing when i close the last open browserWindow

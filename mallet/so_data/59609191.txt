@@ -1,0 +1,1 @@
+Electron app slower when running from NAS

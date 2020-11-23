@@ -1,0 +1,1 @@
+why value is undefined in node which is returned by database

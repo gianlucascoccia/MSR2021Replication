@@ -1,0 +1,1 @@
+Drag and drop not working in nw.js app on windows 10

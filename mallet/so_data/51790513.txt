@@ -1,0 +1,1 @@
+Saving data directly to the localStorage from axios response in Electron-Vue application

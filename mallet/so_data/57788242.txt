@@ -1,0 +1,1 @@
+electron app Mac app store icon issue -> "missing required icon"

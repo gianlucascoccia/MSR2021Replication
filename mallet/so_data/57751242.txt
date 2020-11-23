@@ -1,0 +1,1 @@
+Is there a way to expose an Electron event listener through the preload script?

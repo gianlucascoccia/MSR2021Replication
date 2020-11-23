@@ -1,0 +1,1 @@
+1,000 rows rendered to a table is slow

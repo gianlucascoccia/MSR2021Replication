@@ -1,0 +1,1 @@
+How can I open this external app from Electron securely?

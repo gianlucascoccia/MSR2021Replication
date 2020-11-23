@@ -1,0 +1,1 @@
+Electron window fit content width and height

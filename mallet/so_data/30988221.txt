@@ -1,0 +1,1 @@
+Can Adsense/Bing Ads be used in Node Webkit desktop applications?

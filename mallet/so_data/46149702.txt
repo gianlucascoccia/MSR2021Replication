@@ -1,0 +1,1 @@
+Creating invisible window from main process to compute function in Electron

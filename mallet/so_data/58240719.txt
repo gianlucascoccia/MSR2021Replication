@@ -1,0 +1,1 @@
+require() and $ not defined in electron

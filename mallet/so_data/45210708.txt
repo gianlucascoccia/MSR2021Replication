@@ -1,0 +1,1 @@
+electron + react router: initial app is not at root route

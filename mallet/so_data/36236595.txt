@@ -1,0 +1,1 @@
+nw.js html5 application cache max size (node-webkit)

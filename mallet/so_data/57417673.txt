@@ -1,0 +1,1 @@
+Discord Profil Picture Update from ElectronJS using request PATCH

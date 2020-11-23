@@ -1,0 +1,1 @@
+Create a build for Node.js (fastify) server to electron app

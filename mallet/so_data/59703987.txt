@@ -1,0 +1,1 @@
+Spectron - javascript error: screen requires remote, which is not enabled

@@ -1,0 +1,1 @@
+electron in angular get error "Uncaught ReferenceError: jQuery is not defined" in redirected page

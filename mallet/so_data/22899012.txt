@@ -1,0 +1,1 @@
+node-webkit tail a file output in application console

@@ -1,0 +1,1 @@
+Jasmine - Getting "describe is not defined" when run the script using spectron

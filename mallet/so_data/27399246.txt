@@ -1,0 +1,1 @@
+Cut, Copy and Paste for Node-WebKit app doesn't work in OSX

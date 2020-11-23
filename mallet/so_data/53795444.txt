@@ -1,0 +1,1 @@
+Reading /Users/myuser/Code/OLD_PROJECT_NAME/node_modules/devtron/manifest.json failed

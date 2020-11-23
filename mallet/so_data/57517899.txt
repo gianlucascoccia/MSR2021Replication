@@ -1,0 +1,1 @@
+how to set `window.opener` for a webview

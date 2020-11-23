@@ -1,0 +1,1 @@
+Why does running a simple three.js scene eventually hang in node-webkit

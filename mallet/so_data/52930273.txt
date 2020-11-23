@@ -1,0 +1,1 @@
+electron-packager win32 don't open window

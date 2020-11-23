@@ -1,0 +1,1 @@
+Problems saving SVG to PNG

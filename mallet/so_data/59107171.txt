@@ -1,0 +1,1 @@
+NodeJS: Append file inside a callback function

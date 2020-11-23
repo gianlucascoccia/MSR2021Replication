@@ -1,0 +1,1 @@
+Stop trying to Download block maps in electron-builder update

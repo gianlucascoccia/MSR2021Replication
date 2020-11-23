@@ -1,0 +1,1 @@
+Node-Webkit - Calculate hash of partially downloaded file [opensubtitles]

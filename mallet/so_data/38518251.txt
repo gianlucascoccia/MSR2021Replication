@@ -1,0 +1,1 @@
+nw.gui - TypeError: Cannot read property 'on' of undefined in gui.Window.open

@@ -1,0 +1,1 @@
+Disabling same-origin policy in Electron (need this to work with iframes)

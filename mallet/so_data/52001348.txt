@@ -1,0 +1,1 @@
+HTML5 video "ended" event sometimes not firing when video ends

@@ -1,0 +1,1 @@
+Can I update my Electron app with a zip file using Electron Builder?

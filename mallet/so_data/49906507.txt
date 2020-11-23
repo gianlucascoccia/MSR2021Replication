@@ -1,0 +1,1 @@
+Is it possible make a tray based Electron app for handling a node ws server?

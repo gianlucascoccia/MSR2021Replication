@@ -1,0 +1,1 @@
+Cannot execute shell command from Electron packaged app

@@ -1,0 +1,1 @@
+Electron-renderer does not load webpack bundle from file nor from webpack-dev-server

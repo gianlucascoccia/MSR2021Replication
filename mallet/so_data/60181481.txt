@@ -1,0 +1,1 @@
+Electron showOpenDialog arrow function (event.send) not working

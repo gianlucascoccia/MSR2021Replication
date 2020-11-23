@@ -1,0 +1,1 @@
+Hot reloading is disabled after put webpack-externals in webpack.config.js

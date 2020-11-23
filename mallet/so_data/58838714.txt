@@ -1,0 +1,1 @@
+Is there a way to move the complete resources folder to the profile and then point Electron to it?

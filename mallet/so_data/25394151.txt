@@ -1,0 +1,1 @@
+How can I reset the WebRTC state in Chrome/node-webkit, without refreshing the page?

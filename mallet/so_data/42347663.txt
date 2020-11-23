@@ -1,0 +1,1 @@
+$.ajax is not a function in main.js electron

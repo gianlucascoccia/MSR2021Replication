@@ -1,0 +1,1 @@
+My Elctron react App canot catch custom URI response through IPC

@@ -1,0 +1,1 @@
+Can RxJS Observables perform inter-process communication in an Electron app?

@@ -1,0 +1,1 @@
+angular-electron WebView not loading all functionalities of website

@@ -1,0 +1,1 @@
+Getting skype status from Javascript/Node

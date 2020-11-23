@@ -1,0 +1,1 @@
+How to show data from sqlite3 with electron5 and angular8

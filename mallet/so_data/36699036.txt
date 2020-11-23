@@ -1,0 +1,1 @@
+Browserify load fs return empty object

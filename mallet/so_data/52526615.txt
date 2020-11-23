@@ -1,0 +1,1 @@
+Why is my electron event being delayed to the render process?

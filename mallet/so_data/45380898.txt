@@ -1,0 +1,1 @@
+Files downloaded in electron with node's request library are corrupted

@@ -1,0 +1,1 @@
+Unable to access SVG DOM after reload with Electron

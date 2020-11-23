@@ -1,0 +1,1 @@
+WinError 6: The handle is invalid from python check_output spawn in Electron app

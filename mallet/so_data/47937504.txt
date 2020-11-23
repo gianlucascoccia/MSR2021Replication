@@ -1,0 +1,1 @@
+Update loop does not update application

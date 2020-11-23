@@ -1,0 +1,1 @@
+Make meta-electron compatible with jethro Yocto version

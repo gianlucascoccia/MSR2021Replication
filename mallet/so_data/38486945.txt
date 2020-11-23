@@ -1,0 +1,1 @@
+tsc doesn't move html resources

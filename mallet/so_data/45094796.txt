@@ -1,0 +1,1 @@
+When create nw.js app, could I not include chromium in it?

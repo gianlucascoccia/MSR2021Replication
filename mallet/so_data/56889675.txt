@@ -1,0 +1,1 @@
+Use travis for build and testing with electron

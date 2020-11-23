@@ -1,0 +1,1 @@
+How do I search text in a single page reactjs/electron application

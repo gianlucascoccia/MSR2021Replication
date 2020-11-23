@@ -1,0 +1,1 @@
+how to interact between two electron apps on different machines

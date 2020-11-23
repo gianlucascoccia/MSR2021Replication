@@ -1,0 +1,1 @@
+Lightweight Desktop APP with Node - is that possible?

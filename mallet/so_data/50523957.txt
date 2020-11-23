@@ -1,0 +1,1 @@
+Electron - Why set BrowserWindow instance to null on the close event

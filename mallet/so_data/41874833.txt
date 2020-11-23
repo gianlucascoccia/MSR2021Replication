@@ -1,0 +1,1 @@
+Why do a Handler-Function only works anonymous in electron/node.js?

@@ -1,0 +1,1 @@
+npm start and other scripts do nothing

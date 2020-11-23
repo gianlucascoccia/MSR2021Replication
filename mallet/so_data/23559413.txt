@@ -1,0 +1,1 @@
+Continu after error event Node.js Webkit

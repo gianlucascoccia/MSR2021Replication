@@ -1,0 +1,1 @@
+node-keytar, machine wide credential

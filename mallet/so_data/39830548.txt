@@ -1,0 +1,1 @@
+app.setBadgeCount is not working

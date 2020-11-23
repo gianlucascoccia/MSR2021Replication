@@ -1,0 +1,1 @@
+How do I not print a command in the terminal using node-pty and xterm?

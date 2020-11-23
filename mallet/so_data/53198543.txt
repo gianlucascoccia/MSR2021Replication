@@ -1,0 +1,1 @@
+Node.js bcrypt working when normal but not working when using with Electron

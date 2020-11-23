@@ -1,0 +1,1 @@
+How to restore default window size in an electron app?

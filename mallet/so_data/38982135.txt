@@ -1,0 +1,1 @@
+Working with NodeJs serialPort - Error: %1 is not a valid Win32 application

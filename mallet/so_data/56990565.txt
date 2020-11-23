@@ -1,0 +1,1 @@
+Spectron app.client.close() does not trigger on('close' event

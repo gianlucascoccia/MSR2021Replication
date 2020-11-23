@@ -1,0 +1,1 @@
+How can I debug my Safari App Extension when I load it from electron?

@@ -1,0 +1,1 @@
+node-webkit (nwjs): how to apply 'new-win-policy' universally?

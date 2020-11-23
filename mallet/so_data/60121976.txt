@@ -1,0 +1,1 @@
+How can I authorise an installation of an Electron application?

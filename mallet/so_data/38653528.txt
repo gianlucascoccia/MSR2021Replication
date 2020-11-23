@@ -1,0 +1,1 @@
+In Electron App,app.quit()&&ap.exit(0) can not teminate the process,how to deal with this?

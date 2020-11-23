@@ -1,0 +1,1 @@
+Detect full-screen width & height in node webkit

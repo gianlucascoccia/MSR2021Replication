@@ -1,0 +1,1 @@
+JavaScript function returns 'illegal return statement'

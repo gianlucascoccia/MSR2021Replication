@@ -1,0 +1,1 @@
+Electron Firebase: FIREBASE WARNING: Provided authentication credentials are invalid

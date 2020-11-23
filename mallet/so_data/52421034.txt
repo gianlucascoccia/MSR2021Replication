@@ -1,0 +1,1 @@
+Disable keyboard shortcuts Alt + Tab in electron application on Window & MacOS

@@ -1,0 +1,1 @@
+Force redirection to specific page on app load

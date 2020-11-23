@@ -1,0 +1,1 @@
+How to gather user metrics for an Electron desktop app?

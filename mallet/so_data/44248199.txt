@@ -1,0 +1,1 @@
+Call Electron method from Frontend

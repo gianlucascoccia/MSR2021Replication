@@ -1,0 +1,1 @@
+Best way to auto-connect to Joomla site from node-webkit app

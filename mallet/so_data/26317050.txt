@@ -1,0 +1,1 @@
+Node.js fs get icon of files in directory

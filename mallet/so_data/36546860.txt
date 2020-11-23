@@ -1,0 +1,1 @@
+Require nodejs "child_process" with TypeScript, SystemJS and Electron

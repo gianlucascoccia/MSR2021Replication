@@ -1,0 +1,1 @@
+How to pre-authorize URL to use microphone in Electron (or Chrome)?

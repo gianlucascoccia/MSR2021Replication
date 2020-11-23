@@ -1,0 +1,1 @@
+electron migrate localstorage of old app to the new one

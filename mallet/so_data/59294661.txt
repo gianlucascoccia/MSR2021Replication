@@ -1,0 +1,1 @@
+how to build a standalone desktop app built with react, using a node backend, and wrap both frontend and backend in electron as a desktop app?

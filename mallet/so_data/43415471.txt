@@ -1,0 +1,1 @@
+Is it possible to build a standalone HTML5 App *without* bundling a browser?

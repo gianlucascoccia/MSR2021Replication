@@ -1,0 +1,1 @@
+Easiest flow authentication with Reactjs + Electron (without any special services)

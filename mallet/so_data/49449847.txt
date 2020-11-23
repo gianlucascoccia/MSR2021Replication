@@ -1,0 +1,1 @@
+Cursor in select element of electron app captured

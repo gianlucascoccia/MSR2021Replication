@@ -1,0 +1,1 @@
+Electron 4.0.0 win.setEnabled on mac - doesn’t work

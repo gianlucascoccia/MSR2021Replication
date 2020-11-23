@@ -1,0 +1,1 @@
+How can I copy & paste the text in Electron with single keyboard shortcut?

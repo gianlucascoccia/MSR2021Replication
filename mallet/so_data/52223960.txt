@@ -1,0 +1,1 @@
+Electron - share the same IndexedDB across multiple windows of the same app

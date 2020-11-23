@@ -1,0 +1,1 @@
+How to transfer video stream from python to electron?

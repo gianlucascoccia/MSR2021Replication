@@ -1,0 +1,1 @@
+Re-size electron app window dynamically

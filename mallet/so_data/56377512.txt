@@ -1,0 +1,1 @@
+How can I get or download the app built (exe file) from appveyor after finish building

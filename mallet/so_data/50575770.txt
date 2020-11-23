@@ -1,0 +1,1 @@
+nw.js, how to detect code changes and refresh the page

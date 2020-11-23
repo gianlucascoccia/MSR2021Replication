@@ -1,0 +1,1 @@
+How to pass parameters from main process to render processes in Electron

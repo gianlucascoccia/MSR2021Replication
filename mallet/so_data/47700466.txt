@@ -1,0 +1,1 @@
+electron ipc renderer to main process - euro sign (€) becomes 'Ôé¼'

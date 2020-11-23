@@ -1,0 +1,1 @@
+Is there a way to get Golden Layout pop-outs working in conjunction with Electron windows?

@@ -1,0 +1,1 @@
+Set PHP session variable from electron app

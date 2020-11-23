@@ -1,0 +1,1 @@
+Correlating the screen information from electron.desktopCapturer.getSources() and electron.screen.getAllDisplays()

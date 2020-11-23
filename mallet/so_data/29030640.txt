@@ -1,0 +1,1 @@
+Set quota for HTML5 File API in NW.js application

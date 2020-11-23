@@ -1,0 +1,1 @@
+Devtools icon not showing up in node webkit app - windows 7

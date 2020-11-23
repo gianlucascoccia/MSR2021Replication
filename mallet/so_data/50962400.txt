@@ -1,0 +1,1 @@
+Uncaught TypeError: r.existsSync is not a function in Angular 6 and Electron desktop application

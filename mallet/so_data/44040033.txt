@@ -1,0 +1,1 @@
+How do I size an electron window's width based on the width of an HTML element inside it?

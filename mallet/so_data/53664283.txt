@@ -1,0 +1,1 @@
+File input change event is not firing from electron app but from angular

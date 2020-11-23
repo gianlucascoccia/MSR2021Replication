@@ -1,0 +1,1 @@
+Child process opening unexpected electron windows

@@ -1,0 +1,1 @@
+problems compiling etcher fork using electron-builder

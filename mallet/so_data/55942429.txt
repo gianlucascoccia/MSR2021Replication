@@ -1,0 +1,1 @@
+Publishing to S3 in electron-builder gives me some weird artifacts

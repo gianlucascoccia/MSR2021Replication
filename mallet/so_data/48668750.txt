@@ -1,0 +1,1 @@
+Nightmare doesn't run twice in a row - NodeJS

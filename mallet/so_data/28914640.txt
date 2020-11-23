@@ -1,0 +1,1 @@
+node-webkit app package creates nw.js empty screen

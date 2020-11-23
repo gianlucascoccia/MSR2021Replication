@@ -1,0 +1,1 @@
+ENOENT Error - no such file or directory, open 'package.json', when packaged from Electron Builder/Packager both

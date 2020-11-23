@@ -1,0 +1,1 @@
+With Electron, is there a way to distinguish between user clicking on the menu item and using the keyboard shortcut?

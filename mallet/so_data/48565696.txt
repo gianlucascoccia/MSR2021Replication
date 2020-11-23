@@ -1,0 +1,1 @@
+Debug electron-app. Is it possible to see js-calls through minidump?

@@ -1,0 +1,1 @@
+get installed os applications with NodeJS and Electron

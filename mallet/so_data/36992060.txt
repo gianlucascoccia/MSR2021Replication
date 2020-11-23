@@ -1,0 +1,1 @@
+How can I send information from a web server to an Electron app?

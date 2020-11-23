@@ -1,0 +1,1 @@
+Can not find module 'jquery-slider' in node.js project

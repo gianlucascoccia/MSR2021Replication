@@ -1,0 +1,1 @@
+how to make splash screen in electron application?

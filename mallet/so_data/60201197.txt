@@ -1,0 +1,1 @@
+"Module not found: Error: Can't resolve 'electron-is-dev'" in electron & typescript & webpack project

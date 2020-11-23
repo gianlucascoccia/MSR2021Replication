@@ -1,0 +1,1 @@
+How to use Global Variable in a function and then use the output of the function in another function

@@ -1,0 +1,1 @@
+Would it be safe to enable nodeIntegration in Electron on a local page that is packaged with the app?

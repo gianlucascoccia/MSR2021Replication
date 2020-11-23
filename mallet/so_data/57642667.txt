@@ -1,0 +1,1 @@
+How to call electron-updater outside the main rendering process

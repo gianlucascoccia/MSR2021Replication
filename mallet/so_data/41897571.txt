@@ -1,0 +1,1 @@
+export/import custom JSX components (ES6 Modules) in Electron 1.5

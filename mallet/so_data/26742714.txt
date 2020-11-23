@@ -1,0 +1,1 @@
+Is there any way of using JSX in a native CommonJS environment?

@@ -1,0 +1,1 @@
+Electron.js integration with Angular 6+

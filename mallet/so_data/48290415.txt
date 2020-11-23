@@ -1,0 +1,1 @@
+nedb post data appears only after restart

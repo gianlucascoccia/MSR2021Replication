@@ -1,0 +1,1 @@
+How do i work around delay from my MySQL database in node.js?

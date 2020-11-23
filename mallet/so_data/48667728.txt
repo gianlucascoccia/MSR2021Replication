@@ -1,0 +1,1 @@
+Some SQLite tables can not be created, but others (using the same approach) can

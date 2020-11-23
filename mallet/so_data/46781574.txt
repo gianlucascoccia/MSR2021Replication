@@ -1,0 +1,1 @@
+Use sqlite3 in electron, db.serialize dose not work properly

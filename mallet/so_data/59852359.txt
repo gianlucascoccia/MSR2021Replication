@@ -1,0 +1,1 @@
+SerialPort garbage data on NodeJS

@@ -1,0 +1,1 @@
+How can I upgrade my Electron app that uses lit-element to Electron v7.0.0?

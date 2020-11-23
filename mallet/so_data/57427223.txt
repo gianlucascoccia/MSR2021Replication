@@ -1,0 +1,1 @@
+After Electron executable file install on windows gives error "Unexpected token"

@@ -1,0 +1,1 @@
+Black window when running Postman on Windows 7

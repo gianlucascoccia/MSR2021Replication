@@ -1,0 +1,1 @@
+Spectron: Unable to interact with elements on electron application after launching the application

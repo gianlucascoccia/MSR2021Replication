@@ -1,0 +1,1 @@
+error TS2305: Module '"http"' has no exported member 'OutgoingHttpHeaders'. when trying to add electron-updater into electron project

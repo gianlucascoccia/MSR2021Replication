@@ -1,0 +1,1 @@
+Firebase Auth successful, but Database Ref set and update does not happen in electron app version 1.4.2

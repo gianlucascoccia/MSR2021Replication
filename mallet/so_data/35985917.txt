@@ -1,0 +1,1 @@
+Waiting for multiple ipc calls to complete before continuing in electron/redux

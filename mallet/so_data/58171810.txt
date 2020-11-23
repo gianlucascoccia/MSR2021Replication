@@ -1,0 +1,1 @@
+Nodejs Electron App can't find image path

@@ -1,0 +1,1 @@
+At Electron, How to resolve Error TS2304: Cannot find name 'unknown on(event: 'ready', listener: (launchInfo: unknown) => void): this;

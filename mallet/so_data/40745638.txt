@@ -1,0 +1,1 @@
+Include BItcoinJS library in electron project

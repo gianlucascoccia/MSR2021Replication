@@ -1,0 +1,1 @@
+electron zoomFactor not having any effect

@@ -1,0 +1,1 @@
+Files can't be found after building with electron-packager

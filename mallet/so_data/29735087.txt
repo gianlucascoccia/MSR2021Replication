@@ -1,0 +1,1 @@
+Why "R Graphic: Device" window in Windows when opened in a children process of Node Webkit open, show plots but keep not responding?

@@ -1,0 +1,1 @@
+Pass currently selected element in devtools to javascript in electron

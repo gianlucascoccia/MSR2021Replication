@@ -1,0 +1,1 @@
+Electron how apply style on primary window when second window closes?

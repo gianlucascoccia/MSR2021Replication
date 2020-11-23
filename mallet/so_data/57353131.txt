@@ -1,0 +1,1 @@
+Electron AJAX request return raw PHP

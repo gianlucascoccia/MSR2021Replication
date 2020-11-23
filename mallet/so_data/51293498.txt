@@ -1,0 +1,1 @@
+How can we run one time scripts after installation in electron?

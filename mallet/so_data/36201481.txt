@@ -1,0 +1,1 @@
+how to clear cache using javascript when starting Offline application again

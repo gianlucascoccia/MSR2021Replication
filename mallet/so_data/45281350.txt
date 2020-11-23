@@ -1,0 +1,1 @@
+Multiple instances of the same application to test using Spectron

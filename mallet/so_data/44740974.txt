@@ -1,0 +1,1 @@
+Can I debug my electron app whilst testing it with Spectron?

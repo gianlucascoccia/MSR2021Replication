@@ -1,0 +1,1 @@
+Load open layers map to electron js with typescript imports

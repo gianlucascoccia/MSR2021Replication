@@ -1,0 +1,1 @@
+I want to call a function which is written in "C" DLL from node.js javascript?

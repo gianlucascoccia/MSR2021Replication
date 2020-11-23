@@ -1,0 +1,1 @@
+Uncaught ReferenceError: global is not defined at Object../node_modules/fbjs/lib/setImmediate.js

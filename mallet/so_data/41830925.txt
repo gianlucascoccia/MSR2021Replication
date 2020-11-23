@@ -1,0 +1,1 @@
+Does XSRF-TOKEN must be instatiated by cookie and sent by header?

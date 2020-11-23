@@ -1,0 +1,1 @@
+Can Visual Studio Code be configured to launch electron

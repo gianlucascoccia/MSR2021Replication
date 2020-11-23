@@ -1,0 +1,1 @@
+Getting child_process.fork() to work in electron when compiled and minified

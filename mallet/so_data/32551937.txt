@@ -1,0 +1,1 @@
+In nw.js(node-webkit), how node-main : node.js access any windows?

@@ -1,0 +1,1 @@
+Please install sqlite3 package manually after electron-packager on linux for windows

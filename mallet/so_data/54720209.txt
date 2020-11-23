@@ -1,0 +1,1 @@
+Electron: Copy console output into application

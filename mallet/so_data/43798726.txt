@@ -1,0 +1,1 @@
+Running electron as root on Linux

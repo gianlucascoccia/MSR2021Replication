@@ -1,0 +1,1 @@
+Error with Firebase on Electron app: Failed to load gRPC

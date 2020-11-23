@@ -1,0 +1,1 @@
+Unable to create connection to mysql in electronjs and error show "ER_ACCESS_DENIED_ERROR"

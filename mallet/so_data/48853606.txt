@@ -1,0 +1,1 @@
+How to pass js-variable from .js file to .html page in Electron?

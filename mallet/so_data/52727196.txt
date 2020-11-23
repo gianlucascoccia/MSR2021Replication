@@ -1,0 +1,1 @@
+How to detect when chromium/ electron is done zooming?

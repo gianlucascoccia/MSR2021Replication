@@ -1,0 +1,1 @@
+Error with packagin app for win10 with nw.js

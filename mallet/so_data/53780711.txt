@@ -1,0 +1,1 @@
+Vuex getters are not updated after store re-hydration from persistent storage

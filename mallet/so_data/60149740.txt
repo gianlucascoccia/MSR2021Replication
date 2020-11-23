@@ -1,0 +1,1 @@
+HTML MediaRecorder recording lags on 1080p stream

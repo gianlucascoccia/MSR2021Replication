@@ -1,0 +1,1 @@
+C++ method wrapping Objective-C: how to add value to variable?

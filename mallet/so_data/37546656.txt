@@ -1,0 +1,1 @@
+Handling oauth2 redirect from electron (or other desktop platforms)

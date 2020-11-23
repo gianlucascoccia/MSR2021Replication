@@ -1,0 +1,1 @@
+use copied library in another project

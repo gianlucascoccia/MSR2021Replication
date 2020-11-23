@@ -1,0 +1,1 @@
+Can i open file with an electron app on a computer with only a simple archlinux without desktop?

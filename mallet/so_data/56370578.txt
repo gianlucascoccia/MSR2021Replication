@@ -1,0 +1,1 @@
+I have error for install electron on fedora 30

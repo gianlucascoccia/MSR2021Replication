@@ -1,0 +1,1 @@
+How can I call method outside 'export default' scope in vuejs+electron?

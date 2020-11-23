@@ -1,0 +1,1 @@
+redux error in electron-react-boilerplate (Uncaught TypeError: action)

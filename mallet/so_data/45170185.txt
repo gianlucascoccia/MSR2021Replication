@@ -1,0 +1,1 @@
+Setting Default Keyboard Layout for Electron Application on Windows (Unable to copy UTF-8 text propely)

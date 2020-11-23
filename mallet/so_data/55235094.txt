@@ -1,0 +1,1 @@
+can't find module 'debug' error with Electron, Typescript and Electron packager

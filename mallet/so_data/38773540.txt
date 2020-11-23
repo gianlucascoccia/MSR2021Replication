@@ -1,0 +1,1 @@
+NodeJS and Electron, Open external file with OS' default application with closed signal

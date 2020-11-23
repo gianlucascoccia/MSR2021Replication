@@ -1,0 +1,1 @@
+how to get return value from webview.executeJavaScript in electron

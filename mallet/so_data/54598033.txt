@@ -1,0 +1,1 @@
+Electron child window doesn't want to call its own js script

@@ -1,0 +1,1 @@
+nwjs menu stop working after window.location.href changed

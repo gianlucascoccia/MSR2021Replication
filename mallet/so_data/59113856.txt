@@ -1,0 +1,1 @@
+Get IntelliJ IDEA/Android Studio Opened Project Folder with ElectronJS Application

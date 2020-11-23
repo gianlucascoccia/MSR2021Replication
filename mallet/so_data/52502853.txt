@@ -1,0 +1,1 @@
+electron-edge-js: fs and path can't be resolve

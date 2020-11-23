@@ -1,0 +1,1 @@
+Main window reference becomes null when closing child window

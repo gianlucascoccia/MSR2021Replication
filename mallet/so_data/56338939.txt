@@ -1,0 +1,1 @@
+Hover in CSS is not working with Electron

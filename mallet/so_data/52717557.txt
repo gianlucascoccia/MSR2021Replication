@@ -1,0 +1,1 @@
+Retrievin a class from an html in electron

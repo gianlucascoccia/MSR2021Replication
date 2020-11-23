@@ -1,0 +1,1 @@
+Calling a function from both the main and the renderer process in Electron

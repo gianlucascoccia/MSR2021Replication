@@ -1,0 +1,1 @@
+How should I handle user-facing plugins in Electron?

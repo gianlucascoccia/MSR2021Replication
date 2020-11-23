@@ -1,0 +1,1 @@
+Why is the installation of Babel failing in Electron? And do I need Babel or not?

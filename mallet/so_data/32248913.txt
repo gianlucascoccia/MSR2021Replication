@@ -1,0 +1,1 @@
+Building a standalone executable for nodejs application with C++ addons

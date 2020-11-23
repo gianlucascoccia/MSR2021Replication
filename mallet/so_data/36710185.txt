@@ -1,0 +1,1 @@
+loadhtml instead of loadUrl in electron scripts and links are not working

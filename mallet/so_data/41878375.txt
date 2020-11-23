@@ -1,0 +1,1 @@
+Bing speech API, Electron: "cu.connect is not a function"

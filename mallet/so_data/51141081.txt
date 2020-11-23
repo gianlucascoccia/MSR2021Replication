@@ -1,0 +1,1 @@
+Trying to build Electron app with VSTS fails saying "error Please try running this command again as root/Administrator."

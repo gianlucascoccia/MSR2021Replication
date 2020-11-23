@@ -1,0 +1,1 @@
+Array Binding with Electronjs/SerialPort & React/Redux

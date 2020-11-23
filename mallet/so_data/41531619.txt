@@ -1,0 +1,1 @@
+Looking for a persistent database for an Electron app that's NOT in-memory

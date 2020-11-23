@@ -1,0 +1,1 @@
+How I can change the Electron app icon without electron-packager?

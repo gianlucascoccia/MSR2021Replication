@@ -1,0 +1,1 @@
+Html canvas drawing slows with too many canvas elements

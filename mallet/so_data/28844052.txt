@@ -1,0 +1,1 @@
+Ace editor inside tab div not resizing with browser window (demo code inside)

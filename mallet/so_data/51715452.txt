@@ -1,0 +1,1 @@
+Do I rebuild the Electron package to get customized front-end with Rocket Chat?

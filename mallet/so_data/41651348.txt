@@ -1,0 +1,1 @@
+Flush all memory on reload in NW.js

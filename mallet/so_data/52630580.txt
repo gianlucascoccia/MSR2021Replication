@@ -1,0 +1,1 @@
+How can I read values from a static config.json file to TypeScript in a Vue file after running build:electron in Vue CLI 3?

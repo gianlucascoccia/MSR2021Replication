@@ -1,0 +1,1 @@
+Resource images (icons and renderer window images) are missing in installed electron app

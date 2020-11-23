@@ -1,0 +1,1 @@
+Trying to capture Full Screenshot in Electron App Error in The Onclick index.html script Tag

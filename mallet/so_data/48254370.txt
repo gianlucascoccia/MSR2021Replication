@@ -1,0 +1,1 @@
+Angular detectChanges() disables change detection for child components

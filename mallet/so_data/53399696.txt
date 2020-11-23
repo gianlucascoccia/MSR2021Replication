@@ -1,0 +1,1 @@
+Setup test for Vue.js-electron app which uses Vuex

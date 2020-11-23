@@ -1,0 +1,1 @@
+How to run insalled electron app from web browser with a custom url protocol

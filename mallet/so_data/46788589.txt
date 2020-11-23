@@ -1,0 +1,1 @@
+SSL Certificate issue with using HTTP/2 as a communication mechanism inside LAN

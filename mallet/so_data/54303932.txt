@@ -1,0 +1,1 @@
+Remove localStorage data on app uninstall

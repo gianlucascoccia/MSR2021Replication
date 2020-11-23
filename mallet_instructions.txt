@@ -1,0 +1,19 @@
+
+# Parsing
+
+mallet/mallet-2.0.8/bin/mallet import-dir --input mallet/so_data/ --output so.mallet --keep-sequence --remove-stopwords 
+
+
+# Execution
+
+mallet/mallet-2.0.8/bin/mallet train-topics  --input so.mallet --num-topics 10 --optimize-interval 20 --output-state so-topic-state.gz --output-topic-keys so_keys.txt --output-doc-topics so_compostion.txt --diagnostics-file so_diagnostics.xml
+
+==== OLD ====
+
+# Parsing
+
+./mallet-2.0.8/bin/mallet import-dir --input issues_data/ --output issues.mallet --keep-sequence --remove-stopwords --extra-stopwords extra_stopwords.txt
+
+# Execution
+
+./mallet-2.0.8/bin/mallet train-topics  --input issues.mallet --num-topics 10 --optimize-interval 20 --output-state issues-topic-state.gz --output-topic-keys issues_keys.txt --output-doc-topics issues_compostion.txt --diagnostics-file issues_diagnostics.xml

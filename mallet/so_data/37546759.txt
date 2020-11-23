@@ -1,0 +1,1 @@
+Change Array.prototype in ecmascript (javascript)

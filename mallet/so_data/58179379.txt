@@ -1,0 +1,1 @@
+Electron: difference between process.defaultApp and app.isPackaged

@@ -1,0 +1,1 @@
+ElectronJS. Set Window name or identify which window emitting the event

@@ -1,0 +1,1 @@
+Electron set image as wallpaper (OS X and Windows)

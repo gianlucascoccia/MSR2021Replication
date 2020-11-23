@@ -1,0 +1,1 @@
+Force NeDB to create local file with Electron

@@ -1,0 +1,1 @@
+API for clearing all sessions in Electron?

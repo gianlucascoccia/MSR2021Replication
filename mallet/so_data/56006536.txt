@@ -1,0 +1,1 @@
+Spawn process that keeps running after app.quit()

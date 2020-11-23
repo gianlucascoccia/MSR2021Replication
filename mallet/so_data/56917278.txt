@@ -1,0 +1,1 @@
+In Electron, how can I open a window that isn't a BrowserWindow?

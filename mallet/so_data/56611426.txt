@@ -1,0 +1,1 @@
+Sort array string which begins with a letter

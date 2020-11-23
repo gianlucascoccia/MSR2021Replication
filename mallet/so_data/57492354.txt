@@ -1,0 +1,1 @@
+how to stop empty logs directory to be created on electron app

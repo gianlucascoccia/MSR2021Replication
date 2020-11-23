@@ -1,0 +1,1 @@
+Electron / NodeJS and application freezing on setInterval / async code

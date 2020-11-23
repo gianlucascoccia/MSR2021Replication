@@ -1,0 +1,1 @@
+Issue with missing symbols - NewInstance deprecated. Only when running along with nw.js

@@ -1,0 +1,1 @@
+node.js electron bootstrap-tour popover is not a function

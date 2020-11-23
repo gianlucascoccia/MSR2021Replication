@@ -1,0 +1,1 @@
+How MS Teams auto logs into Azure AD

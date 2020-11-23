@@ -1,0 +1,1 @@
+Cannot rebuild serialport with node-pre-gyp: 404 status code downloading 64-bit nw.lib

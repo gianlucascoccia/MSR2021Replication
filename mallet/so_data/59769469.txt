@@ -1,0 +1,1 @@
+Get access to USB stick in Electron app fails with: No device selected exception

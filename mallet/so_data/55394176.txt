@@ -1,0 +1,1 @@
+What are the risks of storing credentials in Electron renderer's localStorage?

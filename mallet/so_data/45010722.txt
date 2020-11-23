@@ -1,0 +1,1 @@
+Get mouse buttons in entire Windows screen with a npm module

@@ -1,0 +1,1 @@
+Why getting error while creating windows installer in Electron App

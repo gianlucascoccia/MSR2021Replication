@@ -1,0 +1,1 @@
+Launching automaticly NodeJS when Electron builds

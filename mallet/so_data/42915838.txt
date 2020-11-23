@@ -1,0 +1,1 @@
+Electron inside Docker with X11 Forwarding - No Protocol Specified

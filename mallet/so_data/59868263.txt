@@ -1,0 +1,1 @@
+Electron: how to expose console.log calls from installed packages?

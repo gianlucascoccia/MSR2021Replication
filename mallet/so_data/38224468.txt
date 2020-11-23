@@ -1,0 +1,1 @@
+Update main window DOM from other window in electron js

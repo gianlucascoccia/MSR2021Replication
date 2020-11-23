@@ -1,0 +1,1 @@
+Store XHR response globally

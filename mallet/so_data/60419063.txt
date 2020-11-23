@@ -1,0 +1,1 @@
+Can't use an Electron built app on Rasbian

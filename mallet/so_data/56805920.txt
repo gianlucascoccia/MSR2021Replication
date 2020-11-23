@@ -1,0 +1,1 @@
+Can't edit input text field after window.alert()

@@ -1,0 +1,1 @@
+How to let react electron ignore undefined error?

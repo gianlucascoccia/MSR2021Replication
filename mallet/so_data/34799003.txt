@@ -1,0 +1,1 @@
+Use Dropbox Chooser from inside Electron app

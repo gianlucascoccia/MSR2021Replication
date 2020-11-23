@@ -1,0 +1,1 @@
+Can I use CoffeeScript to write my Electron (Atom Shell) application?

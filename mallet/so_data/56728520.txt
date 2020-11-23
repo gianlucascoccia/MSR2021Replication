@@ -1,0 +1,1 @@
+Wine opens several winebrowser instances when trying to following links

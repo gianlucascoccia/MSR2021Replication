@@ -1,0 +1,1 @@
+Node registry path with electron-updater and Sinopia

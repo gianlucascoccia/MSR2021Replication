@@ -1,0 +1,1 @@
+How to prevent(delay) OS(Windows 10) from closing Electron window?

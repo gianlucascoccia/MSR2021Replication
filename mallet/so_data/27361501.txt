@@ -1,0 +1,1 @@
+NodeWebkit win.title don't refresh title windows

@@ -1,0 +1,1 @@
+Is it possbible to use node with admin or sudo privileges within electron?

@@ -1,0 +1,1 @@
+fs.readFile looks in wrong folder after electron-packager

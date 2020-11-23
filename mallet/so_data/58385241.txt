@@ -1,0 +1,1 @@
+Electron App Closes Immediately Using ng serve

@@ -1,0 +1,1 @@
+"-webkit-app-region: drag" only allowing drag in small region of element

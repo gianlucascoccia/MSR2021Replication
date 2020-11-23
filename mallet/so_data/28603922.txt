@@ -1,0 +1,1 @@
+Get the network name (SSID) in node-webkit?

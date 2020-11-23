@@ -1,0 +1,1 @@
+Manage (min max restore) other windows in node webkit (or in node.js or cmd) - task bar alternative

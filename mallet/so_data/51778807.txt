@@ -1,0 +1,1 @@
+ERROR in ./src/$$_gendir/app/app.module.ngfactory.ts: Cannot read property 'flags' of undefined

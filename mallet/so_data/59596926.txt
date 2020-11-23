@@ -1,0 +1,1 @@
+function quitAndInstall of electron-updater

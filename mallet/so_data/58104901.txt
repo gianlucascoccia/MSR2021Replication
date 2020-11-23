@@ -1,0 +1,1 @@
+Unable to remove comma (decimal) on a number (JS, HTML)

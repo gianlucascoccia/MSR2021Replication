@@ -1,0 +1,1 @@
+Intercept any outgoing network request in V8 ( at core level )

@@ -1,0 +1,1 @@
+Webstorm throws no error, Typescript does

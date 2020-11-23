@@ -1,0 +1,1 @@
+how to run commandline in electron after build with ASAR

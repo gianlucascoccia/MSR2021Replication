@@ -1,0 +1,1 @@
+Using webworker inside electron app which use puppeteer

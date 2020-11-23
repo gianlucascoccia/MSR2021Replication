@@ -1,0 +1,1 @@
+Make electron window able to receive click event when above keynote app

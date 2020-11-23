@@ -1,0 +1,1 @@
+Only hide the window when closing it [Electron]

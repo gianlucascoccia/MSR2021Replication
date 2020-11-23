@@ -1,0 +1,1 @@
+Prevent drag and drop navigation onto window scrollbar

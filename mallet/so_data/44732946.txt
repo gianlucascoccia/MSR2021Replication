@@ -1,0 +1,1 @@
+What does {app, BrowserWindow} means in JavaScript (node.js)?

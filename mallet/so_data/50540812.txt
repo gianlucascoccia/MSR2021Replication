@@ -1,0 +1,1 @@
+Redirect URI for browser based client

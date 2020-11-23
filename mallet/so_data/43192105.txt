@@ -1,0 +1,1 @@
+Apply webpack config to electron main process

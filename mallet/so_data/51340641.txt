@@ -1,0 +1,1 @@
+HTML EventSource not closing in electron app

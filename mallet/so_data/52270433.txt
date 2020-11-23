@@ -1,0 +1,1 @@
+Electron use Barcode Scanner when app is in background

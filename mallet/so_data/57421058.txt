@@ -1,0 +1,1 @@
+Axios + Electron.js Error: `xhr.js:120 Refused to set unsafe header "user-agent"`

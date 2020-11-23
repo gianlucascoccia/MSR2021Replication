@@ -1,0 +1,1 @@
+Control specific audio output like, decrease audio from browser in Electron

@@ -1,0 +1,1 @@
+How to open new browser instance with specified size and position

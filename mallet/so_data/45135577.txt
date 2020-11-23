@@ -1,0 +1,1 @@
+what are the differences between `event.sender.send` and `webContents.send` in electron?

@@ -1,0 +1,1 @@
+re-creation of main window shows blank page in electronjs

@@ -1,0 +1,1 @@
+Close Electron app on click event

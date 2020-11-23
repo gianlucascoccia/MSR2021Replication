@@ -1,0 +1,1 @@
+GitHub Electron: build menu in required file

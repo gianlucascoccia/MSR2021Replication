@@ -1,0 +1,1 @@
+NW.js build doesn't open for Raspberry Pi (Raspbian)

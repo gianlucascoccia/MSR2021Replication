@@ -1,0 +1,1 @@
+Using Node Web Kit GUI, how do you close a Screen?

@@ -1,0 +1,1 @@
+Use amazon s3 with electron-builder's auto updater

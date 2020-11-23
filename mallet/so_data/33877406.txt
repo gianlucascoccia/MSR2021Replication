@@ -1,0 +1,1 @@
+Maximize nw.js window from protractor doesn't work

@@ -1,0 +1,1 @@
+Can node-webkit C++ addon write to ImageData object created in JavaScript context?

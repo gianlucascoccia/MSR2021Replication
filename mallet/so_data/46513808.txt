@@ -1,0 +1,1 @@
+electron cant add redux dev tools, uncaught exception: SyntaxError: Octal literals are not allowed in strict mode

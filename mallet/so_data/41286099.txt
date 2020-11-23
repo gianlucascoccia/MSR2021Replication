@@ -1,0 +1,1 @@
+How to update interface (html pages) in electron desktop application?

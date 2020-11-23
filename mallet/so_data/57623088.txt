@@ -1,0 +1,1 @@
+Is there a way to set 'Disabled = false' of electron-simple-updater

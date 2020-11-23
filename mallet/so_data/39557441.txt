@@ -1,0 +1,1 @@
+wnsow.setResizable not working in NWjs

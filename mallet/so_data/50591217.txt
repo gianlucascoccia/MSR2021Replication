@@ -1,0 +1,1 @@
+Getting an error when trying to read json file via fetch

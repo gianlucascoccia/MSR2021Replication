@@ -1,0 +1,1 @@
+Why my javascript game is slow when compiled with nw.js (node-webkit)?

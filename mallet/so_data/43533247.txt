@@ -1,0 +1,1 @@
+jquery addon function not adding element to DOM in nw.js inside w2ui panel

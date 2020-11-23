@@ -1,0 +1,1 @@
+Electron squirrel startup not starting app after install

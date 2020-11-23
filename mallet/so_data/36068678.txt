@@ -1,0 +1,1 @@
+Get clipboard type in Electron

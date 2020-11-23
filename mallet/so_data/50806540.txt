@@ -1,0 +1,1 @@
+New windows not able to acess NWJS modules?

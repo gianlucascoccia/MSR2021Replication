@@ -1,0 +1,1 @@
+How to fix race condition between Promise resolving on win.loadFile() and app.on('browser-window-created') event

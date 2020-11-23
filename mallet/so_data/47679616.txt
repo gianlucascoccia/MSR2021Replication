@@ -1,0 +1,1 @@
+Properly getting Electron cookies (asynchronous)

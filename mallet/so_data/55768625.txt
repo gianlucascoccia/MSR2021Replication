@@ -1,0 +1,1 @@
+Circular dependencies when importing sequelize

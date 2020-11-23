@@ -1,0 +1,1 @@
+Uncaught TypeError: b is not a function in nodejs(electron)

@@ -1,0 +1,1 @@
+Know if code is in NodeWebkit or just in the browser

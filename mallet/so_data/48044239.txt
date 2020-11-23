@@ -1,0 +1,1 @@
+Can't use sqlite in electron renderer process: "Cannot read property '_handle' of undefined"

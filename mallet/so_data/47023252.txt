@@ -1,0 +1,1 @@
+I got this error after package "Error: EACCES: permission denied, open "

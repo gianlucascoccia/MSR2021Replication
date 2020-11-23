@@ -1,0 +1,1 @@
+How do connect mysql to Angular and display data in html

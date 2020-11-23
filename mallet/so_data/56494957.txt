@@ -1,0 +1,1 @@
+How reach window from NWJS background script?

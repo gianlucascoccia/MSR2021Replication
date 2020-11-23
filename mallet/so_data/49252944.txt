@@ -1,0 +1,1 @@
+Can Spectron tests run in their own desktop?

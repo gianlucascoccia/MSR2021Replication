@@ -1,0 +1,1 @@
+Can't get a working node-webkit+sqlite3 offline app

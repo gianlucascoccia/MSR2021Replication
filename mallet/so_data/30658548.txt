@@ -1,0 +1,1 @@
+how to insert data into database in electron SQl as database And React as front end

@@ -1,0 +1,1 @@
+electron packaged into asar target windows , config json with api key setting, is safe?

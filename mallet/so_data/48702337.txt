@@ -1,0 +1,1 @@
+Node.js open terminal window (Electron on Mac OS)

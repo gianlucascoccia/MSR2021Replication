@@ -1,0 +1,1 @@
+How to both upload Electron's crashReporter's minidump file to a remote server and store it locally?

@@ -1,0 +1,1 @@
+Jest testing React component using Electron-Remote in ElectronJS

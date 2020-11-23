@@ -1,0 +1,1 @@
+Force open link in external browser in ElectronJS application

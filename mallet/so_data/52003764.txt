@@ -1,0 +1,1 @@
+NodeJs/Electron : How to wait for function to finish before ipcMain send back his answer?

@@ -1,0 +1,1 @@
+Dexie.js index lost on reload

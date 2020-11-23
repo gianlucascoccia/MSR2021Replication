@@ -1,0 +1,1 @@
+Write stdout to a div as program executes with Node-Webkit?

@@ -1,0 +1,1 @@
+What is the standard way to send data to the view on Electron?

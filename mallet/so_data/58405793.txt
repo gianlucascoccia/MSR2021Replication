@@ -1,0 +1,1 @@
+How to test file upload with Spectron

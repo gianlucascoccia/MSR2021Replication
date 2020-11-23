@@ -1,0 +1,1 @@
+MPV Player automatically pause after long run

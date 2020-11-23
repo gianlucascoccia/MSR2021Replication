@@ -1,0 +1,1 @@
+How can I parsing JSON with Node.js in electron renderer.js file?

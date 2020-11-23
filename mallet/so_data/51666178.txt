@@ -1,0 +1,1 @@
+NWJS (Node Webkit) app is not responding on Linux systems when I use it with Web Workers

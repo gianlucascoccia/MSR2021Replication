@@ -1,0 +1,1 @@
+Enabling application menu in a NW.js app for Mac OS

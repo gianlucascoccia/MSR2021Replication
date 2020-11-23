@@ -1,0 +1,1 @@
+Can't seem to save the output of a client.shell() command to a variable

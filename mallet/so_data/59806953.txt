@@ -1,0 +1,1 @@
+In electronjs, when I close the child modal window, how to reload the parent window?

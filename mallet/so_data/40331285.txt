@@ -1,0 +1,1 @@
+Using ipcRenderer in angular 2; trigger change detection

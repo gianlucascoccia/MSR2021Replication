@@ -1,0 +1,1 @@
+Electron ignores loadURL() calls if opened with elevated privileges (uiAccess=true) by a non-Admin user

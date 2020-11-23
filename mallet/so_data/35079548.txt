@@ -1,0 +1,1 @@
+How to call Shell script or python script in from a Atom electron app

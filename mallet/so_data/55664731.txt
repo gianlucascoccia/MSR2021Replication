@@ -1,0 +1,1 @@
+electron builder has failed to build window executable for my react web app

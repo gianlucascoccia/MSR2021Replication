@@ -1,0 +1,1 @@
+Environment variable is undefined in electron even it has been set inside webpack.DefinePlugin

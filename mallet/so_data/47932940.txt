@@ -1,0 +1,1 @@
+Can an Electron/NW.js application be served in a browser?

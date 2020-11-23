@@ -1,0 +1,1 @@
+Using 'this' in an object in Node?

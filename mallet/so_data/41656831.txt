@@ -1,0 +1,1 @@
+ember local storage adapter: how to get data and work on it

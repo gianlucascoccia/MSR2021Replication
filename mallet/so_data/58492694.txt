@@ -1,0 +1,1 @@
+Error: Image Not Found when running Electrong-forge app on MacOs

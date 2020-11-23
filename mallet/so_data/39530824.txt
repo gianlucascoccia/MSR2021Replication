@@ -1,0 +1,1 @@
+React and Electron with Bablify: Uncaught TypeError: fs.readFileSync is not a function

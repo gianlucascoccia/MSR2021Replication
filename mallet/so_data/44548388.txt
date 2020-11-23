@@ -1,0 +1,1 @@
+html accept attribute working differently on different operating systems

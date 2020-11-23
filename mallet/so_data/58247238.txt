@@ -1,0 +1,1 @@
+How to add an icon to the right hand side of the MacOS menu bar in Electron?

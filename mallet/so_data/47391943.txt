@@ -1,0 +1,1 @@
+Uncaught exception: Attempting to call a function in a renderer window that has been closed or released

@@ -1,0 +1,1 @@
+ERROR ReferenceError: cv is not defined in Angular electron app

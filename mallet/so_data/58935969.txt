@@ -1,0 +1,1 @@
+Do two Electron apps share any OS-level resources?

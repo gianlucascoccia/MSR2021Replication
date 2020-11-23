@@ -1,0 +1,1 @@
+Unable to run nw.js application in ubuntu

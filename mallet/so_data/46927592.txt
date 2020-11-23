@@ -1,0 +1,1 @@
+mock geolocation with nightmarejs

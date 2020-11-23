@@ -1,0 +1,1 @@
+Emit custom events in electron app from main to renderer

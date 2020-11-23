@@ -1,0 +1,1 @@
+Electron - Why can I use require() on the client side

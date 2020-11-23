@@ -1,0 +1,1 @@
+Python server lost remote after fixed size of response to client

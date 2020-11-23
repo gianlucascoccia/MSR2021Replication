@@ -1,0 +1,1 @@
+Cannot create a virtual environment for python by using node.js command line , terminal libraries from electron

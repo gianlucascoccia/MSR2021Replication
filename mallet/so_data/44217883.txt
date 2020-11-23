@@ -1,0 +1,1 @@
+electron-localshortcut not working without providing Browser Window

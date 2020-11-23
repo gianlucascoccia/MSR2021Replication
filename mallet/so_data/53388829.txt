@@ -1,0 +1,1 @@
+Setting a placeholder image/HTML while electron can't connect to URL

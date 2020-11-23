@@ -1,0 +1,1 @@
+Trigger :visited state (make links purple) when browsing in Electron

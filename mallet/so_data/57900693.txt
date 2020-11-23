@@ -1,0 +1,1 @@
+Electron: Drag and Drop a file on the icon

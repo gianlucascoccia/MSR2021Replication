@@ -1,0 +1,1 @@
+Hide source code from build executable in electron-app

@@ -1,0 +1,1 @@
+Cannot access firebase from within an electron app

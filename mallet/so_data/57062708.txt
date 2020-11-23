@@ -1,0 +1,1 @@
+Which ECMAScript version to choose for TypeScript compiler in Electron app?

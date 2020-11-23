@@ -1,0 +1,1 @@
+Offline menu & searching app with datatables. Indexeddb, or nw.js, or?

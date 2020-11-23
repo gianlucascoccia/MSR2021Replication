@@ -1,0 +1,1 @@
+Javascript Electron Menu open app window from Menu template file

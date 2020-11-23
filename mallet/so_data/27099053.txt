@@ -1,0 +1,1 @@
+Nodewebkit app takes time to load in windows

@@ -1,0 +1,1 @@
+temporarily store data in electron js localStorage

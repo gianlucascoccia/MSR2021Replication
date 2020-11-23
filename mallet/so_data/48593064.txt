@@ -1,0 +1,1 @@
+Closing an Electron App on Darwin

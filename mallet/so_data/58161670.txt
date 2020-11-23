@@ -1,0 +1,1 @@
+Problem with [node_notifier] in [Electron + React] Project

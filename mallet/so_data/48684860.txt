@@ -1,0 +1,1 @@
+Auto Hot key not working in application but working outside

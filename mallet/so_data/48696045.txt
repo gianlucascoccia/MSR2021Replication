@@ -1,0 +1,1 @@
+Open link in a new window in electron

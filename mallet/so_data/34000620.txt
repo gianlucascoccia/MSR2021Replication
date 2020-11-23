@@ -1,0 +1,1 @@
+Error when trying to require browser version of NeDB

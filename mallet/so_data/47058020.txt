@@ -1,0 +1,1 @@
+Real-time transcription Google Cloud Speech API with gRPC from Electron

@@ -1,0 +1,1 @@
+how to determine the current and future electron version(s) of vscode at extention build time

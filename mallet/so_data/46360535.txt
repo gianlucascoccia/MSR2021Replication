@@ -1,0 +1,1 @@
+Why does electron gives access violation trying to access a new Isolate?

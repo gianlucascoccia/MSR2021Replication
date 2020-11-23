@@ -1,0 +1,1 @@
+Select and display an image from the filesystem with electron

@@ -1,0 +1,1 @@
+electron-packager packaging app for platform win32 ia32 using electron v5.0.1 but jquery events like button clicks not working after packaging

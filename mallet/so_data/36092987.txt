@@ -1,0 +1,1 @@
+Can't see SVGs (evil-icons) after packaging electron app

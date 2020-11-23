@@ -1,0 +1,1 @@
+Flash in iframe got 403 forbidden with NW.js

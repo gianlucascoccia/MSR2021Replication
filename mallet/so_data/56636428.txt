@@ -1,0 +1,1 @@
+Launch a bundled external script when exporting to AppImage

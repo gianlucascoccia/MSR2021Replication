@@ -1,0 +1,1 @@
+Electron putting node_modules in asar fails module dependencies

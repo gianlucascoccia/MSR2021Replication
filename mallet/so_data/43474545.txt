@@ -1,0 +1,1 @@
+Angular in electron, slow rendering for large json

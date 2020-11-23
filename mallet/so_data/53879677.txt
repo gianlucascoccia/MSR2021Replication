@@ -1,0 +1,1 @@
+Gtk-Message: 10:59:42.836: GtkDialog mapped without a transient parent. This is discouraged. PID 16131 received SIGSEGV for address: 0x10

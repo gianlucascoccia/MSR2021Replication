@@ -1,0 +1,1 @@
+Electron : App minimize or not visible after click outside browserWindow or Windows key+D

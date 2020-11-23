@@ -1,0 +1,1 @@
+How do we script/automate an Electron app with Puppeteer?

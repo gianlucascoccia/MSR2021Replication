@@ -1,0 +1,1 @@
+Spectron async isExisting doesnt return false

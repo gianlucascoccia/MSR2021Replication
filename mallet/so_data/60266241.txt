@@ -1,0 +1,1 @@
+Error in Opening Electron App in Mac:"file:///Applications/../Contents/Resources/app.asar/dist/index.html"

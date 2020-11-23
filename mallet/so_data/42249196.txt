@@ -1,0 +1,1 @@
+How can I create a background process in electron that takes screenshot of the entire desktop?

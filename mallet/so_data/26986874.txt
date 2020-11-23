@@ -1,0 +1,1 @@
+how do I programmatically change icon of a Windows executable and Mac application?

@@ -1,0 +1,1 @@
+Not Allowed to load local resource electron/angular/electron-builder

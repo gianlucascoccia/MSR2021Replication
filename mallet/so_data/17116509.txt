@@ -1,0 +1,1 @@
+Is it possible to load chrome extension in node-webkit window

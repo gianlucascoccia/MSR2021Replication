@@ -1,0 +1,1 @@
+How do I stop a 'white' page refresh in a multi page electron app

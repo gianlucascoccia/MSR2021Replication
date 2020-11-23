@@ -1,0 +1,1 @@
+Unhandled Rejection (TypeError): keytar.setPassword is not a function

@@ -1,0 +1,1 @@
+electron.desktopCapturer to cv.VideoCapture [electron, nodejs, opencv4nodejs]

@@ -1,0 +1,1 @@
+How can I update an electron BrowserWindow icon after the window is already opened?

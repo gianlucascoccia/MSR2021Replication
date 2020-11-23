@@ -1,0 +1,1 @@
+Is it possible to get the edit cursor position of any focused editor globally using JavaScript or some plugin?

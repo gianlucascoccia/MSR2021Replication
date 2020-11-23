@@ -1,0 +1,1 @@
+Is there any way to restrict nodejs electron app to access to only certain web addresses

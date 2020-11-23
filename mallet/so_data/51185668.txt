@@ -1,0 +1,1 @@
+React Electron App built with asar on gitlab runner creates JavaScript errors

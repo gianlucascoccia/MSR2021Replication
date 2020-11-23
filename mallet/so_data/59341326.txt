@@ -1,0 +1,1 @@
+Firestore Permission denied in production Electron app but requests go through in development

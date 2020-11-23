@@ -1,0 +1,1 @@
+How to handle mouse move and keyboard press in nw.js?

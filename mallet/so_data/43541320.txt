@@ -1,0 +1,1 @@
+webContents.send vs webContents.executeJavaScript

@@ -1,0 +1,1 @@
+Electron setInterval implementation difference between chrome and node

@@ -1,0 +1,1 @@
+SVG won't fit browser window, white bar at bottom of window

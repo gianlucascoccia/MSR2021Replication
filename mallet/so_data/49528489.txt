@@ -1,0 +1,1 @@
+Show status bar in node-webkit

@@ -1,0 +1,1 @@
+securing the source code in a node-webkit desktop application

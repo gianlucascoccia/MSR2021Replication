@@ -1,0 +1,1 @@
+Package.json script error "missing script: package-mac"

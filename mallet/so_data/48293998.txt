@@ -1,0 +1,1 @@
+how to get GH_TOKEN from gitlab project

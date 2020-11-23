@@ -1,0 +1,1 @@
+Use relative path in BrowserWindow.loadURL

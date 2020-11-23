@@ -1,0 +1,1 @@
+How to Disable keyboard shortcuts Alt + Tab in electron app on Windows 10?

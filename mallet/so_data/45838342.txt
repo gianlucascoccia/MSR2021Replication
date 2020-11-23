@@ -1,0 +1,1 @@
+Uncaught Error: Bootstrap's JavaScript requires jQuery on angular 4

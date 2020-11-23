@@ -1,0 +1,1 @@
+How do I set NODE_ENV=production on Electron app when packaged with electron-packager?

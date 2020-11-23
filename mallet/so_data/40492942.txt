@@ -1,0 +1,1 @@
+Open new window with pdf with node-webkit

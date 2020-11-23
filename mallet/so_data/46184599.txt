@@ -1,0 +1,1 @@
+How can I have Travis-CI build my electron app for multiple OSes in parallel?

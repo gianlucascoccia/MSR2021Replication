@@ -1,0 +1,1 @@
+How to execute a Bash command using an Electron platform in Cordova

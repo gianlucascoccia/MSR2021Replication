@@ -1,0 +1,1 @@
+Electron developer tools in separate window not showing on Windows

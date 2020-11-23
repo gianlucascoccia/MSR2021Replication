@@ -1,0 +1,1 @@
+path.resolve(__dirname, 'tools/unzip.exe') crashing with no message on Windows 10

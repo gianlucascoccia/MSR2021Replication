@@ -1,0 +1,1 @@
+Electron app size is 450 mb for linux and 238 mb for windows, how to reduce it with respect to visual studio code

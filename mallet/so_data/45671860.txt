@@ -1,0 +1,1 @@
+Electron reuse command line args when use open -a

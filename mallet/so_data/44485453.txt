@@ -1,0 +1,1 @@
+Cannot set https proxy in nw.js (former node-webkit)

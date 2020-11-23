@@ -1,0 +1,1 @@
+Avoiding circular dependencies with Node require()?

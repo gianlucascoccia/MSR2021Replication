@@ -1,0 +1,1 @@
+Uncaught TypeError with Bootstrap and Angular

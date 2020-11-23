@@ -1,0 +1,1 @@
+Atom-shell + AngularJS - how to open a file save dialog?

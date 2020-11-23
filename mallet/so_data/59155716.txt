@@ -1,0 +1,1 @@
+How to listen to external event continuously in Electron/NodeJS?

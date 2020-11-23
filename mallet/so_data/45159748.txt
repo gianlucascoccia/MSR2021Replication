@@ -1,0 +1,1 @@
+How to get the list of all the printers installed/connected printers in Node.Js

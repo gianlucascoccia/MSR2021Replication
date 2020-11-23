@@ -1,0 +1,1 @@
+NodeError: The "file" argument must be of type string. Received type object when using nightmare

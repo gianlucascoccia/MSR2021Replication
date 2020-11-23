@@ -1,0 +1,1 @@
+Trouble With 'Scope' of Angular Controller In Electron App

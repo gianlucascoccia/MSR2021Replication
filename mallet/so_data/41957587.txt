@@ -1,0 +1,1 @@
+Is there a way to create connection timeout to activate a service-worker?

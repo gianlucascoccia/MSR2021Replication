@@ -1,0 +1,1 @@
+Redirecting after onclick()-event with a-tag

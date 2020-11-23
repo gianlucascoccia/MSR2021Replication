@@ -1,0 +1,1 @@
+Env vars to change app name in project.json and set runtime vars?

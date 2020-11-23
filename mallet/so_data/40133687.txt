@@ -1,0 +1,1 @@
+Angular2 error in Electron app: No Provider for PlatformRef

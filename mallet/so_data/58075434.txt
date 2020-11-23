@@ -1,0 +1,1 @@
+Angular 8 - handling SSE reconnect on error

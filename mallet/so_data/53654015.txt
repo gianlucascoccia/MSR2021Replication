@@ -1,0 +1,1 @@
+getAllData does not include element just inserted, even after callback

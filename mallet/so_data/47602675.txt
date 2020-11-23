@@ -1,0 +1,1 @@
+Play 2.6 with Electron App - CORS

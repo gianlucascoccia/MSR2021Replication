@@ -1,0 +1,1 @@
+Pass array from javascript file to another and then output to html

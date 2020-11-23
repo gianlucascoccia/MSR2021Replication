@@ -1,0 +1,1 @@
+Selenium seems to prevent my binary to open dynamic libraries

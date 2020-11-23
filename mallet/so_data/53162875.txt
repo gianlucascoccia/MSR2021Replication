@@ -1,0 +1,1 @@
+How do I parse a value from JSON file in an array (electron/node.js)?

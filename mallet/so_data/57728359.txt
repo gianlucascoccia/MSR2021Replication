@@ -1,0 +1,1 @@
+I'm getting an error while building electron app in my linux Mint

@@ -1,0 +1,1 @@
+Bootstrap dropdown menu stuck in expanded position, doesn't respond to button

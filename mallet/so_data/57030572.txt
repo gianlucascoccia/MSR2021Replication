@@ -1,0 +1,1 @@
+How to trigger 'new email' window with attachment in nodejs/electron app

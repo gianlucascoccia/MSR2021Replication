@@ -1,0 +1,1 @@
+How to make capturePage work when the window is not visible?

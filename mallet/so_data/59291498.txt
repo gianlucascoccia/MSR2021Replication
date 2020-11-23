@@ -1,0 +1,1 @@
+Why does my Vue Router throw a Maximum call stack error?

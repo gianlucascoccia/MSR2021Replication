@@ -1,0 +1,1 @@
+Electron builder: how to get the update-downloaded feed url in Linux?

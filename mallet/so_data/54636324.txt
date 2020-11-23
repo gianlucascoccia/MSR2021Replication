@@ -1,0 +1,1 @@
+Firebase invalid api key error in console

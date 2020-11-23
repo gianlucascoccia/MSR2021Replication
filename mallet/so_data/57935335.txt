@@ -1,0 +1,1 @@
+I've a project created with VUE CLI and I've installed vue-electron-builder plugin

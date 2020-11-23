@@ -1,0 +1,1 @@
+Uncaught AssertionError: path must be a string error in Require.js

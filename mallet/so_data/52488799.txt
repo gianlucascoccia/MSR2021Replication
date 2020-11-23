@@ -1,0 +1,1 @@
+How to config the electronWinstallerConfig in electron-forge to specify a custom install path for the setup?

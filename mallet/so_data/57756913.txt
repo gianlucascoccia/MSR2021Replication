@@ -1,0 +1,1 @@
+Highchart range selector doesn't show up

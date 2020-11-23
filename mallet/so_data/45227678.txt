@@ -1,0 +1,1 @@
+Electron opening link inside the same window

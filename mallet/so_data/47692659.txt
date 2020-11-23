@@ -1,0 +1,1 @@
+console.log prints the values where return shows undefined

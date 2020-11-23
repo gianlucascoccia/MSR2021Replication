@@ -1,0 +1,1 @@
+Atom Electron does not load local storage

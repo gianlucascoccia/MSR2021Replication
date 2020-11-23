@@ -1,0 +1,1 @@
+npm install sqlite3 --build-from-source error with electron

@@ -1,0 +1,1 @@
+inserts and updates with nedb sometimes fail in my node.js + electron application

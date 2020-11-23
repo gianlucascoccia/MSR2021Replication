@@ -1,0 +1,1 @@
+Electron icon not being set? (Mac OS)

@@ -1,0 +1,1 @@
+How to add a callback to ipc renderer send

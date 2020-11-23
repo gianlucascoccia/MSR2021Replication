@@ -1,0 +1,1 @@
+Calling node js function from main.ts (electron js and angular js integration)

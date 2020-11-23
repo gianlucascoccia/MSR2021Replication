@@ -1,0 +1,1 @@
+Electron / jquery Adding a loading animated.gif to a new opening window (Animation stops)

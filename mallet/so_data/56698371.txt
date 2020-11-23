@@ -1,0 +1,1 @@
+how to enable javascript of remote web page in electron app popup browserwindow

@@ -1,0 +1,1 @@
+NWJS App routing works swell in dev, Build version doesn't routes

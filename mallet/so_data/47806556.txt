@@ -1,0 +1,1 @@
+Object has been destroyed Exception after reopen BrowserWindow on button click in Electron

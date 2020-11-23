@@ -1,0 +1,1 @@
+Import code child_process to Aurelia with RequireJs

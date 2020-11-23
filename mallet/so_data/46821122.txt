@@ -1,0 +1,1 @@
+I'm using electron for the first time and instead of opening the HTML file it takes to to a blank electron page

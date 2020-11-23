@@ -1,0 +1,1 @@
+Electron development - Generate API client based on swagger definition

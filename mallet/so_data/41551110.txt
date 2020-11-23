@@ -1,0 +1,1 @@
+Unable to override app name on mac os electron menu

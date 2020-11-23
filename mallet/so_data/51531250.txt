@@ -1,0 +1,1 @@
+nsis script fails to build in electron-builder

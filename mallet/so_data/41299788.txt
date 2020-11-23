@@ -1,0 +1,1 @@
+Share array between main and window without serialization

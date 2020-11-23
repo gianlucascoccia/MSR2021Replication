@@ -1,0 +1,1 @@
+In Electron, can I access the DOM of a BrowserWindow after fetching a URL if I have set javascript: false?

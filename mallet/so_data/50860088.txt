@@ -1,0 +1,1 @@
+Getting Electron to work with node's bluetooth-serial-port

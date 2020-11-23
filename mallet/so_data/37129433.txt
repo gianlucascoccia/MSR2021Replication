@@ -1,0 +1,1 @@
+How can I prevent net::ERR_INSUFICIENT_RESOURCES errors caused by ng-repeat?

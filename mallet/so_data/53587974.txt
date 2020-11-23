@@ -1,0 +1,1 @@
+Exclude some folders, while doing electron-packager . --asar

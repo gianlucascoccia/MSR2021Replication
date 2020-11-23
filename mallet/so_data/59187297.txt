@@ -1,0 +1,1 @@
+Overlay for Electron when loading in MainWindow | BrowserWindow | BrowserView

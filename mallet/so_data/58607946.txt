@@ -1,0 +1,1 @@
+Use add files dialog in Electron testing with Spectron

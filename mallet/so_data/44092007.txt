@@ -1,0 +1,1 @@
+ReactJS & Electron - Execute Function passed by variable: string

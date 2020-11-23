@@ -1,0 +1,1 @@
+Using voice recognition on nodejs webkit (nw) app fails

@@ -1,0 +1,1 @@
+nodejs v8 garbage collection when calling native addon

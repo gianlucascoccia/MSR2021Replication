@@ -1,0 +1,1 @@
+Can't succeed in making transparent window in Electron (javascript)

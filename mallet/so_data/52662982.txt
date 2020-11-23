@@ -1,0 +1,1 @@
+nuxt and electron - cannot get /

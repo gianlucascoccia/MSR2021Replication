@@ -1,0 +1,1 @@
+Set browserWindow Always on top, even other app is in fullscreen [Electron, MAC OS]

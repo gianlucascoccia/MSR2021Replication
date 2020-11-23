@@ -1,0 +1,1 @@
+How to install a spellchecker in Electron for an external URL

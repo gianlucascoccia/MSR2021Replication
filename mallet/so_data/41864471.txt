@@ -1,0 +1,1 @@
+store the name of a function in a JSON file and later be able to load and call it from within a script?

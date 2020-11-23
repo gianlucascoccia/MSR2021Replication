@@ -1,0 +1,1 @@
+How to hide the menu in the second window in Electron?

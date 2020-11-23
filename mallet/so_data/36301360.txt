@@ -1,0 +1,1 @@
+NW JS window loaded doesnt trigger for a URL but does from a local file

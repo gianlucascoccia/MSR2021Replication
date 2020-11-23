@@ -1,0 +1,1 @@
+Node webkit app not starting (app size 3.8gb)

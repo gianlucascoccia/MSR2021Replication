@@ -1,0 +1,1 @@
+How reopen an already running node-webkit window app?

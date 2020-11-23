@@ -1,0 +1,1 @@
+Javascript - Angular 2 and nw.js WebSocket context

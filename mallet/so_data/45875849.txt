@@ -1,0 +1,1 @@
+Webpack ignores 'browser' field after setting 'target' to 'electron-renderer'

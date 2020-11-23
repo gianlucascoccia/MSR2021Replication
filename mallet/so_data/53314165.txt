@@ -1,0 +1,1 @@
+Electron AppImage for linux doesn't start on systems with libgtk<3

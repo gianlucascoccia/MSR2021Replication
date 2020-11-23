@@ -1,0 +1,1 @@
+How to convert Electron files from 'require' to 'import' for use with TypeScript? Angular2+

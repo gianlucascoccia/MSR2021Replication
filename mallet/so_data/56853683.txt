@@ -1,0 +1,1 @@
+Is there a way to integrate mongo db in an offline desktop app?

@@ -1,0 +1,1 @@
+Electron App which uses GraphicsMagick to resize an image

@@ -1,0 +1,1 @@
+electron drag and drop remote files on desktop

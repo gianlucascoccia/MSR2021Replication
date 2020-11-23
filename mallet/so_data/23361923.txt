@@ -1,0 +1,1 @@
+node-webkit WritableStream doesn't flush until close()

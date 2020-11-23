@@ -1,0 +1,1 @@
+Why Electron is building react app with previous changes instead of latest ones?

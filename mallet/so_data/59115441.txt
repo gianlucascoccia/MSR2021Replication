@@ -1,0 +1,1 @@
+Auto-update Electron app to a specific (non-latest) version

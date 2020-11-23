@@ -1,0 +1,1 @@
+Multiple instances of an electron app slow startup

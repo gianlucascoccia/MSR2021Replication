@@ -1,0 +1,1 @@
+Compiling electron application using electron packager: bug on MACos with uws when opening the executable

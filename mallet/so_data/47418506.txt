@@ -1,0 +1,1 @@
+Progress bar in Electron environment using BootstrapJS not working properly

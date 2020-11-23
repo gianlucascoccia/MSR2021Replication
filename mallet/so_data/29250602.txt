@@ -1,0 +1,1 @@
+NW.js Notification onclick dont execute on windows

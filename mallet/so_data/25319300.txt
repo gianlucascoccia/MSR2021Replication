@@ -1,0 +1,1 @@
+Trigger $digest when variable changed by node.js function

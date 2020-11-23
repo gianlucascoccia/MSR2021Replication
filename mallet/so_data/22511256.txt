@@ -1,0 +1,1 @@
+CEF - undesired trembling effect for animations ( font awesome)

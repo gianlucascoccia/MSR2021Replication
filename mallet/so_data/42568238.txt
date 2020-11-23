@@ -1,0 +1,1 @@
+Node.Js - exit out of exec after continuous commands

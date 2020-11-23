@@ -1,0 +1,1 @@
+How to sign and notarize an electron application build using visual studio code for macOS for outside mac app store?

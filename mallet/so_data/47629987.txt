@@ -1,0 +1,1 @@
+Changes don't propagate through the component

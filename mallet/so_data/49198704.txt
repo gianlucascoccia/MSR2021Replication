@@ -1,0 +1,1 @@
+npm deasync cause crash in electron

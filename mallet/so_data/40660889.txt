@@ -1,0 +1,1 @@
+Info.plist indicates an iOS app, but submitting .pkg

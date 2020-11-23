@@ -1,0 +1,1 @@
+electron builder: how to customize the string values in NSIS installer?

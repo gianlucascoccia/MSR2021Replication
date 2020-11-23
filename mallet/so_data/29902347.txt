@@ -1,0 +1,1 @@
+open a file with default program in node-webkit

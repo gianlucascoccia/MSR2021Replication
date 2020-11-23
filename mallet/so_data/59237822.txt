@@ -1,0 +1,1 @@
+nodejs react functions are not invoked

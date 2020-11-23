@@ -1,0 +1,1 @@
+Cannot require non-native module in electron child_process fork

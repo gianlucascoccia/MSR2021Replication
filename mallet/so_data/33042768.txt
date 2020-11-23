@@ -1,0 +1,1 @@
+Executing Erlang shell command from Javascript (Electron) is not returning any output

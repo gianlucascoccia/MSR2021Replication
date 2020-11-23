@@ -1,0 +1,1 @@
+bluebird - promise chain return unexpected "true" value

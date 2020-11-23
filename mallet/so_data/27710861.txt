@@ -1,0 +1,1 @@
+Failed to convert NeDB Node callback to Bacon EventStream

@@ -1,0 +1,1 @@
+Electron + xmpp.js: How I can Debug SSL Self-signed error messages?

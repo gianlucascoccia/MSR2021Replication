@@ -1,0 +1,1 @@
+Add folder to favorites and change folder icon [Electron macOS]

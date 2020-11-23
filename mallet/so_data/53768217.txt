@@ -1,0 +1,1 @@
+Create and keep track of pop-up window inside of electron app

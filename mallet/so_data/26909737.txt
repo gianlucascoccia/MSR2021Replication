@@ -1,0 +1,1 @@
+How to stop node webkit from stopping on error

@@ -1,0 +1,1 @@
+Catch mouse move event from main process (Electron)

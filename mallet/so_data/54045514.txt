@@ -1,0 +1,1 @@
+Force csv-write-stream to always use doube-quotes (nodejs and electronjs)

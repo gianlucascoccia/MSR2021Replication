@@ -1,0 +1,1 @@
+Summernote and Electron: Uncaught Error: Cannot find module 'jquery'

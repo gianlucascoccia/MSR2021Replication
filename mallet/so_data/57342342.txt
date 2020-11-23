@@ -1,0 +1,1 @@
+How to dynamically remove grid-items using Vue-Grid-Layout - Need to achieve similar results to Vue-Dynamic-Grid

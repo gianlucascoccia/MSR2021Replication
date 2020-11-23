@@ -1,0 +1,1 @@
+Developing a sticky component which will be always on top in Electron or JS

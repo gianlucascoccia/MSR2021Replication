@@ -1,0 +1,1 @@
+Electron osx systemPreferences.askForMediaAccess crashes app

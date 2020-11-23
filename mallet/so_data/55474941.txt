@@ -1,0 +1,1 @@
+Use nodejs class in Electron application

@@ -1,0 +1,1 @@
+how to make virtual keyboard (jquery) work with angular 2 in an electron app

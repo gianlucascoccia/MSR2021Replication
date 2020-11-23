@@ -1,0 +1,1 @@
+Is there a way to run a nodejs script without CLI?

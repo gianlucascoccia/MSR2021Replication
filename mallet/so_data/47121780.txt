@@ -1,0 +1,1 @@
+Angular + Electron ipcRenderer event state problems

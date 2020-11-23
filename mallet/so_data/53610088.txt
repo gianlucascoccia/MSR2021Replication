@@ -1,0 +1,1 @@
+Templating database queries in Electron js

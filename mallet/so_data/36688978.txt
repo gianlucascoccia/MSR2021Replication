@@ -1,0 +1,1 @@
+Node-Webkit: Window object become broken after changing location

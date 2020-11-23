@@ -1,0 +1,1 @@
+When creating an electron wrapper what is the right way to watch for notifications?

@@ -1,0 +1,1 @@
+Keeping page content loaded upon closing the window in Electron

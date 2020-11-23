@@ -1,0 +1,1 @@
+Playing audio in a Mac App Store compatible NWJS app

@@ -1,0 +1,1 @@
+Rendering rails app with electron, but JQuery isn't working

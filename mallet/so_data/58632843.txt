@@ -1,0 +1,1 @@
+Electron forge bundling static assets in build

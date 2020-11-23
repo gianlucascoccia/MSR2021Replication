@@ -1,0 +1,1 @@
+Cannot paste text into modal popup in production build Sweetalert2

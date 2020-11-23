@@ -1,0 +1,1 @@
+electron-builder create .dmg on windows

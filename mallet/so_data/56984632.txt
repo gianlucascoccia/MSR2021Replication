@@ -1,0 +1,1 @@
+Can't make posts requests in Electron using axios (makes only get requests)

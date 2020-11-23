@@ -1,0 +1,1 @@
+Allow node-webkit to be multi-window?

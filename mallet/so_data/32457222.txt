@@ -1,0 +1,1 @@
+Cookies required error upon first login facebook (Atom-Electron application)

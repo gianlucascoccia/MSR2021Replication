@@ -1,0 +1,1 @@
+NodeJS / Electron detect if a file is being copied from a specific folder

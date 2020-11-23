@@ -1,0 +1,1 @@
+Correct way to handle "Unable to Get Local Issuer Certificate" in an electron app

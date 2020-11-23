@@ -1,0 +1,1 @@
+electron-vue: 'module is not defined'

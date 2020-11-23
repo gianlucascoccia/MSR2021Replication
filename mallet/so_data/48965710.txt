@@ -1,0 +1,1 @@
+electron pdf window doesnt work after build

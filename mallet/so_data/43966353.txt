@@ -1,0 +1,1 @@
+Electron & Angular: fs.existsSync is not a function

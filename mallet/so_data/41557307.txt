@@ -1,0 +1,1 @@
+Window's Snap Assist does not find my electron application

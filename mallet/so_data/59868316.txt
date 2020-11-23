@@ -1,0 +1,1 @@
+Got blank page electron.js and angular after try to store stream into local file

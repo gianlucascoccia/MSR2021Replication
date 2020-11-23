@@ -1,0 +1,1 @@
+How to pass variables from electron to the angular behind

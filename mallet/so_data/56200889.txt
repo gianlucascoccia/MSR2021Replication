@@ -1,0 +1,1 @@
+How to stop Electron Window from going Fullscreen when using the Youtube fullscreen button inside of a BrowserView or Webview

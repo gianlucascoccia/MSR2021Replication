@@ -1,0 +1,1 @@
+Update data when value changes Vue Js

@@ -1,0 +1,1 @@
+how can I access local resources that are not zipped into nw package in nw.js

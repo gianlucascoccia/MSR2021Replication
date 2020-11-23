@@ -1,0 +1,1 @@
+Node-webkit run .js file only?

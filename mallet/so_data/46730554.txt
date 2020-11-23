@@ -1,0 +1,1 @@
+Button to open developer Tools in compiled app

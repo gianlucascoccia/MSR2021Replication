@@ -1,0 +1,1 @@
+Textbox gets disabled when alertbox is shown and switching the tabs again makes them editable in Electron

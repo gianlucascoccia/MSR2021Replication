@@ -1,0 +1,1 @@
+Is possible to run application.bat from html button?

@@ -1,0 +1,1 @@
+Unable to use process.env to get environment variable in ~/.profile or ~/.bash_profile in Mac

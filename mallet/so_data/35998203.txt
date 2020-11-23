@@ -1,0 +1,1 @@
+Is it possible enable non-lion-style full-screen on OS X in Electron js?

@@ -1,0 +1,1 @@
+How I can get pixel color from an buffered image with Javascript

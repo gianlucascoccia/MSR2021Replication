@@ -1,0 +1,1 @@
+Cannot open video with cv::VideoCapture in nodejs native module in Electron app

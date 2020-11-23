@@ -1,0 +1,1 @@
+Shared objects/functions between multiple browserwindows in electron

@@ -1,0 +1,1 @@
+if __dirname gets you the folders your in what gets you the root of the project?

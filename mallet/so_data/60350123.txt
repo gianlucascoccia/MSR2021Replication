@@ -1,0 +1,1 @@
+electron winstaller creates shortcut in wrong group

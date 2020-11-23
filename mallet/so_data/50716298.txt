@@ -1,0 +1,1 @@
+Is there a precedent for scripting extensions within Javascript application?

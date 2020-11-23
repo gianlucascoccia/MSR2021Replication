@@ -1,0 +1,1 @@
+How can I access a variable from my main.js file from within a required module?

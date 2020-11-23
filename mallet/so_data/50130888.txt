@@ -1,0 +1,1 @@
+Error when extending from BrowserWindow electron class

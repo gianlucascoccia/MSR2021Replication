@@ -1,0 +1,1 @@
+Error: fs.readFileSync is not a function using Electron

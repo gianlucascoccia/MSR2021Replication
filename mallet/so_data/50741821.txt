@@ -1,0 +1,1 @@
+Transform-origin for an SVG group in Electron is ignored

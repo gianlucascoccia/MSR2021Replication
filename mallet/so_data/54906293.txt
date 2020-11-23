@@ -1,0 +1,1 @@
+Castlabs electron app breaks when running on certain MacOS versions

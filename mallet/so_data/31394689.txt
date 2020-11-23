@@ -1,0 +1,1 @@
+Capturing an element of a page and saving to file

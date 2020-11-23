@@ -1,0 +1,1 @@
+Can we force the mainWindow to focus on some DOM after restore from minimize in Electron?

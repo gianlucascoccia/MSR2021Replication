@@ -1,0 +1,1 @@
+Uncaught TypeError: Cannot read property 'on' of undefined. I have tried to reinstall electron as well

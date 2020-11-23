@@ -1,0 +1,1 @@
+Define file association in Mac with Electron

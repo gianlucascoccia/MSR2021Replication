@@ -1,0 +1,1 @@
+NW.js - "Module did not self-register" when page is reloaded

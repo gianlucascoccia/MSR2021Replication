@@ -1,0 +1,1 @@
+docompress-zip in Node WebKit app cannot unzip downloaded file, downloaded file "corrupt" according to WinRAR

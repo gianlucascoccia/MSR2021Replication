@@ -1,0 +1,1 @@
+Node.js - Google Cloud Speech API - Event listener problem

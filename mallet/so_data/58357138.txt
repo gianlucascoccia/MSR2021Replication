@@ -1,0 +1,1 @@
+How to send a message from main to render when the electron app closes

@@ -1,0 +1,1 @@
+electron dialog box not preventing interaction with page

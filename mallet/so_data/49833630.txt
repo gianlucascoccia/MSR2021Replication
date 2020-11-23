@@ -1,0 +1,1 @@
+I am trying to create multiple tab in my nw application and in the tab i would like to implement attach and detach tab window like browser

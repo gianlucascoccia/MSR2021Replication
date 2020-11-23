@@ -1,0 +1,1 @@
+Why electron-osx-sign fails to produce a signed app recognised by Gatekeeper?

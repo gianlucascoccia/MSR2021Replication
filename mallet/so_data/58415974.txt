@@ -1,0 +1,1 @@
+I want to notify success of the following tasks one after another. How do I do that in electron-react?

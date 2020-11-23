@@ -1,0 +1,1 @@
+'electron' is not a command after installing electron globally

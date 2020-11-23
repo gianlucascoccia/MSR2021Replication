@@ -1,0 +1,1 @@
+Why can't I use functions from javascript-files that are imported by require()?

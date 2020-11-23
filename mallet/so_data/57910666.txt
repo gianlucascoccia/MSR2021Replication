@@ -1,0 +1,1 @@
+React router on electron can't change history

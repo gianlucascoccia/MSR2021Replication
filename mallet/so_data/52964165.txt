@@ -1,0 +1,1 @@
+Electron/Chorimum: texImage2D and putImageData freeze renderer

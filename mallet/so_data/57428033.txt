@@ -1,0 +1,1 @@
+ELECTRON +ANGULAR APP, multiple times ipcrenderer invoked

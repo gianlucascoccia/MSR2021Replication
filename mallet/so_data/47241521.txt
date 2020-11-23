@@ -1,0 +1,1 @@
+"wasm decoding failResult" when app is packaged with electron-forge

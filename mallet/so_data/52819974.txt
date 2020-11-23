@@ -1,0 +1,1 @@
+Electron - ipcRenderer error: Cannot read property 'send' of undefined

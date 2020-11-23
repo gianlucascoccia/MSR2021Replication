@@ -1,0 +1,1 @@
+Binding node webkit nwdirectory to ngmodel

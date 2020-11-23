@@ -1,0 +1,1 @@
+Element type is invalid: expected a string (for built-in components) Error while trying to boot standalone react

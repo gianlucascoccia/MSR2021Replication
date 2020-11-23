@@ -1,0 +1,1 @@
+When to use remote vs ipcRenderer, ipcMain

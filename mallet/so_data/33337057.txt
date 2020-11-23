@@ -1,0 +1,1 @@
+Finder aliases not recognized as symlinks on a Mac with node.js

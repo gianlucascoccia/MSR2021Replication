@@ -1,0 +1,1 @@
+Node Webkit and Web SQL error inserting JSON

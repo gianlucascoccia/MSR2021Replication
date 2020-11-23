@@ -1,0 +1,1 @@
+Running NodeWebkit app fails with: Invalid package.json Field 'main' is required error

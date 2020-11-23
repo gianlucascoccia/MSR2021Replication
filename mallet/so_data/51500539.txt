@@ -1,0 +1,1 @@
+Angular 6 + Electron save images from api for better performance

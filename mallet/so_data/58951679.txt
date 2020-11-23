@@ -1,0 +1,1 @@
+Node execFile detect if application is not correctly open in Electron

@@ -1,0 +1,1 @@
+Detect when the user unlocks the workstation

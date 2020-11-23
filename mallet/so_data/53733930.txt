@@ -1,0 +1,1 @@
+Electron-packager - The "path" argument must be of type string. Received type undefined

@@ -1,0 +1,1 @@
+Implement socket.io in electron app which communicates to a local webserver

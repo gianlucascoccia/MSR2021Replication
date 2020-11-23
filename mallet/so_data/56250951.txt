@@ -1,0 +1,1 @@
+invert reqular expression for excluding folders/files (used for Electron Packager)

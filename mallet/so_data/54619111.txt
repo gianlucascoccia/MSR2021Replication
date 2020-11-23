@@ -1,0 +1,1 @@
+Typescript & Electron exports is not defined

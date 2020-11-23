@@ -1,0 +1,1 @@
+React/Redux Application complete re-renders on changes

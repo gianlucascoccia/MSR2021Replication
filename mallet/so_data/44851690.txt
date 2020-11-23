@@ -1,0 +1,1 @@
+angular1 with electron: ng-dblclick not working

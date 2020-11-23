@@ -1,0 +1,1 @@
+How to add config file into exe. build in electronjs

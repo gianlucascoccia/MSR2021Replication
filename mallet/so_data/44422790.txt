@@ -1,0 +1,1 @@
+Electron Material-ui Linear Progress Bar "mode" prop from redux store

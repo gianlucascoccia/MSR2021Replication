@@ -1,0 +1,1 @@
+Electron and Authenticode - Prevent malicious redistribution

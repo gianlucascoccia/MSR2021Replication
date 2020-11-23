@@ -1,0 +1,1 @@
+How to export an object with methods and properties

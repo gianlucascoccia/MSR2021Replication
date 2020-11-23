@@ -1,0 +1,1 @@
+Prevent default nested scrolling behavior with electron webview

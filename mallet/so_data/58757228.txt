@@ -1,0 +1,1 @@
+Electron project structure, unable to run when in subdirectory

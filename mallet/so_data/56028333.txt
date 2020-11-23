@@ -1,0 +1,1 @@
+setInterval function does not work in Vue template

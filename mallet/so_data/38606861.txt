@@ -1,0 +1,1 @@
+Encoding error when opening Markdown file in BrowserWindow (electron)

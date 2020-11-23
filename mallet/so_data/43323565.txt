@@ -1,0 +1,1 @@
+How to Structure a Web/Electron App - Code will be in both places

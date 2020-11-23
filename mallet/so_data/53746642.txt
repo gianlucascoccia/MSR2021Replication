@@ -1,0 +1,1 @@
+angular/electron app don't show video mp4 when app is in distribution with .exe

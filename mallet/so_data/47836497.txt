@@ -1,0 +1,1 @@
+Electron child process sudo password prompt doesn't pipe to stdout

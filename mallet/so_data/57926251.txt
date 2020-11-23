@@ -1,0 +1,1 @@
+Using Webpack, upgrading electron app version (Windows) not always removing previous version shortcuts and uninstall entries

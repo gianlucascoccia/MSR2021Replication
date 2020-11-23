@@ -1,0 +1,1 @@
+Can't attach debugger to Quasar main process

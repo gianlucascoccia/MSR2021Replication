@@ -1,0 +1,1 @@
+Using Angular2 outside of browser

@@ -1,0 +1,1 @@
+How to get HTTP status code of a page opened in a webview in Electron

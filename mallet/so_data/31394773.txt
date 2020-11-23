@@ -1,0 +1,1 @@
+iojs/electron - Output all in console to file

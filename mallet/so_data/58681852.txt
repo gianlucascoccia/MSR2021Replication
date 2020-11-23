@@ -1,0 +1,1 @@
+Can't get view to update using observables with ngClass binding

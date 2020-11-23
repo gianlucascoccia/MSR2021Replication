@@ -1,0 +1,1 @@
+node-canvas fail after updating node.js and Electron

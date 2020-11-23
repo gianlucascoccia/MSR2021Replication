@@ -1,0 +1,1 @@
+Open new windws with kiosk and chromium-args

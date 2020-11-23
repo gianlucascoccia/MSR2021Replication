@@ -1,0 +1,1 @@
+url scheme: open windows application on request [Electron]

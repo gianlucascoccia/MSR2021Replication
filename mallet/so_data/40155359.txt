@@ -1,0 +1,1 @@
+Can't package my application using electron-packager

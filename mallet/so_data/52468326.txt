@@ -1,0 +1,1 @@
+How to increase the size limit of ELECTRON file size which is limited in window.localStorage?

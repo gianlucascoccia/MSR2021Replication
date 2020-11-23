@@ -1,0 +1,1 @@
+NW.js Chromium logging flags behave differently when specified in package.json

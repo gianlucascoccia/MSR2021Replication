@@ -1,0 +1,1 @@
+Sign an electron app on macos using pfx certificate

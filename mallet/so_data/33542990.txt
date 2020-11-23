@@ -1,0 +1,1 @@
+I Can't get Epoch charting library working with electron app

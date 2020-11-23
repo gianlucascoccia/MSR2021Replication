@@ -1,0 +1,1 @@
+Electron & Express & Nuxt Refused to execute ... the following Content Security Policy

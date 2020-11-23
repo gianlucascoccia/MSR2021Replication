@@ -1,0 +1,1 @@
+Solution to access indexed database using Dexie from a server initialized in electron

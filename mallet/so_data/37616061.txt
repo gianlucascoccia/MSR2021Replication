@@ -1,0 +1,1 @@
+Inno Setup + Node webkit app exe is not showing app icon in taskbar

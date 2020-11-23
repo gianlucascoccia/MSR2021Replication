@@ -1,0 +1,1 @@
+Change PouchDB directory in Electron

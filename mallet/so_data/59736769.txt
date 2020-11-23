@@ -1,0 +1,1 @@
+How can I get an exact copy of Chrome's iframe.contentWindow.chrome object?

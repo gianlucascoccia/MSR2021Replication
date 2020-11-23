@@ -1,0 +1,1 @@
+Why don't arrow functions work in a referenced script in electron?

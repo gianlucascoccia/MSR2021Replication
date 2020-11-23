@@ -1,0 +1,1 @@
+Saving desktopCapturer to video file from Electron app

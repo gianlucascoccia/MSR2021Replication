@@ -1,0 +1,1 @@
+How to access window.crypto in vscode extension (electron)?

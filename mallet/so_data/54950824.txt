@@ -1,0 +1,1 @@
+Electron's (chromium's?) printToPDF() is rendering border-image svg horrendously

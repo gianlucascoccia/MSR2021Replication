@@ -1,0 +1,1 @@
+Electron main and renderer process debug configuration

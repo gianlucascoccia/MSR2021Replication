@@ -1,0 +1,1 @@
+Including html with script, require not defined

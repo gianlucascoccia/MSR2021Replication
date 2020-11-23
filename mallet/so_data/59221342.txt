@@ -1,0 +1,1 @@
+Cannot react to click event in Electron app

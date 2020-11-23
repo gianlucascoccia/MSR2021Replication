@@ -1,0 +1,1 @@
+Data doesn't bind on promise fulfill in node-webkit, AngularJS and mysql

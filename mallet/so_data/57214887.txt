@@ -1,0 +1,1 @@
+How can I stop Electron from "occupying" global keyboard shortcuts?

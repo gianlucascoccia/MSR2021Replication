@@ -1,0 +1,1 @@
+How can I use Sequelize and SQLite3 with NWJS 0.28.0?

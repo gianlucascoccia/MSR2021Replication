@@ -1,0 +1,1 @@
+Hot Module Replacement of a particular module only works once while the App component can be HMR-ed all the time

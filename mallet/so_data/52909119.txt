@@ -1,0 +1,1 @@
+ElectronJS - how can I have the app type for me

@@ -1,0 +1,1 @@
+How to use electron on Jhipster Angular generated application?

@@ -1,0 +1,1 @@
+How to execute node.js protoype function from html?

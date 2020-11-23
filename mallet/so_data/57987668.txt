@@ -1,0 +1,1 @@
+Can't use Discord OAuth2 in Electron application

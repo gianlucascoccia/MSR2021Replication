@@ -1,0 +1,1 @@
+Frameless BrowserWindow in macOS 10.13 (Beta) still displays a title bar

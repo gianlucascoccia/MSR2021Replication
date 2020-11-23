@@ -1,0 +1,1 @@
+errors when building electron from source with gn and ninja on Mac OS 10.15

@@ -1,0 +1,1 @@
+Require relative path in "client-side" JS in electron

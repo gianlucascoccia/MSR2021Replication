@@ -1,0 +1,1 @@
+Angular 2 unit tests/Karma test runner: Coverage reported only of "included: true" karma-test-shim

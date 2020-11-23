@@ -1,0 +1,1 @@
+Creating a new view in Electron in a separate .js file

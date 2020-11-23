@@ -1,0 +1,1 @@
+Node.js: Variable scope behaves differently in Electron and non-Electron script

@@ -1,0 +1,1 @@
+How to trigger autoupdate events in electron for testing purposes?

@@ -1,0 +1,1 @@
+Express js and EJS weird behaviour on render

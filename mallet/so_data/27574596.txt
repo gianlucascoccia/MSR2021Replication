@@ -1,0 +1,1 @@
+Prevent DIV from scrolling on DOM content change

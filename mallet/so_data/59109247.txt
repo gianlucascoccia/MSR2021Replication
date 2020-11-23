@@ -1,0 +1,1 @@
+Cypress (Electron) error on OpenShift "Failed to get 'appData' path" during End-to-end tests

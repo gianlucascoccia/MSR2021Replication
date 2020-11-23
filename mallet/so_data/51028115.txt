@@ -1,0 +1,1 @@
+Prevent electron-builder from packaging required node_modules

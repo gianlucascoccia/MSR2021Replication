@@ -1,0 +1,1 @@
+Renderer process closing when minimize state to maximize state electron with angular

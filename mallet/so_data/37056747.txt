@@ -1,0 +1,1 @@
+Nylas N1 plugin that opens a web page in a Nylas Window

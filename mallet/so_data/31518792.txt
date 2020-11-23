@@ -1,0 +1,1 @@
+electron+figwheel on Mac causes websocket connection error

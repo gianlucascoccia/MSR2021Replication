@@ -1,0 +1,1 @@
+Changing the source of image tag in Electron app

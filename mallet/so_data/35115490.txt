@@ -1,0 +1,1 @@
+Visual studio Code, open current file in External Application

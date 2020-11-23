@@ -1,0 +1,1 @@
+Pass data between 2 different components using emit

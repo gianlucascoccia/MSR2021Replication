@@ -1,0 +1,1 @@
+"process.send" is undefined in both parent and child Node.js processes ("childProcess.spawn" variant used)

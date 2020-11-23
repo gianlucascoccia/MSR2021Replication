@@ -1,0 +1,1 @@
+How to perform function call of the main process in the main process of the electron?

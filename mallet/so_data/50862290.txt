@@ -1,0 +1,1 @@
+publishing my react-app bundled in electron app to github releases

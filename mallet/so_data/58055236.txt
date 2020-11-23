@@ -1,0 +1,1 @@
+The electron crashed event of render process is triggered too late?

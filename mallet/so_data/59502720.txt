@@ -1,0 +1,1 @@
+Having problem running electron on Raspberry Pi4. It works well on Raspberry Pi3

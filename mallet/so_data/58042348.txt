@@ -1,0 +1,1 @@
+Electron doesnt execute https call to local spring server, curl works

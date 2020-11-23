@@ -1,0 +1,1 @@
+mainWindow.on('close') gets called more than one time when I hide mainWindow

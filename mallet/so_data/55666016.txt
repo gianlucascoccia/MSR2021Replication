@@ -1,0 +1,1 @@
+Electron: TypeError: Cannot create property 'default' on symbol 'Symbol(nodejs.util.inspect.custom)'

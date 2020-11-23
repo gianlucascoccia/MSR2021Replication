@@ -1,0 +1,1 @@
+Cannot run Visual Studio code script via symlink

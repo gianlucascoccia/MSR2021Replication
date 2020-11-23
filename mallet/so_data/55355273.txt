@@ -1,0 +1,1 @@
+nw.Window.open function is opening new blank window

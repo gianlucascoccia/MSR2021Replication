@@ -1,0 +1,1 @@
+Highcharts-3D not working with electon app

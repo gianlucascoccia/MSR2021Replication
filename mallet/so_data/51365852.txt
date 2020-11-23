@@ -1,0 +1,1 @@
+Electron: how to close a portable app on pulling out the pendrive

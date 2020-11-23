@@ -1,0 +1,1 @@
+Secure way to store sensitive API details of users (localStorage or database?)

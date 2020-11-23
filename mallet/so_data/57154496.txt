@@ -1,0 +1,1 @@
+HTML input not translating into variable in Electron app

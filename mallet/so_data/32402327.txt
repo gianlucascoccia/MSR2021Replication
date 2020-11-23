@@ -1,0 +1,1 @@
+How can I force external links from browser-window to open in a default browser from Electron?

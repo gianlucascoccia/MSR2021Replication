@@ -1,0 +1,1 @@
+Intellisense in VSCode for electron app development

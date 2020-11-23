@@ -1,0 +1,1 @@
+Configure vs-code to debug electron in Ubuntu

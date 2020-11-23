@@ -1,0 +1,1 @@
+Loading asar file into Electron via Robot Framework / Selenium

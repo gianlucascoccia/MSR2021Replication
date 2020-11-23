@@ -1,0 +1,1 @@
+Vuex action dispatch problem with electron

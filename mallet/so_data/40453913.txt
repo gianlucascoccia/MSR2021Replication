@@ -1,0 +1,1 @@
+nwjs is there way to check if useing the sdk version?

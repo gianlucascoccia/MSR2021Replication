@@ -1,0 +1,1 @@
+Is it possible to use Jasmine without Karma for testing Angular/Node based Nw.js apps?

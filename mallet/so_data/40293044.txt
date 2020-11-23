@@ -1,0 +1,1 @@
+Angular2 accessing binding instance variable within callback

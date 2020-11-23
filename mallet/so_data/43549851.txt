@@ -1,0 +1,1 @@
+On full page load, detect if is Electron

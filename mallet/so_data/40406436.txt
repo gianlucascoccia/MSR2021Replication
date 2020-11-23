@@ -1,0 +1,1 @@
+IPC messages are blocking the process in Electron

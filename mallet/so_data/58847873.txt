@@ -1,0 +1,1 @@
+Electron, IPC communication seems to not be working

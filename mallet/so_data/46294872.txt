@@ -1,0 +1,1 @@
+A JavaScript error occurred in the main process : Electron

@@ -1,0 +1,1 @@
+TypeError: Cannot read property 'showMessageBox' of undefined electron in node js

@@ -1,0 +1,1 @@
+An offline desktop app with Electron alongwith Indexeddb and Fuse OSx

@@ -1,0 +1,1 @@
+nsis uninstaller not deleting registry for electron app - nsh script

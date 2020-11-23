@@ -1,0 +1,1 @@
+SyntaxError: Unexpected token < in JSON at position 0", source: devtools://devtools/bundled/shell.js

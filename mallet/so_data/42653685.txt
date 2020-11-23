@@ -1,0 +1,1 @@
+is it bad practice to use app.quit() to close all open windows in an electron app?

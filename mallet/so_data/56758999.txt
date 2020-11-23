@@ -1,0 +1,1 @@
+Electron app opening all pages upon startup

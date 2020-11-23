@@ -1,0 +1,1 @@
+Electron Angular2(angular-cli) require internal module failed

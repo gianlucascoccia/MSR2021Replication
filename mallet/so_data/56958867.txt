@@ -1,0 +1,1 @@
+Architecture recommendation for cancellable backend calls [zerorpc if possible?]

@@ -1,0 +1,1 @@
+AppX (Windows Store app ) with update option by electron builder

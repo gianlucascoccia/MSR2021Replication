@@ -1,0 +1,1 @@
+ElectronJs with AngularJs: Cookies are not holding values if application is restarted

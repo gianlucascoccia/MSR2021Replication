@@ -1,0 +1,1 @@
+Electron .Net Core . Unable to update database . How to configure sqllite or sqlcompact in Electron

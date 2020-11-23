@@ -1,0 +1,1 @@
+where do I type this for node.js packaging into a .exe file (windows)

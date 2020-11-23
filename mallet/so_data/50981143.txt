@@ -1,0 +1,1 @@
+Electron Updater Not Calling 'update-downloaded' event after downloading new app version

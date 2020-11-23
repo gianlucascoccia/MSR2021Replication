@@ -1,0 +1,1 @@
+How do I use package.json scripts to simultaneously watch for changes on my .ts files using webpack and run Electron?

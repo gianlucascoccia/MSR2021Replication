@@ -1,0 +1,1 @@
+Local native node module causes error: Uncaught Error: No native build was found for platform=win32 arch=x64 runtime=electron abi=75 uv=1 libc=glibc

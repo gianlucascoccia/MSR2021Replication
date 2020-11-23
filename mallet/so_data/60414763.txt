@@ -1,0 +1,1 @@
+ECMAScript class properties not possible in vue electron application?

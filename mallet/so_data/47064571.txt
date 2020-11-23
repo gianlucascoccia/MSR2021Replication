@@ -1,0 +1,1 @@
+Start application with its window hidden

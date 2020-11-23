@@ -1,0 +1,1 @@
+Nedb Not working with javascript closure

@@ -1,0 +1,1 @@
+Angular 6 & Electron: Using a mocked class for unit testing and extend the real class does not work

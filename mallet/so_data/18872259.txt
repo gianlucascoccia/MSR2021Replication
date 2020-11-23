@@ -1,0 +1,1 @@
+Give focus to text-entry field in prompt in node-webkit

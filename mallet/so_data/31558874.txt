@@ -1,0 +1,1 @@
+Highcharts-spline chart's spline disappears and appears on hover

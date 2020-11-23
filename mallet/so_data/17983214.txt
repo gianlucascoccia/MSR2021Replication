@@ -1,0 +1,1 @@
+Node-webkit Shell.showItemInFolder() on Windows XP

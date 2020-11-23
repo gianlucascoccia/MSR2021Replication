@@ -1,0 +1,1 @@
+Electron execute javascript as very first thing on a page

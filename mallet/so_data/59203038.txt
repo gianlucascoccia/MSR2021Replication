@@ -1,0 +1,1 @@
+Is there a way to tell javascript to require something else when something specific is required

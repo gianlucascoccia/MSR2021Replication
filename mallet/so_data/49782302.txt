@@ -1,0 +1,1 @@
+electron/angular app get access to videos in a folder.

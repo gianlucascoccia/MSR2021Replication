@@ -1,0 +1,1 @@
+childProcess.spawn fails when `env` is specified

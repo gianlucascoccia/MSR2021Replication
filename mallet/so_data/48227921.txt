@@ -1,0 +1,1 @@
+How to invoke an Electon app, on click event in Mozilla/chrome browser

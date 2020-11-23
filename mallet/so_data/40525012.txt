@@ -1,0 +1,1 @@
+How to show electron context menu upon right click on table row

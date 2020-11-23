@@ -1,0 +1,1 @@
+Get window, document and body in Electron 5+ remote.BrowserWindow

@@ -1,0 +1,1 @@
+catch the file when we "open with" file to a electron app

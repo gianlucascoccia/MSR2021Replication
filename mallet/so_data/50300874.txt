@@ -1,0 +1,1 @@
+Node JS, NeDB - How make sync return to parent module

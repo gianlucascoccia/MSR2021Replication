@@ -1,0 +1,1 @@
+In NW.js, how can I use chrome browser plugins in dev mode only and ignore them in the build

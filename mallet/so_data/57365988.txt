@@ -1,0 +1,1 @@
+TypeError on Electron's example using Webdriver's client.init()

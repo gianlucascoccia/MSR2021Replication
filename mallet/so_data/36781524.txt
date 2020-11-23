@@ -1,0 +1,1 @@
+Electron and Babel 6 async / await throw unexpected token

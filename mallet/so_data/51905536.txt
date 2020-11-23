@@ -1,0 +1,1 @@
+Webgl rendering slows down on 30Hz monitor in presence of a css animation

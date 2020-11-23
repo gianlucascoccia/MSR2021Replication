@@ -1,0 +1,1 @@
+”//…” in <script> tag is interpreted as “file://” in electron

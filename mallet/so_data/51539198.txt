@@ -1,0 +1,1 @@
+Specifying package dependencies in electron-installer-snap

@@ -1,0 +1,1 @@
+how to preserve electron's default exception window after catching the exception?

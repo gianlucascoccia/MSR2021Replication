@@ -1,0 +1,1 @@
+fs.existsSync is not a function error in Angular & Electron app

@@ -1,0 +1,1 @@
+electron not allowed to load local resource

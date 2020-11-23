@@ -1,0 +1,1 @@
+Why electron apps does not have localStorage object when accesed from development tools? (Ctrl-Shift-I)

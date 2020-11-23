@@ -1,0 +1,1 @@
+Unable to pass result from a function outside of function

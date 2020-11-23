@@ -1,0 +1,1 @@
+How do I go to a new path after signing up in React

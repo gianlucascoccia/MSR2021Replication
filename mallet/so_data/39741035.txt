@@ -1,0 +1,1 @@
+Electron: Get folder structure from client side

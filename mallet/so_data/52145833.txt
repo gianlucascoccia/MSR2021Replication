@@ -1,0 +1,1 @@
+JQuery checkbox.prop('checked') always returns false value

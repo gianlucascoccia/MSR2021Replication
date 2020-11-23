@@ -1,0 +1,1 @@
+canvas.captureStream to viewer was suddenly shrinks from original size [webrtc]

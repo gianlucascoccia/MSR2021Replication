@@ -1,0 +1,1 @@
+electron-packager: Unable to create OSX package "The strict-ssl parameter is deprecated, use download.strictSSL..."

@@ -1,0 +1,1 @@
+AudioContext compromising app performance the more audio files I play

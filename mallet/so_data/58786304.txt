@@ -1,0 +1,1 @@
+How to correctly require Electron BrowserWindow in a class

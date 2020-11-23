@@ -1,0 +1,1 @@
+Is it possible to drag a remote file out of Electron App onto the file system?

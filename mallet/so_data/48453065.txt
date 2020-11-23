@@ -1,0 +1,1 @@
+Filter by extension in Electron file dialog

@@ -1,0 +1,1 @@
+NodeJS ipcRenderer passing custom class as object

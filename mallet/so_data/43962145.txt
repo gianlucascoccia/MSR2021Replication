@@ -1,0 +1,1 @@
+Angular service in Electron get data from Express error

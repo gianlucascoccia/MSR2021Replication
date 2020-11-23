@@ -1,0 +1,1 @@
+Is component.js compatible with node-webkit?

@@ -1,0 +1,1 @@
+Electron browser window size changes when scale factor is not 1 (100%)

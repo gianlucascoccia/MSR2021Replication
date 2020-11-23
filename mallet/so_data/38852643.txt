@@ -1,0 +1,1 @@
+Electron-installer-windows: Invalid URI: The format of the URI could not be determined

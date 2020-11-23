@@ -1,0 +1,1 @@
+Handling onClick of a <a> tag inside of dangerouslySetInnerHTML/regular html

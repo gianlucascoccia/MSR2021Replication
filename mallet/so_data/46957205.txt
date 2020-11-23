@@ -1,0 +1,1 @@
+Electron process object linked to function or global app?

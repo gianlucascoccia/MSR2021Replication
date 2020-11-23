@@ -1,0 +1,1 @@
+socket.io authentification not working on first connection

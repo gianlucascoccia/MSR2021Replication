@@ -1,0 +1,1 @@
+Saving DOM references outside of renderer class

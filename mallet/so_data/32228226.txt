@@ -1,0 +1,1 @@
+Building node-sqlite3 with nw-gyp

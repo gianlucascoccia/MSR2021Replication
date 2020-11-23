@@ -1,0 +1,1 @@
+ipcRenderer in React component constructor

@@ -1,0 +1,1 @@
+Can't write/append to JSON file in Node Webkit

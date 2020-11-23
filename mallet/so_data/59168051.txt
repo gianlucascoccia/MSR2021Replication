@@ -1,0 +1,1 @@
+How to use variable as dot notation address in node.js with Nedb? TypeError 'cannot read property 'find' of undefined

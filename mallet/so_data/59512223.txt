@@ -1,0 +1,1 @@
+How to import and edit a docx file containing a table and an image in typescript without docxtemplater

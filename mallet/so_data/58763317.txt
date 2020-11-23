@@ -1,0 +1,1 @@
+electron powerMonitor shutdown event is not working properly

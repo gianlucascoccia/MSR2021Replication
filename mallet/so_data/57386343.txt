@@ -1,0 +1,1 @@
+How I can avoid error when running an electron project created on Mac in a Windows?

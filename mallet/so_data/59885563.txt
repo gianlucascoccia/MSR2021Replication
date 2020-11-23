@@ -1,0 +1,1 @@
+NeDB not storing to file despite logging everything perfect

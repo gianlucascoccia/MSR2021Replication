@@ -1,0 +1,1 @@
+How do i add more images and text to about panel in Electron?

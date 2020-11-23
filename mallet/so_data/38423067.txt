@@ -1,0 +1,1 @@
+Custom url protocol for OSX desktop app using electron by atom

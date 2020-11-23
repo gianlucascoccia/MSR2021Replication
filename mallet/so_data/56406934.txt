@@ -1,0 +1,1 @@
+Packaging Electron app into ASAR causes module not found error

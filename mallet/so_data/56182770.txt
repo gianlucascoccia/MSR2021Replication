@@ -1,0 +1,1 @@
+Writing automated test cases for electron app build with electron react boilerplate

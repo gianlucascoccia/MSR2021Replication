@@ -1,0 +1,1 @@
+User navigating to site in game client gets HTML response from an unknown site

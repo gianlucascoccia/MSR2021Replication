@@ -1,0 +1,1 @@
+How to communicate with Python back-end from Angular component when using Electron application?

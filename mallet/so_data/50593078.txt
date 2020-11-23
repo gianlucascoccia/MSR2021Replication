@@ -1,0 +1,1 @@
+Why fs.copySync didn't work as expected?

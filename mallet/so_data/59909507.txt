@@ -1,0 +1,1 @@
+electron version 7.1.10, using session.setproxy() to set proxy, but it is not working

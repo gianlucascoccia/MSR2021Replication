@@ -1,0 +1,1 @@
+IPC Communication not working between Electron and window

@@ -1,0 +1,1 @@
+Will JS remove dunamically created element with event listener if it's not connected to the DOM?

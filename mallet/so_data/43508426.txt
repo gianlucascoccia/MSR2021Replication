@@ -1,0 +1,1 @@
+Changing language in electron app (i18n-react)

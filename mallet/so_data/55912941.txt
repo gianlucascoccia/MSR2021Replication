@@ -1,0 +1,1 @@
+Can't resolve 'fs' or 'path' Edge-js and Angular

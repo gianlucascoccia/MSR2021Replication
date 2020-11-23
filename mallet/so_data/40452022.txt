@@ -1,0 +1,1 @@
+Why does the google calendar API get stuck when called from within a promise?

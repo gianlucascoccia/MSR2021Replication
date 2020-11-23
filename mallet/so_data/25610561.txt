@@ -1,0 +1,1 @@
+Node-Webkit get user's Desktop directory

@@ -1,0 +1,1 @@
+Capture screenshot of Electron window before quitting

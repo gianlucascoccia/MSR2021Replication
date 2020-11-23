@@ -1,0 +1,1 @@
+Execute JavaScript method in electron event handler

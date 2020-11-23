@@ -1,0 +1,1 @@
+mat-tab - click triggers ripple effect but not tab change

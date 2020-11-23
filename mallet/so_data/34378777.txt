@@ -1,0 +1,1 @@
+How can I run my electron project from Visual Studio Code

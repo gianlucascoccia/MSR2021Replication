@@ -1,0 +1,1 @@
+Unable to get SQLCipher working with Electron on Windows

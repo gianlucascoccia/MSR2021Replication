@@ -1,0 +1,1 @@
+How to redirect stdout in real time from child process

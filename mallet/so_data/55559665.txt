@@ -1,0 +1,1 @@
+Communication with the menubar window from main process is not working

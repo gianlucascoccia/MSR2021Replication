@@ -1,0 +1,1 @@
+Call javascript from another window to main [node-webkit]

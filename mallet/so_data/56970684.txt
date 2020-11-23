@@ -1,0 +1,1 @@
+Electronjs apparently ignoring maxSocket on HTTP agent

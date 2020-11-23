@@ -1,0 +1,1 @@
+node-webkit: issue on taking e.target from mousedown

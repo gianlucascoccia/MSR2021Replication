@@ -1,0 +1,1 @@
+Error in electron-rebuild serialport on Windows

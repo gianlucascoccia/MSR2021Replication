@@ -1,0 +1,1 @@
+Can Chromium features that are normally turned on via switches be turned on programatically after starting up?

@@ -1,0 +1,1 @@
+Electron splashscreen on startup application

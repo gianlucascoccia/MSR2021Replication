@@ -1,0 +1,1 @@
+window.maximize() fails when window is minimized electron

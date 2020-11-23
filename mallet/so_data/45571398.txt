@@ -1,0 +1,1 @@
+Electron builder is taking only one builder.js file

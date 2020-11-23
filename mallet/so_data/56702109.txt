@@ -1,0 +1,1 @@
+electron : Lodash not working in electron Main process

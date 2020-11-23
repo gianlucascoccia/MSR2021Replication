@@ -1,0 +1,1 @@
+Electron JS using shell.exec when the app is bundled

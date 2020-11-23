@@ -1,0 +1,1 @@
+Keep checkboxes onclick function with jQuery's .clone()

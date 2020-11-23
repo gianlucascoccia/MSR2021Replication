@@ -1,0 +1,1 @@
+What do we specify in "mainWindowUrl" property in .testcafe-electron-rc for executable electron apps like atom/vscode?

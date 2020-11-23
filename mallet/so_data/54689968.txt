@@ -1,0 +1,1 @@
+angular application build in electron print a div shows blank window

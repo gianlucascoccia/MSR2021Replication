@@ -1,0 +1,1 @@
+ability to create a new session for every BrowserWindow object?

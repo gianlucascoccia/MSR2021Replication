@@ -1,0 +1,1 @@
+VueJS best way to append data to a <pre />

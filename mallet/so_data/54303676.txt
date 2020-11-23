@@ -1,0 +1,1 @@
+Electron - intercept all renderer process requests and add additional headers

@@ -1,0 +1,1 @@
+Sqlite_READONLY error with Electron build in MAC

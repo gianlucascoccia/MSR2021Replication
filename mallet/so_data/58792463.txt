@@ -1,0 +1,1 @@
+How I can put a theme (dark/light mode) on my two windows of Electron app?

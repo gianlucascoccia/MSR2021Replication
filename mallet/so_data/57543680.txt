@@ -1,0 +1,1 @@
+Electron Linux: .AppImage is not showing the icon, while .deb is

@@ -1,0 +1,1 @@
+Click function in Spectron doesn't click

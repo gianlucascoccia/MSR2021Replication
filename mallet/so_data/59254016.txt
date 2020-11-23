@@ -1,0 +1,1 @@
+Shared worker working before packing app, but not working after (electron)

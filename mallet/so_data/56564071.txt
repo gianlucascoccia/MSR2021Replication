@@ -1,0 +1,1 @@
+Provide user options in Electron's `showSaveDialog()`

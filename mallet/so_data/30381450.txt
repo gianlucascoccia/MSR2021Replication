@@ -1,0 +1,1 @@
+Open external file with Electron

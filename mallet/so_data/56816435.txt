@@ -1,0 +1,1 @@
+Chartjs display bug when pushing data to graph

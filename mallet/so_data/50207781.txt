@@ -1,0 +1,1 @@
+how to enable remote webpage access nwjs's node environment

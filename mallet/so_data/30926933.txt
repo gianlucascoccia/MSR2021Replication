@@ -1,0 +1,1 @@
+Fast folder hashing in Windows Node

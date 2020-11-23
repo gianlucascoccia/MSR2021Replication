@@ -1,0 +1,1 @@
+running electron app with custom main.js file. Electron rather starts the default main.js file

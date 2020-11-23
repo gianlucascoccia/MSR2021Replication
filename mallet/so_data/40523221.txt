@@ -1,0 +1,1 @@
+Windows builds of an Electron app on Cent OS 64 bit with electron-packager fails with error

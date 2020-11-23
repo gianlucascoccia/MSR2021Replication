@@ -1,0 +1,1 @@
+Electron - Reload mainWindow from another window

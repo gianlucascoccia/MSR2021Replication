@@ -1,0 +1,1 @@
+Get Release Notes from Electron autoUpdater

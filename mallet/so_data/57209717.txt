@@ -1,0 +1,1 @@
+Electron TrayIcon not working properly on linux

@@ -1,0 +1,1 @@
+globalShortcut from electron will disable the original keypress

@@ -1,0 +1,1 @@
+Javascript how to binarize image data from buffer

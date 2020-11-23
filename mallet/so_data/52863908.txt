@@ -1,0 +1,1 @@
+Electron - Bypass X-Frame-options in sameorigin

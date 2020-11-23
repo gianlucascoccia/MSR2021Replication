@@ -1,0 +1,1 @@
+How to receive data in Electron app from protocol link

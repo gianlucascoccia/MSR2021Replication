@@ -1,0 +1,1 @@
+All input forms in MaterializeCSS in electron look smashed

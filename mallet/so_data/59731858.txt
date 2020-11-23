@@ -1,0 +1,1 @@
+HTML: How to use Browse [input type="file"] and retrieve selected directory in Javascript?

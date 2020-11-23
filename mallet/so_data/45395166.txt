@@ -1,0 +1,1 @@
+Proper webpack config for electron - different target for different bundle

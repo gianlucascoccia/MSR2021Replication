@@ -1,0 +1,1 @@
+setting environment variables for node.js child process

@@ -1,0 +1,1 @@
+electron.js print functionality with page size, dpi ,layout, margin settings from main process

@@ -1,0 +1,1 @@
+maximize/unmaximize doesn't work on electron when resizable: false

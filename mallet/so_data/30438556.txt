@@ -1,0 +1,1 @@
+gapi.auth.authorize callback doesn't get called when doing sign-in via Google on node-webkit app

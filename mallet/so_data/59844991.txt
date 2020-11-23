@@ -1,0 +1,1 @@
+Is it possible to close the log-in window of Azure AD B2C after redirecting to an electron using the system browser?

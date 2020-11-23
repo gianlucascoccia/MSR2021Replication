@@ -1,0 +1,1 @@
+Execute javascript (katex) on tinymce content

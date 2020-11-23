@@ -1,0 +1,1 @@
+Electron: can't access main.js from another .js file

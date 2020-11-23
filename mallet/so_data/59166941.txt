@@ -1,0 +1,1 @@
+How to transfer very large images from a python script to NodeJS without causing lag within the node app (electron)

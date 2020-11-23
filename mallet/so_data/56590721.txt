@@ -1,0 +1,1 @@
+Package Electron app with dependent packages such that only the dist/ folder of each package is included

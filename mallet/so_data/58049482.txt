@@ -1,0 +1,1 @@
+Does python depends on microsoft visual c++ redistributable?

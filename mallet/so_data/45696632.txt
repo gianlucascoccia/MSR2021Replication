@@ -1,0 +1,1 @@
+Cannot read property 'format' of undefined - Build on Mac - Open the prog - Ionic 2 with Electron

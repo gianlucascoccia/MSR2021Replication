@@ -1,0 +1,1 @@
+Importing Ramda in Electron app builded by Rollup leads to error

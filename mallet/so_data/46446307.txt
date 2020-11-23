@@ -1,0 +1,1 @@
+searching with criteria in subArray and get result with nodeJS and NeDb

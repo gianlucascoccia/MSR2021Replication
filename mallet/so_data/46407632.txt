@@ -1,0 +1,1 @@
+Can't install electron because of permission error

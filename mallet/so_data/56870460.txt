@@ -1,0 +1,1 @@
+Design pattern to solve event mess in Electron apps with ipcMain and ipcRenderer

@@ -1,0 +1,1 @@
+ElectronJS + Angular CLI, not hot reload? under file:// protocol

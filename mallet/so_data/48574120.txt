@@ -1,0 +1,1 @@
+Should you hide modals or remove them from the DOM in React?

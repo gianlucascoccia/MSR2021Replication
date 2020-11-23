@@ -1,0 +1,1 @@
+'Second-instance' fires instead of 'open-url' in electron on mac

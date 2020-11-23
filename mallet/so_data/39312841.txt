@@ -1,0 +1,1 @@
+Workaround for passing function to ipcMain and back using React, Redux, Electron

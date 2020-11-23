@@ -1,0 +1,1 @@
+Avoid app throttling when Electron is in background

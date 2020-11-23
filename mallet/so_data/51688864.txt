@@ -1,0 +1,1 @@
+Reactjs/Javascript the most efficient way to print to printer a 2d array into table

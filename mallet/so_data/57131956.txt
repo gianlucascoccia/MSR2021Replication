@@ -1,0 +1,1 @@
+NodeJS/Electron: Is it possible to register "STRG+<" as a globalShortcut and how can I do this?

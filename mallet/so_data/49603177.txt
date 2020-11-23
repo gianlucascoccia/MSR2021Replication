@@ -1,0 +1,1 @@
+Bundled JS fails - MIME type ('text/html') is not executable, and strict MIME type checking is enabled

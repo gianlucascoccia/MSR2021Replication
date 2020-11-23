@@ -1,0 +1,1 @@
+Node-Webkit: Application not running by drag drop or running from command line

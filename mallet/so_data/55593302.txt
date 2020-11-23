@@ -1,0 +1,1 @@
+JS error when executing electron app with native module on other computer

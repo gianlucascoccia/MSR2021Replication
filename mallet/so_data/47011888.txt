@@ -1,0 +1,1 @@
+How to refresh the image using Nodejs/Javascript when accessing from file system?

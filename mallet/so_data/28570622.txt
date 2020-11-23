@@ -1,0 +1,1 @@
+Node-Webkit Get video duration from avi file path

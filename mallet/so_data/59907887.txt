@@ -1,0 +1,1 @@
+How do I communicate between my Angular 8 service and the Electron main process?

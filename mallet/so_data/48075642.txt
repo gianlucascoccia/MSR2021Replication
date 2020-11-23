@@ -1,0 +1,1 @@
+Electron, canvas ruins rendering of other elements

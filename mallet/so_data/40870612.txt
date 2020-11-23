@@ -1,0 +1,1 @@
+Angular 2: How do I use nedb with a web only application?

@@ -1,0 +1,1 @@
+electron - node.js - fs.readFileSync requires admin privileges when electron is built and in Program Files

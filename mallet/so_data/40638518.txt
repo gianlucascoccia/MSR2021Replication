@@ -1,0 +1,1 @@
+In electron, BrowserWindow.getFocusedWindow returns null when invoked from dialog.showSaveDialog

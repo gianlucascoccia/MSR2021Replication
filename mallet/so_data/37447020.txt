@@ -1,0 +1,1 @@
+electron + angular2 loading vendor lib

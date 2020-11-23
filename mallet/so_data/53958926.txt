@@ -1,0 +1,1 @@
+electron.clipboard.readText() returns empty string

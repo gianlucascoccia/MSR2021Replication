@@ -1,0 +1,1 @@
+How much memory is available to an Electron app, will it be the same as for the Chrome?

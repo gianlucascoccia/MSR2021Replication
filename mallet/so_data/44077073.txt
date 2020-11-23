@@ -1,0 +1,1 @@
+Javascript Electron remove/ignore a certain item from a list

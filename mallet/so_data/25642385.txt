@@ -1,0 +1,1 @@
+make node webkit app load full screen

@@ -1,0 +1,1 @@
+win.toggleTabBar() not working in electron

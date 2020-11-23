@@ -1,0 +1,1 @@
+Integrating React Admin with ElectronJS app

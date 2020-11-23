@@ -1,0 +1,1 @@
+How to ensure that my electron app is always running as far it is installed?

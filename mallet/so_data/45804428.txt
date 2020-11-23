@@ -1,0 +1,1 @@
+I can't bind image source in v-for loop | vue.js, node.js

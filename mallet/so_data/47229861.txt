@@ -1,0 +1,1 @@
+how can I create link which will be open in a browser not on app

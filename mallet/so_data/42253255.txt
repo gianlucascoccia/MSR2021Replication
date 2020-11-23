@@ -1,0 +1,1 @@
+how cann I show console.log() with gulp

@@ -1,0 +1,1 @@
+Linux, execute operations that needs superuser privilege with Electronjs - Nodejs

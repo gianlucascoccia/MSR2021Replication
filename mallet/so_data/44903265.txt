@@ -1,0 +1,1 @@
+Electron, expose changing global variable to external modules

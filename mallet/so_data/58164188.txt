@@ -1,0 +1,1 @@
+require('electron').app is undefined - how to solve this

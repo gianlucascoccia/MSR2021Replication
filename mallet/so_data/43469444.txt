@@ -1,0 +1,1 @@
+buttonLabel option of electron dialog seems not working

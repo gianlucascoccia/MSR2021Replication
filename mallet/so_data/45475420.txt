@@ -1,0 +1,1 @@
+installing electron app is too slow because of native dependencies that need installing into user end pc

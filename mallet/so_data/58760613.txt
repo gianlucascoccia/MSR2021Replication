@@ -1,0 +1,1 @@
+How can I call an ipcMain command from another ipcMain command?

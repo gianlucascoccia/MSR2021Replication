@@ -1,0 +1,1 @@
+Electron window unable to be resized after being set to minimum sizing

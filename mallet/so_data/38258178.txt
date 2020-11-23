@@ -1,0 +1,1 @@
+Attempt to install `sqlite3` for Electron app resulting in incorrect path

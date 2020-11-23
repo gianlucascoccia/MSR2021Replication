@@ -1,0 +1,1 @@
+electron-packager with angular 2 Error: spawn ENOTDIR:

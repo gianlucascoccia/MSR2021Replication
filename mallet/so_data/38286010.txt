@@ -1,0 +1,1 @@
+getUserMedia not capturing the screen correctly

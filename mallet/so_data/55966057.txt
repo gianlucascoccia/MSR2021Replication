@@ -1,0 +1,1 @@
+Error signing Electron package using Code signing certificate

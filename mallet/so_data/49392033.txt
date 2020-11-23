@@ -1,0 +1,1 @@
+how to communicate with my apps using IP address and socket remotely

@@ -1,0 +1,1 @@
+How to avoid infinite re-rendering with event listener in React Component?

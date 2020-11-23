@@ -1,0 +1,1 @@
+open pdf after generate pdfkit/node webkit

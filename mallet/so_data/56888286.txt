@@ -1,0 +1,1 @@
+Is there a way to wait for the result of an Observable called within another Observable?

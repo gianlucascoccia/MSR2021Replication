@@ -1,0 +1,1 @@
+How to test an app built with atom-shell

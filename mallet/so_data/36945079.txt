@@ -1,0 +1,1 @@
+Webpack not bundling .json file in node_modules properly

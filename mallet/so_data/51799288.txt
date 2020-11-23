@@ -1,0 +1,1 @@
+OpenCV in c++ linked with binding.gyp, does not read Videofile with VideoCapture?

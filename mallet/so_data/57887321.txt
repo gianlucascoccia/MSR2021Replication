@@ -1,0 +1,1 @@
+My nodejs electron packager say warning error

@@ -1,0 +1,1 @@
+Angular 2 electron project compiling is having problems

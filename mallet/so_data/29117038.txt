@@ -1,0 +1,1 @@
+Adding node webkit app as plugin

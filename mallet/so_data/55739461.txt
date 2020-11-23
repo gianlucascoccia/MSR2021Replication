@@ -1,0 +1,1 @@
+TestCafe can't establish browser connection when running against Electron app

@@ -1,0 +1,1 @@
+RangeError: Maximum call stack size exceed when closing a BrowserWindow that is inside an tupple array

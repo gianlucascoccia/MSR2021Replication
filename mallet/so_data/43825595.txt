@@ -1,0 +1,1 @@
+how to get a random record from my nedb database

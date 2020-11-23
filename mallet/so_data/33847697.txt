@@ -1,0 +1,1 @@
+Paste, or otherwise output text outside of an Electron app?

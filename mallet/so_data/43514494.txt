@@ -1,0 +1,1 @@
+Webview in Nwjs can't rrun jquery

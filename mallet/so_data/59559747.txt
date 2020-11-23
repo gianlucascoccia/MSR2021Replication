@@ -1,0 +1,1 @@
+Extending the global scope with a function in Electron/NodeJS via TypeScript

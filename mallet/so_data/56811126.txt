@@ -1,0 +1,1 @@
+Comunication between webview and main window without remote module

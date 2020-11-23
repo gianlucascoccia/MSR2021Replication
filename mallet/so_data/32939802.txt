@@ -1,0 +1,1 @@
+Distributing an application created in Electron/Atom Shell

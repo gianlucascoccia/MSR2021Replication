@@ -1,0 +1,1 @@
+After adding sqlite3 to Electron-forge app, app wont run anymore

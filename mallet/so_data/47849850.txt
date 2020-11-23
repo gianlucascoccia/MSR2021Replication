@@ -1,0 +1,1 @@
+.png Files are missing after build with electron-builder

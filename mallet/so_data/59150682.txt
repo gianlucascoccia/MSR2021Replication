@@ -1,0 +1,1 @@
+Electron - opening GitHub login OAuth link in new window shows blank screen

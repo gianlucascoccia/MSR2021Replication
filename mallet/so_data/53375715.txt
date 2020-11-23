@@ -1,0 +1,1 @@
+JavaScript context translate doesnt work in electron

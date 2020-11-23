@@ -1,0 +1,1 @@
+media is canceled as status only after packaging in electron

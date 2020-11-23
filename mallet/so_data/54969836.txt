@@ -1,0 +1,1 @@
+After redirect, my JavaScript code won't run
