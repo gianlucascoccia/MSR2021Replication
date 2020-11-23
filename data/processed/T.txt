@@ -1,0 +1,9 @@
+node-webkit
+nw.js
+nedb
+electron
+electron-packager
+spectron
+electron-builder
+nwjs
+electron-forge
