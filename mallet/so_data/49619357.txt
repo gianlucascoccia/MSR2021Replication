@@ -1,1 +1,1 @@
-electron-forge wont compile component templates from separate HTML files
+i set up a new project with electron-forg use the angular2 template. it all work fine but then i tri to move a compon templat into a separ html file.i simpli took the exampl html from ?ani advic glad accepted. my childlik joy at the prospect of creat an electron/angular app has been slowli crush today by an inabl to get anyth at all working.thank in advance!

@@ -1,1 +1,1 @@
-electron - electron-builder auto-updater update.yml not found?
+im now use i havent set it up to do proper action or anything, just a simpl messagebox for debug which obvious isnt the best way to do it, but it quick and simple.mayb im miss some functions?

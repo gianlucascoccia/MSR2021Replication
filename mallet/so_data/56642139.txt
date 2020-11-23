@@ -1,1 +1,1 @@
-How to auto start electron app after app quit
+in my case after synchron process finish from backend server app will quit as per below code.but after that i need to run app again by manual click on (.exe). now i am look for solut that can start app automat after app quit.

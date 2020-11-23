@@ -1,1 +1,1 @@
-How to reduce the size of electron app with some packager?
+now i make an electron app with python server init. but after packaging, the size of app is 312m. so i want to reduc size to at least 100m.

@@ -1,1 +1,1 @@
-How to debug electron applications with IntelliJ or WebStorm?
+i'm use intellij as develop tool and i want to know how to debug an electron application?i'm awar there is a standard way to debug electron applications, but this method is done outsid of my ide.i'v tri to creat a new "node.js" "run/debug configuration" using:nod interpreter: the applic never stop on the breakpoint (= debug doesn't work).

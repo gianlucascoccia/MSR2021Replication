@@ -1,1 +1,1 @@
-PouchDB and electron (windows env)
+while play with electron (under windows) i tri to use pouchdb. unfortun it doe not seem to work for me. in my case package.json look like this:i must admit that i tri to rebuild everything, i tri all adapt with no good outcome. i tri to instal sqlite3 addit and fail again.do you perhap have ani other idea what can go wrong with it or where i may expect my mistake?i tri the same code under linux with and without adapt with failure. i think it doe not depend on os

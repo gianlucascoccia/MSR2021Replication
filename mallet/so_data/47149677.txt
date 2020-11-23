@@ -1,1 +1,1 @@
-executing javascript animation inside electron
+i am interest in creat man machin interfac with electron. tri to do a demo with the star trek life sign monitor. found this code that is easili modifi to move up and down : http://jsfiddle.net/anex6vmq/her is my html and javascript:i work most with c, php and python. have not done much javascript, but find node and electron veri excit thing to learn. thank for your attention.

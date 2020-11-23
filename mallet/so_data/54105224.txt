@@ -1,1 +1,1 @@
-Electron modify a single menu item?
+so, i'm build a softar use electron. now i can add menu in the softwar from a templat appears. i can creat the complet new templat in full and just chang the previous templat with the new. but that a bad way and can't be a practic solut when i'm use sever menus with sever submenus. so can i modifi just one singl menu item of my choice?

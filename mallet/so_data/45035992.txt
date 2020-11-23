@@ -1,1 +1,1 @@
-Call javascript file with "start function" and "parameters"
+i'm develop a simpl electon application.i have two javascript file (nodejs). the first file is call the second one.. my code is working...i want to modifi this line : how can i do this in nodejs? thank you

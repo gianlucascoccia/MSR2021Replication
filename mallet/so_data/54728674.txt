@@ -1,1 +1,1 @@
-IONIC 4 ion-content inner-scroll scrollbar color/theme w/ Electron app
+the follow is my attempt to theme the scrollbars:however, this has not made ani impact and i'm still get the same default windows/chrom scrollbars.can someon pleas advise.

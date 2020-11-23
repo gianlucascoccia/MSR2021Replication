@@ -1,1 +1,1 @@
-Electron Load Header/Footer
+i'm complet new to electron, but alreadi love it!but i just wonder how to handl an applic with differ pages.i couldn't write a singl .html file for each page becaus when someth in the header chang i have to do the chang in everi singl .html file.which solut to you prefer and do you have code-snippets?

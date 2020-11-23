@@ -1,1 +1,1 @@
-Electron: Perform sqlite (better-sqlite) db operations in another thread
+i'm develop a desktop applic use electron framework and i'v to use sqlite databas for app data.i decid to use )?sorri for bad english

@@ -1,1 +1,1 @@
-Electron IndexedDb limit?
+in this electron issue, @zcbenz comment "we have the same size limit with chrome browser, which is 1/3 of the of avail disk space'". that respons was from earli 2016. i'v run this code:and it tell me that i have 100% of my free disk space as my quota, so i'm confus and can't find anyth more recent than the 2016 comment, that is also electron-specific.so my questions:ha this offici changed? what happen if you attempt to exceed that limit (assum it not realli 100% of free space)? will electron/chromium ever evict your data?--- electron v3.0.4

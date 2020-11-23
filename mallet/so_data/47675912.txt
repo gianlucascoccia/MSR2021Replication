@@ -1,1 +1,1 @@
-Electron White Flash on every Rendering process
+i'm new to electron js framework. was read plenti of that, want to know how to solv that one. it obvious that on load new html/page or someth that redirect to new html file it call render process on each html call. and that caus that "white flash" befor the new page loads.just to be clear, would like to know how to load html file wihout that flash or mayb it possibl to wait on press till render process of that page is complete?would like to get some help here. thanks!electron version :

@@ -1,1 +1,1 @@
-what is the correct syntax for node-webkit chromium args?
+in my package.json file for node-webkit i have: what is the correct json syntax to for "chromium-args"?

@@ -1,1 +1,1 @@
-how to interact between two electron apps on different machines
+suppos i creat a express server and host it at 8080 on my machine-1 then i can access http://machine-1-ip:8080/ from ani machin within networkif i wrap this api with electron name app1 and instal on machin 1 and creat anoth electron app name app2 and instal it on machin two. is it possibl to make request from machin 2 to machin 1 at http://machine-1-ip:8080 ?

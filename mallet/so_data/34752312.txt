@@ -1,1 +1,1 @@
-Electron File Structure and Building An App
+i'v recent learn about electron and it seem like a nifti way to creat desktop applications. i'v creat a simpl twitter aggreg that work onc i run it launch electron and open a browser window that load my index.html file. howev i have two issues:1) it give me an error in consol - refer error: $ is undefined2) how do get it to run /app/app.j (which is what use the twitter api on the backend)?thi is my github repo: https://github.com/onehunnid/dimmidesktopapp

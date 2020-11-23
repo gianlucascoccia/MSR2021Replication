@@ -1,1 +1,1 @@
-Node.js and aws credentials error
+i'm tri to develop an electron.j app to upload data to aw s3, but i have a problem while tri to load my credenti from a json file. the json file look like that:

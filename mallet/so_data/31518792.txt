@@ -1,1 +1,1 @@
-electron+figwheel on Mac causes websocket connection error
+backgroundi am tri to integr figwheel with electron(atom-shell). i use however, the same project work on linux. googl and no correct result, pleas kind help.

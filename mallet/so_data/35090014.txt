@@ -1,1 +1,1 @@
-Electron How to create menus in the main process?
+the electron document discuss menu creation onli within the render process. sinc the applic menu bar (in my case at least) will be static for my applic it would be prefer to creat just onc onc from the main process.i there a way to do this?

@@ -1,1 +1,1 @@
-Cannot click button in nightmare.js but works in console
+i'v success navig to the correspond page where i want to select multipl element and click a button to confirm. the select of the element work, i'v confirm this with a screenshot, but click the button in nightmar doe not work. when i run the segment in the console, everyth work fine. the button has a random defin id, and everyth els except the innerhtml of the button is not unique, so i iter over all button to match it base on content.it this snippet that relevant.

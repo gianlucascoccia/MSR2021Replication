@@ -1,1 +1,1 @@
-How do I authenticate my electron application using an USB fingerprint scanning device?
+i have an applic written in electronjs. i want to enabl authent via a usb fingerprint scan device. can this be achiev with ani usb fingerprint(fp) scan devic or do i need to look up for the one which expos javascript sdk? doe there exist such fp scan device?

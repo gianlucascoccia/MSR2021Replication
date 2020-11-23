@@ -1,1 +1,1 @@
-Electron.js Prevent refresh for created window
+i'm tri to disabl cmd+r or f5 for refresh my electron app like so:but, unfortunately, it caus prevent refresh entir for all frames, even for other browsers.how can i regist such shortcut onli for my creat window?alternative:i guess, we could use mousetrap as an option for such operation, but i wonder - is there ani kinda built in method for such operation?

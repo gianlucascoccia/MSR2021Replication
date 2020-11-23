@@ -1,1 +1,1 @@
-Context Menu in Electron
+in electron, is there a way to detect the element that the context menu is be click on? i want to enabl this menuitem onli when it is be click on a div with #file as the id.

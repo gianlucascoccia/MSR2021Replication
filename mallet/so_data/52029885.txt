@@ -1,1 +1,1 @@
-Electron - Including HTML files in other HTML files
+hi i am new to electron so i don't know how to do this simpl thing... also tri search befor ask but was not abl to find proper solution. these are three part of my file header, main content, footer ... i want to keep header and footer in differ file so that i can includ them in other file too so that all the page can get same header and footer. in php i use to do include("header.php"); someth like this i want to do in electron i want to includ header.html and footer.html in index.html filepleas tri to give the easiest solut

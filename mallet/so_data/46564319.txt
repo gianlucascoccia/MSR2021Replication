@@ -1,1 +1,1 @@
-Re-size electron app window dynamically
+main.j can do this but i don't know how to put this in a function.i don't know how to get refer of button in main.j to add an event listen on that or how to get the current window and appli some operations.i am new to electron !thank

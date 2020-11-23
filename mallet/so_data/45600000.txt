@@ -1,1 +1,1 @@
-How do I put content in a electron tab using photonkit?
+i would like to build a simpl electron app with a tab interface. at first glanc photon-kit look easi to use. i can display the tab but i cannot figur out how to display ani content in the tabs. i have been unabl to find ani exampl on the web that show how to add content.if anyon could point me to an exampl i would appreci it or mayb if it is not too complex modifi the code i have been experi with to show me how it is done.regards, jim

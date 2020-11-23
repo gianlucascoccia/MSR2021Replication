@@ -1,1 +1,1 @@
-Calling chrome.webNavigation.getAllFrames() in the NW.js extension closes the app
+i am tri to creat an web applic use nw.js with embed extens creat for chrome. but i have stuck with a problem and creat an mvp repositori to reproduc the issue. the link is at the end of the question.th contain a nativ implementation, so i was hope it was supported. also enabl chromium log to file did not give ani clue there.i have creat an mvp repositori here https://github.com/alexeyplodenko/bugreports/tree/master/nwjs-webnavigation.getallframes-crash

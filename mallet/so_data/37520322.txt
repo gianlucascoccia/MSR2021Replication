@@ -1,1 +1,1 @@
-ElectronJS: how to clear all cookies from a session?
+i am creat cooki use the code given below:suppos i have creat 10 cook so in order to delet 10 cook i will have to call the remov function 10 time with the specif details?pleas guide.. mani thank

@@ -1,1 +1,1 @@
-Nodejs Electron App can't find image path
+i'm tri to show an imag on an electron app. i'v includ it via there is no app.asar folder in the resources. how can i get this image?

@@ -1,1 +1,1 @@
-How to check if the electron app is running as Windows App or standalone exe?
+i am develop an electron app. it will be packag as a standalon exe as well as a window store app.if the elect app is run as a standalon executable, i will check for updates.if the electron app is run as window store app, i needn't check for updates, as it will be handl by window store.can anyon tell me if there is a way to find out from within the electron app if it is run as a window exe or window app?

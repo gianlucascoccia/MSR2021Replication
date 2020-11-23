@@ -1,1 +1,1 @@
-Auto Hot key not working in application but working outside
+i have an electron app in which i am use auto hot key.i want to disabl alt+f4 for that i have written follow scriptaft execut of this script i am still abl to close my electron app use alt+f4 but for other applic like for notepad,fold etc script is work fine.for reference: https://www.autohotkey.com/docs/autohotkey.htm

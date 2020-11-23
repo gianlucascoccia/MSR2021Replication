@@ -1,1 +1,1 @@
-How to interact with Electron radio buttons on the tray menu?
+i'm use electron and i'm creat a tray icon for my application. electron own document (https://electronjs.org/docs/api/tray#tray-popupcontextmenu-position-os-x-windows) show that i can have select radiobutton on the menu with the follow code:thi creat the buttons, but i couldn't find anywher on the document how to get event and read data from these buttons. how?

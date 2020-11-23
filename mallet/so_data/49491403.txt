@@ -1,1 +1,1 @@
-How to dynamically load html file into electron-react app?
+i am use react and electron. i need to load some extern html file into one of my components. befor i ad electron to my app was work fine but now i have this error: i tri everything, but noth is working. and i think is becaus of the electron way of build the app. ani ideas?

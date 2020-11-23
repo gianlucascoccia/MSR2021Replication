@@ -1,1 +1,1 @@
-How to read hard disk utilization and stats using node.js or electronjs for windows and mac
+i'm wonder how could i read hard disk util / idl time, hdd type use javascript for window and macos. i have access to nodej and electron api for my app. i can't seem to find ani api or npm packag that allow read of harddisk stat and disk utilization.

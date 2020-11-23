@@ -1,1 +1,1 @@
-Nightmare.js - addEventListener click function won't execute
+i am tri to figur out how to make script click on link and go to some page, and then execut some action. here is exampl that i am stuck with, that doesn't work.so it confus me, not sure whi it won't work.

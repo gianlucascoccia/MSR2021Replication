@@ -1,1 +1,1 @@
-Overlay Electron
+i am wonder if it is possibl to overlay an applic made in electron over a game. essenti similar to how steam overlay in games.i want this becaus we have made a timer web app that time task and are debat make it an overlay if possible. to time certain event in game that reoccuri have no idea if this can be achiev but it is someth high on our list. ani exampl of how this can be achiev or has anyon done this before.thanks,kieran

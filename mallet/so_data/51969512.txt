@@ -1,1 +1,1 @@
-Define CSP HTTP Header in Electron App
+follow the api documentation, i don't understand how to defin a content-security-polici http header for the render of my electron application. i alway get a warn in the devtools.i tried:1) copy/past the code in the api doc, blindly:

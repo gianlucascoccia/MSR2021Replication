@@ -1,1 +1,1 @@
-path.join and electron.openExternal in win
+but i think join path like this could be dangerous.ani way to solv this?i want to use path.join().

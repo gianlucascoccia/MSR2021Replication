@@ -1,1 +1,1 @@
-how can i use adonis js and nuxt and electron and local database like mongoDB or Sqlite?
+i want to creat an app, that can run for desktop and i will use nuxtj and adonis. my issu is how can i add electron js to it and use local databas like sqlite in it becaus when i creat nuxt adoni app i cannot how can i add electronto it and actual how can i handl my databas in this desktop app

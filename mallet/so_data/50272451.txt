@@ -1,1 +1,1 @@
-Electron JS Images from Local File System
+i am new to electron and tri to load imag from the local file system to display it on screen. so for imag from the remot url are work just fine when i doi there ani configur that need to be made to allow the electron to render imag from the local file system or i am do it entir wrong?

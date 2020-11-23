@@ -1,1 +1,1 @@
-Closing all app windows when using Electron
+i am learn to write javascript in electron. i have two windows. a main window and a child window. when the main window close select the x on a window comput i want it to close the entir app includ the child window. the line below work on a mac pc.what is the proper way of do the same thing for window pcs.

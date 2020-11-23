@@ -1,1 +1,1 @@
-Using Media Fragments and preventing the browser from reloading the targeted HTMLMediaElement
+i am work on a program, were i have to use media fragment to keep the user within a particular start and end time frame. and the user will be abl to set the start time and the end time.th process for set the media fragment is a littl bit more involved, but the major question is is there ani possibl way to set the fragment without the browser reload the htmlmediael element

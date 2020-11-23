@@ -1,1 +1,1 @@
-CommonsChunkPlugin doesn't work with electron
+i have an electron app that i'm build with webpack 2. i have a custom modul (so what go on here? is this a bug with electron, webpack, or my code?

@@ -1,1 +1,1 @@
-How to react to toggle menu bar in electron?
+i'm build and app that has exact bound which should remain whatev you do. so it not resizable. how do i react and then resiz the window in the main process, when the menubar is toggled.

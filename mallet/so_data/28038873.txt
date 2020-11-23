@@ -1,1 +1,1 @@
-How to POST headers to the url of every page loaded in an iframe?
+i have been tri to post header usingi get the right url of the content in ifram in console.how do i get the valu post right or get the url in known_url_scheme?thank in advance.

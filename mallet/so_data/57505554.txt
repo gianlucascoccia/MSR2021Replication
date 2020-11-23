@@ -1,1 +1,1 @@
-Invoking an API Gateway Lambda from an Electron/React app using Amplify
+i have a lambda which is trigger by api gateway, which has mani console.logs, includ one on the first line of the handler.if i tri to invok the endpoint from within an electron app use that don't seem to play nice together. ani idea what might be caus this?

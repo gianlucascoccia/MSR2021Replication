@@ -1,1 +1,1 @@
-Native app window in electron DOM element
+i wonder if it is possibl to render a nativ applic in an html element insid electron.a example: render the window media player window in an dom element.so i can control the whole player, but see no nativ window, except my electron app.similar to an iframe/webview but with nativ applicationsfor better understand i creat a exampl image.in the are "normal" html elements.

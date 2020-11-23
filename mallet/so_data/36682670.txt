@@ -1,1 +1,1 @@
-Nodejs send commands to http server to highlight or color the DOM element
+i creat server which listen to data from gaze sensor and a http server which load a html page. i want to highlight the element in html depend on data received. ani pointer to what i should be search or read to accomplish that task. thanksi came across the follow link http://marksoper.me/server-side-dom-manipulation-in-nodejs-with-jsdom-jquery-and-mustache-templates-april-25-2011.html , my intent is not render data, but to in highlight or color the alreadi load data.

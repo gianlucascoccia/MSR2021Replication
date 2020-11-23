@@ -1,1 +1,1 @@
-Electron doesn't render any html after an select box
+i have a basic html form with angular js.this run fine in a chrome browser window. however, when i run this insid of an electron app, the select box render and function fine, but no html is render after it. there are no javascript errors. when i inspect the html, there is no html after the select element in the dom. whi is electron not render the html just like a chrome browser?i am use the latest version of electron, chrome, and 1.4.8 of angular.

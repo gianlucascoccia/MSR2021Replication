@@ -1,1 +1,1 @@
-Electron MAS build file access
+i have a question about my mac app store build. i just submit my app to the app store but got rejected. the onli problem was guidelin 2.4.5(i) - performance. ). i thought have com.apple.security.files.user-selected.read-writ in my entitlements.plist would cover that? thanks!

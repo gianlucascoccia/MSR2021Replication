@@ -1,1 +1,1 @@
-Pop up element outside of main browser window
+i'v been tri to build a maco app with electron and i would like to add an element that is not confin to the main browser window; i.e. it hang off the page.her an exampl of what i'm talk about:can someon give me some guidanc here? is this anoth browser window be render or is it kind of like a sheet?thi feel like such a silli question but i'v poke around in the electron api and the internet and i'm just not sure what i'm look for.if anyon could give me some insight, that would be wonderful. thank you.

@@ -1,1 +1,1 @@
-Is there a way of calling the Electron's element in HTML
+i want to use electron element in html file so that when the url is hit, i can get the data from web page and user detail of the webpage.var uname= username.sync() return me in main.js. how to make use of the usernam that i have got or how can i make use of uname?note: have tri ipc and it did not work out. main.js:-

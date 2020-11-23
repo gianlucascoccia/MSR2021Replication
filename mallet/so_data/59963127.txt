@@ -1,1 +1,1 @@
-How to exclude file when build electron with electron-builder?
+what i want is not exclud unus file, but exclud use file packag into file. how should i config electron-build to exclud this file?

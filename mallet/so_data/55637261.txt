@@ -1,1 +1,1 @@
-How to get the document of an embedded website with JS?
+im tri around with html and found the -tag.i provid an url as src and the websit doe load without problems.howev i canot get the html-code of this inner website. how can i access it with js?i alreadi tri innerhtml, children, childnod etc.htmlcan be seen herehttps://imgur.com/jh2jzkrif anyon has an idea how to access this #document, i would be happi to tri it outthank you in advanc

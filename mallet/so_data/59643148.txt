@@ -1,1 +1,1 @@
-How to run headless tests against Electron app on MacOS?
+there is electron applic and maven test scenario i'm run on maco catalina (orchestr by jenkins).th test scenario run well onli if my desktop user is log in. from https://electronjs.org/docs/tutorial/testing-on-headless-ci i understand that a headless driver should be used. but, as far as i see, xvfb isn't avail for maco catalina. what is the simplest alternative?thanks,vitali

@@ -1,1 +1,1 @@
-Electron Updates with Gitlab
+is it possibl to use the electron built in auto updat with gitlab tags? i have seen that you can use electron with github releases, via electron-builder, but i am not sure the same can be said with gitlab, as the use of github token is required.if there is no option to use gitlab, are the onli other option (a) a self host squirrel server, or (b) github releases?

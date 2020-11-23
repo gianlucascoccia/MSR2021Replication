@@ -1,1 +1,1 @@
-show a page in the right split
+i want to creat a electron app and basic i want to split the window the left side i want to show link and the right side whatev link i click into it show there i think it just html and css stuf but i'm new in electron that my code :

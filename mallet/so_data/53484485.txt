@@ -1,1 +1,1 @@
-jsPDF : Black rectangular box appears when using addimage on node.js
+i am work on an electron.j applic where i am creat pdfs use jspdf on the server side.it work as expect except the addimag property.it creat a rectangular black box in place of imag in pdf.&#xd;&#xd;&#xd;&#xd;&#xd;the same base64 imag work in client side jspdf, but not in node.js.

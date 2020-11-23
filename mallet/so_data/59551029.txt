@@ -1,1 +1,1 @@
-How I use the node module(Ex: Exceljs) in html?
+i want to use the excelj npm modul in html, but it is not working.it is work well in main.js.to solv this problem, i use the requir in html but it is not still working.pleas let me know that how i can use the npm modul in html.

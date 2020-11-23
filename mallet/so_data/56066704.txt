@@ -1,1 +1,1 @@
-How do I remove an eventListener after a button-click?
+i'v got a content edit div like this: but this didn't work.

@@ -1,1 +1,1 @@
-make document.execCommand('insertText', false, 'message') work with draftjs?
+i'm work on an applic which need to insert text into a test in chrome: version 71.0.3578.98

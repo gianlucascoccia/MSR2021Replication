@@ -1,1 +1,1 @@
-Electron webview loadURL POST
+i couldn't find ani similar question on so.could someon show me an exampl on how to use loadurl with post? i'm current do the followingwhich yield "req.bodi {}" in logs.in the electron document postdata is written with uploadrawdata[]. but there is no exampl code. has anyon ever gotten it to work?

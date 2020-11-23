@@ -1,1 +1,1 @@
-Build standalone .exe from electron app using electron-builder
+i'm use electron v6.0.9 with electron-build v21.2.0. here is the packag configur from my build bunch of file for windows.i'm run on maco high sierra v10.13.6 (17g8030). i also tri build on window 10 system but outcom is the same. is anyth misconfigur here or there some more step requir to generat singl instal file for windows?

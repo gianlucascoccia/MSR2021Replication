@@ -1,1 +1,1 @@
-The subtitle doesn't show up for .mkv file when using video tag in electronjs
+the video is play but the subtitl is not show for .mkv onlyi have tri to play .mp4 file and the subtitl is showing.can someon explain the problem here?and also i have tri to extract the subtitl in the .mkv file, convert it to .vtt like these &#xd;&#xd;&#xd;it show clear in the devtool it work yesterday but today the subtitl doesn't show up againth onli thing i do today is uninstal the unus libraryoh and i am use gulp and react in this project

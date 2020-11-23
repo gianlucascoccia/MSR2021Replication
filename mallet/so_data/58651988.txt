@@ -1,1 +1,1 @@
-Electron Angular dynamic import using node file system
+i am use this repositori and i want to import some class to make an app with extensions. when i tri to import the file from a specif folder(i want to import all classes/extens from that folder) use node file system i get the error how i can import the extensions/class in electron(i think electron is the problem, mayb i am wrong)?

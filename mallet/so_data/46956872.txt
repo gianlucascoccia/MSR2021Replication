@@ -1,1 +1,1 @@
-Whole webpage refreshes after invoking process
+i am have this issue: https://youtu.be/gqo_qpskmnu. after do a lot of debug i realiz that the problem is caus by the client.invok process. when it is call the webpag refreshes, and i don't want it to. doe anybodi know what could be caus this problem?

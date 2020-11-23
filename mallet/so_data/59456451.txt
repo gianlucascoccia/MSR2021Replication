@@ -1,1 +1,1 @@
-How to format text color with JavaScript
+i'm use electron to creat a text editor that format text accord to predefin rules.so i'v poke around on stack overflow but this is more complic than other similar question where the format is simpli ad space or extra characters.how can i chang text colour accord to rule and send the format text back into the ui?

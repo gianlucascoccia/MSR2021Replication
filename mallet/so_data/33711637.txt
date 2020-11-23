@@ -1,1 +1,1 @@
-How to update global object
+iam tri to run an extern function insid ...1) how to make it global object,so that everytim the function is call new valu should be ad with the exist values?

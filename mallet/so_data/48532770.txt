@@ -1,1 +1,1 @@
-How can I call with native Swift methods from Electron app using javascript?
+i am look to add in-app subscript to the mac desktop app so i can submit to app store. i have the code written for io use the cordova plugin: https://github.com/alexdisler/cordova-plugin-inapppurchasebut for electron there exist no such plugin.so i can use the nativ swift code from the plugin, but need a way to write a custom plugin so i can call swift method from javascript run the electron app.pleas let me know how to approach this, or point me to the correct resources. thank you

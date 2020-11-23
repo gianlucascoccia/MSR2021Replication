@@ -1,1 +1,1 @@
-getData() missing image src attribute
+when i tri to use editor.getdata(), it` return html code.but if this code includ an img tag, it will return me

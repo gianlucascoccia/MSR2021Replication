@@ -1,1 +1,1 @@
-nwjs chrome extension issue
+i set a domain to my nwjs app, but there a problem with generat name (chrome-extensions://namesetinpackagejson.it), in googl drive api i can enabl onli url that start with "http://". how can i fix this problem? thank

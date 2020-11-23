@@ -1,1 +1,1 @@
-I can't bind image source in v-for loop | vue.js, node.js
+i tri to bind imag sourc in my v-for loop. my array is fill by function and isn't static. my code look that: i hope you can help me =)

@@ -1,1 +1,1 @@
-pass data to included ejs template
+in my templat path but in my templat i can not use the pass data.

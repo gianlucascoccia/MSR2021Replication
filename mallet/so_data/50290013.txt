@@ -1,1 +1,1 @@
-Import libraries in Angular-Electron project
+i'm develop a web applic use angular 5.i have wrap it insid electron becaus of i need to use the filesystem.in order to use the node featur i set the main.j file as follows:on the browser it work like a sharm, but in electron i get this error: uncaught (in promise): referenceerror: toastr is not defin referenceerror: toastr is not defin ...how should i import an extern librari in order to make it work in electron &amp;&amp; browser?thank a lot

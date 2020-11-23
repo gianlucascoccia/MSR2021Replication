@@ -1,1 +1,1 @@
-How can we use react jsx templates in node-webkit
+i'm have troubl use react will have node-webkit tell me uncaught syntaxerror: unexpect token &lt;i have been search and did not find a satisfi solution. the best thing i came up with, is compil the jsx-base file to proper js and store them in a separ directori (use gulp). but this solut annoy me for it mean requir file that are technic not there.what other solut are there?

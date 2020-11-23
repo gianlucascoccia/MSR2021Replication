@@ -1,1 +1,1 @@
-How can JSZip compress large files
+i'm use jszip to make download page(fil download, show progress bar, compress files) in electron, and it work fine unless i compress larg files...for small files(less than around 25mb) it start right after i click a button and show progress of compress well!but when i tri to compress 100mb, 500mb or moreit start and show progress quit late after i click a buttoni this jszip problem? or do i need put more code?

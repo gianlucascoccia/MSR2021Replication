@@ -1,1 +1,1 @@
-Dynamically updating exports Nodejs
+i have this object that is be export and import by other files. initially, the object is empti but dure an event chang ( a button clicked), the object is fill with key and valu but still remain empti in the file that import it. how can i dynam updat an object and then export it with it new values.th code look someth like this:

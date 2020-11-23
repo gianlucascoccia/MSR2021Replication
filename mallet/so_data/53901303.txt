@@ -1,1 +1,1 @@
-Using a function from my main module in a required module
+to save space and to make my code more order i have isol my templat menu in a differ file that is requir in my main file; howev i can't use ani function defin insid my main file in the module. is there a way to fix this besid creat a modul export in the main file and requir in the module?menutemplate.js:i wonder whether there is a clean way to do this.

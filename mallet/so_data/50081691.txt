@@ -1,1 +1,1 @@
-Send Media Stream to Clients from Server
+i need to send a mediastream from a electron desktop captur to a live html5 video tag use express. the problem is that a i can't creat a fs.createreadstream from a media stream. i do not think i need to use web-rtc for this. code is below app.j

@@ -1,1 +1,1 @@
-Electron JS using shell.exec when the app is bundled
+i am tri to build my first electron js app i have everyth work in the dev environ but when i bundl with the npm package.electron-builderit doesn't work in my main.j i am use shellj like this.how can you run script like ffmpeg when the app is bundl what am i missing?thank

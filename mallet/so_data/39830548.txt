@@ -1,1 +1,1 @@
-app.setBadgeCount is not working
+whi can't i use electron.app.setbadgecount() ?

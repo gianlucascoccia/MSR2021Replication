@@ -1,1 +1,1 @@
-build sqlite3 with electron is not working
+i'm tri to use sqlite databas with electron app by follow these steps:1- npm instal --save electron2- npm instal --save sqlite33- npm instal --save-dev electron-rebuild4- //add rebuild and start script to package.jsoni follow all these steps:https://github.com/nodejs/node-gyp

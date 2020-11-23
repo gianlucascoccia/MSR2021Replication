@@ -1,1 +1,1 @@
-How to save the data to local system in electron main window
+i want to store and write the data to the local system file which is enter in the text box given in the electron window is it possibl to achiev this use the electron app ?

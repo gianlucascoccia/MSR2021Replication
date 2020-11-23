@@ -1,1 +1,1 @@
-Electron How to set a device type user agent
+i am make a web browser use electron, and i was wonder if there is a way to make electron report specif user agent inform to trick websit into think they are be render on a phone rather than on a desktop. ani help is great appreciated.

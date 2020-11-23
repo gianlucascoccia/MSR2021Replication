@@ -1,1 +1,1 @@
-Chrome Dev tools in electron app?
+i have found that, while run some electron app, i can access chrome dev tool by press cmd-alt-i, while on some other i can't. i am wonder which is the set to avoid/en this behaviour.

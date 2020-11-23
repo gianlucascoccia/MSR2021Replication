@@ -1,1 +1,1 @@
-Select the path where to download Files in Electron through Browse option
+i am new to electron development.mi requir is to select two file path i.e(sourc path and destin path) from electron app for copi of files.i have tri this code in the child process.th abov code open a file brows dialog which is allow to select a file. instead i need to select onli the sourc and destin paths. is this possibl with electron or even with node.js?

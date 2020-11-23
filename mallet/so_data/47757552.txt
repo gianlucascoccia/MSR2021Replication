@@ -1,1 +1,1 @@
-Add colored titlebar in Electron
+im use node.j and electron to creat a desktop app.i tri to chang the color of my titlebar with electron-titlebar-window packge.i add to my code that lines:how to use this package?

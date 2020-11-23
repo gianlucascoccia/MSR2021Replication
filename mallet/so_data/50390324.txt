@@ -1,1 +1,1 @@
-Folders missing after packaging with electron-packager
+introductionw have an electron app, which use azure-storag for get document from our azur blob.everyth seem to work when we run the app in debug-mode, but when we start the app on itself (packag with

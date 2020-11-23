@@ -1,1 +1,1 @@
-I can't create a working executable with ReactJS and Electron
+i am a bit stuck with my build process.i current have a reactj applic run on react-script for dev and it is run in an electron applic (which is connect to the localhost:3000 instance).i am use electron-build in two phase to generat my app file (mac).i am use yarn as my packag manager.mi package.json doe not fix it and give me the same error refer to the exact same path.

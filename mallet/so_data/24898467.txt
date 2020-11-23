@@ -1,1 +1,1 @@
-How can I start a Meteor instance before launching a node-webkit?
+i have develop a meteor app. i would like to packag this app in the node-webkit app runtim for chromium. i need the meteor server process to run locally. how would i go about start the meteor server process when a user launch the node-webkit app?i know i can start a nodej server instanc with node-webkit like this:server.j file to start the meteor instanc while the node-wekkit app is running?thank for ani thoughts.

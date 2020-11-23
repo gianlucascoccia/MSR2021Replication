@@ -1,1 +1,1 @@
-Module not found in Electron / Atom Shell
+i'm new to npm, node and electron.mi folder look like: like normali in a script tag.i did read how node is look for modules. but that doesn't help caus then it should find it, caus it look in all parent dir for the node_modul folder and then in there for a chokidar folder and in that for the index.j file, which is there.what am i do wrong?it work now, but i have no idea why..

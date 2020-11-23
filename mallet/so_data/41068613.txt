@@ -1,1 +1,1 @@
-NW.js - Hiding window should bring last Application to focus
+long stori short: i'm open a window which should not quit the whole applic when close the window. that work just fine. but close it won't return focus to the last window of the last applic (like chrome or terminal)do anyon know how to give the last window it focus back?thank for ani help!

@@ -1,1 +1,1 @@
-Yield from within a nedb callback
+i have a koa base app where i want to write data to nedb.th problem is shown in the follow short snippet.ani help would be great appreciated.

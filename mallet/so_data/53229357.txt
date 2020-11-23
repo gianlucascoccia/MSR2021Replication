@@ -1,1 +1,1 @@
-Vue.js over electron on an existing application
+i will tri to explain my whole situation:i wrote a cli applic in approach, will the packag be painful?ar there ani benefit in use the npm vue (rememb i onli use to render result that i have alreadi parsed)if you could point me to a resourc that mention this way is great appreciated.i would like to know what can (or definit will) go wrong.thank in advance!

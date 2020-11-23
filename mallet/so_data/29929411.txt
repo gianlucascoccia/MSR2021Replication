@@ -1,1 +1,1 @@
-Disable pinch zoom in webkit (or electron)
+is there ani way to disabl pinch zoom in an electron app?i can't get it to work from insid the web-view with normal javascript method as describ here: https://stackoverflow.com/a/23510108/665261it seem the in cssflags/config for electroni there ani method either for webkit in general, or electron in particular?

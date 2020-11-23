@@ -1,1 +1,1 @@
-Is it possible to access and read localstorage for an electron application
+i have built an electron app that allow the user to move element such as div around the screen, and save their locat in localstorag as a class. this is so when the page reload or is reopen after a session, the chang made persist. i can't get electron to access the local storag though, even on a page change, so i was wonder if there is anyway to make electron go and grab the localstorag classes, or if i can make the page itself do it.

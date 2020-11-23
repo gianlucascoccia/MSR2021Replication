@@ -1,1 +1,1 @@
-react-router v4 - browserHistory is undefined
+i am creat my first react app in electron (mi first electron app too). i have two rout &amp; need to navig from one to another. for that i am use follow code:rooti search web for possibl solut but can't find one! there are mani similar question on so too, but none of it work for me :(

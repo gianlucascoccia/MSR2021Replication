@@ -1,1 +1,1 @@
-how can I make electron open an exe file with a button
+so i am tri to make my own game launcher for fun but i was wonder how could i make a button open one of them use electron. eg. minecraft button open minecraft.ex

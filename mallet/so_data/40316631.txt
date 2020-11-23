@@ -1,1 +1,1 @@
-Error while replacing hashHistory with browserHistory : react
+i am new to react and am use this boilerpl to creat an app.i want to use browserhistori instead of hashhistory, so i made these chang to the and no page describ by the rout are showing. what is miss here and what els do i need to do to remov hashhistori and use browserhistori instead in this app?

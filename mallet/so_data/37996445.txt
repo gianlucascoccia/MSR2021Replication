@@ -1,1 +1,1 @@
-How to trigger node filename.js file in Electron?
+i'm tri to trigger one js file from electron. if i tri the command node test.j in the terminal, it work fine. if i tri the same thing in electron, i'm get an error thank in advance.

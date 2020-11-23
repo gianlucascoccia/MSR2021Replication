@@ -1,1 +1,1 @@
-Error loading extension with localization
+my nw.js app sudden stop work on window 10 with the follow error;i don't know what window has chang recent but it has been work solid on previous version of window for years. i'v updat the countri tag as per avail languag pack for window here and chromium tag but still no luck.

@@ -1,1 +1,1 @@
-NodeJS + Electron - Optimizing Displaying Large Files
+i'm tri to read larg files. currently, i'm follow the nodej document on how to read the larg file but when i read a somewhat larg file (~1.1 mb, ~20k lines), my electron app freez up for about 6 minut and then the app finish load all the lines.her my current code tag.what are some way that peopl have display larg files?

@@ -1,1 +1,1 @@
-How to delete a source map script
+for a hobbi project i'd like to load and debug code in nw.js (chromium base node-webkit)dynamically. i learn that i can have dynam creat function show up in the devtool sourc list by append it with a certain format comment ().if there is a way to add dynam creat code to the sourc map,then there probabl also has to be a way to remov it from there again (except the manual way). am i unawar of some exist devtool source-map api that let me delet these sourc programmatically?

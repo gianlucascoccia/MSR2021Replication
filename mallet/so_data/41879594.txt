@@ -1,1 +1,1 @@
-Can I make a portion of JS run continously?
+i'm work on an electron app(first time use electron). i'm also veri new to javascript so pleas excus my stupidity. in the index.j file i have this method to check if a network connect exist and updat a div element accordingly-i want this to run continu and as soon as the user disconnect from the internet, chang the text to "not connected"i tri use a onkeypress event listen in my index.html file but couldn't get it to work.also i'm wonder if there is a better way to achiev this purpos than an event listener.

@@ -1,1 +1,1 @@
-How to use Electron menu to execute angular 7 navigation
+i am use angular 5.2.11 with elect version 3.0.7 and am tri to use the electron menu to navig to an angular 5 component. when i click on the electron menu it navig to the page but my compon onli execut the constructor not ani of the angular lifecycl hook until i click in the electron window. then the page load and work as it suppos to.menu.j file:it seem mainwindow is not get focus? what am i do wrong?

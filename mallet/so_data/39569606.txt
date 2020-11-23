@@ -1,1 +1,1 @@
-NodeJS - MySQL remote mysql connection timeout error
+we are use godaddy. we want to connect to remot mysql by mysqlj and nodejs. it work on local server but it doesn't work on live server. we are receiv alway same error:error: connect etimedouterror connect to dbhere is my connect code:

@@ -1,1 +1,1 @@
-Can I show "dev tools" embedded in a page using Node Webkit (nw.js)?
+i'm use ) embed at the bottom of an html page.i this possibl without ad an ifram to ani page i want to do this?her the doc that seem to onli suggest do this use an iframe.thanks!

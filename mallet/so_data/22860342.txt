@@ -1,1 +1,1 @@
-Packaging node-webkit App Game Closure
+i'm tri to packag a game closur webapp i develop with node-webkit, but when i tri to open it with the nw.ex it give me this error:i think the problem might be relat to some import that doesn't work (probabl jsio?).can someon suggest me what go on?obvi the app work perfect if i open it in a browser(test on chrome and firefox).

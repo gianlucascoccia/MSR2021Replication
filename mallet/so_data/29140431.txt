@@ -1,1 +1,1 @@
-All requests via Proxy in Node-Webkit
+is there a way to forc node-webkit to use proxi set for all request ? i know there is an api solut use but now my problem is to tell node-webkit to use this for each request.ani solut ?i'm quit new use node and node-webkit so mayb there is a better way to do that.thank a lot !

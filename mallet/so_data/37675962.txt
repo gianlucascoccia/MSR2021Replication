@@ -1,1 +1,1 @@
-Finding out my User Agent on Node Webkit
+when use browser context in node-webkit, is there ani way to find out what is the exact user agent use for extern requests, from within node-webkit?example: if node-webkit load an imag that in an html from some remote, i would like to know what the user agent this remot will see.us a sniffer (fiddler/wireshark) is trivial, but i'm look for a method to obtain this inform directly.thank you.

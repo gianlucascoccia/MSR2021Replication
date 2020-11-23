@@ -1,1 +1,1 @@
-Best way to use lokijs with angular2 and electron
+i'm new to nodej and electron development. i'm build a desktop applic which i need to use lokij as the databas engine. is it correct to initi the communic with lokij insid the electron render process ? or should i do the lokij communic in main process and communic via ipc ? what is the best practic to access lokij insid electron togeth with angular.

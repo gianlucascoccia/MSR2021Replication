@@ -1,1 +1,1 @@
-No member named ForceSet
+i'm play with nodej and electron. use node is there ani way i can avoid this error?

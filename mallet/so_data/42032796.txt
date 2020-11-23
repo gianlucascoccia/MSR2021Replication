@@ -1,1 +1,1 @@
-Nedb updates are adding new records instead of updating existing one
+i'm realli struggl with this so i'm hope someon can help me to understand whi i'm get this behaviour. i have a file with the follow record in itani idea whi my record is duplic with the new valu and not just get updated?

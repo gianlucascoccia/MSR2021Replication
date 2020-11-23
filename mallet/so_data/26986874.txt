@@ -1,1 +1,1 @@
-how do I programmatically change icon of a Windows executable and Mac application?
+when distribut standalon applic built on node-webkit or atom shell, we are realli just distribut the framework binari but with our applic content in a subdirectory.w can of cours renam the execut to our applic name, but can we also chang the icon (prefer from the command line for autom a releas workflow)?

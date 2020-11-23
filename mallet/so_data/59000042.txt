@@ -1,1 +1,1 @@
-How to run NPM using a specific Node interpreter?
+i have an electron project that use nativ libraries, some of which have prebuild that get download dure . this grab the prebuild for the global node version run npm, which isn't quit what i need. is there a way to execut npm explicit use the electron binari in my project?

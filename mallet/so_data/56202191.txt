@@ -1,1 +1,1 @@
-How to integrate oAuth login with a packaged electron app
+i have been work on a new electron app with react that use the spotifi api. i am use oauth to authent with spotifi and a return an access token, this whi fine in a local dev env as the app if run on the webpack dev server and can provid a callback url.howev the when the electron app is packag up and instal it is no longer use the dev server and the js bundl are packag up with the app.at this stage how am i suppos to hit the oauth server and return a valid callback url to get the token?

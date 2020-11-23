@@ -1,1 +1,1 @@
-Electron BrowserWindow.unmaximize() Custom Window frame dont work
+i have a problem use browserwindow.unmaxim in electron and browserwindow.ismaximizedbecaus im make a applic with a custom window frame this is a big problem that it not workingher is my code::

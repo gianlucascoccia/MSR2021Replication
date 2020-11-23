@@ -1,1 +1,1 @@
-In electron how do I load a URL as my launcher instead of a local file
+i am develop an electron application, i was wonder if i could load a url instead of a file insid of package.json ("main": "loader.js",)i'v tri replac the file with a url and it say it can't find the app!i expect that electron accept the url and load the app

@@ -1,1 +1,1 @@
-Detect screen lock in Node WebKit
+i'm develop an applic for window use node webkit and want to perform some task when the user lock the screen like stop some timers. is it possibl in node webkit. i look into screen geometri but it seem to offer onli detect number of screen main for multi screen apps.thank

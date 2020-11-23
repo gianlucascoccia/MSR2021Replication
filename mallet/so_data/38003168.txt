@@ -1,1 +1,1 @@
-Retrieve tray position on menuItem click
+i'm tri to retriev the posit of the tray icon when one of the tray menu item () is click in order to open a window at that position.first i though of use the tray click event to store the bounds, but none (click, clicked, double-click, right-click …) emit ani event.anyon with ani suggest how to solv this problem?

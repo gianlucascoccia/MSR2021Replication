@@ -1,1 +1,1 @@
-JQuery Ui and Electron
+i'v recent start tri to make a desktop applic use electron and got jqueri work in the app.i instal the follow packag with

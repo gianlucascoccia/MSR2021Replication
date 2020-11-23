@@ -1,1 +1,1 @@
-Make Vue watch for changes of class fields value of non-store class
+below code is the electron applic use vue and written in typescript. when electron main process will generat package.json, "not yet" label (of course, in render process) must chang to "done":

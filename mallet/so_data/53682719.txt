@@ -1,1 +1,1 @@
-Python: no module named 'bottle-websocket' when running an executable made with PyInstaller, including Eel module
+i was play around with the error: pictur with the error while i tri to start the exeedit: pyinstal log

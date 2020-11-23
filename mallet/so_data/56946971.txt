@@ -1,1 +1,1 @@
-Why my electron with angular app is using 31 threads in activity monitor
+cpu and memori usag of app look normal but when i run it, mac heats-up.on notic thing was so mani thread use by app. i am use a lot of child processes. i have a list of task and for each task i creat a new child process, problem might be there. but i could not figur out exactly. cpu usag of app:memori usage:

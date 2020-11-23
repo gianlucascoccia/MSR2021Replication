@@ -1,1 +1,1 @@
-Electron and typescript "Cannot find module 'electron'"
+regard https://electron.atom.io/blog/2017/06/01/typescriptelectron support typescript but is not work on my setup:i use vscode 1.16.1here is my package.jsonthen is ok i don't have the error anymore. howev i would like to avoid referenc file like this as it seem it useless with the latest version of typescript (see how do i import other typescript files?) and moreov in the electron tutori for typescript they don't need it ...)thank

@@ -1,1 +1,1 @@
-Electron app installed but doesn't appear in start menu
+i'v creat an app use electron, and bundl it in an installer).becaus of this, onc the app is closed, the onli way to open it back is run again the installer.whi doe this happen? is there ani way to make it appear with the other programs?

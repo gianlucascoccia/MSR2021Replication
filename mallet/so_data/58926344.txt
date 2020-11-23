@@ -1,1 +1,1 @@
-Spectron: how to test Electron `shell.openExternal('some url')`
+i'm write and e2e test for an applic written in electron. i need to test a button which call in effect is an extern website. i'v been look in the webdriv doc for someth which allow the test intercept this call, but it doesn't look like anyth like that exist in the api at all.1) if someth like this doe exist an i miss it in the docs, pleas enlighten me in way of the light side of the force,2) if not, then doe anyon out there in stackoverflow land have a fanci work-around?thank so much!

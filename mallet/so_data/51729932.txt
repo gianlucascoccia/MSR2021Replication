@@ -1,1 +1,1 @@
-React - Redux - Electron app Routing
+i'v just start my new project, which should be built use react,redux and electron, now i am stuck at rout problem. i want to use react-router-redux, but becaus it is not compat with new react-rout 4.3.1 i'v decid to use onli new react-rout and not react-router-redux with react-router3.0, but i am not sure if this is good idea for long term. pleas give me ani suggestions, thank you!

@@ -1,1 +1,1 @@
-Create Windows 95, 98, 2000, XP NT, 7, 10
+i come across the follow link - https://github.com/felixrieseberg/windows95run window 95 as electron app is it possibl to creat ani exist applic as portabl or cross-platform use electron like above?can we use window 7 or 10 like abov without oracl virtual box or vm in an exist window 8 machin ?need more detail on how it is possibl to bring an applic via electronthanks.

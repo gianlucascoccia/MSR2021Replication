@@ -1,1 +1,1 @@
-Electron Desktop Application communicating with remote NoSql server
+i'v begun to dive into develop a desktop applic with electron. i have been interest in pair this applic with a nosql databas to creat users, display data, and do crud operations. i'v consid databas such as mongodb and couchdb, and i'm curious if creat a desktop applic that communic with a databas host elsewher is a feasibl goal.i'm hope that someon here can help direct me to great resourc on creat a desktop applic that work with a remot nosql database. ani advic here would be great appreciated!

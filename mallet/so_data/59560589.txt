@@ -1,1 +1,1 @@
-Use Spectron or selenium test electron based application, start Electron from cmd need pass parameter, how to pass parameters?
+i have electron base applic need to automate, but start exe need to pass parameter, how to pass paramet when use spectron or selenium to do the automation?her is the cmd to start electron:

@@ -1,1 +1,1 @@
-Sending all electron HTTP requests through a proxy.
+how can i send all http request made from electron through a custom proxy? i have an electron app make request to various 3rd parti servic like firebase, mixpanel etc. i want these request to be rout through a http proxi that i configur insid electron. how can this be accomplished?

@@ -1,1 +1,1 @@
-electron change position of dev menu
+is it possibl to make my devtool dock to bottom by default?i am complet new at electron, and this project took me 8 minut to set up so excus my design.what i want

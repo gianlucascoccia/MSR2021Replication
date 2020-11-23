@@ -1,1 +1,1 @@
-Packaging node webkit application trouble
+i want to packag a nodewebkit applic for windows. i follow this tutori https://github.com/nwjs/nw.js/wiki/how-to-package-and-distribute-your-apps#mac-os-xi got the .ex file, but can't execut it.

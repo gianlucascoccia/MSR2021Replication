@@ -1,1 +1,1 @@
-EPERM error in nodejs when calling execSync
+in my electron app in window (which i believ use node.j or io.j under the hood?), i'v got the follow line of code which is problematic:whi is this error occurring, and how should i chang the abov code?i imagin it is due to a differ in how stdout work when a process is start via the command line vs. when it is start via explorer, but i don't understand io well enough to know what is go wrong here.

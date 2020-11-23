@@ -1,1 +1,1 @@
-NodeJS + electron paths
+i'm tri to figur out how to predict path within the code in an electron packag app with asar flag.us window (one exe file) and mac (one .app packag folder) - each final includ an asar file, to contain the node scripts.i want to access the folder where the exe is on windows, and the current packag app parent folder. and travers down doe not help, sinc there is a differ amount of subfold on win and mac.ani help is great appreciated.seem to be relat to how to get the origin path of a portabl electron app?

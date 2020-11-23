@@ -1,1 +1,1 @@
-Update data when value changes Vue Js
+i have quit a complic situat and i'm not amaz at vue so i need some help.i have a firebas db that get an array (clients) and display it. )

@@ -1,1 +1,1 @@
-Need to filter the systeminfo findstr
+i'm tri to present the user and comput inform in a electron desktop app and so far it look good. howerv i need to refin it by filter out the

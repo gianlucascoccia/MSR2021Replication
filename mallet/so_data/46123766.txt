@@ -1,1 +1,1 @@
-Cannot access firebase from within an electron app
+tri to build an electron app use to the list of author domain as googl doesn't consid it a valid domain name.update: i would still love to know if anyon has a possibl workaround but i found a tool call nativefi (https://github.com/jiahaog/nativefier) which work for my purposes. sinc i am simultan develop a web app and a desktop app, onc the web app is be hosted, can use nativefi to build the desktop app

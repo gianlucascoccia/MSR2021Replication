@@ -1,1 +1,1 @@
-How to add folders and files to electron build using electron-builder
+i am creat an electron which run react generat from create-react-app. then i add nedbjs(a persist database) and camojs(odm for nedb) as dependency. to connect react with nedb i use electron ipc.her is my project structure:and here is my package.json:i use command yarn electron-pack to packag my app. and then run the unpack execut from dist folder then got this error:her is my repo

@@ -1,1 +1,1 @@
-Trying to include WebdriverIO into Angular Electron App
+background: i'm current tri to implement the basic webdriverio exampl from insid an angular electron app. my app is base on the angular electron boilerplate. i have instal webdriverio and @types/webdriverio via npm. then i creat the follow service:i think this issu seem to be most typescript configur related, but i'm not shure. i don't realli know where to look at. could someon mayb tell me what i forgot?

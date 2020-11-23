@@ -1,1 +1,1 @@
-Node-Webkit: How to play AVI videos?
+i am tri to make a simpl node-webkit app that let you play .avi video (which should work both on window and mac). is there a way to do this with node-webkit?

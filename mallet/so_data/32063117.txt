@@ -1,1 +1,1 @@
-Monitor HTTP Requests made by iframe in node webkit
+i am develop a node webkit app which load an iframe. is there ani modul in nodej which will allow me to track all the post request made by the iframe?i have seen there are certain node modul which allow you to track request made by the server, but i wont be creat a nodej server as such and i would like to track the request made by the ifram only.

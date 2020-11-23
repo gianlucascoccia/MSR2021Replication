@@ -1,1 +1,1 @@
-How can I use ffplay from Electron.js app?
+i'v instal how can i get access from my javascript code to this binari for play video or how can i get ready-to-us binari which is a built-in for my electron app?...or how can i get all of ffplay possibl for play video insid electron app?thank in advance!

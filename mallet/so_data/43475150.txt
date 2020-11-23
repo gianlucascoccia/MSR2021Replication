@@ -1,1 +1,1 @@
-I can display data from JSON file with AngularJS but not the way I would like to
+i'm use angularj 1.6.4 and nedb.when i tri to get everi user in the database, nedb return me a json file with everi users.so i tri to display them with angularj but when i tri to display them with edit 2: tri the solut of @pansulbhattpansul bhatt solut

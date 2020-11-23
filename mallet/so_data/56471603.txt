@@ -1,1 +1,1 @@
-Electron Jquery click not working with table elements
+for some reason click with jqueri doesn't work with tabl ani idea whi this is?electron version 5.0.1.chromium version 73.0.3683.121

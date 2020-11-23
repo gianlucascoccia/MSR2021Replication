@@ -1,1 +1,1 @@
-Some SQLite tables can not be created, but others (using the same approach) can
+i am make an electron application, which use an sqlite database. insid of the app directory, i have a folder name db and as a child, anoth one - seeder. in that seeder directori there are a bunch of .sql files, need for creat the db architectur and seed the databas with inform needed:

@@ -1,1 +1,1 @@
-Working when run, but not when built
+im on macos. i am creat a simpl electron app. when i run the app with whi is this work when i run it with node, but is not work in the build? how can i fix this issue?

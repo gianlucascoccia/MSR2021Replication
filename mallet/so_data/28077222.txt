@@ -1,1 +1,1 @@
-is it possible change user-agent for a single window?
+i open a second window like that... it possibl chang the user-ag or other valu for this window??

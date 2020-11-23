@@ -1,1 +1,1 @@
-Microsoft Azure login fails in electron app
+i am tri to integr microsoft azur ad login function use ms-adal-angular6.thi project is on angular-6 to creat a desktop applic use electron.everywher the login work fine except when i creat the under portal.azure.com -> azur activ directori -> app registr -> settings(of one app) -> redirect urls. but system didn't accept it.what i want to achiev is that this electron app should work in ani system(window for now) without issu of azur login. can you help in determin what i could do differ to make this work?

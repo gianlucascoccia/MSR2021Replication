@@ -1,1 +1,1 @@
-How to reopen electron application which in tray, from the dock or task-bar icon in Windows?
+i have an electron applic which use vue for the templat part.th applic will move to the tray if we click on the close button.i need to re-launch the applic from the dock/app-icon/task-bar icon which is not happening. not abl to re-open the applic from tray or we can say it alreadi active.bellow is my electron main process code:

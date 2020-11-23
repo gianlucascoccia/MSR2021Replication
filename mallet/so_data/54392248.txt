@@ -1,1 +1,1 @@
-ElectronJS print HTML document height problems
+i'm work on a electronj and reactj project to build an applic that print document (as web html format) use thermal printers.therm printer print document on special paper with 50mm or 80 mm of width but it has no limit of height.i use reactj to generat html content and css3 print media style to hide screen content i think my issu is veri close to this one.ani idea will be helpful,

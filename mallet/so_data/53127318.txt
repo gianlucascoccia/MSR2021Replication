@@ -1,1 +1,1 @@
-Why my ui thread is blocked even though i am using promise?
+i am read some .dbf file select by user and write that data to an excel file. i am use electron for this purpose. my code is work fine, but it block the main thread for a while. here is my code:a you can see in the code that after select the file i am call fromfileasync function which return a promise. and as far as i know, promis doe not block the caller. then whi on my side, the code is block my ui, till a new file has been created?

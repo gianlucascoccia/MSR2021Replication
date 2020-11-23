@@ -1,1 +1,1 @@
-An app.js file for every feature in my electron web app
+i am group my electronjs(angular,mysql) applic file base on feature, for example, i am develop an inventori system, and this is how i organ my file:mi question: is it ok to have sever app.j file for each featur my app would have?

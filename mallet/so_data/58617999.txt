@@ -1,1 +1,1 @@
-Ionic 4 and Electron - 2 way binding giving error
+brief description: i am use ionic 4 and electron. i have use a simpl code in my

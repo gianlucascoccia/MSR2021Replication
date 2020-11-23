@@ -1,1 +1,1 @@
-electron javascript separate classes in different files
+for simplic i want to keep my main.j clear and outsourc class for the differ window in separ files. i have no idea how to refer the files.it should look like this but electron doesn't recogn my mainpage.j file, usual in javascript this is no problem.

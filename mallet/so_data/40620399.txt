@@ -1,1 +1,1 @@
-Image Editor with node modules/react
+i have start work with electron recently. there is a use case that requir me to edit an upload imag by overlay anoth imag on it also chang the transpar of imag and put some text and barcod on the edit image. can someon suggest me a module/packag that i could use to accomplish the abov tasks?i am use react and electron together.

@@ -1,1 +1,1 @@
-Spooky Action at a Distance: Electron & React useEffect - Unable to unsubscribe from ipcRenderer events
+i have encount strang behavior when use electron still seem to be call by the previous listeners. is this a bug in electron, or am i miss something?

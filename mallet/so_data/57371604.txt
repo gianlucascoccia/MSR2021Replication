@@ -1,1 +1,1 @@
-Ionic 4 + Electron not works
+i am have problem to start a new electron + ionic project.i have follow this tutorial:https://www.9lessons.info/2018/10/ionic-electron-desktop-app.htmlbut when i run the project with the command:what would be do wrong?

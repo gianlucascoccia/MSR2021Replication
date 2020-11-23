@@ -1,1 +1,1 @@
-JQuery checkbox.prop('checked') always returns false value
+i'm have a problem with a check box in a electron app that i'v been building.th check box was work well and return the correct values, when check return true value, and fals when not.when i ad some librari to my app the check box start return fals valu when check or unchecked.her are the properti of the project:package.json&#xd;&#xd;&#xd;&#xd;&#xd;i'v tri both option in jqueri and both return false.thank you

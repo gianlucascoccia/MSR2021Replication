@@ -1,1 +1,1 @@
-How can i apply HTML localStorage to these innerHtml cels?
+i don´t know how to appli a localstorag to innerhtml. i have a form that works, but when i reload the page i lose the data.i am build an app with a js framework electron.js, use xel toolkit. it is the html, it is a button for store a complet

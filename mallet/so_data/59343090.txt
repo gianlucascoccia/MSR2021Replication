@@ -1,1 +1,1 @@
-Bcrypt compare always returns false, hash length is alright
+i'v been googl sinc yesterday but no solut yet. i'm tri to implement a veri simpl login use

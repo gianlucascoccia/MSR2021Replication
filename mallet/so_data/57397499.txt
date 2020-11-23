@@ -1,1 +1,1 @@
-electron-builder Targets: mac vs. mas
+what is the differ between the 2 target to use, do they all have a specif use case?pkgdmgzipthank you for clear up my confusion!

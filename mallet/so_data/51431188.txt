@@ -1,1 +1,1 @@
-How do you install and bundle GraphicsMagick in an Electron app?
+i'm build an electron app and i need graphicsmagick. the document suggest that you have to download and instal the program itself befor use it with node.js. so just instal the npm packag is not enough. how do i do it then? do i actual have to have my electron app download binari (or bundl it with binaries) and then instal the program on the first app launch in order to be abl to use it? it doesn't even support cli command like for exampl ffmpeg does, so i cannot just bundl the binari and execut command like

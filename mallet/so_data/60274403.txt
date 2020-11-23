@@ -1,1 +1,1 @@
-Is it possible to render image created by Boost GIL in an Electron app?
+current electron has nativ imag support to load imag from a jpeg or png imag or buffer but is it possibl to load imag creat by boost gil to load it in electron app. the imag are be generat from a pdf by pass the pdf path to a nativ node modul which convert the pdf into rgb imag type use boost.

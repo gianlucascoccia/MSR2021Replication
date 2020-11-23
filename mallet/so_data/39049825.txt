@@ -1,1 +1,1 @@
-adding bootstrap theme to electron app with node dependencies
+i have an electron app(electron-boilerplate) that use less and node to manag dependencies. i want to add a bootstrap theme base in sass. when i tri to add the bootstrap theme to the project and write "gulp build" to all of the file in the build folders, i realiz onli packag i instal via npm will build in that folder. in this case how can i drop in a theme with it own set of sass, imgs, and js and have it compil with the build but also replac the less.

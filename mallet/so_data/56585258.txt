@@ -1,1 +1,1 @@
-ipcRenderer.send() function not working inside setInterval
+i need explan and a solut to whi the follow code isnt work in in my electron code.

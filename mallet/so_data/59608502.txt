@@ -1,1 +1,1 @@
-How couild i load electron window in webpage?
+how to execut electron window and load that electron window into webpag to show how our applic will look after build

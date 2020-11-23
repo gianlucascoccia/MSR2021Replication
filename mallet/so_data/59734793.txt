@@ -1,1 +1,1 @@
-Call function from within node event handler
+i'm use icprender to send messag in an electron app from the render to the main process. below is the handler that listen for the messages. i'd like to call anoth function from within that handler. how can i bind this?

@@ -1,1 +1,1 @@
-Installing NW.js
+i'm have some troubl instal nw.js. when i run . doe anyon have ani idea about what i can do? i'v had this problem with other npm packag as well.

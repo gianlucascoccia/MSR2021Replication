@@ -1,1 +1,1 @@
-"Object has been destroyed" when sending through IPC
+i want my electron front-end to send data given by user to back-end through ipc, and backend to process data, but to also notifi front-end about the progress, so i read in doc that to send stuff i should use throw en error and how can i fix that?

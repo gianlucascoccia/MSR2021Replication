@@ -1,1 +1,1 @@
-NativeImage not working in setOverlayIcon() in Electron
+i'm tri to make a numer badg for my app taskbar icon (window 10). i'v use this code as a start point and modifi it a bit. after creat the badge, i'v use the follow to set it in the render process: type i haven't been abl to find a work exampl anywhere. ani ideas?

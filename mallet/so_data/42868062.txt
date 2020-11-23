@@ -1,1 +1,1 @@
-NW.js icons (generally, and in Windows 10)
+has anyon succeed in replac default nw.js logo -- either with the "icon": "string with path to icon" in the manifest or with resourc hacker?aft produc standalon .ex file (with enigma virtualbox)which work fine, resourc hacker seem to work, but the new .ex file produc will no longer run in window 10 -- yield a "this program will not run on your pc..." error message.

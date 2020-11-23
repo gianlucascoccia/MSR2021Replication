@@ -1,1 +1,1 @@
-Node-Webkit Download PDF
+i'm build a node-webkit app where i receiv a request from a websit to download a particular file. when i initi the web servic call i get back the file in the response.body. i'm tri to use the exampl in the fs api to save the pdf to my local folder i.e.:(i'm pass the response.bodi into the data field, and pass a string binari to specifi encod under options)th file is save to the local folder with the correct file name and extension, as well as file size. howev when open in preview each page is blank. am i specifi the wrong encod type?

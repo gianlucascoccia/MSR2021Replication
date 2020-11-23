@@ -1,1 +1,1 @@
-Bootstrap tabs in Electron - what am I missing?
+this is my .html-page load in an electron window:result:i´m obvious miss something, but what? both jqueri and bootstrap were instal use npm instal jqueri -- save / npm instal bootstrap --save. and bootstrap is obvious be load as it doesn´t present as a normal list.

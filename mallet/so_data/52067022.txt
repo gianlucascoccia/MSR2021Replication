@@ -1,1 +1,1 @@
-Make electron app compatible with El Capitan
+i am new to electron, but the app i packag (use

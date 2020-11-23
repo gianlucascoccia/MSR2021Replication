@@ -1,1 +1,1 @@
-electron-builder install-app-deps tries to include react-native while I have an alias set in webpack to react-native-electron
+how do i tell electron-build to packag react-native-electron instead of react-native? i could not find anyth about alia in the electron-build doc and it also surpris becaus it not a nativ modul so it doesn't contain ani https://github.com/paullecam/react-native-electron/issues/4

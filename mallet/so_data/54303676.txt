@@ -1,1 +1,1 @@
-Electron - intercept all renderer process requests and add additional headers
+how can i intercept all http(s) request made from the render process and add an addit header paramet to them? for the main process, there is the api available. however, i am unabl to find a similar api for request initi from the render process.

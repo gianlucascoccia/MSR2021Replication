@@ -1,1 +1,1 @@
-Is it possible to embed an Electron app and a data's file in a single executable?
+i want develop a simpl desktop app and a option is use electron, but a requisit of my project is that have a singl execut file, i can do it with https://www.npmjs.com/package/electron-builder, but i have a file, but i want know if i can do it on electron too.

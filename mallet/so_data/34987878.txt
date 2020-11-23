@@ -1,1 +1,1 @@
-How can i make standalone .exe file using node-webkit?
+i'm develop window applic from node-webkit, and i make it to .ex file. i tryand i tri to build use nw-builder but it same result.to perform this .ex file, it need some files(nw.pak, some dlls).i want to excut this exe file standalone.pleas let me know ani method to excut .ex file standalone[update]i solv this issue.i found packag program enigma vitual box and this program help packag .ex file, nw.pak and other files.

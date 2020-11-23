@@ -1,1 +1,1 @@
-Electron: Include binary dependency with Webpack
+i'm tri to use webpack in my electron project to bundl the typescript code in my main process (the render is an angular project manag with the cli).but in my main process i have a depend on registry-js:what can i do to includ the binari in my webpack build to be abl to run my applic in dev mode and as product build?

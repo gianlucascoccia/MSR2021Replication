@@ -1,1 +1,1 @@
-Javascript function to convert Javascript Code to String
+ani simpl function to convert long specif problem.

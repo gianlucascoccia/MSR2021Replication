@@ -1,1 +1,1 @@
-Electron: Share <webview> Tag content using desktopCapture with WebRTC as a video stream
+i have a webview insid a browserwindow. webview act as a embed browser.i want to do a screenshar use webrtc, where onli my webview get shared.do anyon know, what the event desktop-capturer-get-sourc https://electronjs.org/docs/api/web-contents#event-desktop-capturer-get-sourcesi for?

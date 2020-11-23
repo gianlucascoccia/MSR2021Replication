@@ -1,1 +1,1 @@
-Node child_process.exec Displays Special Characters as Question Marks
+i'm run a test use node child_process.exec to execut an echo statement with special charact in it.when run this on my linux machine, i get the téstér valu i was expecting. when i run it on my window machin i get back t?st?r.am i miss someth when i callth exec function to have my special charact appear?

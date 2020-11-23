@@ -1,1 +1,1 @@
-Two Way Data Binding Angular 2 in Electron not working
+i use electron-forg to creat a new electron project that use angular 2two way bind is not working...when i chang the text in my input control, the name file is not changingwhat am i missing?

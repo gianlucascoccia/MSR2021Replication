@@ -1,1 +1,1 @@
-Mac node webkit crash
+i'm tri to make a nodewk app and sometim it work but most of the time it quit by itself throw this log :. as i don't know from where it comes, i can provid inform if needed.

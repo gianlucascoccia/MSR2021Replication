@@ -1,1 +1,1 @@
-electron-builder. How to hook afterSign only when building mac app
+i have an after-sign modul which handl notarization.i want to execut it onli when build mac app.mi package.json is like this. is not kool.i want to do someth like this in package.json.ani one know how to do this?

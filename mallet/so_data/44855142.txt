@@ -1,1 +1,1 @@
-FS in Typescript- readFile is not a function
+i'm attempt to use fs in typescript (in electron for an angular app) and i'm struggl with import the librari correctly. i'v been across the web and final got it setup proper so it doesn't throw compil time error like thisedit: note that the answer must be in typescript

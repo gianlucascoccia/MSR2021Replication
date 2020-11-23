@@ -1,1 +1,1 @@
-How to view console after electron application has been packaged
+much like the titl suggests, i have made a node / angular applic use electron. this applic function as expect when it is run via the command. howev when it is built (either by electron-packag or by electron-builder) the applic will run but no content is displayed.i would like to be abl to see what is actual caus the applic to fail, but i am unabl to view the consol to do that. is there ani way around this? either via a special way to build or via an unknown trick to view the develop tools.

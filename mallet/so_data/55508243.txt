@@ -1,1 +1,1 @@
-Using Electron, React component not refreshed when state changes in production mode, but works in dev mode
+i'm experi to creat an electron+react+redux app.mi code work fine in dev mode when i chang the state use a redux action and a reducer, the react compon doe refresh automatically.but when i build and run a product distribution, chang the state fail to trigger a compon render (i tri linux and win dist with same results).ani idea what i am miss here ?here is a piec of the main electron part:

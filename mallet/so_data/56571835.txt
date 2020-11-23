@@ -1,1 +1,1 @@
-Windows-Build-Tools cannot download python
+i'm tri to instal windows-build-tool for an electron project, use npm. howev when i run i alreadi have python 2.7.16 instal on my machin and i would appreci it if there a way to instal this packag without python.i'm do this

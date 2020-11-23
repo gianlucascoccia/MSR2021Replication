@@ -1,1 +1,1 @@
-Electron how to show loading spinner while loading page in BrowserWindow
+i'm build an electron browser app. this app will load an extern url (only)mi question is how to add a spinner (gif image) while load the page.i know that there is an even did-start-loadin'. this is work fine, but i did not find a way to show a runner.also there is not status bar option in electron / browserwindow.put it there would be my favorite.ani idea how to do that?

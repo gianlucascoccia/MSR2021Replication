@@ -1,1 +1,1 @@
-The Console.logs of an Electron app runned by gulp are not shown
+i'm start to work with gulp. i have electron app that is invok by a gulp process. the thing is that i wan't to be abl to see the console.log of the main.j process into the consol where the gulp command was executed.i'm abl to see the console.log of all the render process in the dev tools.mi gulpfil is: ani idea of what to do?

@@ -1,1 +1,1 @@
-Electron open file/directory in specific application
+i'm build a sort of file explor / finder use electron. i want to open some file type with a specif application.i'v tri the approach from this answer: open extern file with electron error as follows.i this the right approach? if yes, how can i fix the issue? if not, what is the right approach?

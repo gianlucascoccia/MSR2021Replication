@@ -1,1 +1,1 @@
-NWJS window loaded is not available
+the nwjs document state that after open a window, you have to wait for the

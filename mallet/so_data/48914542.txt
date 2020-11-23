@@ -1,1 +1,1 @@
-Can't open Electron webview links with target = blank
+i'm use electron i have a webview which display an extern websit but i can't succeed to show the addit window normal open by link on this site and which have target = _blank.but it didn't change.

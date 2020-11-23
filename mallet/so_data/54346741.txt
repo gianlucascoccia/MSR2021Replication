@@ -1,1 +1,1 @@
-Pass ArrayBuffer from Angular to Elecron - Crashes the window
+i'm have a electron applic intern i'm load the angular application. i'm download a byte array (i.e., arraybuffer) through an api call and pass those data to a method which i'm connect through i made the method with zero statement, still it hang and the window becom white.electron window:kind assist me how to fix this issue.

@@ -1,1 +1,1 @@
-childProcess.spawn fails when `env` is specified
+i'm use node childprocess modul to tri and run npm tasks.when i do the following, everyth work file: are unknown.edit: mayb worth mention that i'm use electron. i know electron somehow fuse node and chromium, so mayb it some quirk with that?

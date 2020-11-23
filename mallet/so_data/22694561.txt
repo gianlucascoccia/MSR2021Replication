@@ -1,1 +1,1 @@
-Stop Node Webkit from pausing on unfocus / when minimized
+is there a way to keep my node-webkit app from paus when i minim the window?someth i can add to the package.json?

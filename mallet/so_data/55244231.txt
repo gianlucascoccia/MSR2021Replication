@@ -1,1 +1,1 @@
-ability to create a new session for every BrowserWindow object?
+in my js class construct i have a variable.thi seem to just clear the cooki temporarili - all cooki are still the same in the long run.

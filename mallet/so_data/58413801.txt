@@ -1,1 +1,1 @@
-Is there a way to improve the performance of webview in Electron?
+befor i use an ifram to load sever html file into. it was veri fast, but i could not download specif files, sinc an ifram doesn't run in it own process. so i chang to webview and i could download the files, but now everyth is realli slow. is there a way to improv the perform of webview? mayb by send the link through the ipc? i have not work with it yet and in the tutori they just send some simpl messages.

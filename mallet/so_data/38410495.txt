@@ -1,1 +1,1 @@
-How do I open a markdown file in a BrowserWindow (Electron)?
+i am tri to extend an electron-project.i have a new browserwindow (basic a new tab in a browser) which should contain the documention. the document is written in markdown so i´ like to know how to open my markdown file in this browserwindow...bas i just need a way to convert a markdownfil on runtim to a webpage.

@@ -1,1 +1,1 @@
-Disable keyboard shortcuts Alt + Tab in electron application on Window & MacOS
+i am work with desktop application, while i am work on ubuntu server, i can block keyboard shortcuts: alt+tab fine, but when i'm move to window and tri to block alt+tab, it not working. here is the code that i am use currently:

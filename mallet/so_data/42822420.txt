@@ -1,1 +1,1 @@
-I always get these errors when installing electron?
+i alway get these error - i tri (npm instal electron) and (npm instal electron-prebuilt) , both give me the same errorsmi os : window 7 and i have the latest version of nodej (7.7.1)

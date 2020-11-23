@@ -1,1 +1,1 @@
-how to change Default exe file icon in electron framwork
+"how to chang default exe file icon in electron"mi default exe imag isclick here

@@ -1,1 +1,1 @@
-Angular & Electron - IPC Communication and Service method call
+i'm work on angular + electron app and tri to set the

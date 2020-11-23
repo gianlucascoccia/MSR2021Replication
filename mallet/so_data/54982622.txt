@@ -1,1 +1,1 @@
-javascript selenium webdriver is not full size
+i have code like thisand i'v got 2 issu with that:it resiz chrome window after google.com is load instead when window pop up.it actual too high (becaus of window bottom bar) and it not broad enough - it leav space at the left and right:

@@ -1,1 +1,1 @@
-Electron Application Menu Working Example
+i'm new to electron and have problem find a work exampl of an applic menu.when tri to combin the quick start app with the exampl from the class: menu page of the electron documentation, noth seem to happen — chane the

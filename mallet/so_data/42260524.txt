@@ -1,1 +1,1 @@
-array.length is zero, but the array has elements in it
+i'm current in the process practic use electron, but i'm quit new with javascript and i'v come across a problem which has me complet baffled. i have the follow code: in the function abov the one that running. unless i'v miss something. could anyon point out what i'm do wrong?

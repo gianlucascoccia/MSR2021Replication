@@ -1,1 +1,1 @@
-How to use Google push notification by Google drive APIs in Electron application?
+i am tri to receiv googl push notif on chang of file or one file in my drive use electron, how do i do that?i have tri follow https://developers.google.com/drive/v3/web/push#registering-your-domain but turn out i have regist my domain, ani idea how do i do that?thank in advanc

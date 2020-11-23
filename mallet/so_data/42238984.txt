@@ -1,1 +1,1 @@
-Uncaught TypeError: this.method is not a function - Node js class export
+i am new to node.j and i am tri to requir a class. i have use https://developer.mozilla.org/en/docs/web/javascript/reference/class as reference. however, when i do this for example: with callback. i have updat the code.

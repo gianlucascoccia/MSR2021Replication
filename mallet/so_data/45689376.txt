@@ -1,1 +1,1 @@
-Accessing filesystem in Angular 2 app using Electron
+i know that angular 2 is run on a web browser, which doe not have access to the file system.however, i'm use electron as my front-end, and also run the app via electron:do anyon have ani idea what caus this?thanks.

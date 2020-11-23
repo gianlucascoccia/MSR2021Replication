@@ -1,1 +1,1 @@
-Improving build time of a cross platform Electron app
+i have an exist electron project, to test the applic on multipl oss(mac, windows, linux) we are build the app use electron-builder.currently, the build process take around 15-20 mins.i'm use a mac machin and alreadi have set up microsoft window and linux vm on azur so i don't have to keep switch physic machin also the project has hot-reload setup.her is the config.json use to build:th motiv is to reduc the build time by optim the build process.

@@ -1,1 +1,1 @@
-How to I get `child_process.execFile` to use the already running application
+i'm build an applic is be made avail on all platforms.

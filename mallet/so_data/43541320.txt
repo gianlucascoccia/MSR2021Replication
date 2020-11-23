@@ -1,1 +1,1 @@
-webContents.send vs webContents.executeJavaScript
+my web app use

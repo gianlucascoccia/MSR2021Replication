@@ -1,1 +1,1 @@
-Which framework for HTML5 applications with native code and widgets?
+i need to develop hybrid applic (imagin someth like a rich text editor) for windows, mac, android and ios.so i'm look for a framework where i can:us html5 + node.j in a nativ app. use nativ code as librari (for exampl for monitor screenshots) use some nativ widget for a better user experience.for requir 1 and 2 i can use node-webkit or bracket shell and node-gyp. but what for requir 3?mayb some like wpf chromium (for windows) but how can i use also node.j in it?

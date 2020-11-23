@@ -1,1 +1,1 @@
-Node.js recursively list full path of files
+good night everyone. i'm have troubl with probabl some simpl recurs function. the problem is to recurs list all file in a given folder.for the moment, i'v manag to list file in a directori use a simpl function : but i can't get it right.a i'm a beginn in javascript, i final decid to ask for help to you guys.thank in advanc for your precious help.

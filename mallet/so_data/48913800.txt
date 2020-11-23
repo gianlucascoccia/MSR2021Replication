@@ -1,1 +1,1 @@
-electron and lowdb not work
+i have a problem with the follow code. i use electron and lowdb for json file.when i go to delet the row in the table,thi is delet from the table, but it give me the error in the delet of the correspond valu ​​in the json file.i would be veri grate to those who help me solv this problem.thank you

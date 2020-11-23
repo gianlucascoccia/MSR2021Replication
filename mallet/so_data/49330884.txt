@@ -1,1 +1,1 @@
-How to resolve error 'this.fs.stat is not a function' when using LokiJS and Angular?
+i'm get the error ('this.fs.stat is not a function') on line 2256 of lokijs.js. environ is electron with angular 5.x and lokij v1.5.3. i get this error instead: uncaught (in promise): typeerror: lokijs_1.loki is not a constructor

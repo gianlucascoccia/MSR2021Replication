@@ -1,1 +1,1 @@
-In Windows Node.js fs.readdirSync With Users Folders etc
+i'v been develop an nw.js project and use node.j file system function in it as normal. in my applic there is a file manag and i list folder and file accord to user navigation. in windows, for example, if i scan drive c: i get the turkish name folder "kullanıcılar" as "users". i know it real name in oper system is "users" and just seen on the screen accord to languages. i can replac name of such folder when dispay in my file manag but i'm search for better solut if exists. thank in advance.

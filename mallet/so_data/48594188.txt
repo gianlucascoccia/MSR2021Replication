@@ -1,1 +1,1 @@
-How can I use Sequelize and SQLite3 with NWJS 0.28.0?
+nwjs version 0.28.0 run with nodej v9.4 and sqlite3 packag is onli compat up to v7.x.how can i use sqlite and sequel with v0.28?the command i have to compil sqlite is

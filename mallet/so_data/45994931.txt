@@ -1,1 +1,1 @@
-How to center electron popup window dialog showOpenDialog
+i want file open popup to be initi centered, but instead it appear in left top corner of the screen and consequ rememb posit where it was closed.i'v been take a look on doc but i cant find center option.thanks.

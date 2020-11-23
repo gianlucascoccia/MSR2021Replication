@@ -1,1 +1,1 @@
-What is the proper way to load JavaScript scripts in Atom Shell?
+this probabl a complet stupid question but i just start work with atom shell. i have an

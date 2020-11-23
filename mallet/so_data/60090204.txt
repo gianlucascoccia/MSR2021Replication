@@ -1,1 +1,1 @@
-How to recieve WebContent events from static page on Electron
+hello so i am new with electron and tri to captur event from my index.j into my index.html, but i cannot make it to work.mi index.j code is below

@@ -1,1 +1,1 @@
-HTTP Requests before Electron application show any window
+i would like to make some request for a rest api befor display ani window of my application. doe anyon know a good way to do this? would anyon has an example?thank you veri much.

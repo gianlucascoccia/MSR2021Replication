@@ -1,1 +1,1 @@
-Babel preset with Electron?
+i have an api that use the babel-preset, so i use this for my api:

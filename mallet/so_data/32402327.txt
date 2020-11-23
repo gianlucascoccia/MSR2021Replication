@@ -1,1 +1,1 @@
-How can I force external links from browser-window to open in a default browser from Electron?
+i'm use the browserwindow to display an app and i would like to forc the extern link to be open in the default browser. is that even possibl or i have to approach this differently?

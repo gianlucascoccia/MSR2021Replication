@@ -1,1 +1,1 @@
-Electron: securely delete a file from filesystem
+i need to do a secur file delet within a cross platform electron app, tri to avoid data reman of those files, so a simpl fs.unlink is not enough.th effect i'd like to achiev is similar to the unix with a direct system call, but i need it to work in a cross-platform environ (window and osx in particular) and i didn't found ani use command or npm library. ani suggest on how this could be done?

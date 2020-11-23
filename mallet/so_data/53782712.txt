@@ -1,1 +1,1 @@
-How to Minimize and suspend the app (and continue when restored)?
+i have the follow piec of code for my desktop app: to someth else. i'm not specif look for a hotkey solution, it just that this way app continu automat when restored. i am, howev look for (preferably) a solut that doe not requir addit modules.p.s. bonus question: doe nw.js allow creat app-wid hotkeys?

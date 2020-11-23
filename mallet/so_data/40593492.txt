@@ -1,1 +1,1 @@
-Why won't `electron-packager` bundle node modules that are listed in `package.json` as dependencies?
+i'v been struggl with this for a week now so i thought i'd reach out to the amaz so communiti for help. i'v got an electron project that need to produc an os x applic (and window eventually). initi we were use but i realli feel like this should be working. if anyon has ani info or insight i'd great appreci it. if you need ani addit information, pleas let me know in the comments. thanks!

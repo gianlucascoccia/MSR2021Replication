@@ -1,1 +1,1 @@
-Print without "print dialogue" in node-webkit
+while build an app use node-webkit for windows, i need to print without the dialogu box. is this possible? similar to: http://drziegler.net/kiosksilent-printing-in-google-chrome/ani help is appreciated.

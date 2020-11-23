@@ -1,1 +1,1 @@
-Possible way of checking electron Application Distribution with linux OS
+is there a possibl way of check the compat electron applic distribut with a given os?for exampl if i have ubuntu 16.04 x86_64, and i am use electron-v1.8.2-beta.2-linux-x64.zip for creat a linux distribution. how can i be sure, that i am use the correct distribut packag of electron?

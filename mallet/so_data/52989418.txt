@@ -1,1 +1,1 @@
-CR2 Preview generation with Node.JS/Electron
+i want to build a node.js/electron applicationcache, that can show preview for the follow filetypes: dng, cr2, jgp, tiff. i have accomplish all of that use an extern library. except for cr2. i cant find anyth (free) that can generat a preview imag for cr2-file and doe not requir instal exiftool or imagemagick on the machine. doe anybodi have an idea waht it can use?

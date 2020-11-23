@@ -1,1 +1,1 @@
-Electron - link opens in new window
+i have weird problem. in my app there is few link to other .html files. on mac os or window 7 link are open in the same window but in window 10 they open in new window. i don't have idea what is go on... mayb you know?link look like (there is noth different):

@@ -1,1 +1,1 @@
-Uncaught TypeError: b is not a function in nodejs(electron)
+i instal the gentelella templat from npm packag manag and i'm tri to includ the pnotifi script like this(css is includ at the top):but when i execut the index.html use the browser it work fine, why?thanks!

@@ -1,1 +1,1 @@
-How do I parse a value from JSON file in an array (electron/node.js)?
+so, i have this json file in which there is an array full of set of values. i am not realli sure how i would go about get the first valu from the veri first set of valu - that would be the 3 from pink. i am do all of this in node. this is all i have, not sure if i am on the right path. might even be a format error.mi json file:thank in advance!

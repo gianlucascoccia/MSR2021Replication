@@ -1,1 +1,1 @@
-printToPDF renders in tab size instead of actual window size
+my electron app has a print facility, which direct print the content of my window. it use bootstrap for layouts. the electron window is render as expected, but while i print the content use and it produc the same issue.i need to print the screen as it was display in window.expect (screenshot of electron window):actu (screenshot of generat pdf):

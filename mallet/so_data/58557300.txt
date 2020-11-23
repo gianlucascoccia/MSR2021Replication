@@ -1,1 +1,1 @@
-Body that don't take the entire avaible space in an Electron app
+i have an electron app with person titl bar (close and minim button). when i show the border of all html element in my window, i notic that my bodi and my html tag don't take the entir window and i need that becaus i need to put border to my window. i don't know what is the problem, thank for your help.i tri to put thank for your response!

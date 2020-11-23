@@ -1,1 +1,1 @@
-Electron get data from custom extension file
+i am use electron and tri to achiev a result where the user click on the save file which open the electron applic and get the data of the file.so far i have done is:1) creat the custom extens registri and ad the file open command use reg file. file in order to calculations.i have tri to use this but the link in this exampl are broken. https://www.theodo.fr/blog/2015/12/link-files-to-application-in-windows/

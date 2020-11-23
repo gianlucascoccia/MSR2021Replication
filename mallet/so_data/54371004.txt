@@ -1,1 +1,1 @@
-Why is the difference between 'main' and 'renderer' folders 'electron-webpack'
+i don't understand the specif use for /render folder, and how doe it differ from the /main one. offici electron-webpack doc suggest the use of a render folder for compil the project (with default config for ).

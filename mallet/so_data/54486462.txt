@@ -1,1 +1,1 @@
-Can Electron's spellCheckHandler be used to arbitrarily flag substrings in a textarea?
+i'm have troubl find ani document of this, offici or unofficial. there are sever modul on github that implement tradit browser-styl spellcheck but they'r not provid much insight.i there an api here that will let me do the red underlin squiggl ani time it see the substr "abc" in a given textarea?

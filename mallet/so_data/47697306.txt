@@ -1,1 +1,1 @@
-How to record "Japanese" SpeechSynthesis voice in Electron
+i am creat an applic use electron.therefore, i want to output speechsynthesi voic to wav file.thi is onli japanes voice.(so i can't use librari like mespeak.)and i want to use the voic instal in local pc. (like 唄詠, softalk, etc, ...)it was unabl to output normal if it was the follow code.although you can output the file itself,th content is unintended.th test environ is maco 10.13.1.how should i do it?main process:

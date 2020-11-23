@@ -1,1 +1,1 @@
-Google-cloud + Node, grpc error
+i am creat a sampl desktop applic use electron framework. when i includ google-cloud node librari in applic i got this error. uncaught error: /home/user/desktop/projects/sample_desktop_app/node_modules/grpc/src/node/extension_binary/grpc_node.node: undefin symbol: general_name_freeos: ubuntu node version: v7.10.0your help would be appreci

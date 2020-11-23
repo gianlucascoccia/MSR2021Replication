@@ -1,1 +1,1 @@
-No input validation in node webkit (nw.js) based app
+this is my html codewhich basic make the usernam necessari for form submiss and display a tooltip for the field if left black on submission. the html page work fine, output:howev on run the genrat app.ex file, there are no messages, output:mi question:i this a node webkit limitation? are there ani workarounds?

@@ -1,1 +1,1 @@
-TypeScript + NW.js: need namespaces for browser, need commonjs for nodejs - How do I get both?
+i'm write an applic use nw.js and typescript. i would like to use one class per file.to access node.j modules, i need to use , my type sudden lose visibl across file (becaus the compil goe into extern modul mode.)

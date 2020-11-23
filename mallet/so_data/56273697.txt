@@ -1,1 +1,1 @@
-Electron: Changes to html not shown until process completes
+i updat sever dom element to show progress dure a loop, but the chang are not shown. onli when the loop finishes, do all the dom element get updat at the same time with the final progress message.how do i refresh the showprogress messag on screen immedi when it is updat by the showprogress function?

@@ -1,1 +1,1 @@
-Cannot find modules in electron project
+so the structur of my project current look like this: doesn't give me much luck either...what exact is the reason i can't load modules, even one right next to my sourc file? am i misunderstand require? or do electron project work differ than node projects?

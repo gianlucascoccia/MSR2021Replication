@@ -1,1 +1,1 @@
-NWJS ('child_process').exec command not found
+hello everi one i am make my first node webkit app and everyth went okay. until i want to "release" it. my app use a child process to run a command on the command line but i instal the modul that i need to run with npm instal -g so it onli work for me. to tri and fix this i instal it again without -g but i still get command not found. how can i refer to it?cod :

@@ -1,1 +1,1 @@
-Resizable window in electron.js
+i am make small code editor and i want user to be abl to resiz window if user wants. i have main window properti non resizable. my code doesn't work. pleas help me to fix it.

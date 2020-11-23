@@ -1,1 +1,1 @@
-How to push a large Electron app to Github?
+i recent built an electron app and i integr "update-electron-app" packag to deliv updat for my app. it ask to push the code into github but github won't allow to upload file larger than 100mb. the app is around 250mb with node_modul file. what should i do?thanks!

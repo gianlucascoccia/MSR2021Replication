@@ -1,1 +1,1 @@
-Electron child process on cloud foundry
+i have an app that is run insid of cloudfoundri and need to kick off a child process use electron. this work fine run local but onc i deploy to cloud foundri it fail becaus the ubuntu server doesn't have display driver. i can't use apt-get in the buildpack becaus cloud foundri restrict the use of ani use of . has anyon run into an issu like this and found a way to get around it?

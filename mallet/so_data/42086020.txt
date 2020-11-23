@@ -1,1 +1,1 @@
-Is it possible to keep TDs fluid while TABLE is fixed?
+edit 08.02.2017:i don't need to support everi browser, sinc i'm work with the latest instead... look foreward for your advises.regards, megajin

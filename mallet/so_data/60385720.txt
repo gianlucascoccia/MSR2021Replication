@@ -1,1 +1,1 @@
-Create .exe file for electron on Mac
+i start use electron.j and i can't find how i can creat a .ex file on mac. if i clone the starter repo: the applic starts. now, how can i build a singl .ex file? i read i can use electron builder but can someon provid an exampl of how to get this setup? i can't produc .ex file on mac.

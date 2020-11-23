@@ -1,1 +1,1 @@
-Node-Webkit file download progress
+i have the follow link in my node-webkit appthi link work fine, it display the save as dialog and the user can save the file normally.mi question is, is there an easi way to display the download progress insid the app like browser do or i need to creat my own? (if so how?).curr noth is display when the user choos the download location.

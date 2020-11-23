@@ -1,1 +1,1 @@
-Does it make sense to use React Router with electron?
+i am wonder whether this actual make sense, or whether react router is onli for the web? can somebodi explain to me what the differ would be in use it in a electron project, and whi or whi not that make sense?

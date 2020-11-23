@@ -1,1 +1,1 @@
-How to set X properties in order to create a desktop status bar with electron?
+i want my window manag (xmonad) to manag my electron app as a desktop status bar : it must be avail on ani workspac and have a reserv place on the screen (in the top for exemple)to achiev this, i creat a browserwindow like this :in fact, the xmonad plugin (managedock) that manag the overlap is watch these two properti to calcul the window positions.ther is a way to set such properti in my electron app ?

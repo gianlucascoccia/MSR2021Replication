@@ -1,1 +1,1 @@
-AngularJS with node-webkit
+i am right now evalu node-webkit as a possibl solut for build desktop applic with web technolog and have a slight issue. the applic is use angularj and the issu i am run into is that is doe not seem to be proper load my html templat files.mi test applic has this config:thi is what is be zip up.do you know whi i might be get this error?- updat -not sure what is go on here but just updat my code (the web version i am building) and everyth is work fine now. must have been someth weird in the older code

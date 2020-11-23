@@ -1,1 +1,1 @@
-Electron App webview.printToPDF() "Save As..." Dialog
+i am creat an electron app that use is a wrapper for a web app by use a this work fine but will save in the same locat everi time and doe not allow the user to select a locat or name.i there an option to show a "save as..." dialog?

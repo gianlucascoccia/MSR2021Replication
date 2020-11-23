@@ -1,1 +1,1 @@
-Create a desktop application using Electron api for existing Angular project
+i have creat a web base project in angualrj use rest api and now i want to creat a desktop applic use atom electron api, is there ani way to creat a desktop applic in same with exist web base project?

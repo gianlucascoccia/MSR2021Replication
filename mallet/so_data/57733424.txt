@@ -1,1 +1,1 @@
-'Second-instance' fires instead of 'open-url' in electron on mac
+we have an electron app that we'r set up to launch from protocol link follow the structur describ here: https://github.com/oikonomopo/electron-deep-linking-mac-win (found from open app and pass paramet with deep link use electron (macos)) onc the app is installed, we either open the app from finder/launchpad or can invok the app from a browser use

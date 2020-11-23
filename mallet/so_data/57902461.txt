@@ -1,1 +1,1 @@
-Use native node modules midi / easymidi with electron
+i am tri to use the nodemodul easymidi which depend on the midi modul in an electron app. when i run as describ in the nodej document but the error still exits. anyon know what to do?

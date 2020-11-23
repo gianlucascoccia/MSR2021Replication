@@ -1,1 +1,1 @@
-Showing window after it is fully loaded
+when i creat basic applic and initi it use

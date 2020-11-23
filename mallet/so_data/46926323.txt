@@ -1,1 +1,1 @@
-Electron-packager Javascript Error (jQuery)
+i have problem compil my (first) electron project...i could success creat the new folder with the compil app, however, when tri to open the execut a pop-up come up stating:a javascript error occur in the main processuncaught expectation: $ is not defin at.......i have tri this solut but it doesnt chang anything.thank for ani help!

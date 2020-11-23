@@ -1,1 +1,1 @@
-Node.js (node-webkit) error using http.get for rss feed, HPE_INVALID_CONSTANT
+i'm work on an rss aggreg via node-webkit, and i'v stumbl upon an issu where a seem random volum of my request (code below) will fail with ani of the follow errors: hpe_invalid_constant, etimedout, eagain, and hpe_invalid_header_token. i'v sort those in regular of occurrence.i made a test.html file with as much relev as possible. just plug in a larg volum of web page url into

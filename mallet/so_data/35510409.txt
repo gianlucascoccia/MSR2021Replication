@@ -1,1 +1,1 @@
-NW.js Spotlight Integration in OSX
+i want to develop an application, that can be use within the spotlight search.th user should be abl to search for specif "methods" (i don't know how to call it) of the app and the app should then run this method.i there a way to integr the non-document-bas spotlight index in a node-webkit application?

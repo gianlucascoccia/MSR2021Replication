@@ -1,1 +1,1 @@
-How to register a right-click menu for selected text in the OSX?
+i want to add an osx dictionari app-lik menu featur that regist an action which is made avail os-wid via the right-click menu, e.g.similar to the dictionary, the menu featur that i want would need to be avail everywher in the os and need to appear onli when there is text selected.

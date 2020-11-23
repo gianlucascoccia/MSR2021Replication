@@ -1,1 +1,1 @@
-Redirect uri for google authentication api with electron production env
+i want to authent user and want to get calendar event for particular user and for that i am authent user in anoth window like https://blog.ecliptic.io/google-auth-in-electron-a47b773940ae. it is work fine in local environ with redirect_uri: "http://localhost" but what i can pass in redirect_url for product environment.i have use electron-packag to make mac and window build

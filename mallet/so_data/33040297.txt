@@ -1,1 +1,1 @@
-How can I debug Electron shell using the breakpad symbols in Visual Studio?
+as the titl says, i'm look at a heisenbug crash deep within electron shell / node.j and all i have are the "symbols" i can download from the releas page.i there ani way of convert these to pdb files? or ani other way to make vs show me a readabl stack frame mayb with some parameters?edit: alternatively, can i get more inform from a dump file i could creat with vs? look at breakpad i can't seem to figur out how to do anyth use with those symbol files.btw i'm use vs 2015.

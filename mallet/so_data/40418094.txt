@@ -1,1 +1,1 @@
-Electron: write within the app
+i have an electron build where i have put my app in ). sinc i need the app to modifi some file of the app itself (for updat reasons), what wrong in what i'm tri to do? how to overwrit app files?

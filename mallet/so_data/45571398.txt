@@ -1,1 +1,1 @@
-Electron builder is taking only one builder.js file
+my electron redux app is have 2 entri in webpack as belowit run fine in local run but when exe is instal in windows.th electron window that use redux compon of home.bundle.j are work fine but other electron window which use child.bundle.j is not render dom components.but it work fine in local run.i am use https://github.com/dustintownsend/electron-react-boilerpl

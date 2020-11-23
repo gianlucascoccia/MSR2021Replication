@@ -1,1 +1,1 @@
-Set app variables from Electron Packager build script
+i'm use electron packag to packag an app. i need to build multipl version of the app that use the exact same code base, but with a coupl of differ config variables.for example, i might want to build an app with differ theme - a red and a blue version. to achiev this, i simpli set a variabl in main.js:i it possibl to defin some sort of config variabl use an argument here, in the build script?

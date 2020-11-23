@@ -1,1 +1,1 @@
-How to launch an external process synchronously in Electron
+in electron, i need to call an extern program to do some work, wait for it to finish and terminate, and then move on to my next line of code.i'v tri this work to launch the app, but it run the next line of code in my electron app immedi instead of wait for the extern launch app to finish.what is the easiest way to do this?

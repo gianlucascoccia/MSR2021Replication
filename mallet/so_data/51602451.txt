@@ -1,1 +1,1 @@
-Webpack code splitting - Automatically load all chunks by requesting a single chunk?
+i'm use webpack 4.x and have the follow in my config: require/import the addit chunk automatically?

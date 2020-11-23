@@ -1,1 +1,1 @@
-Node webkit - unable to fork a child process ( Error: spawn EACCES )
+i have a piec of nodej code ( link ) that is blocking. so, i am tri to run it in child process.i am use the follow code to fork a child process :read through some other answer on so it seem to be some permiss relat error but even after chang the permiss for my project folder i am get this error.oth detail :os - macnod webkit version - 0.14.3ani help / suggest to solv this issu would be much appreciated. thank in adavance.

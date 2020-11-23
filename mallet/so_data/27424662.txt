@@ -1,1 +1,1 @@
-Changing Taskbar menu icon in nodewebkit app dynamically
+i am work on a doe when a new messag is receiv by user.i there ani way it can be done in nodewebkit?initi i tri chang window.icon in package.json file, but then i came to know that it is use onli once, i.e. on app load. so that did not work.anyth els i can try?thank in advanc

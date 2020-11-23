@@ -1,1 +1,1 @@
-Error at rebuild SQLite3 for a Electron app
+i am tri to instal sqlite3 to make an app in electron over windows. i put in my package.json:

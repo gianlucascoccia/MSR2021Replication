@@ -1,1 +1,1 @@
-"Not allowed to load local resource" Electron/VUE
+so i am receiv the error "not allow to load local resource" in my electron/vu app. the error i believ is come from my index.ej file where i have the imag benjamin-child is locat in the imag folder which should have a path someth like: electronapp/app/imagesinstalling/run the app is easi you can just follow the readme.md.

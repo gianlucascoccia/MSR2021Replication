@@ -1,1 +1,1 @@
-Why is ctrlKey's behaviour so weird?
+exampl snippet: &#xd;&#xd;, it log proper like i expect it to. can someon help me understand this inconsist behaviour, and help me find a fix?edit: someth i should have mention - it seem to be work fine in a browser (chrome). the appli scenario is actual an electron base application. i'v also notic it not not-log the second snippet - the keyev isn't fire at all. this is now lead me to think it a clash keybind, or the applic is prevent the key. i'd still like to know if there a (proper) workaround to this though.

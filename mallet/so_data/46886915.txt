@@ -1,1 +1,1 @@
-Webpack can't find lodash submodules on linux but works fine on macOS
+i have realiz that my electron applic doe not want to build proper on linux, wherea on maco it work fine. i'm not quit sure why.so on maco this work fine

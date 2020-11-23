@@ -1,1 +1,1 @@
-Electron click() handler unknown JS Syntax
+i am quit new to javascript but i stumbl across some unfamiliar syntax when look at a click handler in electron js:how can i write a function like that to reproduc the behavior and how can i understand this syntax ...? mayb someon know the name of this or is abl to point me to a resource.

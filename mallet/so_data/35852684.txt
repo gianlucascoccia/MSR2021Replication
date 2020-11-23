@@ -1,1 +1,1 @@
-Electron (chromium) disable web security
+is there a way to disabl web secur on electron (chromium)?via javascript or something?

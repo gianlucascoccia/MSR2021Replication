@@ -1,1 +1,1 @@
-Google-Cloud TTS import error: ''error reading first path in the walk C:\Users\...\Documents\protos"
+i'm current build an electron app use @google-cloud/text-to-speech npm module. if i import the module, everyth is fine. however, onc i call it i get the follow error:

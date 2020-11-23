@@ -1,1 +1,1 @@
-Node.js - Google Cloud Speech API - Event listener problem
+i'm use googl cloud speech api for stream input.i need the abil to handl the event that fire as soon as audio is be detected. i think the appropri one is event is never fired.

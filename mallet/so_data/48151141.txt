@@ -1,1 +1,1 @@
-Cordova or Electron for OS X
+we are develop an applic with angular and cordova for android and ios.w recent setup electron to be abl to run the app also on desktop.both cordova and electron support os x platform.th applic is use the devic file system to store document and pictures.do anyon know which one is the more suitabl for os x?what are the pros and cons?thank

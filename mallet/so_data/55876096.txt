@@ -1,1 +1,1 @@
-How do I start the electron main process with webpack 4 and enable hot module replacement?
+i'm creat an electron applic and want to have hot modul replac to work for both main process.i'v test a few differ webpack config idea with no luck.i have the render work with the webpack dev server.webpack base configi expect the main process to be run and if i chang modul to hot modul reload.

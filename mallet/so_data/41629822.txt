@@ -1,1 +1,1 @@
-How can I set the ID of a browser window?
+basically, i want to do some communic between 2 ipc renderers. base on some inform in https://github.com/electron/electron/issues/991, i am tri to set the id of a browser window which i'll eventu use to get the browser window and send the event across without involv main.js.ne to know how i can set the id of a browser window. i tri the following:

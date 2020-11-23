@@ -1,1 +1,1 @@
-python: can't open file 'scriptbootstrap.py'
+i am tri to start the electron app on window via https://github.com/electron/electron/blob/master/docs/development/build-instructions-windows.mdi have complet the first two step success and is stuck at the build section.when i tri to run i run, get me into troubl as well. i am run the command via window bashi think it should be look for script/bootstrap.pi but instead look for

@@ -1,1 +1,1 @@
-Must remove node_modules every time i install a package
+i'v updat node to 8.1.x (and npm) while use it with electron (atom shell) to build an app.right now it creat a new package-lock.json file, and everi time i instal a new librari i have to tear down the whole node_modul folder, or a bunch of error messag of "librari not found" show up, even if is in the packag depend list.what go on?!

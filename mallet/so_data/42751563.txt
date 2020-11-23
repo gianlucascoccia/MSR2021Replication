@@ -1,1 +1,1 @@
-Read content of all files inside a directory in order using node.js
+i need to loop over file in a given directory, and read content of each file. like this: . thank to @x-ray and @skabbi for their help.

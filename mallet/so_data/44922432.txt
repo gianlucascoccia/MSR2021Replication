@@ -1,1 +1,1 @@
-Electron - running into some issues with start command and window sizing
+so i'v built a trivial applic use electron.i can start the app use the command electron index.html, but not the command electron .', even though this is explicit declar in the package.json

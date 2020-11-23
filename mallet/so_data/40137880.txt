@@ -1,1 +1,1 @@
-Save video blob to filesystem electron/node js
+in my electron application, user can record video from their webcam use the mediarecord api.when the user hit the "stop record" button, i get a blob of the record video.what i would like to do is to convert this blob to a real webm video and write it into the user filesystem with for exampl :the exampl below work pretti well with base64 imag snapshot that i get from the webcam, but i can't make it work with the video blob that i get.thank for enlighten me !

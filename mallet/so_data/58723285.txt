@@ -1,1 +1,1 @@
-Adding a button on top of loaded webpage
+i am load a webpag use in my main window and want to have a sticki button on at the bottom right for perform some action.1) is there ani way i can have a button or custom navbar on top of load webpag in my window? current i'v made anoth child window with height and width same as that of button and place it on top but it doesn't look/sound good.2) is there ani way to load a file of mine (say xyz.html) and then just have a section where that url is loaded, sinc websit don't allow their webpag to be load in ifram ani more.

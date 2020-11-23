@@ -1,1 +1,1 @@
-axios send image through post
+i'm tri to send an imag through c:\users\oem\appdata\local\temp\screenshot.png

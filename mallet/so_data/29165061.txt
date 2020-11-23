@@ -1,1 +1,1 @@
-Initialize on server side
+i have creat a node webkit applic use sailsj in back-end and angularj in front-end. i want to integr audio-chat in my applic use easyrtc. i tri the demo applic in my local. and it work fine. i am abl to connect two user and do audio-chat. but when i start integr the same in my application, i was unsuccessful. i could integr the client-sid but not the server-side. here is my server side code: port and i couldn't figur out where to write this code. can anyon tell me how to fix my problem?ani kind of help is appreciated. thank in advance.

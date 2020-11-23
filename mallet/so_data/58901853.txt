@@ -1,1 +1,1 @@
-How to dynamically change css style properties with Node and Electron
+i'v got the follow problem: i want to access the css properti of

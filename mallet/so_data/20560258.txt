@@ -1,1 +1,1 @@
-how can inject script in node-webkit when visit other url
+i'm work with node-webkit. i want to do someth when node-webkit visit some specif url, but i don't know how to execut a script when node-webkit visit the other url.for exampl ?

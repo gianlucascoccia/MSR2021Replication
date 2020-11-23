@@ -1,1 +1,1 @@
-change DOM with electron ipcRenderer
+i'm tri to load a website, and then chang it dom (and present it back..)i got the part of take the dom elements, but i can't pars it back to the document.how should i do that (the }

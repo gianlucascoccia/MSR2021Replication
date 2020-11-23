@@ -1,1 +1,1 @@
-Node Electron Require issues with SQLAnywhere - Error: Could not load modules
+i'm new to electron and am have issu use the sqlanywher packag with it.i'm do a veri basic test, and sqlanywher is throw an error immedi when it is tri to load it drivers. note that this work fine until i involv electron in this application.her is my sampl code: if anyon could offer ani insight i would be forev appreciative!thank

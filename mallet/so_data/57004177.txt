@@ -1,1 +1,1 @@
-I can package for windows but I keep getting an error if I want to package for mac
+i built a small applic use vue,tailwindcss and electron and i was ask to packag it for mac, pack for window result in me get a work app but when i tri to packag for mac i keep get an error.(i am on window 8.1)i ran this command for windows(thi works):

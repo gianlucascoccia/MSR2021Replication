@@ -1,1 +1,1 @@
-Express session authentification and asigning variables
+i am face veird issue. i believ it veri simpl to expirienc people.mak local web server on node.js+express+nedbcli on login make post request to .but if i asign valu manual with that test line it work and server issu cooki and i can visit my site with no problems...am i do someth wrong?

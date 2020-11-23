@@ -1,1 +1,1 @@
-Electron + Phaser, DRAG/POINTERMOVE event is not catched by Phaser
+i would like to connect electron with phaser 3.0. it seem that everyth is work besid mousemov event - i need mous pointer coordin as mous moves. it work in browser but not in electron.it work with all other event - pointerdown, pointerup etc.how can i get mous coordin from electron to phaser?thank for all suggestions!

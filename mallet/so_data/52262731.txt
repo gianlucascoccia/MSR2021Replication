@@ -1,1 +1,1 @@
-how to accept an input command line with nodejs
+i want to accept input from the console/terminal. that my solut so far:and this is what i get in the console:

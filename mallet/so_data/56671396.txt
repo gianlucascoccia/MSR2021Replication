@@ -1,1 +1,1 @@
-DOM not updating during long function
+i have an electron app where click a button run a mine function, which take a long time to run. i am tri to display the nonc as it chang as an element on the page. however, when i run the function, the page freez and onli chang when the function is finished.

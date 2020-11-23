@@ -1,1 +1,1 @@
-Need help importing Electron in Aurelia app
+i'm use one of the skeleton-navigation, skeleton-typescript.i'm tri to import electron.remot so i can close the electron window from within the js. this is what i have in config.js:can someon help on how i can fix this issue?

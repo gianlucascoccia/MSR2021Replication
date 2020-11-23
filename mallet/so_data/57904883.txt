@@ -1,1 +1,1 @@
-Do I need to give my electron icon padding?
+i'v set my electron app icon by convert a 2014x1024 png to icn use this: https://github.com/bitboss-ca/png2icnshowever, my icon look everi so slight bigger than all the other in the "taskbar" on maco (come up when you cmd-tab).do i need to give my icon some sort of pad or something? how can i make it the same dimens as other icons?ther doesn't seem to be ani guidanc on this, onli on file format and ideal dimens (which i'v adher to already).

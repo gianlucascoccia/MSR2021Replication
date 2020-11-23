@@ -1,1 +1,1 @@
-Electron renderer process in setInterval cannt use ipcRenderer.send()
+demand:th render process need send data to main process.mi code:semm cannt use ipc in setinterv ?how can i do this..thanks!

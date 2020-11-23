@@ -1,1 +1,1 @@
-Is there a way to package chrome apps using nodejs-webkit
+let say i have an app and i want it to be execut standalone. i'v found that you can do that with normal webpages, webapps, use https://github.com/rogerwang/node-webkit. but if it chrome packag app how do you do that. i know it possibl as you can see in slide it use webkit. https://speakerdeck.com/u/zcbenz/p/node-webkit-app-runtime-based-on-chromium-and-node-dot-j

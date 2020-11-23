@@ -1,1 +1,1 @@
-Electron open dialog hangs when using promise without async/await
+i'm experienc veri strang error with electron open dialog window. whenev i open it, it hang and applic becom frozen.th logic is straightforward, i have a helper for creat async action with

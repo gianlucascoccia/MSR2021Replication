@@ -1,1 +1,1 @@
-Uncaught TypeError: Cannot read property 'open' of undefined
+i creat a function call sensor and instanti the serialport object within it. i also creat a prototyp find that in theori should access the port object to open, write and bind on.i'm receiv error: uncaught typeerror: cannot read properti open of undefinedi'm not sure why....code:

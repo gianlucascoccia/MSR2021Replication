@@ -1,1 +1,1 @@
-Desktop applications with Meteor.js
+the option i'v found for creat desktop applic in to oper as a desktop application?

@@ -1,1 +1,1 @@
-electron + react + webpack dev middleware + hmr - refreshes entire page instead of hot reloading
+for the life of me, i can't seem to get hot reload to work. doe anyon have ani ideas? what i do get in the consol is "[hmr] connected", but when i make a chang to a react component, the entir page refreshes. i understand that i should someth along the line of:ani suggest welcome!!

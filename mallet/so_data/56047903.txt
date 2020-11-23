@@ -1,1 +1,1 @@
-Trying to get emscripten working in electron
+i am tri to get the opencv.j emscripten port run in my electron app.i found this exampl of an app use opencv.js, but when i tri to integr it into my electron project it just throw some cryptic error.when i just tri to requir opencv.j i am gettingalso when i includ it via script tag, like outlin here.in general i am have a realli hard time find proper document on how to load emscripten in electron.ani help is great appreciated!

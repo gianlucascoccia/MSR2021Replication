@@ -1,1 +1,1 @@
-React + Electron problems embedding local files
+i'm tri to use ifram to emb a local file from within a react component. the problem look like thisthi work perfect element.do anyon have an idea of the problem?

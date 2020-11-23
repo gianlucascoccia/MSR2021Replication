@@ -1,1 +1,1 @@
-Opening a floating window in electron that is visible on all workspaces with window.open
+i am tri to open a window from my electron app that will float on top of other full screen appsso from insid my electron applic i call should fix that.i am on macos, it seem that may also be an issu (?)

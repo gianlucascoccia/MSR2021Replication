@@ -1,1 +1,1 @@
-How do you link the STDOUT of node.js and STDIN of python in NW.js
+i have been tri to code a python child process in nw.js, i use the code from https://www.sohamkamani.com/blog/2015/08/21/python-nodejs-comm/ it work in vanilla node, but not in nw.js, is this possible, or just in vanilla?

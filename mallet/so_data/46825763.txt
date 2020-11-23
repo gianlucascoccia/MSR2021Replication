@@ -1,1 +1,1 @@
-React input[type=date] component does not work properly
+i am build a react-bas electron applic and stumbl across a problem with date fields.when use an electron = 1.7.8chromium = 7.9.0react = 15.6.2ani idea on how to fix this?

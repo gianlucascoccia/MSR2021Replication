@@ -1,1 +1,1 @@
-Electron/AngularJS - Dynamically load video file from showOpenDialog
+i'm a noob and still confus about some things.i'm use angular 1.5.8 with electron and i'm tri to start a video loader when a dialog.showopendialog file is select in main.js.main.jswhen i open the video, the isvideoopen is set to true and the videopathfil is correct (if i open this filepath the same way in a separ it works).howev the file doe not start buffer when i press start. what am i do wrong?

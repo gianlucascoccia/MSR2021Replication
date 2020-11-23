@@ -1,1 +1,1 @@
-Node JS, NeDB - How make sync return to parent module
+i have func:and if i make console.log insid it -> will be result.but, becaus it oper async result don't return to parent module.i need to valid , if email is exist return error, but i can't.i tri make settimeout and tri use async await, but no result.

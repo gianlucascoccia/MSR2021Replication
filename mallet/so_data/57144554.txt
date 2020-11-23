@@ -1,1 +1,1 @@
-How to use <mat-icon> tag value using Selenium Webdriver
+i newli start write autom script for electron-bas desktop application.in the application, we have a set of icon with tags. below is html code from them.lik in other applications, i am not abl to use more_vert in findelementbi linktext. for electron base application, how can i use more_vert to find the elements?your help is much appreciated!

@@ -1,1 +1,1 @@
-Launching an application while sourcing bashrc
+i'v got an electron/nod applic (editor) that use a bunch of system command to interact with a bunch of project on my computer. so in short, when my applic need some inform about those project (for those interesed, simpli said "command not found" or someth along those linesfor context, i'm use ubuntu 16.04, and the electron version i'm use is v1.4.13.

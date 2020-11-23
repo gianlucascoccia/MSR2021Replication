@@ -1,1 +1,1 @@
-Electron app across 2 displays?
+can an electron app run one window across 2 monitors? i'm not abl to drag the edg across to the other monitor. is this possible?i know i can do this to access the second screen.however, i dont want 2 window just one across 2 displays.

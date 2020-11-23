@@ -1,1 +1,1 @@
-Electron-fetch returns json as [object object] but network console shows a proper json object being returned
+i am work on a project use electron and reactjs. i am therefor use electron-fetch to fetch data from an api use json to send and return json response. in the network consol i can see i get the expect result (i also use test client (insomnia) and confirm i get a json respons which is as follows:i'v recent use normal fetch in the same way and not had a problem, so not sure if this is someth specif to electron-fetch or whether i'm miss someth here.

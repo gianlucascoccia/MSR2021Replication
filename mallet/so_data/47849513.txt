@@ -1,1 +1,1 @@
-How to perform an action only when a button is clicked in JavaScript
+i have creat a button with an action function as you can see below but the alert messag fire befor i click the action button (click me). how can i make the alert messag appear onli when i click the button (click me), and not when i choos "one" in the dropdown option value.

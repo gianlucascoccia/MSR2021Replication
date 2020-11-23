@@ -1,1 +1,1 @@
-ElectronJS Multiple Monitors
+i'm attempt to creat an applic that open 2 differ browserwindow in kiosk mode on 2 attach monitors. the onli relev document i see on how to do this is from this page which indic that the second display should have a bound > 0. unfortunately, when i log the bound of each display, the x and y properti are 0 on both displays, although the size.width and size.height appear accurate. ani thought on how to accomplish this multi-screen kiosk?

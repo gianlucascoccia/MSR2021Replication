@@ -1,1 +1,1 @@
-Handling moment objects out of scope
+i pass an array of moment object in electron use ipc from main to the renderer, both includ moment library, but when i tri to call moment function on those object in the renderer, it like they'r not moment object anymore.that the object:if i tri to call

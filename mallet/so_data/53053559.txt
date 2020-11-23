@@ -1,1 +1,1 @@
-How do you pass sync query’s to SQL Server in nodejs?
+i have found plenti of info on async queri for sql server, but i can't find anyth on synchronous. the app was much simpler and ran much smoother when i was use mysql and could perform sync queries. howev it is requir that i switch to sql server.

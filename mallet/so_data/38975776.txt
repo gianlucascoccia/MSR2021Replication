@@ -1,1 +1,1 @@
-Webpack: function is not defined
+i use webpack for modul loading. everyth work fine except click event from html.for exampl i want to do this;i think that this is the reason of the problem.how can i fix this?p.s.: i tri handl event from code, it didn't work either.

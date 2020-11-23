@@ -1,1 +1,1 @@
-electron-builder config json schema not working
+in an electron app repo, i move the electron-build config from hope to use the json schema for it. it avail in schema store also.but i'm not see ani schema details, i'm abl to see it for other config file like package.json, babel.config.json etc.i'm use vs code.

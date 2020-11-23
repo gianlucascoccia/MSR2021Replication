@@ -1,1 +1,1 @@
-Using gui.createMacBuiltin makes windows app now work in node webkit
+just start tri to creat a menubar for my node webkit app, and i follow the instruct straight from the master roger wang himself...here: https://github.com/rogerwang/node-webkit/wiki/window-menuher is the code: work beauti on mac, but make the pc app not work. ani idea now to solv it?thank in advance.

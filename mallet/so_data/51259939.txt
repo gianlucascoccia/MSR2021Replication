@@ -1,1 +1,1 @@
-Database for electron app
+recent start with electron. can ani one pleas help me with the databas selection. it seem like there is no straight forward choic for it.suggest a databas for medium size project.

@@ -1,1 +1,1 @@
-Running Electron App dependancies
+i built an app use errors.i there an os depend i'm missing? the electron doc under linux state: whether the prebuilt binari can run on a distribut depend on whether the distribut includ the librari that electron is link to on the build platform, so onli ubuntu 12.04 is guarante to work...but for the life of me, i can't seem to find ani refer to the librari that electron is link to on the web.ani wise words?

@@ -1,1 +1,1 @@
-Prevent child window from closing when parent window is closed in Electron
+i'm make an electron app. this app has a way to open a new window (popup) to be drag on a differ monitor. this window has a way to open anoth one, and so on. i need the user to be abl to close a window he doe not want, but keep other open.first, i tri is a properti i give to new window created. this is not the proper way of do it, but it get the work done. pleas feel free to answer with the correct way.

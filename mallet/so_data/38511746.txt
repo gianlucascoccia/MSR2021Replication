@@ -1,1 +1,1 @@
-Electron basic auth pop up not working
+i am tri to open my node websit insid electron app use it url, the node app has basic auth. the basic auth popup in electron app doesn't seem to work, ani help is appreciated.

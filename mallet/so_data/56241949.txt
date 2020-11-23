@@ -1,1 +1,1 @@
-Unable to pass result from a function outside of function
+i want to pass the valu outsid of function which can be further pass to the python scriptthi is my javascript code. i want to pass citi variabl valu outsid of execut function so that it can be further pass to python script word.pi with option variable. i am get error citi is not defin

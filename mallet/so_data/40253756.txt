@@ -1,1 +1,1 @@
-Electron & NodeJS chat server
+i am current work on an assign for school, and it basic consist of an electron app, which doubl as a client and a host for a chat application. would anybodi know how to set up a pure (vanilla) javascript loop to constant check for new messag and send them? also, how would i handl the incom messag in node?

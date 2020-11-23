@@ -1,1 +1,1 @@
-How to use electron-positioner
+there is no explicit exampl of how to posit your electron js app to a specif area. the onli syntax is avail on github, and it doe not describ it well.

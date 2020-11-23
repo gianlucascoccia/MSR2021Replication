@@ -1,1 +1,1 @@
-Log Javascript & Atom-Shell
+i am look for a mechan / librari that i can save the output of the javascript consol (or a logger) to a file.i know normal browser doesn't let the applic to access the file system, but i am wonder if it is possibl with atom-shell.

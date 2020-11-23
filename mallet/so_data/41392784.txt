@@ -1,1 +1,1 @@
-document is not defined error in Electron
+i start work on electron.i was tri to:open a file and display it contents.but i face the when open in the menu bar is clicked, it show the dialog to select file, but when the file is open it rais the document is not defin error.

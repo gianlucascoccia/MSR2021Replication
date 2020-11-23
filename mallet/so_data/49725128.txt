@@ -1,1 +1,1 @@
-How can I get arbitrary command line arguments past yarn and webpack-dev-server?
+i'm build an electron-bas command line tool. user will invok it from the command line, and then it'll open a normal electron window (which is whi i'm bother with electron &amp; webpack, instead of use someth simpler like ). that seem inappropri here, becaus the cli option i want to pass and develop against will be provid explicit by end-users.ani advic is appreciated.

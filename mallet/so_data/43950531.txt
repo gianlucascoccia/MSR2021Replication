@@ -1,1 +1,1 @@
-Electron, I can't use BrowserWindow to explore file system
+i'm tri to show a folder of the machin run an electron app, i alreadi look and see i can load the url

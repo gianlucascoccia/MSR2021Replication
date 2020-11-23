@@ -1,1 +1,1 @@
-Windows - Electron using protocol (with parameters) to 'do something' in the current active electron app
+updat belownote: this app is for window onli so it rule out open-url etc.i have the protocol work for my applic and it open the electron app success howev what i am look for is so that if the app is open and the user click on a protocol link with paramet ( my-app://go/to/this/sect ) it will open the current applic and run a function to go to the link.what actual is happen at the minut is the applic open anoth version of itself and not pass the arguments.i'v got the

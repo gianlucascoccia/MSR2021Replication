@@ -1,1 +1,1 @@
-Uncaught ReferenceError: dialog is not defined
+i'm tri to creat a button in electron that open a but it didn't work either (same error)how can i fix this?

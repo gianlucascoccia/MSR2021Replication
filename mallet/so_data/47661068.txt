@@ -1,1 +1,1 @@
-How to auto-start an Electron app after a fresh installation?
+i am use squirrel on window to instal my electron application. i have tri to run an applic after a fresh installation, use a squirrel event.i remov app.quit() so that the applic persist after an installation. the problem is that if i do not quit the app right away, the instal process itself incur an error on windows. how can i make sure that my applic run prompt after a fresh installation?

@@ -1,1 +1,1 @@
-Error: The specified module could not be found
+i'm tri to use edge.j to execut some .net code to print on window in an electron app. i'v tri electron-edg and i'v also tri manual build the edge.j modul target electron follow the instruct in the electron docs, but i keep get the follow error when i tri to use edg in the packag app: file, but got the same result.

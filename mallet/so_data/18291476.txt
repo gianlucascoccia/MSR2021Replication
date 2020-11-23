@@ -1,1 +1,1 @@
-connect sequelize.js to node-webkit desktop app using sqlite
+current i am use node-sqlite3 sqlite bind on my node-webkit desktop app and use it ashow can i achiev this ? (ie. use sequel on node-webkit app with sqlite)th goal is to make the databas life easier by run migrat , use model to manipul databas , or suggest if there are ani other javascript librari (mvc is prefered) , which can work through node-webkit+sqlit (and how to make them work) .is angularj an option ? if yes how to do this. thank yous.

@@ -1,1 +1,1 @@
-Fullscreen to Maximize on MacOS using JS
+i'm creat some custom maco traffic light for my react/electron app. i'v manag to get the close and minim button to work perfect fine, however, my maxim (green) button will go fullscreen but when it click again it will not return to normal.her is my code for the function that are call to the buttons: https://sourceb.in/8f930dc034.jsani help or advic would be much appreciated.

@@ -1,1 +1,1 @@
-Why i cannot quit my node-webkit app
+i'm build a node-webkit applic i have made a link to quit i have to say in my packjage.j i open a url so all the javascript are load from that url those javascript are not local on my devic

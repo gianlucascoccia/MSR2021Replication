@@ -1,1 +1,1 @@
-How can i get browser url detail from node in ubuntu and windows?
+i am make an desktop app for which i need it to detect browser url .suppos i am run googl chrome with www.stackoverflow.com then it should give me the url www.stackoverflow.com

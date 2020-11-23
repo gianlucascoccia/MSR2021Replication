@@ -1,1 +1,1 @@
-What does "Call all Node.js modules directly from DOM"?
+abov question is in context of nwjs.how doe dom call nodej module? what is dom here (just tree construct repres element or methods)?

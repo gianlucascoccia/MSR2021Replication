@@ -1,1 +1,1 @@
-Passing input variable between 2 HTML files using Electron with a login system
+i am current creat an app use electron which will allow user to communic with each other via socket.io. i have made a login screen which user input their email and password that they'v regist with in order to access the main menu. in this case i have use a dummi account for test purposes.her is the code for ), use electron.

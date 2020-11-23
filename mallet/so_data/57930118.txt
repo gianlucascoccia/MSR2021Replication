@@ -1,1 +1,1 @@
-SerialPortIO Electron
+i am tri to run a simpl electron app to read and write valu from the port com4, i alreadi download and proper instal node.j and serialport io this is the way i did it:pleas help! thanks.

@@ -1,1 +1,1 @@
-NodeJS / NPM - Remote package bug
+i'm build an electron app that need an open/sav dialog window.i'm follow this guid online: standard dialog in electron which use the error instead. this lead me to think there some kind of es6 support issu here.ar there ani troubleshoot step i could take to help narrow down the issue?or alternatively, suggest for a differ electron-compat packag for open file/sav file dialog window (mac).

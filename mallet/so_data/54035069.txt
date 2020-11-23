@@ -1,1 +1,1 @@
-ERROR in : Encountered undefined provider! Usually this means you have a circular dependencies. This might be caused by using 'barrel' index.ts files
+i'm work on angular plus electron app. i'm unabl to give build for window and linux apps.thi is the error that i am getting. when i run this command : npm run electron:window

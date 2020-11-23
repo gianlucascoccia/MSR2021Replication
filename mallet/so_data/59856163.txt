@@ -1,1 +1,1 @@
-Resizable electron browserWindow not showing in tablet mode
+i'm develop an electron(v.4.1.4) app but the problem is when the browserwindow is resiz (true) in tablet mode the browserwindow is not showing.i need to know when the comput is in tablet mode or how to make the browser window behav in tablet mode like in desktop mode.i tried: there anyway?thank in advance!

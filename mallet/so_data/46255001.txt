@@ -1,1 +1,1 @@
-Cant get compiled typescript to work inside html
+i am work on an app use electron framework. my project is structur like this. is undefin refer etc. i realli want to use typescript instead of plain java-script. i have gone through a lot of similar question on stack overflow to no avail.

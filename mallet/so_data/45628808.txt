@@ -1,1 +1,1 @@
-electron command failed: npm prune --production
+tri to build window packag from electron use the below commandpleaas help me solv this error

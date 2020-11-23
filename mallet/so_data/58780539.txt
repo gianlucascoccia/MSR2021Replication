@@ -1,1 +1,1 @@
-How to copy high resolution images in Electron (nativeImage)?
+i want to copi an imag from a path to the clipboard in electron.mi code so far:th code works, but the resolut of the copi imag is terrible.th clipboard.writeimag method requir a nativeimag to work afaik.https://electronjs.org/docs/api/clipboard#clipboardwriteimageimage-typei have tri to append differ suffix to the base filename, but it won't work. https://electronjs.org/docs/api/native-image#high-resolution-imagehow to copi a high resolut imag to the clipboard in electron.js?

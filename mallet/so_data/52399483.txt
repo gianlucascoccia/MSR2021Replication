@@ -1,1 +1,1 @@
-How to disable the download option from electron-pdf-window
+i'm build a django electronj app with pdf viewer use the follow js script and it work fine, but my concern is if i can disabl or remov the download option from the pdf viewer. if yes, then how can i do that? if this can be done, i will be grateful.

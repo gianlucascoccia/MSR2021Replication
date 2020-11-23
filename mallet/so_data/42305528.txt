@@ -1,1 +1,1 @@
-Electron crashes with C++ addon using openssl library
+i am tri to run with electron a c++ addon that link to the openssl library. when the c++ code tri to access the librari i get an exception: procedur not found. i found anoth similar question here, but i could not manag to make it work, as the origin poster said it would. i tri to link to a static compil librari from here, specif libeay32mt.lib but when run under electron it still crashes. in bindings.gyp i have the librari ad like this:ani idea how i can make this work?

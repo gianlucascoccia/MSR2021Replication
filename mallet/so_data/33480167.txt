@@ -1,1 +1,1 @@
-Detect when volume is mounted
+i'm new with node.js, actual i'm play with electron. my app is for configur devic from specif vendor and to read record files. config is a text file in devic root. record file in folder.i want to know when new devic connect and disconnect with mount points. i can do this task (detect and list mount points) separ but can't figur out how to glue it. to have callback on attach/detach i use my target platform os x and windows. onli way i see is to build nativ modul on c++. is there a simpl way to achiev this task?

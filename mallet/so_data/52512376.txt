@@ -1,1 +1,1 @@
-Overwrite content of a file in Angular
+i want to know is there ani way to change/overwrit the content of a file , which i am call from my local storag ?i have some valu in my model and i need to replac the content of a file. i have use few method even extern librari like fs js and similar , but the file is get downloaded. i don't want to show file is get download , in case it must oper in background and replac the content in the origin file without get a copi of it.suggest me some method , i am stuck here for a while now.

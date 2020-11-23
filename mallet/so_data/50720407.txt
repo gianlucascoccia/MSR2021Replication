@@ -1,1 +1,1 @@
-Changing webcam orientation in javascript (media devices)
+i'm creat an electron app that need to take a pictur from the webcam to continue. problem is: i need the camera view to be vertic (like the phones). i have a logitech c922 pro stream.cod

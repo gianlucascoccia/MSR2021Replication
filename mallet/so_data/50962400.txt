@@ -1,1 +1,1 @@
-Uncaught TypeError: r.existsSync is not a function in Angular 6 and Electron desktop application
+i am upgrad a desktop applic to angular 6 from angular 5 and electron 2 framework but get this error when i run/build the app: i think this is an issu onli with angular 6. i could not understand much from this error stacktrace. the applic is work perfect fine in angular 5.ani help is much appreciated.

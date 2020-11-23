@@ -1,1 +1,1 @@
-failed to run electron-rebuild with ffi on windows 10 (src\ffi.cc(228): error C2065: 'Handle': undeclared identifier)
+i need to use modul "ffi" in a node electron project. i can use "gyp" to rebuild it and use the librari in node, but i cannot rebuild it use "electron-rebuild" and use it in electron.i have run:

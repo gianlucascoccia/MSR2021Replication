@@ -1,1 +1,1 @@
-Allow silent print to webview in electron
+i have a web app that i use electron to connect to it. the app is display in a webview insid electron, and it has to do silent print: insid the app i am use window.print(). unfortunat everi time i click in the print button insid the app it bring to me the system dialogu print.i there ani solut to achiev this behaviour in a webview in electron?i am use ubuntu 16.04.

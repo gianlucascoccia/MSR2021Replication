@@ -1,1 +1,1 @@
-'Unknown stdin file type' error in windows
+i'v been struggl with this error for 2 day and can't realiz whi electron render

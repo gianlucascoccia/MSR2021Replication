@@ -1,1 +1,1 @@
-How to change JSON save location/directory in NW.js
+i want to load a json file from a folder call savefil (in the same directori as the nw.ex file and the package.json file (manifest file)). the problem is that the program current save the json file to the , but i do not know how to do that either. the prefer option would be to just chang the save locat to the savefil folder. thank you for ani help you can provide.

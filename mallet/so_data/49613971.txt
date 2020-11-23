@@ -1,1 +1,1 @@
-How to add paragraph dynamically in electron
+i have an array of paragraphs&#xd;&#xd;&#xd;can someon suggest how should i do it? thank in advanc

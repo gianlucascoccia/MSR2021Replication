@@ -1,1 +1,1 @@
-How to use the YouTube API inside an Electron app?
+i'm tri to implement the basic javascript code sampl insid an electron app. i'v success creat my project and ad an api key credenti in the googl console.however, when i tri the basic sampl into an electron app, i get the follow error: refus to display https://accounts.google.com/o/oauth2/auth?client_id=... in a frame becaus it set x-frame-opt to sameorigin'.what should i do to avoid that?

@@ -1,1 +1,1 @@
-How to inject CSS into an iFrame in Node Webkit?
+i'm work on a small mac app version of a web app use nw.js and want to style it to look more "mac-app" like: how would i inject custom css into the ifram that load the app?i'v tri the standard way but it doesn't work becaus they'r from differ domains.e.g. i pull in an ifram of an extern website:and want to put my own custom css on top of the iframe.

@@ -1,1 +1,1 @@
-How do you specify a custom file extension in an Electron app?
+i want to creat a custom file type for my electron app. i want custom file icon and for the app to open when you double-click on the file. how do i do this?

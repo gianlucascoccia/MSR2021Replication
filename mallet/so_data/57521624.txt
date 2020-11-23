@@ -1,1 +1,1 @@
-Electron specified procedure could not be found
+applic is work fine on my system but on client system it is show this issue.technolog use :angular v8electron v4.1.4realm v3.0.0

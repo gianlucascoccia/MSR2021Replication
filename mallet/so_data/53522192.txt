@@ -1,1 +1,1 @@
-How can I open link from webview in external browser in electron with sandbox?
+i have a object. and when i click on ani link then noth is happen. yeah, i read how to fix it but everi solut was in not sandbox mode so becaus i can't use modul like shell or ipcrender in render thread. i want to open click link in extern browser.

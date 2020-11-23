@@ -1,1 +1,1 @@
-GitHub Electron: build menu in required file
+i am season in javascript, but veri new to node and to electron. i am tri to piec the techniqu togeth from code sampl and what document i can find.i would like to includ my menu code in a separ file. the main code is in a file call the other. anyway … thank

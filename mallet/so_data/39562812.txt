@@ -1,1 +1,1 @@
-Cannot load socket.io.js file when using electron
+i am tri to make a chat applic use node.j with electron and socket.io, but when i tri to load /socket.io/socket.io.js, i alway get the error:fail to load resource: net::err_file_not_foundif i just start the server on port 3000 and put res.sendfile(__dirname+"/index.html"); socket.io.j can be loaded, but if i use electron and put mainwindow.loadurl("file://"+__dirname+"/index.html"); then the it give me the abov mention error.her is the code for my index.j page:

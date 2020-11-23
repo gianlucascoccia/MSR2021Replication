@@ -1,1 +1,1 @@
-Vue re render all component geting data from sessionStorage
+hi i have applic in electron with vue. i store all data to but this code refresh the page. i need read new data without refresh. how i can resolv this ?

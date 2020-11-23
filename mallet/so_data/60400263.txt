@@ -1,1 +1,1 @@
-How to call a function is renderer.js/main.js from web page in electron
+newbi to electron here, i have built a simpl web applic with react js and abl to view it in a window by call but there are 2 issu around here the control is from the renderer.js, instead i would want thecontrol to be on the web page of react.th data that is read should be return back to web page, so that it can be display in the web page.

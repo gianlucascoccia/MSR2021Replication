@@ -1,1 +1,1 @@
-Electron zipping files in another renderer window
+in my electron app, i'am creat 2 browserwindows, one is the main render and the other is for background processing. everyth is work smoothly.however, in the background browser window, i still have to requir pattern that electron 7 introduced).sinc i am still requir the libraries, won't they run on the main process and thus slow down the app? how do i test it run on a differ thread?ani pointer are appreciated.

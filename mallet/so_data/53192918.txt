@@ -1,1 +1,1 @@
-How to implement IPC renderer to resize a window in electron
+i want to resiz my electron window on button click. i have this code:-in main.htmlit doesnt work

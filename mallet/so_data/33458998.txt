@@ -1,1 +1,1 @@
-Remove dock badge after it is already set
+in electron, i have set the badg to a text of "." and onc the window get focus on again, i want to remov the badge. however, if i set it to empti string or undefined, the badg is still there. how can i remov the badg from an app dock icon onc it has alreadi been set?

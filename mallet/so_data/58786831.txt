@@ -1,1 +1,1 @@
-Can I control/script InDesign using Electron app/JavaScript?
+investig electron at the moment, with ultim aim of control actions/script in other app (like indesign).curr part of my workflow use filemak to trigger applecript that control actions/alt indesign doc (and then feedback result through applescript to filemaker).would it similar be possibl with electron - i.e. trigger an event in electron (through user action or watch folder etc) that would then use electron/javascript to “tell indesign” to do some action and get feedback to trigger further action in electron?

@@ -1,1 +1,1 @@
-Confused about .vue extensions - "Unknown custom element: <topmenu>"
+i tri to get work the electron-vu boilerplate. after set up the project everyth works, but as i creat a new .vue file (topmenu.vue) i get: work (notic the "-" dash) if bellow it is declar without?

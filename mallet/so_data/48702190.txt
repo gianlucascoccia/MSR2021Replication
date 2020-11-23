@@ -1,1 +1,1 @@
-Using node-ffi with Electron not working (cannot find message text for message number 0x%1...)
+i'm actual tri to use a error translat : the system cannot find messag text for messag number 0x%1 in the messag file for %2use electron 1.8.2

@@ -1,1 +1,1 @@
-Unable to find electron app
+i'm run through this youtub tutori on an ubuntu 17.10 and when i run the build command directori like this:ole@mki:~/angular-electron$ ./node_modules/electron/dist/electron .error launch appun to find electron app at /home/ole/angular-electroncannot find modul /home/ole/angular-electron'thoughts?

@@ -1,1 +1,1 @@
-emberjs and electron app
+my electron app is crashed, when i use ember. the app bind a web applic and the web applic has now emberj for the frontend. in the consol is the follow error:anybodi a idea whi this came?mi package.json in electron app have the follow dependencies:

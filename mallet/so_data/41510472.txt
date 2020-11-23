@@ -1,1 +1,1 @@
-How to integrate and run existing ReactJS Application in Electron
+for instance, i have an reactj application: https://iaya-664f3.firebaseapp.com/you can see in the html sourc the

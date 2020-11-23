@@ -1,1 +1,1 @@
-Electron showOpenDialog arrow function (event.send) not working
+i'm follow the dialog exampl for open file from: https://github.com/electron/electron-api-demosi copi the code from the example. the open file dialog doe in fact work and i'm abl to select a file but can't figur out whi the arrow function to send the file path back to render doesn't work(noth is log with console.log). can anyon spot what wrong?th project was start use electron-forg and my os is linux.thanksindex.j

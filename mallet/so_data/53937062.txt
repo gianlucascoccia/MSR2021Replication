@@ -1,1 +1,1 @@
-Electron JS Error: Cannot create BrowserWindow before app is ready
+i am use jqueri within electronj project.i wrote simpl code which open a brows window without ani element in the jqueri readi function.

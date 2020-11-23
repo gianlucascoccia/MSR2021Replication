@@ -1,1 +1,1 @@
-Error with sqlite3 after updating electron-react app
+after updat my electron-react app, when i tri to start it with npm run dev i get the consol error messag say that i need to manual instal sqlite3. the sqlite3 is instal @4.0.6, react@16.8.6, electron@3.1.6aft some digging, i tri a coupl of solut from stackoverflow and git, but none worked. i tri for exampl instal has anyon came up to this? i tri alreadi a lot of thing but i couldn't manag to get it working. thank you in advanc

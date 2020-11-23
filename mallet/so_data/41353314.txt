@@ -1,1 +1,1 @@
-Passing Powershell Objects to Node.JS / Electron and wrap them in HTML Tags
+i'm tri to write a littl tool in electron that call powershel scripts.i know how to get powershel output into my script from this thread:https://stackoverflow.com/a/10181488/3161671so i havewhat the cleanest way to achiev this? i'v seen peopl embed html tag in their powershel scripts, but i think it make more sens to use javascript for the object-to-html and formatting, doesn't it?

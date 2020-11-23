@@ -1,1 +1,1 @@
-Reactjs, electron assets Folder
+i need to dynam load imag from a directori with subdirectories. i ad folder imag to src and it work as long as i use yarn start to start the application. but the folder is not packag to the dist build. i tri to add the folder to package.jsoni know how to import imag but i need the whole directori with 200 sub directories. do i have to import everi singl imag separately?

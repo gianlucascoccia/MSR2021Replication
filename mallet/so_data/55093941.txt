@@ -1,1 +1,1 @@
-Powershell Detecting When Device Is Added Or Removed
+i have a node js nw.js/angular app that continu run a powershel script everi 5 second to get the current connect remov storag devic (usb thumb drives, sd cards) that i then show to the user in the ui. my question is: is there anyth i can do on the powershel script itself to notifi me of chang rather then run it in a continu loop? it seem fine now and work smoothly, just wonder if there a "better" way. i'm use the node-powershel librari from npm to call the command from a simpl javascript setinterval() method.

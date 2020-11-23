@@ -1,1 +1,1 @@
-In Electron Framework, Can I access clipboard?
+i am new to electron framework, i wanna know doe it have access to nativ resourc like - clipboard- keypress (not on my web page, globally. like a keyboard hook on windows)

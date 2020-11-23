@@ -1,1 +1,1 @@
-Can Spectron test and Electron application installed in Program Files?
+is spectron an electron test autom tool that can onli be use when spectron is instal with the sourc code/resources?or can it be use to test a product instal of an electron applic i.e. instal with an instal into c:\program file on windows.th doc here seem to indic no but am not sure.thanksm

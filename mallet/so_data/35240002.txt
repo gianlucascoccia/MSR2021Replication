@@ -1,1 +1,1 @@
-How to retrieve code from real barcode scanner in node.js for node-webkit app
+i'm develop an desktop applic use node-webkit(nw.js) i want to integr real barcod scanner with that app for merchant how can i integr real barcod scanner with node.j

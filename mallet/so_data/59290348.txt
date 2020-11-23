@@ -1,1 +1,1 @@
-Spectron Cannot Resolve Module Process Error
+i'v been mean to use spectron to test my electron app, i follow exact what was written in spectron github page, but as i execut , the follow error occured:i'v search for a while but couldn't find ani solution, doe anyon have ani insight?

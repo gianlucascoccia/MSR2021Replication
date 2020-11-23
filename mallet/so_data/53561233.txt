@@ -1,1 +1,1 @@
-Electron ignores loadURL() calls if opened with elevated privileges (uiAccess=true) by a non-Admin user
+we have an exe-packag electron applic that need to run under window with elev privileg (uiaccess=true) to prevent user from access window when it run in full screen.set doe not give ani more info.ani idea what could be a reason, and how can it be solved?

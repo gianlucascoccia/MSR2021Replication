@@ -1,1 +1,1 @@
-Electron webview preload only file:// protocol is supported when using create-react-app base
+electron v3.0.5hello, i have a project use electron and create-react-app and i can't get my project to find the preload script.her the webview tag:howev i just get the same errors, and process.env.public_url return "" anyway.ani help would be much appreciated, i haven't been abl to find an answer to this problem anywhere.

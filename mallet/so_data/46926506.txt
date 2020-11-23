@@ -1,1 +1,1 @@
-Can MongoDB be packaged in an Electron app?
+can i packag mongodb in an electron app so i don't need to instal it on a client machine? i'm develop an app on osx and it will probabl be use on windows. do i need to separ instal mongo on the clients?

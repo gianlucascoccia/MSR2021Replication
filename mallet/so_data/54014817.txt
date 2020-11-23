@@ -1,1 +1,1 @@
-Why does my Electron app lag after building?
+i have an electron app that work perfect well when i run it with "npm start". this is my start script:i'm not realli sure what caus the slow behavior in my app. addit my app use webgl, so i was unabl to use the "disablehardwareacceleration()" command. i'm just confus in general as to whi my app function normal with "npm start", but then lag when i build it into an actual application.thank you for ani help in advance!

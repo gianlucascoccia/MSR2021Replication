@@ -1,1 +1,1 @@
-Using Webpack, upgrading electron app version (Windows) not always removing previous version shortcuts and uninstall entries
+i have an electron app that i am deploy use webpack. if i instal version 2.5.1 and then instal version 2.6.2 general it upgrad as intend (i.e. complet overwrit previous version) but occasion i am left with version 2.5.1 still show as an entri in the uninstal program kust along with the correct 2.6.2 versionpackage.json:i thought that have the same appid between version would caus an upgrad regardless of the version number, what am i missing??

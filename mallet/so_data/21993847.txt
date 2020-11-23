@@ -1,1 +1,1 @@
-node webkit - add custom folder outside of app.nw
+is it possibl to add a folder that doe not resid insid the app.nw zip file? and if so, how is this done on win/mac/linux? ani link with more info?

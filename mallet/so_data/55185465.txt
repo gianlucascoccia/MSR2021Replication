@@ -1,1 +1,1 @@
-Unexpected token import when importing from other ts file when running by mocha
+i have a util class where i save some info for my test class but i still got this error.

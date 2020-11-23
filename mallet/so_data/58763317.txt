@@ -1,1 +1,1 @@
-electron powerMonitor shutdown event is not working properly
+hi everyon . on electron for mac. when the electron applic was run it was not allow user to shutdown or restart unit he forc quit the application. so i use powermonitor shutdown event https://electronjs.org/docs/api/power-monitorbut not shutdown event is trigger even when we quit the app. requir behavior is it should trigger when the mac machin is restart or shutdown ani help will be appreci thanks.

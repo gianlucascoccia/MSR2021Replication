@@ -1,1 +1,1 @@
-SyntaxError: missing ) after argument list when using electron-builder
+i am peleas look for help regard electron-builder, use create-react-app and instal electron builder and run

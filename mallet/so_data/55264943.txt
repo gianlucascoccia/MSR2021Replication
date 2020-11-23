@@ -1,1 +1,1 @@
-Zoom Function in a Webview with Electron
+i'm tri to creat a zoom in and a zoom out button for my webview in my electron app.currently, i did it like this but

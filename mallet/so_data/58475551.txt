@@ -1,1 +1,1 @@
-How can you pass a link inside an iframe into another Window in Electron?
+suppos you have two browser window in main.jswhen you click on the link in example.html, usual the url would load insid the iframe, but you want to prevent that and instead pass it to window2 insid main.jshow would you do that?

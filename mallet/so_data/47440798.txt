@@ -1,1 +1,1 @@
-Electron: Change React component state from main.js
+i have an electron app with includ (among others) the follow files:what can i do to fix this issue?(for some background, i am make an electron app that should receiv messag over mqtt and updat the element on the screen base on the receiv message.)

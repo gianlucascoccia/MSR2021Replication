@@ -1,1 +1,1 @@
-Electron - sudo commands
+i have a small app for file manipulation. it most handl user file, but it need an access to maco file from time to time, henc i need the admin access.i there a way to ask user for root access onli once, so the whole app has it and the user is not requir to type in the password everi time the command need to be run?i'v been look for a nice solut and one is to ask the user for password and store it locally, but use it later is not consid "secure" anymore.

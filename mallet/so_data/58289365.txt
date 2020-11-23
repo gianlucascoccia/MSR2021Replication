@@ -1,1 +1,1 @@
-Failed to install electron "tunneling socket could not be established"
+i am tri to instal electron on window 10 use these commands:her is the log that was generatedso far, the node i use is as up to date as possibl with version 10.16.3 and npm 6.11.3.what should i do to resolv this error?

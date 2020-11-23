@@ -1,1 +1,1 @@
-Switching between span tabs to display different Iframe HTML error
+i'm build an electron app and i creat a div menu with span in it that contain their own ifram html. i want to be abl to click on a specif span and for it to display it iframe. right now when i have more than one ifram in the html file, it display them over each other. here is my html:i'v code this befor in jqueri a while ago but im not sure how to do it in just regular js.ani help is appreci thank you!

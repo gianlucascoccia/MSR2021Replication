@@ -1,1 +1,1 @@
-Blank page with Electron Application
+i have a big issu with electron.it seem to "crash" when html anim fired. so exact electron show me a blank page (html, localstorage, script ecc were deleted), we have no log in consol and terminal.i there a way to debug verbos application?somebodi can help me? edit: i have test a lot and i found problem. i use angular-ui-rout and when i use a tag some link works, anoth crash app (blank screen)

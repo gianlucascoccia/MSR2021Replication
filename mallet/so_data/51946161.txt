@@ -1,1 +1,1 @@
-Writing to a packaged app folder in Electron
+i'm creat a portabl electron app that write some file to the program folder. it work pretti well when i packag it without the --asar option in electron-packager, which leav the resourc folder with plain html + js files.now when i tri to compil it with the --asar option, so that it packag the resourc folder into one file, i can't access the program directori ani more with the follow code:thi now return the path of the asar file, so i can't realli write to the applic folder ani more. is there ani way around this?

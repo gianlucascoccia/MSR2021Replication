@@ -1,1 +1,1 @@
-Typescript megring namespaces in d.ts files
+now i`m tri merg namespac from d.tsexample:when i tri megr namespac in one file, all is well.i got this error: ts2339: properti isquit doe not exist on type app'.do i can merg custom namespac with d.ts?

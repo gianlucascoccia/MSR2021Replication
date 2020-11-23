@@ -1,1 +1,1 @@
-electron: Custom protocol example doesn't work in windows
+electron version: 1.4.4oper system: window 10 x64hello, i am tri to “hack” the file protocol in in the callback, i get the error message.ani insight would be appreciated.

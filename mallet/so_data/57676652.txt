@@ -1,1 +1,1 @@
-How to import a self-signed certificate in Electron Application
+in my electron application, i will hit a https rest server which alreadi gave me a crt file. how can i import it in my electron app and verifi if it is safe?i check the document of electron. i found the descript of certif object:https://electronjs.org/docs/api/structures/certificatebut i didn't find ani sampl of the object data and how to import and verifi it.now i am use this to bypass it but it not secure:

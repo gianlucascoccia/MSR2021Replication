@@ -1,1 +1,1 @@
-can child BrowserWindow inherit Webcontent event?
+i have this event handler on my main window.i would like to know if when i creat anoth browserwindow, i can have it inherit this event handler or if i have to declar it for everi window i create.

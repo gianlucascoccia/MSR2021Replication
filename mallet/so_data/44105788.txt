@@ -1,1 +1,1 @@
-Signing a Windows installer (.exe) for application created using Electron
+i have a simpl app built use electron framework. i packag the code use . so can anyon help me how to sign an electron applic (window application) so that it treat as trust application?thank

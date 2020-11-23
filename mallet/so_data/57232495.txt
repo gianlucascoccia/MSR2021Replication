@@ -1,1 +1,1 @@
-How to open exe file passing fake keyboard input programmaticaly
+i'd like to ask you if there is ani way of run a child process in node.j and open the exe file (so the new window is open on windows) and then pass the input to the child process so it is interpret as keyboard input.i tri but without success. is there ani known solut to do such things?

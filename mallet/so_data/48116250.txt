@@ -1,1 +1,1 @@
-electron app using cluster
+can i use the cluster modul in the electron?.when i call them that worker immedi die

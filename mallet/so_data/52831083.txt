@@ -1,1 +1,1 @@
-restrict electron app to able to install only on windows 7 and above?
+i have creat and built the electron app use eletron-builder, everyth is work fine but i want to restrict the app instal to onli window 7 and above.for exampl if the user want to instal the app on window xp or window 2003 it should error say instal requir window 7 or above.i'm veri new to the electron and search the internet for the solution. i didn't find ani solut yet.can anyon help me?

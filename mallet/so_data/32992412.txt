@@ -1,1 +1,1 @@
-Why is jsdom throwing a Type Error?
+i use jsdom to pars remot site, but when i tri to use it with node-webkit.js, it throw error: uncaught typeerror: a super constructor call may onli appear as the first statement of a function, and it argument may not access this'. other form are not yet supported.but if i use it via termin - it works! how to solv it?

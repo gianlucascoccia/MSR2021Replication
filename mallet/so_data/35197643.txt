@@ -1,1 +1,1 @@
-read or write file to filesystem with angular
+i will read/writ a file with angular from/to my hdd. i normali use node modul "fs". what the best practic to combin this modul with angular to use it in node webkit?thanks!edit: (can't use requir in angular to load npm modules. ani ideas?)

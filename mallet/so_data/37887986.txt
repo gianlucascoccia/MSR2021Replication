@@ -1,1 +1,1 @@
-Amazon S3 javascript sdk for Browser throwing 403 error
+i am use amazon s3 javascript sdk for one of my applications. i am get the follow error:can someon pleas tell me what i am do wrong here.

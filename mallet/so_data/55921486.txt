@@ -1,1 +1,1 @@
-Electron window title takes a few moments to load (shows project's name before loading)
+when i run my code use (as suggest by @mr. polywhirl) doesn't seem to make a difference:

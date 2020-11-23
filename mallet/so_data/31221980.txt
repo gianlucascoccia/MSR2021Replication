@@ -1,1 +1,1 @@
-How to access a RowDataPacket object
+i'm current develop a desktop applic with node-webkit. dure that process i need to get some data from a local mysql-database.th queri work fine, but i can't figur out how to access the results. i store all of them in an array that is then pass to a function. in the consol they look like this: function? the valu are more important, but if i could get the key as well that would be great.

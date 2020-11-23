@@ -1,1 +1,1 @@
-In electron i keep getting the error message "ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command", why?
+i'm tri to get ipcrender to send an async messag to ipcmain. but i keep get the below error message. i'm unsur what is happening. index.html

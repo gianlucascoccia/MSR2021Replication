@@ -1,1 +1,1 @@
-Cannot run electron via "npm start" with X11 forwarding
+im tri to run an electron app over ssh with x11 forward on some headless machine. in that case just electron-quick-start. it work when i execut can anyon explain to me what is happen here?

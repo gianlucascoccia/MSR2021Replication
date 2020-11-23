@@ -1,1 +1,1 @@
-Failed to run Electron Helper in sandbox environment
+i had a problem when submit my electron app to the appl storefrom what i understand i have to sign all my file and to enabl sandbox, but when i do that when i start my app i see white box with noth in it becaus the the app is unabl to find helper. has anyon had that problem before?

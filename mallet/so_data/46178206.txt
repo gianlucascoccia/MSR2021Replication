@@ -1,1 +1,1 @@
-Creating multiple invisible windows with different parameters in Electron
+descriptioni am tri to use invis window as tasks/thread in electron.first i creat a number of invis window in a for-loop in the main process. each window send an event questioni my guess that this race condit is the problem right? and how can i solv that?i also feel like this is not a good way of do that, is there a better way in electron to spawn tasks/thread like these (i also tri web worker but the node.j modul did not work there)?

@@ -1,1 +1,1 @@
-How to load an electron apps from a URL
+when run electron with an invalid option, i get:" it load a blank screen, or if i add a filenam to the path, liter the content of that file.i it possibl to load an app from a url in electron? how?

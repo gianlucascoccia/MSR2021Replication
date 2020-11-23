@@ -1,1 +1,1 @@
-Continuous Deployment of a electron app using GitLab
+i am develop a desktop app on a linux machine. the code is host on gitlab.com. i'd like a sampl gitlab-ci.yml on build the app for windows. i'm out of idea on how to go about this, ani assist will be appreciated.

@@ -1,1 +1,1 @@
-How to dynamically store some css, font-style file to react's public folder?
+i am work on an epub project use electron with react, and use epub to pars the epub file. through this parser, i am abl to fetch the . so is there ani equival way for to load font-face?

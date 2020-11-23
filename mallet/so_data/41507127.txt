@@ -1,1 +1,1 @@
-Updating Electron app
+the electron framework from github has a featur that let you automat updat your app by use some server util call squirrel. what i am wonder is whether an electron app can simpli just updat itself without depend on ani server utility. sinc an electron app is basic a web-bas app use html and javascript, couldn't you just creat an "empty" app that has no ui or code other than some bootup javascript code that download the entir ui and other script to run the app?

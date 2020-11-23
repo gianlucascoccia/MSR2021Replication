@@ -1,1 +1,1 @@
-NodeJs Cannot find custom native module (C++ and node-addon-api)
+i built my own nodej modul with node-addon-api in c++ and now i want to use it in an electron.j app. but unfortunet stuck with can not find modul error.mi project structur is like the following:and then there is a list with some folder it has tri to find it. but none of these folder exist in my project.

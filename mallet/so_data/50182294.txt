@@ -1,1 +1,1 @@
-Why is css url() function mangling my path?
+in my react app i'm use set the style of a div to ordinari relat path to imag without file:// work fine and if i copi the path, print from console, into the inspector it work fine too.i can't figur out when this transform happen but print of the url i'm use in my react compon are fine.

@@ -1,1 +1,1 @@
-how implement auth0 authentication using external browser(chrome,firefox etc.) in electron application
+i am use use auth0 authent in my electron app. i am not use browser window of electron app in ani case. so, i want want to open my auth0 authent window in extern browser(chrome,firefox etc.) or instal default browser. is there ani way?

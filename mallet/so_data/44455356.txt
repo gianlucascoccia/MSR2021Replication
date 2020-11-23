@@ -1,1 +1,1 @@
-`document` is not defined Electron
+i'm tri to read json from a file use the i get an error saying: uncaught exception: error: jqueri requir a window with a documenthow do i modifi the dom from the js, and whi do i get this error?

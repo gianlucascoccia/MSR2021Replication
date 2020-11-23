@@ -1,1 +1,1 @@
-Nodewebkit app takes time to load in windows
+newbi to and face some issu with packaging.i have creat a .nw file and then .ex file by follow step defin in packag and distribut node webkitproblem i am face current is that node webkit take say 2-3 minut to load application. is there ani idea whi is it take so much time?if it take more time than can i do someth to run that faster?thank in advanc

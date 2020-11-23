@@ -1,1 +1,1 @@
-Electron builder - GitHub Personal Access Token is not set, neither programmatically, nor using env "GH_TOKEN"
+i have an electron app for which i want to set up an auto-updater. i follow this blog post and made a small demo, it work great with some small changes. then i tri to implement it with my real project and now i am get an error.i alreadi have electron-builder.yml file and i even tri set up gt_token anv variabl but it still throw same error.

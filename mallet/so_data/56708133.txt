@@ -1,1 +1,1 @@
-Not possible to build electron package correctly in windows server machine(tfs agent)
+i build applic use electron framework, i see packag is correct in my local machine(window 10 64 bit). after the packag is built, i am abl to run the package.if i run the applic in window server 2019, i cannot run the applic that is built. more info, i build the electron packag in tfs and the tfs agent is window server 2019.build script insid package.json"builder": "electron-packag --out winx64 --overwrit --platform win32 --appnam mgcenter . --executable-nam clientlmcent --no-prun --asar"

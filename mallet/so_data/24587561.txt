@@ -1,1 +1,1 @@
-How do I import a csv through Web SQL API in an node webkit app?
+i'm creat a databas use web sql api in node webkit use this : how do i import a csv into a tabl in mydb?thanks.

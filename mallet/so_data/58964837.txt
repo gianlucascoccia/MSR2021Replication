@@ -1,1 +1,1 @@
-Cannot find module robotjs
+i am use robotj for remot control in angular electron app, it load up fine in develop mode(npm run electron) but when i do packag (.exe) use electron packag then after generat exe file i get "cannot find modul robotjs" upon run the exe file.s/w details.electron - v7.1.1node - v10.16.3win - win 10 64biti have follow robotjs.io and follow all the pre-requisites, no help.

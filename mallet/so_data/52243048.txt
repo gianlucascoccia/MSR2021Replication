@@ -1,1 +1,1 @@
-Redirecting after onclick()-event with a-tag
+i am program an app with elecrtonj and got stuck.so on my page there is this html:thank for the help.

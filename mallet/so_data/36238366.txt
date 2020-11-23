@@ -1,1 +1,1 @@
-How to make Browser Window draggable?
+i have a browser window (use electron.atom.io) and i'm tri to make it so that you can click over most of the screen (except inputs, etc) and drag it over your desktop - basically, i don't want to restrict drag just to the titl bar.do anyon know how i might be abl to do this?

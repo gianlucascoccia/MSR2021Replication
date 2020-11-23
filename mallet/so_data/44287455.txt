@@ -1,1 +1,1 @@
-Running an electron app, i encounter multiple MacOS errors
+we'r develop an electron app and we'r face some maco errors, see :the imag linkth process is our electron app (music player play lossless audio).th app is run correclti though.ani idea ?

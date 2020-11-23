@@ -1,1 +1,1 @@
-Electron main process modules access to app
+so i need some work done in my main process. and i made some extern class for it. in main process js i have:g me:cannot read properti getpath of undefinedimport remot in apiclass also give me undefined. i understand that remot is the onli way to access main process from renderer. and it seem to be undefin in main process. but how can i access app from submodule? i don't want to path electron method result to apiclass conctructor, becaus if api chang i should chang main js as well.

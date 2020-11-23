@@ -1,1 +1,1 @@
-How to get the query result in an object executed over SSH
+i am tri to get the result of an queri execut over ssh in an object to pars and show in the website. so far i have been abl to execut the queri and in the consol log i can see the tabl output. below is the code snippet i am use in node js. this is an app build with electron framework.i am execut this from my client the data object i am receiv has a lot information, but i want to have onli the queri result.thi is the consol log of the data object

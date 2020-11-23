@@ -1,1 +1,1 @@
-Is it possible to insert a whole .json file in a database NeDB?
+i was wonder if it was possibl to insert a whole json file in a nedb databas .i'm tri to turn an .xlsx file to a .json file, i succeed but i'm wonder if it possibl to insert the whole .json file in a nedb databas

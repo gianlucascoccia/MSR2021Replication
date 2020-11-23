@@ -1,1 +1,1 @@
-How can I sort divs with javascript
+i would like to sort a few div in ascend order base on their data-id. how can i do that?

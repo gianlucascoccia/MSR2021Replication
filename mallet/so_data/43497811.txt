@@ -1,1 +1,1 @@
-How to use Electron API with Vue js component?
+i'm use the electron-vu boilerplate, and i want to make my you will find it as it is in electron-vueth pictur show how the structur of the folderent imag descript here

@@ -1,1 +1,1 @@
-Closing MatDialogRef in Electron
+i am work on an angular 5 app compil through electron 2.0.5. i am use when debug the app through vscode i can confirm the close() method is be hit. the dialog doe not close and there are no consol errors. how do i close the mat dialog ref?

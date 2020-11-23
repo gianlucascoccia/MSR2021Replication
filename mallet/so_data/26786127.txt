@@ -1,1 +1,1 @@
-OpenFin : yo openfin error es5-ext
+i have probelem with openfin ... you know : openfinwhen i tri "initi the generator""step 2 - creat a folder, open your command line and enter yo openfinent a name and descript when prompted." note: i have window 8.1 x64 and i have unistal nodej and other. and clean everi thing with clean master and restart pc and tri npm cach clean and instal nodej againand i instal the es5-extsorri for my bad english, do you have ani idea for this error?

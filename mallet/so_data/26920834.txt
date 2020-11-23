@@ -1,1 +1,1 @@
-Run shell command from JavaScript in node-webkit?
+is there ani way to run shell command from javascript in node-webkit?ther is a lot of similar questions, but it didn't help me.i'm tri to build simpl desktop app for list instal tools.i'v creat node modul tools-v which is instal global and work when i run it in command line.thi modul run sever commands: i tri spawn instead of exec. i also tri sever other commands, besid node module.thanks.

@@ -1,1 +1,1 @@
-node-webkit app not working on windows 7 32 bit
+i am new in node webkit and develop desktop applic in html. i have creat a small project and run use nw.ex and it work fine in window 8.1 64 bit but it not work in window 7.mean it run if i click mani time then sudden start and after close onc then not abl to run again.mi package.json can ani one help ?

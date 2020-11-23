@@ -1,1 +1,1 @@
-JavaScript: Developing a search query for MongoDB
+i need some assist develop a search queri to give a button in my electron applic some functionality.thi is how far i have gotten: is equal to age, i need to ensur i have a statement that say age.

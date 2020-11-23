@@ -1,1 +1,1 @@
-How to make webpage not responding for testing
+i want to make a webpag in not respond state manually. the purpos is to emb webpag insid a webview compon in an electron application. so that the render process can know the embed process is not responding, i wish to use the unrespons event for the webcont object. can anyon help?

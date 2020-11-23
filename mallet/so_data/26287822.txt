@@ -1,1 +1,1 @@
-Node-webkit package.json fullscreen not working
+the package.json manifest file should make the applic full screen, but in the end, the program keep it min_width and min_height. it is someth wrong (and if so, what wrong) with the packag or should i add someth more in index.html ?thank in advance.

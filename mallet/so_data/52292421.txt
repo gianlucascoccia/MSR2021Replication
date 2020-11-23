@@ -1,1 +1,1 @@
-Electron make Http request behind corporate proxy
+i have a stand alon applic made with electron and angularjs.i would like to make some httprequest likethank u a lot in advanc

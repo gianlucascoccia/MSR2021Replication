@@ -1,1 +1,1 @@
-publishing my react-app bundled in electron app to github releases
+i have a and i have packag it but now i want to publish my app so i tri use github releas but then as per their document when i tri to attach my file it fail say that i cannot upload file more than 10 mb.i was unabl to find ani workaround or solut for this so ani help on this will be high appreciated.i am unabl to perform other altern as i do not know docker so ani idea or view on this..thank you in anticip

@@ -1,1 +1,1 @@
-Configure compiled electron application from external file
+problem:i need to configur compil electron applic from extern file. config includ api url. when the applic start it should point to this url.if compar with c# or java i want to have behavior like app.config or application.properti provides.questions:how to implement read the config file and set api url at start.what is standard approach for electron to configur it from extern file?ani inform is high appreciated.thank in advancep.s. electron host angular 7 application.

@@ -1,1 +1,1 @@
-NWJS: Cannot find module ./lib/helpers
+i have problem when tri to run my application, run on nwjs. when look in the nwjs devtool console, i get the error command, but both version of dev pc and test pc seem to be the same. from here the trail ends. i have no idea where to start look from here. hope anyon can help me. i use:nwj v0.14.7 (due to compat with window xp)node v4.2.6npm v3.5.2

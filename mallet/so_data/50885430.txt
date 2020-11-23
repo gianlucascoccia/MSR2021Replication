@@ -1,1 +1,1 @@
-waiting with code execution for input
+in an electron applic i need to alter an array of objects, i receiv from an excel file.a long as there is no user input in this function this work great, but there is an option for the user to link a directori with filenam into that array. if i open a dialog to choos the directori i'd need my script to stop and wait for the user input but can't see how to do that. simplifi my code look like: wait for one function to finish befor the next one is executed. but as it seem i miss some crucial point or may be complet wrong with my assumption.

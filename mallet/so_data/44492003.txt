@@ -1,1 +1,1 @@
-Post-build script with electron-builder
+is it possibl to run some sort of script post-build befor pack the instal with electron-builder? i need to generat an extra file that should be distribut but i need the binary, the .exe, to generat it.

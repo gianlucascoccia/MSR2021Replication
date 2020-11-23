@@ -1,1 +1,1 @@
-NodeWebkit Prevent window from closing on startup
+i have pinpoint the error in my app.j that appar crash the nw window.what happen is on the startup when that line is executed, window simpli close without ani information. how can i forc it to stay open, and mayb look in the consol window for more details.

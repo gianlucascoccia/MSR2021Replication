@@ -1,1 +1,1 @@
-In electronjs, when I close the child modal window, how to reload the parent window?
+i am use electronj framework for an app development. this is file structure.th modal window (modal.html) is opening. in modal, i have a form. now, i want when i submit the form, the modal window closes, and the page.html (which is the parent window) reload automatically.currently, the modal window is close but the page.html is not refreshing.

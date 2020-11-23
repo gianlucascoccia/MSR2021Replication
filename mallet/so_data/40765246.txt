@@ -1,1 +1,1 @@
-Signing installer for windows app using electron builder
+i am use electron-build for creat instal for my desktop app in window by command i want to sign my window installer(i have certif in .p12 format)i know we have to do it by csc_link and csc_key_password but not get ani exampl of how to do it.pleas help me out of this!thank in advance.

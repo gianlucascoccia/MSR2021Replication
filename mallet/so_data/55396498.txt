@@ -1,1 +1,1 @@
-Use doc as computed property (Vue, nedb, Electron)
+i'v instal nedb to my setup run vue and electron follow this guide. i get no error when set up the databas and everyth seem to be work storag wise.i'm have troubl display the content of a doc though. i'm probabl misunderstand how to do it.th way i'v done it now is that i first off have this test method in vue call .i suspect that i have to do it anoth way. ani ideas?

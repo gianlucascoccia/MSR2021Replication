@@ -1,1 +1,1 @@
-Not able to load JS library with Webpack
+i'm tri to authent googl vision api with electron and it seem like the googl vision api can't find the requir librari so it give me these errors. i ad the node modul use

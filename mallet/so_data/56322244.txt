@@ -1,1 +1,1 @@
-Electron Forge Template Angular index.ts ipcRenderer listener in separate file
+i want to move electron forger angular index.t file ipcmain.on() listen into separ file.how can i move ipcmain.on listen into separ files?index.tsi want to move below mention code from electron js success connect to mongodb and perform crud oper from angular client app

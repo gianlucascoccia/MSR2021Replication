@@ -1,1 +1,1 @@
-Can an Electron window use windows authentication to login to SSO?
+i have a veri earli stage electron applic that we are use for a proof of concept.i am use

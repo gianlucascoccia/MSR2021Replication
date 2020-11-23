@@ -1,1 +1,1 @@
-Why I can not run my electron application after electron-forge make command?
+i have written small electron application. for build and packag purpos i have download follow node packag applic run wthout ani problems. i can not distribut my applic and realli need your help: what could be the reason of this issue?

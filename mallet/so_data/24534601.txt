@@ -1,1 +1,1 @@
-option force_s3tc_enable overridden by environment
+i'm write in nodewebkit and the problem is when i use the select input: valu be sudden outside?

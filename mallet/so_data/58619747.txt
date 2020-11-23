@@ -1,1 +1,1 @@
-How do I hide electron default menu
+i have made a project use ionic 4 and electron. i don't want to show the default menu item as highlight in the pictur below.thi is my

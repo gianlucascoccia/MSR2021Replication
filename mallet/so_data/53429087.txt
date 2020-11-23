@@ -1,1 +1,1 @@
-display a favicon in the head tag using electron
+i have tri to add an imag insid the head tag under /public like this . but what im see is just mytitle.i there a way to show an imag next to the titl use electron

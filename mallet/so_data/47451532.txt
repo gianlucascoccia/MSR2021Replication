@@ -1,1 +1,1 @@
-how to load or read local files in Emscripten without using Preload-file?
+i have cpp file contain open file and read the content that function i have to use in web browser use emscripten. i alreadi done preload virtual file access from my current directori to load the file but still i want to load file from other directori also when i tri i am get failur how to achiev this ? here my compil cpp codei expect altern file access that should read all file from my comput

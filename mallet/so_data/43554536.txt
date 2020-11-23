@@ -1,1 +1,1 @@
-Electron webContents executeJavaScript : Cannot execute script on second on loadURL
+i am test out electron and specif work with executejavascript. my project use a post request to sign into a website, then doe a bit of work and load a second url use the same session. in this second url, i need to execut js but i am not sure what i am do wrong.in this exampl i creat a dumb down version that simul go to two url and execut js on the second. ani idea on what is go on here?

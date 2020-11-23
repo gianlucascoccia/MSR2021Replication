@@ -1,1 +1,1 @@
-DraftJS - convertToRaw throws contentState.getBlockMap is not a function in Electron app
+i am tri to use draftj editor in my electron app. while tri to save the content of my editor to raw json, i am get contentstate.getblockmap is not a function error. code is veri simply. i am assum there are some depend issu but i cannot seem to figur out. ani help appreciated.

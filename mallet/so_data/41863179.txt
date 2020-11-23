@@ -1,1 +1,1 @@
-Setting transparent property on an already created window in electron
+do you guy know if i can set browserwindow properti to be transpar in the middl of my program and not dure the creation time ?, sinc css base anim on window work onli if it transparent, i need the window to show up with background color and then go transpar just befor my anim kick in

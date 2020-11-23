@@ -1,1 +1,1 @@
-Best practice for Electron latest version download URL
+we'r launch a new app built in electron and was wonder if anybodi has ani tip on best practic for releases?w use electron-builder, which packag and publish each new releas to our s3 bucket, but the file are name as such: appname-setup-1.0.3.ex is there an easi way to have a "latest" url that alway point to the latest app version? right now it seem like we'll need to publish our new version, then creat a copi as appname-setup.ex in our s3 bucket, with a nice url alway point to it... are there better methods?

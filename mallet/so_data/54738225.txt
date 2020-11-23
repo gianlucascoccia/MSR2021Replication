@@ -1,1 +1,1 @@
-Electronjs and Nodejs(Crypto) crypto.scryptSync is not a function
+hi so i have a server run crypto it work perfectly. im use electronj as a client side and crypto is suppos to be build into node. when i tri use the modul it return "crypto.scryptsync is not a function"i have

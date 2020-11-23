@@ -1,1 +1,1 @@
-Electron vue new window with child route
+in electron vue i am suppos to creat new vue instanc for each new window. this work fine until i want to load router child compon to fresh window. for exampl i have entri none of them seem to be working.

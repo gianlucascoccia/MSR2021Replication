@@ -1,1 +1,1 @@
-How to connect Electron.js with Java code for desktop applications?
+i am build a simpl notepad application. i want to build the front end with electron.j and for file handl or databas i want to use java as back-end language. how should i connect electron with java back-end. anyon pleas help.

@@ -1,1 +1,1 @@
-Electron and serial ports
+i have tri everyth to tri to get electron to work with the pcs serial port. follow all instruct for the serialport (even tri build nativ modules) without luck.ha anyon had ani luck get electron to work with serial ports? if so pleas share your wisdom.

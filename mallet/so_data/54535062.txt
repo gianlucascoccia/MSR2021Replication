@@ -1,1 +1,1 @@
-Electron i32 app cant find sqlite3 module
+i have electron app with electron-sqlite3 depend when i'm export it to exe use

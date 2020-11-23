@@ -1,1 +1,1 @@
-Facebook Api Login NodeJS Uncaught Exception
+i have a nw.js applic where i need user to login his/her facebook account to share something. when facebook login popup window appear my applic crash and messag show up on the main window screen;what am i miss here? could you show me a way to pass this issue? i want to prevent the app crash when some except happen on extern url window.

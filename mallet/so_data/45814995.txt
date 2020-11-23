@@ -1,1 +1,1 @@
-Open specific "html" extension with a specific application
+i have built an electron applic that allow user to generat and open file (let say "" file open with the electron application, while user without the applic will see the file open with the browser ?

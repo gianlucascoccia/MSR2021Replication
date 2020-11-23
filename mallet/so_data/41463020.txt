@@ -1,1 +1,1 @@
-Make video fit 100% with any choosen screen resolution
+i have a problem with my application. everi time when i chang my screen resolution, my video start to move out of posit (in the center of the screen). ani suggest on how to make my video stay in the same locat even though i chang to ani other resolution?

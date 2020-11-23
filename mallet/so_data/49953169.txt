@@ -1,1 +1,1 @@
-Electron: Prevent <style> tags in DOM from loading
+is there a way to remov all style from an electron webview befor the page is shown?so far, i can inject js to remov all style after the document is loaded:this, however, doe not remov tag embed in the dom. for a better idea of what i'm tri to do, you can check out firefox "no style" featur (view -> page style -> no style).thank in advance.

@@ -1,1 +1,1 @@
-Class of type Blob being converted to Object in Emberjs, Electron and PouchDB/CouchDB Project
+i seem to be have a funni issu here. i am current develop an offlin first web applic with emberj and a desktop applic wrap in electron. both are run off a pouchdb replic with couchdb. i notic imag upload on the web are onli access there while imag upload from the desktop app are onli access there too. the upload blob class is onli seen as blob within the environ where it was uploaded. pleas i realli need a pointer herewhen i access the imag in a differ environ this is what i see

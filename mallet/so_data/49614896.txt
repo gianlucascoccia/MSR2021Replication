@@ -1,1 +1,1 @@
-PNG files not found in ASAR
+i have an electron (1.7.10) applic that is report it can't find 5 of 7 png file in my asar. all 7 pngs are in the same folder, and 2 of them are display on screen fine. the other 5 report net::err_file_not_found. all src attribut for the img tag are dynam generat and use relat path () i get the same result - 2 of 7 show ok.befor packag my applic (with electron-builder), all imag show correctly.ani ideas?thanks,tt

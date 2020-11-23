@@ -1,1 +1,1 @@
-'Require is not defined' when adding electron-renderer to webpack
+i am develop an electron app. all good and nice until i want to use ipc from the render to call some nativ features. i understand that ad the follow line to my webpack config would allow me to import electron on the render side. ani thought what i could be do wrong? thank you!

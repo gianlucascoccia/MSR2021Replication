@@ -1,1 +1,1 @@
-AngularJS doesn't work into Electron
+i have an angularj app that work perfectly. is there ani reason whi the app doesn't work into electron? i don't want to bother you with all the code, just search for tip after hour spent around the internet. thank you all.

@@ -1,1 +1,1 @@
-Javascript/Electron run script when url changed
+i tri to make an electron app, but this script doesn't work. i realli don't know what wrong. hope anyon can help me?

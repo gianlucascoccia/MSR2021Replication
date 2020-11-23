@@ -1,1 +1,1 @@
-Hiding the Window Menu when app is full screen on Windows?
+i have an electron app run on osx and windows. when the window version is full screen it still show a menu bar and i would like it not to. basic i want what happen on osx: when the app is "full screen" no menu bar or window chrome should appear.i'v tri set the menu as the window menu bar, set it to null will remov the menu bar.

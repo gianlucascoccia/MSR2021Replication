@@ -1,1 +1,1 @@
-Why does my forked child process exit immediately after I fork it?
+i'm just tri to fork a simpl child process and have the ipc channel stay open but it keep exit immedi for some reason.in parent.js:i get "exited" print to the consol immediately, and never get a hi'. then if i continu to tri to send to the child process i get a channel close error.someth i am do wrong?

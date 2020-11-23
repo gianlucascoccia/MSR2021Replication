@@ -1,1 +1,1 @@
-Connecting MongoDB to MERN app
+i am in the process of tri to connect my mongodb to my mern web applic and was wonder the best resourc for inform on this type of thing. basically, i have a mern web app, electron desktop app, and react nativ mobil app that i am tri to all connect to one mongodb, but i can't find ani inform on this that direct answer how it should be wired. i can provid more detail if needed.

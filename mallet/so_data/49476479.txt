@@ -1,1 +1,1 @@
-Electron stop scripts from uploading/sending data
+is it possibl to use electron (and/or normal browsers) to prevent javascript file from captur the dom and send it to a server by use electron? if so how?curr solut (although i don't know how to implement them): restrict on the amount of upload data per js file request by the pagei'm open to suggest on the best way to do it.note: i absolut have to use this file - but i'm veri concern about the secur side of things.

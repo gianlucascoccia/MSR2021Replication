@@ -1,1 +1,1 @@
-NI-DAQmx C libs over nodejs
+i'm make a nodej app that have to pull data from a ni usb 6210.nation instruments, give away a bunch of exampl that use their (pure) c libs,since, i'm on nodejs, i thought i could "easily" recycl them into a node modul use node-gyp, but i discov that node modul are more like to be written in c++, rather than plain c (as describ in the reference), so i was wonder about other possibl solutions.asid from that the whole librari thing is also base on a bunch of framework ( on osx )and that is where i'm stuck.

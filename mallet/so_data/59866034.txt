@@ -1,1 +1,1 @@
-Prevent electron app shutdown until cleanup complete
+i'm tri to have my electron app do a bunch of cleanup when the app is quit (termin a few processes, delet some temp files, etc). i am trigger the cleanup function with the before-quit event. if my comput is run fast, these cleanup oper complet befor the app is quit, but if the comput is run slow, the cleanup function sometim onli execut partially. is there a way that i can prevent the app from fulli quit befor my cleanup function has been fulli executed?

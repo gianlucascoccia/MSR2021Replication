@@ -1,1 +1,1 @@
-Check if a line already exists in a file with JavaScript (Electron/node.js)
+i tri to read the metadata of all file in a directori and save it and the file path to a file line by line. this works. but now in my &#xd;&#xd;&#xd;

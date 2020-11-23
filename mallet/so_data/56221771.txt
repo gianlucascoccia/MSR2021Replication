@@ -1,1 +1,1 @@
-Communication between main and render processes
+i am track mous coordin insid my render side. what i want to achiev is, i will send these chang mous coordin to a function in main.j (node.js), then this function will calcul someth and return valu and my other function in render will use this variabl like a ping pong. this process will be repeat everi time when the user move the mouse. is this possibl with electron.js?

@@ -1,1 +1,1 @@
-Electron : Net from Nodejs doesn't trigger events on Windows build
+i creat a port scanner function use the modul net from nodej but the function doesn't work on my window build.i have no error, i just don't have ani trigger from the event functions.it work perfect in my webstorm (on macos).do somebodi have an idea of the root caus ?ps : i have nodeintegr enable.thank for your answer !

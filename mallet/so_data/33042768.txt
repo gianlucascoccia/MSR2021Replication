@@ -1,1 +1,1 @@
-Executing Erlang shell command from Javascript (Electron) is not returning any output
+i am tri to call an erlang modul function from javascript but the webpag doe not display anyth in the erl_ver div element in the index.html file.index.html

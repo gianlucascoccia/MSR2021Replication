@@ -1,1 +1,1 @@
-Disable Networking in Electron
+electron.j is a user interfac toolkit that allow a web applic to oper as an arbitrari gui.however, there are some applic that should be consid sensit - for instance, a gui for bank should have strong assur that it not do anyth mischievous.i'm wonder if the electron execut (or node.j itself) would allow oper in a mode where network is outright disabl - that way, as a consumer, i can at least be confid a user interfac isn't send my password off-site.someth like would be veri convenient, albeit a far cry.

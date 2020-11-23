@@ -1,1 +1,1 @@
-Accessing audio input with getUserMedia
+i have an electron applic with react plug for my view layer. i want to be abl to access audio input to my laptop. audio input will be more than a microphone, i am want to input music into my laptop via usb as it doesn't have ani audio input port and ideal i want this to work on ani laptop.i have play around with the api limit to microphones?

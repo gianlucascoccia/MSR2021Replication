@@ -1,1 +1,1 @@
-Can CSS Grids be used in JSX Inline styles on Electron?
+so i am creat an electron app that allow the user to creat an invoic and then produc a pdf of that invoice. i'm use a pdf npm packag that allow me to pass in html. so i am use jsx to creat the invoic dynam then i am turn that jsx into an html string. becaus i am do it like this i cannot use typic css file to set styling. so i need to use jsx inlin styling. but for some reason i can't get it to work with css grids. am i do anyth wrong. i'v tri research it and can't realli find ani good inform on what i'm tri to do.

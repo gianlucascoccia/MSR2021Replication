@@ -1,1 +1,1 @@
-How can I require different modules in Javascript based on my YML build file?
+i'm current work on a web game that will also be avail as a desktop applic via electron. i'd like to simpli not how would i do this? if it not possible, what would be anoth solution?

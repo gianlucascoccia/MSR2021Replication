@@ -1,1 +1,1 @@
-Electron create MSI installer using electron-builder
+i manag to creat an .ex instal for window use electron builder, i creat 2 package.json as point out in the doc : https://github.com/electron-userland/electron-builder.i end up have a folder with a work .ex

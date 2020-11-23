@@ -1,1 +1,1 @@
-Error running Karma from Electron Angular project
+i have tri mani mani configur unsuccessfully. the one detail below, throw an error when i am execut my package.json is visibl from https://github.com/twolfson/karma-electron/issues/43what should i change?thank for your help

@@ -1,1 +1,1 @@
-How to externalise folder with electron?
+i'm use angular-electron to build a window desktop applic with angular 7 and electron 4. now i would like to externalis a specif folder(let say folder) at the root of the unpack build. there are a lot of file insid config folder use in the applic and which could be edit by the final userher is the unpack structur i want: how to manag this ?

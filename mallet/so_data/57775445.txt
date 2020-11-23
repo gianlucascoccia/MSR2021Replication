@@ -1,1 +1,1 @@
-Electron - React blank page
+i have problem when page chang and do reload, i got a blank page.that becaus the file in the url doesn't exist.for exampl like this: i have base url : d:\desktop-app\electron\tes//public/index.html and chang to this : d:\desktop-app\electron\tes//public/index.html/todolist. this will get a blank page.how do i solv this problem ? electron

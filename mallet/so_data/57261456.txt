@@ -1,1 +1,1 @@
-How to fix: "Failed to load module script ..." Angular 8, Electron 5
+i am tri to make an electron 5 app use angular 8. i'v follow sever tutori onlin and i'm still get the same error.i alreadi creat a new project, ran

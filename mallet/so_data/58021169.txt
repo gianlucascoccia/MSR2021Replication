@@ -1,1 +1,1 @@
-Electron 6.0.9 webview load any urls are blank
+i use electron offici sampl "https://github.com/hokein/electron-sample-apps/tree/master/webview/browser"with follow cmd:

@@ -1,1 +1,1 @@
-Custom Electron Titlebar when not using index.html
+when use the follow code:

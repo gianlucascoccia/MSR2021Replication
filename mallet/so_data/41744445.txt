@@ -1,1 +1,1 @@
-Not able to use Electron's webview on Windows
+i have a simpl react app. it uses:reactwebpackreduxcss-moduleswa look for an easi way to wrap a react app into electron.am tri out heretri the same with plain electron at the use-electron-packager-and-not-electron-forg branch

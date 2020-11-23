@@ -1,1 +1,1 @@
-Open terminal and launch commands
+in my electron/reactj app, i'm tri to open a termin and launch some commands.mi code look like this : my termin open but i don't know how to launch command in this termin like cd /my/custom/path &amp;&amp; ls'can someon help me pleas ? :)

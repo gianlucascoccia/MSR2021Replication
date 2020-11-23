@@ -1,1 +1,1 @@
-Javascript console.log port
+i'm creat a small app on electron with node.j and tri to output the port my app is connect to for develop purposes. this is my mysql connect code: i tri output it with con.port but it just say "undefined". what is the correct fix here? thank in advance.

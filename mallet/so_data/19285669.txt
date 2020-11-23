@@ -1,1 +1,1 @@
-Run file after file download complete
+i am veri new to node-webkit. i am use the follow code to download a file. how would i go about run the file automat when the file has finished?

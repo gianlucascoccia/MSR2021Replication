@@ -1,1 +1,1 @@
-Error running exe generated from Framework7 CLI Electron
+i am run into an issu tri to run the boiler-pl applic that is creat from the framework7 cli as an electron app. i am abl to run “framework7 cordova build electron” with no problem from my window 10 machine. however, when i tri to run the exe i get the follow error in a browser develop console: “fail to load resource: net::err_file_not_found logo.png”i there a fix for this?thanks!

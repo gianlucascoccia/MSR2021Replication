@@ -1,1 +1,1 @@
-Angular service in Electron get data from Express error
+i have an angular 4 app nest in electron, with express.j to fetch data from mongodb. howev i am now stuck at how to "talk" with express in http request.in that angular servic i have a method to get all player data but i do not know the way to fix this. ani advice?

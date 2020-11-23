@@ -1,1 +1,1 @@
-Javascript - Can't push to inner object
+i have an object like so:, which return the new length but the array stay the same.what happening?structur of the object that.exp for clarification:**edit: chosengraphics: array1 expand **

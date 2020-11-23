@@ -1,1 +1,1 @@
-Node-Webkit Child Process Exec
+i want to execut a homebrew command for exampl i am get a command not found error, and realiz that if i do /usr/local/bin/brew as the command it works. howev simpli use brew should work as well sinc i can run brew from the command line just as such. whi is this the case and what doe it take to make brew run as a child process in node? i have a feel part of the issu becaus the command on node-webkit seem to execut from bin/sh.thank

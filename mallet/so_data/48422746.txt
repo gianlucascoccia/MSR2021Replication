@@ -1,1 +1,1 @@
-is it possible to have an unclickable or click-through window in electron?
+i'm make an app that just talli the amount of file in a folder and present a percentag number on the top left of a person screen. it pure visual and i would like to make it so that you can still click on thing below it, so that it doesn't interfer with other programs. how is this achieved?

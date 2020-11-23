@@ -1,1 +1,1 @@
-Electron App not working properly, Console says 'require not defined'
+i just wrote a small app that convert markdown to html automatically, but when i type in the text to convert, noth happens. this is not the first time i am have this problem, an app i did previous for save bookmark would not activ some buttons. here is the screenshot

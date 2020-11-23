@@ -1,1 +1,1 @@
-Raw printing with Electron app
+i want to creat a electron app that support raw printing.ani suggest about a librari or path that i can take will be appreciated.i did a littl bit of research but noth seem to be up to date. i want to get all the printer avail and get the default printer and print with it.i you have a small exampl that you can show me, it will be awesome!

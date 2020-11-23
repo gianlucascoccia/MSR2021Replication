@@ -1,1 +1,1 @@
-Check if image is valid
+i want to check, if a given imag file is valid (mean display in a browser window and not get a indicating, that the imag cannot be displayed. this is the code i tried:expect to get "error". but i alway get "success". how can i achiev what i want?

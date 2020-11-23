@@ -1,1 +1,1 @@
-Permission denied when create file in mac os using electron
+i have creat electronj applic and also creat

@@ -1,1 +1,1 @@
-Materialize-CSS Navbar with tabs not working on Electron
+tab in a navbar use materialize-css in electron dosen't work. the tab dosen't chang and their content isn't be display correctly.som code is just copi and past from templat or document pages, i'm learn js and html with electron. https://codepen.io/anon/pen/eyvqkxther is no modif in the librari and css files.thanks. wait for a response.

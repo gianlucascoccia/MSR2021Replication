@@ -1,1 +1,1 @@
-Electron - Subpixel antialiasing does not work
+how can i configur electron to use subpixel-antialiasing?i tri using:but this doe not appear to have ani effect. i am use version 1.8.2 of electron.

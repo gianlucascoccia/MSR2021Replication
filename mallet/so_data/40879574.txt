@@ -1,1 +1,1 @@
-Does electron.io have access to run git commands?
+i'd like to use electron (http://electron.atom.io/) to build an author tool for a static website. this will allow my non-develop teammat to edit static websit content, without need me to build a giant cms.i'll teach them a hand full of git concept and markdown, and then build them a littl desktop app they can use to updat the site static content. but! i can't for the life of me figur out if electron give you access to run termin commands. not to mention, can i packag git as a dependency?

@@ -1,1 +1,1 @@
-How Basic CRUD SQLite 3 With VueJs 2
+i have problem with sqlite3 and vue2i'm use electron-vue, and i have instal sqlite3 and requir it success (database.db)us this:just a simpl demo code to get start with vuejs2 compon and sqlite3!!

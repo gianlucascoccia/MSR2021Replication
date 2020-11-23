@@ -1,1 +1,1 @@
-Capture messages in from python-shell in an array
+i am new to ) i get it report that it is undefined.i gather that the littl blue i mean that the valu are just evalu and figur this may have someth to do with it but i do not know what.i figur there must be someth straightforward i am missing. ani help is appreciated.

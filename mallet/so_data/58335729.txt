@@ -1,1 +1,1 @@
-`webContents.on('context-menu')` makes the webview unresponsive (cannot call webview's functions)
+i have a simpl webview and i would like to add a custom context menu.for now, i simpli added: too and same problem happens.

@@ -1,1 +1,1 @@
-React + Electron webview tag preload js not working
+when i use webview tag, preload js not workingmi code is as follows:

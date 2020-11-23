@@ -1,1 +1,1 @@
-How to fix "Skip checkForUpdatesAndNotify because application is not packed" in electron.js
+i'm use "electron-updater" to check for auto-upd electron application. call "checkforupdatesandnotify()" function.in a console, i get "skip checkforupdatesandnotifi becaus applic is not packed". mac0 mojave,"electron-updater": "^4.0.6","electron": "^3.0.13","electron-builder": "20.28.1"

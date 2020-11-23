@@ -1,1 +1,1 @@
-Electron: get full path of uploaded file
+i'm buildind now gui use electron. (like phonegap for desktop apps) is there a way to enabl full path for file check in )or, is there other way to select a file?

@@ -1,1 +1,1 @@
-Get result of a callback in a variable
+i'm in front of a huge problem that i cannot solve. i want to get the result of the function but sinc it a function which i run a lot of time, it would call mongo veri often and that not the best thing for perform especi sinc my databas is run on anoth computer.

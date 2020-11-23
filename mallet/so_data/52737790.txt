@@ -1,1 +1,1 @@
-Is there a way to run an express App in Electron?
+i am new to electron and i have an express app run on localhost. is there a way to have the same app run in electron?

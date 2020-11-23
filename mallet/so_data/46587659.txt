@@ -1,1 +1,1 @@
-Electrons response not always returns 'end'
+i'm writ small electron app that read json web service, i notic that sometim respons object not send end event. ani idea what i did wrong? in addition, my web servic work just fine send multipart chunk data, i can see that as return of console.log(&#xd;&#xd;&#xd;

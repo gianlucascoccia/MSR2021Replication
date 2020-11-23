@@ -1,1 +1,1 @@
-electron + react + redux communication between two windows freezes PC?
+i'm tri to updat state in anoth window depedn on state chang in the first window but ipc communcat doesn't work as expect for me.in my first window, i have: make main window hang for a while and it continu use resourc until pc freezes. what is the problem here?

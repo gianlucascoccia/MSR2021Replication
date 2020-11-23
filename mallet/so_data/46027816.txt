@@ -1,1 +1,1 @@
-Electron package - how to write/read files
+i have file how is possibl to make this working? and is possibl to includ some extra folder in my app after packag process? thank for your help!

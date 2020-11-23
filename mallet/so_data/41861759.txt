@@ -1,1 +1,1 @@
-pdfmake + AngularJS + Electron creates _blank pdf
+i'v a problem use the librari pdfmake in a angularj and electron. the pdf save in blank. the code is:

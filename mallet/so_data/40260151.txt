@@ -1,1 +1,1 @@
-Display .icns file in electron renderer process
+i'm look for a way to display tag. problem that it is super slow. also, sinc all icon are store in this format and all app use it, there should be a fast nativ way to display them.ani idea on how can i use some nativ api to display icn image? or mayb there is a faster way to show .icn file use electron api?

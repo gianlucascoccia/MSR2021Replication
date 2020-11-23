@@ -1,1 +1,1 @@
-Electron / NodeJS and application freezing on setInterval / async code
+i'm work on an electron applic that perfrom a screenshot captur everi 3 second with the electron api, and write it to a given target path. i'v set up a seper browserwindow where the captur code run in (see code structur below) a setinterval() "loop", but whenev the captur happens, the app freez for a moment. i think it is the call to

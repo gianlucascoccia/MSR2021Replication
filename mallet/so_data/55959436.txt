@@ -1,1 +1,1 @@
-List of required artifacts to upload to server for Electron-Builder Autoupdate?
+i'v been tri to find a definit list of the file i need to host on my updat server for updat to work. there doesn't seem to be a concret answer anywher and the question has gone unansw on their issu tracker.i files?

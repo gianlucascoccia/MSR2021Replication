@@ -1,1 +1,1 @@
-console.log() does not appear in my terminal (nwjs)
+in my nwjs app, i load a _launch.j file from an html file:th app launch just fine, and my express/socketio connect are all perfect working.but while the console.log() in the server.listen() callback appear in my terminal, ani messag i tri to log from the server.j file (requir earlier) never show up anywhere.ani idea why?per the nwjs wiki, ani file load via require() should be run in the node context (and mine otherwis appear to be) -- but for whatev reason, i cannot use console.log() to view log information.

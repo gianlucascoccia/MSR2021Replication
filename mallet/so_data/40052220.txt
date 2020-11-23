@@ -1,1 +1,1 @@
-Recursive method call on es2015 class method transpiled with babel
+i'm have problem when i tri to call a instanc method recursively. the code look as follows:}th code get transpil with babel-es2015 and run on a electron app environment. no when i tri to call the method getfilesfromdirectoriesrecurs insid itself the transpil code get in troubl becaus of the this which point to the instanc in es2015 but not in the transpil code.how can i get around this problem?

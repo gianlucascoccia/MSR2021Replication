@@ -1,1 +1,1 @@
-Electron: How to fix "Error: Cannot find module 'iohook'"
+the error still avail on windows( test on 7 and 10) for this configs:al is okay on devic where instal microsoft visual c++.but on devic where isn't instal microsoft visual c++, i get an error afterconst iohook = require('iohook');

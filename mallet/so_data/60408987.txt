@@ -1,1 +1,1 @@
-child_process.on('close') is sometimes painfully slow
+i have a electron applic that open a extern program (in my case office), and has to wait for the program to be closed.th code i wrote work great but sometim the for spawn, as i thought mayb node is wait for some stream from the child. but that made no difference.do anybodi know a safe way to speed that process up?

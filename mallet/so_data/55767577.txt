@@ -1,1 +1,1 @@
-How can you record a `.har` of an Electron `webContents` session?
+i have a javascript applic that spawn electron and doe a bunch of stuff in it.i'm tri to debug a strang network issu i'm having, and to do this, i'd like to use a har file to store a log of all the http request be made by electron.i this possible?

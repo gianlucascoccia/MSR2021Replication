@@ -1,1 +1,1 @@
-nodewebkit - documentation said screen will work, but its getting impossible to make it work
+i am use latest nodewebkit and run the follow code as per document ( https://github.com/rogerwang/node-webkit/wiki/screen ) but it alway failing. can anyon pleas tell me whi i have this error pleas and how do you fix it?

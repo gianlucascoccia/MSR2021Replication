@@ -1,1 +1,1 @@
-Order by computed field in MongDB
+in sql i can order by , how can i do the same with mongodb ?ad a field seem wrong, my collect is 7000+ document wide and it would be a pain to add sort option later in my app.

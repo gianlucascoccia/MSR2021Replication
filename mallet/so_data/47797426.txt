@@ -1,1 +1,1 @@
-Set-Cookie directive in Electron.js not working
+i have a problem. in my electron app i have a login form. on form submit i fetch a rail devis base auth server, which complet and respond with set-cooki direct &lt; app_name>-main_sessionin my electron main process i have the respons with work cookies, but they are not set and i can't set them manual (for secur reasons).i'd like to use https://github.com/electron/electron/blob/master/docs/api/cookies.md to set my session cookie. but i can't. has anyon figur out how to do this? thank in advanc

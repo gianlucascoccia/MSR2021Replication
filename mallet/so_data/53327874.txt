@@ -1,1 +1,1 @@
-GET and POST request with Windows credentials (Node.js, Electron)
+i'm build a nodejs/electron app on window that need to send get and post request use my window machin credentials.i there a way to just pass along those credenti without have to ask the user for them?i want to send the request from the nodej side (server/app) instead of the html.

@@ -1,1 +1,1 @@
-Electron/Node.js - How to spawn a python script from another directory
+i current have the follow file structur for my electron project:, it run perfect fine. i'm just not entir sure what part of the code abov is caus the script to fail to execute.

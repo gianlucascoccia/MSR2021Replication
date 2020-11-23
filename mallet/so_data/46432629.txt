@@ -1,1 +1,1 @@
-zip -r with ~/ partially replicated my system directory
+i am tri to zip my nw.js applic into a zip file. so i run this: without the full path?edit:tri joe step i got this in the unzip folder:

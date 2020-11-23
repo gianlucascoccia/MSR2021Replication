@@ -1,1 +1,1 @@
-md-select works only in first click on OS X
+i'm use angularj (1.x) and angular-materi in an electron app. i have two s in the demo page of angular material, it work as expected.mi project is in github, so anyon can tri it:https://github.com/jradesenv/controle-projetoupdate:i'v creat a simpl server with nodej express to host the angular app, and it run perfect on chrome and safari. it seem to be a bug onli with electron. i notic that it not onli the md-selects, but the md-dialog and md-toast too have some weird delay to open and close, onli run in electron.thanks!

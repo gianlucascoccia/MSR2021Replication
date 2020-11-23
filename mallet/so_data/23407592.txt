@@ -1,1 +1,1 @@
-Javascript maximize / unmaximize window with same button
+hello, i am a beginn in html5 / js. i want to enlarg and restor a window with the same boutton javascript. some could help me please? i work with webkit node. here are the two button i want to combin into one. thank you!

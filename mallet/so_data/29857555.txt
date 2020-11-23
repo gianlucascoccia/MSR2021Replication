@@ -1,1 +1,1 @@
-Using Express inside Atom Electron
+i have an applic run express, and i am tri to distribut it use electron.run electron in debug with this:but if that the case, i don't know how to get around it.

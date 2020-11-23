@@ -1,1 +1,1 @@
-Nodewebkit Self Updating - Can I overwrite the program file I am using?
+befor you say - just tri it, i don't want to do anyth funni that will caus problems. so i am ask the peopl who know these thing already.say i have my nodewebkit program app.exe. in it there is an updat button which will download the newest version of the program. then it will want to overwrit the app.ex (the program that is running).i this last thing allow in window (and also mac and linux)?

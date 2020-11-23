@@ -1,1 +1,1 @@
-Electron JS install error - Error: EACCES: permission denied
+get error while instal electronjs,error:how to resolv this permiss issue?

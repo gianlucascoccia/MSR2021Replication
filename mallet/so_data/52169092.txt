@@ -1,1 +1,1 @@
-Electron | onbeforeunload prevents reloading
+i'm tri to develop an app with a separ set window (in electron). when the set window is open and the main window is closed, i want to prevent the close of the main window and focus the set window.right now i do this as following:

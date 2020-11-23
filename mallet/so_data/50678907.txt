@@ -1,1 +1,1 @@
-(How) can I open the dev tools in the Microsoft Teams desktop client?
+i thought i had recent seen a develop open the dev tool from insid the microsoft team desktop client (for windows), but i can't easili replic that.shortcut likestrg+shift+i, strg+alt+i, shift+alt+i,f12, strg+f12, shift+f12, strg+shift+f12, strg+alt+f12don't work.th reason i am not just use the browser version is that the same app behav differ in browser and desktop version which make these dev tool kind of necessari for debugging.

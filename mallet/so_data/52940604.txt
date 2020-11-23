@@ -1,1 +1,1 @@
-Chromium revision is not downloaded. Run "npm install" or "yarn install" at Launcher.launch in Electron build
+my project is a desktop electron applic that scrape a websit on click. simple.mi project work fine local (of course), but when i go and run . i store the browser, page, and other thing on the instanc of a scraper.

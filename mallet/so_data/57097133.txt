@@ -1,1 +1,1 @@
-Requesting some example about using Blink.jl
+i read the blink.jl document and i am confus about julia and javascript communic (mabi becaus i have no experi in web development).i need a simpl gui for my julia app in a way that the user has three number input form which by input two of them the third one will be calcul by the julia program and a select box that return the select valu to the julia program then there is a calcul button that run a function with input number and select valu from the form.it will be appreci if you can help me and give me some examples.

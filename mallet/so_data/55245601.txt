@@ -1,1 +1,1 @@
-API for clearing all sessions in Electron?
+i know there is an api for clear session data if you have an instanc of a session, but is it possibl to delet all sessions?

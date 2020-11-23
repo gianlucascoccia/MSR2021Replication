@@ -1,1 +1,1 @@
-NightmareJS without closing the browser
+i'm use to phantomj and watir, which both provid a repl out of the box. the repl let me execut autom call on a currently-run browser.thi is a fun way to make autom script becaus i can watch the effect of each step as i build an autom script.in fact, i can even write a script that defin method for open a browser, perform a log-in, and other common tasks, and then call them as i pleas from within the generic node or rubi repl.can i execut nightmarej call without close the browser (electron)?

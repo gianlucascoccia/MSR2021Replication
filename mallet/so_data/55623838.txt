@@ -1,1 +1,1 @@
-Is it possible to call sweetalerts from within main electron thread?
+i tri call a sweetalert within the main electron thread but the sweetalert doesn't appear. is it possibl for this to work?

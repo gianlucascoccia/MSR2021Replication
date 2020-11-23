@@ -1,1 +1,1 @@
-Error running Electron
+i succes had the electron gui run for test my app, includ the electron hello world applic that they have here: http://electron.atom.io/docs/tutorial/quick-start/now howev whenev i type the command: show that electron-prebuilt is not instal globally, perhap that would be a good idea?

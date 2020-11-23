@@ -1,1 +1,1 @@
-Electronjs detect on window change
+i'm tri to get a detect event whenev i switch to anoth activ window.i know there are modul on npm that tell you the activ window, but is there an electron nativ way to detect a chang in the activ window(that is not my electron app itself, but some other complet unrel app.thanks!

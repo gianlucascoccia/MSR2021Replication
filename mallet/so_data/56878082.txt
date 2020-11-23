@@ -1,1 +1,1 @@
-Env vars to change app name in project.json and set runtime vars?
+i need to generat two app from the same codebas (e.g. "pro" and "lite" versions). there are a lot of question here about this but none i found involv var in anyway suitabl for this?i guess if i am abl to chang the app name, i can access that at runtim but it seem like i am miss someth import with all this.

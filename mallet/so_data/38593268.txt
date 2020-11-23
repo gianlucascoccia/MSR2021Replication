@@ -1,1 +1,1 @@
-Electron app can't seek buffer in production
+i am use electron to creat a desktop applic that play a video load local in the same directori as the html.when use the app in develop i am abl to seek the buffer with success (i chang the time of the video and it search for other bytes)initi it get the data of the video from byte 0:i don't get the differ from run it for develop or in product that could generat this error

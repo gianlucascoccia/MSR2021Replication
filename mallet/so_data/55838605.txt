@@ -1,1 +1,1 @@
-How can I open chrome and do a google image search from a node/electron application
+i'm tri to integr googl imag search into my electron base photo app. i want user to click on an option to "search googl for image" and this will in turn open up chrome (if available) with the local imag file in question and then do a googl imag search from there. if chrome is not avail on the system then i can alway show an alert say this featur onli work with googl chrome installed.ani ideas?

@@ -1,1 +1,1 @@
-how can i print to a specific printer using win.webContents.print()
+how can i print to a specif printer use option are there. can ani suggest a solut for this? ani help will be appreciated.

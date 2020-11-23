@@ -1,1 +1,1 @@
-App Sandbox Entitlement Key for opening file by system default player?
+i built a video tutori mac app, the video file are store in "/contents/resources" folder, the app has a function for play the video file by system default video player, such as quicktime. this function work befor sandboxing. after sandboxing, this function doesn't work...so which app sandbox entitl key can enabl open a file (store in "/contents/resources" folder) by system default app (such as quicktim player)?th mac app was built by electron.

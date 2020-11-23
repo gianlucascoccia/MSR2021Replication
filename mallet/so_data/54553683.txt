@@ -1,1 +1,1 @@
-Detecting USB and HDMI cable event with node js
+we have develop a project use electron. we have a requir to stop our applic when someon attach ani devic on usb or hdmi port.i there ani way to detect devic attach in usb or hdmi use node?i have check wmic npm librari for node. i am abl to get attach devic on usb. but i have fail to get inform of attach devic on hdmi port. pleas suggest.

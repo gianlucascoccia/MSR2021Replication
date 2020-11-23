@@ -1,1 +1,1 @@
-Trigger event when electron app switched to
+i have an electron app, and would like to fire off an event everi time the app is in focus. for example, if i have my electron app and chrome open, and i switch to chrome, then back to electron, i want that event to fire. ani ideas?thank you.

@@ -1,1 +1,1 @@
-jquery not working well on node-webkit
+i am practic node-webkit as a nodej beginner.mi main page is a simpl is undefined! (i check the console-i'm use sdk version of node-webkit) i don't know if it becaus of node-webkit or someth els i'm missing?

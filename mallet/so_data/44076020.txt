@@ -1,1 +1,1 @@
-API calls in electron don't maintain sessions, while postman does
+when i make a call to my rest api (implement use flask) to login from electron, it doesn't maintain the session. here an example:

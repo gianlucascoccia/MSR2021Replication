@@ -1,1 +1,1 @@
-Cannot connect to runtime process, timeout after 10000 ms in Electron and Visual Studio Code
+i have an error in visual studio code when i start my electron app and an alert pop up with a messag but the alert disappear after a short time and i can't read the message. is this alert from visual studio code or electron? how do i extend the timeout?

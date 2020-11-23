@@ -1,1 +1,1 @@
-A JavaScript error occurred in the main process : Electron
+i am tri to packag an electron app use electron packager. after success packag the app, when i open the app file, it throw the follow error.vers that am using,npm - 5.4.1node - 6.11.0electron - 1.6.11pleas help if anyon has alreadi resolv this.

@@ -1,1 +1,1 @@
-smoothstate stops other javascript from running (electron)
+basic i have an electron app and i'v ad minimize/clos buttton to iton load the button work but after switch page with smoothstat they stop workingi'v found various solut (github faq, stackoverlow, etc) but none work so farth button html

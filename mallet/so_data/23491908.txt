@@ -1,1 +1,1 @@
-node-webkit enabling flag touch screen
+i use ubuntu 14.04 lts. if i use chromium 34.0.1847.116 to enabl touch event on my web app i have to:start chromium with --enable-touch-ev --enable-pinchset to enabl the flag "enabl touch events" use chrome://flagsi'm look to enabl these touch event on version (32->34) or is it someth else?thank you veri much for your help.

@@ -1,1 +1,1 @@
-Is there a way to run a nodejs script without CLI?
+i use nodej script to shrink png images,but i want to make it usag more easier(without cli), so that the design can shrink the png imag themselves.i there a way to transform a nodej script to a execut file, and the design can use that sctipt by click?btw, i also want to make it a gui with node-webkit or electron. some advice?

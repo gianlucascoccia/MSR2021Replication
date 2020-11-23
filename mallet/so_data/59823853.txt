@@ -1,1 +1,1 @@
-Implementing a stylesheet in react class gives rules of hooks error,
+i'm tri to use a stylesheet in a class that extend react.component, it work in export default function but not while use a class. in the function i use a const that is defin with the usestyl from the stylesheed, if i do it the same way in the class i get a hook error for break the rule of hooks.i have includ a pictur of the class.ent imag descript here

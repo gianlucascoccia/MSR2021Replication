@@ -1,1 +1,1 @@
-Loading Electron Modules in Angular 2 TypeScript Application
+my goal is to take angular 2 5 minut quickstart and turn it into an electron app. which i can do by ad "electron-prebuilt".what i can't do is util ani of electron extend captabilit - for exampl write to the file system.i can build and run "electrogram", but when i tri to util some of the basic function contain within it i get an error in the consol of my electron application:alt app.component.tserror in devtool consolehow can i configur the app to look for the electron modul in their correct locations?

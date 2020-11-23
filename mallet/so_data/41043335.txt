@@ -1,1 +1,1 @@
-Sqlite_READONLY error with Electron build in MAC
+i have creat a build use electron and npm. the applic is use sqlite as a database. the applic is ruun great befor creat the build(npm run build). but after creat the build the databas becom redonly. i have check the permiss by command "ls -asl" but it is show read/writ both the permiss to the databas file. but when i am tri to insert/upd ani record is throw the error "error: sqlite_readonly: attempt to write a readon database". i don't know whi this is happning. pleas provid some help here.

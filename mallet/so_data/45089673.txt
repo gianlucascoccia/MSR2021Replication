@@ -1,1 +1,1 @@
-Importing same object in renderer as in main process
+i have a custom class in separ file still print an old valu - value'.from what i understood i thought that modul are execut onli onc so when you import a object in multipl file you import the same object in each file and the state of this object is same in all files. am i wrong? or could this problem be relat to electron?

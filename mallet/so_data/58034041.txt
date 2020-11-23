@@ -1,1 +1,1 @@
-How to make window size responsive in Electron. (On the opening of the app)
+i recent start make an app on electron, i want to make the window responsive, for example, if i open app on differ screen it should open in full-siz accord to the screen size.mi code: pleas help me with this.

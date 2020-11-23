@@ -1,1 +1,1 @@
-Packing node webkit application
+i'm new to node webkit and i'm confus about the packag steps. i just compress the whole file includ the webkit file to make package.zip file. i just copi it to anoth machin and unzip it. the nw execut file is not execut there. it not do anyth when i click on it. my concern is will the user be abl to use the packag by just doubl click on the packag provided. or should he need to unzip the packag and execut ?what are the step to be follow to packag the app ?

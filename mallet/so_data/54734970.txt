@@ -1,1 +1,1 @@
-Angular App build failed while building in Electron
+i am face a build fail error while build an angular project to an electron. when i use this command i delet node modul and reinstal but i got still the same error

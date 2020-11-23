@@ -1,1 +1,1 @@
-Javascript asynchronous for wait
+i'm tri to run an asynchron for loop, which run a synchron function and then wait for a period of time. my code is :the behaviour that i want is :execfunc(1) -> wait 100ms -> execfunc2-> wait...a bit like thisth behaviour that i have is execfunc1, execfunc2, etc all launch at 100 ms interval, without wait for complet of the previous one, result in a read/writ conflict as these function interact with files.i don't know if this has anyth to do with it, but i'm use electron/nodejs.

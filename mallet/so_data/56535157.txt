@@ -1,1 +1,1 @@
-Cannot access div which is created by ajax (is dynamic)
+i'm develop an app use electron and i want to make differ pages. i creat an index.html, and anoth one: seeds.html. (i will be ad more and this one is just for test)what i do is to load the content of the select page (ex. addseed.html) via jqueri

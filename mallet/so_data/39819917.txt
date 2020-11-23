@@ -1,1 +1,1 @@
-Creating Electron window with variable for width and height results in no window, and no error
+i'm tri to do someth like this, and i get no window when i tri this. what could i be overlooking?th window work perfect when i launch it use straight numer width and height, but use a variabl lead to it not rendering.

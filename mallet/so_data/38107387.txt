@@ -1,1 +1,1 @@
-cannot find in electron render process
+i am use electron v1.2.3 with react js and es6 (with babel-preset-es2015).i have a modul where i need to import the app modul in the render process. but i got this error: cannot read properti app of undefinedher is the modul that i need to import:

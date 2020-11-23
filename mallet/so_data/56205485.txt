@@ -1,1 +1,1 @@
-Is it possible to comunicate between a nodejs process and a Electron child process?
+i have an electron app that is launch insid of my main nodej application. the user has to launch my index.j and then, an electron window spawn. the problem is that i can't comun between these two processes. i am use spawn becaus fork doesn't work with electron.child.send doesn't work. it doe nothing.in my index.js:thi doesn't do anything. the electron app is launch but the messag is not sent. even no errors. i don't know if there is ani other way to do it.

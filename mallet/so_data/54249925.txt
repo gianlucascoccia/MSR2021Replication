@@ -1,1 +1,1 @@
-How to run packaged electron app on linux?
+i haven't use linux much but i'm tri to run an applic which i'v packag use electron-packager.so while on linux, i can run in a release-build folder.

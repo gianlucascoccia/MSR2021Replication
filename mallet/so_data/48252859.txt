@@ -1,1 +1,1 @@
-Angular(5)-Electron Serialport Support
+in the past i wrote some applic in ani hint how to get it running? i need serialport support in my angluar-electron application.in python or c that no problem.ani help is appreciated.

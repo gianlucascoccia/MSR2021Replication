@@ -1,1 +1,1 @@
-How to implement text search in a deskop app?
+i plan to distribut ten of thousand of html file with my desktop application. i need a way to provid an effici search so that user can find a desir file base on keyword. ideally, this would work similar to a googl search that would permit some of the oper to be use in a search. what is the best way to accomplish this?

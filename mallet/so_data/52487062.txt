@@ -1,1 +1,1 @@
-Electron Desktop Notifications not displaying on windows 10
+my electron app is not display desktop notif on window 10. mac and linux are work fine.i am use electron-packag to build.document say "on window 10, a shortcut to your app with an applic user model id must be instal to the start menu." so i call app.setappusermodelid(myid) in main.j and i put a shortcut to the .ex insid c:\users\sam\appdata\roaming\microsoft\windows\start menu\programsstil no notifications. i'm not sure which step i am do wrong.

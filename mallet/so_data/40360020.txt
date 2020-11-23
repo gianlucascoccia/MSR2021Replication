@@ -1,1 +1,1 @@
-How do I demo an electron app on the web
+is there a way to easili distribut an electron.atom.io app as a static site? i don't need all the functionality, i just want to allow the client to view the latest updates.-- edit --perhap a better way to ask the question is; "how do i build a web app that can be host onlin and run on electron with minimum rewriting" - similar to the slack app that work the same way on web or electron app.

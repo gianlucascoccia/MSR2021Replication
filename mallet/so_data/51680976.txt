@@ -1,1 +1,1 @@
-Sqlite3 putting input field values into insert statement
+i have sqlite databas with 4 column when the program is run it give this error messag : sqlite_error: no such column: patientname.

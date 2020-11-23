@@ -1,1 +1,1 @@
-Importing @pokusew/pcsclite in Angular2/Electron throws TypeError
+i have an angular cli project run within electron. i am tri to use nfc function by import i get the follow error in the console: typeerror: exist is not a functionand dure the build process: warn in ./~/bindings.j critic dependency: the request of a depend is an express

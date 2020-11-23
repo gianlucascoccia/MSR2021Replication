@@ -1,1 +1,1 @@
-Read CSV File using Javascript from a Local Folder
+i am tri to learn how to put in a html page a local .csv file use javascript. i am use the electron framework, and i aim to handl everyth locally.what i need to do is:read the csv file.b abl to chang the data (delet row for exemple)us innerhtml to insert the csv data into a div.mi problem is in read the csv file. all of the exampl i have found i think will onli work if there is a web server running, which i prefer to avoid.

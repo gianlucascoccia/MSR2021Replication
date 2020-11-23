@@ -1,1 +1,1 @@
-Electron-Builder cannot build update for Windows
+i am not abl to build an updat with electron-build and squirrel for a test application. the problem i think wine doe not find the 7z.ex file. here a part of the error that i think is the main problem:

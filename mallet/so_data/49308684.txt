@@ -1,1 +1,1 @@
-Software and hardware requirements of WebGL on Windows
+i'm creat a desktop-on window applic and will use electron, which use chromium. chromium support webgl 2. i'v read that webgl on window is translat to directx call by the angl librari (so opengl is not use at all).i it true that on each gpu where webgl 1 runs, then webgl 2 will run too? what the requir directx version for webgl 1 and webgl 2?

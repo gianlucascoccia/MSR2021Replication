@@ -1,1 +1,1 @@
-Download file using Electron and Node.js with Jquery
+i am new to the world of electron and in order to help with learn i have creat an app that onc open will automat download a zip file, it at this point that i am have issu in get the applic to work what should happen is the file will download and show the progress by updat a bootstrap progress bar in my index.html file this is onli a small app so i onli have two file main.j and index.html.mi main.j code:

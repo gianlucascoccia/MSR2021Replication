@@ -1,1 +1,1 @@
-Calling app.quit() in electron app does nothing in Windows (but works on Linux)
+i have an electron app that run most in the background, occasion open a window in the bottom-right corner of the screen in respons to messag receiv by a nat client.th app has a tray icon and menu with a quit button that call dialog, but do not see ani error dialog, and the app continu to run.so, what is prevent my app from quit proper in windows? is there anyth more i can do to debug the issue?

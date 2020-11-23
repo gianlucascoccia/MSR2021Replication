@@ -1,1 +1,1 @@
-Don't see logs on the server side when using console.log
+this is the first time in my life i touch js or node so pleas bear with me. i am tri to make my app output log on the server side. did not do it for me. updatei am use code base here as a start point. just insert log statement in the get request https://github.com/thlorenz/hyperwatch/tree/master/examples/express-appi assum that app.j is the back end code sinc it is what process the requests. am i wrong?

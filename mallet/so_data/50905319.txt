@@ -1,1 +1,1 @@
-API not working when called in componentDidMount()
+so i was tri to initialis one of my react compon by use googl apii was abl to use the api in a function call that is bound to a button, but it won't work when call in componentdidmount() the second call return undefined, while the first call return the desir object.p.s. i am use electron also

@@ -1,1 +1,1 @@
-Loading a Nunjucks template with Electron.js
+i would like to use a nunjuck render as my html for a window in my electron app but i can't find a way, is it possible? from what i have seen there are 2 way to load html in window:how can i use that string as an html for my window?mani thank everyon

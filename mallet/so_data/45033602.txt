@@ -1,1 +1,1 @@
-Getting the full file path using a Node + Meteor + Electron file browser dialog
+this is a tricki one...i have a meteor web app that run local on a user machine, either in the browser or packag within an electron app. https:github.com/lacymorrow/cinemat for browser users. (downfall: multi-ui; requir connect between electron-meteor instead of just wrap the app whole.can anyon help me choos a reason approach to this?

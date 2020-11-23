@@ -1,1 +1,1 @@
-Importing Electron classes with Typescript
+how can i import electron class into a typescript file, so that the intellisens is functioning?for example, i'd like to turn this:

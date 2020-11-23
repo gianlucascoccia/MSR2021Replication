@@ -1,1 +1,1 @@
-nw.js + angular2: System is not defined
+after updat my app from nw.js 0.13.0 and angular2 2.0.0-beta.9 to nw.js 0.15.0-rc1 and angular2 2.0.0-rc.1 i get the follow error while loading:i'v tri near everi solut i found onlin but until now i was not abl to resolv this problem. when i run it in the browser everth work as expected.

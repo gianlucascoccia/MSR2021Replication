@@ -1,1 +1,1 @@
-peerjs connection opens, but no data is received
+here my setupserverif i set breakpoint in peer.js, no data is be received. noth chang if i set the connect to reliable. is there anyth els i can try?

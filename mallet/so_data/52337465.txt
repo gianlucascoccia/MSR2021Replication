@@ -1,1 +1,1 @@
-Geolocation on electron js
+when tri to use geoloc in an electron app, return the follow message: network locat provid at https://www.googleapis.com/ : return error code 400.i'm use geoloc library. search google, i found that this may be a chromium issue, but it has no solution.

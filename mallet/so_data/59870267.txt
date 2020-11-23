@@ -1,1 +1,1 @@
-POST:ing file from electron main.js to webserver
+i'v been search for well over an hour now and all i get is browser-to-serv code and it so frustrat that everyth revolv around a nodej app be a web server that a websit upload to.i there ani way to upload a file from a nodej app to a webserv includ some body?

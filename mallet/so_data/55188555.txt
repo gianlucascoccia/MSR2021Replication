@@ -1,1 +1,1 @@
-How to enable right-click with Electron BrowserWindow and BrowserView?
+i have a do a right-click on web page doesn't do anything. how to enabl right-click to have "back", "forward", "reload", "copy", "paste", etc. as usual with chrome?

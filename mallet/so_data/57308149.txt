@@ -1,1 +1,1 @@
-How can I print a jsPDF document with electron?
+i have creat a pdf document with jspdf and jspdf-autot but i am not abl to print it with electron.electron just allow me to print the content on the web/html, it is not allow me to pass the document in ani function a print it directlyi also tri window.print() but it crash my applicationsolut are welcome....window.print() crash the applicationi am expect the electron app to print my jspdf document.

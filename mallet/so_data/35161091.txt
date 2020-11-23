@@ -1,1 +1,1 @@
-Adding API's to chromium build in Electron framework
+i would like to write custom function in window api in chromium sourc code. so how do we do it?in case of doubt about window api here a link to what i mean click here. i would like to have custom properti function analogus to those shown in the link.it for a github electron project.

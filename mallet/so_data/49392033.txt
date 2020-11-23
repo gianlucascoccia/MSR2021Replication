@@ -1,1 +1,1 @@
-how to communicate with my apps using IP address and socket remotely
+i am to electron and nodej and stuck here, actual i m make a desktop app to control everi pc in network. which tell me the ip and mac of comput in the network. but now i need to talk to it and push/get some message. but how ?

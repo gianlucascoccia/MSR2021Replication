@@ -1,1 +1,1 @@
-How can I keep form updated without reloading DOM?
+i have an app that work perfect and keep the form updat but onli if i reload the dom. is it possibl to updat a form with newli input or user modifi data without reload it when someon click submit button?serv code:

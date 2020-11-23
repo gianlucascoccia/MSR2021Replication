@@ -1,1 +1,1 @@
-Nested node_modules folder disappears after packaging
+i'm build a test electron app where i clone an express server repo, with it own directori doesn't make it into the packag app. is there some magic that electron is do to elimin that folder? is there some way i can ensur that it get in?her are the content of my main.j and my package.json in case that helps.

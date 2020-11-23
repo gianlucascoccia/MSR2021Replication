@@ -1,1 +1,1 @@
-Webpack problems with angular2 electron project failing
+i had an old project and move it onto a new machin with differ node, npm version and start to struggl get a compil to complet ok. i did do an npm packag upgrad for all my depend which updat my webpack config which was pretti much when everyth state to break. i have tri to upgrad my config - and it seem to be syntact correct now - but the build doesn't complet - which is my goal! help!nod version = pleas can anybodi strong in webpack, electron, angular2 - take a look and help me out.

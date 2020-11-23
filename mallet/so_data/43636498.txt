@@ -1,1 +1,1 @@
-How to Push Videos from a Mac app to Iphone?
+i have a problem i need to solve. i am plan on build a desktop app(mac and window both).th problem is that i need to transfer the video from the desktop app to iphone(whil iphon is connect through usb). ani idea how that can be done?

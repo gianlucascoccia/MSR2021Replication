@@ -1,1 +1,1 @@
-How to run electron-rebuild from my gulp task?
+i'm work on electron applic and want to add sqlite3 databas to it. there is a problem with nativ modul in electron, so i need to run electron-rebuild after npm install.what i have now:th problem is that electron-rebuild.cmd doesn't work in this way. although, when i run it manual from cmd, it work fine.i think general question is - how to run .cmd file from gulp task.thank a lot.

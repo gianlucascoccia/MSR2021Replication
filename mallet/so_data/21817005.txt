@@ -1,1 +1,1 @@
-node-webkit window width issue
+befor minim the node-webkit window it look like this:aft restor the node-webkit window it look like this:package.json i need fix width while minim and restor the node-webkit window. how can i solv the abov problem?

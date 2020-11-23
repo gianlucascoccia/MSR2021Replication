@@ -1,1 +1,1 @@
-How to build a voice calling system with Electron + Vue
+i want to ask how to build a voic call system with electron + vue.th system interfac allow you to enter number to make a phone call. how do i make a success voic call

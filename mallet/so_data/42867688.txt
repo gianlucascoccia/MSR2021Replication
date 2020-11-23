@@ -1,1 +1,1 @@
-Requiring a JavaScript Node.js module in TypeScript (allowJs' is not set)
+i have an angular2 app insid electron. now, i would like to use the , then it works, but then i don't have access to it from insid my angular app.

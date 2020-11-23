@@ -1,1 +1,1 @@
-Error when initialising electron App using electron-forge with electron-compile and electron-squirrel-startup
+i start learn on the electron by use the github on demand training. when i execut the below command. the system throw the error.oth detail are below,os: ubuntu 18.04node: v9.9.0npm: 6.4.1i have updat my npm version, but still, the issu persists. also, do i need to instal yarn in this case.

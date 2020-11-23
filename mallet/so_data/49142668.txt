@@ -1,1 +1,1 @@
-monkey patch node module
+i'm tri to monkey patch this node modul in electron application. i want to chang the is never called.so how can i monkey patch this modul method?

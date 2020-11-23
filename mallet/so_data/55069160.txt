@@ -1,1 +1,1 @@
-Listening for key press in lock screen - Electron
+i am build a "panic button" app use electron.js. i am use a menutray where peopl can choos the type of alarm to trigger, but they can also just press a specif key to trigger an alarm. the problem i have is that onc the comput locks, the app doe not seem to captur the key press anymore. is there a way to still listen to key press even if the comput is locked? in my app, peopl should still be abl to trigger an alarm, even if all they see is the lock screen.thank you.

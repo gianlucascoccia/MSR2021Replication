@@ -1,1 +1,1 @@
-Launch a bundled external script when exporting to AppImage
+i have made my own applic with electron, and i encount an issu with product builds, when it come to launch an extern python script.when i run the code in the dev environment, i have someth like:.however, when i use electron-build to make an appimage, this doe not work becaus the script can't obvious be found. an appimag applic is a singl file and it obvious that the public directori is not export with it.i there a solut to this issue?thanks!

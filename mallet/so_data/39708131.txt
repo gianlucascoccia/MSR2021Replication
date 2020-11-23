@@ -1,1 +1,1 @@
-Can not getting complete stdout using node.js
+i am use follow code in my app: direct from command line instead of from app but the result are same.

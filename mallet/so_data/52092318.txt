@@ -1,1 +1,1 @@
-How can I use Electron without having X11?
+i'm tri to run an applic that use electron on my embed system.th problem is that electron has dependeci with it but i can onli use wayland or frame buffer instead of x11.can anyon help me?andrea

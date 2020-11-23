@@ -1,1 +1,1 @@
-How to transfer files to a usb mount with electron
+in an electron app i'm tri to transfer some file in an attach usb device.i use usb-detect modul to detect a new usb but it doesn't give ani detail about the mount path so how can i transfer files?(prefer cross platform solution)

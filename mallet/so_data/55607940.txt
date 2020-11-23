@@ -1,1 +1,1 @@
-How do I save image locally in electron app
+i am build a electron app with vue-cli-electron-builder.us submit form with name, email and image(photo) which is store in local mysql databas and later on it will be synchron to cloud.on imag name will be store in the database, the problem is where and how do i save the actual imag local ? how do i synchron imag to cloud ?in develop mode it was store insid the project but product bundl app doesn't work like that. i tri multer.diskstorag to save imag to ./server/uploads'. it work in develop mode but in product it doesn't work.

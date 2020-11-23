@@ -1,1 +1,1 @@
-How to render two html pages in one windows using electron.js
+i'm new to electron.js. i was tri to creat a window, which has a default side bar / page, and im tri to view separ window when click the left side buttons. i search a lot, but onli thing that i found is how to creat multipl windows. imag :code&#xd;&#xd;&#xd;&#xd;&#xd;

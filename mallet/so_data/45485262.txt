@@ -1,1 +1,1 @@
-How to debug electron production binaries
+i can't open devtool in the built version of my electron app. therefor i want to find anoth solut to log ani error that onli occur in the product version.i there ani good way to get some console.log from an electron applic if it alreadi built?obvi i can debug the “development” version (run npm run dev) of my electron app by open the chrome dev tools. but i can't find ani way to enabl them insid my product application.i am use the newsest version of electron-vuethank for ani help in advance.

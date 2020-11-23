@@ -1,1 +1,1 @@
-Why do some borders not print from an Electron app?
+in an electron app, i'm load an html page preload with css into an &#xd;&#xd;&#xd;i'm use the follow software:electron v1.8.8chrome 69.0.3497.81safari 11.1.2firefox 62.0maco high sierra 10.13.6

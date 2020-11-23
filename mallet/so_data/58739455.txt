@@ -1,1 +1,1 @@
-Add back button when loading url in Electron
+i current have element in an electron app of mine, that when click on them load a url. howev it is not possibl to go to the previous (local) page.i there ani way to add a layer back button on top of the extern url which will load the previous page?

@@ -1,1 +1,1 @@
-I am trying to create multiple tab in my nw application and in the tab i would like to implement attach and detach tab window like browser
+i am tri to creat multipl tab in my nw applic and in the tab i would like to implement attach and detach tab window like browser tab drag outsid of window browser open new window. still i am research on the same. if someon know about the same. pleas help me

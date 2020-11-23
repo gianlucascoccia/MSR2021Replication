@@ -1,1 +1,1 @@
-Electron - How to add react dev tool
+what is the easi way to add react dev tool to electron window? i tri add the extens hash but when the extens update, i had to manual updat the string in main.js. i'm look for a better way.

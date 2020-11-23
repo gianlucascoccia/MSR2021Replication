@@ -1,1 +1,1 @@
-How to add an extra file into electron package
+i just start my adventur with electron and built an app which use sqlite.i use electron-vu and for sqlite i use sql.js package. and everyth is just fine when i compil my app use npm run dev.th problem begin when i want to packag the app. then except the mac version the db.sqlite is not includ into the app so of course, it doe not work correctly.how can i add the databas file into a built app that i could then distribut to the client?

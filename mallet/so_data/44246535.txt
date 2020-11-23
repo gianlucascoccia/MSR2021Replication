@@ -1,1 +1,1 @@
-How to open a child window in Electron with Vuejs
+i am use this packag https://github.com/simulatedgreg/electron-vue/ to use electron and vuej together. so the document for some thing in electron doe not work.i want to open a child browser window use a button in a component.in the compon methods: i have this code from the electron docs:

@@ -1,1 +1,1 @@
-useContentSize set to undefined after setMinimumSize
+for some reason problem?her is the link to the bug report on github.

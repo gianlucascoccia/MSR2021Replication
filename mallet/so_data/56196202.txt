@@ -1,1 +1,1 @@
-ipcMain listener not registering correctly
+am have some troubl with ipc messag between the main and render process in an electron app.th ipcrender is send the messag correct (i can see it from devtron) but the ipcmain is not listen to anythingcod in main.j

@@ -1,1 +1,1 @@
-How can I display files that have been saved as a Buffer?
+i am save file as buffer in my mongo databas (use mongoose, nodejs, electron). for now, i'm keep it simpl with text-on files. i read a file in use which is not the string i'm expecting. what is happen here? i read here that this should work.step 2 display this file. now, sinc i'm onli use text file right now, i can just display the string i get onc step 1 is working. but, is there a good way to do this for more complex files? imag and gif and such?

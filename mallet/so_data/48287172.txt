@@ -1,1 +1,1 @@
-combineLatest() does not work as expected
+i have two sources: savedialog$ and file$. the first is intend for pick asyncron directori path for save file which are emit by second source. i want to combin emit valu so that i reciev the combin of onc pick path with all files. i have tri to use combinelatest() but instead of 7 respons i had 1 with onli latest file like this: how can i get 7 combin respons if 7 file are emit (for example)?

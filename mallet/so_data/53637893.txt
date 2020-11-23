@@ -1,1 +1,1 @@
-Electron AutoUpdate does not apply after restart. OSX
+my codehttps://github.com/mergeweb/electron-forge-updater-v6i have an updat in place but when the app quit and restarts, the updat is not applied. how can i debug this? do you know where the updat file is downloaded?do the updat file have to be a dmg?(update) - look like the file doe not have to be dmg.

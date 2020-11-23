@@ -1,1 +1,1 @@
-How long does it take to build an electron project?
+i have a small project with few npm depend and it is take more than 30 minut (and counting) to build. i don't know if it is normal or there is someth wrong that is delay the build.i have two questions:i it normal take that long?how long doe an averag project take to build?mi package.json:

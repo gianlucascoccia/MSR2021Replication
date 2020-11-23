@@ -1,1 +1,1 @@
-Communicating between a python and electron app
+i have a python app which need a serious gui lift so i'v decid to use electron. i have compil my python app into an execut (.exe) which take in arguments. on electron, the user will input and the execut will be sent that input as an argument to process it.how would i tell electron what is happen behind the scene in the executable.mi origin thought was to make the execut write to a file and make electron read that file but that would probabl end up corrupt the file instead when tri to read and write from the file.

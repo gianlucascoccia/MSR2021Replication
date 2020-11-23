@@ -1,1 +1,1 @@
-How to set a path once and use it throughout my javascript program?
+i'm build an electron-app which use a database. the problem: everi time i need to add new code, i need to creat a connect to the database. i do it this way:i there a way to creat a global variabl or someth similar which hold this filepath? so i don't have to hardcod the filepath in the program?

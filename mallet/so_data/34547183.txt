@@ -1,1 +1,1 @@
-which loaders to use for js.node file
+i'm build my app on top of electron-react-boilerplatewebpack, react and redux and all front-end librari work fine.i would like to includ webchimera.j in my app: wcjs-prebuilt.wcjs-prebuilt containt a .js.node file. webpack warn me that i need a loader for this. i tri file and raw loader they did work fine ( node loader didnt work), but when i look at the file in the dev tool it just export a string contain raw binary.should i use webpack to bundl my js.node files, and

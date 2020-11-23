@@ -1,1 +1,1 @@
-webview.executeJavascript is not a function
+while start to sort my js file in a recent electron project i stop be abl to is no longer a function.if anybodi know the reason or has a clue what wrong that'd be helpful!

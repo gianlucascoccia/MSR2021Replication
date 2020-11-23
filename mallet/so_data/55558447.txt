@@ -1,1 +1,1 @@
-Send HTTPS request to Docker daemon from Angular
+i would like to make an angular client to manag my containers. and i need to send a https request with a certif from angular to communic with the docker daemon (https://docs.docker.com/engine/security/https/). for now, i expos the docker daemon without tls check, so everyon can manag my containers. my client has to be abl to manag differ docker daemon (so differ certificates) and has to be runnabl in electron.

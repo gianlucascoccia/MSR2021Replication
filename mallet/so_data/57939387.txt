@@ -1,1 +1,1 @@
-Unable to remove splash screen on electron forge
+after build my electron app use electron-forg (run yarn build in the console) i notic when i run the built .ex applic on my system, this splash screen pop up first befor the app launch. spash screen imag previewi have been search for a way to remov it, pleas could anyon help.

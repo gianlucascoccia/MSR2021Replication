@@ -1,1 +1,1 @@
-Long action is locking renderer process
+i have a function that i'm call in a compon template. it react on chang in a vue-select component. action that is be dispatch contain mani http calls, commit to the store, and call to other actions. the issu is that onc this has been called, the ui complet lock and doesn't updat until about halfway through the function. how should i call an action that will commit (mutate), and dispatch other actions, and not lock the ui? updateth problem has disappear in our product build and onli exist when we have develop mode enabled.

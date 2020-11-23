@@ -1,1 +1,1 @@
-Autoinstall modules when running the Node Webkit build
+i creat a node webkit app and creat the run file use nw-builder.th app size is veri large(200mb) becaus of the modul that were used.i it possibl to creat an instal that download the depend requir so that the app size remain low.

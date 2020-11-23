@@ -1,1 +1,1 @@
-Electron - Breakpoints only work in main.js, but not in index.js
+sinc half an hour i work on the electron-quick-start-tutorial. like the doc told me, i creat the filestructur like this: package.json main.j index.htmldepart from the doc i did chang on the launch.json to make my project start on f5 in visual studio code:it all fine, but how can i make my index.js-breakpoint work within vsc? main.js-breakpoint stop as they should.thxpiccus

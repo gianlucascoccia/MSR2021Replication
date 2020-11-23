@@ -1,1 +1,1 @@
-problem with "npm run dist" when using electron-builder
+im have a problem with electron-builder.https://medium.com/how-to-electron/a-complete-guide-to-packaging-your-electron-app-1bdc717d739fi have follow this complet guid for packag electron app use electron builder, but i dunno whi im get this error.ani thought will be appreci thanks.her are the sampl error log im getting.

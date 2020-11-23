@@ -1,1 +1,1 @@
-Hook to console.log in electron
+i'm look to hook to console.log in electron.i tri follow the step as mention here: https://stackoverflow.com/a/9624028/2091948whil the abov work well in node.js, this same approach doesn't work in electron (which in-turn is node.j based)how can i achiev this in electron?i need to captur all call to console.log, and console.error, so that i can use the modul (https://www.npmjs.com/package/electron-log) to hook to all console.log, and console.error calls.

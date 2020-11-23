@@ -1,1 +1,1 @@
-Event for DOM changes in electron apps?
+i am abl to modifi 3rd parti electron app (discord) by use dom-readi event like so:

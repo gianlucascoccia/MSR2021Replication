@@ -1,1 +1,1 @@
-Electron - Event not registered on renderer
+i'm tri to save a file befor (or after, all it matter is that it get called) quitting.to do that on the main process i would do:

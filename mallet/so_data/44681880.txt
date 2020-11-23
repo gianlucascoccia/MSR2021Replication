@@ -1,1 +1,1 @@
-How to create a non-modal React dialog?
+i'm work on a javascript react-bas applic run under nwjs.mi task is: on a button click, display scrollabl instruct in a dialog that user can drag to a second monitor, so they can do their work in the main window, follow the instruct in my new dialog.i onli know how to make modal dialog with react. how do i make a non-mod dialog, so the user can scroll through the instruct as need while they work in the main window?

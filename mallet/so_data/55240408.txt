@@ -1,1 +1,1 @@
-angular routerLink attribute click is not working with nwjs
+angular routerlink attribut click is not work with nwjs execut nw . the app was launch as desktop app.when i click on the element which has routerlink attribute, it doesn't do anything. stay on same view.navig is not happening.can help please..how will i have navig support of angular app via nwjs(desktop) app

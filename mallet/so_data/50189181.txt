@@ -1,1 +1,1 @@
-Build native modules with electron-builder for different OS
+i'm creat an app use it build nativ modul onli for my current os. is there a way to build nativ modul for all oper systems?

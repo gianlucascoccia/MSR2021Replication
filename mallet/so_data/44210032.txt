@@ -1,1 +1,1 @@
-Avoid "Application Downloaded From The Internet" warning
+i have written an app use electron and sign it.i have confirm i have sign it proper with the this is despit select "mac app store and identifi developers" from "secur &amp; privacy" screen in settings.bas on this descript of gatekeeper:https://support.apple.com/en-us/ht202491i would not expect to get that warning.what can i chang in how i build or distribut the app such that user will not receiv that warning? our user are not tech savvi at at all so ani warn messag make our phone ring.

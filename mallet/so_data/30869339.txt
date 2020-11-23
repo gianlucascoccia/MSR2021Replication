@@ -1,1 +1,1 @@
-angularJS / handing over parameter
+in my angularj controller, i have the follow code:part. more precisely, the $scope.revenuesql is not recogn as the sql statement that it actual is. put the sql directly, without read it from a file, work fine. still, look at my console, i see that $scope.revenuesql is exact what i want. but be put as paramet into .query(), someth seem to go wrong. ani ideas?

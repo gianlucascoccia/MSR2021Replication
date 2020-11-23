@@ -1,1 +1,1 @@
-how to create an executable file in electron
+i creat a simpl project with electron and i tri to creat an execut file.system: ubuntu 18.0.4.i ad this script to my package.json: "build":"electron-packag . myapp"and after i run it i got a new folder name "myapp" folder hirarchyi nevig to myapp/resources/appand i did not manag to find there an execut file.th onli file that i can see is .asar file what should be the file extent anyway? and what i am do wrong?

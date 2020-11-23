@@ -1,1 +1,1 @@
-I've Electron Project and I'd like to use vueJS into it
+i'v electron project, but i can't use vuej insid it...so how to use vuej insid it? or i should instal vue cli and instal electron?

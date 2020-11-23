@@ -1,1 +1,1 @@
-Electron: Load a file with `executeJavaScript`
+i need to inject an npm packag into a as import

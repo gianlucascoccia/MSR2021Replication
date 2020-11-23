@@ -1,1 +1,1 @@
-Testing Electron app using selenium, java in MacOS environment
+is there sampl java code for launch electron app use selenium-chromedriver? here where i am at this point. my code bring up the electron app, and i can view the webel on that page, but doesn't launch the app i need to test. i can drag the app over to the electron window and it launches, but the webdriv doesn't point to it.

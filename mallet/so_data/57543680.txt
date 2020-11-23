@@ -1,1 +1,1 @@
-Electron Linux: .AppImage is not showing the icon, while .deb is
+i have an electron app which i want to distribut to all oper systems.i have an issu with the linux releas file. i'v test both the it doesn't.also, the icon work fine when i run it in develop mode as well as when releas for window and macos.whi is that so?th sourc code of my app is avail here

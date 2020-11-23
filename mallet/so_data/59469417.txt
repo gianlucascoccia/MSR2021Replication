@@ -1,1 +1,1 @@
-access and package external files in an electron application
+i am build my first electron app that has applic content (a json file).mi problem is that i cannot access the applic content after packag with electron-build.i ad the json file (mvdb.json) in question to the extern resourc and resolv the path in the main process. package.jsonani suggestions?

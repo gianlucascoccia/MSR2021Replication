@@ -1,1 +1,1 @@
-ElectronJs Print Silently PDF
+i have a simpl electronj applic which interact with my laravel backend server. the backend server produc a pdf to a certain size such as 86mm x 54mm and stream the pdf to my electronj applic for it to print silent to the default printer. current in my electron applic i get the popup to save the stream pdf to the machin rather than it print silently.mi electronj code handl the print method.i expect the pdf to print to the default printer howev this produc a popup to download the pdf file?

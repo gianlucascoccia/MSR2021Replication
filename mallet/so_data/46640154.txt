@@ -1,1 +1,1 @@
-Why Fiddler and Wireshark doesn't capture request from NW.JS client?
+i am debug my web app and use nw.js client (it necessary). i want to see http request via fiddler but i don't. also i tri to use wireshark and result was similar. but i can see request from my web app if i use chrome or firefox.

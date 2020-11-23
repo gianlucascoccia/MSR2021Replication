@@ -1,1 +1,1 @@
-Can I move an Angular app from Electron to Browser?
+i have an angular app current in electron. (it was built by someon else) i would like to run this in my browser (possibl convert it to a progress web app). is this possible? if so how?

@@ -1,1 +1,1 @@
-Image File Upload and Retrieve in Electron
+i am tri to build an applic in electron which has a html form with imag upload button. so my purpos is to ask the user to upload an imag and i want to save the imag file somewher in the local folder within the app and retriev the imag whenev i need.how would i achiev this ?

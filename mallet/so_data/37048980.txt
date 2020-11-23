@@ -1,1 +1,1 @@
-Node-Webkit: Application not running by drag drop or running from command line
+it my first day with nwjs and i am strugl with it. i have go through it documentations: documentationsi am follow whatev is written over there.downlaod nwjs and extract it in a foldercr a sampl applicationdrag drop the

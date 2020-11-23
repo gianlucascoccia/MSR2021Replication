@@ -1,1 +1,1 @@
-Where is extraResources in mac?
+i made an applic use electron-vue.https://github.com/simulatedgreg/electron-vueand i ad some file to extraresourc in package.json.when i instal app, i can find out extra resourc in win.c:\users\username\appdata\local\programs\applicationname\resourcesit insid here.but, in mac, i can't find it.wher is this directori in mac?

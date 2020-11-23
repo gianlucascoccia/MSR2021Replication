@@ -1,1 +1,1 @@
-Menu doesn't load page when clicked
+i'm tri to creat a menu, to open various page with the main window upon starting. this is my js file that is set to be run on packag start:th menu is set, but when i click either of the menu items, the page is not loaded. what am i do wrong?

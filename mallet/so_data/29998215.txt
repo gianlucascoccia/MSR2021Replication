@@ -1,1 +1,1 @@
-How Can I set the background of a browser window blend with the desktop background?
+i'm tri to build an app with nwjs, and i want it to have the look and feel of a desktop app. desktop app on osx (specif the one on the upper menu) have their background blend with the desktop background.do anyon know how can i do this in a browser, or simpli in nwjs (node-webkit)?thanks,adir

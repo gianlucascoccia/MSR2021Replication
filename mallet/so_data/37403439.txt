@@ -1,1 +1,1 @@
-How do I split main.js of my Electron application?
+electron use main.j as the start point of application. however, if that file contain all code which handl event of the main process, it is too long and too hard to maintain. can i split main.j file? and how do i do?

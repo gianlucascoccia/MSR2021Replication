@@ -1,1 +1,1 @@
-Infinite Scroll Distance - Angular 2
+i am use angular2 for my application. i understand that the syntax to use infinit scroll is:but is there ani way we can specifi anyth like "infinite-scroll-distance", in angular2?

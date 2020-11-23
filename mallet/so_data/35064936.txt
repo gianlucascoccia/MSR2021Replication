@@ -1,1 +1,1 @@
-using grunt in launch.json
+i load the yeoman generator-meanj and open it with visual studio code.th debugg work nicely. when i click on the debug side bar button alaunch.json file was generat for me. the launch.json generat is look at the package.json which has with server.j it works. if i could chang the type to grunt, but it seem onli node or mono is support there.

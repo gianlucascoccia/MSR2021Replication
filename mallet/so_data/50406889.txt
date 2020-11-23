@@ -1,1 +1,1 @@
-Electron. Cover dock panel in MacOS / system toolbars in Ubuntu
+what needed: to cover whole screen area with a transpar overlay includ dock panel for maco and system toolbar for ubuntu.example: maco dock panel overlayedfullscreen is not an option as it:hid system panel underl fullscreen applicationopen new display in macoswhat done:result: ubuntu system panel are not overlayedi there ani way to achiev full screen coverage?

@@ -1,1 +1,1 @@
-Is it possible to pass information from browser to Node scope using Nightmare.js (v2 Electron)?
+i am use nightmare.j (v2.3.3) to autom a part of my workflow where i have to access a websit that updat our database. i have been abl to get nightmar work for basic thing like format? i would just like to know if this is possibl befor i drive myself crazy! thank for ani and all help, pleas let me know if you need ani addit inform to help answer.

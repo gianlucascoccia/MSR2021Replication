@@ -1,1 +1,1 @@
-Running javascript in Electron Secondary Window
+i have creat an electron applic that has multipl window that can open ex. an about page and a prefer page. this is what my main.j look like.wher the readfile() script and storetimepreference() function are both part of the script.j includ at the bottom. which is the same way i did it for the index.html howev here it doesn't work and i'm not sure why. can anyon explain what i'm do wrong here or whi this doesn't work and what a workaround would be?

@@ -1,1 +1,1 @@
-How to manage cpu intense task on electron
+i am develop a desktop app with electron and angular 7.there is a part where i need to zip a folder, wich could weight a lot.i am use ipcrender to send from angular to electron the signal to start the zipping. this is the chunk of the ipcmain:but it did not work, "zip" alway resolv immediately, without execut the zip function, probabl becaus zip.zipfold use a callback.ani idea?

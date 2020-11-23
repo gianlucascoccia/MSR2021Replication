@@ -1,1 +1,1 @@
-node-webkit in app purchase flow
+i am port a webapp to be use on osx use node-webkit. our app also has a premium plan (subscription). how would i trigger the a in app purchas flow from within js code?

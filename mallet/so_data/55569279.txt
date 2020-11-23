@@ -1,1 +1,1 @@
-Open PDF packaged within Electron with External App
+we would like to distribut a set of pdf file within our application. origin we were open these with a react pdf viewer howev the user realli need to be abl to save these file to their comput so they can read/annotate/print these in their own time etc. we are use creat react app within electron - do you have ani suggestions?thanks!manag to get this work use the follow method:

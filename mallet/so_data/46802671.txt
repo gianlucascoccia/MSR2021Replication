@@ -1,1 +1,1 @@
-Calling react function in electron ipcRender
+i am tri to call the follow function from react with ipc.rendererwhat am i do wrong or how it suppos to be done ?thank you.

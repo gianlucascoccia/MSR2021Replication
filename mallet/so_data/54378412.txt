@@ -1,1 +1,1 @@
-Load open layers map to electron js with typescript imports
+i'm tri to load openlay map in electron use typescript imports. but when compil follow except pop up this is the code i am tri to run&#xd;&#xd;&#xd;&#xd;&#xd;i there a way to load latest open layer with electron?thank in advanc

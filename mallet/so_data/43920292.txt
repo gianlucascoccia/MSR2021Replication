@@ -1,1 +1,1 @@
-NodeRT - StorageFile.openAsync returns undefined fileStream, but no error
+i'm just get start with nodert &amp; electron (window 10). some of the basic seem to be working, but i'v quick run up against a strang issue. here the code:getfilefrompathasync succeed and the result storagefil is valid. however, openasync return an undefin filestream and an undefin err!questions:what am i do wrong here?in ani case, whi is openasync fail silent with no error?thanks!

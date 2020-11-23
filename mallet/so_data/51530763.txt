@@ -1,1 +1,1 @@
-Node.js Logging to a external website from code. (osmosis , cheerio)
+i am write an electron app which connect with an extern site.and i found out , cheerio can't scrape site which need to be log in . so i am use osmosi now but it show follow error .thank in advanc .

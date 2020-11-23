@@ -1,1 +1,1 @@
-N-API include an .so or dll
+i am develop an app use electron.i have setup an addon that use c++ code and translat it into nodej code use napi.now i want to includ an extern .so librari (with a .h file) but can't find ani document that achiev ani success.i keep get error: undefin symbol: some_function_nam

@@ -1,1 +1,1 @@
-BrowserWindow in electron does not open
+i just tri to test electron environ for program with javascript on desktop with window 10.so i have an app: to stop the application.do anyon know where is the problem?

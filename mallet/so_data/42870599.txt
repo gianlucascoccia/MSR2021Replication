@@ -1,1 +1,1 @@
-Electron user authentication with Meteor.js
+how would i authent user log in from an electron desktop application?meteor come with a default user system. if i was authent from the client of a meteor app, i could do someth like the follow to login:what the best way to authent user in an electron app?

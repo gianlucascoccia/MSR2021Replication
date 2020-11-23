@@ -1,1 +1,1 @@
-electron/react - how to turn off browser
+i was follow this tutori but when i start my app it complain it still launch the app in browser and not nativ window. how do i start the app not in a browser?

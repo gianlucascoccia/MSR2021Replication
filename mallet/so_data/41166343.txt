@@ -1,1 +1,1 @@
-Is it possible to setBadge without bouncing in Electron?
+in the electron api there is a without bounc in electron?

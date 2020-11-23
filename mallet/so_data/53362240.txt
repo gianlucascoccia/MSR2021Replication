@@ -1,1 +1,1 @@
-How to re-calculate the stop and resume animation calculation correctly in my project
+i have a problem with paus the story.below are some points:without click for next stori question: paus and play should work as normal, without ani jumpproject link: https://www.dropbox.com/s/e7c2d4fynwl1d6a/teleprompter-core-master.tar.gz?dl=0

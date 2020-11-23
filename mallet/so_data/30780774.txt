@@ -1,1 +1,1 @@
-js-bson: Failed to load c++ bson extension, using pure JS version on mongoose in Windows
+i'm tri creat a desktop system use ? how to can i fix this problem?mi environ is window 7, 64 bitspost where i tried:content="problem with mongoose/mongoj on node-webkit 0.7.5 - window 7cannot find modul ../build/release/bson'] code: module_not_found } js-bson: fail to load c++ bson extension, use pure js version

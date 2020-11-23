@@ -1,1 +1,1 @@
-Store large amounts of data from my Laravel website using SQLite3 database and React-Native App or similar
+i am current use indexdb to store data from my laravel websit but i am find there are perform issu on mobil devic as i am store larg amount of data. can i creat a react-nat app or similar with a sqlite3 databas where i can store larg amount of data from my laravel website? if i can not do it with react nativ i would appreci ani advic on whether this can be done use anoth method. thank you in advance.kind regards,jason.

@@ -1,1 +1,1 @@
-Electron without GUI
+i need to creat a node.j applic that work in background as a web application. the app should provid some function for the main client site. the applic is go to be instal on mani machin with differ os, that whi i want to get rid of node.j depend and compil it to binary.i use electron-builder, but as i understood it depend on gui. so, what can i do to compil the app that can work without gui and node.js?

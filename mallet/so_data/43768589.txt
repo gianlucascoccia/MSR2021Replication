@@ -1,1 +1,1 @@
-Trouble importing from module after mix a compile
+i'm in the process of re-writ my electron app with es6, use laravel mix to compil the app js and sass. now the main process load up the render process fine. onc that happen my app.j load up and that where i have my issues. so i do:

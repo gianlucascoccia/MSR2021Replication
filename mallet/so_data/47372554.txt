@@ -1,1 +1,1 @@
-Node JS request from API
+i would like to make an applic for my organis so we can see our customers, invoic and quot veri easaly. i have manag to get a respons from the rest api form moneybird (wich is the programm we will be using) look like the follow (for privaci reason i blank out person details):obvi there is no more console.log(); becaus i would like to display everi user on his/her own line in a unorderd list.i don't know how i can use the inform i get from my request to the index.html file and make it readable.i am write a desktop app use electron and node.js.

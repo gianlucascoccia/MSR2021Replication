@@ -1,1 +1,1 @@
-Cannot read property 'join' of undefined in Javascript file Electron JS
+i have an applic in electron js that is call a python function to execut a python script.when the script execut it should send the data back to the electron js gui and display it.th issu i am have is that it is say that join is undefined: weather.js:9 uncaught typeerror: cannot read properti join of undefin at get_weath (weather.js:9) at htmlbuttonelement.onclick (weather.html:14)her is my javascript file:what error(s) do i need to fix to get this work correctly?thank you.

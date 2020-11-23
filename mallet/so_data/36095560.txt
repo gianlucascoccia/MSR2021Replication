@@ -1,1 +1,1 @@
-Cant get Toolbar to show up in Node Webkit
+i have what should hope be a simpl question. accord to the documentation, and tutori that im look at, a basic nw.js app should have a toolbar at the top as such. however, when i run my hello world program i have no such toolbar, it look like this:i also tri to explicit turn on the toolbar in the package.json (although it sound like it should be enabl by default), like this:but i still get no toolbar. what am i missing?mi version of nw.js is 0.13.0 (window 64bit)

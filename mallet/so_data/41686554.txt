@@ -1,1 +1,1 @@
-Using Electron with Angular 2 for both a web and a desktop app
+are there ani blogs/articl on get start with creat an electron app use angular 2 with the goal of creat both a web and a window app? eventually, i'll need to be abl to creat a mobil app as well (i am assum i'll need to use ionic 2 for this?)i am familiar with angular 2 from the web app develop standpoint. how do i setup the architectur to support web/desktop and eventu a mobil app?a an electron newbie, ani feedback on how to get started/tips/suggest would be realli appreciated.

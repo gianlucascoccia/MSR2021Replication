@@ -1,1 +1,1 @@
-nw.js how to escape fullscreen
+i'm use nw.js to make an exe file. i can set it to fullscreen mode but how can i escap it use the escap key? peopl are suggest the below code but which file do i put this in?

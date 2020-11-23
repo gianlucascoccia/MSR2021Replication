@@ -1,1 +1,1 @@
-maximize/unmaximize doesn't work on electron when resizable: false
+i am develop a desktop app by electron. which are frame-less window and i write a js maximize/unmaxim button which is work good? on main.js) the maximize/unmaxim button doesn't work.

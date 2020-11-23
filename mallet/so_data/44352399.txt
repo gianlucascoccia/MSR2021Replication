@@ -1,1 +1,1 @@
-Connect Electron desktop app with hardware
+if i develop app desktop with electron (atom). this app can connect with hardware, exampl barcod readers? how to?electron.atom.io

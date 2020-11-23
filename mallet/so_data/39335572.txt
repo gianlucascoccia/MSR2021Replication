@@ -1,1 +1,1 @@
-How to monitor node http requests in node-webkit
+how can i monitor http request that were made by node in node-webkit? when i make a request i don't see it in the develop tools. i can see the request onli when i make it with jqueri or xmlhttprequest.i'v bind a console.log on the end event and i can see that node-webkit is actual do the request and it return me a correct response. but do this blind request is veri hard becaus there is absolut no way to debug them (except for log the param that i'v call the request method with).

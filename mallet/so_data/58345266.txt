@@ -1,1 +1,1 @@
-Any workarounds for app.client.setValue in Spectron?
+in my test i fill the input field (of ant.design https://ant.design/components/input/) with

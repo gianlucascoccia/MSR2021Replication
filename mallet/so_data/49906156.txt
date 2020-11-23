@@ -1,1 +1,1 @@
-Run batch file from Electron main thread
+i'm attempt to run a simpl batch file from my electron application. here is my code:how can i launch my batch file from my electron application?

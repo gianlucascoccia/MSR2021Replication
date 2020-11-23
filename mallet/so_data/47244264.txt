@@ -1,1 +1,1 @@
-Electron - get form data
+i'm new to electron and wonder how to get data from a form to main.j ( main file that launch electron ). the snippet from my index.html file is below: &#xd;&#xd;&#xd;&#xd;&#xd;i read about ipcmain and ipcrender but i'm unabl to figur out what code to use to get the data from index.html after i hit the submit button

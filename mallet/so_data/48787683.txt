@@ -1,1 +1,1 @@
-NODE Cannot GET routes function
+i have creat a folder testintmi testint/app.j have follow codeif i run http://localhost:7000/users/registeram get :cannot get /users/registeri dint know where am wrong and am new to node ani help will be appreciated.

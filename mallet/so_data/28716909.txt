@@ -1,1 +1,1 @@
-Writing png after capturing from webcam in node-webkit not working
+i am take snapshot in html5 use the follow code.i have tri sever approach but it seem to be not work correctly. the imag file is written in the hard drive but it is corrupted. pleas help me to resolv this problem.

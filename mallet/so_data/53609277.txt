@@ -1,1 +1,1 @@
-How to Disable keyboard shortcuts Alt + Tab in electron app on Windows 10?
+i am work with desktop application, while i am work on ubuntu server, i can block keyboard shortcuts: alt+tab fine, but when i'm move to work on window os and tri to block alt+tab, it not working. the most problem becaus of alt keyboard, it serious didn't work on window 10 when i tri to block it here is the code that i am using:

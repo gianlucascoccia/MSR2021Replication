@@ -1,1 +1,1 @@
-Accessing the DOM from webview in atom Electron
+is it possibl to scrape html from the webview element in the atom electron desktop develop toolkit, i am tri to access the dom but i get noth back, i have tri a document.link in the consol at runtim but i get empti properti and object in return?

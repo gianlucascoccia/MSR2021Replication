@@ -1,1 +1,1 @@
-Hide window of electron app on workspace change (on macOS)
+in this this so thread is described, how to get a background tray app work on multipl workspac (on macos).but when use the given code exampl with the event of the browserwindow class, but this doesn't seem to be what i'm look for.

@@ -1,1 +1,1 @@
-fetching data from mongodb and electron js using ipc renderer
+vue fileand final result are in under the _doc of everi index like 0, 1, 2whi is that ? i think it suppos to return just simpl array like cmd print result.i that anyth left to fetch organ result or i need to do someth els ?thank you

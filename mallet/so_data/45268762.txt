@@ -1,1 +1,1 @@
-Electron tray app position on Mac OS
+i am build an electron tray app for mac os. everyth seem okay, but if i run the app on one desktop and then switch to another, when i click on app icon, app return me back to place where it was launched. how can i fix it to be open on everi desktop?thank in advanc

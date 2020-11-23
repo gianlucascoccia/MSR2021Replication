@@ -1,1 +1,1 @@
-Why do some people refer to web views as "native apps"?
+more and more i find servic that advertis "native" desktop apps, but after download or research find they are web view built in electron or similar web view frame-works. are they misunderstand "native" or am i?also, what other terminolog can i use to refer to proper nativ apps?(mi major gripe with these app is poor perform on my machine.)

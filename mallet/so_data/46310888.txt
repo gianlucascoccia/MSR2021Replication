@@ -1,1 +1,1 @@
-Is it possible to open an interactive pane or window with Visual Studio Code extension
+i'm tri to creat an (ideally) all-in-on cross platform tile base map/sprite/imag editor for a game engine, sinc the current offici one is window onli and doesn't play nice with wine/mono. instead of build one from scratch, i figur it might be easier to creat an extens for visual studio code, but side pane don't seem to be interactive, and i'm have troubl get it to open an electron window.i this possible, or should i just build it from scratch with electron?

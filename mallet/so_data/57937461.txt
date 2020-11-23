@@ -1,1 +1,1 @@
-spawn child_process execFile EACCES error
+as title, when tri to run extern program (goodbyedpi it is actually) i got eacc error.thi is for my nw.js project (previous known as node-webkit).

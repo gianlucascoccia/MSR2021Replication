@@ -1,1 +1,1 @@
-setup WebRTC peer connection when using electron and reactjs
+i am tri to build a desktop app which is about video call use electron and reactj and webrtc. i have use create-react-app so my electron relat code will be insid public folder. i need help on set up then i dont get undefined.

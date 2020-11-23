@@ -1,1 +1,1 @@
-Electron with JSX
+i am write desktop app with electron from github, and i am use react with it. one thing i notic is that becaus electron use io.js, i no longer need webpack to build my code like when i dev for client-sid web app. however, i still need someth that can load jsx. i am use babel request hook, but it seem a littl slow. i don't realli need the es6 featur in babel sinc they are support in io.js.i there anoth way i can use jsx with electron?thank

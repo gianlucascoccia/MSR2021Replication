@@ -1,1 +1,1 @@
-Start electron app with child_process.fork
+is it possibl to start an electron applic from a node.j app with child_process.fork()?i would like to take advantag of the ipc messag the fork provides, but i cannot figur out how to start electron with onli the modulepath instead electron .'.https://nodejs.org/api/child_process.html#child_process_child_process_fork_modulepath_args_opt

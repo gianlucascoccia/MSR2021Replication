@@ -1,1 +1,1 @@
-Angular type error: Type 'string' is not assignable to type 'string[]'
+i'm veri new to angular and am tri to build an electron app leverag angular 6. what i'm tri to do is:1. supportinformationclass has a few definit 2. on init of the componenet, popul the definit from the electron-set supportinformation.ts: console.log(this.electronservice.settings.get('apps_1')) gives:i'm unabl to understand why. could someon give me some pointer regard the same?thanks.

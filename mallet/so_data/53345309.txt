@@ -1,1 +1,1 @@
-How do I correctly add PapaParse to my Electron project?
+i have instal it in my project folder with: onli just start use electron for a quick project (and javascript isn't my nativ language) so forgiv me if it someth obvious.

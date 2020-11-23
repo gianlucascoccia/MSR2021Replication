@@ -1,1 +1,1 @@
-AudioContext compromising app performance the more audio files I play
+ok, i'm develop an elecron app (javascript) to audio visualization. there is a method as it just a html element.ani ideia?update: i pass over the problem of recreat the audio context delet and creat again the html element. but the problem persist: the more new audio file are played, the app get slower. more precis now: the more new audiocontext() is created, the slower it get (even if i close the previous one).

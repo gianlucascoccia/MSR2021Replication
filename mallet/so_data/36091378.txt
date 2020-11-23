@@ -1,1 +1,1 @@
-Closing application and notifying renderer process
+i have an electron applic that need to save some data when it close by the user (e.g. just after the user click on the "close" button).th data is avail at the render process, so it should be notifi befor the applic dies.th electron api for browser window mention a from the main process to notifi the render process, but it seem that, becaus the messag is asynchronous, the applic is close befor the render process has the time to actual perform the operations.

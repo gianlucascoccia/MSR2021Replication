@@ -1,1 +1,1 @@
-Using a button to communicate between Main and Renderer
+i learn about leverag however, when i click on the submit button, noth happens. can someon point me out to what i did wrong?

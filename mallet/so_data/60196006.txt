@@ -1,1 +1,1 @@
-What could be causing 'error processing argument' using webcontents.executeJavaScript?
+after i creat a new browserwindow i launch this code on it webcontentsi there someth wrong perhap with the format of the code ?

@@ -1,1 +1,1 @@
-Is it possible to register a new app with soundcloud API using a custom http protocol in electron?
+i'm current build an electron soundcloud desktop app to learn electron &amp; reactjs. i have seen an app use a custom http protocol (link to electron docs) to reciev the callback for get the authent token. today i want to regist my app on developers.soundcloud.com. the applic link send you to a googl form, but the redirect url you need to add here is requir to have a http(s)://. is it actual possibl to request someth like this "soundtop://oauth/callback"?

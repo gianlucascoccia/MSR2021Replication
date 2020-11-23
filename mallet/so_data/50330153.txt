@@ -1,1 +1,1 @@
-How to access the mainWindow from another script in Electron?
+my electron app defin the is creat in a differ script (site.js).how can i creat a dialog, that is a child of the mainwindow without creat it in the main.js? can ipc help somehow?

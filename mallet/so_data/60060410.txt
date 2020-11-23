@@ -1,1 +1,1 @@
-Electron - creating browser window with predefined information
+i am tri to creat a new window in my electron app that load an html base on certain inform pertain to the click. the html of the window i am tri to creat has a templat like:so i would like for the event that generat the window and load the html to be abl to popul the form with some valu base on the object that i'm clicking.

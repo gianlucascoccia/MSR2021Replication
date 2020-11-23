@@ -1,1 +1,1 @@
-Declare section where Electron must search text (Vue)
+i use in my applic function .when user search text in the search engin electron search in all applications. for example:in menu.vu i have:homecontactin news.vu i have:"woman back to home."when user search word "home" electron select home word in menu and in news.how can i declar where electron must search ?

@@ -1,1 +1,1 @@
-Electron Custom Protocol Requests
+how would i go about load a resourc with a custom protocol in electronj on the actual render page with the javascript execut on the page? this custom protocol would return a json string.do i have to use xmlhttprequest or is there anoth api that manag that? i'v alreadi tri use the fetch api, but that didn't work. i'm tri to use the custom protocol featur so that i can cach result from previous call to an expens to call service.

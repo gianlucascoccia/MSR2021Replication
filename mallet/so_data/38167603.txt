@@ -1,1 +1,1 @@
-How to package scripts launched as child processes in Electron app?
+my electron app launch r script with the .what is the best way to packag these script in the built app? i believ this appli for ani kind of script or asset not direct relat to the function of the app itself.

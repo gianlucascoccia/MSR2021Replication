@@ -1,1 +1,1 @@
-How to hide pin to taskbar for an electron app
+the pin to taskbar option is creat issu with my electron app. i would like to know how to disabl the right click of a electron app in the window taskbar.i don't want to show the entir option while right click my electron app.

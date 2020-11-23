@@ -1,1 +1,1 @@
-Can not find module 'jquery-slider' in node.js project
+i have instal packag insid node-modul and i have requir three package:first two is work but slider is not working. how can i solv this?

@@ -1,1 +1,1 @@
-Is win-unpacked folder necessary when deploying an electron app on my server
+i wish to avoid deploy the win-unpack folder, but sinc i do not if it is of ani use by the auto-upd feature,i keep deploy it.so when this win-unpack folder is need ? what featur will i loos if i am not provid it on my deploy server ?thx

@@ -1,1 +1,1 @@
-Electron: How to minimize a window from a rendered process
+scenarioi have a window and it has an however, i am not abl to find ani function that can minim a window from render process.pleas help, mani thanks;note:brows do not provid a function to dev to minim them. but herei a differ scenario. here i am use chromium provid by electronjs. so, there must be a way to do so as we are develop a desktop applicationdummi download link: download from onedr

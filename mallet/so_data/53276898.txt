@@ -1,1 +1,1 @@
-"Failed to load gRPC binary module because it was not installed for the current system" Only on windows
+i am have abov error when i am tri to run my packag app on windows. it work perfect fine on linux. thing i tried:rebuidthi questionlet me know if you need ani other detail.

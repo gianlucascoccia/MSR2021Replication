@@ -1,1 +1,1 @@
-Running Electron with Linux on Windows
+i'm tri to get an electron forg app run on my window 10 machin via linux on window (use the new built-in window bash functionality).when run - i still got the same error message. i look into that a bit and it seem that this has to do with what file the linux subsystem are allow to control permiss for per this microsoft thread.i there some other trick to get electron forg to work with bash on windows?

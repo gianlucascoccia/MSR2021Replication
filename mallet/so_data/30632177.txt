@@ -1,1 +1,1 @@
-Node Webkit Detect Program Focus Event
+is it possibl to detect when a user focus on the program, like do an when the window is be selected, but when i have the window minimized, then i don't receiv anything.

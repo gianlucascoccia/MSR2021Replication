@@ -1,1 +1,1 @@
-How to make completely frameless and square corner window on electron?
+i'm make widget app use electron. although set frame:false, transparent: true, it still has thin glow line on the top as screenshot below.and also has round corner as well.how can i make exact frameless and squar corner window?

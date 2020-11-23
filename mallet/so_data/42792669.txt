@@ -1,1 +1,1 @@
-how can I get system proxy setting in node js
+i'm write a desktop applic on window with electron. now i need to use the system global proxi set as my own proxi while use request to get some data like thisso, how can i get the system global proxi set and assign that to this.proxyrequesturl?

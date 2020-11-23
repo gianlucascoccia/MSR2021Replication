@@ -1,1 +1,1 @@
-Electron builder: how to get the update-downloaded feed url in Linux?
+i'm use electron builder auto update, i'm tri to get the feed url so i did:stil the updateurl is nullso how can i get the feed url for the download update?

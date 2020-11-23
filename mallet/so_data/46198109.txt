@@ -1,1 +1,1 @@
-electron browser window gets white screen in sandbox mode
+i have electron with react appi creat my build with electron-packagerfor now noth seem to work. when the app is in sandbox mode i can't use ani node process and my html can't requir anyth so i just end up with one blank screen.i'v seen mani post with problem like this one, but haven't found a solut to my problem yet.update: after a lot of test it seem that the onli file that can't use requir is my main.j (this is my webpack generat file) so now i will look into my webpack config or see if my react is the problem.

@@ -1,1 +1,1 @@
-get user home directory with electron
+when i run ani idea why?

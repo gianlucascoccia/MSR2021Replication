@@ -1,1 +1,1 @@
-Get selected text from electron webview
+how to get the select text from a webview in an electron application?i am use angular with electron. so i have a compon which has a webview: doe not work for the select text in the webview. it work onli for the text outsid the webview.

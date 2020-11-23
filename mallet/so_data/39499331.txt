@@ -1,1 +1,1 @@
-Is it possible to call a function in main.js file from web to electron?
+so i have a function in main file main.j wich creat electron browserwindow. let say:can i do that?

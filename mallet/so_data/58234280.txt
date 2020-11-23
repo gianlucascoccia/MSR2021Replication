@@ -1,1 +1,1 @@
-Problem with distributing Electron app manually and with Electron-packager
+this is my first stackoverflow question and my first electron + reactj + webpack project. after a week of search i am desper enough to ask for help here. so kudo for anyon that can be of help.mi app work ok in develop environment, but i have fail to build it for distribution.th app has two render (main-window and connect-window). the folder structur is as follows:

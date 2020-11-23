@@ -1,1 +1,1 @@
-Get view page source in electron
+in google, we get page sourc code on click from right click menu. like that, how can i get view page sourc of ani websit (or webcontents) in electron?

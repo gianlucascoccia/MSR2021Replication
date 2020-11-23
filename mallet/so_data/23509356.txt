@@ -1,1 +1,1 @@
-Node-Webkit vs Electron
+we are plan to built cross platform desktop application. we found that node-webkit is a perfect choic for us. but github develop their own framework call electron instead of use node-webkit.what is the differ between them?

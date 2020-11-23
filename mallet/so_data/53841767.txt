@@ -1,1 +1,1 @@
-Electron app error undefined symbol: udata_setCommonData_59?
+get this error when i tri to run an appimag packag for scatter (eo wallet). this seem to be a recurr error for appimag packages.don't know much about electron base app to debug the error.

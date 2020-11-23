@@ -1,1 +1,1 @@
-How to create tabs with electron-tabs package?
+i want to add a tab bar to my alreadi creat electron app.i have download the electron-tab packag and creat a renderer.j and have

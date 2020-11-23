@@ -1,1 +1,1 @@
-Node Webkit Unable to install SQLite3 Module
+i'm veri new to node.j and node webkit. i am tri to instal the sqlite3 packag for node webkit by follow the instruct that the site has given mehttps://github.com/mapbox/node-sqlite3i am in my directori with my package.json fileupd 02i'm go to instal visual studio express to see if this fix it. this may take a long time

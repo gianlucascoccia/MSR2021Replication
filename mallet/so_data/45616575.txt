@@ -1,1 +1,1 @@
-How to build a desktop app from a web app whilst being able to capture the communication with the server?
+i'm tri to transform a web applic to a desktop one without rewrit the code. two solut i found that seem promis are qt with webengin (webview) and electron. the thing is i would like to be abl to captur the communic with server, for exampl databas queri and stuff like that and treat it locally. is that possibl use either of that tools? if so do you have ani tip on how to go about the issue?thank in advance.

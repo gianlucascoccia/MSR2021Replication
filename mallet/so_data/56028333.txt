@@ -1,1 +1,1 @@
-setInterval function does not work in Vue template
+i am tri to call a function by use and it works.thank guys.

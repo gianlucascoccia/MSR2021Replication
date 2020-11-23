@@ -1,1 +1,1 @@
-electron-forge : Missing dependencies = git and node, but which git can I choose?
+use window 10, program launch on powershell. use latest node v11.4.electron-forg ask me to have git and node installed. the thing is which git shall i choos and whi doesn't electron-forg launch ?edit : instal git-scm such as mike told me to do work ! i do not know whi they do not precis it in the electron websit or in the npm database.

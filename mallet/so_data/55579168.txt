@@ -1,1 +1,1 @@
-How can I get Electron stdout content from within my main process code?
+can i somehow get the content of stdout from electron, from within my main process code?so, for example, i have an electron app, and in my main process code:

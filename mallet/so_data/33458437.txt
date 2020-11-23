@@ -1,1 +1,1 @@
-Execute command using shelljs in nwjs?
+i'm tri to execut a simpl command use shellj in nwjs like this :main.j :i just want to know if there is ani work around or solut to execut the code. help is appreciated.thank you.

@@ -1,1 +1,1 @@
-modified Cypress lib/gui.js. Require modules not found on npm run binary-build
+i was slight modifi the cypress desktop-gui for a project.i modifi the /lib/gui.jsi ad lodash &amp; chokidar by instal them with.i am abl to access filesystem onli from gui.js. i can't access it from ani of the .jsx file as they are a part of the browser with no filesystem access.i there anyway to access the file system from ani of the intro.jsx files?how to make the npm run binary-build on the modifi gui.j after requir the modules?

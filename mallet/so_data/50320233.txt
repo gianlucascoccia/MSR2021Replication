@@ -1,1 +1,1 @@
-Load images from local disk
+i current get my hand on electron with the electron-vu boilerplate.mi goal is to show all imag from a given folder in the applic (render process).&#xd;&#xd;&#xd;&#xd;&#xd;run this code result in the follow error message: everyth work if i use the comment out line with base64 encod imag which is veri veri slow (line 8).what is the proper solut to simpli show these images?

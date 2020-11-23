@@ -1,1 +1,1 @@
-Render the same component twice on onClick in react
+i am write an electron applic where i am use react for the ui. i am tri to add shapes(rectangle,square...), so i have creat compon for each of the shapes. and i have a list of shapes, when i click on the the list the correspond shape are added. but i want to add the same shape twice which i am not abl to do. can someon help me here?below is my code.list.jsand the other shape have the same kind of code.right now i am abl to add onli one squar and when i click again noth happens. but i am abl to add other shape which is once.

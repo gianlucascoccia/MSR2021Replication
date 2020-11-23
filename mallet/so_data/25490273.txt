@@ -1,1 +1,1 @@
-Refresh external browser window in node-webkit
+i'm tri to load a file in the browser and then refresh it when an event is fired. i'm use the node-open module: is fired. how can i keep track of the origin window and refresh it?

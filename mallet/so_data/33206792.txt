@@ -1,1 +1,1 @@
-how to access the node api from a remote page in electron?
+in my electron app , i load the remot page(index.html) from remot url like("http://xxxx/index.html"), then i am tri to send a ipc event to the main process then handl it , and failed, but if i put the the index.html in local fs and it is ok. so my question is how to enabl the page to access the node api (like require,ipc, etc.) from the remot page.------ (main process)

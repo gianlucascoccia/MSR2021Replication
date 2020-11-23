@@ -1,1 +1,1 @@
-Node Webkit - Executable Program Name
+my program i am run use the nodewebkit is call app.exe. (the one where i combin the basic .ex with my app.nw file.)how do i find the program name, ie the "app.exe", within the program itself use javascript?

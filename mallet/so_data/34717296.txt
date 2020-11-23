@@ -1,1 +1,1 @@
-Cannot completely remove mouse cursor in nw.js app
+i'm use nw.js for html/css/js desktop app and cannot complet remov mous cursor in full screen mode.i'v remov it by set css properti are set in package.json.but the cursor is visibl a few pixel on all the edg of screen (pictur bellow).strang behaviour, doe someon know how to complet remov it?note: this is just an issu in nw.js, as it work perfect in all browser and also in the xulrunner, as we migrat in the compani from xulrunn to node-webkit (nw.js) all applic got this issue.

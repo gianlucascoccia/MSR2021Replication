@@ -1,1 +1,1 @@
-Electron JS Mac OS X Build Failure with Tray icon in .png format
+for starter my build for a "normal" (non-tray) app work fine with electron-packag and this commandi assum the problem relat to the .png use for the tray icon. if i chang it to a .icn format it won't work anymor with npm start. ani idea how to fix this ?i am use electron 6

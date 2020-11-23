@@ -1,1 +1,1 @@
-Spawn Express(with echma6) from Electron
+i want to run express(with echma6) from electroni have recent tri this tutori and it run smoothlyhttps://github.com/frankhale/electron-with-expressbut when ever i tri to use the express with ecma 6 code got below issuee:\testelectron\electron-with-express\express-app\src\index.js:1 (function (exports, require, module, __filename, __dirname) { import express from express'; ^^^^^^^ syntaxerror: unexpect identifi and when i run my express code separ it run finei want to spawn express(with echma 6 ) from electron

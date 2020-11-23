@@ -1,1 +1,1 @@
-Electron Chromium Inspector
+i have a veri basic electron applic whith a simpl package.json like this: but when i start the app the chromium inpector apear in the screen togeth with my index.html page. whi the inspector apear automtically?

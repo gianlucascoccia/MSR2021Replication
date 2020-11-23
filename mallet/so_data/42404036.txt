@@ -1,1 +1,1 @@
-Making a videoJS instance scale when window size changes
+this is a pretti basic question but i'v been wrestl with it for day now without success.i have an electron desktop app which allow the user to select local video to play. i want to be abl to specifi a window mode:fullscreen mode:

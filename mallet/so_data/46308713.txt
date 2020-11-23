@@ -1,1 +1,1 @@
-Best practice to load settings to the web application
+i have to load set to an app when it open (it an electron applic and i'm load set from the local json file)i'm load set right after the page is loaded:but i think this is not the right way to do it becaus at first, the page set inputs, like checkboxes, as they are in html file and onli after that, chang their valu again accord to settings.i want to know what is the best practic to load the set to a web app.

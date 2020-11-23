@@ -1,1 +1,1 @@
-Electron not being recognized globally Ubuntu windows 10
+i am tri to instal electron global on my comput use the command . if anyon know a fix to this pleas let me know!

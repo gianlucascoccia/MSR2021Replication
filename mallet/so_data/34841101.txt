@@ -1,1 +1,1 @@
-NodeJs Kill and then start process
+i tri to make restart of my electron application. so on window i have a bat file with next content:but after kill process the new one not start.so how can i kill process of my electron program and then start?btw i start my program like exe.

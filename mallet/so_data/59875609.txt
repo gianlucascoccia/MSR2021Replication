@@ -1,1 +1,1 @@
-Error "Cannot read property 'indexOf' of undefined" binding n-api module
+i wrote a c++ modul use n-api, compil it with cmake-j and now want to use it in my

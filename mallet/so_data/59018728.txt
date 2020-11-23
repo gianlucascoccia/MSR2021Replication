@@ -1,1 +1,1 @@
-ElectronJS crashes on dialog.showOpenDialog(...)
+i'm tri to prompt an "open file" dialog box, and i found

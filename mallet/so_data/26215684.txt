@@ -1,1 +1,1 @@
-how to install officegen module in node webkit
+well, i am new to node webkit can ani one help me out for the below issue?i want to use officegen plugin into node webkit execut packag but not work for me. see the below code.i have the officegen folder in same place where this js is placed.error messag : error: cannot find modul officegen/lib/index.j

@@ -1,1 +1,1 @@
-Retrieving data from MySQL with AngularJS and NodeJS
+first of all, perhap i need to clarifi that i'm new with this kind of technologies. i'm migrat from php to javascript and i'v never made this kind of work before. i'm make a desktop app with electron + angularjs. i have a simpl tabl where i need to show the fetch mysql tabl data. look inform i found a simpl way to do it with nodejs, but i have problem store de retriev data to the $scope to after, show that with the ng-repeat directive. this my code (simplyfied):

@@ -1,1 +1,1 @@
-electron js pass variables between renderers
+i want to pass variabl between 2 of my html file in electron, here is what i tri but noth happened. did i do someth wrong?main.j :

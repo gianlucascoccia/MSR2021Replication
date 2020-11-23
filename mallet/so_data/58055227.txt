@@ -1,1 +1,1 @@
-Where is the state of a Electron-Vue application stored?
+how and, more to the point, where is state data persist between sessions?i follow this tutori (https://alligator.io/vuejs/vue-electron/) to creat a simpl todo app use vue.j in electron. after fill in some blank everyth works. however, i'm unabl to find where the applic state is stored. for example, in dev mode (

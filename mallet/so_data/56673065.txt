@@ -1,1 +1,1 @@
-Not able to download big file from SFTP using node js
+i m tri to download 4 gb file from sftp use node js use ssh2-sftp-client module. my main problem is around 40%(not to be exact sometim 45 also) of file get download after than download stop neither an error occur not ani progress is shown in the download. i have tri on differ system use differ internet and face same issue. kind help i m bad struck on this issue.if file is not download fulli then it should show error or if it is disconnect from sftp how to check is ftp connect or not

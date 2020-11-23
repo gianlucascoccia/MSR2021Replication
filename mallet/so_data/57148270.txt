@@ -1,1 +1,1 @@
-Distributing Homebrew dependencies along with electron-packager
+i have an electron applic that has the follow dependencies: to creat a desktop mac app.i gave the specif depend just for context -- hope there is a solut that would work with ani generic dependency?

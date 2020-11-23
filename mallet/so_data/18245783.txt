@@ -1,1 +1,1 @@
-Node-Webkit SaveAs File Dialog only triggers for unique file names?
+on the node-webkit web site (https://github.com/rogerwang/node-webkit/wiki/file-dialogs) it say to use the doe anyon know a way to alway fire an event after the user select a file from the file picker (regardless if the file was previous pick or defined)?thanks.

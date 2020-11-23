@@ -1,1 +1,1 @@
-Why do Node modules go into .staging folder?
+i have an electron app that i'm tri to instal node modul for. when i run appended.ani idea whi this is happening?

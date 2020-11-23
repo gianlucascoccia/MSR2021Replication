@@ -1,1 +1,1 @@
-How to properly update electron application menu labels?
+i'm tri to add translat support on an electron application, but i'v encount problem when updat the applic menu. i mention that the develop is done &amp; test on macos, but i'm will to get it work on window too.i understand that the menu featur is someth that can be manag onli in the main process, so i'm use ipcmain &amp; ipcrender to communic between the main &amp; render process.th problem is that i'm updat one label, it seem to be updat (shown in logs) but it doe not updat it in render menu.&#xd;&#xd;&#xd;&#xd;&#xd;

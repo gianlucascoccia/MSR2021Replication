@@ -1,1 +1,1 @@
-Can't access local files through fs Electron+Browserify
+i'm work on a save function for my game which run on browserify, with electron display the game. i need to be abl to save the game, and i thought i figur it out when i use it through the terminal. but when i ran it in electron, i got this error:

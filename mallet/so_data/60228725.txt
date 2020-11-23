@@ -1,1 +1,1 @@
-Load local files into iframe in Electron app
+i'm build an app with electron that let you preview html5 banner ad store local on your machine.so far, i have made it possibl to select a directori contain all the files.onc selected, the ifram src is updat to that directory.however, when hover over the src in the dev tools, the src reads:file:///g:/_projects/_dev/_electron_apps/test/electron-quick-start/g:\banners\300x600\html\it seem to be look in the app file for the source. is there a way to stop this?

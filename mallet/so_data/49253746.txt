@@ -1,1 +1,1 @@
-Error regeneratorRuntime is not defined with Babel 7
+i would like updat my babel config to version 7 in electron project.i'v add my all plugin i need : module, but no result.

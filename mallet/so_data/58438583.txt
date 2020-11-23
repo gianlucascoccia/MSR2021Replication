@@ -1,1 +1,1 @@
-Electron+nuxt+amCharts 4: Unexpected token export
+i want to code a desktop applic use electron, nuxt.j and am4charts. when import the am4chart core withbut without success. how can i fix this issue?

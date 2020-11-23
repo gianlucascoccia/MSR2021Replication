@@ -1,1 +1,1 @@
-Electron Return Value to Renderer form Main
+i have the below code that doe a databas query, it return the row and i see the row in console.log. however, in the render process i do not get the return rows, console.log show undefined'. am i miss something?main.j

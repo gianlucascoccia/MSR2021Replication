@@ -1,1 +1,1 @@
-Using TSX files with electron-compile error
+i'm tri to compil my electron program use electron-compile-prebuilt. react and typescript are suppos to be support out of the box, howev it throw a consol error from the react markup tag , is there a compil option that need to be use to support react syntax in tsx? when convert to jsx it work okay.

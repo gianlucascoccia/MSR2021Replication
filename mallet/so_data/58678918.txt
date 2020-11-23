@@ -1,1 +1,1 @@
-non-exported variable becomes exported
+i'm build an app with electron use normal commonj modul with and some js hoist thing?

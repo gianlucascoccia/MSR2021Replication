@@ -1,1 +1,1 @@
-Why does my Electron build always opens with console window
+brief description: when i make electron window build, it alway open up with consol window. below is the command i use to make the window buildpleas find the imag below - this is how my exe look when it is opened.how can i get rid of this bydefault open of console.log

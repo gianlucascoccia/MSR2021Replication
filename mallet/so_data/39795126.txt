@@ -1,1 +1,1 @@
-How to set OverlayIcon on Electron windows app build for release with Squirrel.Windows
+i have pack the entir sourc into one .ex folder. the icon of the app is set but my problem is that it doe not recognis (same icon in my case) for set overlay. the code extract from package.j to make build:

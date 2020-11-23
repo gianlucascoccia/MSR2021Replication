@@ -1,1 +1,1 @@
-NodeJS Cannot read property 'length' of undefined - MagicMirror Module
+i'm work on a prototyp of a magicmirror modul that pull data in from this json feed https://jsonplaceholder.typicode.com/todos/1. it pass fine on json pars payload but fail somewher in within tarray length with cannot readi properti length of undefined. i'm suspect the json isn't be carri to tarray properly, but i'm a at a loss. below are my two files!node_helper.j

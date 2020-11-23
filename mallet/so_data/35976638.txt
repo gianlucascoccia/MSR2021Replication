@@ -1,1 +1,1 @@
-Getting "simple" remote objects in electron
+when i call a remot function in electron, the result are alway litter with is there a more eleg way to do this?

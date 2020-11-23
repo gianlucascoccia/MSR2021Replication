@@ -1,1 +1,1 @@
-Is there anything special about renderer.js in Electron?
+i understand the differ between isn't strict necessari nor ani differ from ani other includ js.do i have this right?

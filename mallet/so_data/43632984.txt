@@ -1,1 +1,1 @@
-Electron: Opening html page in BrowserWindow on click native menu item
+i am new to electron and i am not abl to figur out how to open a particular web page in browserwindow when nativ menu item is clicked. could anyon help me with this.regards,ajay

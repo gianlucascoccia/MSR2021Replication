@@ -1,1 +1,1 @@
-Download file & store file inside an Electrong app
+i have angular 2 app packag as electron app. i wonder if it is possibl to download a file via this app and store it insid the electron package.thank for ani help.

@@ -1,1 +1,1 @@
-Simulate drag with spectron
+i want to simul a drag within an element use spectron/electron.i tri 2 ways:i also tri plenti differ versions/combin of the abov (includ e.g. movementx &amp; movementy). i can't use the action api (mi driver doe not implement it yet).with all my approaches, noth at all happen (no error neither). is there a way to implement drag (not drag&amp;drop, it just within one element)?

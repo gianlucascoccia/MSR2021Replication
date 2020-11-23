@@ -1,1 +1,1 @@
-How can I change BrowserWindow hash url without reloading the page
+i'm load a page in electronj with and i want it to be done without reload the page as it the expect behavior.

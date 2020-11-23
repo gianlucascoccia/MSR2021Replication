@@ -1,1 +1,1 @@
-Electron: How to securely inject global variable into BrowserWindow / BrowserView?
+i want to load an extern webpag in electron use

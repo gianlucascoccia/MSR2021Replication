@@ -1,1 +1,1 @@
-Node-Webkit Get video duration from avi file path
+i'm look for a way to get the video durat from avi file path in node-webkit, one that doe not involv use ffmpeg.ffprobe.ex is a larg file (30mb) and it seem a bit to much to keep it all when this is the onli thing i would need it for.

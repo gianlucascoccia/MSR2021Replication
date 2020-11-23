@@ -1,1 +1,1 @@
-Electron Angular2 PouchDB
+i am think of use angular2, pouchdb and electron for my desktop application. but i couldn't find a way to consum the pouchdb api from angular2. can somebodi pleas help me how to use the pouchdb api in angular2 as a service?

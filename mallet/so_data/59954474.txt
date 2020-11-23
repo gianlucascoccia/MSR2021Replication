@@ -1,1 +1,1 @@
-How to show console.log messages in Electron's BrowserWindow?
+is there a way to send console.log messag to electron browserwindow ?there is anoth way around describ here: electron: send messag from browserwindow to electron appth need behind such an integr is that mani applic like systeminform use console.log call to display informationtyp call is:altern might be differ call to send data to browser window instead of console.

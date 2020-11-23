@@ -1,1 +1,1 @@
-Angular 2 Electron - Consuming REST-API
+i have an electron app, which use angular 2 - in order to work i need to modifi how can i tell electron to access the local resourc via relat path and consum the api via http?

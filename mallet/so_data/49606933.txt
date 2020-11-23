@@ -1,1 +1,1 @@
-Terminal in React-Electron app
+my requir is to emb a termin in my react-electron app wherein all command which i can run from bash can be run in the embed termin too.suppos i want to npm instal i want it to be possibl through my embed termin too. could anyon suggest possibl solut ?

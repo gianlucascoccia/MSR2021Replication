@@ -1,1 +1,1 @@
-Chartjs display bug when pushing data to graph
+my friend and i have a problem with chartjs. we creat an app to track your financi status. we want to push data to the graph, but after the third entry, the graph onli display two data points, eventhough three point are creat push to the graph. here are screenshot and the code. can you help us? thanks.chartj display onli the datapoint beforeconsol show 400&#xd;&#xd;&#xd;&#xd;&#xd;

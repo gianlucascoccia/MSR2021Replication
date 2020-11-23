@@ -1,1 +1,1 @@
-Why I have an error with Ganache on npm start in WSL?
+i'm tri to run ganach in wsl (ubuntu). when i clone git repository, fdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfafdfsfasdfa

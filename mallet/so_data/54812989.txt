@@ -1,1 +1,1 @@
-How to obfuscating multiple javascript files into one, and still run electron
+problem:how do i obfusc multipl javascript file into one javascript file, where i still can run it with nodej electron?thoughts:i know that you can obfusc all javascript file in an electron project and still run it, but is it possibl to obfusc all into one main.js?

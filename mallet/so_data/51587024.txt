@@ -1,1 +1,1 @@
-Electronjs manipulate json object and reorder its keys internally
+i am use electronj for a new application, and i have a json object how to prevent electronj from manipul the object intern to get the exact origin object

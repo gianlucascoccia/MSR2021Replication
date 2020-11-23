@@ -1,1 +1,1 @@
-Electron Child process access bin
+i am build an applic to manag a few services. start one of these requir run a .sh script i am abl to run this fine use child_process spwan it run fine dure developmentbut when i packag the app for distribut it not abl to recogn brew in the system.

@@ -1,1 +1,1 @@
-running electron app with custom main.js file. Electron rather starts the default main.js file
+i have electron app with main.j which contain i still get the page index1 and the app dose not log anyth

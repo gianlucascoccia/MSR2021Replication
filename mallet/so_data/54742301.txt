@@ -1,1 +1,1 @@
-can we create stand alone application for Spring boot web mvc using Electron tool?
+i am tri to creat a stand-alon applic for spring boot. i have a code of tool.

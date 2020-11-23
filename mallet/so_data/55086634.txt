@@ -1,1 +1,1 @@
-Electron - Getting active text field on OS
+what i mean by it is like window 10 speech dictat - you just launch it while have an activ input field in the os, so you can just speak and this softwar will insert to the activ input field whatev you say.i tri googl but didn't find an answer.i it possibl to get the activ input field via electron?if so, how?

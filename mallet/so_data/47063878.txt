@@ -1,1 +1,1 @@
-Change Cursor on Draggable region in Electron
+i am make an app in electron and i have a frameless window, i have some top area to &#xd;&#xd;&#xd;

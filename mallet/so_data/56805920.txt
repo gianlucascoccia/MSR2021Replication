@@ -1,1 +1,1 @@
-Can't edit input text field after window.alert()
+i'v got this electron app (use nodejs, bootstrap, angularjs) with some text input field that can be edited.i have a button that trigger a window.alert()aft it has been triggered, the text input field are no longer editable.click on other element of the app chang nothing.click on anoth applic then back on the app fix the problem.click on one of the text input field with the chrome inspector fix it as well.thes are some of the css attribut of my input fieldsi expect the message.alert() to not chang my text input field behavior.

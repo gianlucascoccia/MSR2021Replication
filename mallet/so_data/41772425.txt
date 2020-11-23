@@ -1,1 +1,1 @@
-How to create rounded corners in electron browserWindow?
+ive search everywher on how to make the corner round of my browserwindow.how can i achiev round corners?i'v tri make it transparent. but noth works.her my code:&#xd;&#xd;&#xd;&#xd;&#xd;

@@ -1,1 +1,1 @@
-node webkit prevent access on the same network
+i made a custom applic use node webkit and the express.js.i run this applic on my pc, and all work fine.how can i prevent someon els from use that applic from the same network, so it is work onli on the localhost.for exampl i run this app on my localhost (192.168.1.1:8000). now anyon els on the same network can open a browser and go direct to 192.168.1.8000. how can i prevent this?

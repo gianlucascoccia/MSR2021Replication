@@ -1,1 +1,1 @@
-Electron - Cannot find module 'app' when building app
+im stuck at build electron app use angular.her are the logsi there anyth i should tri to get electron work

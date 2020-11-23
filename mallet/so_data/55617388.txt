@@ -1,1 +1,1 @@
-Why set a variable to null right before returning from a function?
+while read a book on electron, i stumbl upon the follow code.&#xd;&#xd;

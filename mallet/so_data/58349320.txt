@@ -1,1 +1,1 @@
-Electron with top menu when packaged
+electron remain with this top menu when bundl for window 10 i'm using:to packag my project i am use the follow package.json command:when i click on the .ex file after compil my project, this top menu still appear in the program.how can i get this top menu off when my project is packag for .exe?

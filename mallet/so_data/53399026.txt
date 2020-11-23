@@ -1,1 +1,1 @@
-How to performance test an Electron application?
+what option do i have to perform test an electron applic in a similar way to how load runner doe it?i need to perform / load test an electron applic built use react. the applic is deploy to window 7 (possibl to window 10 as well) and invok rest apis. i'm awar of the spectron option but it doesn't sound like it is autom out of the box. i'd prefer to use a framework that alreadi provid recording, playback, respons time metrics, and configur multipl scripts.mani thank in advanc

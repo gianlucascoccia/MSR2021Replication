@@ -1,1 +1,1 @@
-How to connect ffi to node-webkit(nwjs)?
+so, i tri to use ffi in my node-webkit(nwjs) application, but my code doesn't work.ther is my index.html file:&#xd;&#xd;help me please!

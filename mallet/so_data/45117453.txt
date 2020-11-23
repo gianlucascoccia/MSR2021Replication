@@ -1,1 +1,1 @@
-In NeDB is an array in a document better than multiple documents?
+i am make an electron app use nedb as a database.th document structur is as follows: i want oper to insert, view &amp; updat exist data.which document structur would be better for such a scenario and why?

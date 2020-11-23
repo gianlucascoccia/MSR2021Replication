@@ -1,1 +1,1 @@
-Electron - React.createElement: type is invalid error
+i have just creat a react applic built on electron and am tri to implement ani idea on how to remov the quot error? thank in advance.

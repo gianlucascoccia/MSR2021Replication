@@ -1,1 +1,1 @@
-React router, redux, electron: router isn't rendering
+i'm tri to get react-rout to work in an electron app. i'm use a boilerpl and strip away some of the stuff i don't want but that should provid a pretti solid summari of the technolog be used.i cannot for the life of my get the router to work as expected. to me this mean that when i use

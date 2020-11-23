@@ -1,1 +1,1 @@
-Azure Blob Storage crashes electron app
+when i am post a pictur from my electron app to blob storage, sometim it works, and other time i get this error on my terminal:when i was first work on this app, this problem never show up, until a week ago. it occur without make ani chang to this part of the app. ani idea on what could caus it.th electron app goe white, and the dev tool are disconnected. here is the code:&#xd;&#xd;&#xd;&#xd;&#xd;

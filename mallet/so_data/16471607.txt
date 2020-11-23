@@ -1,1 +1,1 @@
-Unable to use process.env to get environment variable in ~/.profile or ~/.bash_profile in Mac
+i am tri to get environ variabl in a node.j (use node-webkit) applic on mac and i am unabl to.i ad the entryexport my_project=\library\mrprojectin both ~/.bash_profil and ~/.profile.i did sourc both and when i tri to access process.env.my_project it return undefined. i tri to access process.env and it run few thing but it doesn't return the environ variabl i am export in ~/.profil and/or ~/.bash_profile.

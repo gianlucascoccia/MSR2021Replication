@@ -1,1 +1,1 @@
-Property 'sort' does not exist on type 'JQuery<HTMLElement>'
+i am experienc a problem with jquery, i am put this code into typescript and it is simpli give error:thi is the imag in more detail:i'm use jqueri 3.4.1 on electron, whi are you give this error?can anyon help?

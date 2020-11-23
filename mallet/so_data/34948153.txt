@@ -1,1 +1,1 @@
-Electron Desktop APP
+i was tri to learn how to develop a desktop app use electron.i found that guide:http://www.toptal.com/javascript/electron-cross-platform-desktop-apps-easybut mani thing are chang ( icp modul now is deprec e.g.)now:her is my codeapp.jswhen the main window show up i click on button add &amp;&amp; noth change.

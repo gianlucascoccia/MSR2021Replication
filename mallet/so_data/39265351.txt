@@ -1,1 +1,1 @@
-Make meta-electron compatible with jethro Yocto version
+i'm tri to cross-compil electron on the digi connectcore6. to do so, i'm use yocto and the 5 layer provid by digi (all base on the jethro version of yocto).or, to implement electron on the sbc, i have to use the meta-electron layer, which has four depend :, ...).do you know how to fix this last error and/or how to make musl compat with the jethro version of poki ? i realli need help on this point. thank you.

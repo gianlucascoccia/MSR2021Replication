@@ -1,1 +1,1 @@
-Electron Multiple Button Javascript Issue
+i'm put my webpag insid electron and everyth is go well except with some button on the page, onli the first button correct doe it function of random pick someth from a javascript array while the rest of the button don't work, but everyth work in the browser. is there addit function i need to includ in

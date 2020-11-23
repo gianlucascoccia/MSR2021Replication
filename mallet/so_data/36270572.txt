@@ -1,1 +1,1 @@
-pass local credentials via SPNEGO / HTTP
+with web base applic run in chrome, i have been abl to leverag chrome to negoti pass local credenti via spnego. in the xmlhttprequest, we set the option pass withcredentials. it seem like the http modul in nodejs/electron doe not have this capability.ha anyon been abl to pass the credenti of the current log in window user use the http modul in electron? i am look to make call to some intern web servic that requir authent and i don't want to forc the user to enter login credenti again.

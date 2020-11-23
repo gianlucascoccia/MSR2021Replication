@@ -1,1 +1,1 @@
-Electron dialog.showOpenDialog how to get shortcut link and not target?
+i'm use dialog.showopendialog to open file from the system. whenev i select a widow shortcut (.lnk), the return path is of the shortcut target and not the shortcut itself. how to get the path of the shortcut itself?

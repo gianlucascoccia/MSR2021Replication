@@ -1,1 +1,1 @@
-How can I access the console-output of a nwjs-applications?
+i am tri to play with nwjs and i can not figur out how to debug.i have basic script by tutorial: output in debug toolbar.what am i do wrong?

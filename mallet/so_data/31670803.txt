@@ -1,1 +1,1 @@
-Prevent Electron app from redirecting when drag+dropping items in window
+i don't want a

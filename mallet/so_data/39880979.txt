@@ -1,1 +1,1 @@
-Electron - How to load a html file into the current window?
+i was look all around: docs, google, etc., on how to load a html file in the main window of an electron app, but i can't find a way.i it realli this complic or dead simple? with what i have came up is ajax, thus works:but this open alway a new window, and i need to replac the exist page

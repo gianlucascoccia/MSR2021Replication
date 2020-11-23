@@ -1,1 +1,1 @@
-Open Associated File in Electron App by Double Click the File in File Explorer
+i'm new to electron and have an issue.i want to open file from the explor by doubl click the file in my electron app.i'v not idea about how can i do it.

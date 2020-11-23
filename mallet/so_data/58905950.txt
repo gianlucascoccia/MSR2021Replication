@@ -1,1 +1,1 @@
-How to solve timeout problem with electron-html-to node.js
+i'm experienc this timeout when tri to use electron to convert an html file to pdf. i'm run this js app through node.

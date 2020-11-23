@@ -1,1 +1,1 @@
-file download with XMLHttpRequest
+i am have a hard time implement a simpl file download script. this is what i have so far, work ok : open an xmlhttprequest get remot file as blob binaryshow download progressmi problem is :creat a custom download directoryrenam download file as origin sourc namedownload file doe not includ it extensionposs to add the option to prompt a save as locat befor download ?this is the snippet : but the request is not creat this folder ? neither give the file a name and extensionani advis is appreciatedthank

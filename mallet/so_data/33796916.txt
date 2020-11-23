@@ -1,1 +1,1 @@
-Issues with building an electron app with serialport
+i have been abl to run a node.j app use serialport. now tri to port it to electron for cross-platform use. npm instal serialport yield the following:sur enough, the version in the node_modul directori is node-v47-darwin-x64. i don't know whi npm instal build v47 but look for v46 to run.

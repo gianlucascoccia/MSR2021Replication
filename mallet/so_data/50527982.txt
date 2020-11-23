@@ -1,1 +1,1 @@
-Babel 7 inline replace variables
+i have an electron project use electron-webpack which seem to includ babel 7.i have manag to upgrad all my plugin and preset except babel-plugin-inline-replace-variablesani idea what the solut is?

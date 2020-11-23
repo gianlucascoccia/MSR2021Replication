@@ -1,1 +1,1 @@
-ember electron:package build failed, caused by ember-browserify
+when i want to build my ember electron app with ember electron:packagei alway get the error:build failed. (like ember serve) everyth is fine and i can use the node modul without ani errors. issu onli occur when i want to packag the app to the .dmg and exe file for distribution.what am i miss ?thank for ani help or hints!

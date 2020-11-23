@@ -1,1 +1,1 @@
-unsealed contents present in the bundle - Mac build
+am tri to sign my app build with nwjs in mac. https://github.com/nwjs/nw.js/wiki/mas:-signing-the-appfollow are the step i tried. out of 8 step upto 7 work for me. when i run the 8th command am get "unseal content present in the bundl root" error message. pleas see the screen shot for my file structur

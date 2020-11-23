@@ -1,1 +1,1 @@
-Is it possible to write automation tests for nwjs app?
+i am current work on node-webkit base desktop app. i was search for a way to do autom test for this . but most of the autom tool requir a server to start up but in my case i have on but it run in the chromium that come by default. is there a way to autom ui accept test for nwjs apps.

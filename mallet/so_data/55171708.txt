@@ -1,1 +1,1 @@
-Static files stored locally with django and electron
+i recent found out about electron. i also know django and want to make desktop app with the knowledg i alreadi have. so i was wonder if it is possibl to store the templat and static file of my app on a local machin and connect to the django server get all the inform and fill the templates.her an example:in this exampl is it possibl if all the templat file would be store local like this and then make a request to the django server which will provid the inform such as the post title, author, content, etc.

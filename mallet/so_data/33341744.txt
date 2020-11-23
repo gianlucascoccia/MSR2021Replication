@@ -1,1 +1,1 @@
-Automatically login people on specific websites using Electron
+i creat a small applic use electron ( http://electron.atom.io ). i want to add a featur that automat log in peopl on specif websites, on ani type of browser. the way i though of this is if electron automat complet the usernam and password field of the websit or it send an ajax request use the websit window context ( inject himself somehow into the content ).i know that is possibl to achiev this if i creat extens for each browser but it will take too long.thank you

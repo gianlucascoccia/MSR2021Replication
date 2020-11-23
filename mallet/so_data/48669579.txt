@@ -1,1 +1,1 @@
-Packaging electron app powered by Python Flask electron
+i just creat an electron app which is power by flask.it work nice when i run the app in powershell, but when i build this app with electron-packager, it succeeds, but the app doe not work.it seem python code would not be includ in the app.how can i build the app with integr all python code and modul i am use in the app?i am use ani python modul like panda

@@ -1,1 +1,1 @@
-How do I make webview findInPage() work in Electron
+i'm not sure if i'm do someth wrong or if search is broken right now.when creat the webview i do:th word exist in the current document, yet e.result alway show 0 matches, and no word is highlight (though i'm not sure if i should do this manually).thi is on electron 5.0.2https://electronjs.org/docs/api/webview-tag

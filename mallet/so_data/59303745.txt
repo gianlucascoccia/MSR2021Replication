@@ -1,1 +1,1 @@
-Getting ENOENT: No such file or directory error, while parallel downloading
+i'm use bluebird directori for concurr the wierd thing is when i use fs.createwritestream(path.join(__dirname, ult.file_name)) the file get download on the project folder without ani error. the error onli occur when i tri to download to anoth folder

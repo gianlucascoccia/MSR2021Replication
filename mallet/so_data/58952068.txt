@@ -1,1 +1,1 @@
-I don’t know what the problem is when I package the project. Can someone help me
+vue-electron project run build packag command:yarn run build tip error:

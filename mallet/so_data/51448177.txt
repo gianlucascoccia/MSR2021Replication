@@ -1,1 +1,1 @@
-Packaging Python Flask-electron Application
+i just creat an electron app which is power by flask and sqlite3.it work nice when i run the app in termin but when i build this app with electron-packager, it succeed but the app doe not work.get sql databas error,sqlite3.operationalerror: no such table: licensecheckhow do i packag my application. pleas guid me.mi file structur is followspackage.jsonindex.htmlpymodulesapi.pydatabase.db - sqlitedblogin.htmlmain.j

@@ -1,1 +1,1 @@
-Why does the errno in node-webkit differ from Node.js?
+run the same code in node-webkit and node.jswhi the errno are different?i there a errno cheat sheet for node-webkit like this one for node.js?

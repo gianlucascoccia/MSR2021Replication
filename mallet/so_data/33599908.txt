@@ -1,1 +1,1 @@
-Electron app. Multiple html files
+i have an electron app with multipl html file in the root directory.index.htmlpage1.htmlpage.htm cannot find a way to redirect from index.html to page1.html onc electro has started.do anyon know how to do this?

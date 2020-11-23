@@ -1,1 +1,1 @@
-Is it possible to streaming RTSP (live) videos from camera in an electron app?
+i'm new in electron development, so pleas inform me if it is possibl to stream rtsp with electron, and what are all the step needed. if that not possibl in electron, i would be open to anoth desktop applic framework that would work with rtsp video.

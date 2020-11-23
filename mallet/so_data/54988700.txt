@@ -1,1 +1,1 @@
-How do i work around delay from my MySQL database in node.js?
+so i'm rewrit a php-base app into an electron app and i'm pretti new to node.js. i'm work with the mysqlj plugin (github: https://github.com/mysqljs/mysql) to gather data from my mysql databas (instead of php). here the problem:when i'm tri to grab data from a tabl in my databas the javscript doesn't wait for my databas to send the data back from the

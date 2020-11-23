@@ -1,1 +1,1 @@
-Unable to run a Screen share chrome app using electron
+i ran this github app success under chrome extenstion. but when i run it use electron the socket connect error in connect establishment: net::err_connection_refus below is package.json file.i tri "chromium-args": "--allow-running-insecure-cont --ignore-certificate-errors", but did not help.ar there ani specif chang i need to make in package.json. just tri to learn let me know if ani inform is missing?&#xd;&#xd;&#xd;&#xd;&#xd;

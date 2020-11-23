@@ -1,1 +1,1 @@
-File upload using ftp and electron
+i'm new to stackoverflow. i have start an electron project and i want to implement insid it the abil for the user to upload file use ftp. i'v googl a bit and i'v found a nice node modul

@@ -1,1 +1,1 @@
-Yarn error when starting electron . , electron quick start error
+i clone a quick start electron app and when i tri to npm start or yarn start i get this errors. tri look for answer for hour but can't find solut anywhere.

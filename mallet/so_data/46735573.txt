@@ -1,1 +1,1 @@
-NW.js - webview - Angular is not defined error
+i want control extern websit use nw.js and webview, but anytim i tri this i have error - angular is not defined.mi source:index.htmlthi code produc for me error: referenceerror: angular is not definednote: websit google.com is onli example.

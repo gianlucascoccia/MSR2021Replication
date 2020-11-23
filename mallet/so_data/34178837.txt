@@ -1,1 +1,1 @@
-Node webkit back/forward button state detection
+work on a node webkit project, we have in-app navig use back/forward buttons, and hide the nativ navbar.i'm interest in be abl to detect the back button state, so that when there nowher to go, i can reflect a disabl state in the ui.what i mean is, for example, in the scenario when a user navig through some pages, but never click . obviously, those are useless as i just made them up for the example.)thank from ahead.

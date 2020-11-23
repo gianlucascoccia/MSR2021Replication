@@ -1,1 +1,1 @@
-How i can filter in featherjs?
+i'm tri to filter databas with nedb in feather js. i'm use this command but it doesn't work.i'm use this command but it doesn't work.not get filter pleas help menot get filter pleas help me

@@ -1,1 +1,1 @@
-Writing to terminal in node.js / electron
+i'm new to electron. just tri it out today, to port a simpl single-pag app i have in coffeescript to it.to debug someth i tri console.log but noth appear in the termin that i launch the app. from. is there a way to write to the termin from insid node.j / electron?i'm run the program with but i'm guess both suppress write to stdout. (in node itself console.log seem to write to stdout)

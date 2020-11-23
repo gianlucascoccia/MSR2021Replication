@@ -1,1 +1,1 @@
-When exporting my electron app the file size is 2.22 GB
+i am encount an issu on my mac where when i export my app use , it export with a file size of 2.22 gb. the first time i export the app it was 30 mb. i did not make ani new chang to it, so what is make it so large?json file: https://drive.google.com/file/d/1xljjxxos5y_kvugllno3lrhte2ftncz1/view?usp=shar

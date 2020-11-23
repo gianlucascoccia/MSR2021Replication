@@ -1,1 +1,1 @@
-Client Certificate support HttpInterceptor Angular 7 and Electron
+i am creat an app use electron and angular 7:i am use httpinterceptor to add authtoken for each http request from the app.but i want to add a client certif also for each http request. is that avail use angular or electron?can i add cert and key to the headers?

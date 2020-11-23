@@ -1,1 +1,1 @@
-Electron : dialog message box with a form
+it is possibl to get an inform dialog box with a form or input?th idea is if we click on btndialog , it open the dialog box where we can defin a valu for value1 or not. html : i don't see how to get valu from form if necessary.thank in advanc for your help.

@@ -1,1 +1,1 @@
-Electron : can not find module jQuery
+i am tri to use jqueri and bootstrap in my electron project i want to use them like :

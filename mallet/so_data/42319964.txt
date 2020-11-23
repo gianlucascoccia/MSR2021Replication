@@ -1,1 +1,1 @@
-Electron IPC: Why is my ipc message not being received?
+my main process (import code): is called. could the issu be with my main file or with my receiv file?

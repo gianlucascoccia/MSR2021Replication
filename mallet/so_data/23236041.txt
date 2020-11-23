@@ -1,1 +1,1 @@
-What is web app runtime
+i was go through the node-webkit packag for creat desktop application. and it is mention that node-webkit is web app runtime. pleas explain what is "web app runtime"?

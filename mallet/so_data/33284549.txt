@@ -1,1 +1,1 @@
-NW.js: Failed to parse SessionDescription. Failed to parse audio codecs correctly
+we are build a video chat with peerj (webrtc). we have a nodewebkit version and a chrome version.but for some reason, if chrome start a mediastream to nodewebkit, we get the follow error in nw.nodewebkit to chrome work well. nw version: v0.12.3chrome version: 46is this a media condec problem? can anyon help?thank you!

@@ -1,1 +1,1 @@
-Electron - prevent webview from accessing local files
+i have an electron app that load 3rd parti code from local file instal on user comput into a ). for secur reason, i want to limit the webview local file access to onli the file insid a specif directori (where the html file is), and prevent it from access anyth outside. is it possibl to do it in electron?

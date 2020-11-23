@@ -1,1 +1,1 @@
-How to ensure that my electron app is always running as far it is installed?
+i want to enforc the user of my electron app to alway keep it open/run when they'r log in on their computer.of cours i can recommend to set it to "open on startup". but i also want to warn the user if the app is not running. do you have ani idea how this could be done?

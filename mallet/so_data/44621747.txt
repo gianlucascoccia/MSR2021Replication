@@ -1,1 +1,1 @@
-How can I pull code only if origin is ahead
+i'm tri to make an updat for my electron app, i onli want to updat the html code that will be fetch from git. but i onli want to fetch code if the origin has new commits, that way i can reload the browser if the app was updated. how can i do that?her my latest code:

@@ -1,1 +1,1 @@
-ElectronJS ReferenceError: navigator is not defined
+i'm tri make a custom titlebar on electron. but when i start my app, i take "referenceerror: navig is not defined" issue. pleas help. this is the code snippet from my main.jsmi code

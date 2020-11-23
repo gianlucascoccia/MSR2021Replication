@@ -1,1 +1,1 @@
-How to select folder or files using electron dialog?
+i want to be abl to select either whole directori or multi or singl files.i am abl to select onli one type so file or directori depend what option i use when creat the dialog box. i know i can creat two separ option to either select folder or file but it'd be more handi to have it in one dialog box. expected: should be abl to select folder or if i open the folder the file in it.actual: i can select directori but if i go into it the file don't appear. seem like the "opendirectory" properti get more priority.

@@ -1,1 +1,1 @@
-File Upload Express + Multer are not Parsing Body
+i'm develop a app with electron + react (front-end) and express + multer (back-end). the idea is to send file (multipart/form-data) to back-end to and it send to googl storag which i alreadi did use postman. the express and multer work fine.when i tri from front-end multer cannot pars the body. for test i'm use a small txt file (upload.txt):front-end

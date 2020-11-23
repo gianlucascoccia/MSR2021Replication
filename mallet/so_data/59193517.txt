@@ -1,1 +1,1 @@
-Can't close a Window in electron
+so i'm follow along a tutori on electron and i'm stuck on this phase where i just cant get the close button to close the current window can anyon help ?javascript code :i don't think that i have made mistak type becaus i even copi the code and still it didn't work i can creat new window but i cant close them.

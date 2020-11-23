@@ -1,1 +1,1 @@
-Import npm JS Module in TypeScript
+i would like to use electron-set insid my electron app base on the angular 5 framework. however, i am not abl to import it into a typescript file.

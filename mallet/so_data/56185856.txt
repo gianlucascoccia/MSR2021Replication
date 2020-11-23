@@ -1,1 +1,1 @@
-Appimage is vanishing after updates completed
+my linux app is updat after "quitandinstall()"but old version two process was not killed. also my "appimage" is vanishing. i am not sure how to handl it. screenshot for refer is given below. i am use "electron-updater": "^4.0.6",

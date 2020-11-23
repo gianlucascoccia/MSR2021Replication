@@ -1,1 +1,1 @@
-Electron native add on : DLL initialization routine failed
+i am tri to link my c++ librari as a nativ add-on to my electron app.i am abl to run node-gyp rebuild and generat a success .node file.but, when i tri to call into it from main.js, i get an error which says: "a dynam link library(dll) initi routin failed".mi binding.gyp file look like this:what could be wrong? pleas let me know if ani more inform is needed.

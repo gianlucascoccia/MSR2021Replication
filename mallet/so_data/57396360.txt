@@ -1,1 +1,1 @@
-Electron-builder Unable to Upload All Builds to Github (HTTP Error 404)
+i have setup

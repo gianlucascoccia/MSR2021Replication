@@ -1,1 +1,1 @@
-Convert packaged Atom Electron OSX app to IOS
+i have a relat simpl node application: - built on electron - use an sqlite databas - success packag as a osx applicationar there ani tool out there for converting/re-packag my electron osx app to ios?am i correct in understand that phonegap is not a like-for-lik replac for electron?ch everyone/anyone!sam

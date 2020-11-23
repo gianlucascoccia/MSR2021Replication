@@ -1,1 +1,1 @@
-Troubleshooting Sqlite3 built for Windows OS in Electron
+i recent built an applic with electron, on ubuntu 18.04 os and was abl to releas one singl file with electron-build --winbut the issu is that on the client comput it is not working, especi the databas part, i use sqlite3. (the tabl that should show the differ item of the databas is not working)do you know how i could solv this ? could it be relat to permiss or to the locat of the .db file ? how to debug effici sinc it a differ os, or how to produc log on the client comput ?regards,

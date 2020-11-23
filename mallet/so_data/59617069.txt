@@ -1,1 +1,1 @@
-Fixing electron screen capture failure on chromium based apps
+i am build applic with to be passed, i can not exact get where should i pass this flag or how can i do it, and i believ there are mani develop suffer from this problem, so how is it possibl to add this flag? thank in advance!

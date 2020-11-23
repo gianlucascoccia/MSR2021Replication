@@ -1,1 +1,1 @@
-TypeScript <string, BrowserWindow> tupple only allows to use parameter value: string | BrowserWindow on forEach method
+i want to acess the , use difer values, be the best/on solut for this problem?

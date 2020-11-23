@@ -1,1 +1,1 @@
-Is there a way to change desktop screen color with ElectronJS
+i have a simpl electronj app and i want to chang the desktop screen color somehow, but i can't find a way to access the vga or monitor settings, so i was wonder is this posibl and how?

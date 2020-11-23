@@ -1,1 +1,1 @@
-Primefaces in electron
+is it possibl to run a it` open a window with the login screen. but ani primefac compon e.g. p:autocomplet won´t work.do you have ani idea why?

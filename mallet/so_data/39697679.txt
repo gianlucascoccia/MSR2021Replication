@@ -1,1 +1,1 @@
-Electron windows installer too slow
+im use electron window installer: https://github.com/electron/windows-instal and when run on window the installer, it take realli long (more than 10 minutes), is this normal?

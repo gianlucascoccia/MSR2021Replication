@@ -1,1 +1,1 @@
-Installing electron on windows?
+i tri to instal electron js in window 7 32 bit with node.j v=12.13.10and npm v=6.11.2i tri to instal normal but when it start it give me:

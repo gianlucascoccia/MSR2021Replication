@@ -1,1 +1,1 @@
-Electron.js how to use require function in html script tags
+hello.i am tri to develop an applic use electron.js. i have a problem. i need to requir script tag in html. but when i do that, my other javascript code doesn't work. what should i do?run:note: when i call the requir function later, click event is running.

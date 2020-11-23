@@ -1,1 +1,1 @@
-Calling a function from both the main and the renderer process in Electron
+i have a function that i call from both the main process and from the render process. it access a global. is there an idiomat way of code this in electron, or should i just do someth like this:

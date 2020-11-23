@@ -1,1 +1,1 @@
-Building Electron with my own module
+i am learn build node modul and packag it with electron. i'v success built an modul out of a cpp file and can run it with node. however, to run it with electron i need to rebuild electron. there are instruct out there, for example:https://github.com/electron/electron/blob/v0.37.2/docs/tutorial/using-native-node-modules.md#using-native-node-moduleshttps://github.com/electron/electron/issues/2330her i have an file to start to build it into electron?thank you.

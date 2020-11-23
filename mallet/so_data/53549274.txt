@@ -1,1 +1,1 @@
-[Mac OS]: How to create an Electron application installer for Windows, but using a Mac?
+i have success built my first app on a mac use atom and electron, but now i don't know how to get the app to window for other peopl to install. basic i don't know how to creat an instal for window on mac.

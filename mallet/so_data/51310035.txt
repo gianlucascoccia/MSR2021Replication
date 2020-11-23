@@ -1,1 +1,1 @@
-$.ajax has no request payload for absolute filesystem path
+note: i explain the strang url in a spoiler below.electron@2.0.4jquery@3.3.1when i tri to use $.ajax to an absolut path from within electron jqueri seem to get rid of my payload. i use the following:, that work proper as pictur below. localhost is just for testing, i have a local copi of httpbin run on docker. i am do this to port a web app to electron so the codebas can be the same, asid from index.html chang and ad sw.js.

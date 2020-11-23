@@ -1,1 +1,1 @@
-electron with nodejs and angular
+i am tri to set up angular 5 project in electron and also run nodej in server side, i know that electron permit to creat desktop app, but is it possibl to creat server side app with electron, also i'm not sure if it possibl to have the nodej app and angular all in the same project with ngx electron.

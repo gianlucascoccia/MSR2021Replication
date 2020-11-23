@@ -1,1 +1,1 @@
-node-webkit windows file system seperator?
+im current work on a simpl file-explor with nw.js im develop on a linux-machin and there it work fine until now, but i test it on a windows-system at work and there is a problem with list all file in a directory. i develop it to work on both system (i thought) here´ a link to my repo pleas note the file: js/main.j where i set the seperator-vari to be "\" on window platform (in function: getrootdir()).in js this: give me: "\"isnt that the seper for windows?ani help would be appreciated.

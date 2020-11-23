@@ -1,1 +1,1 @@
-Include HTML header and footer using Javascript (Electron Framework)
+i'm develop an applic use electron framework. i have to includ static part like header.html and footer.html in all pages.how can i do that with javascript?(someth equival to php include'.)i tri thisbut there is a lag befor html content load (not veri nice to see) and i would to avoid that lag

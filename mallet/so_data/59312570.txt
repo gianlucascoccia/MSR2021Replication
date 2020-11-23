@@ -1,1 +1,1 @@
-How do I disable a Windows menu in Electron?
+i'm use the follow code to disabl the menu in an electron appagain, this work in dev mode, but not when built as an exe for distribution. feel like these two issu would have the same caus and i'm miss it.

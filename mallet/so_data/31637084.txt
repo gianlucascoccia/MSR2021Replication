@@ -1,1 +1,1 @@
-Electron using Accelerator to call a menu item in context menu
+how do i use the ? right now i am just store the click event in a global variable.

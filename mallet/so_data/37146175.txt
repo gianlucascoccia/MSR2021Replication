@@ -1,1 +1,1 @@
-How can I display an image in webkit really fast?
+i'm build a photo applic use electron that load user photo from the file system. these photo can easili be 7mb or more in size. the applic allow the user to switch between photo use the keyboard arrows, at which point i want the new photo to display extrem fast. for a 7mb image, just chang the ...becaus the read data must still be decod for the item to be append to the dom.i there a way to pre-decod the image, so that append to the dom doe not have a 100-150ms delay, and onli the fast render is required?

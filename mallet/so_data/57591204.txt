@@ -1,1 +1,1 @@
-Import JQuery in HTML with Electron
+i'm write some html code with electronjs. i need to use jqueri within html, so i instal jqueri with what should i write?(sorri for poor english)

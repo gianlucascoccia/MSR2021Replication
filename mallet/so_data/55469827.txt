@@ -1,1 +1,1 @@
-How to differentiate between a file path and a url using node?
+if i have a string which could be either a file or a url, is there ani exist clever method i could use to differenti them?for instance:/users/user/documents/mydoc.txt -> pathc:\program files\myapp\mydoc.doc -> path (even if mydoc.doc doesn't actulli exist on the file system)https://mywebsite.com/mydoc.txt -> urlftp://myserver.com/myfile.txt -> url

@@ -1,1 +1,1 @@
-How to change firebase config for deployed app
+i have an electron app that i want to deploy for companies. right now i have hardcod firebas config into the app. but after deploy if say 10 compani want to use my app with their own firebas config, how can i incorpor such thing into my app that let compani configur their own firebase?

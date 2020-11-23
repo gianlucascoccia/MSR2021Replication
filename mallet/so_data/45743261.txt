@@ -1,1 +1,1 @@
-use modifier $addToSet, $push or $pull with feathersjs and NeDB
+how can i use the modifi

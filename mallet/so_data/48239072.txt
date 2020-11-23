@@ -1,1 +1,1 @@
-Why does a packaged Electron app fail due to Menu.getApplicationMenu() returning null while running it with electron . is fine?
+i get a strang error when run a packag electron app on window 10.when i press ok on this error, the applic boot up, but without a menu. if i run the same applic use i'm tri to edit the default file menu and add a "build project" item.thi is my first attempt to packag an electron app so i welcom ani feedback as to what went wrong?

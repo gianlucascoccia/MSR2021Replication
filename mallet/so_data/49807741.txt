@@ -1,1 +1,1 @@
-Wrong path after loadURL
+i'm tri to navig to anoth page within my electron app. for some reason,

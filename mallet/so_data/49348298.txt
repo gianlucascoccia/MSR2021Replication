@@ -1,1 +1,1 @@
-How to use SystemMediaTransportControls with Electron?
+i'm build a wrapper app over a websit with music. and i want to add this media control

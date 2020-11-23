@@ -1,1 +1,1 @@
-SVG Pattern, any way/hack to stop repeating image
+i'm use an svg attribut on a path in another, separ svg.here is a codepen that show the imag tile in the same way i'm use it (less transforms)http://codepen.io/davemackintosh/pen/zvlvey

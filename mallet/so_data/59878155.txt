@@ -1,1 +1,1 @@
-How to publish electron app to github releases using electron builder?
+i am tri to publish my electron app on to github releas but i cannot get it to work?thi is what i have:i want to publish it so that i can includ auto-upd on my app on everi release.

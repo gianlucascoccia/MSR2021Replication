@@ -1,1 +1,1 @@
-Can electron automatically figure out whether to use HTTP or HTTPS given a URL without a protocol?
+given an arbitrari url without a protocol, such as www.google.com, chrome will attempt to use https, and if https is unavail it will fall back to http. i'm use electron and would like to take advantag of this featur in chrome. how can i retriev the absolut url, includ the protocol, from a browserwindow after call ?

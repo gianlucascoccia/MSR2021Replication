@@ -1,1 +1,1 @@
-how to stream input/mic audio in Node Js without SOX or Navigator.getUserMedia()
+i am develop a windows/mac app with help of nodej electron and google-translation-api where i need to to get the audio stream from the mic,currently, i am use a packag ,in the end, i want my windows/mac app doe not requir everi user to instal sox in their system,i have googl a lot but could not find ani good npm packag which not requir sox,can you pleas help me how i can get the same result(get the audio stream from mic) without depend on sox

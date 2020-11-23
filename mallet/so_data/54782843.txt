@@ -1,1 +1,1 @@
-Electron: How to delete ~/.config/electron-app folder on uninstall time?
+i have develop a small electron app and store some cach file insid my .now i need to remov the ~/.config/electron-app if the app is get uninstalled. is there ani electron app uninstal event is available?mani thanks...!

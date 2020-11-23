@@ -1,1 +1,1 @@
-Electron project structure, unable to run when in subdirectory
+so the long stori short, i am get this error:whenev i tri to use custom project structur for electron app (i also use electron-builder)mi project structur look like this:bas i separ applic as:what am i do wrong here? how to move electron app to subfolder?

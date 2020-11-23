@@ -1,1 +1,1 @@
-Catching errors in Electron Printing
+the print dialog doesn't seem to appear when i have no printer attach with electron built in printing. right now i wait for the webpag to load then i print the page but no print messag is display and no print error is displayed. i print dialog doe appear i have a printer attach but doesn't appear and give no error messag when i don't. is there a way to check if the print dialog open or the user has no printer available? or even catch error in electron printing?

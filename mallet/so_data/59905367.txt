@@ -1,1 +1,1 @@
-Is there a way to create a modeless dialog in an Angular/Electron app?
+is there a way to creat a modeless dialog in an angular/electron app?i'm look at the sampl below, and they'r all modal:https://material.angular.io/components/dialog/overviewi need to be abl to open multipl window at the same time and move them around. but i could not find ani sampl for that.thanks.edit 1:i'v tri the following, but it somehow lead me to the default page, index.html:

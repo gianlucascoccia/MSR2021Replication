@@ -1,1 +1,1 @@
-Routes not working in react-router
+i could easili be do someth wrong that i'm not seeing, but i'v tri three method and neither works...i have a typescript electron (this is irrelevant) app use in a plain old react web app. if you have ani other advic about better structur such an app, i am all ears. ideally, i want to have an action creator fire off such navig chang so i can keep compon lightweight.

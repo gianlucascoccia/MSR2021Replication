@@ -1,1 +1,1 @@
-How can promise chains assert that which value is from which return value?
+i'm current studi electron in action. i'm learn javascript on-the-go and this didn't come up in googl so i'd thought i'd ask it in here. imagin we have this code:can we do that? thank for the response.

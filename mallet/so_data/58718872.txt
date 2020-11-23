@@ -1,1 +1,1 @@
-How to execute code in active tab in Electron
+i am work on the zulip electron app and there are multipl tab correspond to multipl zulip server that can be ad into the app.now there are 2 chrome develop tools: one for the main render process, and one for activ tab.i pass an object obj from main process use , i want the output to appear in the activ tab develop tools, rather it current appear in the main app develop tools. how do i do that?

@@ -1,1 +1,1 @@
-NAPI_MODULE Causing Crash
+i am work on a c++ nativ modul within electron that former use v8 method to regist methods. i have been convert this code to use n-api calls. here is a snippet of code from this module:

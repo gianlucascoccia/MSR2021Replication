@@ -1,1 +1,1 @@
-How to fix 'window.minimize() is not a function'?
+so i'm fair new to javascript and electron.i creat a frameless window and ad a bar with 3 button (minimize, maxim and close). now my problem is that the close button work perfect fine, but the rest of the window method return the error: uncaught typeerror: window.ismaxim is not a function at htmlbuttonelement. (menubar.js:11)so i'm not sure whi the close button work and the other method won't work.

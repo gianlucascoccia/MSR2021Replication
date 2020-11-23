@@ -1,1 +1,1 @@
-Electron: How to auto reload the electron process, when the code changes?
+i'm tri to make electron reload after each chang to the electron code it self , not the webcontent.i tri use electron-reload package, but it seem to onli detect chang to the web content, which is useless for me, becaus i'm use react dev-serv anyway.i there ani way to make electron reload, when a chang is made to the app code?

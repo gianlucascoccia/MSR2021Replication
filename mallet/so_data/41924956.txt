@@ -1,1 +1,1 @@
-use window.open in an electron app
+i'm attempt to open a window from an electron app. tri to have this open window node-integr set to false.issu is that i don't see the window pop up?

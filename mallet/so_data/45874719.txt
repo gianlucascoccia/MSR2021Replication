@@ -1,1 +1,1 @@
-opening pdf files in electron
+i need to build an app where the user can open pdf file within the app -- i.e. not by open a new browser window. i would need to implement a back button and possibl some overlay over the pdf. doe anyon know if there a good way to do this in electron?

@@ -1,1 +1,1 @@
-Check if particular flag was sent to NSIS script
+i'm tri to figur out if a was even sent or not, then if it was, react in a certain way whether the follow url is blank or not.

@@ -1,1 +1,1 @@
-How to get the properties of the `move` event from an atom electron's BrowserWindow?
+the browserwindow has a now what? what are the properti of the event? no event properti are documented.

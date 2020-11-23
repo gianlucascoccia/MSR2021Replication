@@ -1,1 +1,1 @@
-Angular 2 view not updating after receiving ipcRenderer.on from Electron
+i'm use ipcrender to retriev the folder path from a browser dialog in my main.js.but for some reason it doe not updat my the text string on my view.i know in order for this to work i need to do a settimeout for it to updat (thank google!). but for some reason this doe not work.cod i use is the following.can someon point me in the right direct this is my first app use electron.kind regards,thyvo

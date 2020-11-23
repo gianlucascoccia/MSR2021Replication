@@ -1,1 +1,1 @@
-Why does electron unload some elements who are on screen?
+when i zoom with the element will disappear on screen.

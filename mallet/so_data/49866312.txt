@@ -1,1 +1,1 @@
-Why are these console.log statements not working? Electron
+i am tri to test someth here.i am use electron and javascript. i am tri to load a profil into the page when a user select it. none of my consol log statement are show in the console, howev when the user make the "profileselect" chang event, the valu are load correctly. the reason i am test this is becaus i am tri to add an addit to this file, check a checkbox (it not work either).whi aren't the consol log statement logging? thank for ani input :)

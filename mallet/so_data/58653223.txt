@@ -1,1 +1,1 @@
-Why does preload.js return "ERROR: module not found"?
+build an electron app and got stuck with an error.i don't understand whi my preload.j doesn't find the dnode nor the path modules, but it doe find the url module.preload.js:mi main.j find the path and dnode modul tho, i'v tri chang preload.j to the root directori of the project next to the node_modul folder and it didn't work.

@@ -1,1 +1,1 @@
-search page number - Google custom search API
+i m use googl custom search api to fetch some images. everyth is work fine but all my queri result in the same result. can i use some kind of page number of the start point of my search or someth els to get differ imag for the same keyword. (eg. "plane").her is my code,thank in advance. feel free to ask ani questions.

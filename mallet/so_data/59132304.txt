@@ -1,1 +1,1 @@
-How to run a js file from VSCode's builtin Node.js?
+i need to run a js file from the node.j that is builtin in the electron which vscode uses. current i am do that by run a vscode extens but there ought to be an easier way.th code below should print the electron version:

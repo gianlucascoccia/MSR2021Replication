@@ -1,1 +1,1 @@
-NightmareJS rightclick/contextmenu action
+i'v been struggl for the past day to make nightmarej forc context menu opening. i'v tri creat a custom action use the

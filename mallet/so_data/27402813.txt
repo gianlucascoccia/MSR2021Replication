@@ -1,1 +1,1 @@
-Handle server errors in SailsJS
+i am creat an applic in sailsjs. i am get errors, like, typeerror or 500 error when some error occur in db relat queries.i am use mongodb. is there ani way that i can catch this error in server-side.now, these error are crash my server. and the server stops. i have to restart the server again. pleas help me in fix this issue.thank in advance.

@@ -1,1 +1,1 @@
-Nodewebkit using Sails.js and Sqlite
+i have manag to run sail in nw environment.ha anyon manag to use nw+sails+sqlite?i am make a prototyp application, as a proof of concept. soon i will tri to make an effort to use sqlite. ani idea suggest is more then welcome.w manag to run nw+express+sqlite. but sinc the applic will be huge, use an mvc is a must.

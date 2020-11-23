@@ -1,1 +1,1 @@
-Electron setProxy() and fromPartition() not working
+i am tri to build a program where each new browserwindow has it own proxi to go with it. the issu is that whenev i use window.webcontents.session.setproxy, everi window get the same proxy; i want them to all be different. i know that i need to use partit to creat a new session each time, i just haven't figur out how to do it.whenev i tri creat a new partition, the proxi doe not work. i haven't found ani exampl of this be done before, but i am confid that it is possible.reference: https://electronjs.org/docs/api/sess

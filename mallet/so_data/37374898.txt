@@ -1,1 +1,1 @@
-Cannot run my Electron App without internet connection
+i have an electron app which connect to an instanc of a sql server(microsoft sql server 2012) on my local machin use npm modul mssql.the app work fine when connect to the internet, howev i get the follow error when offline."fail to connect to dell:undefin - getaddrinfo enoent dell:48988"follow is the config:var dbconfig = {sinc what i'm build is a desktop app, i do not want ani depend with internet connection. not sure what i'm missing.... pleas suggest.

@@ -1,1 +1,1 @@
-Why does Electron throw errors in render process with npm modules?
+i work with npm usb modules. and i met problem, that no one npm modul don't work by render process. error are different. how doe it fix? one throw error - os browser not supported. anoth one - exist is not a function anoth one - can't read properti variables'. for bundl i use react-scripts. i am novice, so had custom environ by lessons.i attempt run npm into main process. it is ok. but in case use ipcrenderer.sendsync('synchronous-message', ping') in render process - error are stay.&#xd;&#xd;&#xd;&#xd;&#xd;

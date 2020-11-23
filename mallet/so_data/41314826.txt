@@ -1,1 +1,1 @@
-Delete all Cookies in Electron desktop app
+i am use oauth (stack overflow) in an electron desktop app and there is a webview which load the oauth url. i have a signout button in my app which will signout the user from stack overflow websit and also from the app. how can i do this ?how to remov all session cooki from the webview in electron app ?

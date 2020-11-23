@@ -1,1 +1,1 @@
-Start scraping as soon as DOM is ready Nightmarejs
+i'm use nightmarej and i have a problem that i don't know how to solve. i use the instruct goto(url) follow by the instruct evaluate() in order to perform some oper on the webpage.th dom is readi after 2-3 second but i believ that the instruct goto() wait for the full page download which is veri heavi (it take 6-7 seconds).i there a way to tell nightmar to start the evaluate() function as soon as the dom is readi and not when the page is fulli loaded?

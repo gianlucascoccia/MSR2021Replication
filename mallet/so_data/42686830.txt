@@ -1,1 +1,1 @@
-electron js with python 3.6, print error on npm start, downgrade python?
+this is my first electron js installation, and i had to download and instal it electron, npm instal (in the folder electron), but when at the start, failed.error on print, or if i had to do python downgrade?mi error screenshot:

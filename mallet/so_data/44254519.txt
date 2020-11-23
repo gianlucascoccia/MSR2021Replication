@@ -1,1 +1,1 @@
-How to set NW js Window always in background in kiosk mode
+i am run an nw js applic in kiosk mode,and i am give option to launch nativ window desktop app from it,issue:-aft i am launch the child applic ,if i click ani where in the bodi of nw js application,th child applic window is go background of nwjs window,look for:how to set nwjs window alway in background ,if child window open it should be in foreground until it minimize,thank yousandeep ks

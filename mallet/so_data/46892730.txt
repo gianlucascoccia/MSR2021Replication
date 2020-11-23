@@ -1,1 +1,1 @@
-nw js - inconsistent transparency in Windows
+we are use nwjs to develop cross platform application. applic has a main window that is transparent. when we creat this window for the first time, it has transparency. this window get close and open dure the cours of applic flow. when this window is reopen again (applic is still running), transpar is lost and window appear with white background. this behaviour is intermitt (onc in 10 times) and happen onli on window 7/8/10

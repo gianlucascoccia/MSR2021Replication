@@ -1,1 +1,1 @@
-Working with NodeJs serialPort - Error: %1 is not a valid Win32 application
+i am tri to get serialport (https://www.npmjs.com/package/serialport) to work on window so that i can send command to my serial port and henc open/clos the lock. the serialport was instal via bash.th nodej app is be run via electron

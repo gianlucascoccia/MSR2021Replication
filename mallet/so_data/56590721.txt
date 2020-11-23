@@ -1,1 +1,1 @@
-Package Electron app with dependent packages such that only the dist/ folder of each package is included
+for instance, an electron app that i'm build use zurb foundat whose npm modul is ~25mb. the app itself just use their css and js files. so while creat the distribut package, i would like the node_modules/foundation-sit to onli includ it dist/ folder where the relev product file are stored.i there a standard practic for this, other than physic delet the irrelev file or use the --ignor option with electron-packager?

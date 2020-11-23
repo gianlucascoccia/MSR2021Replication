@@ -1,1 +1,1 @@
-Basic debugging of Electron apps
+i'm use electron to build a nativ application, base on exist code (develop with electron v0.26.1). i'd like to use featur avail on more recent version of electron, so i chang the version number in or someth similar (no such occurrences). noth helped.how can i get ani inform at all about whi this is failing? everi program language/build system i know of would at least output the sourc file where the error occurred, and possibl more information.

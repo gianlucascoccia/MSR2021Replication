@@ -1,1 +1,1 @@
-Modify firewall rule to allow incoming connection for a specific port in an electron app
+i am tri to creat a local server access via local network in my electron app.i want to allow incom access to a specif port.i want the firewal rule to be cross-platform i.e, work on linux(ufw/iptables), mac and windows.also, how do i check for wifi hardwar and start a hotspot??

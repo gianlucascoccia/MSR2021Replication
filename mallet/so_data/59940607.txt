@@ -1,1 +1,1 @@
-Keyboard shortcuts not working in contentEditable div in Electron application
+i have a if i open the html file in firefox, keyboard shortcut work fine. it just in electron that they don't work.

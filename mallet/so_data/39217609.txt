@@ -1,1 +1,1 @@
-Run Electron/NW.js App in Chrome Tab
+i have a chrome app. googl has deprec and will remov chrome app on non-chrom os platform in 2018.they recommend use either nw.js (with nativ chrome api support) or electron (with polyfil chrome api support). i need to continu support chrome app for chrome os. both of these seem to current or probabl will cover my use case, persist filesystem access.however, i current have an option to run in a chrome tab, use the nativ web function. can this behavior be replic use nw.js or electron?

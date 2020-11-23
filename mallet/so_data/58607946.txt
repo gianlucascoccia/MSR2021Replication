@@ -1,1 +1,1 @@
-Use add files dialog in Electron testing with Spectron
+i want to test my electron applic but i feel this is harder than i expected!just a simpl thing as use the open file dialog seem imposs from what i'v seen when i look around a while!i it at all possible, or can i mock this behavior somehow?mi applic add the select file to a file list and show some result in a grid. if i can't open file i wont get the grid and can't test if it behav as expected.how should i approach this issu if i can't use the file dialog?thi is my test setup:

@@ -1,1 +1,1 @@
-How to debug renderer process of electron-forge react-typescript?
+i'v use electron forg to generat an app base on react-typescript template. i'v written some vscode debug config for that app. but i'v just could debug for main process, render is missing. i'v instal debugg for chrome extens and use it before. i wonder what am i miss in the config ?

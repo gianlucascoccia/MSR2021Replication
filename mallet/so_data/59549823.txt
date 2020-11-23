@@ -1,1 +1,1 @@
-Create RxJS of observable from Electron ipcMain on response
+creat an observ use sendsync is easy. i'd like to creat an of observ use ipcmain.on without use a simpl callback.

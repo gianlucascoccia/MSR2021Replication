@@ -1,1 +1,1 @@
-Build issue in electron application
+i have build a simpl app use electron and it work fine when you launch with

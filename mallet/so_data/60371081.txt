@@ -1,1 +1,1 @@
-How to add config file into exe. build in electronjs
+in my project i have ad a config file (json format) for my static values. problem is , project is work when i type npm start, but when i build exe (use electron-build .), it is not workingaccord to this answer electron - how to add extern files?i chang my package.json but it didn't work. i have ad my folder structur and package.jsonthi is the error i'm get

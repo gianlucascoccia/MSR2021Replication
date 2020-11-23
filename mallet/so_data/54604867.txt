@@ -1,1 +1,1 @@
-SQLite "SELECT" wrapper function returns empty object
+i'm make a simpl app use electron with node.j and sqlite 3. my goal here is to wrap up a basic what am i do wrong?

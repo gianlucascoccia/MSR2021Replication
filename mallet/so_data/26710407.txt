@@ -1,1 +1,1 @@
-Datetimepicker broken first time in node webkit application
+i am use datetimepick for show calend in my applic it work fine in develop mode but in build version it show incorrect time in first time on calend but after second click and onward it work fine. can you help me where i have done mistak or is there ani jqueri conflict

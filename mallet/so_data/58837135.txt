@@ -1,1 +1,1 @@
-Why can't I run same app in the Rasspian OS?
+i develop a desktop app with use electron js. i develop it maco and windows. i was copi the main.js, main.html and renderer.js. while i was chang the comput i was use i can't even run the https://github.com/electron/electron-quick-start . i think the problem is with my oper system.

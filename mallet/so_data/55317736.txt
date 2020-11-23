@@ -1,1 +1,1 @@
-WebRTC Encoding from same Object to multiple Peers
+i add the same stream to a peerconnection, but for some reason the cpu-usag goe up like 2-4% per connection. i think the encod is done individual.i enabl h264 for chrome and it didnt bring a huge advandage. i also tri other chrome-flags, but none work out for me.thi is how i add the stream:

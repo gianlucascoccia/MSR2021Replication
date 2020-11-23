@@ -1,1 +1,1 @@
-Build node-webkit with just the functionalities I want
+i need a systray for a person node project. i just found node-webkit which have that function in node. so i'd want to build node-webkit without chromium. is it possible? because, it said in the doc that "node-webkit is a part of a custom chromium" if not, is there a way to make nw.ex lighter as possible?

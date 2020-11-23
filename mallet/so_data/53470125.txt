@@ -1,1 +1,1 @@
-Passing data to a modal in Electron
+how can i pass data from a

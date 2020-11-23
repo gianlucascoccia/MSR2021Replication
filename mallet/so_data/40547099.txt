@@ -1,1 +1,1 @@
-electron makeSingleInstance not restoring app
+this is what i am trying,but when one instanc of app is open it do not open new instance(which is correct),but is not restor the current instance(which is minimized)ani idea?i got feel that it is not go into if(mainwindow) condit but why?thi exampl is given in there offici document also?thank in advance.

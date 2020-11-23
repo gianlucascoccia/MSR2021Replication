@@ -1,1 +1,1 @@
-Cannot see the dev tools with nw.js
+i just download nw.js normal v0.19.3 and i see that the manifest option "toolbar" is no longer supported. it say that f12 should bring up the dev tool but it not working. i'm use a mackbook but i'm boot into win 8. ani idea on how i can see the dev tools?

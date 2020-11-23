@@ -1,1 +1,1 @@
-Error: Electron packaging with electron-packager
+i'm tri to packag my ember-electron app use electron-packager. this is for window electron app run ember-electron, ember-cli: 3.11.0, node: 10.16.0. in the past, it was run fine, but after delet "electron-out", "dist" and "release-builds" folder i am get an error.

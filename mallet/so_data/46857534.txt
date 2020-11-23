@@ -1,1 +1,1 @@
-electron-forge how to specify a source directory for packaging?
+i'v rig create-react-app with the electron-forg app and now i need to somehow specifi the build folder produc from the cra for the packaging. that folder should also be served.would such a thing be possibl with electron-forge?

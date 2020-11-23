@@ -1,1 +1,1 @@
-Line Code fails to execute until event "drop" is finished
+tools: jquery, node.js, electron, windowsus jqueri i attach a function to be execut on "drop" event. same thing happens. first all file get process then the log occurs. i'm at a loss.thanks.

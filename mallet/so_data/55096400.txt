@@ -1,1 +1,1 @@
-how to check internet connectivity in node.js, electron
+i'm tri to detect internet connect in node.j and electron.mi code notifi internet connect everi 1 second.but what i want is show connect when it connected, disconnect (on when connect is switch ) not everi 1 second.can i do that in node.j and electron?main.j

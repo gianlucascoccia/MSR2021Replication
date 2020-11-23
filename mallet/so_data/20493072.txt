@@ -1,1 +1,1 @@
-Can't find module only first time
+i'm use . but when i refresh (with the right refresh button) it magic works. why?

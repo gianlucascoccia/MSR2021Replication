@@ -1,1 +1,1 @@
-Leaflet flipping tiles in electron
+hey im new to electron but i want to use leaflet insid it to some magic map stuff.i creat an basic electron applic with the index.j accord to the basic example.i ad also an basic index.hetml:when i'm run the app the window is open and also some maptil are displayed.but they they are not all load and they get mess up when im reseiz the window:andwhat wrong with my code?

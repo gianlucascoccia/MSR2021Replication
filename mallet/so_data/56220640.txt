@@ -1,1 +1,1 @@
-Access parent window's 'window' object from child window - Electron
+is there ani way to access the parent window window object from the child windows. i want to duplic the content in the parent window to the child window with a singl remot connect for all windows.

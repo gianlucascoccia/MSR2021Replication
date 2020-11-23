@@ -1,1 +1,1 @@
-Electron Resizing a Frameless Window
+i'm work on an app that has a frameless window, and has a html5 video element that display the webcam fill the document.bodi at 100%.i have my

@@ -1,1 +1,1 @@
-ElectronJS - how can I have the app type for me
+i want to creat an app that allow the app to type thing in for me in ani editor of my choosing. is this possibl in electronj without nativ modules? is this also possibl in c++?

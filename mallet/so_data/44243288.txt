@@ -1,1 +1,1 @@
-How to tell Electron packager to use my custom electron config file?
+i success run my angular 2 app via electron from app root folder. i build the app into which will launch my local webserver?

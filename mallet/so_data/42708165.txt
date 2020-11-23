@@ -1,1 +1,1 @@
-Video tag in electron
+i'm tri to play video (mp4) in an window load with electron.weird thing : it work fine with onli one video, with the other it show a black screen. the onli differ between all video are their width and height (doe that matter ?). also, in a browser window all video play just fine.her the code that load window in electron : i don't understand whi the browser can play everi video but the electron window can't ... thank in advanc

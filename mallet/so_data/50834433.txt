@@ -1,1 +1,1 @@
-Windows notification not showing for electron app
+window notif for my electron app is not show in the latest version of windows. it may becaus of not give appid for the shortcut. so can anyon tell me how to add appid for shortcut while creat msi use visual studio installer.

@@ -1,1 +1,1 @@
-NodeJS - Electron tray icon disappearing after a minute
+i have no idea what go on, to be honest.i'v been keep an eye to the icon and it just vanish after a few minutes. no, it doe not go to the arrow near the clock:thi is my icon show up (the explos in red):i don't know how to debug if the icon is there but empti or if there an event trigger it to hide, or if the tray process close itself becaus of a bug. noth happen in the consol or my app.could someon pleas help? below is my whole

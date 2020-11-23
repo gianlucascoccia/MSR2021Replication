@@ -1,1 +1,1 @@
-Build / package an electron app in "development" mode
+i have an electron app (built with vue.js) that i would like to have both a when use electron builder (via the vue-cli-electron-builder) to build a packag app. thanks!

@@ -1,1 +1,1 @@
-jQuery on electron main process
+how i can use jqueri on electron main process?it seem everi exampl i find is for render process.exampl i want to creat a util that will be use by the main process, that will fetch data from an api use get.then use .thanks.

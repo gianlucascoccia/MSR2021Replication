@@ -1,1 +1,1 @@
-How to save web contents to another html file
+i'm new to javascript and electron projects. i have a small task to run a webpag in which i have "download" button, if i hit the button i have to get all content and sourc code to be download for the current page. here my sampl work :browser.jscurr i am abl to get url in alert view, but i'm not abl to get webpag content note: pleas give solut onli in javascript not in jqueri

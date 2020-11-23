@@ -1,1 +1,1 @@
-How can I open data:image in browser from node-webkit app?
+i am use node-webkit for make an imag enhanc app. i have a download button click on which execut the following.thi function is suppos to download the imag if run in browser, but the download doesn't work in the node-webkit app. so, i want to make it function to open the data:imag in default browser so that i can save imag from the browser, but i have no idea how to do that. can anyon help me with this?thanks.

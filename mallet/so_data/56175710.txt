@@ -1,1 +1,1 @@
-npm start fails with events.js:174 throw err; on Ubuntu 18.04
+i have been tri to get the basic electron-quick-start demo work on ubuntu 18.04. everyth work up to the point that i try: to work? if clear everyth and start over is the best approach, i am all for it. this is my first time use node.js, so i am total lost here. btw, download electron app (e.g. vs code) seem to be work just fine if that ani help.

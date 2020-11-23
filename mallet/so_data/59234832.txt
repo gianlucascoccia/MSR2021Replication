@@ -1,1 +1,1 @@
-Is the typescript version is depend on the node.js version?
+is the typescript version is depend on the node.j version?currently, typescript 2.5.1 is use in node.j 8.but i'm go to upload node.j version to 12. doe that mean we have to go up the version of typescript?i thought i should do that becaus i had ts2345 error while build.i am find appropri version for node.j 12.can you let me know about this?

@@ -1,1 +1,1 @@
-How to get absolute path to app in Electron app
+i use electron to build my app.i want to load data from zip unpack it to folder file and show it to user.i decompress data and then open window sinc it html it should work fine.howev i see that how to solv this ?

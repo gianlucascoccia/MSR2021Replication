@@ -1,1 +1,1 @@
-NodeJS/Electron: Is it possible to register "STRG+<" as a globalShortcut and how can I do this?
+i'm tri to regist "strg+&lt;" as a globalshortcut in my electron app.it was possibl to regist this hotkey with autoit, so i don't think nodejs/electron can't.can you pleas help me?mani thank in advanced.th follow hotkey ist working: commandorcontrol+x'thi is not working: commandorcontrol+&lt;'in the internet i didn't find the correspond keycod for javascript.

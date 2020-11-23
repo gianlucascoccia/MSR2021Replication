@@ -1,1 +1,1 @@
-Electron - Open file from menu
+i have a button in my electron app that say open file', and when you click on it the open file dialog box come up and i am abl to select a file.although, how am i abl to open the open file dialog box when i click a menu item from the app toolbar?thi is my label in a submenu for the toolbar menu:

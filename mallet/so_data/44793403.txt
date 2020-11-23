@@ -1,1 +1,1 @@
-electron-compile: Can’t use Stylus
+i'm work on an app with is becaus if i chang the file and it re-compiles, the style load, but if i reload the page they disappear.

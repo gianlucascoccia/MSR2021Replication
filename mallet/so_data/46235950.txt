@@ -1,1 +1,1 @@
-Electron Squirrel.Windows: .msi not working
+i develop an electron app and with the use of it a bit far-fetch but mayb it has someth to do with digit signatures?

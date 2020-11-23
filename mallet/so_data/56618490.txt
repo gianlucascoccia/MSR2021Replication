@@ -1,1 +1,1 @@
-What is the purpose of "typeof" in members in TypeScript typings?
+the electron typescript definit contain the follow interface:?

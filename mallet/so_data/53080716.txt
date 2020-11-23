@@ -1,1 +1,1 @@
-How to launch electron app using child_process in spectron testing
+is it possibl to launch electron app use command line with help of require('child_process') in spectron,norm we launch the app use command prompt like below, cd c:\program files\project c:\program files\project>launcher.ex test.jsonso we have to autom this in spectron testing, can you pleas someon help on this?

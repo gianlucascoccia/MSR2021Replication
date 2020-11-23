@@ -1,1 +1,1 @@
-How to declare a global variable of a module in Typescript?
+i have alreadi requir a global valu to my global javascript context:ther will be an error ts2709: cannot use namespac fsi as a type.how to declar a global variabl of a modul in typescript?

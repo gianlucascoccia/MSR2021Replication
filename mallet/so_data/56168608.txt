@@ -1,1 +1,1 @@
-electron : display basic notification in a Tray application
+i am make a tray applic and i tri to display a basic notif : my main.j file and package.json are bellow : my app/main.j file when i trigger the keystrok commandorcontrol+shift+n , it display me the console.log but not the notification.do you know how to do this?

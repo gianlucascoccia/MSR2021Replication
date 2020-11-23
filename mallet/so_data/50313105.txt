@@ -1,1 +1,1 @@
-node mysql connection pool exports
+i am make an app use electronjs. i have creat one connect pool which i will use global in my project. a user can select which mysql server he need to connect and the select server configur is save in a lokij database. when we creat the connect pool we will get mysql connect detail from the lokij database.now i am get an error like this. uncaught typeerror: cannot read properti find of nullpleas see the code below

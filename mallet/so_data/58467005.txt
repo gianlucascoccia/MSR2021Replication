@@ -1,1 +1,1 @@
-Electron: Access appId in production
+how can i access my appid in my electron app?th appid would be "com.somethinghere.somethinghereagain".i it even possible?i cannot find ani document regard this.for example, someth like ?

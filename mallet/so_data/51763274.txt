@@ -1,1 +1,1 @@
-Electron error 'could not find a good path to install to'
+so i have built an electron app with electron builder. so after instal it on server computers, onli 3 out of 7 comput are working. i have no idea why... googl toward this error doesnt realli give me a better understanding.but now for a lot of other pc i get the "could not find a good path to isntal to" error. this are my dependencies:mi package.json look like this:i have no idea what i'm do wrong.. if you need more info pleas ask

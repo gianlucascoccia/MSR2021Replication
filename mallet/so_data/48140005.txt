@@ -1,1 +1,1 @@
-How set app version in ember electron app?
+i need set app versio like i use ember-electronhere:ent imag descript here

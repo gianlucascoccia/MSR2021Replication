@@ -1,1 +1,1 @@
-Electron: cannot read property 'getCurrentWebContents' of undefined
+i'm tri to read the file from a directori use the fs module, and display that in a div with the id displayfil in an electron app. i keep get the error :&#xd;&#xd;&#xd;how would i get access to the web content of the main window in my menu.j file so i can manipul the html?

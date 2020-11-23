@@ -1,1 +1,1 @@
-Failed to install electron js
+i'm tri to instal electron js.but i'm get this error.mi npm version:6.4.1 and node version 10.14.0

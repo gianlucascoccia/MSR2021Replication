@@ -1,1 +1,1 @@
-Electron - Jquery isn't working
+hello,i download electron and instal it on webstorm in order to learn it. i also instal jqueri use the termin and includ in my script but jqueri isn't work but it is recogn in my code (i haven't got ani error). my code :&#xd;&#xd;&#xd;&#xd;&#xd;the jqueri alert is work but the click isn't.even if i replac the "exit" id by "body" it not working...can you tell me what wrong ?thank you veri much, best regards.

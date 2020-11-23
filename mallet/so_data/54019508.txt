@@ -1,1 +1,1 @@
-Unable to create windows app package with electron-packager
+i want to creat a window app packag from my exist ionic cordova application,i am use electron-packag for the same but get below error:npm version:5.6.0,electron-packag version: ^11.2.1i have ad follow command in package.json script :to creat a packag for window build, and creat a success packag for the same but whenev i tri to run the app .ex file get error as :what should i do resolv the error and creat a success build for window use electron?

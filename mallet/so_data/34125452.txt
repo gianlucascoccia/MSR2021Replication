@@ -1,1 +1,1 @@
-Can I use System.js without ES6
+long stori so i'll tri and keep it short.i am tri to build an angular application. i work just fine in the browser but when i tri and use electron to present it jqueri doesn't load.th solut on the electron site goe like this error

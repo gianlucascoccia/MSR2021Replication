@@ -1,1 +1,1 @@
-Quotes conflict when span added with paste
+a contentedit p in a node-webkit window document. context menu allow cut, copi and paste. when pasting, a span element is added, viz:i there a better way to achiev what i want?

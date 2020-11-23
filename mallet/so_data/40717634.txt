@@ -1,1 +1,1 @@
-I have to Export around 50 page pdf in node js which module i have to use?
+current i am use pdfmake modul in my sail app to export pdf.but,when size of pdf increas it is take too much time to export pdf,ihav to export pdf of around 50 pages.so,which modul i can use to export pdf ? or ani way to decreas load time in pdfmake module.thank you,

@@ -1,1 +1,1 @@
-Using electron-boilerplate to create an .exe for windows. It needs to run a .bat file. Once it's packaged, it doesn't run
+use the electron-boilerpl to creat an .ex for windows, it need to run a .bat file. however, use npm start it work but when it get packag with npm run release, it doesn't run the .batthi is my code for the functionalreadi check for child-process

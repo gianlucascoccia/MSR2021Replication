@@ -1,1 +1,1 @@
-Open a URL in system default browser
+i have an electron app use angular. i want to open a url in the system default browser. i tri the code belowon the other threads, everyon suggest this way but it is not work for me. i am not sure how can i make it run in either render or main process.

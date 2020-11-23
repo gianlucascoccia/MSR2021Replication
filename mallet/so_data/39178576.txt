@@ -1,1 +1,1 @@
-electron.atom.io and shared memory
+i would like to use electron to build a window gui for a desktop app that show imag acquir in anoth desktop process (i.e. 25 megapixel imag size).th imag data can be store is a share memorycan i access the share memori from the electron render process?if i access from the electron main process, i read that the ipc between main/rend process is not suit to transfer such amount of data.

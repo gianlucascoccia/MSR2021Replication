@@ -1,1 +1,1 @@
-Execute a cmd line with Electron/Angular
+i have been look at this guid on how to access electron process from within angular. i success open anoth applic with: pass it within the openitem function doesn't seem to work :(

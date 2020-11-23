@@ -1,1 +1,1 @@
-path.resolve(__dirname, 'tools/unzip.exe') crashing with no message on Windows 10
+i'm writ an applic with nwjs, and use nwjs-updat as updat system.unfortunatly, i'v got this issu while tri to use unzip by c. spieler (docs: https://www.mkssoftware.com/docs/man1/unzip.1.asp) on window 10.when i tri to invok the ani idea on where might be the issue?thanks.

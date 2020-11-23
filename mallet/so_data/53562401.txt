@@ -1,1 +1,1 @@
-Record the desktop using Electron
+i am build an electron in which i need the , but i wouldn't get the pop-up prompt to select a sourc as i would get in chrome. what should i do to get this working? thank in advance!

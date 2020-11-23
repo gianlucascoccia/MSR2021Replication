@@ -1,1 +1,1 @@
-How to open an Electron dialog from angular 2 component?
+i want to click a button to open folder dialog in my component. here is what i am tri to do:html:so, how do i import remot and dialog?

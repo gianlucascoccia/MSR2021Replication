@@ -1,1 +1,1 @@
-Run Global NPM Module In Electron
+is it possibl to run an npm modul that i have instal global in a packag electron app? accord to the doc electron support nativ node modul but doesn't explicit say it doesn't support non-native. i am tri to run a tessel script via electron and am use a child process to spawn the tessel script. it work when i run electron from the command line, but not when i packag the app.

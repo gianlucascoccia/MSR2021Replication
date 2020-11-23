@@ -1,1 +1,1 @@
-React.Fragment Error in Visual Studio Code
+even though it working, visual studio code keep display error like the screenshot below. afaik, my eslint doesn't seem understand about component, it still throw the same error

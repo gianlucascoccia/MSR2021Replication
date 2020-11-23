@@ -1,1 +1,1 @@
-Electron & NodeJS Project Management
+in a server environment, i expect to write url path to queri for data. in ?

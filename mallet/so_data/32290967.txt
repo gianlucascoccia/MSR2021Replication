@@ -1,1 +1,1 @@
-electron - how to use ffmpeg within an electron app
+in the last releas (v0.31.0) electron come with a static link ffmpeg librari (not the command line tool, see #2588)i am awar of the mani nodej modul for ffmpeg, but they all look like an api to the command line tool, so how can i ideal access the ffmpeg librari bundl with electron and encod a stream?

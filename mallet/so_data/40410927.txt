@@ -1,1 +1,1 @@
-PhantomJS from Node on Windows
+i have written a electron applic use node, electron boilerplate, and phantom. it work perfect fine for me on my linux machine, i copi the sourc over to window 10, and ran with

@@ -1,1 +1,1 @@
-How do i render a .js file on a button click in reactjs?
+i am make an applic in electron use reactjs. o am use reactstrap as well. i have the main page name as app.j and want to go to a differ page on a button click.background: the main page is call app.j and i want to go to an info page name info.jsinfo.j is export as shown below

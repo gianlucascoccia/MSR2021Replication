@@ -1,1 +1,1 @@
-Electron + Vue (SPA): Not allowed to load local resource: file:///app/src/Products.vue
+i have an electron app + vue for rooting. i am have problem load the content into a newli open window. the window is launch from a vue component. when it open i get a blank window and: not allow to load local resource: file:///app/src/products.vuei have tri differ method mention on stackoverflow but the error still persists.

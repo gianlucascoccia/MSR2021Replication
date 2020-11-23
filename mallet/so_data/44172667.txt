@@ -1,1 +1,1 @@
-sending messages to specific Client with node-ipc
+i have an electron app where differ client communic with a server over a network use do not work. doe anyon know how to send a messag to a given client? (of cours there is alway the possibl to broadcast that messag and let the client decid if it for him, but i would prefer to talk to the directly)

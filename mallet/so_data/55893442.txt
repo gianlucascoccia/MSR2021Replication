@@ -1,1 +1,1 @@
-I'm getting import error when I'm trying to connect Python and Electron.js
+i'm write python program with pybluez librari and i want to connect my python script with this is the error i'm get :

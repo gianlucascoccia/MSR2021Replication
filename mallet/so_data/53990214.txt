@@ -1,1 +1,1 @@
-how to fix blank page if i am using vue router with electron js?
+i'm tri to use vue router with an applic on an electron js. if i use a router on the render page, then the router work done. but i do not understand how to make the transit to the page, for example,- set use the tray. at attempt of transit the empti page opens.i have prepar a work exampl of the project. this problem exist onli build project. in develop mode all work well. this is my work exampl on github. pleas need help.

@@ -1,1 +1,1 @@
-electron builded exe app - generating file (unpacked - ok / portable - nothing) - why?
+i wrote an electron app which pars differ info from sites/ this script work in main process w/o executejavascript but as import module. main process send messag to render which url did load and the final messag - done. it work in both case (unpacked/portable). file generat is the xlsx. lib is exseljs.workbook.xlsx.writefile();app imagedist folder

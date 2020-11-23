@@ -1,1 +1,1 @@
-Electron Auth0Lock "Origin file:// not allowed"
+tri to get auth0 work with my electron app. when i follow the default tutori and tri to authent with username-password-authentication, the lock fail with a 403 error and respond with "origin file:// is not allowed". i'v also ad "file://*" to the allow origin (cors) section of my client set in the auth0 dashboard.auth0 lock with consol errorsorigin file:// is not allowededit:lock setup in electron

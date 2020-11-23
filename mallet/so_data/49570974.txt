@@ -1,1 +1,1 @@
-Electron storing javascript functions
+i have creat a new electron application.it consist of the follow files:mi problem is that i'v ad the function code to both the renderer.j and to the bottom of main.j and when i click the button i see no alert.how can i get js function to be call from the index.html?

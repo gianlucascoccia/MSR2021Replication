@@ -1,1 +1,1 @@
-How many copies of V8 in NW.js and Electron?
+oversimplifi a bit, nw.js and electron consist of part of a browser (webkit, chromium, or whatever) join with a javascript engin (node.js, io.js, or whatever).mi question is: how mani copi of v8 are in there? i ask becaus i know that there is one in chromium, and one in node.js.sam question for nw.js.i'm not ask how mani are actual engag in execut the app, but how mani are present in the distribut app and, potentially, in memory.

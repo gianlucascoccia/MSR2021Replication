@@ -1,1 +1,1 @@
-Unable to spawn "ffmpeg" after building an electron app on Mac OSX
+i develop an electron app on mac os x and i'm abl to do childprocess.spawn("ffmpeg");ffmpeg is on my path. everyth works.but onc i build the electron app, spawn "ffmpeg" give me "enoent" error.what goe wrong or what is differ when we build an electron app?

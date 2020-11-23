@@ -1,1 +1,1 @@
-Where to place electron-cookies?
+here it basic says: in your app render code, just requir this package....i don't know where to place it. when i put it in main.j my app just won't start anymore. i instal it correct sinc it in my node_modul folder. ani ideas?mi main.js:

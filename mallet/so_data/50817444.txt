@@ -1,1 +1,1 @@
-rename error while using nedb
+while use nedb, i get renam error as whi am i get renam error?

@@ -1,1 +1,1 @@
-Execute R script using Electron and ReactJS
+i am creat an electron desktop applic use reactj and materialui how do i execut an r script after a user click a button? i current have this react code:

@@ -1,1 +1,1 @@
-TypeError: Cannot read property 'setAutocompactionInterval' of undefined
+my databas has sever duplic (same _id), even after restart and use , but is this becaus of a misuse? am i misunderstand the way it should work? nobodi seem to have this error, accord to my googl searches.

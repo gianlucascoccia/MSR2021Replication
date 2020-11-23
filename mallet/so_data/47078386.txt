@@ -1,1 +1,1 @@
-FileSaver.js Save as type is incorrect
+i'm work on a project that use electron to wrap a web app to desktop app.in this project, i use filesaver.j to export canva content to png/jpg/pdf.canva is turn into base64 imagebase64 imag is turn into blobblob file is save use filesaver.jsher is how it look like when save dialog appears:thi is what it should look like as normal save as (png file):thi matter becaus if the user forget to insert .png at the end of file name, the file can not be open normally.how can i solv this problem?thank you veri much.

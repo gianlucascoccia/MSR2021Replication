@@ -1,1 +1,1 @@
-Dynamic address for socket.io-client
+intromost of you will probabl ask "why?", whi am i do this stack? the reason is that initi i creat the project in nuxtj + expressjs. but my pm want me to not distribut my sourc code to our client so i decid to bundl my code up into a singl wouldn't have ani effect. is there a way to chang the url for socket.io even after nuxtj finish building?

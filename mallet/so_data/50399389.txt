@@ -1,1 +1,1 @@
-Storing client secrets for desktop apps particularly electron/cli apps
+i tri to lookup how firebas cli handl client secrets.can somebodi explain what that means.i have a electron app. i need user to login and keep those access token offlin so that they need not login again. i have it all figur out but the problem is with store client secrets. am i in the right direct or is there ani problem?? update: github firebas link

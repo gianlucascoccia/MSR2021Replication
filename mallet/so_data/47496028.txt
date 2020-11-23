@@ -1,1 +1,1 @@
-Should I use viewport meta in an electron app?
+i'm use this bootstrap exampl in my electron app: (https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_default&amp;stacked=h)should i use viewport meta in an electron app or no?

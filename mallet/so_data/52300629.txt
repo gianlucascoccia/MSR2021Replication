@@ -1,1 +1,1 @@
-Electron change frame on/off from remote
+can someon tell me if it possibl to toggl frame properti of browserwindow object use remot ? i have tri to add this properti to remote.getcurrentwindow().setbound but that doesn't work.thank

@@ -1,1 +1,1 @@
-Node.js absolute path
+i'm tri to build a electron app which quick pull the machin info to the user. i'm tri to use the npm modul shellj to be abl to use shell script in a node environment. but electron doesn't realli support shellj so i'm in a bit of a pickle. there is a workaround that includ to use the absolut path to the node binary. not sure what they mean by that so i thought you guy could help out.th workaround i got is taken from here where they say this: set it like ani regular variable.am i interpret the workaround the wrong way?

@@ -1,1 +1,1 @@
-Creating multiple windows
+i'm use github electron and angular 1.x to build a desktop application. i need to first creat a login window and onc login is successful, want to show/instanti the main/actu applic window. how can we destroy current electron window instanc and creat a new window instanc from angularj javascript control ?

@@ -1,1 +1,1 @@
-Is it possible to open an electron app by clicking/touching the Windows screen?
+i want to open an electron js app when i click or touch the screen. anoth softwar is gonna be run in the main screen, but at ani click/touch, my app is suppos to open.i there some way to listen to the window clicks/touch anywhere, and open certain app?obs.: the system is be develop to be execut on a "midia totem", and this is the reason i have to do all of this stuff.

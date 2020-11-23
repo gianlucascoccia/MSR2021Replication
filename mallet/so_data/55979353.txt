@@ -1,1 +1,1 @@
-NodeJS Electron (using Quasar Framework) how to prevent config files from being compiled?
+i have a coupl .json file i would like my applic to expos to users; i'm not sure i understand how the electron-packag want me to make these avail to users. if i put them in the folder. i am use quasar framework to manag the electron side of things.

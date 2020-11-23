@@ -1,1 +1,1 @@
-How do I put a space in my electron app's title?
+first off i obvious know how to renam the app after i export it, but i want to have it export with the correct name the first time. how do i put a space in the name of it? here is the relev portion of the package.json code:

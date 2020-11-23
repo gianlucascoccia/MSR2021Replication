@@ -1,1 +1,1 @@
-LevelDOWN could not locate the bindings file when using electron.js under Windows 7
+i creat nodej server that use leveldown module. so when i'm start my server with as well but it did not help. i'm dissapointed. how to solv it?

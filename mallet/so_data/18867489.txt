@@ -1,1 +1,1 @@
-Uncaught AssertionError: path must be a string error in Require.js
+i'm get the follow error in my simpl exampl use node-webkit:

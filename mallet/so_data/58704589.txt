@@ -1,1 +1,1 @@
-How to make a widget using electron that sticks to bottom and is still usable
+i'm tri to make a widget for desktop use electron, i read about the way of set the browser window to be at the bottom-most level always, but it can't handl ani event then and therebi can onli be use for widget that do not requir user interaction. is there ani way to keep it at the bottom and the user can still interact with it (like make it draggable)?

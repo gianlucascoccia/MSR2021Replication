@@ -1,1 +1,1 @@
-Store XHR response globally
+i'm use question:how can i proper store the respons into a global variable, so it will not be truncat on page reload or navigation?

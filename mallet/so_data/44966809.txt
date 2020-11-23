@@ -1,1 +1,1 @@
-Accessing NeDB find() results
+i'm make an app with angular 2 and electron and use nedb as a data storage.th search servic is intend to handl oper with db, for now i want it to load whole databas and return it.search.service.t doe nothing. so i was think that i need some async magic to make this work. i want to do this with observ but couldn't achiev anything, probabl was do it incorrectly.

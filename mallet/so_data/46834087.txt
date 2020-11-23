@@ -1,1 +1,1 @@
-electron setSize with animation not working
+i'm use this code to resiz my electron window on osx:it is work fine (the resizing) but if i tri to use the "animate" argument i get an error in the console: anim is not definedwhat am i do wrong here?

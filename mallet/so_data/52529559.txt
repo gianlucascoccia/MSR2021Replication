@@ -1,1 +1,1 @@
-Electron - My static header files are not being added
+i have a vue.j websit with the follow dependencies: is succesf ad (for example)however, with electron these file are nowher to be found in the render html. i'v done some dig on googl but i can't find an answer- doe anyon know whi this happen and how to fix it?

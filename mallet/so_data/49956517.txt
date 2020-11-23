@@ -1,1 +1,1 @@
-Cannot run serialport on windows 10
+i'm develop an electron app and after sever atempt i got stuck in this. the browser inspector return the below error when load serialport.thi allow me to build serialport. howev i'm still not abl to use it.

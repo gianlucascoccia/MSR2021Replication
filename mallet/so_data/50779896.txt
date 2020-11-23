@@ -1,1 +1,1 @@
-communicate between apps over network
+i'm tri to build an app that would be abl queri a databas over wifi, i think i'd make two differ apps. one run the database, receiv queries, and send data to the other app, (on anoth device) queri the database. my problem is i can't find anyth that could help me send simpl sql or json queri over wifi in an electron app. if someon could just point me in the right direct or if someon has done this sort of thing befor that would be great.

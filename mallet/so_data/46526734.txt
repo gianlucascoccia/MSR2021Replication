@@ -1,1 +1,1 @@
-Where does Electron save previous zoom?
+electron appear to rememb what the zoom factor when restart the app - where is this saved? i want to be abl to reset this.thanks!

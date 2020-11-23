@@ -1,1 +1,1 @@
-Karma unit testing error: Unexpected value imported by the module. Please add a @NgModule annotation
+i'v creat a fresh new compon via:now i got this new error, which i am not abl to fix: failed: unexpect valu matdialogref import by the modul dynamictestmodule'. pleas add a @ngmodul annotation.can someon clarifi where i should be ad the @ngmodul annotation, or if i had done someth complet wrong?thank you.

@@ -1,1 +1,1 @@
-Pass input from a React.js/Electron app to a Python script?
+i'm tri to build a cross platform user interfac in react.js/electron for this user project autom python script. my issu is that the python script need the user to input the project directory, github credentials, etc., and i have no idea how to pass the data from an input field in my react/electron applic to the python script. my question is: is it posibl to pass input between the two?

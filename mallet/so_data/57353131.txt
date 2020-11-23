@@ -1,1 +1,1 @@
-Electron AJAX request return raw PHP
+i'm develop a kiosk applic with electron. currently, i'm stuck with make an ajax request to the server with a nativ javascript code (no jquery). everi time i made an ajax request, it alway return the raw php code. here is my project directory:

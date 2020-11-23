@@ -1,1 +1,1 @@
-Performance of Node-Webkit Desktop Applications
+i need to creat a desktop-appl that has to handl some anim and a bunch of logic.i thought about creat it with node-webkit which i never have use before.i anybodi here who alreadi wrote some desktop-app and experienc the perform compar to someth code in c++?

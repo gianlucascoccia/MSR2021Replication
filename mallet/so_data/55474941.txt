@@ -1,1 +1,1 @@
-Use nodejs class in Electron application
+i wrote this class in js: file but the result is the same

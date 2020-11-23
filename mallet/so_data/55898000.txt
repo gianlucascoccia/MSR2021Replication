@@ -1,1 +1,1 @@
-Blocked a frame with origin "file://" from accessing a cross-origin frame
+after upgrad electron from 4.1.4 to 5.0.0, i got this error block a frame with origin "file://" from access a cross-origin frame. at htmliframeelement.preload (renderer.js:31:78)i ad the app work fine now, but i know my desktopcaptur will not work. i think contentwindow script elev caus this issu or someth i don't know.

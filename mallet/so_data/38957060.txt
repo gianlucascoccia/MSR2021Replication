@@ -1,1 +1,1 @@
-TypeError: Cannot read property 'setZoomLevelLimits' of undefined
+i ran into the follow error after tri to start my electron app via

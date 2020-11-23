@@ -1,1 +1,1 @@
-Node Webkit - Options for encoding in writeFileSync not work?
+i am a beginner.i want to write an html file contain chines charact in utf8 encoding. i found the follow code from the internet. in utf-8 format, which is not the intend content.ed test this with my instal node.j version and it was work properly. it seem to have someth to do with node webkit.i'l includ the version later. the time here is not conveni for me.

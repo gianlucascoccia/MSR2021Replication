@@ -1,1 +1,1 @@
-DataTable selection doesn't work in Electron
+first time use electron.us the code provid on datatables.net the select doesn't work.mayb i'm do someth wrong with electron or other...her the javascript codeani suggest will be appreci

@@ -1,1 +1,1 @@
-Set different filename and Task Bar name when build app using electron-packager
+i have an applic which use electron packag for build app on mac. my package.json: ). and i do not like to see the version on taskbar. so, how can i set .app name differ with the app titl name?ex: file name: desktop_v2-1.0.0.appapp title: desktop v2

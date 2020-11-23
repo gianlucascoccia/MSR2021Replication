@@ -1,1 +1,1 @@
-Ionic 3 build app using electron cordova is not available
+when i tri build a desktop app use electron, everyth seem alright until i tri use @ionic-native/file'. there was an error in console.log: native: tri access the file plugin but cordova is not available. make sure to includ cordova.j or run in a device/simulator;how can i use plug-in abov in ionic 3 desktop-app?pleas help!!!

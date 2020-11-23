@@ -1,1 +1,1 @@
-Electron Icon not building out with electron-packager
+when i build out my app it build fine but the i cant seem to get the app built out with this icon as the app icon.what am i do wrong here?

@@ -1,1 +1,1 @@
-electron-packager does not preserve file times
+i am work on an app that communic with a devic and, depend on the time stamp of file store on that devic and the time stamp of the resourc files, will copi new file as needed. i have notic that, when i run electron-packager, the time stamp for all of the file in the generat packag have the time when the packag was run. it would appear that electron-packager, rather than simpli copi the files, is read them and rewrit them in the packag directory. is there ani way to make electron-packag preserv the time stamp of the sourc files?

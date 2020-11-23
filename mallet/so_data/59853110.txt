@@ -1,1 +1,1 @@
-How to access `electron.remote.app` in Electron application via DevTools?
+i want to access variabl via devtools? i don't want to access it via code. is it even possible?

@@ -1,1 +1,1 @@
-How to print a DIV in ElectronJS
+i'm tri to convert my web into an app made in electronjsin my web i print a div with a barcode. this work pretti fine, but in electronj i can't reach this.origin i'd use this functionther a simpl way to print a div with electronjs? thank you for reading.

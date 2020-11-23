@@ -1,1 +1,1 @@
-Electron packaged for win32 does not work
+i'v been play around with electron and angularj and built a simpl app.if i run it with electron it work as expected.aft use electron-packag to packag the app into a win32 execut it doe not work anymore. (open white window and that it).i there anyway to see some debug when packaged?i don't know what wrong, the onli thing that i might have done "wrong" is includ some extern cdn libraries. is that allow in electron or must i instal everyth with node?

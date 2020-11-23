@@ -1,1 +1,1 @@
-Angularjs in Node-Webkit function lose $scope
+i'v this simpl control in an applic develop in node-webkit with angular: variable.thi scenario is a common one that i'v use mani time when develop proper web applic and i'm sure i'm miss someth on the nw part. thank you in advanc

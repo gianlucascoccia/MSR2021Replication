@@ -1,1 +1,1 @@
-Send input to console applications in Node Webkit
+is there a way to send input and receiv output from consol program use node webkit?i tri search the net but couldn't find what i was look for.

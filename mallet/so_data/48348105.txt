@@ -1,1 +1,1 @@
-How to use Electron Webview API with Vue JS and Vue X?
+i'm use the electron-vu boilerplate, and i want to use electron webview api in everi vue js compon with vuex.th problem is that the webview is onli access after initi and therefor method such as gettitle() are undefined.right now my store look like this.

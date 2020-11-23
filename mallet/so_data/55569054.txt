@@ -1,1 +1,1 @@
-Prohibit installer when application is still running
+is there an easi way to prohibit the (windows) instal (creat with electron builder) when the current applic is still running. either by promt an error messag to the user or a confirm dialog if the user want to close (read: kill) the run application.i can imagin there is such a set in the to creat a window installer.

@@ -1,1 +1,1 @@
-Named SVG FIlter in Electron
+use a name svg filter in electron will not work and produc a 404 resourc not found.electron look for the #thesvgfilt use the file protocol. is there a way to defin a protocol for local anchors?

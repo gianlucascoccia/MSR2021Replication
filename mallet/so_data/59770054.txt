@@ -1,1 +1,1 @@
-How do I allow JavaScript execCommand("paste") to work in Electron?
+when the user click on a specif button on my screen i want to past the content of the clipboard into a specif text field.i current use the code: to allow this function to work. what do i have to do to get it to work in electron?

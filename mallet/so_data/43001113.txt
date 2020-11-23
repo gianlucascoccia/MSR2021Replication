@@ -1,1 +1,1 @@
-Unable to build electron 1.6.2 on OSX
+i build the electron app with follow scripts:skip log entries...it look like the librari and build machin are not compatible, but both of them are x64 platforms. what els can be wrong? i put here onli part of the log, becaus it realli veri long (thousand of lines). i use to use the same step for build 1.2.3, 1.2.8 and 1.4.3 version and there was no problem.

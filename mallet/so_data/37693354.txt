@@ -1,1 +1,1 @@
-How to trigger autoupdate events in electron for testing purposes?
+for example:i want to trigger the update-avail event without actual have to revert the state of my app to place where an updat is available.thanks!p.s. i'd use the autoupdat tag in this post if i had 1.5k rep, sorri :/

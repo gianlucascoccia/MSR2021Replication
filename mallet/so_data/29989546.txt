@@ -1,1 +1,1 @@
-"moment is undefined" when launching angular app in node-webkit
+i want to launch my angular applic which work in general, but when i get to use moment i got the error that "moment" is undefined.i am use "angular-moment" from herewhich say that moment ist undefined.how do i have to modifi my package.json to get node-webkit find moment? or angular-moment?thank in advance.

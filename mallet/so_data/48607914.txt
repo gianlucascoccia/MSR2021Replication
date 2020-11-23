@@ -1,1 +1,1 @@
-Screen recording in electron using angularJS framework
+i'm tri to implement electron record method into my electron + anuglarj desktop app.i'm use angularj so i use services/controllers/view across to maintain application. in one view (html file) i have button which should start record screen from function in controller. this function is name startrecord.ful code of control is: in handl stream, in docs, mayb it upload to some storag like i want, is it?mayb you guy know some other sourc of inform about this recording? i need more info to use it.

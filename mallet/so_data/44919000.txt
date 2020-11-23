@@ -1,1 +1,1 @@
-Converting Electron app to UWP app
+i need some tip on how to convert a electron app to univers window platform. i have import all the javascript file into visual studio 2017 and chosen univers window platform platform. my main problem is that i have render (renderer.js) which doe not want to run when i compil the solut in visual studio. i can build the solution, but when i run it i onli get a white window. ani tip on how to solv this?

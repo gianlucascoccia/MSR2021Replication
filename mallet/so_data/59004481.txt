@@ -1,1 +1,1 @@
-TypeError: fs.existsSync is not a function in electron without webpack or Browserify
+i am tri to read a file in electron without webpack or browserifi like this,

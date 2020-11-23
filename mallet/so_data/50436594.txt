@@ -1,1 +1,1 @@
-Electron build app doesnt start express server
+i'm build an app and all work fine while i'm in develop mode. everythink work as it should. but when i packag my app with electron-builder, app open but it doesnt start express server and app doesnt work properly. here is my package.json codeif anybodi has ani idea what is the problem, pleas post it. thank

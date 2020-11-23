@@ -1,1 +1,1 @@
-'Navigation triggered outside Angular zone' explanation
+i am work on an electron app use angular. i have creat an electron menu item where click() send an ipc to app.component.t in order to chang the view. the below code works, but i get the follow error in devtool if i call router.navigatebyurl directly:thank you in advance.

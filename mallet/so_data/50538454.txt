@@ -1,1 +1,1 @@
-Electron canvas image quality reduced
+i have attach a screenshot of two view of a javascript app i am writing. the view is of an imag render on the 2d canvas. the window on the left is chrome (v. 66), while the window on the right is electron (v. 2.0.2, run chromium). the file i am use are exact the same, with the except of the electron wrapper. the imag qualiti is degrad in the electron window. whi might that be? the resolut of the screen is 3440 x 1440.

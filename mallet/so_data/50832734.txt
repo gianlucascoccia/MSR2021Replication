@@ -1,1 +1,1 @@
-Electron - Uncaught Error: document is not defined
+i have ad an event listend to my electron main.js:th problem is that i keep get this error:uncaught error: document is not definedhow can i fix this?

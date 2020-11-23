@@ -1,1 +1,1 @@
-Read data from the response headers in Angular 5
+how would i go about do this? i'm run angular in electron which doesn't handl the csrf set-cooki valu in the respons header properly, so i want to read them myself and save them in a json file use electron. when i googl it i onli found how to do this with the now deprec http module, but i want to know how to do it in the new httpclient module. thank guys!

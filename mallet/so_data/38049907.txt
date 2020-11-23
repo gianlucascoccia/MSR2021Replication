@@ -1,1 +1,1 @@
-How to clear the Shibboleth session
+i creat a web applic use angularjs. i integr shibboleth for authent on my login controller.i know it is possibl to clear the session by cooki concept.i am creat a client applic from my web applic use electron packager.to convert the web applic to client applic so i didn't use cooki on my angularj development.i am not much awar in electron packager.i dont know how to clear the session for shibboleth authenticationpleas ani one can help me !!!thank in advanc !!!

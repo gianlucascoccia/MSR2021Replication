@@ -1,1 +1,1 @@
-I want to better write require() path in the Renderer process
+i was use modul in the render process with require().however, it is troublesom to put the js file.i there ani better solution?

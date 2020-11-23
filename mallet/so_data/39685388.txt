@@ -1,1 +1,1 @@
-when i run electron . in electron-quick0start.It's error with cli.js
+see,i instal electron is success,but i run electron . or electron -v.it error andit run in windows10.

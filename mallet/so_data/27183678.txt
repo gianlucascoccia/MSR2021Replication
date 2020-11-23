@@ -1,1 +1,1 @@
-How to create database within nodejs application code in node-webkit?
+i'm tri to use nedb databas for persist of applic data. i'm tri to use the follow approach to connect to my databas like the following: tag in html file. how could i do same thing on server side?

@@ -1,1 +1,1 @@
-Access local file in javascript
+i have a js app (packag with electron) in which i wish to load a yaml file. the follow work when i have packag the app sinc the is there ani way to get around this? should my yaml file not be place in the same directori as the rest of the app?

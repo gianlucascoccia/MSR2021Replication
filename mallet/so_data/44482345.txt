@@ -1,1 +1,1 @@
-How do I find System32 directory in Electron?
+i understand one should not just assum c:\windows\system32 is where system32 will be locat but that there a way to queri window for it location. my goal is to find the directori where i can copi a .scr (screensaver) to so that window find it.how do i do that? specifically, how do i do that from an electron app?

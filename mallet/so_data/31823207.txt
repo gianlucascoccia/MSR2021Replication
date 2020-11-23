@@ -1,1 +1,1 @@
-Accessing/ referencing external files in node-webkit application
+i'm develop a node-webkit applic that i want to distribut as an .ex file. however. i need to have dynam content edit by the end user would i be abl to link/ refer to extern file and folder in my html/ css file use a relat path( mayb if i design a particl folder)

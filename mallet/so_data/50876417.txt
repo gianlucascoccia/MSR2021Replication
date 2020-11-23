@@ -1,1 +1,1 @@
-Electron - MAC keep in dock
+is there a way to keep my electron app i develop in the dock? my goal is to have the user download the .app file, launch it (which it doe automatically) and then on the mac "keep in dock" after they close it. i know this can be done with dockutil, but i need a way to do it within the application.

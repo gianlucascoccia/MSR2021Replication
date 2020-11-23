@@ -1,1 +1,1 @@
-electron-winstaller throws The system cannot find the path specified. at Squirrel.Utility.<CreateZipFromDirectory>d__23.MoveNext()<---
+i am tri to build a electron instal for window platform in .the build run in a on-premis agent with window server 2014.local everyth work fine.imag of my build.jsimag of my package.jsonent imag descript here

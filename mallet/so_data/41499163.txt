@@ -1,1 +1,1 @@
-electron-packager with angular 2 Error: spawn ENOTDIR:
+i am execut thee follow script; if need more detail pleas let me know ..

@@ -1,1 +1,1 @@
-Get Webview from WebContents?
+i'm develop a kind of and sever webview on it.on these webview i'v ad listen to the follow events:new-window will-navigatefor further featur it would be much easier if there is a way to get the origin webview of the event or the webview-id. doe anyon know a way to realiz this?with a browserwindow it possibl with browserwindow.fromwebcontents(). i tri someth with webview viewinstanceid but i were not possibl to recogn a schema behind this.thanks!

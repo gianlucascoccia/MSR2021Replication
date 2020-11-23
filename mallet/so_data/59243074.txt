@@ -1,1 +1,1 @@
-Issue With electron IPC Renderer on event, browser page reloaded
+i am work with electron desktop applic use follow technologies:front end : angular 8commun between main process to child process is ipc render mechanism.mi issu is - when i am send messag from child to main process, after get respons from main to child the window get reloaded.how to stop reloading, i am use event.preventdefault() but it not working. i don't want to reload the page.sampl code .in child process i am call as :pleas help me on this.

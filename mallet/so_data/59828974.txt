@@ -1,1 +1,1 @@
-Require local files in Electron?
+i creat a simpl modul for use in a render process an

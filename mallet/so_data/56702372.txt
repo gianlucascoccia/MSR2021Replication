@@ -1,1 +1,1 @@
-How to add "React Performance DevTools" as chrome extension in electron app using package "electron-devtool-installer"
+i am tri to add "react-performance-devtool" extens to electron app use electron-devtool-installer. when i tri with one of the mention extens in documentation, it is work fine, but with ani other extens i am get error.i am tri someth like this:

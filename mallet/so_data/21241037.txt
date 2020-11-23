@@ -1,1 +1,1 @@
-Finding architecture of a system in node-webkit?
+i have tri use the built in os modul from node.j to find the os architectur of the system but it appear to respond with the incorrect valu for os.arch(), it is return ia32 even though the system is actual amd64 in the command line:i assum this is becaus there is onli a 32 bit version of node-webkit so it is return the architectur of the node-webkit instanc rather than the os. what would i need to do to find the os architecture?

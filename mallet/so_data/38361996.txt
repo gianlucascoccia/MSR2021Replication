@@ -1,1 +1,1 @@
-How can I bundle a precompiled binary with electron
+i am tri to includ a precompil binari with an electron app. i began with electron quick start app and modifi my to the consol when triggered. i did find a veri similar question on so, but the question doesn't seem to be definit answered. the npm page on electron-packag doe show that they can be bundled, but i cannot find ani document on how to do so.

@@ -1,1 +1,1 @@
-auto-update files are deleted after auto-update
+hello everyon i build the instal with nsis ia32 arch, i use sqlite3 and everyth work fine until the updat is download sinc it replac all the file in the instal folder.then my databas file is deleted, how can i prevent my databas file from be delet with the new versions?her i initi my connectionelectron-build v19.33.0electron-updat v2.10.1thank o/

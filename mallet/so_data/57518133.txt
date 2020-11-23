@@ -1,1 +1,1 @@
-Play local audio files in My app without using the input type file
+i am creat an electron app and want to play local audio file(from the comput not my project dir) without use the input type file. i have tri the tradit way of creat a new audio instanc and provid it the absolut path the mp3 fileinsid createaudio() i expect it to play the audio file but for whatev reason it throw "uncaught (in promise) domexception"

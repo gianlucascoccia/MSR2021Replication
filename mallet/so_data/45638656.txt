@@ -1,1 +1,1 @@
-querySelectorAll with two or more dataset as queries
+i have a tabl i creat let call it rpt_accountscode|description|type01|bank|ba02|tax|tawhen i pull the inform from the datat i creat the tabl visual in htmlanyon one of the abov method go through, but it pull all the data not just the line i'm look for.ani help would be awesome.jsfiddlehttps://jsfiddle.net/custardcs/q8a6uysg/5/

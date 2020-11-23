@@ -1,1 +1,1 @@
-Electron not working on Raspberry Pi
+at the moment, i am develop a "kiosk" applic for my raspberri pi. i decid to use electron as it offer the key featur i need: combin a web base ui with direct system an i/o access via node.js.however, electron refus to run on my raspberri pi wherea it work just fine on the comput i am use for development. noth happen after issu , which download and instal the latest arm-version.if this is an unresolv compat problem: are there ani good altern for electron?thank in advance!

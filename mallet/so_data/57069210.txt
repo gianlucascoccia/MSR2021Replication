@@ -1,1 +1,1 @@
-Electron Autoupdater with Private GitHub Repository?
+i have implement electron autoupdat with privat github repositori as provid to publish electron application. now, i can publish it use github repositori but whenev autoupdat tri to download the updat from github repository, everytim it prompt with respons code 404 not found.. i have tri pass token in setfeedurl method and also set it in gh_token but seem like that doe not work either. so, is there ani way to get it work with privat github repositori ?

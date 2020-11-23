@@ -1,1 +1,1 @@
-Discord-bot using js
+i'm use nedb for this discord bot. i need to finish the function for a specif date, it should download and save all the convers for a person that be my target. for all messages, i need it to check if alreadi exist in databas with edited_d less than. if ani do not exist, then insert.i there anyon that can help me out? i'm realli desper tri to figur this out

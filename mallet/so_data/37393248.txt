@@ -1,1 +1,1 @@
-How connect to proxy in electron webview?
+as i can connect through a to a free proxi server (or pay), current in use as electron js solut as desktop applicationexampl proxi list servershttp://proxylist.hidemyass.com/

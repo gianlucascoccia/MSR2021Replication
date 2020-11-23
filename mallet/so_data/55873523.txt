@@ -1,1 +1,1 @@
-When should you use app.on(ready) and $(document ).ready() in Electron
+when do the call back function for the respect handler execute?

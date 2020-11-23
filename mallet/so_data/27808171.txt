@@ -1,1 +1,1 @@
-crash dumps missing nodewebkit
+i'm develop an applic (on window now but i'd like to have a mac version as well) use angularj and node webkit.it happen that my applic crash but i don't know why. so i thought i should check the dump file generat as precis here : https://github.com/rogerwang/node-webkit/wiki/crash-dumpso here is my code :i'v put the last line to find a crash report but i'm unabl to find ani in the log folder of my application.whi ?thank you

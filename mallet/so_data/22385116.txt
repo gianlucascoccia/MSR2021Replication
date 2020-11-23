@@ -1,1 +1,1 @@
-Accessing USB devices from node-webkit?
+i'm build a node-webkit app that need to run on all 3 main desktop environ (windows, mac and linux) i need my app to connect to a plug in usb devic and i'm have a bit of troubl work out exact how to go about this.i there an npm that would work across all os's? could i get one built in c++ that would work? is there anyth built in to node-webkit for interact with devic (devic api?)thank in advance.

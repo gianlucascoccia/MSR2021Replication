@@ -1,1 +1,1 @@
-How can I add a configuration to my application after build?
+i have built an app with electron and electron builder.mi app requir an api key to work, which should be generat when user download my app. my applic somehow need to know this api key in order to recognis the user.however, i can't put the key static into my codebase, becaus it will be generat for everi user, which would requir me to compil the app for everi user with the appropri api key.i there an easi way to creat a configur file in a second step after build my applic or how would i solv this problem?

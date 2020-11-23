@@ -1,1 +1,1 @@
-Electron-builder - how to run a script after/before installing an app
+i have an applic written in electron which use electron-builder. i want to packag the app for linux (ubuntu and mayb other too) and mac. but when the applic is instal i also need to run a script use to instal some third parti software.for window (nsis) i know that there is a configuration: .is there someth similar for linux / mac that i can use to do this ?thank in advanc !

@@ -1,1 +1,1 @@
-Override Electron Notification Popup
+i have an electron app with onli a browserwindow and a url of an webapp we are use internally. i want to overrid the notif window. is there ani tip you can give me on do so?i tri the following, which should make clear what i want to do:renderer.j (load with preload)

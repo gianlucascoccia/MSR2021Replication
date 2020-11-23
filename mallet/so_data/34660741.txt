@@ -1,1 +1,1 @@
-Reference one document from another (SQL-style join) with NeDB
+i have a bunch of document in nedb, let say of the form:would be awesome.it seem like a realli common thing to want to do, but i can't seem to find ani inform on do it.thanks!

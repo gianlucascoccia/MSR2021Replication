@@ -1,1 +1,1 @@
-NEDB Query returning false positives with $nin on array
+i'm have an issu use the nedb thank in advanc

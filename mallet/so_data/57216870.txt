@@ -1,1 +1,1 @@
-Electron with Touchbar: TouchBarLabel is not a constructor
+i'm use axio in my electron app to get data from an api. this data should be display on the touchbar onc it received. to manag the touchbar i ad a new .ts file:.what doe this mean and how can i fix it?thanks,luka

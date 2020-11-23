@@ -1,1 +1,1 @@
-See debug messages from Chrome Extension's background page in Electron app
+new to electron here. i have ad a chrome extens to an electron app successfully, but have hard time debug it and specif it background page. i know how to open a dummi html page for a background script in the browser, but is the same function possibl here? if not, is there ani other conveni way of debug the background script?thank

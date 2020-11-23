@@ -1,1 +1,1 @@
-Exported Electron APP doesn't work on MacOS
+i creat my first electron applic and i'm readi to publish it. i was abl to export it for these two platform with no errors:linux debianwindowsbut when i export it for macos, the

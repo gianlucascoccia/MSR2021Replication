@@ -1,1 +1,1 @@
-Debugger in compiled Electron App
+i need the chrome debugg in a compil window application(electron app)mi main.js:but the debugg don't show up on a compil application.

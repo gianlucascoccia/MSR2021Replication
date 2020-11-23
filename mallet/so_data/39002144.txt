@@ -1,1 +1,1 @@
-Error: Could not locate the bindings file. Tried:
+i ran into the follow error while tri to run my electron app that contain my express app.

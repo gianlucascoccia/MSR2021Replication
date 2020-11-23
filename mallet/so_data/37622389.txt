@@ -1,1 +1,1 @@
-Unable to locate vendor files using electron with angular2 and angular-cli
+i have creat a sampl hero app (the app in the quick-start) use angular-cli, and it work as intended.

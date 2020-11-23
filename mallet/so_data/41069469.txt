@@ -1,1 +1,1 @@
-Can I customize Electron tray app?
+i'm tri to make my small app in a tray of osx that will show some info.th problem is that standard menu lib allow me to creat "natively" look menus, when i want to make someth that look like this: (screenshot) is there a way to creat some custom menu item with cell and imag or should i creat custom window give the look i want use css? my biggest concern is translucency.now i just creat it use tempat with menu.buildfromtemplate. mayb i'm do it complet wrong.

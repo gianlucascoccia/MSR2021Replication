@@ -1,1 +1,1 @@
-Electron file loaded but not showing in Network tab
+i'v pack my applic with electron using: asar pack my-app app.asarwher line. do you have an idea what can caus this issue?

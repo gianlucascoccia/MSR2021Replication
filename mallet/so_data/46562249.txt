@@ -1,1 +1,1 @@
-React.js: use node js modules in components?
+in my compon i need a modul ipcrenderer. i'm tri to get it:how to fix?i tri to add a model fs, but he alreadi is.

@@ -1,1 +1,1 @@
-Parameter 'event' implicitly has an 'any' type.ts(7006)
+i am use typescript in electron application. typescript show paramet event implicit has an ani type.ts(7006)her is the code. so what should i do ?

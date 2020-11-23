@@ -1,1 +1,1 @@
-How to use "ipcRenderer" in development mode in electron project with reactjs
+i'm set up a new electron project with reactjs. in dev mode, i ran react-script start and wait for localhost:3000 start finish then run electron script. it work fine in main process but i can handl noth in render process.do anyon know how to solv this problem?

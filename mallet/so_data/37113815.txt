@@ -1,1 +1,1 @@
-electron-builder vs electron-packager
+what is main differ between electron-build and electron-packager. is there some exampl project for both? which is better for standalon .ex applic build?

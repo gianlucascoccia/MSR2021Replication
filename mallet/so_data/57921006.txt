@@ -1,1 +1,1 @@
-Flask app shows only 1 image and does not show other images
+i have flask applic via python. in my page, there is three imag but flask onli show one of them. i could not figur out where is the problem. here is my code.htmlani help is appreciated...thank

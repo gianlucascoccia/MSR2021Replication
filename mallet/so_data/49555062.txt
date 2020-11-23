@@ -1,1 +1,1 @@
-Image not found error after packaging electron with native module
+i creat c++ nativ modul and there is also a third parti librari "sample.dylib". after run command node-gyp configur and node-gyp build and then npm start, the applic run fine. but when i packag the app for distribut and run the app, i get the error.below is my binding.gyp:

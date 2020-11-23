@@ -1,1 +1,1 @@
-Vue CLI Plugin Electron Builder dispatching vuex actions fails
+i have a vue electron app creat with vue cli plugin electron builder and i tri to integr vuex, have the follow store structurehow do i use vuex in this setup?

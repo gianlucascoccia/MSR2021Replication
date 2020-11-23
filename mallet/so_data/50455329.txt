@@ -1,1 +1,1 @@
-Error: spawn node ENOENT
+i'm work on my electron app with express server and when i build it with electron-packager, i get an error.do anyon know solut for this error?

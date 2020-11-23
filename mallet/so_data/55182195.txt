@@ -1,1 +1,1 @@
-require() not defined in electron
+i am use electron with mineflayer. i am tri to send an ipc event to the main process to run mineflay there, but when i use . i onli get the error, when i press the join button. the button has the same event listen as my minimize, maximize, and close button which all work perfectly. the onli differ is that the join button event listen use ipcrender in it, while the other onli use remote.getcurrentwindow.

@@ -1,1 +1,1 @@
-Promise.all concurrency
+i'm develop an electron app with nedb storag (a javascript document orient db that use mongodb-lik api), this code is not electron-rel though.i'm tri to updat

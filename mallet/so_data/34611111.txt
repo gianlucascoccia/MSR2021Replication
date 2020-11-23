@@ -1,1 +1,1 @@
-NW.js Button injection
+i would like to build an app with nw.js which will assist the user with automat form fill (json file on the machine). i wish to add a button to ani page load by the webkit browser, but come from desktop app with ie activex i'm a littl bit lost about where i can hook my function to inject a "fill" button in ani page loaded.

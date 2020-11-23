@@ -1,1 +1,1 @@
-how to publish a page using node.js
+i have just begun to learn node.js. over the last two days, i'v been work on a project that accept userinput and publish a ic file. i have all of that working. now consid when i have to show this data. i get a but how do i do this when use views.

@@ -1,1 +1,1 @@
-Spectron - javascript error: screen requires remote, which is not enabled
+i am tri to use spectron to autom a web applic in an electron app. for that i have creat the follow basic script, but it fail with the follow error when i run the test. appreci if someon can help. thank you!error message&#xd;&#xd;&#xd;&#xd;&#xd;

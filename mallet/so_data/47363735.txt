@@ -1,1 +1,1 @@
-Reading a PDF file with Node / NWJS App
+first of all thank for look into this. i'm build a simpl nwjs app and have a hard time with read a pdf file.i'v tri sever librari (pdf2json, pdfreader, pdf2text) and all of them return the follow error. but it doe not work when i run it as a nwjs app.i wasn't abl to find ani other reliabl nativ js librari either. ani help would be high appreciated.

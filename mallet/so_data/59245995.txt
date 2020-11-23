@@ -1,1 +1,1 @@
-Electron autoupdate from Azure - blob
+i am tri to get binari publish in blob and have auto-upd from there, can anyon tell me to configur it package.jsonent imag descript here

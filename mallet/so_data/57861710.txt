@@ -1,1 +1,1 @@
-Node - Electron Packager
+i am current tri to packag my app use electron-packager,first of all, when i test my app using:it creat the executable, but when i execut the command in terminal, it hang there forev and doesnt return... no idea why..ani suggestions?thank and greetings!

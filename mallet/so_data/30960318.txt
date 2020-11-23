@@ -1,1 +1,1 @@
-TypeScript - referencing jQuery in classes
+get the follow error "uncaught referenceerror: $ is not defined". i understand the error veri well, jqueri isn't recogn insid my class. what i don't understand is how to ensur it get pick up. here is what i'v got so far:./app.t refer to the layout.t file but that doesn't help either, neither doe pass jqueri into the class as a reference. how doe each separ class get access to jquery?

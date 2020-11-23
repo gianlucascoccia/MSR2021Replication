@@ -1,1 +1,1 @@
-the apm(the package manager of atom) start shell run error
+i am deal with a bug of apm in my osx 10.11 system. when i run it seem like this loop run onli one time on my osx system and run twice on others, the bug which i have is becaus of this.

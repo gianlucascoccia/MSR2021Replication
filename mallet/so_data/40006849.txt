@@ -1,1 +1,1 @@
-if __dirname gets you the folders your in what gets you the root of the project?
+consid the follow project structure:in i need the absolut path to said image. ideas?

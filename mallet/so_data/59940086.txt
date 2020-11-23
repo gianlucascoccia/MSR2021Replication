@@ -1,1 +1,1 @@
-Does Electron have a "toolbar" window type on OSX?
+doe ) with the skinni window bar.

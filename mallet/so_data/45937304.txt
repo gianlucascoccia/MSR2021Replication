@@ -1,1 +1,1 @@
-How do I pass argument values to a running Electron program?
+i want to pass paramet valu to a run electron program, but failed. pleas tell me how can i do.what am i missing???

@@ -1,1 +1,1 @@
-Detect if web app is running in NWJS
+i am creat a web app which i plan to deliv both from a standard web site and as an nwjs standalon application. in nwjs, i can use the

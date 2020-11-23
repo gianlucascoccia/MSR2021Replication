@@ -1,1 +1,1 @@
-How to pass command line arguments when run after install with electron-builder NSIS installer
+with electron-build nsis instal we'r abl to creat an execut instal which launch the instal electron app immedi after the instal is finished. my question is is there a way to pass ani command line paramet the instal itself was launch with to the instal app on this first launch?i have seen some nsis custom script which suggest that an execut can be launch with detail are in electron-build nsis configuration, and electron-build nsis templatethanks!

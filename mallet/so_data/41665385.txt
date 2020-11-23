@@ -1,1 +1,1 @@
-How do I connect to the iTunes COM on windows?
+in a c# project i just add the comrefer to the csproj and then import the ituneslib wherev i need it. with the window script host i think i can do someth like: how can i use/import those refer with nodej or electron?

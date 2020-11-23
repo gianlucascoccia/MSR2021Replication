@@ -1,1 +1,1 @@
-How to delete all .DS_Store when packaging with electron-packager?
+when build packag with electron-packag on mac os x, i want to ignor all .ds_store file in my project folder. .ds_store should not be includ in my packages.should i use an option of electron-packag or an other solution?

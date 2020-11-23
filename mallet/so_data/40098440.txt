@@ -1,1 +1,1 @@
-How to register JS object via Electron?
+i'm new on node.j and electron.i alreadi develop a web view applic via cefsharp.winform.when i use cefsharp, i ad in electron. how can i add the javascript object handler in electron like c# appllication?i there anyth equival with that method?

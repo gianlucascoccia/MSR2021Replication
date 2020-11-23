@@ -1,1 +1,1 @@
-Electron postInst taking much time
+i am run node 5.0 on mac os(sierra), and tri to load node modul of electron use this command: , sinc 30 mins. there are no error or ani other log on screen. can someon pleas point me out in right direction.

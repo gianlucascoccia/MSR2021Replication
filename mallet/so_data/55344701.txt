@@ -1,1 +1,1 @@
-How to stop Electron windows sharing cookies?
+i am creat multipl browser window in an electron app howev i do not want them to share cookies. this is how i am current creat the windows,howev when multipl window are open they share cooki between them.

@@ -1,1 +1,1 @@
-node webkit app-view permissions
+i have a backbon web app and everyth work fine in my browser. now i want to make a .ex with node webkit.thi is my package.json file:i'v been how to fix it here but i didn't find ani solution.ani idea? thank

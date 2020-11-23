@@ -1,1 +1,1 @@
-Can i use Cassandra database in electron
+i am alreadi use sqlite which come binari , so when build electron it compil with respect to nativ os.so no prerequisit to instal and use my application.in the same way can i abl to use cassandra in electron ??

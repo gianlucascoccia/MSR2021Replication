@@ -1,1 +1,1 @@
-Electron screenshot is too small
+hi i am use electron to take a screenshot of the entir screen and my code is work good, except the fact that the size of the screenshot be download is too small.thi is the js function that take the screenshot on button clickrenderer.js:th screenshot is captur the work area well but the problem is it is too small. can someon pleas tell how to increas the size of it? i am attach the generat screenshot herewith.

@@ -1,1 +1,1 @@
-Electron browserwindow blocking x-origin iframe
+i am tri to emb an ifram into my electron applic and cannot get pass the "on secur origin are allowed" errors.imageus an express server to host a local html file that has a googl recaptcha ifram caus this error onli insid of the browserwindow of electron. when connect to the express server through chrome, i don't have the issue.i have tri disabl web security, ad tag to the html, and ad a line to my host file and noth has worked.so whi am i get this issu in electron and is there a way around it?

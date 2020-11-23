@@ -1,1 +1,1 @@
-Change form action URL using JavaScript from a HTML value
+i was make a upload on electron. as unfortunately, the framework doesent work with php, so javascript is the onli way to function.i made a diagram herei tri use that code but didn't help.

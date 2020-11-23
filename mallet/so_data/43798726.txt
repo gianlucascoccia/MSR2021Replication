@@ -1,1 +1,1 @@
-Running electron as root on Linux
+i am make an applic with electron which use the wiring-pi library. this need access to the gpio on my raspberri pi, which requir root.when i run ani idea of how i can fix this issu and run electron as root?

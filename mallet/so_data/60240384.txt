@@ -1,1 +1,1 @@
-Electron Popup Above Dock
+is it possibl to creat an electron app that similar to creat stack on mac? i'm tri to recreat like imag below.

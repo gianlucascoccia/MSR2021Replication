@@ -1,1 +1,1 @@
-Custom-size video recording in Electron
+// to record camera i want to record screen of custom-s ( example: from top-left(100px, 100px) to bottom-right(500px,500px ). there are no paramet in navigator.webkitgetusermedia to achiev custom-s recording.how to do this in electron and react js.

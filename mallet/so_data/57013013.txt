@@ -1,1 +1,1 @@
-Nodejs module "worker_threads" returning error "Error: The V8 platform used by this instance of Node does not support creating Workers"
+i'm creat an app where i need to stop some code without do all the buggi sleep forev methods, or creat an if statement in everi function check if the stop variabl is true, so i decid to use worker_threads. but everi time i use it, i keep get the error:error: the v8 platform use by this instanc of node doe not support creat workersand i don't understand whi is this mayb becaus of it insid electron?code:

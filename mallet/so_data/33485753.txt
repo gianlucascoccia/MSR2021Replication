@@ -1,1 +1,1 @@
-Promise in angular.js + node.js/electron doesn't work
+i'm use angular.j in electron along with node-orm to talk to a database. node-orm find/get function are async so i tri to use promis to get data in a servic like so: howev it doesn't work. i know the promis resolv sinc i can log them to the consol and view the valu with chromium dev tools.

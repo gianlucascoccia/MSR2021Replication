@@ -1,1 +1,1 @@
-Compiling python packages for electron js
+so my question is pretti straight forward. i am use electron js and python to creat a desktop application. the problem i have though is that the applic would make use of a coupl of python packag and selenium. is there a way to compil those packag in such a way that the user of the desktop app wont need to instal python and the packag on their system to use the desktop app?

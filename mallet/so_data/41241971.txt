@@ -1,1 +1,1 @@
-SystemJS cannot find xml-js module with typescript and electron
+i'm tri to requir the i have ton of other modul (includ rxjs and angular-in-memory-web-api) along with the regular @angular ones: all of them are work proper and throw no error, but the xml-js one seem to be not work whatsoever.

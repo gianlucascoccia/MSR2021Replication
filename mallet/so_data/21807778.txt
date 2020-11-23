@@ -1,1 +1,1 @@
-fs.writeFile() only saving part of string
+i'm creat a text editor use node-webkit. when the user click a "save" menu item, i get write a plain text file to disk use the fs.writefile() method:however, it not save the entir string pass through the "txt" variable. it onli save the first 300 charact or so to the file.i'v tri use this method, and the synchron method fs.writefilesync. both are have the same problem. i'v tri log the txt string pass to the method to make sure there noth wrong there.ani idea whi i'm not get the full text in my save file?

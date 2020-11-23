@@ -1,1 +1,1 @@
-Launching Typescript app in Visual Studio Code throws error "Cannot find module 'electron'"
+when attempt to launch a typescript applic in visual studio code (vs code) i'm get the error "cannot find modul electron'". the project i'm tri to launch is black-screen which i have clone from github.thi error is thrown on the follow statement:ani help would be appreci :)

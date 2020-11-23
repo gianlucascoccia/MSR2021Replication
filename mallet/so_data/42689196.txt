@@ -1,1 +1,1 @@
-electron not allowed to load local resource
+i am look to use react applic use mobx framework, into electron.i have success load mobx with react, but when i tri to wrap it with electron, i have a consol error messag whi doe the electron say that there he not allow to load local resourc ? electron doe not suppos to have access to local files? how can i solv this ?

@@ -1,1 +1,1 @@
-how can detect devices on my computer with electron desktop build app
+how can we detect hardwar connect to the devic with electron framework.for exampl imag we want to get the dial-up modem readi with electron and use that modem for send fax whit it.i find this packag for use printer but how can use other devic :

@@ -1,1 +1,1 @@
-How to open an electron app without opening a window
+im make a clipboard applic in electron. so far ive made it so you can open the program and it will go in your tray but a window open as well and is not need for my program to run properly. here is my code. ive been scratch my head tri to figur out how to have it run the program without open a window.tiacode: basic i want it to open and stay in the tray and that all.

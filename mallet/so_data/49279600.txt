@@ -1,1 +1,1 @@
-Two Electron windows, hide one from the dock, show the other
+in electron, i am use to keep my app out of the dock and out of the (cmd-tab) app-switcher. however, i'v now creat anoth window (for preferences) and i'd like this to behav like ani other normal window. is there a way to hide a window from the dock (and henc the app-switcher) on a per-window basis?

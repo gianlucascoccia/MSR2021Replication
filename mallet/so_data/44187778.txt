@@ -1,1 +1,1 @@
-Include css stylesheet in electron app
+i creat a style.css file. to includ it in a .html file i tri :none of them seem to work. ani idea how to add css to my app via extern file will be appreciated.

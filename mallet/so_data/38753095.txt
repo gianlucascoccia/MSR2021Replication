@@ -1,1 +1,1 @@
-How to get a unique PC ID via Electron?
+is it possibl to get a uniqu pc/devic id via electron so i can save pc/devic id to mysql server on the cloud? if this is not possibl then what other option i have?th purpos of this to limit how mani devic they can use electron app.

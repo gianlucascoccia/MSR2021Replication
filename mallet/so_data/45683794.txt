@@ -1,1 +1,1 @@
-Change CSS Dynamically in Vue
+is there a way to chang module, but it aw dens and i'm not 100% sure it offer what i need.

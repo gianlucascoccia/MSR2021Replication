@@ -1,1 +1,1 @@
-Electron + Angular2 ngIf/ngClass fails until after user interaction when creating window
+i am build a web app with angular2 and electron and am have problem when open new window in which condit html element will not be shown until a user interact with the electron window.her is an explan of the problem: each of the window i am tri to open is first creat use the follow code such that it begin as hidden:what could be caus this problem? if there is ani more code or inform i can provid let me know.

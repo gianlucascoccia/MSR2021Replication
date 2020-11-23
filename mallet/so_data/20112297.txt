@@ -1,1 +1,1 @@
-AngularJS $routerProvider not working properly in node-webkit
+i'm build a desktop applic with node-webkit and angular. i have been use version 1.0.7 of angular, but i need to updat to take advantag of improv to the framework. unfortunately, the new

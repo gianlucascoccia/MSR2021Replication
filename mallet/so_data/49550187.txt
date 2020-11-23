@@ -1,1 +1,1 @@
-Integrate g-suite (google) for signup and get user roles in desktop application
+i am develop a desktop applic use react electron boilerplate.i need to integr googl signup, but it will not work sinc googl provid the token in a redirect url.sinc it is a desktop application, i cannot fetch valu from a url.https://github.com/chentsulin/electron-react-boilerplatehow can i use googl authent and g-suit api in my app.help would be veri much appreciated.

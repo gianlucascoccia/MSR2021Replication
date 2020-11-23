@@ -1,1 +1,1 @@
-Which Licenses to ship within an NW.js - application?
+i'v just read the section about distribut at the wiki of nw.js and sinc the binari is base on chromium, multipl open sourc licens > notic are need includ the mit license, the lgpl, the bsd, the ms-pl and an mpl/gpl/lgpl tri-license. (this doesn't appli to your code and you don't have to open sourc your code)but i don't know where to find the licens inform i shall includ for chromium . or do i have to ship the general text of the mention licens without ani copyright inform ?

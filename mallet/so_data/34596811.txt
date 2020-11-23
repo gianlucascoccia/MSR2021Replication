@@ -1,1 +1,1 @@
-Dynamic paging with Nightmare / Electron (page scrape)
+i'm attempt to scrape dynam page websit with nightmar / electron. i don't see a way to perform a do... until with nightmar function or a way to chain evalu call with logic. here a simpl code exampl that mere googl a phrase and return the result href from page 1. i'd like this code to continu for each page in the results.

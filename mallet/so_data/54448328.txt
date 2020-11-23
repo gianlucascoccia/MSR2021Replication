@@ -1,1 +1,1 @@
-Why is "-webkit-app-region" not a defined CSS property in most code editors?
+this isn't someth that affect the function of my app, but i'v notic that the "-webkit-app-region" css properti (a chromium window element property) isn't recogn in both jetbrain pycharm 2018.3.2 and vs 2017 communiti edition. doe anyon know whi this is? everi other chromium properti is recogn so i just found it odd that this one was the onli exception.

@@ -1,1 +1,1 @@
-Constrain window aspect ratio in NW.JS
+is it possibl to constrain the aspect ratio of a window in an nw.js app?i have content which is 800 x 600. in the package.json manifest, i can defin the window set as... as soon as the window size is changed?

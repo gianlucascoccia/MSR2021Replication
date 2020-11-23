@@ -1,1 +1,1 @@
-how to build electron app for windows in ubuntu using electron builder
+i have creat an electron app .use electron-build i creat appimag in linux.i want build app for window in linux .but it is throw wine requir error .pleas help to resolv this issue.thi is package.json

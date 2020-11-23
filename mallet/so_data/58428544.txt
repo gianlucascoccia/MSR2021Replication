@@ -1,1 +1,1 @@
-Can I tell one BrowserWindow to pass certain links to another BrowserWindow instance?
+i would like to have two browserwindow instanc and main work with one of them. if in this window i click certain link contain "http" for example, i want to pass those link to anoth invis browserwindow instance. is this possible?

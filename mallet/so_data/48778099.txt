@@ -1,1 +1,1 @@
-Reactjs: error message does not show
+i have a veri simpl react case where i have an error in the render function and noth get log when the state get updat to contain a bad value. when i check the generat source, the data-error properti is get updat so perhap it is an issu with materializecss. no error show in the console. what am i do wrong?

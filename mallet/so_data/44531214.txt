@@ -1,1 +1,1 @@
-runas xcopy crashing my Electron application
+i'm tri to copi a scr file to c:\windows\system32 use runa and xcopi and it crash my application. i'm write in clojurescript so my code look like this:when i run this code, i get ask for the password but then the app just freezes. ani idea what might be wrong here?thank

@@ -1,1 +1,1 @@
-Electron: Uncaught Error: Cannot find module
+i'm build my first electron desktop app and i'm get a "cannot find module" error when i use what gives?

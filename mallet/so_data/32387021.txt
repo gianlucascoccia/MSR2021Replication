@@ -1,1 +1,1 @@
-Using sql.js in an Electron application
+i am new to electron. it pure awesome, and get start is super fun and easy. for some time now i have been tri to find a "database" solut to use in my application. of cours there is the web sql/local storag options, but i am tri to use sqlite. i found sql.js, which is great and easi to use. i could get everyth to run correct put i cannot save/upd the databas file! here is the code:. have you run across this issu befor ?

@@ -1,1 +1,1 @@
-access to resource not allowed on login
+i can access first screen for login though after it return access not allow to local resourceit work well in browser ( i am abl to run my project in angular well in a web browser but becaus it is a desktop applic i have to use electron, when i build to run in electron, it start well, display login but when i press login instead of return display it return a white screen and in console, access to resourc not allowedmain.j

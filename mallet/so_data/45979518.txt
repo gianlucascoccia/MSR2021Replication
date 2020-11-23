@@ -1,1 +1,1 @@
-progress bar when file download in electron application using node.js
+i want to show a progress bar when my video file download in the electron desktop applic use node.jsi had alredi tri progressbar.j librari but it onli show when the download is completed.th bellow is the part of my code where i am use the progressbar.j library.pleas suggest me ani altern librari or the way how to use the gif in electron application.

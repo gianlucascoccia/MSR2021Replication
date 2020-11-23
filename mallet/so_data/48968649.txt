@@ -1,1 +1,1 @@
-jquery not working in nw.js (node webkit)
+i am switch my desktop app from electron to nw.js becaus of sourc code secur features.i am requir the modul jquery-confirm in my nodej file, i get this error:first question:i am assum there is someth wrong with jquery. when i import it in index.html, it doesnt work at all. however, i am still run into issu after requir it in the js file. how can i fix this?second question:whi dont i get the uncaught error: jquery-confirm requir jqueri error if i import my js file use requir instead of ?

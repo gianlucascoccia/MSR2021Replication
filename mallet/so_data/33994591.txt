@@ -1,1 +1,1 @@
-Error “env: node: No such file or directory” with child_process.spawn in only .app (distribution file)
+i get an “env: node: no such file or directory” error when i tri to run my node modul in child process from main process of electron app:.mi environment: mac osx 10.11, electron v0.35.0

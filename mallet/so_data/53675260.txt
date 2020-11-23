@@ -1,1 +1,1 @@
-export/import javascript class like module node into electron with webpack
+in context of basic electon-vu app, i want to creat my own javascript class and use it into main process or render or into vue component.i creat js class but i never find a good way for export my class.al possibl of write import/export modul find in the web finish by same error : undefin exportsit seem that the final js modul webpack contain the connectionmanag class

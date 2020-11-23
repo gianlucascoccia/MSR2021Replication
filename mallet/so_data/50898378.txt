@@ -1,1 +1,1 @@
-Array of instances becomes inaccessible out of scope
+first of i have a class of drug declared:

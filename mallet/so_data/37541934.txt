@@ -1,1 +1,1 @@
-Electron app got cannot find module when run as packaged Mac app
+i need some modul from the client process of electron such as nodegit or fs-extra. so i instal it use from command line, everyth work fine.you can find the sampl project in github.versions: node 5.1.1, electron 0.36.12. i tri node 6 and electron 1, but also failed.ani ideas?

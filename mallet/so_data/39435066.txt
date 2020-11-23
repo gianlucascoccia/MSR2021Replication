@@ -1,1 +1,1 @@
-Change system z-order of BrowserWindow in electron, possible?
+i need to control main window z-order so to say. alway on top is not my case. i want to put my window behind all other and abov desktop. is it possible? is there analogu to c++ setwindowpo function? or mayb some workaround?

@@ -1,1 +1,1 @@
-Move files of electron project to vue
+i'v creat vue project with vue cli 3 and instal electron-builder. on the other side, i'v electron project and i want to move file from my electron-project to vue project. can i do that?

@@ -1,1 +1,1 @@
-Can experimental features like offscreenanvas be enabled in electron?
+a 2d or webgl canva render use offscreencanva could have some interest perform benefits. i'm wonder if there is a way to enabl it in the latest electron. set the experimentalfeatur flag as discuss in this thread did not work. the follow consol logs:

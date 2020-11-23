@@ -1,1 +1,1 @@
-How to configure Intellisense for electron (A nodejs library)?
+how do i configur visual studio 2015 communiti edit to recogn part of the electron api. for exampl electron has electron.app() which is use as an event emitter. how do i get intellisens to recogn function like these which are defin in a nodej modul (handl by npm.)happi to provid more detail if i miss someth or if i wasn't clear, zac.

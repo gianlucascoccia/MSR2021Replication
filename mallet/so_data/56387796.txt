@@ -1,1 +1,1 @@
-exe runs much slower in the case of subprocesses of nodejs
+i have an i wonder if there is ani way to make the program work properly.note: it is an electron application.

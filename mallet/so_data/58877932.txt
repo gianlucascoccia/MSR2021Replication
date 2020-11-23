@@ -1,1 +1,1 @@
-Problem installing electron js on raspberry pi 3
+i instal node js on raspberri pi 3 when i instal electron js with the follow command:how can i rectifi this problem.

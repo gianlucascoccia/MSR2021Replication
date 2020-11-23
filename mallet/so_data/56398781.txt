@@ -1,1 +1,1 @@
-Acess to node modules in Electron 5
+sinc electron recent version 5 have nodeintegr default to fals due to secur reasons, which is the recommend way to access node modules? is there a way to communic with the main process without nodeintegration?

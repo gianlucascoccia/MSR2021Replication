@@ -1,1 +1,1 @@
-download a file on ajax success electron, jsp
+i connect electron, jsp for login, sign up. electron is front side(html,js), jsp(jsp, java) is server side.now i'm tri to download a file from server to electron. (here i set a file (bullet01.png) for test.)flow: when user click a button(ajax get request)serv find file which from url paramet success method get resultmyscript.j

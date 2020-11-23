@@ -1,1 +1,1 @@
-How to create a BrowserWindow in a VSCode extension
+i tri to creat a electronj browserwindow in a vscode extens but not yet successful becaus of statement make the extens fail to load. pleas help! thanks!

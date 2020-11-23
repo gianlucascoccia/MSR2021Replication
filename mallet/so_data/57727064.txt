@@ -1,1 +1,1 @@
-Which stable version of electron supported 32 bit system
+i am start work on the electron. want to know which stabl version of electron work for bellow configuration?o is 32 bitth processor is pentium 3, pentium 4 the hardwar architectur is 32 bit and 64 bit

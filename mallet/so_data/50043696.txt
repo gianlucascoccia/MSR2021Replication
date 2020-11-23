@@ -1,1 +1,1 @@
-Uncaught TypeError with Bootstrap and Angular
+i'v been tri to add bootstrap tag to this question sinc this is an angular project run with electron framework, think now it could be part of the problem.

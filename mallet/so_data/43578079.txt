@@ -1,1 +1,1 @@
-Unable to find system thread 1C10
+i am develop an electron app for window and within the past coupl week the app has begun to crash intermitt without ani appar cause. i download the window debug tool to examin the crash dump and found the error . what doe this error mean? how can i proceed?

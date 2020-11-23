@@ -1,1 +1,1 @@
-Continuously check for connection to specific URL and port
+how do i continu check to see if there is an activ connect to a specif url and port? i am abl to preform the check initi on app launch by go with:how do i check if the connect is lost and reconnected. i didn't want to wrap it in a setinterv function. that seem hacki to me. there has to be a better way to accomplish this.

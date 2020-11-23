@@ -1,1 +1,1 @@
-Light problems nwjs and threejs
+i'm have problem with the light in my proyect, i'm just use normal direct light.but the problem is that with the 0.12.3 version of nwjs the object in the scene are black (like if there was no lights) and sometim the start flicker in red, black and green.if i chang the origin libegl.dl and libglesv2.dl with the one in the 0.13.0 version of nwjs it work fine but onli in some hardware... i don't know whtas go on, what can i do to make everyth work just fine?thank

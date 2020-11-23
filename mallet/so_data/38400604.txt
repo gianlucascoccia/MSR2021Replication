@@ -1,1 +1,1 @@
-Node.js electron-prebuilt error cannot find module 'browser-window' windows 10
+right now i'm tri to learn how to program a desktop app use electron but i'm get this error when tri to run npm start use electron-prebuilt with nodej x32 on window 10 x64:node version: 4.4.5npm version: 2.15.5

@@ -1,1 +1,1 @@
-emberJS squashing nwJS require() method
+i have a nwjs applic that point to a web address that contain an ember application. insid the ember applic i need to get access to the node context to see what os the user is run in order to do an updat check. i do that in an initi like so.

@@ -1,1 +1,1 @@
-Error header post request when compile window app with Electron
+i wrote an applic for window with create-react-app, electron and flask.when i run develop mode, file are sent via fetch with formdata to flask server. the header has . but when i compil the app with electron on window (.ex with electron-builder), the backend flask server alway get bad request 400 with header "content-type: text/plain".how can i config the builder to keep the header right or use anoth method to communic between app and server?

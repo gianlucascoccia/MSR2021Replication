@@ -1,1 +1,1 @@
-Electron App with Angular 2 reload issue
+i'm work on an electron desktop app with angular 2. everyth boot up just fine and work as it should, but it fail when i reload the application. it appear to be an issu with the routing. with no rout the app will reload just fine and display the chang made, but with rout it return a blank html page (even the entir main index.html is complet void of ani resources). has anyon ran into this issue, or perhap understand where the process is fail and how to fix it?

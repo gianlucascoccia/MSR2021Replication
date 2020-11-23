@@ -1,1 +1,1 @@
-Preload script not loading in electron@5.0.0 browserview
+i tri load a preload script insid browserview. accord to the document browserview accept the same argument as the browserwindow accepts. but the preload script not get load in the view, not either an error messag in the console.i inspect the command line of the new process, which also doe not show a preload arguments. can anyon help me identifi where it went wrong?electron version: 5.0.0 , 5.0.1 also not workingo version : window 10 x64

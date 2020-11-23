@@ -1,1 +1,1 @@
-Consuming RESTful APIs using Electron
+i would like to make some request (get, post, put ...) for a rest api befor display ani window of my electron applic (use electron app as a client). is it possibl to use clientrequest to do this? would anyon has an example?thank you veri much.

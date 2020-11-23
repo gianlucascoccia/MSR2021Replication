@@ -1,1 +1,1 @@
-how to access another application's text field in electron
+i wanna make an electron applic which need to access to anoth applic input field so that i can chang those text to my string variable.for example,if my electron applic is run in background and i made a test string

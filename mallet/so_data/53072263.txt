@@ -1,1 +1,1 @@
-electron-builder package for windows in dev mode
+i need to test my app on windows, but i am use a mac. it is veri easi to packag the app to run on windows, but i cannot packag the app in dev-mode. i am use electron-is-dev to decid if i am run in dev or not. i need to run my test on window becaus i am test a veri specif window hardwar functionality. i don't want to comment my ?

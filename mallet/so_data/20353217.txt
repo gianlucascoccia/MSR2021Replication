@@ -1,1 +1,1 @@
-Node-webkit not working on Linux(CentOS)
+i am tri to build on linux machin then it respons islib64/libc.so.6: version glib2.14 not found.lib64/libc.so.6: version glib2.15 not found.

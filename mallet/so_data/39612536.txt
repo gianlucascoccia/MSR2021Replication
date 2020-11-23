@@ -1,1 +1,1 @@
-Creating multiple instances of Angular2 app as Child to Parent in Electron
+i am tri to creat a sticki note kind of desktop applic use electron.i creat a transpar mainwindow and creat 2 childwindow which load the same index.html file of the angular2 app.qs: how do i interact with the childwindow consid that the number of childwindow can vari (ad or removed).a of now when i close the 2 childwindow the electron app still doe not shut down becaus there is no way to close the main window.i need to detect that all child window instanc have been close which should trigger the

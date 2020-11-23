@@ -1,1 +1,1 @@
-When building ionic desktop app I get windows-build.js not found
+i have been follow a tutori on use electron with ionic. all was fine until the final build.so i put:not sure what to tri to resolv this, have tri search the net but can't find anyon els that has had this issue.ther isn't a windows-build.j fine in src/ which will be the issue, but follow this tutori - https://www.9lessons.info/2018/10/ionic-electron-desktop-app.html it not there to manual add anyway.

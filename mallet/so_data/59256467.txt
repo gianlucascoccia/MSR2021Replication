@@ -1,1 +1,1 @@
-How do I access nedb results in a function
+write a function to pull inform from nedb and return resultat the consol log line, point is return as expectedi tri to refer point on the return line below and it undefined.i know this is simple, but i can't figur out what i'm missing.

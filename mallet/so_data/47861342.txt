@@ -1,1 +1,1 @@
-Opening files in electron.js
+i want to make electronj text editor app and i want be abl to open new window with a script that was written insid of the editor. for example, i have small script in my editor and when i press open in browser, it open and load in browser window. here is part of my code.

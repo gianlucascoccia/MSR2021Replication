@@ -1,1 +1,1 @@
-how to make splash screen in electron application?
+i am make an applic with the help of angular 2 and electron.i want to add a splash screen in this. i don't know how to do it. pleas help me...i am also confused, where to put this splash.html file.

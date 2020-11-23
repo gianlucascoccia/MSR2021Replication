@@ -1,1 +1,1 @@
-Javascript invalid regular expresion error in NW.js
+i have a regular express which i need to test with a string, it work when i test it onlin how can i get this to work ?

@@ -1,1 +1,1 @@
-Why does my electron app doesn't launch after packaging?
+i have problem with project(https://github.com/gordienko-ru/plant-log), there are angular bundl in dist folder and electron main file into electron folder, but after packag with electron-builder, applic doesn't run. i guess there are some problem with my config in to package.json

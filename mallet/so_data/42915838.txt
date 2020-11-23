@@ -1,1 +1,1 @@
-Electron inside Docker with X11 Forwarding - No Protocol Specified
+i am attempt to run the electron quick start in a docker contain with x11 forwarding. i'v got all the appropri packag figur out but when i run the contain i get q: what is the correct way of run electron app insid docker?

@@ -1,1 +1,1 @@
-Electron app crashes after few minutes
+i'm creat a clock applic use electron(1.4.13) on mac os x (10.11).when i run this, it tray icon diappear after few minutes.and the context menu will not work correctly.(app crash by select an menu item)it will work without problem until it run for sever minutes.main.jshttps://github.com/electron/electron-quick-start/blob/master/main.jsindex.htm am not sure what caus this problem.what am i do wrong?i creat a repo on githubhttps://github.com/studio-nuages/electron-exampl

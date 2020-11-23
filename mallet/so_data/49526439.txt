@@ -1,1 +1,1 @@
-How to create file using NodeJs with custom file icon ? Or I want to set overlay icon while creating file using NodeJS
+i develop applic in nodejs. i want to make overlay icon of file when create. (window and mac) but i can't found ani way use nodej while creat file.so i think if file icon chang when creat file that is also acceptable.

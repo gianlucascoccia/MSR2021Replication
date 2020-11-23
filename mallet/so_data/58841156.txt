@@ -1,1 +1,1 @@
-Requiring Javascript Inside Subfolders in Electron
+i am work on an electron project that is laid out similar to this:i am fair new to nodejs, especi electron, so i may be fundament misunderstand imports/requires, but i would realli like to reorgan the project, as it is far too cluttered.for regulatori reasons, i cannot share ani actual code, but the layout is 100% ident to the actual code, with the except of the filenames/cont be sanitized.thank you in advance!

@@ -1,1 +1,1 @@
-Does electron-builder minify code or do I have to do that myself?
+my electron applic is get bigger and bigger, with lot of html, js and css sourc files. what i need to know is if when creat the distribut with electron-build by run i use visual studio code and could use gulp but i need to know if there some other method most peopl use, if they do care about minifying/obfusc code. i would prefer not to separ my script into two folder and minifi from one to another. mayb there a tool that doe this at creat the distribut

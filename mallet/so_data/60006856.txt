@@ -1,1 +1,1 @@
-Ionic 4 + Angular 7 + Electron + Ag Grid. Problem is export feature of AG grid with electron build is not working
+the problem is export featur of ag grid is not work proper with electron build. it doesn't show the extens of the file. can ani one know why? it happening. when i click on export xlsx it doesn't show me the file extenson onli show export as a file name.

@@ -1,1 +1,1 @@
-How To Falsely Report Browser Features as existing or not existing
+this site (https://html5test.com/index.html) can be use to list browser featur upon visiting. i'm use electronj (chromium-based) and i'd like to have control over the featur that get report to featur detect mechanisms.i can do someth like ? there are also mani form field type (date, month, week, time). how can i emul them?i would also like to know how to report ani such featur as missing. there are more featur i'd like to remov than add.

@@ -1,1 +1,1 @@
-What is the difference between mwc.js and mwc.esm.js?
+i creat a stencilj project that has a bunch of web compon bundl in my mwc project. from within stencil, i can execut what is the differ between the mwc.js and mwc.esm.j files? whi won't the mwc.js file run my for-loop properly?

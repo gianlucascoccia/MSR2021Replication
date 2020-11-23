@@ -1,1 +1,1 @@
-How to open a browser window from a node-webkit app?
+i have a desktop application, packag use node-webkit. i need to open the default browser of the user on click of a link. i am use but this open a new node-webkit window rather than open a browser window. how do i open a browser window instead??

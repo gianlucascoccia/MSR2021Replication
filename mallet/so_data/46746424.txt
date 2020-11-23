@@ -1,1 +1,1 @@
-click event triggers without button click
+hi i'm new to js and could use some help. so i am basic tri to send some text from a textarea to a function call

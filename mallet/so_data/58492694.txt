@@ -1,1 +1,1 @@
-Error: Image Not Found when running Electrong-forge app on MacOs
+the .app make file made use electron-forg is fail in maco due to an imag not be found. what on earth is this imag it is refer to and how do i set it in electron-forge.i have attempt to figur out how to use builder, but forg was much easier to setup. forg made window and linux execut no problem that ran with no issue. but mac is have an issu run it. the make file is creat with the command

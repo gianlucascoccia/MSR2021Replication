@@ -1,1 +1,1 @@
-How does Chrome handle videos stored in memory?
+im build an applic with electron. my applic has hundr of video that are activ use the basic html5 video play and paus functions. the app sometim use as much as 8gb of memory. this is fine for me becaus i have 16gb of ram, but i am unsur what would happen on a comput with less ram. would my applic crash on a system with less ram, or doe chrome automat delet video out of the memori to make space? if so, how doe it choos which video to delete? is this what is known as "garbag collection"?

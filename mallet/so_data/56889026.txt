@@ -1,1 +1,1 @@
-Reacting to ipcMain events in Spectron
+i have an electron applic that first start a launcher window (in a render process) that start sever background services. after those background servic start success it send obviously,... how doe that work to in js?

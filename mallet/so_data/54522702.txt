@@ -1,1 +1,1 @@
-Drag'n'Drop into Electron app is not allowed
+i am tri to implement drag'n'drop function for user to easier upload their images. in browser the drop area work perfect but electron is prevent file to be even drop into the app. everi time i tri to drop a file cursor chang to the one shown below and noth happens. i thought mayb electron had config to disabl drop file by default due to popular complain but i couldn't find ani solution. the pictur show the drop area, but the same issu is all across the app.main.js:&#xd;&#xd;&#xd;&#xd;&#xd;

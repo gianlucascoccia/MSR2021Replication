@@ -1,1 +1,1 @@
-Electron Tray Icon doesn't show after once I package
+i'v got an electron app that show a tray icon, which, when clicked, show my main window. work great in develop mode, but when i packag it, (into a .app file), and doubl click the .app file, none of the menus show up, and more importantly, the icon doesn't show up, and so the user can never see my app.i'm use the electron react/redux boilerpl (https://github.com/chentsulin/electron-react-boilerplate)her my main.dev.j file - ani guess are appreciated:

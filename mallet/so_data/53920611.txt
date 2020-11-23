@@ -1,1 +1,1 @@
-Using Python + Selenium for Electron-based app testing
+there is a lot of document on use spectron for test applic built use electron.a i have a lot of util written in python, i would like to know if there is ani way to use python-selenium for test app built in electron.from a few onlin resources, i found a few peopl were abl to do it (though not the latest version, which i am use currently). i was abl to launch the app use below code, but the call webdriver.chrome() is a block call, and i never get the driver instance:thanks.

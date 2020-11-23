@@ -1,1 +1,1 @@
-Node.js sporadic 'ECONNREFUSED' error on request.get
+i'm have a sporad issu with my node/loopback server. my setup is as follows:edit: my node version is v4.2.4, i'm run node on window 10 professional.cli side:nw.j client that travers the local file-system and comput the md5 valu of files.us a i'v tri put in differ callback within the server code but that has not made ani difference. i think i should probabl throttl the request to the server but i don't know how to achiev this.ani help would be great appreciated.

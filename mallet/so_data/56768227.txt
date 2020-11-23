@@ -1,1 +1,1 @@
-fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64' during npm install
+i am write code to load c++ dll from electron. my dll is 32 bit. i am use nan and bind to achiev this. i use the follow command to set build for 32 bit:but i am wonder whi npm instal fails.

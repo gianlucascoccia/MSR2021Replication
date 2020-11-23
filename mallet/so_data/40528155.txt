@@ -1,1 +1,1 @@
-How to connect iPhone/Android mobile via USB using nodejs/Electron?
+i'v to connect/detect iphone/android mobil connect with pc through usb and perform some oper like reboot devic and perform a format. it a cross-platform desktop app, for which i'll use electron i'v research a littl bit and find out there a librari call libimobiledevic which can be use for connect with ios. but i couldn't find ani wrapper or librari for nodej or electron. and also don't have ani clue on how to do the same with android. pleas help me with this. :)thanks.

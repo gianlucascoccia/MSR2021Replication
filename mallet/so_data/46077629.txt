@@ -1,1 +1,1 @@
-JS How to execute stdio operations and Ui operations from same js file?
+i am tri to do two task in main.j of electron app1) listen standard io port and repli when app get message.2) load ui (index.js)part (1) or (2) work fine individually, but if i tri to execut them at a time from main.js, they do not work.pleas let me know the way to execut them together.

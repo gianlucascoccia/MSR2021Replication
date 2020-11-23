@@ -1,1 +1,1 @@
-I Can't get Epoch charting library working with electron app
+i tri to make electron desktop app which use epoch real time chart library. i got the electron app run nice and made some epoch chart in basic node environ but when i tri to combin electron and epoch i got an error: uncaught typeerror: $(...).epoch is not a function.i have tri to load jquery.js, d3.js and epoch.j modul from index.html (code exampl 1) or requir them from javascript (code exampl 2).

@@ -1,1 +1,1 @@
-Listening for Electron's ipcRenderer message inside a Vue component
+currently, i'm use vue insid an electron application. insid a vue master compon there are possibl multipl children. each child listen to a signal that might be broadcast by electron main process, like so: signal insid the master compon and then use vue event system to broadcast the messag further down to the children? or is there a better way to deal with this?

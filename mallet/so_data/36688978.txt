@@ -1,1 +1,1 @@
-Node-Webkit: Window object become broken after changing location
+i'm use node-webkit 0.13.4.when i open second window with i chang locat to some-remote-address.com normally. at second time when i'm chang locat from some-remote-address.com to second_window.html all is fine too. but when i chang url from second_window.html to some-remote-address.com at second time this.secondwindow.window is broken and have empti locat objectwhen i locat on some-remote-address.com and chang not url, but chang get paramet "channel" all is fine

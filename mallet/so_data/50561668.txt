@@ -1,1 +1,1 @@
-How to get information of currently running other windows/ mac applications from election.js?
+i am work on one applic in which i want to get the inform of other windows/mac applic which are current up and running. i also want to get their cpu usage. is there ani way to get this from electron?

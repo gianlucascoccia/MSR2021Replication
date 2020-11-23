@@ -1,1 +1,1 @@
-Electron Vue Can't load html file when opening a new window
+i'm tri to open a new window use the top bar "file->new window" and onc the user click on that option, a new window will open (which is working), just that it keep open a blank window and not the html file that i ask it to load...mi code for creat the small browser window (after the user click new window):-ther are no error on the termin and also the consol in the develop tool

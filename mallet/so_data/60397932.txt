@@ -1,1 +1,1 @@
-How to pass download.prompt_for_download in Spectron
+is there is way to pass pref option in spectron?

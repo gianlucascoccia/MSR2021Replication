@@ -1,1 +1,1 @@
-Electron + Typescript File Structure
+i have a problem to structur my page should be insid the same directory.

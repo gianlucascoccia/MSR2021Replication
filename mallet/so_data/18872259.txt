@@ -1,1 +1,1 @@
-Give focus to text-entry field in prompt in node-webkit
+in most browsers, a javascript prompt() give focus to the text entri field so the user can begin type immediately.in node-webkit, a javascript prompt() give focus to the prompt window, but not the text entri field. the user has to click insid the field befor typing.how can i set the focus to insid the text entri field when use a prompt in node-webkit?

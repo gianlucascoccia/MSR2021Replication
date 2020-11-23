@@ -1,1 +1,1 @@
-Angular can't see my Array change in the view
+i'm use angularj with node-webkit and make a desktop applic with nedb(a an embed database).mi problem is that when i load (via a service) list of object from the databas and tri to show them in the view (use ng-repeat), the view can't see the load data (look like it is not get ani update)when i put a static data :ani help ?

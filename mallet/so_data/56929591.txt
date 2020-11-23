@@ -1,1 +1,1 @@
-Error calling a python script in electron.js
+i'm tri to call a python script when the user click a button. i'm use electron.js. when i call the script at the begin of the applic it is call correct but when i tri to do it when the user click to a button it is not executed. i'm use the js modul python-shell.her is my code:main.js:i repeat that if i write the content of testmodem.j in the main.j file it is execut correctly. what i'm do wrong? the path is correct. do i have to includ some line in my code?thank you

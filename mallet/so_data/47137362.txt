@@ -1,1 +1,1 @@
-How do I put an application to run in the background when it's closed?
+i am creat an applic on node.j use electron and i need it to continu run in the background when it is close and becom an applic icon next to the comput clock for the user to have access to. but i did not find refer to do this task, so the question is:how do i put an applic to run in the background when it closed?

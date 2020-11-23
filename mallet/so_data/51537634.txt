@@ -1,1 +1,1 @@
-How to write transparent image to clipboard in Electron
+i have tri to use clipboard.writeimage() to write a nativeimag with transpar into clipboard. but after i past the image, it transpar part turn into black. so how can i write the imag correctly?environment: window 10, node v8.11.3, electron 2.0.2

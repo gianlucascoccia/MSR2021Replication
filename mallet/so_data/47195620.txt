@@ -1,1 +1,1 @@
-Unable to add Realm to Electron App
+tri to add realm to an electron app, i get the follow error..

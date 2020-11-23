@@ -1,1 +1,1 @@
-How can I implement a native custom submenu with electron in render process
+i want to implement a nativ submenu with electron like this.i look all of https://electronjs.org/docs/api/menu, but i can't find anyth about custom menu with electron, how i do next? i have no idea.

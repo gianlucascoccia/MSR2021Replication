@@ -1,1 +1,1 @@
-How to get permissions to create a file/directory with node fs
+when run the follow in my packag electron app:. this doesn't happen when i'm in dev mode. it onli happen after i packag and run the app.how do i get the appropri permiss to creat a directory, or even a file, in a packag electron app?

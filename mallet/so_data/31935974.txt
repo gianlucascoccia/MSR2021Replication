@@ -1,1 +1,1 @@
-npm install printer not working
+while i am tri to instal printer (npm instal printer) i am get this error. anyon pleas help me how to fix this issue.

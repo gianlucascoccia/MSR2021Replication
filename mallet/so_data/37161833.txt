@@ -1,1 +1,1 @@
-Electron Js: Unable to install using .msi because the path is too long
+i have creat a packag of electron applic by use and creat msi project use visual studio setup project.problemwhil instal the applic i am get the follow error:i just cannot renam the file or chang the locat as it a part of node modules.pleas help and suggest what should i do.

@@ -1,1 +1,1 @@
-How can I pull Vue Router pages from the server?
+i'm build an electron app that need to have multipl pages. i'v look at vue router (i'm alreadi use vue) as a rout system, but i'd like to store everi page a a separ html file.i'v tri a coupl of things:mak an ajax request to the page, then put it content into the route. when tri to navig to the route, i got a to stop working.i'm open to use other rout systems, too. vue router just seem the most convenient.thank you!

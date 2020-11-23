@@ -1,1 +1,1 @@
-Using node require with Electron and Webpack
+i am build a project with electron, and use webpack to build the (angular 2) render process app.in this app, i need to dynam and at run-time, it will look in it own intern modul registri for the dynam "mymodule" file, and of cours will not find it.i have tri use the "externals" config option, but sinc this is a dynam require, it doesn't seem to be process by "externals".anyon els had success in solv this problem?

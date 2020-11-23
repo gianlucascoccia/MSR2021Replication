@@ -1,1 +1,1 @@
-How to reduce upload time while uploading multiple files
+i have an directori with small file at minimum rang from 2000 file to 10000 files.curr there is no method to direct upload folder to s3 in aws-sdk-js.i need to recurs loop through file insid folder and upload it to s3.i use this line of code.i test with folder with size 108 mb but it have 2700 file in nest folder insid it.it take more than 45 min to upload.so how to reduc the time of upload ??? advanc in thanks.

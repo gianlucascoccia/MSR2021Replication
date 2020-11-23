@@ -1,1 +1,1 @@
-Adding electron application path to user environment variables after install
+problem description:i have an electron applic and i need to add the applic to user environ variabl after user instal my application, so that they can run command like this ?

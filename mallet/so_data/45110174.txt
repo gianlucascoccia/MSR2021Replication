@@ -1,1 +1,1 @@
-Materal Design Lite overflows page when adding things above main wrapper
+i'm creat an electron applic use the materi design lite library.i'v ad a status bar at the veri top to allow close minimis ect but it seem to conflict with materi design lite becaus it add 30 pixel to

@@ -1,1 +1,1 @@
-Selected array of div with <a>
+i have an understand or css and html, but i'm quit new to javascript...so, i have a div that has two functions. &#xd;&#xd;&#xd;but electron doe not support this feature. so i have creat my own but if anyon could help even if i can somehow pass the variabl to the method in the background.

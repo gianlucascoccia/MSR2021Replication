@@ -1,1 +1,1 @@
-npm install on windows from existing electron project
+i have an app that i built for windows. i develop the app on a linux desktop with . do i have to modifi the modul itself?

@@ -1,1 +1,1 @@
-NG-Bootstrap - Dropdown - Select Value
+i'm use this code for the dropdown menu for my electron app currently:i found it here:https://ng-bootstrap.github.io/#/components/dropdown/exampleswhat i want is, if i click on exampl a, i want this to show as the select value. so instead of "select value" there is "exampl a" then.

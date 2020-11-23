@@ -1,1 +1,1 @@
-Peer dependency for Node
+is there a way to know what version of , i am fine. is this someth that the applic vendor would specifi in changelogs, or, is there anoth way of figur this inform out?

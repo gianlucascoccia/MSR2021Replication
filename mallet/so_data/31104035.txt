@@ -1,1 +1,1 @@
-Read internal and external files with node-webkit
+i use nw.js and zip follow file into a

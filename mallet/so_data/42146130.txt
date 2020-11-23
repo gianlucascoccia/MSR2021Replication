@@ -1,1 +1,1 @@
-nwjs uri scheme internet explorer
+i have an nwjs applic for which i have regist a uri scheme in the registry. i have tri to chang all user face refer to nwjs to the name of my application, so that the user know that they are in the right place. however, i still get the follow when attempt to launch from internet explorer:internet explor nwjs launch from urii can't find where that set. (firefox base it off of the .ex file description.)

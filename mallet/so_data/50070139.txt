@@ -1,1 +1,1 @@
-Can't run Electron app - EINVAL: invalid argument, lstat
+i'm get the follow error whenev i tri to run my app:mi how can i solv this?

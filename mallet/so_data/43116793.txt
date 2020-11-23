@@ -1,1 +1,1 @@
-Using MongoDB locally (electron)?
+i need to store some data as part of my electron application. i know how to set up a rest api, and serv my applic like so. however, is it also possibl to use (e.g.) mongodb locally, and implement someth similar to a rest api locally? i would like to not assum an internet connect for this project.

@@ -1,1 +1,1 @@
-this.app.client.electron.remote.app.getApplicationMenu() returns undefined
+i am work on set up e2e test for electron app that has custom menus. i want to test these custom menus. i tri sever way to access getapplicationmenu() from spectron applic client. but all of them return undefined'.

@@ -1,1 +1,1 @@
-How to open Electron-based application using Nightwatch framework?
+i am look to autom electron base application, use nightwatch.jsi tri to do it use java/selenium but did not succeed as i was abl to open applic but not abl to perform ani action after opening.now i read about nightwatch js which use webdriverio which can help us autom web base applications.a electron app is window base applic which open web view in it so think of use it.

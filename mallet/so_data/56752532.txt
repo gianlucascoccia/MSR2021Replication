@@ -1,1 +1,1 @@
-glibc_2.27 not found electron
+i'm tri to execut an electron app on my raspberri but i got an error.i have tri to chang the version of electron to the 3.0.13 (i had search on internet and said that this was the solution, but didnt work)when im tri to run my program it has to start it, but instead im get this error

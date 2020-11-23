@@ -1,1 +1,1 @@
-I am getting an error while connecting to sqlite3 database
+i am get an error while connect to . then it will work. but it return anoth error electron_asar.js:173 uncaught error: the system cannot find messag text for messag number 0x%1 in the messag file for %2. \?\path_to_project\node_modules\sqlite3\lib\binding\electron-v1.4-win32-ia32\node_sqlite3.nodecan anyon suggest a solut for this? i search a lot, but no solut found for this one.

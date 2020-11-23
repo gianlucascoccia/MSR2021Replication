@@ -1,1 +1,1 @@
-Node webkit app - nw is undefined if it's navigated to local file system
+i have creat an ionic 3(a5) app. i am run this as node-webkit (nw.js) app on mac. if i navig to a local filesystem nw doe not work. say someth like this in package.json - "main": "file:////users/prasoon/desktop/testnw/index.html", nw becom undefin and i am unabl to access ani node apis. ani way to fix this?however, thing work fine if i just use "index.html" in package.json by place index.html besid package.json.

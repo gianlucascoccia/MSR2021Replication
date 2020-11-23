@@ -1,1 +1,1 @@
-Angular, Electron, Webpack live reloading
+summary:i'm tri to creat an electron and angular app that use electron-reload and webpack for live reloading. in my package.json file, i build angular and then run electron which run the main process and bootstrap angular. in order to start the application, i run the commands:

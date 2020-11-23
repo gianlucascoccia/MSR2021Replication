@@ -1,1 +1,1 @@
-node.js - How to pass data from controller to middleware in expressjs?
+i have an electron app i need to serv file from a certain directory. but the address if that directori is onli discov in runtime. so i'v made this middleware: address to the middlewar in some way so that when the request is made to retriev the imag the middlewar know where to look at. how is it possible?i was think of put the data in the request object somehow but i don't know how.

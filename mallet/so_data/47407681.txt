@@ -1,1 +1,1 @@
-How to customize menu in electron app?
+i have one frameless electron app which can be run on window and mac system. i have learn how to set applicationmenu and contextmenu(right click only). but, i want to set an imag like set and click on that will open the custom menu (which have it html, css and js) which catch the event like focusedwindow to get the current focusedwindow. how can i achiev this functionality? below is the imag which describ what i am tri to do.

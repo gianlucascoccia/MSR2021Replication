@@ -1,1 +1,1 @@
-Electron - Processing Input
+i recent start to get my feet wet with electron. i realli like the principl behind it but i find it a littl confus to do some things.for example, how do you process user input? i'v an main.j and a browserwindow point to a local html file (contain some user set with input field). how do i access this data when the html form is submit (to either the same file or anoth one)?main.j

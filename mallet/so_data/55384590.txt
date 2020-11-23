@@ -1,1 +1,1 @@
-Electron PDF window navigate to page number possible?
+is it possibl to jump to pdf page number use the electron pdf window library?https://github.com/gerhardberger/electron-pdf-window

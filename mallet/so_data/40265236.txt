@@ -1,1 +1,1 @@
-TypeError : Cannot assign to read only property '_id' of { ... }
+i am tri to acquir a keyboard string and save it in mongodb, use the

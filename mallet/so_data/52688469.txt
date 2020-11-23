@@ -1,1 +1,1 @@
-Speech to text in Electron
+is there a way i can record audio in electron? i would also like to find out if it is possibl to use googl speech api to convert speech to text in electron

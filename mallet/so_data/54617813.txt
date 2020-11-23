@@ -1,1 +1,1 @@
-Can't get started with the Hello World Electron app example
+i'v gone through the "your first electron app" and follow this and other tutori to get started, but onc i use to mayb get a better error message, but it didn't help me.

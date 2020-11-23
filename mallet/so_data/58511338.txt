@@ -1,1 +1,1 @@
-Electron and React - How to fix Invalid path of lazy loaded chunk
+i am tri to wrap reactj applic with electron. react applic was creat use create-react-app. everyth work as expect if i run electron app local (dev mode). if i tri to creat a product build i am face with the follow issu shown below:3.a8632079.chunk.j has an invalid path. this chunk is generat if i lazi load a compon (e.g. login component) with react.lazy(). if i remov lazi load, everyth work as expect in product mode.follow solv the issu (ad into main.js):

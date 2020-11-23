@@ -1,1 +1,1 @@
-Typescript "exports not defined" error when not exporting
+i am build an electron app use typescript. i have set up my

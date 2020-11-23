@@ -1,1 +1,1 @@
-Handling config files with webpack
+i have an electron app that i'm build with webpack 2. i have a config file that i'm includ like a normal webpack resource:

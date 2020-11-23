@@ -1,1 +1,1 @@
-Passing changed variables to a JS function which sources and runs in HTML file
+there is the file and return the variabl i needed. but this is some strang solution, in my opinion.

@@ -1,1 +1,1 @@
-Electron - maximize button
+i'm make an electron app and have remov the titl bar to make my own, use html and ipc-send to the main.jsi have success been abl to maximize, minim and close the app, but i wonder - onc maximized, what is the electron-funct that call the "back to window" event that a normal maxim button switch to onc the window is full screen?

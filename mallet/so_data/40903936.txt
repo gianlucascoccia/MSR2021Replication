@@ -1,1 +1,1 @@
-Make Windows 7 apps with ionic
+ionic can creat uwp applic which work on window 8/10, but i want to creat desktop app which work on window 7 too. electron can do that but that cannot work with android. i need to make a singl app that work on window 7, ubuntu and android. on visual studio communiti 2015

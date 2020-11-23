@@ -1,1 +1,1 @@
-Electron child window doesn't want to call its own js script
+i'm veri much not a javascript person, but i'v been make an electron gui, and i'm get confus by whi i can't seem to make a child browser window call it own js.i have a main.j that doe a bunch of things, set up a tray menu, one option of which will spawn a browser window like this:am i miss something? again, not a js person (i'm build a gui to a python script, which is otherwis work great), but it seem like it should be obvious...thanks!

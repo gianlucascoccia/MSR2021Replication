@@ -1,1 +1,1 @@
-Adding Apple in-app purchase to Electron HTML/JS app
+is there a way to add mac app store in-app purchas to electron html/js application? there are app store modul for phonegap, nativescript, impactj etc but i can't seem to find anyth for electron or pure js.

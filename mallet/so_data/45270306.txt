@@ -1,1 +1,1 @@
-Correct way to save User-Data in Electron
+hello, stackoverflow community.i am current program an electron applic which contain a login.mi login is work perfect but now i do not know how to correct save the inform from the user. the user should not be abl to edit the file or the cooki type of thing so that he cannot abus the system to be anoth user without know his password.i hope you can understand my problem and help me out!

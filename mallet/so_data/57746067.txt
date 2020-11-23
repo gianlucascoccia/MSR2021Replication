@@ -1,1 +1,1 @@
-Electron externalDisplay bounds
+in the electron doc (https://electronjs.org/docs/api/screen)whi do they add

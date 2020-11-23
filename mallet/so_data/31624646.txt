@@ -1,1 +1,1 @@
-AngularJS routing causing issues with server calls
+i am use button while data is be sent from server to client.i there ani way on rout from /home to /login, we can cancel all server calls?

@@ -1,1 +1,1 @@
-upgrading node for electron
+i am creat an app use electron framework but when i'm tri to use async function it give me an error.becaus my electron use node version 6.5.0 but node in this version doesn't support async functions.so i am tri to upgrad my electron node but i don't know how to creat a branch or stuff like that sinc https://electronjs.org/docs/development/upgrading-nod is the onli link i found to explain this matter but i can't understand it. can i upgrad node in my electron framework in anoth way?

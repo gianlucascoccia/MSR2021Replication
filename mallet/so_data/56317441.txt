@@ -1,1 +1,1 @@
-[linking_electronJS-with_nodeJS]
+i want to build a window execut applic with electronjs. how to includ node.j or server side work in electronj file? i want to design a basic login page with all the requir logic includ backend authent from the server. i have separ design an electron app which display sytem inform and a separ node.j basic function website. how to link both? i hope my question is clear.

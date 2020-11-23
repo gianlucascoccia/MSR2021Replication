@@ -1,1 +1,1 @@
-Electron require mystery
+i am use electron 1.5.on the render process i have tri three differ way of includ react. all work, and that has me reali confused. can anyon explain?i have put react direct in the window.html

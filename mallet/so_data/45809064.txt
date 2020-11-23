@@ -1,1 +1,1 @@
-registering custom protocol at installation process in electron app
+hi i am new to electron and was wonder how i can regist a custom protocol for the app at the time of instal process of the app.i am use electron-build for build the app. here is the build build codebut it onli doe if i run the app at least the first time.which i don't want there is no guarante that the user will launch the app after installation.so is there a way that i can regist the custom protocol in the instal process use electron-build

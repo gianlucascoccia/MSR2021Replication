@@ -1,1 +1,1 @@
-Is there a way to expose "find" functionality in a node-webkit application?
+do i need to write my own find function to allow user to find text content on a page, or is there a way that node-webkit can expos pre-exist webkit find functionality?

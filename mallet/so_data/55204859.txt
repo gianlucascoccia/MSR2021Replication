@@ -1,1 +1,1 @@
-How to import CSS to React (electron.js) Project?
+i creat a simpl react/electron project with "electron-forge" plugin : i'm pretti sure i have the file in the correct folderand i am sure that this is how it done in reacthttps://facebook.github.io/create-react-app/docs/adding-a-css-modules-stylesheet

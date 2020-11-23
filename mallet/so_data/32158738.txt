@@ -1,1 +1,1 @@
-Python on Electron framework
+i am tri to write a cross-platform desktop app use web technolog (html5, css, and js). i took a look at some framework and decid to use the electron framework. i'v alreadi done the app in python, so i want to know if is possibl to write cross-platform desktop applic use python on the electron framework?

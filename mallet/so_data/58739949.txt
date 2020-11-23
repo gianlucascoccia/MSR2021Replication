@@ -1,1 +1,1 @@
-fs.writeFileSync not working after build electron app with electron-buider
+im work with electron like belowbefor build with electron-builder, everi thing work correctly, test.json chang fs.writefilesync but when i build app with electron-build fs.readfilesync still work correct but writefilesync not work. test.json doe not chang when i add some data

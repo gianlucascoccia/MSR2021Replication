@@ -1,1 +1,1 @@
-What database to use for my Electron offline Application
+i'm about to choos a suitabl local databas for my offlin electronj application. the desktop app must add/update/delete/retriev data from json file locally. the databas structur is as follow : object will have less than 500 transact a day

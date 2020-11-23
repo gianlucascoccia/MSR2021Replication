@@ -1,1 +1,1 @@
-vue-i18n with vue-electron : TypeError: Cannot read property '_t' of undefined
+i build a app for desktop use electron.j + vue.j and plugin vue-electron, electron-window-manager.now i need put vue-i18n and it structur work non default way...ex. mainwindow are like toolbar or main menu. other menus(windows) are open by the main menu and with this combin of technolog the vue-i18n do not work fine.thi is a repo: anderzilla/vue-electron!i have tri solut likevue-i18n tutori kazupon!but the error messag is:th "$t" is the problem... i onli need this for i18n aplication.

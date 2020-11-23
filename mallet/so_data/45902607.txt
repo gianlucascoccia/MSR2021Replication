@@ -1,1 +1,1 @@
-Check user permissions in Electron on Mac
+i'v tri to submit a build to the app store but i ran into the follow problem:they are say that some menu item do nothing. these menu action are open and save file which read and write file to the file system. i figur out that the app review team run my app on a guest account where the user has no permiss to access the file system. due to the permissions, the dialog prompt doesn't show up.i there a way to check the user permiss in electron that i can disabl the menu items?

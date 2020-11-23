@@ -1,1 +1,1 @@
-Updating Redux with Sqlite3 in an Electron application
+i am write an electron applic and i want to display some data from a local sqlite3 databas file. i am use react as my front-end framework and redux to updat the tabl data. howev i am have troubl figur out what the best way to queri from the .db file and updat redux with the new data. can someon give me some insight on what is the best way to go about it?

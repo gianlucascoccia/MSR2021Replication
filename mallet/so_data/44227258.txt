@@ -1,1 +1,1 @@
-electron-packager and gloabl electron module
+i have instal electron and electron-packager, all of them in global mode. when i build my app electron-packag search the local electron module. how forc electron-packag to use the global electron modul that i have installed?

@@ -1,1 +1,1 @@
-Internet Cafe launcher software with electron
+i am tri to figur out is it possibl to make internet cafe client launcher with electron. the app would have to prevent the user from alt+tab or ctrl+alt+del it would also have to: run on startup, cover full screen, shut other process down, run execut binari and so on. i never befor made applic of this kind and do not know what kind of thing am i look for. first thing that i rememb when use some other internet cafe client is that they need administr rights, so i found electron-sudo, but that is about it of what i know.

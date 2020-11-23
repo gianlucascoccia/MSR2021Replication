@@ -1,1 +1,1 @@
-Electron - develop for Windows on Mac
+i'm start a project that is for a window desktop app with electron, howev develop will be done on a mac. currently, in order to run the app on windows, i have to packag up the project, and then run the on the virtual machine.do anyon have an effici setup for this situat that enabl live updat and hot reload dure development?

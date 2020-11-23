@@ -1,1 +1,1 @@
-How to display specific data from mysql in index.html with nodejs,angularjs
+apologis for my poor format for the question. i am new to nodejs,angularjs. i am tri to make my display output of my index.html of the food name and price.i have set up the connect of my sql databas use a script below index.html. the consol log is show the correct result but in the bodi html, i could not display the food name and price.

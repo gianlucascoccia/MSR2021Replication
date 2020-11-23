@@ -1,1 +1,1 @@
-Try to call function inside controller in react component
+i am tri to get use to the base code of webtorr desktop, here you can check the code of my branch:https://github.com/refreex/webtorrent-desktopit use node.j and electronth problem i am face is i creat a new control call what is a good approach to do that?thank in advance.

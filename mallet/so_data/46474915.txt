@@ -1,1 +1,1 @@
-Node.js - Opening a file in same directory as app without providing entire path?
+i am tri to fire up a video onclick that is locat in a sub-directori of the app that is running. i can easili do this if i provid the entir path: c:\users\app" or whatever, but would like to be abl to point to the video regardless of where it is stored. if the user instal the app in a folder other than the default location, the video would turn up missing.'..\videos\video.mp4 doesn't seem to work?

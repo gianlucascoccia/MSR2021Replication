@@ -1,1 +1,1 @@
-E2E Test Electron With Spectron - Docker Windows
+i'm work in e2e test in an applic run insid electron, to make it abl to run in a pipelin in jenkin i put it in a docker contain that is run a window servic (build version 1903) image. the problem is that the chrome driver is crash insid the container.i'm use these depend (spectron and electron):anoth point is that this work insid a window contain with the version 1803, but unfortunately, i can't use that version becaus the jenkin machin is use the last version of window (1903).

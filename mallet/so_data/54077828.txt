@@ -1,1 +1,1 @@
-Electron package dlls and config
+i am look how to packag dlls and configur file use electron-build or electron-packager. i have search the document for both and do not see and exampl on where to put the configur file or dlls when packaging. here are a few specif of the application. this is an angular/electron integr 5 differ dlls are be usedth dlls need a configur file that current exist in ./node_modules/electron/dist/electron.exe.configth dlls are locat in the root folderth structur is in this screenshotthank you ahead of time for your help

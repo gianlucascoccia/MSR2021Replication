@@ -1,1 +1,1 @@
-Electron with built project like vuecli, angular, etc?
+i have been search the internet but i couldnt find ani answer. i just want to find out if i could use the built html.to make thing clear. i creat a vue-c project. i creat a built html by run npm run build.run the npn run build will creat a build folder with an index hrml, and it need resources.now i wuold like to add this, in electron. is this possible?

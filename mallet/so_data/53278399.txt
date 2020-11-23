@@ -1,1 +1,1 @@
-Access Node module on Electron child process after compiling
+i am make an app with electron and in the main process, i make an xml parser use child process with the follow code:xmlparser.jsi wonder what went wrong, i even alreadi add child_process to the project depend list. and my aim is to distribut this app without client instal nodej on their machine.thank for your help

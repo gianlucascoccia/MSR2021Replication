@@ -1,1 +1,1 @@
-Error inserting data into LokiJS with VueJS
+i am start in electron with vuejs1.0 &amp;&amp; lokij and i have had difficulti find the solut to the error that happen everi time i insert a second data into the collection:erro: uncaught error: document is alreadi in collection, pleas use update()insert-client.htm enter the data in the form, save it, clear the form and when i enter new data and send save it acknowledg the error: uncaught error: document is alreadi in collection, pleas use update()if anyon know my mistake, thank you in advance!

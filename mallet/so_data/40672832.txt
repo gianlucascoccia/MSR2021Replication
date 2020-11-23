@@ -1,1 +1,1 @@
-Hiding the Electron.io program window
+i'm develop a node.j app on electron so it can be distribut and run by peopl who won't be use the command line. the app doesn't need an interface, it just need to be executed. is there a way to hide the electron window, so the app can just sit in the tray and can be opened/quit?

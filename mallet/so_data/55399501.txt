@@ -1,1 +1,1 @@
-HTML to PDF with Node.js and Electron.js
+here are the relev code. it work fine on dev version and creat pdf file. but when i creat a electron build-pack, the pdf file not generated.if ani solut is avail then it will be a big help

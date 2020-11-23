@@ -1,1 +1,1 @@
-Why doesn't electron 2.0 support TypeScript (ES6) import?
+to clarify, my question is not rhetorical; i'm actual tri to understand technic whi the es6 import statement doe not work.thi question appear to be duplicate, but the accept answer will not typescript transpil for electron. for example: destructur syntax instead of imports.

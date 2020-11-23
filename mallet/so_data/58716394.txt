@@ -1,1 +1,1 @@
-Pass to a Variable a query result of knex
+i'm tri to attribut the result of a select queri with knexj to a variable.mi code is this:how can i attribut to a variabl to be abl to cycl it?mani thank to all for help, i have been bang my head for sever days.

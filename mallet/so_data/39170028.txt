@@ -1,1 +1,1 @@
-Does a router make sense in an electron app?
+just wonder if a router is need for an electron application.sinc the url of an app is not shown/disclos on an electron application, i do not see a need for a router. special sinc you do not have access to the "reload" button.what are your thought on this matter?

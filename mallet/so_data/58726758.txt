@@ -1,1 +1,1 @@
-How to set a connection between Electron js app and AWS DynamoDB?
+pleas give suggest to connect electron js app and aw dynamodb. i'm new to electron js app and aw dynamodb.

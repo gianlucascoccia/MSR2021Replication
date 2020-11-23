@@ -1,1 +1,1 @@
-Can I use CoffeeScript to write my Electron (Atom Shell) application?
+doe anyth special have to be done to get electron to run my to my packages.json as a dependency, and made sure it was instal to my local node_modul directori like my other applic dependencies, but that didn't seem to help.

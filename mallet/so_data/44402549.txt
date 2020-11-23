@@ -1,1 +1,1 @@
-Electron register protocol not working
+i am tri this:https://electron.atom.io/docs/api/protocol/and i get this error:whi is it not working?

@@ -1,1 +1,1 @@
-node-webkit - AngularJS : Generate PDF and Push to user
+i'm tri to creat a pdf and push to user in a standalon node-webkit app. generat pdf is ok but i'm not abl to send it to user.i'hav follow indic find here : http://pdfkit.org/demo/browser.html .here my control :ani idea ?

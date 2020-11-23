@@ -1,1 +1,1 @@
-nw.js protect every .js file with nwjc tool
+is this possibl to protect all file in project with nwjc tool and then packag all this with nw-builder for exampl ?whi this function onli work with one file ? offici site say that they fix perform issu in 0.22, but whi there is no tool to protect all project file and includ them like in

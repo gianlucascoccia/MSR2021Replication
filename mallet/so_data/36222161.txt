@@ -1,1 +1,1 @@
-How to store private key or secure information / data with Electron
+i am develop standalon app for cross platform use electron. i want store privat data like privat key, privat data for some execut in app. execut like encrypt / decrypt data.or i want store some secur inform like user password, proprietari data on appar ani possibl way to store these kind of secur inform and app user unabl to get ani way?

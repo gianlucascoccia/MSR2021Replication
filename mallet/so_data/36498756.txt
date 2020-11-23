@@ -1,1 +1,1 @@
-How to install Sqelectron in Linux?
+i'm a new linux user and i want to instal a mysql ide. i use sqlectron in windows, so i want to instal this ide now in my linux computer. i download the .zip file but i don't know what to that after unzip it. i'm use elementari os base on ubuntu

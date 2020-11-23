@@ -1,1 +1,1 @@
-Requiring node modules in ionic + electron (5.0.0) desktop application
+i'm build a desktop applic use ionic and electron.i start use method: window.requir is not a functionhow can i fix this? if you need more detail on instal or envinron just tell me, thank you!

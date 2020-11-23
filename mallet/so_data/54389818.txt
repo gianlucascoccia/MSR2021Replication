@@ -1,1 +1,1 @@
-Using node's fs results in empty object
+i'm build a simpl project with angular 6 and electron 4.in my project i'd want to use fs from node but it result in an empti object when i tri to output it. here my code:.i googl a lot to find a solut but i can't get it to work. ani suggestions?

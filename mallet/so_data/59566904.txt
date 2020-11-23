@@ -1,1 +1,1 @@
-No such file or directory inside app.asar (electron/nodejs)
+i am build an electron app which run off nodejs. the gui run off the html/js, and i also have a few python script which run in the background which show data to the user.it run fine when i run local with if possible.

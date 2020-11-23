@@ -1,1 +1,1 @@
-How to receive a notification from webview in Angular & Electron app
+i am use this packag to tri integr angular 7 with electron.in app.html i use tag to view a web page push notif use html5 notification.and i have anoth webview to show anoth web pagein compon ts file, i want to listen to notif from everi webview and show them as a nativ descktop notifications.how can i implement this in app.component.t

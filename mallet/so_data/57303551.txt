@@ -1,1 +1,1 @@
-Electron returns empty NativeImage when I'm trying to read image from clipboard
+i write default code from documentaion of electron, but electron return empti nativeimag object.what should i do to past imag from clipboard?

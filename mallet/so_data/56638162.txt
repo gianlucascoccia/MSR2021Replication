@@ -1,1 +1,1 @@
-What are the complete list of punctuation keys for accelerators (keyboard shortcuts)?
+the electron api doc on acceler contain the follow in the list of avail key codes: punctuat like , etc. what is the full list of avail key codes?

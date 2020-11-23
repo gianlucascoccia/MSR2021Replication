@@ -1,1 +1,1 @@
-Updating a particular array element in nedb
+in nedb, i have an array field in a document.how will i updat an array element at ani index?for example,?

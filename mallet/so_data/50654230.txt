@@ -1,1 +1,1 @@
-Electron "grab" localStorage from default browser
+i am work on an electron app that need to be abl to retriev localstorag on the default os browser from my site. how can i achiev that? are there ani api's/modules? i was think someth like this:but i am pretti sure that doe not exist. thanks.(fyi i am in the render not the main process)

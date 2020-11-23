@@ -1,1 +1,1 @@
-How can I define the shortcut icon
+i'v creat a msi file to instal a program. everyth work fine except for the shortcut icon creat after the installation. i alreadi put the icon.icon into build folder. and alreadi set the icon into the icon and manifest of visual studio properties.i expect a icon on the creat shortcut, but it creat without ani icon on it. if i look into the remov program it show the correct icon and in the start menu it show correct too.i'm use in the package.json the follow code (reduc just to show):

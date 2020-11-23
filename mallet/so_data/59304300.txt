@@ -1,1 +1,1 @@
-Passing returned parameter (results) in invoke method of callback to other Javascript file
+i am tri to pass return paramet (results) in invok method of zerorrpc librari to anoth javascript file.basically, that return paramet is return valu of user id generat from database, and i have to use that user id in other javascript for updat databas with new fields.so far my code for 2 javascript for test purpos are as follow.parametershtmlfile.htmlthi console.log should show me the user_id; instead it is show undefin on consol

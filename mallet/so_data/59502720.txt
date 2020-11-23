@@ -1,1 +1,1 @@
-Having problem running electron on Raspberry Pi4. It works well on Raspberry Pi3
+i have a simpl hello world electron app run on a varieti of machin which includ windows, ubuntu, and raspberri pi3. it howev doe not work on raspberri pi4. has ani bodi solv this please?ani tips, pointer or suggest are welcome. thank in advance.

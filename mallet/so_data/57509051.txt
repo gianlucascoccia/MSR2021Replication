@@ -1,1 +1,1 @@
-Issue installing fabric and electron
+i am not abl to build an electron app with fabric, i am get the below error

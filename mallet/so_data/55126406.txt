@@ -1,1 +1,1 @@
-react doesn't render anything on my window
+this is my index.html code. i want my jsx file "hello. electron and react jsx" messag to be shown on my window, but onli blank page appeared. what should i fix to get better result?

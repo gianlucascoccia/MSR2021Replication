@@ -1,1 +1,1 @@
-django redirects not working in electronjs
+i am creat an account manag app for my father company. i integr django with electron like this:if i open this in chrome browser it work absolut fine no worries.but if i do this in electron. it show this msgpage not found (404)request method: getrequest url: http://localhost:8000/delete/11rais by: accounts.views.entrydeleteviewcan someon help me with this?

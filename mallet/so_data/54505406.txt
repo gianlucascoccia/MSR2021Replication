@@ -1,1 +1,1 @@
-Electron save user changes on page
+i have a problem with my electron app. i navig throw page by use . on some pages, the user need to enter some data to be saved. the problem is that when the user move to anoth page (after he ad some data to input and etc) and after goe back no chang are detect and electron just load html file with no user data. how it possibl to store this data and give user page with his previous ad data? thank

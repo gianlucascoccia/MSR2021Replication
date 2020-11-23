@@ -1,1 +1,1 @@
-Dexie: How do I add a tab to the beginning?
+we make an open sourc browser. pleas correct the add-on of the tabs. it is necessari that the tab is ad to the beginning. now the tab is ad to the end:how do i add a tab to the beginning?

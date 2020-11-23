@@ -1,1 +1,1 @@
-Electron Layout With Bootstrap 4 Grid Problem
+i am use is it possibl make each grid like self contain which have it own area?

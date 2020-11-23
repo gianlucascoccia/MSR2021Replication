@@ -1,1 +1,1 @@
-A JavaScript Error Occurred in the main process
+i am have a problem run my angular-electron desktop app after success build the .ex file on window use this cli command:how do i set the path to the user.model.t file locat at src/app/models/user.model so that electron can find it when the app is build for release.note: everyth work fine dure development.

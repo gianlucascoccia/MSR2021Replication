@@ -1,1 +1,1 @@
-How to set up navigation on electron
+i have tri navig through page on electron but it throw an error. it throw error cant navig through local files. what is the effici way to do so? i am develop an erp system for manufactur clothes. it has multipl modules. what would be effici way to do so?i am get follow error. on click link anchor tag. tri . but issu remain the same: not allow to load local resource: file:///c:/inventorymanagementmodule/electroboost/electron-boilerplate/app/inventorymangementmodule/dashboard.html

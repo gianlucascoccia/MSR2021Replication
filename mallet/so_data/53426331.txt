@@ -1,1 +1,1 @@
-Open file dialog from React Component using Electron
+so i'm awar without react on the render thread i can do this to open a file dialog.unsur what i can do to make this work. should be a pretti simpl canva draw app, but i do need to enumer imag in folder &amp; give file dialog capabl to the app. ani idea how to remedi this issue?

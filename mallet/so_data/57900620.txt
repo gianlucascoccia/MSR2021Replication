@@ -1,1 +1,1 @@
-Electron: Open a Zip File as a Folder
+i am write an electron app which will a allow a user to view a markdown document. the document may contain refer to images.currently, it work if i open the document itself with the imag in the same directory, but i would like to be abl to open a zip file complet with document and images.i don't want the app to write anyth back to the disk, so i don't want to actual extract the content of the zip file.i there a way to process a zip file as a virtual folder?if the onli way is use anoth method, that should be ok, as long as it a singl file.

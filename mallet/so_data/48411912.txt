@@ -1,1 +1,1 @@
-CSS transform on div should not affect the webview inside
+i load websit in with webview into my div container.th div will take the whole screen when they get hovered.th problem is, that the content of the webview get affected, too with the scale of the divs.instead of scale the content (in the webview it like zoom) i onli want to scale the div to get the full screen of the websit within.css

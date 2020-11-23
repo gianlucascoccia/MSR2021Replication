@@ -1,1 +1,1 @@
-For electron, Making a transparent windows but I can't click its edge
+when i use transpar windows, an area 5px from the window edg cannot respond to dom events.when the mous move within 5px of the window edge, the consol doe not print out the mous position.

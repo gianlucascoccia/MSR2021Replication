@@ -1,1 +1,1 @@
-How do you check online status in electron.
+when use it alway return true even when i disconnect my wifi.

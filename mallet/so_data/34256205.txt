@@ -1,1 +1,1 @@
-Attach eventhandler for Webview in electron
+i load an extern url in a webview in electron.i need to attach an eventhandl to a click on element that are mark by a certain class. the handler should execut in the context of the host page similiar to the eventhandl loadstart in the sample.i this possible?

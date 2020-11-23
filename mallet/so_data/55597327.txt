@@ -1,1 +1,1 @@
-Robotjs on Electron typeString() is not working as expected
+https://github.com/octalmage/robotjs/issues/472th annoy this with this issu is that it is work for my colleagu on their machine, but it isn't work for me and we'r at a loss for how to debug.expect behaviorth expect is that when the user hit the shortcut, which is success registered, that the string will appear on the screen in whatev activ window the user has open

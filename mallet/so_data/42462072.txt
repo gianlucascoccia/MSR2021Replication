@@ -1,1 +1,1 @@
-PythonShell in node (nwjs)
+i am tri to creat a nw.js applic that communic with python use the node modul pythonshell.th issu i am have is that noth is written to the consol unless i close stdin. howev i would like to keep the stream open so that i can send multipl command to the python script, and have python save it state.her are my scripts:script.pi commands.how can i keep the python child process run and wait for input, yet pipe all output back to js?

@@ -1,1 +1,1 @@
-How to get the title of the foreground process/window
+i am develop a crossplatform desktop applic use electron, nodej and angular2.mi applic need to know, at all time, which foreground process/window is run on the computer. do you have ani idea on how to achiev such a task ?

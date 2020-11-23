@@ -1,1 +1,1 @@
-npm wait for port/command before executing next (concurrently)
+so in my npm packag i current have this script:

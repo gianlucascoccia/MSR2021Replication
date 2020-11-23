@@ -1,1 +1,1 @@
-deep-extend 0.5.1 has known vulnerabilities
+could you pleas help me this problem.when i audit by npm audit. it notic that deep-extend 0.5.1 has known vulnerabilitiesin package-lock.json, i can find the root of issuecan anybodi help me to ignor the abov audit? thank you veri much

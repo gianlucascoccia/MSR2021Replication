@@ -1,1 +1,1 @@
-How can I automatically log warnings and errors from the console in Electron?
+i'd like to log these automat generat error and warn in my applic so i can debug issu my user have, but thus far i'v not been abl to find a solut for log these. doe anyon know of a packag or method?thank you.

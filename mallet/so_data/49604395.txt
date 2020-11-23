@@ -1,1 +1,1 @@
-Node bundling with electron app
+i'm have a electron app which start a node server upon start up. this applic work well dure develop and test as node.j is instal in my computer. my question is: how do i ensur that my electron app will run at client comput even if there is no node.j instal at client computer? in that case how do i bundl a local version of node along with my applic and start that local node. can anyon suggest me anyth to get started.

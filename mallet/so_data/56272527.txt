@@ -1,1 +1,1 @@
-Using Javascript Webspeech Api in Electronjs
+i want to write a simpl voic recognit app on electron.i alreadi tri it as a simpl webpag in chrome, where everyth work perfect fine. in electron howev i dont get ani consol outputs.th output that should appear (and appear in chrome) is:i would realli appreci ani help.

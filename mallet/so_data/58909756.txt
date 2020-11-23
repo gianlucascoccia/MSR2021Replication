@@ -1,1 +1,1 @@
-Serve static files with express from within electron-forge app
+i'v written a quick electron forg app that simpli run an express webserv that serv static file locally. i prefer this to run a node process direct for usability.main.j 404 message.ani idea what i'm do wrong?

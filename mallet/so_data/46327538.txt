@@ -1,1 +1,1 @@
-electron dialog box not preventing interaction with page
+so this may be a simpl fix, but i have been research and have found no solution. i assum electron did this by default. in my i am pass callback with both my functions. i know if you don't pass callback it will block the process but not prevent user interact outsid the dialog box. am i miss someth simple, or doe this have to be hack into electron?

@@ -1,1 +1,1 @@
-Transform electron NativeImage from <webview>.capturePage() to base64 or dataURL
+so i'm tri to snapshot a webview in electron and then show it on a and i get: ph.todataurl() is not a functionwhat i'm do wrong? thank you!

@@ -1,1 +1,1 @@
-How to combine RxDB and MobX
+i start out with an electron + react + mobx setup and now want to add rxdb to the mix. i thought that i could mayb just handl rxdb stuff (insert / subscriptions) insid the store but i don't realli know how.bas my question is: how can i sync my mobx store and my rxdb?code current is rough like this:

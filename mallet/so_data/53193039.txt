@@ -1,1 +1,1 @@
-Node.js spawn child process and get terminal output to log realtime
+i want to exec a program call game.ex with node.j child_process, the program will print a number everi second to terminal, but it will crash randomly.i want to log the output to a file call back.log', but with the code i current write, the log file will never be created. what` the problem?

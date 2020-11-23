@@ -1,1 +1,1 @@
-What are the benefits of using webpack on electron?
+i'm think about an app that use electron, react and webpack. but i'm not sure if it make sens to use webpack on electron. i'm definit sure that use webpack to the react part of an app could benefit a lot but i would like to know if it is the same thing with the electron part of an app.

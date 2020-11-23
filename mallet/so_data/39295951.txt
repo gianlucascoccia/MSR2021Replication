@@ -1,1 +1,1 @@
-Why can't I use functions from javascript-files that are imported by require()?
+i start use electron.in the index.html of electron-quick-start a javascript file is includ use ?

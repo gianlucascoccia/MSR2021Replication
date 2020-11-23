@@ -1,1 +1,1 @@
-Electron Window does not open, but doesn't show any errors
+context: i have seen this question but it doe not solv my issue.when i tri run my electron app, i receiv no error and it seem like it compiles, but the electron window doe not pop up.response:i'm pretti new to angular, so ani help would be appreciated!

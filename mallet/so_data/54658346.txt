@@ -1,1 +1,1 @@
-Electron - WinInstaller
+i tri to creat a window instal for my elctron applic but when i run the file i have this error:

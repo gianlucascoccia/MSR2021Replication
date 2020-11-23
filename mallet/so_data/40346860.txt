@@ -1,1 +1,1 @@
-Cannot access nw globals in Chrome app
+if i run a simpl chrome app within nw.js, and use the consol in devtool i don't have access to ani of the extra nw objects.accord to the docs: some object of node context are copi to browser context so that script run in browser context can access node.j objectsthi includ what do i need to do to access these object in my chrome app?. thank for ani help.

@@ -1,1 +1,1 @@
-How to setup initial Electron Angular project
+how can i setup initi electron project with angular4, i want to start with typescript for with both of these, ani guidelin will be helpful.

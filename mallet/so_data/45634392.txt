@@ -1,1 +1,1 @@
-Electron: How can I get Screen from BrowserWindow?
+i want to know where locat from two or more screens. i guess electron api doesn't give a method. how can i do that? is there ani way or something??

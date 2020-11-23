@@ -1,1 +1,1 @@
-What are the implications of turning on the plugins attribute of an Electron webview?
+can somebodi explain what the attribut and trust chrome other plugins.to answer my question above: is there a chanc that anoth plugin will get in that array, or would i have to be the one who add that plugin?it would appear that i would have to be the one that add it, but again, that not stop other chrome plugin from running.

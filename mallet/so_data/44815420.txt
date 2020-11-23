@@ -1,1 +1,1 @@
-"Cannot find module jquery" in Electron application
+so i am get the error "cannot find modul jquery" in my electron application. in my index.ej file i have the code:insid of a script tag.

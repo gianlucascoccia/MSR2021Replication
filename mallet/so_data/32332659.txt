@@ -1,1 +1,1 @@
-HTML5 <video> loads fine but doesn't play the video in chromium
+i have the follow html code, but it is not working, the video doe not start...yet, when i test this code in my browser chromium, it work perfectly.ani idea of the problem?

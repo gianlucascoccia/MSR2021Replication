@@ -1,1 +1,1 @@
-Get function name dynamically
+i'm tri to get the name of a function dynam to send the function it current in?

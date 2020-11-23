@@ -1,1 +1,1 @@
-Receipt thermal printer in Electron
+i need to find a way of print receipt in javascript from electron. i alreadi tri qz-tray but it doesn't work becaus of electron. i also tri node-thermal-print but it also never work for me. doe anybodi here know how you can print receipt without ask the user in javascript (electron)?editqz-tray offer a solut that is pretti good and hard to beat.if you have the error

@@ -1,1 +1,1 @@
-I can't run electron using node.js
+i want to run electron use node.j but it has a problem pleas look at my code.app.jsi'm go to go into this project, enter "npm instal &amp;&amp; npm start"on node cmdbut it indic an error. npm err! windows_nt 6.1.7601npm err! argv "c:\program files\node.js\node.exe" "c:\program files\node.js\node_modules\npm\bin\npm-cli.js" "start"npm err! node v6.11.0npm err! npm v3.10.10npm err! miss script : startnpm err!npm err! pleas includ the follow file with ani support request:npm err! c:\mi project route\npm-debug.logpleas help me

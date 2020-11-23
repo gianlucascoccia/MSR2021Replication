@@ -1,1 +1,1 @@
-Doing workbook.xlsx.writeFile without page reload (refresh or restart) in Electron
+this is my code.th problem is "when i write the new excel file, then it forc my electron applic to reload"i simpli want to open the exist excel file and edit.mi question are ..is it possibl to edit exist excel file without use wb.wlsx.writefil and write again?if i can't, then how can i prevent reload of electron application??

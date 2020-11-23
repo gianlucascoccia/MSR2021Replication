@@ -1,1 +1,1 @@
-Electron: socket.io can receive but not emit
+i'm creat an electron applic that use socket.io to communic to a server application, but i'm experienc a weird issue: wherea my electron app success join and receiv messag from my server, it complet fail to emit anything.client-side:not that there is also a web client that connect to the server, and work absolut as expected.what am i do wrong?

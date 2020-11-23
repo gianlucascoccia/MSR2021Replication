@@ -1,1 +1,1 @@
-Access to the computer information from Electron
+i'm creat a small project with electron and i need to access to some comput session information:th current user full nameth current connect wifii this possible? i'v read the document but i don't see ani refer to this.thank

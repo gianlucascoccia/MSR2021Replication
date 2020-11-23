@@ -1,1 +1,1 @@
-JavaScript: How to stringify a class, after calling new
+tl;dr: i need to inject some javascript into a

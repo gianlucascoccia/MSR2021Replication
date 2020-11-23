@@ -1,1 +1,1 @@
-Electron + React + Typescript + Visual Studio Code? Debug? Can I debug an electron-react app in visual studio?
+use some boiler plate code, i am abl to get my electron app to work in visual studio code. i can hit the breakpoint for main.js, but not for ani of my typescript/react code. i am use webpack to build, but am not marri to it. how do i wire up the debugg for the react stuff? i start with these walk-throughs: medium.com and typescriptlang.orgher are my configur fileslaunch.j

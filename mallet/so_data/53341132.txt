@@ -1,1 +1,1 @@
-How can I add a custom chrome extension to my Electron app?
+i am face some troubl ad chrome addon into my electron browserwindow.befor creat my window (and after the i don't realli get whi the error specifi is "invalid url" sinc i'm do the exact same thing / process with the react addon without a problem. i also have no idea what to do. is it possibl that my chrome addon is not electron-compatible?

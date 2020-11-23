@@ -1,1 +1,1 @@
-How do you create a modal in electron js? (javascript, html, css)
+rather, i need help in creat a modal. use this video for reference: https://www.youtube.com/watch?v=glwiyk0sd38i follow this tutori but i can't make my button work. i do not know what is the problem and it is drive me crazy.ent imag descript heredo i need to put his javascript code in a particular locat as for electron projects? helpjavascriptref to the javascript code that the video maker created. is it possibl to even use that code for electron projects?

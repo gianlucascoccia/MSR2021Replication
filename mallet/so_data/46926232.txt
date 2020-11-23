@@ -1,1 +1,1 @@
-How to focus a specific input after window focus on electron
+i'm use electron global shortcuts, and when i use my shortcut to focus my electron app window, i want to focus a specif field to avoid user to click on this field.what is better ? should i send an event to the app window and listen this event in my app javascript code ?

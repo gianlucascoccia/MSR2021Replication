@@ -1,1 +1,1 @@
-How to execute script code in nested html files?
+my script code is not be call when i load the nest html in my electron app and i cannot figur out why.th log never appear anywhere. ani explan or fix for this?

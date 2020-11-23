@@ -1,1 +1,1 @@
-Calling Node Native Addons (C++) in Electron
+i'm complet new to node js and electron. i'm tri to integr c++ with html use electron and node js. i have went through some exampl given by: gitwhat i'm tri to do is call the nativ function (hello()) from my web page javascript which is load by electron. i have use

@@ -1,1 +1,1 @@
-Uncaught (in promise) Error: The shape of dict['input'] provided in model.execute(dict) must be [1,224,224,3], but was [1,224,224,3]
+when i tri to run a mobilenet (use product built script) use tensorflowj insid an electron app i get the follow error. however, the same code run in chrome and firefox without ani issuesher is what my package.json look like:

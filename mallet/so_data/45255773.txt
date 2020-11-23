@@ -1,1 +1,1 @@
-Electron iframe: require is not defined
+i want to emb a html file insid of my electron app. i chose to use iframe, howev - when i do this - it seem like i can no longer use node.js. ani attempt at use require("electron") will show that requir is not defined. ani ideas?thank in advance!stijn

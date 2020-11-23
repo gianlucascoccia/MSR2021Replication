@@ -1,1 +1,1 @@
-running minify on electron app before electron packager
+i have an electron app and use minifi the code and then direct build my distribut version. doe anybodi know how i can achiev this?

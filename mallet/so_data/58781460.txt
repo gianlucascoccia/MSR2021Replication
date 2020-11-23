@@ -1,1 +1,1 @@
-How I can center the Title in this Titlebar?
+i need help :)there is a screenshot of my electron app. i work on the titl bar but i want to center the title, how i can do that, thank you guys! and as i'm a beginn i don't know if this method to do a titl bar is good, can you say if this is good ?(and if i can abus your kindness, how i can do the doubl button with "valider", it will be use to me for the future.thank you again veri much!what i want to doscreen of the beginhtml:

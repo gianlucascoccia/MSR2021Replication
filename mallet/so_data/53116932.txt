@@ -1,1 +1,1 @@
-Electron: Is it possible to set the current window to be frameless?
+i would like to be abl to toggl between frame and frameless window in my electron app, without need to construct a new window. this is becaus this option is a differ view than what would be initi loaded, therefor it would be nice if there is a way to chang the current window to be frameless.i have found for toggl between full screen mode. i'v not been abl to find anyth similar for frameless window. is there ani such method or workaround that i'm not seeing?

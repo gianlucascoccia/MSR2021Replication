@@ -1,1 +1,1 @@
-Modules not found when using express
+i want to expos rest servic in electron app and i want to use expressj with electron, as tutori state i ad express and @types/express. i tri to expos a "get " but when i build and run it throw the following.ran with

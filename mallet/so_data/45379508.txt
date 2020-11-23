@@ -1,1 +1,1 @@
-Missing electron argument
+i have an electron app that, when packaged, will remov the first argument after the execut name.for example, the command go? why? how do i get it back? and whi doe this onli happen onc the app is packaged?edit: this problem occur when i run launcher from "c:\users\me\appdata\local\launcher\launcher.exe", but not when i run it from "c:\users\me\appdata\local\launcher\app-0.0.7\launcher.exe". perhap this has to do with the electron updater.

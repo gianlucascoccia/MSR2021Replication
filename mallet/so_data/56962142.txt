@@ -1,1 +1,1 @@
-can't fetch local json file in electron-vue
+i tri to fetch a local json file in my project.tri the following:what am i do wrong? look like a config issue.

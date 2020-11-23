@@ -1,1 +1,1 @@
-Electron-packager returning "Response code 404 (Not Found)" when trying to compile electron project to .exe using CMD on Windows 10
+i am a beginn developer, just familiaris myself with electron and node.js. i am tri to convert my electron project into a .ex file use the electron-packag package, but everi time i attempt it return this error:thank for ani help in advance, it much appreciated.

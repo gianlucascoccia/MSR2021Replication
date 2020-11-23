@@ -1,1 +1,1 @@
-Register a Global keyboard Shotcut
+i was recent go thorugh github electron documentation. one of the exampl they usewhich seem like a cross platform solut for keyboard hooks. but the abov exampl regist the keyboard shortcut globally. it is possibl to in a way regist all the keystrok without hinder the user? for instance, if i were to press . ctrl+w on my web browser i want the my electon app to regist ctrl+w. but not the hinder it function on a weeb browser.i it possibl to do that?

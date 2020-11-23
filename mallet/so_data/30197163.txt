@@ -1,1 +1,1 @@
-How to Know if an specific windows service is installed with Node js?
+i'm new in node js.i'm build an new desktop app with web-kit.on of my requir is verifi if an determin servic is instal on windows. how can i do that on node js?i know how to find the applic at the process list with node js. but what i realli need is whether it is installed, becaus it can be stopped, but installed.

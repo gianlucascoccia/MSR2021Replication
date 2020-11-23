@@ -1,1 +1,1 @@
-Console.log messages do not appear in VSCode terminal window
+i'm do an electron tutori use vscode as my editor in window 10. my main.j file contain onli one line: console.log('main!');when i open the termin view (ctrl+`) in vscode and type "npm start" the console.log command doe not display.however, when i open a cmd.ex to and run "npm start" the "main!" console.log command appears.i'v tri chang the default termin for vscode to cmd.ex instead of powershel but had the same results.what can i do to get my console.log command to appear in the vscode termin window?

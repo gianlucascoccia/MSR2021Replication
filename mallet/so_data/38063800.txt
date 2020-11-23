@@ -1,1 +1,1 @@
-Opening external links in Electron with the HTML anchor tag
+i'm make an electron app and i want to make a button in my file to open up the default internet browser (ex. chrome) to my github repositori website. i have seen other stackoverflow question on this with success answers, but they contain snippet of javascript and i don't know where to put them.

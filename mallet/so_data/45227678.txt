@@ -1,1 +1,1 @@
-Electron opening link inside the same window
+i am new with eletron framework and i am use below code to open a new window from my electron app, but how can i open a link insid the same/par window?mi parent window is a html file.

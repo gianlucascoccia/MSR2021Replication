@@ -1,1 +1,1 @@
-how to understand the browser-side vs. client-side of atom-shell
+like node.js, atom-shel have the differ of browser-sid vs. client-side, but it explan is veri unclear(https://github.com/atom/atom-shell/blob/master/docs/api/synopsis.md). how to understand this ?

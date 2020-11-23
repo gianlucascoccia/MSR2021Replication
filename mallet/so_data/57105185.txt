@@ -1,1 +1,1 @@
-Workbox js is not caching when used in Electron
+workbox.j is not cach anyth in electron.i am tri to integr a pwa use a workbox.j servic worker into electron. everyth work fine in chrome and my servic worker is abl to regist success in electron. howev noth is cach insid electron applic cache.mi expect would be that workbox.j cach request the same way it doe in chrome.work in chromeregist in electron but noth is in applic cach

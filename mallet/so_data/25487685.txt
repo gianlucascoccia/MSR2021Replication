@@ -1,1 +1,1 @@
-node-webkit force file download with javascript
+in a static webpag you can do someth like this :to save a file, but in a node-webkit app, it will just open a empti page, without download anything. doe anyon know if this can be done with node-webkit ?

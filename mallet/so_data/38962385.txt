@@ -1,1 +1,1 @@
-How can I access DOM element via Electron?
+i'v been read the document on this but it doesn't look clear for me.i have creat a browserwindow instance, and navig to a url that i do not control.i want to access a specif value, which if i run it from my browser console, i get a value.how can i run this from my js code to access that dom element valu and manipul it in my sourc code? thanks!

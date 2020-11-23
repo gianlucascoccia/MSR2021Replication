@@ -1,1 +1,1 @@
-Correlating the screen information from electron.desktopCapturer.getSources() and electron.screen.getAllDisplays()
+i'm grab some inform about the user screen resolut and screen setup. return display[] which i use to get the screen dimensions, rotation, etc.both are array of equal size, wherein each element repres differ inform about the desktop screen. they have name and ids, neither of which seem to match up between the objects. i'm unsur of how exact i can correl the data between the two object to guarante i am talk about the same screen.

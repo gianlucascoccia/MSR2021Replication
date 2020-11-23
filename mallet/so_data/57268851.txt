@@ -1,1 +1,1 @@
-Can we automate Electron app with protractor?
+there is a applic which is built on top of electron.j act as desktop application, is autom use protractor due to slight chang dev team is provid build to qa as .ex file. so i want to use the exist scripts.pleas let me know if there is ani possibl that electron app can be integr with protractor framework, if not suggest ani other open sourc tool which can we use to autom electron app other than spectron.

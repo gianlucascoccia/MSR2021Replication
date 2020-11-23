@@ -1,1 +1,1 @@
-How to create node.js project to standalone exe file for windows.
+i have built an applic in node js which use websocket for communic event to browser. i want to bundl that applic into one .ex file so that it can run on client machin without node be installed.i googl few approach and final use nex for bundling.al goe fine but when i am run the output file it is give issu with websocket module. can electron will work? please, help me on how do i bundl the node applic to an .ex file.pleas share the best practic to do this. tia

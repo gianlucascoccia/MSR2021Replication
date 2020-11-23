@@ -1,1 +1,1 @@
-do not have mouse tracking support in nw.js
+i want to listen to mouseleav when mous leav window and listen to mouseent when mous enter window。but when i move my mous fast, event will be triggerd, but when i move slowly, noth happend. (i test it on window 7)in mani apps, we have to know whether mous is outsid or insid the window. like some notif window, when mous leaves, the window will be closed. but this featur cannot be achiev at this momentwhat should i do?

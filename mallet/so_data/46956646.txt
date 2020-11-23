@@ -1,1 +1,1 @@
-Electron internal css doesn´t work
+i can´t style my html file with intern css. i would like to use intern becaus it better then inline. inlin works.that my html file linking.th window work but not the styling.mi stylesheet is locat on the desktop->electron->tutorial/css/loginstylesheet.css the app i start with "npm star". the normal html file doe chang but the app dont chang the color. if i use inlin it chang on the app and the web.

@@ -1,1 +1,1 @@
-How to get webContents of an iframe via IPC?
+i want to get the webcont from an iframe, that is locat insid my index.html. unfortun my follow approach doesn't work. what am i do wrong?i creat an index.j containing:

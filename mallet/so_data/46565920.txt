@@ -1,1 +1,1 @@
-SwitchMap ist not a function
+my project layout is a pretti simpl electron-webpack project structure. in my project i use

@@ -1,1 +1,1 @@
-Node js windows child process on exit and close event
+hi i am tri to invok an event on close of calculator.ex application,but the event itself rais while launch the application.. ani help ?

@@ -1,1 +1,1 @@
-node module in Electron
+need help on get babypars modul work in electron, after

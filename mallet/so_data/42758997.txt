@@ -1,1 +1,1 @@
-Set max_width , max_height 100% for Manifest nwjs
+i want to set with and height for my app to 1400 and 800 if it is possibl but if a screen is smaller than 1400 or 800 , app open full size not full screen i mean i want some thin like this: thank

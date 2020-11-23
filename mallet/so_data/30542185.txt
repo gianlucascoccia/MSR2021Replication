@@ -1,1 +1,1 @@
-Electron (Atom-Shell) Run unix command from link in page
+i am tri to learn electron (atom-shell) but i am find it pretti tough to find document for it...i am simpli tri to figur out how to creat a link with in index.html, and have it open a termin window or run some sort of program. i learn languag by learn specif task as i need them in a program, so that is whi i am ask so then i can util the techniqu use in other way in my programs.thank you for helping.

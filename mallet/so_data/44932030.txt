@@ -1,1 +1,1 @@
-TypeError: keytar.addPassword is not a function on electron
+i am tri to use keytar at my electron project, but i got this error: typeerror: keytar.addpassword is not a functioni saw the doc but it seem that addpassword doe not exist.mi main.j is:can anyon help me?

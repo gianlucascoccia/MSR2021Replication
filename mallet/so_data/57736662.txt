@@ -1,1 +1,1 @@
-How to get desktop streaming while UAC dialog open with electron?
+i'm develop small agent with electron to get desktop stream from client and send to other client via webrtc. stream is stop when uac dialog is on.( as it shoud becaus it chang desktop session from default to winlogon) i know that uac dialog is display from winsta0\winlogon and current user are run winsta0\default. how can i chang stream sourc from current desktop to winlogon desktop to get uac dialog screen ? i'm not ask for code just i want to know what method i can use to accomplish what i want.

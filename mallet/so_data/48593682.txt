@@ -1,1 +1,1 @@
-Installing electron globally on Ubuntu with NPM
+attempt to resolv this question and get the follow error when instal electron global with npm:

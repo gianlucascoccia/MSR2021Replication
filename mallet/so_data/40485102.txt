@@ -1,1 +1,1 @@
-Rich HTML tray menu in a desktop web application
+i want to creat a tray menu app with custom buttons, sliders, mayb some nice transit effect, a header and footer like this:th applic need to work on linux, window and mac. i guess it should be possibl with a desktop web app + some html, but i can't find ani use exampl for ani framework. everi exampl use the os menu that just doesn't have the element i need.can anyon direct me how to more or less implement this in ani of the web app frameworks?

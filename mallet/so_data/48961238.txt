@@ -1,1 +1,1 @@
-Electron setInterval implementation difference between chrome and node
+i'm quit new to use electron and i'm have a problem that seem to be to do with the library, is there a better solut that doesn't requir this?do this happen often in electron? are there function defin in both node and chrome which have the same name but behav differently?thank for take the time to look at my question!josh

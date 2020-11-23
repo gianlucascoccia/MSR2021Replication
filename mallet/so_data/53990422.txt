@@ -1,1 +1,1 @@
-Accessing webview DOM with Electron
+i'm tri to access the dom insid the webview. i understand i need to use ipc, but with the follow code which is in the same file, one access the parent and one access the webview.preload.j (use i want to be abl to access the webview dom (such as in the setinterv function), but i can't seem to figur it out.

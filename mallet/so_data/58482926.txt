@@ -1,1 +1,1 @@
-Angular 8 electron Cannot read property 'once' of undefined
+i have setup electron for my angular 8 project and i can use electron now to build desktop app from my angular 8 project. here is the structur of my project: method in my electron i get this error: cannot read properti onc of undefinedani idea why?

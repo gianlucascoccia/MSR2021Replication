@@ -1,1 +1,1 @@
-How can I call method outside 'export default' scope in vuejs+electron?
+when i maxim window via drag titlebar electron emit maxim event. i want to call maxim method that exist insid export default scope. how can i call?

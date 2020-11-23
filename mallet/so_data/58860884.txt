@@ -1,1 +1,1 @@
-Run globally installed node module from electron app
+i am tri to startup so, when i run i would expect the program to run. what is caus it to not execute?

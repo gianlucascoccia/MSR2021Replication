@@ -1,1 +1,1 @@
-Can NW.JS write web form data to a local text file?
+i am new to nw.js and was wonder if it is possibl to to save form data from a html form in the app to a text file locally. i am new to javascript come from python and i get the whole same origin polici thing with nw.js and how it can be overridden, i just can't figur out how to do this. ani help is much appreciated. thank

@@ -1,1 +1,1 @@
-Is it possible to get the edit cursor position of any focused editor globally using JavaScript or some plugin?
+there are some plugin to get the mous posit like robotjs, but i could not find anyth similar to get the edit cursor posit globally.i am work on a desktop applic for window use electron framework and my requir is that it should be abl to show some menu or window below the edit cursor position. and the cursor could be in ani text editor.

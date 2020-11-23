@@ -1,1 +1,1 @@
-react + electron app issue > failed to load resource: net::err_file_not_found bg.jpg
+when i build the electron app without use local server or tri to packag the app with electron-packager, it show me blockquot fail to load resource: net::err_file_not_found bg.jpghowev when i use local server "express" the app run just fine.how can i resolv that problem to packag the app with all resourc this is the webpack.config

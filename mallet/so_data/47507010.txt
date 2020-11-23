@@ -1,1 +1,1 @@
-React with Redux: returns incorrect state object
+i have react with redux and electron project. i tri to save current screen id to redux and get the save state on next screen. the problem is, that when i use getsettings, the return valu should be my save state:

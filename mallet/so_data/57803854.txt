@@ -1,1 +1,1 @@
-How to create a job object for my processes using Node.JS / Electron
+i'm creat a desktop applic (a game launcher) use electron.i would like to make a job object to have the follow behaviour:us start my launcherus start a game from my launcherif the launcher is kill (even from the task manager), applic are automat closedthi is my c++ implement event.

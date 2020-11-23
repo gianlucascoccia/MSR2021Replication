@@ -1,1 +1,1 @@
-Uncaught ReferenceError: _ is not defined from platojs using nodewebkit
+i'm get this error: uncaught referenceerror: _ is not defin from platoj use nodewebkit when tri to show the output result.i'm tri to get gaphic ------------jsfile

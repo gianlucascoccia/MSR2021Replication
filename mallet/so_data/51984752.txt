@@ -1,1 +1,1 @@
-Insert image to CKEditor
+i tri to use ckeditor5 and ckeditor-react in my electron app.and i want to past imag in editor, but i have an error filerepository-no-upload-adapter: upload adapt is not defined.doc say that i mast use cloud. but my app must work local and without internetcan someon help me?

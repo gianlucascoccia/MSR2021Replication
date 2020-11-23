@@ -1,1 +1,1 @@
-Redirect url for facebook desktop app
+i am tri to develop a facebook desktop app use node webkit. i am tri to find a way to use facebook client side javascript sdk to access graph functionalities. i am use the follow code to tri and connect to facebook. (https://gist.github.com/konsumer/2298cc4f8b7b0a1ee9fa#file-nwfacebooklogin-js)howev when i give the redirect url as https://www.facebook.com/connect/login_success.html it give an error what is the url i should give sinc i wont be host this on a website.

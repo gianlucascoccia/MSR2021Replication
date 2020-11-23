@@ -1,1 +1,1 @@
-descjop template with local sqlite db?
+i am work on a small desktop app with electron, use the descjop templat for clojurescript. i don't have a lot of expiri in clojurescript, and i was wonder how i could add sqlite local within electron and clojurescript. i would be grateful to point me to the right direction, i am a littl confused.

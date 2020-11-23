@@ -1,1 +1,1 @@
-ElectronJS, JavaScript and Python - require is not defined tried all the options
+i have a problem when i tri to execut the follow line:thank

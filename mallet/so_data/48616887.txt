@@ -1,1 +1,1 @@
-Browser Mediarecorder - API when capture more than one sources sometimes video will broken
+my clien app is base on problem will occur sometimes.i ani suggest for this requir

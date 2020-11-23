@@ -1,1 +1,1 @@
-Cannot read property "displayName" of null, React DevTools
+i'm work with a boilerpl react + redux + electron project. devtool work fine while i was ad a bunch of compon and work on the ui, but now it won't load and ani time i tri to load it i get an error in the console, initi tell me there an uncaught type error (#1 below), the second be a warn from react devtools.

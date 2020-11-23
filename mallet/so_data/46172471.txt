@@ -1,1 +1,1 @@
-Electron app with multiple tabbed browser windows connecting to https sites
+i am tri to creat my own version of http://meetfranz.com/ use electron.th app should allow up multipl url such as https://messenger.com/ and https://gmail.com/ to be visibl and have a tab interface.i'v tri both generat webview and browserwindow.webview can't seem to load messeng complet (doe not load login)browserwindow pop out of the main window…i tri earlier on also with ifram which was a no-go.ani idea on best way to accomplish a tab minim browser interfac that allow cookies/https?index.html

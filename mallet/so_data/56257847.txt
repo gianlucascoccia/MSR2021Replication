@@ -1,1 +1,1 @@
-<a href="javascript:history.back()" > does work in Chrome, but in Electron always goes to index.html
+i wrote an html + css webpag with some jave code insid the index.html . now i am tri to make an app out of it with electron. when i hit the but it doe noth then and also doesn't look nice, sinc the button get gray then.

@@ -1,1 +1,1 @@
-Requiring js file containing 'ref' and 'ffi' node modules from react file
+i am tri to implement react with electron. i have use custom librari in my electron app, for which i had to use ffi and ref module. now when i tri to requir the js file which has ffi and ref modul in it from react,i get bind error. wherea if i requir ani other js file of electron app from react, it work perfect.also initi when use ffi and ref', i was get the same error, but after rebuild these modul as per electron (electron-rebuild -f -w ref &amp; electron=rebuild -f -w ffi), it start work fine.

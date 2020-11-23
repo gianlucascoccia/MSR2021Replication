@@ -1,1 +1,1 @@
-Uncaught Error: process.binding is not supported (when developing in React, fluxible and electron)
+i was use react &amp; fluxibl &amp; electron to work on on the app flow and it follow the standard react flow, i.e, and i wonder if i did someth wrong? thanks.

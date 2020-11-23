@@ -1,1 +1,1 @@
-Desktop application with .net, angular and electron
+i am tri to creat an electron desktop app with angular as frontend and .net as backend.i creat a sampl angular project in .netcor 2.0 from vs 2017 and follow the step mention herei'm have issu with can someon pleas let me know if i'm miss anything.also if there is ani boilerpl code which i can refer to would be realli helpful.

@@ -1,1 +1,1 @@
-frameless window outside a window
+is it possibl to get a new window without the frame outsid the window(brows or webkit) like in the image?i'v tri this in the package.json file of new window:

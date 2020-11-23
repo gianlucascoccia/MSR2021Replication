@@ -1,1 +1,1 @@
-nsis installer removes existing app links in start menu subdirectory
+i'm use macro but i don't know enough about nsis script to work it out.

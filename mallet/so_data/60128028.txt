@@ -1,1 +1,1 @@
-electron absolute filepath in mustache sytnax
+in my templat i have the follow htmlthe first imag element show the imag as expected. howev the second doesnt and produc this error how can i get the second imag element working? i have alreadi set websecur to fals on the window. but this doesnt seem to help.

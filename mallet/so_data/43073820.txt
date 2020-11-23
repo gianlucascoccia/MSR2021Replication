@@ -1,1 +1,1 @@
-Error when interconnecting ipcRenderer and ipcMain in electron
+i have configur cli angular in electron, and i have a link where it execut a function that intercomun ipcrender and ipcmain:html:how do i end the connect between ipcrender and ipcmain?

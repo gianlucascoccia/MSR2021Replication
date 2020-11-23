@@ -1,1 +1,1 @@
-How to make Node Webkit work with express generator
+im tri to make an app with node and express use express generat and pack everyth with node-webkit. express generat creat an extrem basic app , but it work run npm start on localhost:30000.th manifestth folder structurewhen i run the app with nwjs the window display that the page can not be loaded, but the consol doesn't show ani error. i tri chang "main": "http://localhost:8080" to "main": "http://localhost:3000"which is how the app run usually, but it didnt work either.i this possible?what am i missing?thank in advanc

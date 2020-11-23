@@ -1,1 +1,1 @@
-Spectron Tests fails sporadically
+i have >30 test written with spectron framework to test an electron app (the app will start and close in everi test case). when i start one testcas it will run without error as expected. when i tri to run multipl tests, 3 or so test will run without error and other test will fail, becaus some element could not be found or becaus the setvalu method set a valu in a test field doe not fill the complet desir value, but part from the desir value.ani ideas? is there ani cach in spectron/webdriv which should be delet when run multipl tests?

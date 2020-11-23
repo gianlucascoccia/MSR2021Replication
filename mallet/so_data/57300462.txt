@@ -1,1 +1,1 @@
-Including html with script, require not defined
+i'm build electron app that allow extend modules. i'm get requir not defin when i call it from load html script. how can i do this or what approach can i take to deal with this?i'v html load into ifram on click. html has script tag with what modul has to do.mainwindow.htm want includ html script to have separ functionality, without need of call everi method from mainwindow.html.

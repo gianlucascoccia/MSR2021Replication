@@ -1,1 +1,1 @@
-Setting BrowserWindow frame: false disables click events
+i wrote an electron app that has a html tabl with click event on the first column. the click event fire as long as browserwindow frame: true if i chang it to fals the click event on the tabl stop working. i also have a button on the same page that is not affect by chang the frame property. anyon know whi this happen or a work around?

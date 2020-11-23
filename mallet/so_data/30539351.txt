@@ -1,1 +1,1 @@
-Should I use Angular for a local only NW.js project?
+i want to build a mid-siz applic use nodej and nw.js (former known as node-webkit). the applic will grab some data from the internet but isn't talk with one special servic which is under my control.i it a good idea to use angularj nevertheless or is the mvc approach of angular overs if there isn't neither a databas nor a webservic on the control layer?i think angular would be realli fine for databind and gui handling, but i'm not sure if it the right approach for this kind of application.

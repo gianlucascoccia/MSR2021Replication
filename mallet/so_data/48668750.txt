@@ -1,1 +1,1 @@
-Nightmare doesn't run twice in a row - NodeJS
+editi have notic the remov of the i'm assum this may be an issu with some resourc not be releas correct on the first run, but ani assist would be appreciated.also open to ani construct critic of my code, veri new to node and i'm sure i'm not write in the most optim way (sync file load etc)

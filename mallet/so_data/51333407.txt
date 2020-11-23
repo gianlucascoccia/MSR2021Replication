@@ -1,1 +1,1 @@
-Get nativeImage dimensions
+i have a but am not abl to figur out it width and height. is this possible? i can't find anyth here - https://electronjs.org/docs/api/native-image#imagegetaspectratio

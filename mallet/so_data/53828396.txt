@@ -1,1 +1,1 @@
-Electron - How to enforce minimum window size even when the Dev Tools is open
+i have set the minimum width and height for my electron applic so that i don't need to care about media queri for smaller sizes, but if user open the dev tools, the minimum width and height is appli to the outer window size so subtract the dev tool size, the real display size for my applic can be much smaller and the ui will be broken. is there ani way to appli the minimum width and height to the real content of the electron app, not includ the dev tools?

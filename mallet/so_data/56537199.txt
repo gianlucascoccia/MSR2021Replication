@@ -1,1 +1,1 @@
-How can I run Wraith and Bash commands from my electron app?
+i'v trim my code to make it easier to read, i hope you can help.i am build a visual regress test applic through electron. ideal user can run wraith test from a gui. i am close to set it up and i just need the applic to be abl to run wraith and bash command through electron.i'v tri use from your command line?your help is much appreciated.thank youmo

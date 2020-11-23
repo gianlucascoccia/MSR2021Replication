@@ -1,1 +1,1 @@
-Making node.js send datagram socket data in a timely manner
+i have a node-webkit base application, which doe some heavi webgl work (enough to stress out a high-end gpu), a fair signific amount of js processing, and i'm send

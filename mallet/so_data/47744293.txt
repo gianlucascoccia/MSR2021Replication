@@ -1,1 +1,1 @@
-Launch file with Electron - New Window
+i cannot find document that outlin how i can creat a new instanc of an electron app window (via function).i this possibl to do?

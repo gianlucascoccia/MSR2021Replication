@@ -1,1 +1,1 @@
-Get Release Notes from Electron autoUpdater
+i am use electron autoupdat to updat my app, with a privat github repo be the source.it updat the app fine, but i cannot seem to get my releas notes. are these the descript that can be type in github after publish the release? if that not the case how do i includ releas note in new releases?i have tri get releas note from: all of these log as undefined. edit:electron builder doe not provid the github bodi so how do i add releas notes?

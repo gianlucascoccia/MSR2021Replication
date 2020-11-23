@@ -1,1 +1,1 @@
-Image assets not found in packaged electron app - angular4 and webpack
+i'm write an electron app use angular and webpack and i have an issu where my one and onli refer to an imag is get skew in the build somehow. i suspect it a webpack config error somehow tie in to what electron doe to run the app - given the actual result url point to the correct directori accord to where the .js and .png file sit when output to dist.th imag is refer in login.component.htmlth the src directori look like this:

@@ -1,1 +1,1 @@
-run .swf files in electron project in windows os
+i have this code for convert websit to exe file use electon js but i have probleminsid the websit there are .swf file and i search alot about how i can run .swf file but it not work i was tra by plugin it name "pepper flash plugin"thi is the url for this plugin https://electron.atom.io/docs/tutorial/using-pepper-flash-plugin/and i was searsh about "pepflashplayer.dll"and put it on the root on prject directori and also not workani help pleas

@@ -1,1 +1,1 @@
-Need to interact with Hardware device like Cash Drawer using Electron JS
+i want to interact with hardwar devic like cash drawer use electron js. send some command to open or close drawer. help me provid some refer to implement same. doe electron support this ? or i need to use some other node packag for this ?

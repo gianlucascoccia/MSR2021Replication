@@ -1,1 +1,1 @@
-Image not updated in browser window
+i'm use node, javascript and html bundl with electron.i'm download an imag from the web use a random imag api and then save the imag as bg.jpg then set this as the background of the body. this is all in a

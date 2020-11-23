@@ -1,1 +1,1 @@
-NPM show update progress programmatically
+i want to use npm as the updat engin for a nwjs desktop app.i know it possibl to hook up to the npm api to programat instal packag and my understand is that the same api can be leverag for npm updates. i'd like is to show a progress bar to user that give user an indic of how far they are through the updat process.i it possibl to do an programmat with a callback that show progress as a percentag of all packag updated?

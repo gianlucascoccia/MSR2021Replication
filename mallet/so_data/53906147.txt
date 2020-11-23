@@ -1,1 +1,1 @@
-Apple's javascript MusicKit API authorize in electron app
+i want to make an electron app that use appl musickitj api. however, the author function open anoth window. this caus problem with electron sinc each window is sandboxed. the authent doe not seem to be oauth which rule out a tool like appauth-js.ani idea on how to implement non-oauth api authent in electron?

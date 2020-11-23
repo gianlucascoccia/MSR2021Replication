@@ -1,1 +1,1 @@
-Cannot require non-native module in electron child_process fork
+i'm use a child_process fork in my electron app to perform a heavi task without slow the user interface.mi child_process exit as soon as i tri this line:thi work properly, but when i packag my applic into an asar file use electron-packag and electron-rebuild, it doesn't.i don't get ani error, the child_process error event isn't triggered, but the exit is trigger with code 1.i assum the process fail to find the modul becaus of the asar file and therefor a fatal error happen when i'm tri to use it.pleas help :(

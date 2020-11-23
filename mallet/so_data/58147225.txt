@@ -1,1 +1,1 @@
-Electron proxy support for requestjs
+electron has built in support for corpor proxi such as basic, digest, ntlm, kerberos, and negoti via the net module.i'm go to be leverag this support in my app. howev my app use an sdk base on the request module.thi is not a problem for basic proxi as i can simpli bake the credenti into the proxi url. but how can i port the authent header for ntml and kerbero from electron and into requestjs?

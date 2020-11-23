@@ -1,1 +1,1 @@
-Unknown error building an electron-react app with webpack
+i have an electron-react power app and i'm tri to run my webpack build and dev file are pretti standard and i can't direct access bundle.jswher would the error be come from?

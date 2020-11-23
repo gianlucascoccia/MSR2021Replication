@@ -1,1 +1,1 @@
-Uncaught Error: Cannot find module 'jquery'
+i am use electron to make a desktop app. in my app i am load a an extern site (outsid atom app) let say http://mydummysite/index.html page.her is the structur of my app in atom editor:i. it is have follow parts: not? my goal is to use jqueri with electron app with node-integr true.

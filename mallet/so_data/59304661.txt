@@ -1,1 +1,1 @@
-Electron menubar module not found
+here is the code, the tutori said i should use this syntax in order to use menubar', i'v also tri includ menubar as a depend from electron', but that respond with menubar is not a constructor.her is the error message:error: cannot find modul menubar'and here is the full code from the main process

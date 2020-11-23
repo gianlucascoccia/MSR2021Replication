@@ -1,1 +1,1 @@
-Save data to file and close window on single button click
+i'v got some data i need to save to a file. on a button click i need to save it and then close the window. howev when i call a save() function and a close() function the window will close without have save anything.i have tri call two function on an event. i have tri creat one function where the data is save and then window is closed.expected: data save to file (txt in this case)output: window close and blank file creat with no data

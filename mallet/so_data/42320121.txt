@@ -1,1 +1,1 @@
-Calling a function through require in NW.js
+in my main script:obviously, it say that render can't be called. how do i make a function access from anoth script?

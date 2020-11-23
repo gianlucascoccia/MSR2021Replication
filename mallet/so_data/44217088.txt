@@ -1,1 +1,1 @@
-Can't resolve module 'child_process'
+i have an angular2 webpack project that is run in electron. i'm tri to use but it has no effect.you can see my entir webpack configur on past bin

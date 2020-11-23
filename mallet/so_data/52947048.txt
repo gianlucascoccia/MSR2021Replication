@@ -1,1 +1,1 @@
-Electron.js integration with Angular 6+
+to make desktop app from angular build we have to creat ani idea?

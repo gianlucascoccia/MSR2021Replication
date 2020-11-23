@@ -1,1 +1,1 @@
-Electron App Installation with Squirrel to ProgramFiles(x86)
+doe squirrel support an electron app instal to programfiles(x86) ?if yes, could you pleas explain me how it is done with an electron app ?i could not find anyth about it. i have done the instal to %localappdata% yet. but it is veri import for me that it can be instal to programfiles(x86).i did the instal with this guide: set up continu deploy on electron use squirrel

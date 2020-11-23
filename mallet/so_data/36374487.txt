@@ -1,1 +1,1 @@
-Electron- ipc sendSync - Returning event.returnValue inside a callback
+in my render process (web page),i am send a messag synchron for print the page as pdf.in the callback of update:os: window 10,window 7 electron version: 0.37.4demo of issue:https://github.com/raghuchandrasekaran/electron-quick-startclon the repo run applic and click on print to pdf

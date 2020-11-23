@@ -1,1 +1,1 @@
-Electron: Get current BrowserWindow ID from AngularJS controller
+i am deal with multipl electron window and would like to get the current browserwindow id to persist content after page reloads. how can i get the current window id without use ? i would simpli like to access the window id to use dure page reload to identifi which content belong to which window.

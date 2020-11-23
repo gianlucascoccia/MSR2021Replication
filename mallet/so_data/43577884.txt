@@ -1,1 +1,1 @@
-Build Electron app
+i'm tri to build a setup file in electron with electron-builderbut it alway give me an error. i'm run in the latest version on electron, npm and nodejs.i'm drive crazi with this problem pleas help me

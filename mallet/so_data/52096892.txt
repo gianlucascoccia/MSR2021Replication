@@ -1,1 +1,1 @@
-How to change window icon in electron after browser is open?
+i don't know if this is possible, but i figur i'd ask. after my electron app open a browser window and is display some icon in the taskbar and in it titl bar for the window, can i chang one or both of those icon while the browser is open? i suspect the answer is a hard no, but i thought it'd be cool if i could make it react in some way. the search term i came up with were most lead me to answer for how to chang the icon befor the window is open.

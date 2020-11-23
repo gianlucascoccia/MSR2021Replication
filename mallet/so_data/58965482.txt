@@ -1,1 +1,1 @@
-Electron-vue not cleaning the package.json when using electron-packager
+i'm current use electron-vu and electron-packag to packag my application. but when i build the applic use electron-package, it doe not "clean" the package.json file. the asar file still contain all build script and devdependencies.i origin thought this was a webpack problem, but i can't seem to find anyth about this. is it a set i need to defin somewhere? when i was use electron-packag without electron-vue, it work just fine and "cleaned" the package.json.

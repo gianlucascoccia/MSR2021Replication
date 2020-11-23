@@ -1,1 +1,1 @@
-SpeechRecognition network error (electronjs)
+electron: v4.0.8react: v16.8.4i build an app use electron, after implement speechrecognit i get a network error after everi recognit start. howev it work fine on chrome. doe anyon have a solut or an altern to make that work on electron ?

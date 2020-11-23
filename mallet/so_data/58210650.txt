@@ -1,1 +1,1 @@
-Webview returns blank white page in electron js
+i am use the boiler plate electron js quick start and tri to render a webview from their api docs. here my index.htmlit just render a blank screen. i tri on ubuntu and osx. there are no error in the console. i'm not even sure where to start debugging.

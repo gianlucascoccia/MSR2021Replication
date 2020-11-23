@@ -1,1 +1,1 @@
-How to use cookie obtained in BrowserWindow within webview
+i have search all avail inform on this and the document is not help me.i have an electron app (react internals) where a web page is to be shown in a webview.th domain e.g. .also, when i look at the applic tab in devtools, these specif cooki are not show anywher (but other are). whi is this?

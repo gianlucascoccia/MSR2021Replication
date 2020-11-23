@@ -1,1 +1,1 @@
-How to get window z-index,z-order or order of window in Electron?
+i need to check if a window is on top or bottom of other window includ other process than electron.for example: i have"a" electron window"b" electron window"c" other process windowus click on "a" and immedi click on "c" and then click on "b"which is where i want to check if "a" is on top of other window or not.ar there ani method or workaround to achiev this?

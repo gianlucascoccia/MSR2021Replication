@@ -1,1 +1,1 @@
-Distributing an Electron app on Windows, Mac and Linux
+i'v spend my weekend experi with electron and this caus a few question and dilemma in my head.i clone the follow github repositori to test with:electron-vue-typescript-starterthi project use . but what are the other file for? what should i do with them, becaus they are there for a reason, right?

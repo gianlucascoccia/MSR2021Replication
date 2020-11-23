@@ -1,1 +1,1 @@
-which module we can for Electron POS application receipt print?
+have been develop pos desktop applic use electron 4 and angular 7. need to implement print for invoice/receipt. electron has featur to print current page or creat pdf and print the same. but, i need to pass the raw data to print sinc we have predefin templat for print sheet.pleas advanc which modul we can use to achiev this.

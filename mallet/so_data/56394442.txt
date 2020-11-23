@@ -1,1 +1,1 @@
-How to create a customized folder with node.js on macOS?
+i am use the npm packag fs to creat a folder. but i want to give that folder a custom look. how can this be done?a an exampl maco has a lot of custom folders, but especi the dropbox folder is interest for me:

@@ -1,1 +1,1 @@
-Nodeweb kit crashes - Events.js:85 Error
+so i'm current use a node webkit and express to run an applic on a raspberri pi, howev after leav it on for a while it just crash with the error:can anybodi give me some pointer or know what wrong here?

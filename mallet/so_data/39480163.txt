@@ -1,1 +1,1 @@
-I'd like to implement login and register in electron atom desktop app
+i will like to implement login and regist function in electron atom desktop appi'm a newbi just tri to play around electron atomi'd like to learn electron by build a desktop app

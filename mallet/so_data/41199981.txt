@@ -1,1 +1,1 @@
-Run python script in Electron app
+i have a electron project which execut some python script use nodej child_process module.mi python script is in the root folder of my project.her how i call the python script:.so, how can i make this code work for the built project?

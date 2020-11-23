@@ -1,1 +1,1 @@
-Load nedb database on every request. Is it right?
+what will be if i load nedb databas on everi request? is it right way?

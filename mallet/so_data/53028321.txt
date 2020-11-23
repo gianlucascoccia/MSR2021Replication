@@ -1,1 +1,1 @@
-I cannot run Electron
+i'm tri to develop an electron applic but i am deal with this frustrat issue. it doe not start but has no errors.what i have tri so far:reinstal window 10instal window build toolsinstal python 2.7tri electron exampl codeaddit informationnod version v11.0.0electron version v3.0.6yarn version v1.12.1what is the problem? i have tri instal via npm and yarn but that didn't work either.codeoutputno error output.i do howev see the process in task manag but no window.

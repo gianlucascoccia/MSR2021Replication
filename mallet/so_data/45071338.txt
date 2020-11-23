@@ -1,1 +1,1 @@
-window.open within electron webview
+i have a webview insid my app that i primarili use to access extern websites.on particular extern websit has some js in it page: attribut on so this code open a new window, but i would like to get control of this window. i am not sure how to do that.specif i would like to mute the window and hide the window as well as be abl to close it.how can i get control of a popup open through a webview?thanks!

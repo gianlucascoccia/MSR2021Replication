@@ -1,1 +1,1 @@
-Node-webkit multi platform native module with nw-gyp
+i'm current write a node-webkit applic which use a nativ modul ( and requir depend on platform? ...update: those post were what i was look for: https://github.com/joyent/node/issues/4398#issuecomment-11233144https://github.com/npm/npm/issues/1891

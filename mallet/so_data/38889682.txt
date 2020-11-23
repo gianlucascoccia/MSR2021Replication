@@ -1,1 +1,1 @@
-Electron Looking for Resources in Root Folder
+we are build a web app (in angular 2, although i am not sure if that is the reason for my issue) that we also need to run as an electron application. i have branch out the solut and replac item in the package.json so that on start it launch electron. for reason that i don't understand, in our solut it is look for relat path of resourc in the root folder of my drive, not the folder that the app was launch from (c:\source\nameofmyapp).can someon explain whi this may occur?chang to package.json level.

@@ -1,1 +1,1 @@
-Recognize the foreground application with a crossover application
+i am develop a crossplatform desktop applic with angular2 and electron.i need to determine, at each moment, with this application, the foreground process which is run on the computer, whatev the os (windows, linux, mac).i tri the detect-active-titl packag on npm (https://www.npmjs.com/package/detect-active-title) but it doesn't work. i have a "platform not support undefined" error. so, at your opinion, what is the best solut for me to detect the foreground process, whatev if it is linux, mac or window ?

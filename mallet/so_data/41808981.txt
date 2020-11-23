@@ -1,1 +1,1 @@
-Electron missing node_modules
+so, im migrat my angular2 webapp into electron, i so far so good, i made the electron run the app with the

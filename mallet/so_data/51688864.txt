@@ -1,1 +1,1 @@
-Reactjs/Javascript the most efficient way to print to printer a 2d array into table
+i'm current use electron + reactjs/javascript to develop an appplication. i'm just wonder if anyon know ani effici way to print (e.g. use someth like i think my electron window crash while it creat the table. doe anyon know ani good way of print the array?

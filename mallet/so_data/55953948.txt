@@ -1,1 +1,1 @@
-How to build node-serialport for Windows on Mac?
+good day!i am tri to build a vuej electron app with node-serialport on my mac.i can build electron and it work perfect on mac but on window it alway has an error: to window and instal have two question bese on this issue:can i build nativ node modul for other platform on mac or linux?wil electron-rebuild do prebuild-instal befor building?

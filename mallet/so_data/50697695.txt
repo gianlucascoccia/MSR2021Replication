@@ -1,1 +1,1 @@
-How can a packaged electron app use a child_process?
+i wrote a part of an electron app already. in fact, i connect php to electron use a child-process. (the code of the main.j file which doe that can be found at the bottom of my question, to keep everyth clear).when i start my electron applic use (note: this file work wihtout packaging)

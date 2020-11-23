@@ -1,1 +1,1 @@
-electron Low Quality NativeImage toJPG
+im use web contents.capture() function to get screenshot from window but the qualiti of imag is not satisfi here the codesampl imagea you can see abov the imag res is not good enough for our users;in electron demoapi qualiti of captur imag is the same.i there ani other way to get better quality?

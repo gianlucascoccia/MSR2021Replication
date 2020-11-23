@@ -1,1 +1,1 @@
-Spectron opens Empty terminals during test run
+dure execut spectron open two termin window that are blank. first window is the applic as i want it to be, other window look like termin without anyth inside. current i focus to the first window use focus().github issu link : https://github.com/electron/spectron/issues/60do anyon have ani idea what go on ? is it a chromedriv issue?

@@ -1,1 +1,1 @@
-Electron App ReferenceError: "package" is not defined
+i'm tri to port my webapp into a desktop app. i'm tri to use electron. i have basic creat the package.json, main.j and ran the command. everyth seem ok, but i get an error say in this case referenceerror: flow is not definedi'm use ng-flow.it work fine if i just open it on webbrows and other packag import doesn't seem to have a problem. is there some consider i should take into account when develop electron app regard the packag i import? script src="..."

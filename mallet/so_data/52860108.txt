@@ -1,1 +1,1 @@
-Natural language bot with Nodejs (standalone Windows app)
+i'm tri to build an electron app that will act like a chat bot, in which you can ask it to do thing in natur languag and will understand and run the task (functions). howev i have a gap in knowledge: would the right approach start with the natur node librari or with some other librari specif for this task like api.ai? sinc i'm just start on ai, would it be better to start with api.ai?thanks!

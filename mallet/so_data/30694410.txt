@@ -1,1 +1,1 @@
-GitHub release asset download with node.js
+i want to write an auto download in node.j use the http.get method from a github releas use the api and and i receiv 302 error. what can i do?

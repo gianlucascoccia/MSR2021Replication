@@ -1,1 +1,1 @@
-How Do I Use ES import in Electron?
+if i tri to load a script with in the package.json as you would in node 12, but that didn't work either. is this possible?

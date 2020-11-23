@@ -1,1 +1,1 @@
-Uncaught Error: Cannot find module - when running packaged Electron app
+when my node_modul folder is locat in a root folder (not the same folder as where i ran the electron-packag command), i get , it work fine.also, when the node_modul folder is locat insid the same folder as my app and i call electron-packager, the packag app work fine.can't electron-packag find the node_modul from a root folder??help!

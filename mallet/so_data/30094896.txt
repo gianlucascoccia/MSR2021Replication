@@ -1,1 +1,1 @@
-Catch file download events in Electron app
+i'm write a wrapper desktop applic around a webpag use electron. i'm use a event which get fire when i click on the link, but i can't access ani respons data (at least the headers), nor it state that electron will not handl this link so i can do whatev i want to do with it on my own, like fetch it with the node.j api.

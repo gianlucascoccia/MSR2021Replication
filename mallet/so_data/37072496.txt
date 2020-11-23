@@ -1,1 +1,1 @@
-Electron - no log message printed by LOG(INFO) in C++ file
+i download and compil electron (https://github.com/electron/electron) from source. i tri to add some line like log(info) &lt;&lt; "some message" in some .cc file to help understand how the code works. the compil succeed, but i did not see ani messag be print in the shell. could someon advis what i should do to get these messages?

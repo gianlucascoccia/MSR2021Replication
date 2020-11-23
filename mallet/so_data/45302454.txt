@@ -1,1 +1,1 @@
-How to extract GPU information in electron app?
+is there an option to retriev what graphic card is run on the system (windows) that doe not requir usag of chrome://gpu/ ?

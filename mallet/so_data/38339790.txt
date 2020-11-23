@@ -1,1 +1,1 @@
-Persist IndexedDB even after computer restart in Electron
+i'm tri to use dexie/indexeddb in an angular 2 app that run over electron, the databas i creat + data insert persist after i restart the application, but if i restart the comput then all the data is erased.i there anyway to persist the data on the disk so it is avail even after a comput restart?how can i get a copi of the indexeddb and persist it in a file use nodej and then reload it?, is it possible?

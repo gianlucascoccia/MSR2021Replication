@@ -1,1 +1,1 @@
-Create window-like menu on OS X
+i'd like to creat a same sort of tray menu like this application. becaus it is on the list of applic that use node-webkit/nw.js, i think it possible. i have look through all the document and couldn't find anyth on how to achiev that. search googl also wasn't realli fruitful. mayb one of you guy has done this befor and could send me in the right direction?

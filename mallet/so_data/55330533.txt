@@ -1,1 +1,1 @@
-Electron <webview>: Uncaught SyntaxError: Unexpected token
+when use my electron app on window (problem doesn't appear on mac) i start get this error for some extern url that are load into a

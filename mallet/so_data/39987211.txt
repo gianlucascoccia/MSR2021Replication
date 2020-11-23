@@ -1,1 +1,1 @@
-Why does atom's node version differ from apm's node version?
+i feel like this is caus my atom packag (terminal-plus) node-gyp problem (version mismatch expect xx, got xx)

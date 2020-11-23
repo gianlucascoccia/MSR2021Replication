@@ -1,1 +1,1 @@
-SerialPort garbage data on NodeJS
+i connect a weigh machin with a surfac go with an app base on electron &amp; nodejs. it a serial connect with a usb-c adapter, it work perfect but, when i start charg the surfac it start give me a lot of garbag inform and characters. i know that the charg port of the surfac it also a communic port but i don't know if that what interf or it my code and it just coincidence. ani ideas?

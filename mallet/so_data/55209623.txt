@@ -1,1 +1,1 @@
-Electron loading html page as text in window
+i am use angular and electron to creat an app. when i build the app and run electron. the electron window show the actual code of the target html page as text and not as an html page as it is suppos to be.th screenshot of the electron app is:i have not been abl to find this issu anywher on the internet. my electron code for creat the window is:can anyon tell me what i am do wrong

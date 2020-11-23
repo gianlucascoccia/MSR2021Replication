@@ -1,1 +1,1 @@
-Electron App: How to 'lock' a computer?
+i am build an electron app, which need to lock the user pc (for security) after a long task is done.i am unabl to find a way to achiev this.i there a way to send keystrok (winkey + l) to the os?

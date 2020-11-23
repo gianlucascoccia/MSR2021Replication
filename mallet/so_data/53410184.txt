@@ -1,1 +1,1 @@
-Electron application cannot resolve any node module that is added to webpack externals
+i am tri to build an electron applic use vue.js.i am use webpack-dev-serv to run the electron app in develop mode.in the webpack config i am ad all my node_modul to the extern array sinc i do not want them to be bundled. the webpack develop server get start success without ani error and the applic is also launch as expect but i get the follow error in the console.&#xd;&#xd;&#xd;note: the resolveappdir function return the cwd path concaten with the paramet passed.

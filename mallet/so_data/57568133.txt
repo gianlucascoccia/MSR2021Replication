@@ -1,1 +1,1 @@
-Unable to upload the Electron appx app to the MS app store
+bundl msix packages: i have creat .msix packag for window app. i tri to submit in ms store, pleas refer attach for error:a error mentioned, the exist upload packag is in bundl format. and the packag we creat in .msix/appx format. henc unabl to upload this packag to store.w use the below refer to creat the bundle. but no luck.https://docs.microsoft.com/en-us/windows/msix/packaging-tool/bundle-msix-packagesshow below error:

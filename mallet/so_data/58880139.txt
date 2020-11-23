@@ -1,1 +1,1 @@
-electron - node.js - ng : file path\ng.ps1 cannot be loaded because running scripts is disabled on this system
+i am tri to compil a project on problem, ani insight or guidanc in anoth direct will be use to solv this issue.

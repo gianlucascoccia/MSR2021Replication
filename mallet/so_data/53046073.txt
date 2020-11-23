@@ -1,1 +1,1 @@
-open a new window on mouse click in React
+i am creat a desktop applic with electron. i want to open a new window with differ dimens after the log in button is clicked. i am use ipc render to pass messag to the main.j file to resiz the window object. but it doe not seem to work.

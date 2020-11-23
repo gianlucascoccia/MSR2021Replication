@@ -1,1 +1,1 @@
-Nodewebkit app: hide cursor
+i'm develop my web app with nodewebkit in fullscreen mode.it has to be use with touchscreen monitor.i'v use css proprerty:in nodewebkit manifest seem that noth useful is provid to remov cursor..problem is that cursor disappear onli when it is move the first time.how can i improv this behavior?

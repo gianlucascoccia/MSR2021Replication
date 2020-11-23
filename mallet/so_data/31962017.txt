@@ -1,1 +1,1 @@
-On-site Javascript is not working in Electron but anywhere else
+i wrote a small desktop wrapper for a site yesterday (it realli just load a website), as a bit of a practis with electron, but i notic the follow thing:javascript, that should (and does) normal work on everi browser doesn't work with electron, as it throw an error, relat to the javascript in that special case. set that might get it to work?if you want to fiddl around with the sourc code, you can find it here.

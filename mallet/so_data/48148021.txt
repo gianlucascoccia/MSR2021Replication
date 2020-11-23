@@ -1,1 +1,1 @@
-How to import ipcRenderer in react?
+i'v tri to import ipcrender in react appbut i get this error messag : requir is not defin

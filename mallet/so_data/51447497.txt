@@ -1,1 +1,1 @@
-How do I set a chromium command line flag in Electron?
+i am work on an electron app and need to enabl the follow chromium flag can someon help me set up this flag? thank you.

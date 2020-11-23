@@ -1,1 +1,1 @@
-Angular Material icon fonts show as text
+i'm follow the instruct here to incorpor the materi design icon in my nw.js app. the problem is, all the icon show up as text. e.g. if i sayth abov will show "menu" text in the button. am i use it all wrong? how can i use the maetrial design icon in my project?

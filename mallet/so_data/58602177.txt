@@ -1,1 +1,1 @@
-TS breakpoints not finding source in VS Code (inspector)
+i am use vs code, and i'd like to set breakpoint in my ts file and step through them. i am launch an electron-bas angular applic with node. my applic success launches, but i when i hover over my breakpoint i see: breakpoint ignor becaus generat code not found (sourc map problem?)mi should not be sensit to webpack.

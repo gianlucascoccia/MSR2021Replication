@@ -1,1 +1,1 @@
-angular-electron WebView not loading all functionalities of website
+i am tri to use webview in my desktop application(which is built by elect with angular). when i load the window, i am abl to render the webview but after login into the websit webview content, all the other remain function are not working.note: websit is develop use thymeleaf.i tri like below:

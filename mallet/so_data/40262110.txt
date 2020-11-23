@@ -1,1 +1,1 @@
-Zoom with Ctrl+Scroll Wheel in Electron App?
+is it possibl to emul browser-lik behavior in electron to add zoom with ctrl+scroll wheel?

@@ -1,1 +1,1 @@
-Unable to npm install or start with electron-quick-start
+i am use the version of node that is state on electron site, which is 7.4.0 and i'm use npm version 4.0.5 (windows).th problem i'm have is with the after the abov output;pastebinani help would be great appreciated, thanks.

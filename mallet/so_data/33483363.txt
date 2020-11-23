@@ -1,1 +1,1 @@
-Electron GET request from LOCALHOST
+i'm tri to get a respons from a web server that i run on localhost(), the request is alway successful.and even if a tri to start the request(on localhost) from my browser console, it is alway successful.i can't understand whi electron behav like this.

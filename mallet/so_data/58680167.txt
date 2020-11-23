@@ -1,1 +1,1 @@
-How to get the length of database in NeDB?
+i am use nedb for databas in node.j and what i want to do is to get the length of the databas (objects) and i want to refer it as an id for everi obect the question is how to get the length of databas ?

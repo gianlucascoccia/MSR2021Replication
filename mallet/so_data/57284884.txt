@@ -1,1 +1,1 @@
-Electron function window all closed cant see other function
+hi i write listen server on port 3000:when i click "close app" button electron return error: server is not definedhow i can close server and electron ?

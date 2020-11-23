@@ -1,1 +1,1 @@
-How to add Electron to Angular-cli project?
+how i can add electron prebuild to angular-c project. i creat index.j file insid the src folder which look like this: note:index.j and packag for electron are includ insid src folder.

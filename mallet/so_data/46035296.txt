@@ -1,1 +1,1 @@
-Electron: __ was compiled against a different version of Node.js
+when tri to packag electron app on maco sierra use electron-installer-dmg, i get the following:i there ani solut to this problem?

@@ -1,1 +1,1 @@
-Electron application shows black screen while running on windows 7 operating system
+i am total new to electron projects. i am face issu is black screen show on window 7(64bit, 2gb ram). but run perfect in window 8, window 7(64bit, 4gb ram), window 10 system . anyon give solut for this issue.us electron version:

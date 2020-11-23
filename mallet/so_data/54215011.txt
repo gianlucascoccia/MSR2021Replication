@@ -1,1 +1,1 @@
-Command failed: java -jar
+i am use the package: https://www.npmjs.com/package/easy-pdf-mergeto merg sever pdf files, and it work fine when run from nodejs.howev when i pack it through electron-build i get the follow error "command failed: java -jar" i am guess it has someth to do with electron-build put node modul into the "app.asar".i have download java and ad to path (which mean it work fine from cmd)i am not veri skill in either java or electron-build so ani input would be helpfuledit:i have updat code with close bracket and remov error with open jar file.

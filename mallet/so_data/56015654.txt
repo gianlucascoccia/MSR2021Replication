@@ -1,1 +1,1 @@
-Is there any event to detect win.reload completion
+i'm use electron js to build an app. i want to reload my app after reconnect. need to show a loader window while reload and hide after complete. is there ani way to do it?i don't want to put loader insid my app. i like to show it in a separ browser window.i'm expect like this

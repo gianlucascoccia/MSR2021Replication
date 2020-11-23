@@ -1,1 +1,1 @@
-How do I properly setup Electron with react
+i am look to read my render.j which would be my ipcrender to my ipcmain. i'm also have issu with determin where to put my require('./render.js') in my index.html or app.js. ani advise?

@@ -1,1 +1,1 @@
-How can I access variable from a concatenated script that holds another script inside it?
+i have this code to open a file in nw.js.

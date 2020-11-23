@@ -1,1 +1,1 @@
-Unset session expire in SailsJS - NodeJS
+i am creat an applic in which, i have a authent page wherein, i need the session to be set on login, but it should not expir unless the user log out or close the application. right now the session is get expir automat even though i haven't set ani session expire.pleas help me find a solution. thank in advance.

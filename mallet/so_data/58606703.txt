@@ -1,1 +1,1 @@
-Run spectron with webpack
+i have an app on electron and react. when i'm tri to use spectron and mocha i have a problem that i have no webpack for run my app. is there anyway to launch my test with dev version of app?

@@ -1,1 +1,1 @@
-Unable to find `../config/paths` and `../config/env`
+i am tri to convert react.j web app to desktop app through electron. pleas find the error trace, scripts/start.js, and package.json. when i comment out

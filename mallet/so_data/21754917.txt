@@ -1,1 +1,1 @@
-Node-Webkit: How to minimize the window?
+i am wonder how to minim the window. the document is kinda confusing.clos the window is no problem but minim won't work this way:what am i do wrong?

@@ -1,1 +1,1 @@
-`require is not defined` error when using electron with a react app
+i have a react-bas web applic and i'm tri to build an electron app out of it. i have gotten quit far and the app seem to load but somewher in between i get an error say i even tri use webpack-target-electron-render but it caus more problems.

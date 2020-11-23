@@ -1,1 +1,1 @@
-Issue adding Firebase to electron project, gRPC dependency issue
+i have been have this issu for a coupl day now and haven't been abl to find a solut to it. from my research it seem that this is a known issue, but none of the provid fix work in my case. i have tried:ani kind of help would be appreciated.

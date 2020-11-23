@@ -1,1 +1,1 @@
-Electron app with zerorpc on armv7l crashes
+i am tri to build an app for armv7l architecture. use electron-packager, i am abl to build it. but while run it, it crash with segment fault on startup. can anyon help to fix this?or, can anyon suggest altern to zerorpc, fo communic between python code and electron module?

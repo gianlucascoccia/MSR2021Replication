@@ -1,1 +1,1 @@
-Using ipcRenderer inside executeJavaScript
+in the sourc code for https://github.com/ytmdesktop/ytmdesktop/ i notic they use ipcrend insid of executejavascript(); when i tri to do it myself it just said ipcrend is undefined.i replic the exact code and still got the error. what am i do wrong?fil for refer (line 116):https://github.com/ytmdesktop/ytmdesktop/blob/35c3d6522d0ab58f2a09ec5d2251cb4799379394/utils/injectcontrols.j

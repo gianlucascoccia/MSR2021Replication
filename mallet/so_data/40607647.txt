@@ -1,1 +1,1 @@
-Electron packager not set icon
+i have but the icon is not set and it set default atom icon.i have tri also with local file, but the icon is still default.

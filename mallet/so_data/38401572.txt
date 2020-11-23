@@ -1,1 +1,1 @@
-What exactly does disablewebsecurity do when used with a <webview> or Chrome/Chromium?
+i'm interest in understand exact what the attribut ?ani insight is appreci (i couldn't find it document anywhere).thanks!

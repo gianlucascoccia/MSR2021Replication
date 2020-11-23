@@ -1,1 +1,1 @@
-Package NodeWebkit and Web Server
+my app is readi for distribut and i have decid i want to use nodewebkit. now, the problem is that my app load local file and i need a web server for that. how can i packag both nodewebkit and some web server together? if it imposs to add web server to nodewebkit, how can i load my files(images,scripts,css) into html? thanks! :)

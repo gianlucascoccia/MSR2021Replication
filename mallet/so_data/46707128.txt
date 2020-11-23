@@ -1,1 +1,1 @@
-Mac OS - get app window to front
+i have electron base app. i open url in electron window use this do not work. ap is none. is there a way to get hold of electron window through pid and get it in front.

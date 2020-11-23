@@ -1,1 +1,1 @@
-Querying external database in Electron app best practice?
+i'm build an electron app that connect to an extern databas use mysql. whenev a page, file in between, and it would have to pass through that)?

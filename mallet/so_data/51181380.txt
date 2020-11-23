@@ -1,1 +1,1 @@
-Electron forge start is broken by Gulp
+pleas help becaus this thing is drive me crazy. in short when gulp refer is ad to electron-forg project app launch fails. node: v8.11.3electron-forge: v5.2.2package.j snippet:onc start consol will output error with description: c:\projects\electron\vendor\node\src\async-wrap.cc:357 assert env->async_hooks_init_function().isempty() failed.

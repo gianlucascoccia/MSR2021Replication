@@ -1,1 +1,1 @@
-How to call Windows COM object like Excel.Application from node.js with electron?
+how to call window com object like excel.appl and outlook from node.j with electron?i find the win32ol but it is 5 year old. i am use offic 2016.it seem like the electron-edg or edg can do the job but do you have ani example?

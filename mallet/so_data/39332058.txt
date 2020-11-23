@@ -1,1 +1,1 @@
-Electron cookie
+for electron cooki i use https://www.npmjs.com/package/electron-cookiesthen ad this into my htmlani idea why?mani thank

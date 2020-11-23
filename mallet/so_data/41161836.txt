@@ -1,1 +1,1 @@
-NodeJS Electron with express
+i'm tri to make a webappl use electron (for the websit and desktop application) and express (for session etc.)now, i got this as my app.js:, the applic starts, but i don't get either a request or a webpage. all i get is basic html without anyth (on doctyp html head and body).i search for a long time but couldn't find anything.

@@ -1,1 +1,1 @@
-How to access electron app's current browserWindow?
+i'm stuck on a particular point with my electron app:when i open the devtools, i call ? i found noth in the document nor on so nor by googling, so i guess i might haev miss something.let me precis a few things:i'm still a newbi with electroni have no control on the page that are call in the app, i'm tri to use electron as a kind of "restrict browser" to ship with a php-base applic

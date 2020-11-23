@@ -1,1 +1,1 @@
-check if new window is still open
+ive been read the node-webkit wiki and may have miss or just dont understand from the documentation, so i have been tri lot of way which i think is how one would check to see if a new window is open or not, one way im checkig is store the new_win var in "on('loaded')" and "on('close')".i would like to know if what i am do is ok, or what an more effic way.

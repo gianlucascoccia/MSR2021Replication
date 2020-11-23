@@ -1,1 +1,1 @@
-Disable keyboard shortcuts Alt + Tab in electron application
+i am build an applic use javascript, node.js, and electron.part of this applic is design to lock the comput until the user authent themselves.thi works, howev i need to make my applic disabl the alt + tab keyboard shortcut, as current the user can use this to skip over my lock page (and thus be abl to use the comput without have been authenticated).ani suggest would be appreciated.

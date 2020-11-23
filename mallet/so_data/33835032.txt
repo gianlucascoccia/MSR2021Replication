@@ -1,1 +1,1 @@
-BrowserWindow doesn’t open an https page without ignore-certificate-errors
+i'm work on a veri simpl electron applic to load up a secur websit which ask for a certif for login.when i use the network tab in the dev tools, i can see that the websit is load after the certif is chosen (but there is no ssl with the regular http), but it just doesn't work with the https version of the page. is there a way to see whi it doesn't do anyth without the switch?

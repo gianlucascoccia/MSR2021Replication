@@ -1,1 +1,1 @@
-Can't pass variable defined in main process to renderer BrowserView with contextIsolation enabled?
+i'm tri to creat a custom menu/titl bar, but i'm ad it to the main browserwindow use a browserview, instead of just use the but that not what i want to do.

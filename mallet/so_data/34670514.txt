@@ -1,1 +1,1 @@
-Can i use OSX native API's in electron
+is there a way to use osx nativ api use electron. let say i want to use system configur framework, is there a way to use the power of nativ osx api?thank

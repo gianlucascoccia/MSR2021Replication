@@ -1,1 +1,1 @@
-Electron menu not showing
+follow an electron tutori and can't get the menus to show up on os x. check that the menu object get popul with menu items, they just don't appear either in the window or at the top of the screen. html file load just fine.th onli menu i see is the (default) app menu that read electron, but it has no content when clicked, not even empti line - just noth happen on click.

@@ -1,1 +1,1 @@
-Electron : How to call COM object of all OS windows/macOS/Linux like Excel.Application/ Outlook.Application from node.js with electron?
+how to call a com object like excel.appl and outlook from node.j with electron?i need to open outlook email client in cross-platform like macos, windows, and linux.i found win32ol and winax but these npm packag support onli window os, not maco and linux.

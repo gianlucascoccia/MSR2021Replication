@@ -1,1 +1,1 @@
-Why multiple sub-instance are running in electron?
+i am new to electron and sorri if i am ask a veri basic question.curr scenarioi am run a new electron app though the commandand on run it show multipl sub-inst of electron that are running.curr codeapp.jsxindex.jsoutputquestioni want to know whi are these multipl instanc running? can they be remov to reduc overal memori consumption?

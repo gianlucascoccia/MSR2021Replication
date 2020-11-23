@@ -1,1 +1,1 @@
-Electron-builder How can I add environment variable to My APP
+my package.jsonthi is easi to run the app from differ evn in my webstromso if i use electron-build to build it ,i also want to run the app in the node_env.i tri to search the way but no result.

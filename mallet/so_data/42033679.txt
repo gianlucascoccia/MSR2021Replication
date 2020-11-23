@@ -1,1 +1,1 @@
-Unable to assign a value in a javascript function while fetching from sqlite
+unabl to assign a valu in a javascript function while fetch from sqlite.for eg: this code in not workingi want the first one work. pleas tell me, where i am wrong.

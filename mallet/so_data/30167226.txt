@@ -1,1 +1,1 @@
-How to protect source code in electron project
+i build my first electron app but now i wonder how to protect the sourc code to be view by other developers.th offici doc say : to protect your app resourc and sourc code from the users, you can choos to packag your app into an asar archiv with littl chang to your sourc code.so far the best i can think of is uglyfi the source-cod and packag it into a asar file, but the asar file is just an archiv and can be easili be extracted. i don't see how have that make your code "protect from the user"ani idea ?

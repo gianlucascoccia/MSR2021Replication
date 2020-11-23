@@ -1,1 +1,1 @@
-Electron event emitter error while app.quit with closing all open renderer processes
+i have one main window list all avail server with a status button which has the id of the server. an info window is open after press the relat status button - pass the id to the copi of info window, make the status button disabled. if the info window is closed, the info window pass back the id to the main window so it make the status button enabl again. to do that, i'm use . by the way, if i omit this line everyth work perfectly.

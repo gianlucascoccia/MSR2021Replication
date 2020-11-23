@@ -1,1 +1,1 @@
-Prevent multiple tray icons in Node Webkit?
+is there a way to check if a tray icon alreadi exist for given app in node webkit (on osx)?mi problem look like this:cod use to creat tray icon:

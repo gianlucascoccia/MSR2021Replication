@@ -1,1 +1,1 @@
-This version of Node.js requires NODE_MODULE_VERSION 70
+i was tri to build a nativ modul for electron (node.js). but after build it when tri to use it my project i get this modul was compil against a differ node.j version usingnode_module_vers 72. this version of node.j requiresnode_module_vers 70. pleas tri re-compil or re-instal error. i have tri a lot of way, but didn't abl to solv it. also i have check on the node.j releas logs, no where found ani version that includ node_module_vers 70.

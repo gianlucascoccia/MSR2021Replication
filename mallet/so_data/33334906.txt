@@ -1,1 +1,1 @@
-How do I debug my native modules in atom electron?
+use visual studio i can debug my modul in against node but the electron environ doe not seem to allow this. i can see that my modul has load with the match symbols. my break point becom activ but it will not break when the my test method is called.if i set an "int 3" (debug break assembl instruction) it just crash electron.anyth i am miss here?

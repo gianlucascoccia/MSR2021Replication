@@ -1,1 +1,1 @@
-List PGP Keys in js
+i'm want to make a tabl with a list of import pgp key in javascript.pgp key are go to be save in a paste.i ask for a import key featur in openpgp.j and peopl answer me that i can do with librari and few line of code.ani idea how can i do it?bas i want someth like that for js and pgp.btw this exampl is from c# and x509 certificates.

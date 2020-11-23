@@ -1,1 +1,1 @@
-SetUnhandledExceptionFilter in electron node native module disables crash reporter
+i have a nativ node modul run in an electron applic and i want to log all unhandl except so i use the follow snippet:th problem is that when i use setunhandledexceptionfilt electron crash report will not work anymor (i have it set up to send a log file to some server). i also tri all possibl return valu but none work.what am i do wrong ? and how to get this to work ?some more info:window 7 64 bitappl is 32bitelectron version 1.7.10node version 8.1.3electron crash report

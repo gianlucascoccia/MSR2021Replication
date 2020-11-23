@@ -1,1 +1,1 @@
-JavaScript function returns 'illegal return statement'
+i'm tri to find which radio input are select so i can pass the info to my main.j (electron).

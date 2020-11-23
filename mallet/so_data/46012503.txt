@@ -1,1 +1,1 @@
-Electron - Can't initialize program
+i follow a few video tutori (such as this one and this one), which use a veri similar code, which throw up an error.mi files:package.json for some reason.thank a lot for helping!

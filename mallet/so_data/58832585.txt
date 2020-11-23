@@ -1,1 +1,1 @@
-Electron frameless transparent window background glitch when dragged out of screen
+electron version:6.0.9oper system:window 10 pro (1903)when a frameless, transpar window is be drag out of the screen, the out-of-bound transpar background turn to black when come back to the viewport. worth mention that it doe not happen everi time. but rather occasionally.obvi there are no css chang or ani event that i can tell be trigger so i am rather clueless here. i would appreci ideas/pointers.black background after drag the window back to the desktop

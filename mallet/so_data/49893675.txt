@@ -1,1 +1,1 @@
-System freezes when parent and child connectivity
+i have use pouchdb with electron, connect two system through local lan and use the singl databas which is a parent and anoth child system will be use the same pouchdb database.us express-pouch to make child system to connect parent pouchdb.ther is background sync will be run in parent system from couchdb to pouchdb.th connect is work as expected, problem will be after some time of connect system freez in both parent and child.check task manag disk 100%, memori 100%.both system - window 10 pro - ram - 4gb

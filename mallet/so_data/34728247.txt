@@ -1,1 +1,1 @@
-How to get currently selected text from within electron desktop application?
+i am build a desktop applic with electron. as a part of it function i want to get text that is current selected, when a particular event fires. this text can be ani where - webpage, pdf, sublim etc.i there ani way i can do this?

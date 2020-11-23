@@ -1,1 +1,1 @@
-Why are my finished torrents (sometimes) not getting written to disk?
+i tri to write a littl torrent client with electron and webtorrent. everyth seem fine at first but sometim when a torrent is finish download the result file are not get written to disk.mi project is setup via the simulatedgreg/electron-vu boilerplate.her the code of my torrent client class:

@@ -1,1 +1,1 @@
-Electron JS/Node JS desktop app as a local network webserver
+is it possibl to make an electron js desktop app that is a web server, so that when we start the app the server will also start and we can access it from other comput within the same network/lan?

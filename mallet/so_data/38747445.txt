@@ -1,1 +1,1 @@
-Node.js module lookup in Electron+Angular 2 & TypeScript application
+i'm develop an electron applic with angular 2.i follow this tutori to initi setup the environment.mi setup is a bit more complic but in general is veri similar. as a modul loader.

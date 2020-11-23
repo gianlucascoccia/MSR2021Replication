@@ -1,1 +1,1 @@
-Resize Images crossplattform with node.js
+i wrote a littl tool with node-webkit. one reason i chose node-webkit is the fact that it is easi to distribut your app to all major plattforms.someth i would love to do now, is to resiz a bunch of imag locat on the file storage.i found plenti of packag which do this via imagemagick. this would requir the user to have imagemagick installed, which is bad...us a webservic is no option. there can easili be around 600 images.if there is no solution, i will onli run that task if imagemagick is installed.

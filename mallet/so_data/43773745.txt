@@ -1,1 +1,1 @@
-Reading from usb device using node-usb
+i am tri to read data from a usb devic "connect to my pc" use tessel/node-usb in my electron applicationbut i am not abl to read anyth or get ani error !i am use follow js :

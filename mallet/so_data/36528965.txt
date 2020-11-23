@@ -1,1 +1,1 @@
-Determine if file/foder is hidden in Windows via Electron/Node
+is there a way to determin that a file in window is hidden in electron. i need to know the hidden attribut set in properti of the file and not file name have a dot at front. current use

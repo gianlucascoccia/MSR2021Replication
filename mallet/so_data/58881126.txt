@@ -1,1 +1,1 @@
-Electron Application - how to print the current page
+i have an electron app built, it is basic a form. when a user click finish on the form, their detail get regist remot but it is also essenti that an a4 printout of the electron app screen get sent to the default computer.i this at all possibl with electron, i imagin it would work the same way as simpli click ctrl+p on chrome but it doesnt work

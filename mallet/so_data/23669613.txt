@@ -1,1 +1,1 @@
-Can't rebuild node-opencv with nw-gyp
+i'm tri to rebuild thanks!

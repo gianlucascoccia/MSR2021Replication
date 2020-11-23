@@ -1,1 +1,1 @@
-How to debug nodejs code in render process of electron?
+i'm a newbi of web and node. i want to make a desktop applic with electron.but i found that i can't debug the nodej code in render prosess with cdt.it like that&#xd;&#xd;&#xd;&#xd;&#xd;"th javascript code in index.html of electron-api-demo"how can i track and breakpoint the code in ./assets/import'.ps:i can see the output of "console.log("abc123");" in cdt.

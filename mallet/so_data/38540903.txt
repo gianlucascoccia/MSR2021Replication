@@ -1,1 +1,1 @@
-app.relaunch([options]) is not working in electron
+i want to chang userdata path with path defin by user. so, i'm fetch the path from ui, store it into a file. so that next time app launches, it chang the path.i want to restart the app as soon as user has select the path. i tri app.relaunch() function. but it didn't work, neither it return error.i use exact same exampl mention in documentation. http://electron.atom.io/docs/api/app/#apprelaunchopt

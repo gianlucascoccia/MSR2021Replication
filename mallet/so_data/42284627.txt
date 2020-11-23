@@ -1,1 +1,1 @@
-Electron - How to know when renderer window is ready
+in my main process i creat a render window:howev the main window doesn't receiv this messag becaus it isn't fulli done be creat at the time i attempt to send it.i have temporarili solv this by wrap the latter code in a settimeout() but that is most definit not the right way to resolv a race condition.i there a callback for when the main window is ready? i tri the ready-to-show event mention in the doc but it did not work.

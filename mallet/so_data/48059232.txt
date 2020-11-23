@@ -1,1 +1,1 @@
-Electron load files in the renderer process
+i want to debug some part of an sourc code with vscode. but i realiz that vscode doe not halt at the breakpoint that i insert in the handler argument of the deleg function:when ask in a thread, they answer me that the code is not in the render process. the code is in a file call visualizer.j which is the javascript part of visualizer.html in the electron project. so i thought it would be in the render process.thus, my question is: how do i move this file in the render process to be abl to debug the code?

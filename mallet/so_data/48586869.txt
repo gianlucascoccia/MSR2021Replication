@@ -1,1 +1,1 @@
-Forked child process keeps terminated with code 1
+i wrap a modul use electron packager. becaus it has heavi computation, i put it in a sub process that would be noth is record in log. what should i do to overcom this situation?system specs:window 10node 8.6electron 1.7.12electron packag 10.1.2

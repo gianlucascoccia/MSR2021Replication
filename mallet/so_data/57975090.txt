@@ -1,1 +1,1 @@
-Electron write file when packaged
+in electron, how can i write a file when the app is packag use electron packager.th follow will creat and updat the file in development. but onc i packag the app use electron-packager, the file will no longer be created. what do i need to change?

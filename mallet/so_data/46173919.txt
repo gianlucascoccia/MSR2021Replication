@@ -1,1 +1,1 @@
-Object.create() says parameter is not an object
+descriptionin my program i am read a json file, pars it into an object and then i tri to "cast" it into an object of the class

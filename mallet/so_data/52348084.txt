@@ -1,1 +1,1 @@
-CFBundleIdentifier Collision while uploading a macOS app developed with Electron and built with electron-builder
+i am current develop an electron app and i am abl to generat the thank so much in advance!

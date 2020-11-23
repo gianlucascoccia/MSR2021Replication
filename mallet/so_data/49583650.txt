@@ -1,1 +1,1 @@
-Quill JS Modules Not Working in Electron
+i am make an app use quill js and electron. i want to use quill syntax highlight modul and follow the instruct on the api page (https://quilljs.com/docs/modules/syntax/). for some reason, the function doe not work (no highlight is shown in code-block). i switch the });the result is whenev i type someth into the code-block, an error say " " is not a valid language. i made sure that i includ the css file on the main page. what am i do wrong here?

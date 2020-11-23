@@ -1,1 +1,1 @@
-typescript set function members & using this
+i'm work on an electron app use typescript. my main.t creat an object of my own communicationprovid class. i would like to have this class declar sever method (defin in an interfac it implementing) but have the actual implement of these method set in my main.ts.so i declar my class as:how can i have this maintained? is there ani other recommend way for handl event from a ts class?

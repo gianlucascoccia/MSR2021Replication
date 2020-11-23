@@ -1,1 +1,1 @@
-Can react-native share codebase with Proton native?
+i'm work on the mobil app with react native, and go to start on the desktop version. im consid proton nativ becaus it use the same syntax as react nativ does, and it size and start durat are way much better than electron. im wonder if proton nativ and react nativ can share the same codebase, sinc they both use the same syntax?

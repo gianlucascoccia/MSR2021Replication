@@ -1,1 +1,1 @@
-Print a PDF with Electron
+on my electron app, i have 2 buttons, one to download a pdf file and one to print it. start a print job but print the content of the window (i.e. my 2 buttons). is there a way to start a print job with the content of my pdf without display this pdf in a new window?thank for your help.

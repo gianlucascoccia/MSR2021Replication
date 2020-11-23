@@ -1,1 +1,1 @@
-Multiple Insert Queries using promise-mysql
+i want to execut the first query. retriev the id of insert row which is auto increment primari key and then use that id to insert data in differ table.on the first queri is executing. the second queri is not executing. pleas help

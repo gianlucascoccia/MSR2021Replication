@@ -1,1 +1,1 @@
-Angular Electron with Nodejs using (MEAN Stack)
+i have creat a mean stack applic (angular 6).now i want to convert my applic into desktop applic with the same.w can achiev that in electron so that i read this article. by use this articl i have creat my application. but i am not get request from the applic to server(node.js). here is my angular req:in web applic i didn't get ani error. but in desktop applic i'm get this error in my console.i have read mani articl i didn't get ani answer.can anyon explain to me how to resolv this?

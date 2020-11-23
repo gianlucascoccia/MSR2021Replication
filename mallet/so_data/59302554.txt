@@ -1,1 +1,1 @@
-Error: Command failed: cscript.exe //Nologo
+we are use npm-regedit modul to read/writ registri in windows. we are use it in an electron app. normal when we run the applic it work fine but when we set the app to run automat at startup the regedit modul fails. we get the follow error on read "hkcu/software":error: command failed: cscript.ex //nologo d:\codelathe\workspace\cl-fc-client\clouddrive2service\ui\dist_electron\win-unpacked\resources\app.asar\vbs\reglist.wsf a hkcu\softwar

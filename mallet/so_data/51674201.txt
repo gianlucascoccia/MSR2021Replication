@@ -1,1 +1,1 @@
-An offline desktop app with Electron alongwith Indexeddb and Fuse OSx
+i'm new to electron and fuse osx, and would like to build a desktop app which can be use in offlin (i'll be store the data in indexeddb). how to bring the fuse modul insid an electron desktop app. is there ani possibl to achiev my case. ani help would be high appreciated.

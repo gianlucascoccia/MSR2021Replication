@@ -1,1 +1,1 @@
-Open external chrome browser with url and install chrome extension
+is there a way we can instal chrome extens on an extern chrome browser window from electron appi can instal chrome extens manual from chrome://extensionsi that possibl to instal chrome extens after openextern method is call >

@@ -1,1 +1,1 @@
-continuously passing events from main to renderer process
+i'v been use electron sync and async rpc communic mechan and can pass my data between the process quit nicely. however, i now need to continu send event data (a bit like a chat application) to the render process and updat some text. is this possibl within electron? i'm guess i'll need to creat some kind of listen in the render process.

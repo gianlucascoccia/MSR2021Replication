@@ -1,1 +1,1 @@
-Electron Find in textarea
+i am veri new to creat an electron app, so this may be someth simple.i have a .

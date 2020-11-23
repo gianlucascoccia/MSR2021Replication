@@ -1,1 +1,1 @@
-javascript connect ElectroServer
+i am tri to transfer an old game i wrote from as3 platform to javascript (client), my server use electroserv so unfortun this platform is not support anymorei am tri to connect to electroserv from javascript, i get an error fail to load resource: net::err_connection_refus http://127.0.0.1:3102/connect/text post http://127.0.0.1:3102/s/-1 net :: err_connection_refusedi open gate 3102 use binaryhttpthank you

@@ -1,1 +1,1 @@
-What is the best practice for loading multiple textures in three.js?
+have recent switch to for each one?or is there a more effici way of do this?

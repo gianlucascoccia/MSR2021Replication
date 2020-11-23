@@ -1,1 +1,1 @@
-How to call keystrokes CTRL+V in Node js ?
+how to invok a simul key ctrl+v in the nodej ?i use the nwjs,in the applic i use iframe, in which i find the element input. for this input, i want to run the event ctrl+v (paste).sinc i alreadi have a copi value, i want to run a past event for this input.i want to tri through document.execcommand('paste'). but insid input it is imposs to execut event document.execcommand('paste').how can i implement this?

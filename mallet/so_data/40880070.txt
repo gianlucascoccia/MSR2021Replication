@@ -1,1 +1,1 @@
-Electron Dialog send file to server with vue resource
+i am build an electron app which handl file uploads, i am use dialog to get the file from user, i need to send the file to server but i am get the file path but i get error when send them . i am use vue resourc for requests. below is my code:i howev end up with error on the request , ani help will be appreci .

@@ -1,1 +1,1 @@
-Uncaught Exception: ReferenceError: debug is not defined
+i am creat an electron app. i have the follow code in my not sure what i am miss here.

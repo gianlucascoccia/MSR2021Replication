@@ -1,1 +1,1 @@
-How can I get the path that the application is running with typescript?
+i am tri to creat a desktop applic with electron, angular2, typescript and nedb.in order to be abl creat a file databas with nedb i want the path to my project.how can i get this with typescript ?

@@ -1,1 +1,1 @@
-Using sqlite3 in an Angular + Electron app: Critical dependency: the request of a dependency is an expression
+in my angular + electron app i'm tri to instal some sqlite librari in order to read content from an sqlite databas file.i'v instal sqlite3 using:howev it is not clear to me where to add such config in my angular app.

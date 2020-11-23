@@ -1,1 +1,1 @@
-Smoothie chart shows empty with electron vuejs
+i'm run electron with vue 2.6 and typescript to run my application. i creat sampl smoothi chart follow tutori here. this tutori show chart, but in my case, it show empty.main.vueproblem smoothi chart doesn't show the chart and the canva element was there. is this have to do with electron or typescript?

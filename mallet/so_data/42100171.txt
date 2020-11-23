@@ -1,1 +1,1 @@
-localstorage not persisting on node-webkit
+i'm work on a nw.js (node-webkit) app and i notic that the local storag object i'm use aren't persisting. the problem is simpl i guess, data get save in a local storag object then when a &#xd;&#xd;&#xd;

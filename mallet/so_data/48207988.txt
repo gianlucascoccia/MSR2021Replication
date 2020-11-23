@@ -1,1 +1,1 @@
-Electron location.pathname is incorrect on initial load
+at the moment i'm build an electron applic which use react (and the react router).when i open my packag applic (packag with electron builder) initi no rout is matched. so i log the ?

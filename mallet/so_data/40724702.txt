@@ -1,1 +1,1 @@
-Get full path of a directory in node webkit
+how can i get the absolut path of a directori (not the current work directory) in node webkit application?exampl (mac os) - i have creat a folder name

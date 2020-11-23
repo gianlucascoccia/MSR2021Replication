@@ -1,1 +1,1 @@
-How do I load an angular route from a code in Electron JS?
+i wrote a simpl electron js app with angular js and angular-route.js. rout work from link (e.g. &#xd;&#xd;&#xd;thanks!

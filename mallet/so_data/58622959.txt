@@ -1,1 +1,1 @@
-Electron app.on("open-url") alternative for custom protocol in Windows
+i'm develop an app in electron and i need to handl a custom protocol insid this app.i'm use

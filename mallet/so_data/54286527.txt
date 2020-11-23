@@ -1,1 +1,1 @@
-Electron-builder - Set environment variables during app installation
+i have built applic .ex instal use electron-build and javascript.i am tri to set up environ variabl dure or right after the instal of the application. it will hold valu of the instal directori of the applic chosen by the user dure the instal wizard.i am veri much stuck, can you share some idea on this please?thank

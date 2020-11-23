@@ -1,1 +1,1 @@
-How to get a BrowserWindow from a WebContents in electron?
+this is probabl stair me in the face but given a is there a simpler way?

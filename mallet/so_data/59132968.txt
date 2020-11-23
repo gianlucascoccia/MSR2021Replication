@@ -1,1 +1,1 @@
-HTML to pdf using MVC razor view - page contains multiple <thead> but pdf uses first header for all pages
+my view look like thisnow my thead repeat at least 4 to 5 time and it spread over sever page.issue:on pdf convers it pick the first thead and repeat on everi page.i would want thead continu on page break but i was pdf to pick the current header instead of a veri first headeri use electron-pdf to convert html to pdf, and use bootstrap for style

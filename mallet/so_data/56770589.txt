@@ -1,1 +1,1 @@
-Setting custom path for required dll files: electron app
+i am write code to load c++ dll from electron.i am use nan and bind (node-gyp) to achiev this. i run the follow command to build my node module:electron-rebuild -f -w yourmodul --arch=ia32thi command creat a releas folder insid build folder where the built .node modul is saved. to run my applic i need to copi all the depend dlls to the releas folder. the problem is everi time i rebuild my module, all the copi dlls are delet from releas folder. is there a way by which i can set custom path for the requir dlls?

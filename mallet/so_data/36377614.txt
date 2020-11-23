@@ -1,1 +1,1 @@
-Node require() inside Angular 2 App with Electron
+i am tri to use electron to the console. (which make sens as it would not be a function insid a normal web environment.)i there a way to prevent this?

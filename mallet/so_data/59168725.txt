@@ -1,1 +1,1 @@
-Video.js work with vue-electron for video playlist
+i am work on autoplay video playlist. i use glob to get all video absolut path from a target folder. my code is below: will return modul not found

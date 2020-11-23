@@ -1,1 +1,1 @@
-flashFrame: false on Electron app don't work
+i´m tri to make my electron app don't flash the frame when are minimized, becaus all time when it are minimized, it flash the frame, and some times, if i dont have focus in other program, it reopen automatically.i just want it to stop flash the frame.thi happen all times:her is my

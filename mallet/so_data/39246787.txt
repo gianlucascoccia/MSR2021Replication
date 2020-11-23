@@ -1,1 +1,1 @@
-Native C++ extension for electron.atom.io
+i would like to build a c++ nativ extens for electron.i start with the hello sample: i built the node libraries, the sampl and test success with node (v4.5.0).to use with electron i have to build against the electron v8 version. i follow this guid to build the node library: i generat the msvc vs2015 projects, but when i build i get this error:and this happen for all projects. how can i solv it?

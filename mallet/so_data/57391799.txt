@@ -1,1 +1,1 @@
-Context menu to delete foo inside a Table
+i want a context menu onli to delet foo insid a html table.i use electron-context-menu.i thought i could use mediatyp for html tabl but i can't.

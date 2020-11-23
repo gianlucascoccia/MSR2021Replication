@@ -1,1 +1,1 @@
-calling prompt() in electron (from external API) does not work
+i am use the ace editor insid of electron. when press ideal i would just instanti anoth module(add just one line) which implement the prompt as a synchron function that work insid electron. i am wonder if there is alreadi a modul for this?

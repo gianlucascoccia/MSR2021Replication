@@ -1,1 +1,1 @@
-Get window title and Application/Process name of all the visible application window processes in mac
+is there ani way we can get the window titl and it correspond process name in mac.currently, i am onli abl to get the window titl use applescript:if we can do this via ani electron api/nod modul that would also be great.bas i just want to get a list of activ window titl along with their process id/nam

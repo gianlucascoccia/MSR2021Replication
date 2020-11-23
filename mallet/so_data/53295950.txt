@@ -1,1 +1,1 @@
-Electron builder Application name in programs list without version on windows
+im use electron builder and have set that i can use to make that work ? you can see the issu here

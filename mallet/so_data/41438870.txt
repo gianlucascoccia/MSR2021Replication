@@ -1,1 +1,1 @@
-Trying to get auto Update to work with electron
+i keep tri differ tutorials, but they all seem to be scatter and out dated. everyon that i am tri i am run into mani error or deprec code.ar there ani newer tutori or modul i can use to simplifi this process?curr i am use electron-simple-updater, but with this i keep get the error in the .app file that it can't find the requir module. it find it when i just run npm run electron though.also when i distribut the update, should it be in the .app file or the built -dist folder?

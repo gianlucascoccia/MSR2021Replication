@@ -1,1 +1,1 @@
-iframe with local resource in Electron
+i need to render is it possibl such scenario in electron?

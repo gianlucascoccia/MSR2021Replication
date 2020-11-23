@@ -1,1 +1,1 @@
-Killing a spawned electron instance
+i am use atom electron for a project of mine. at some point in my code, i am using, but sinc the child could misbehav i am not realli sure that this solut will work and the child will seppuku.

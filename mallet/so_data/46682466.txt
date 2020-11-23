@@ -1,1 +1,1 @@
-Load Electron application from URL
+i'v develop an electron applic primarili to to take advantag of been abl to use webview instead of iframes.i now have a finish my tool and i would like to be abl to launch it from a ur there anyway i can convert my electron app into a web app?can i packag it and host it on a server that is access via a url?ani pointer or advic would be great.

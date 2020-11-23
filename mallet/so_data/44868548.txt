@@ -1,1 +1,1 @@
-Electron application not launching
+i am new to electron and was tri to creat a simpl application. i dont want to instal electron globally. rather, want it instal onli in the application. when i run npm run start, noth happens. just eletron . get display on the command line. what is wrong with my code and anywher where i can see the logsmi appstructure:musicplayerapp-> index.htmlnode_modulesmain.jspackage.jsonpackage.json is:&#xd;&#xd;&#xd;&#xd;&#xd;

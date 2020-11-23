@@ -1,1 +1,1 @@
-Electron and sequelize error: the dialect sqlite is not supported
+i'm tri to use sequel and sqlite with electron in a desktop applic but get the follow error when run the app via will show sequel work one it own.

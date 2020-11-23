@@ -1,1 +1,1 @@
-Electron: Global script that runs on all html pages
+i have a web base project consist of a coupl hundr html pages. now i would like to wrap it into an electron app. the problem is that jqueri for instanc doesn't run insid that app unless i add this line befor the jqueri script tag:i there a way to make this work without modifi all these hundr of pages? could i for instanc somehow specifi a global script (sort of like a browser extens with content scripts) that take care of this for me? i mean after all electron emb a chromium, right?

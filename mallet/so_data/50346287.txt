@@ -1,1 +1,1 @@
-Electron: loadURL from buffer
+in my render i can emit an event to creat a pdf. however, befor write to disk i'd like to first open the newli cerat pdf in anoth window. how can i circumv the write to the file system and use

@@ -1,1 +1,1 @@
-Electron - Async keyword in served content causes unexpected token
+i have a node server run a simpl monopoli app and my electron app just load the url of the node server. the issu i'm run into is that there some async function in the javascript that run the front end of the node server and when the electron app tri to use this script it throw an unexpect token for the async key word.i'v tri to set the electron app to run use the babel render but this had no effect so i'm not sure if i'm miss anyth

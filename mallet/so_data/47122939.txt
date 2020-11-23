@@ -1,1 +1,1 @@
-Javascript Array.sort() not finishing before next action starts
+so i need to sort a string array in alphabet order and then print it in a file. the sort work great but sometimes,most times, the file i output is empti but when i put a breakpoint just befor the writing, it alway full. is there a way to make surethat an action is execut after one has ended. here a fix i did that work 4/5 times.

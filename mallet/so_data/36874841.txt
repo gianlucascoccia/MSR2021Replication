@@ -1,1 +1,1 @@
-Bootstrapping a NW.js / Electron application
+i am build a html/js/css applic that i would like to distribut packag either as a nw.js or electron app. i am new to both, and have read that the packag execut can be quit large. sinc the applic would be free, i find that the cost of distribut it from a cdn to be too high.i was wonder if there was ani instal that allow the "standard" part of the execut (the chrome components, etc.) to be download as a share librari from a free cdn, as part of the app instal / first execution?

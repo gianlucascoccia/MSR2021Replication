@@ -1,1 +1,1 @@
-How to differentiate two ipc renderer in one ipc main (same channel)
+i want to detect the specif frame/browserwindow. i have one main process and two browser window which all three are send messag to each other use same channel . in ipcmain i need to detect one of them. i saw that ipcmain event has a function name frameid but when i use it i get undefined.

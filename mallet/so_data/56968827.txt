@@ -1,1 +1,1 @@
-access electron from spectron
+i am work on electron applic and start with learn basic electron. how to access electron app from spectron app instal on same machine?how can i access electron app from spectron app instal on differ machines?

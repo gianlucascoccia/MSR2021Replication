@@ -1,1 +1,1 @@
-Intercept sent notifications from an Electron app
+given a 3rd-parti electron app (in my case whatsapp.app for osx) i'd like to intercept it call to notif center as well as call made to updat it badge. (specif i want this so i can display the "unread count" in the system menu bar, use textbar).ther an , and i can see it use a specif node modul for notifications.befor i dig further, assum i find what i want to change, what the way to go about intercept those call later? (complet electron newbie).

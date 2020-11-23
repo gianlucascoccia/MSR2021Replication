@@ -1,1 +1,1 @@
-Provide user options in Electron's `showSaveDialog()`
+i was wonder if anybodi had manag to suss out a way of ad option to the ? i want to achiev someth like adob illustr doe with artboards...i'v check the document and cannot see anyth that would suggest that you could so i'm either miss someth or it simpli not possibl (hope the former).thanks!

@@ -1,1 +1,1 @@
-Electron unable to fetch resources (.swf)
+i am use electron (use pepper flash plugin) to load a swf file direct into my browserwindow. the .swf file load correct but the code insid the .swf file is request a seper resourc (eg: something.labels).for some reason the something.label file cannot be requested, everytim it fail instant (screenshot). i cannot figur out whi the error occurs, no detail provided... ani ideas?network requestmain.j

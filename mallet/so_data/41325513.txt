@@ -1,1 +1,1 @@
-Angular2 Routes with electron not working
+my app in angular2 was fulli function load compon after component. when i tri to use it with electron everyth went downhill. i keep tri to follow differ tutorials, but they are not work for me. can anyon point me in the direct on whi this is not work please. index.html insid app/

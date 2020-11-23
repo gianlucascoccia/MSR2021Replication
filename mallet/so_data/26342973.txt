@@ -1,1 +1,1 @@
-node-webkit Helper memory management
+i am code a lightweight singl page app to implement the "clear everyth and restart" functionality).do anyon have ani clue about how to keep node-webkit helper memori usag at bay and/or provid some kind of "restart" function in a less hacki way? explan of how memori manag work in node-webkit context are appreciated, as this topic seem quit complex and there aren't mani easili understand sourc on it.

@@ -1,1 +1,1 @@
-Get React.js component by name or something
+i'm new to react and wonder if there is some way to direct oper with some compon use it name, id, key, anything.for exampl i'm creat simpl game and there are lot of cells'.cel have state and are creat dinamically.how can i get current activ cell and oper with it?sorri for format and es2015 mixin.

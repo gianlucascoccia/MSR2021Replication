@@ -1,1 +1,1 @@
-Node.js, vs. Electron:: Run external command and show the stdout on interface
+i'm new to node.j and electron and tri to run an extern command in electron and show the result with html.i made an http server-cli version with node.js, which work fine.but fail to make it to work with the electron, even after follow mani answer here, such as node.j spawn child process and get termin output livepip data from child to parent in nodejsnon of them work for me for electron.node.j version works.i'm show my work node.j code as follows. this code, after run .where was i wrong?

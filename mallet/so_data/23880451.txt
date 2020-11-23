@@ -1,1 +1,1 @@
-Mongoose inserting \u0000
+i'm have troubl insert text in mongodb from an html input in node-webkit.i have this html bad boy here :when i enter hello in the "cats" field the insert data is : h\u0000e\u0000l\u0000l\u0000l\o0000when i hardcod the text instead of take it from "cats" field the insert work correctly.ani idea ?

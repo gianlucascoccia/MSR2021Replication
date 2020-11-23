@@ -1,1 +1,1 @@
-RxDB RxCollectionCreator Typescript Error
+this is my first time use rxdb and i'v encount a weird typescript error.th relev part of my electron project are as follows: to my schema it just complain about other miss property, and other, and other. obviously, i have done someth wrong. ani wisdom on the issu would be great appreciated.

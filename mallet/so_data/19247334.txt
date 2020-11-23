@@ -1,1 +1,1 @@
-Using Jam.js, require.js and node-webkit without conflicts
+i'm current write a web app that i later intend to deploy use node-webkit. i want to use as littl node.j as possibl so that i have the option to easili deploy to the web without have to rewrit larg portion of the code.i'm use jam.j as a packag manager. obvious there is the issu of node.j ? i find the solut present in the node-webkit faq not veri satisfying.thank for your help!

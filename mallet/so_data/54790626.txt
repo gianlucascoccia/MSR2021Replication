@@ -1,1 +1,1 @@
-packaging webservice application with electron
+i have an electron applic that must be use with a python webserv backend on the host.for convenience, the python webserv has been packag with cx_freez and is now avail as .ex window program. my problem is now to know howto launch this webserver.ex applic when electron applic launches, and stop when user quit application.

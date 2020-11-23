@@ -1,1 +1,1 @@
-How does electron app open another electron app?
+a project has multipl applications. i thought of separ them instead of combin them in one application. how to open other applic when applic are separated. i tri it with deep link but when i was work on mac. this method doe not work on windows. becaus when i do this on window i get the warn "you'll need a new app to open this myapp". for example:

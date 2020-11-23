@@ -1,1 +1,1 @@
-Start Electron/Node.JS app and pass command line args from C#
+i have a c# applic which launch an electron app (node.js). i'm attempt to pass a command line argument to the node.j applic but when i access process.argv from within index.j the argument isn't there. is there anyth specif i should be do to retriev this argument from within my node application?

@@ -1,1 +1,1 @@
-Is responsive voice sound working in electron.net?
+this is first time i creat project with electron.net. i creat applic like queue system and everi thing work fine each develop machin and project builder in window 8 (64 &amp; 32 bit). but when i build project to window 10 64 bit everi thing work fine have onli one serious issue, that is sound not work when i call a number of customer. i don't know whyfor textspeech i use respons voic api have someon who creat project with electron.net and play with sound and get same issu like me. pleas share or help me. thank you so much.

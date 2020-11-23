@@ -1,1 +1,1 @@
-Is it possible building a web spider with electron?
+i'm build a whatsapp bot use electron. i'm use whatsapp web and tie to pars html codes.electron is a "programm chromium" so it is perfect to write web bot in theory.i was use web browser compon of c# and it was extrem power but it use old version of internet explor as engine.1- ) i tri use so i could not to do anything. it is possibl develop a web bot with electron? is there ani tutori for it that show best-practice?

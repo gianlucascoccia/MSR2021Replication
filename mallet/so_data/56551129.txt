@@ -1,1 +1,1 @@
-Electron app keeps reloading when searching for a database entry with nedb
+i am use nedb as a persist storag for my electron.j application.when use the i expect to get my databas entri log to the consol with the given categori "private" without the app reload itself all the time.

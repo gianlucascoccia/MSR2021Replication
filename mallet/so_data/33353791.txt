@@ -1,1 +1,1 @@
-How to play video in node-webkit?
+i am face problem while play video in node-webkit. below is a small piec of code which is easili playabl in googl chrome, firefox browser but the not playabl in node webkit. for this, i creat an index.html file as:-can anyon help me how to play a custom mp4 video in node-webkit html page ?note: i am use angularj in my project and have also tri ngvideo plugin.oth suggest are also welcome.

@@ -1,1 +1,1 @@
-How to get image with absolute path in nw.js
+i'm build a game with node-webkit that requir render an imag with it absolut path to a canvas. the code work on googl chrome, but not in nw.js.the code is here:for some reason, when i launch my app on macos, nw.js act as if it can't render the imag to the canvas. ani help would be appreciated. thanks,thecoder08_______________________________________________________________________________edit:ad file:/// to the begin of the path and it work fine.

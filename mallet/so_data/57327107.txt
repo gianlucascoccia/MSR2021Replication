@@ -1,1 +1,1 @@
-TypeError: Cannot read property 'getPrimaryDisplay' of undefined (screen.getPrimaryDisplay())
+i'm tri to get screen size use this. it work fine on the previous version. fail to work on electron 6.0.0

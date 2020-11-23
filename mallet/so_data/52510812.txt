@@ -1,1 +1,1 @@
-Electron installing abort - ECONNRESET
+i'm tri to instal electron via npm and i get this error :how can i solv it?

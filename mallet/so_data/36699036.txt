@@ -1,1 +1,1 @@
-Browserify load fs return empty object
+i'm new to electron, i use react to build my application, and i use browserifi to compil jsx to js and es6 to es5, but when i use import to add the fs module( import fs from "fs" ), it return a empti object. i guess i it may be the compil file use browserifi "require" to load modul fs rather than node "require". and when load the fs module, browserifi return a empti object directly. how can i solv this problem:joy:

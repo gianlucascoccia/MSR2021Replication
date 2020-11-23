@@ -1,1 +1,1 @@
-How to open indexeddb database?
+i'm new to all of this.i had creat a offlin game with nw.js. but the game could not load the data from the indexeddb. so, i want to open the databas to see what is wrong, but i do not know what softwar to use to open the database/retriev the values, could anyon pleas enlighten me or give me a direction? i just wanna know where should i be looking, i'm total lost now..

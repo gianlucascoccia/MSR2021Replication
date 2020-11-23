@@ -1,1 +1,1 @@
-Electron - another program is using this file?
+i creat a search bar that search json and display the info in html with an "open link" button. the file are local kmz/kml file that are open up in googl earth when a user click the button.whi when i click the open button doe googl earth load it and then i receiv a pop-up in my app that say "anoth program is current use this file" and then won't clear till i restart the app?

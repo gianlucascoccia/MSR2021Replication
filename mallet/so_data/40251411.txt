@@ -1,1 +1,1 @@
-communication between 2 browser windows in electron
+i need to build an app that will span across multipl monitor screens, someth like this:electron suport multipl window but how to comun between them?

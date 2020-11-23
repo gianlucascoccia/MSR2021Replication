@@ -1,1 +1,1 @@
-How to create chrome like tab on Electron
+i am make a desktop applic use github electron, and want to know how can i make chrome like tabs. like when we open ani browser or let say chrome, we can add creat new tab on the same window, likewis i want this to be done in my desktop app. i dig on electron doc and communiti packag but find nothing.

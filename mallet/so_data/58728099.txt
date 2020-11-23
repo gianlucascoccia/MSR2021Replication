@@ -1,1 +1,1 @@
-Not able to Run the Electron Application
+electron window app - not allow run the autom script. it allow to open the applic but show errororg.openqa.selenium.webdriverexception: unknown error: devtoolsactiveport file doesn't existbuild info: version: 3.141.59', revision: e82be7d358', time: 2018-11-14t08:25:48'system info: host: desktop-gn8llqu', ip: 192.168.1.9', os.name: window 10', os.arch: amd64', os.version: 10.0', java.version: 13.0.1'driver info: driver.version: chromedriv

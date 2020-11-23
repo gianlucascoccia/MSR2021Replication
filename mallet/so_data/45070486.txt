@@ -1,1 +1,1 @@
-Externals with webpack and electron
+i'm use react with webpack and electron and i'm tri to requir the remot from the render process. my code is be transpir by babel + webpack but this line of code:work fine becaus it ignor by webpack.

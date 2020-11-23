@@ -1,1 +1,1 @@
-Building electron app on ubuntu fails with 'Permission denied'
+i tri build my electron project on my ubuntu system use the electron-build module, but anyon got an idea or has experienc a similar thing with electron on ubuntu?p.s: if more inform is needed, don't hesit to ask!

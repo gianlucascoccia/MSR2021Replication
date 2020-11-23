@@ -1,1 +1,1 @@
-Unexpected behaviour of require() in electron when using relative paths
+i would appreci some clarif on the follow matter:i am start to learn electron and want to setup a small exampl to test requiring-mechanism.fold structur as follows:in test.j print the path to the html directory.|--whi doe it behav that way? did i make a setup mistake?(ps: i found sever post provid inform about avoid ../../../somemodule, but as far as i understood all were assum "pathing" relat to the requir file, so that didn't help me resolv my problem.)

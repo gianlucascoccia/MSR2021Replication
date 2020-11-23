@@ -1,1 +1,1 @@
-I don´t know how select HTML Class attribute handled in Javascript toolkit Framework
+i am use the electron framework in javascript call xel toolkit, and i have the follow syntax from main.js:

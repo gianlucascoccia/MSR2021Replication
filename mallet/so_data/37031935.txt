@@ -1,1 +1,1 @@
-Setting windows to energy save mode using Node.js
+i'm develop an app use electron and node.j and is suppos to set the laptop (run window 10) to energi save mode when needed, is this possibl to do this use technolog of node.j and electron? thank

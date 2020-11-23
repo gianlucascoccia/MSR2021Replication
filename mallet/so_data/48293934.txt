@@ -1,1 +1,1 @@
-Is there a module to interface with Fabric.io or crashlytics in node.js to create an Electron app?
+i'm work on an electron app and i would like to log crash into fabric.io or crashlyt (or an equivalent) but i can't find a node package.do someon know a such module?

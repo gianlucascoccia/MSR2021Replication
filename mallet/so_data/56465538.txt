@@ -1,1 +1,1 @@
-Electron: X is not a fuction >>> (Callback using ipcrenderer / ipcmain)
+the problemi'm use promise(s) to get a callback when librari are loaded. each promis send a messag through ipcrender to ipcmain and includ a callback function.th callback function get call as expected, but it display an error: "succ is not a function" (look at the follow code).th window:

@@ -1,1 +1,1 @@
-Setting nodeIntegration: false when using create-react-app-typescript and electron
+i'm experienc an issu when use electron in combin with create-react-app-typescript. for secur reason it advis to set in the bundle.anyon has an idea what i'm overlooking? i'm use the default webpack of the create-react-app-typescript librari (i eject the app). also, the app should work on both electron and in the browser. i'd love some help or anyon that could point me in the right direction.

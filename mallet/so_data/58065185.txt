@@ -1,1 +1,1 @@
-Electron: window.open doesn't load scripts
+in an electron app, i'm open a local help file with: would fail to load script the first time?

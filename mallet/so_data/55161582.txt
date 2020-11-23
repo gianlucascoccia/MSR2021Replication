@@ -1,1 +1,1 @@
-storing state of main proccess in electron
+i am pretti newbi in the electron. i have a serversid project wrote with express js. so i can communic with my server side and in electron app, i can work with ipc fine. but my question is where to store state of my main .js entry. so i can use them everywhere. in react for exampl we have state and prop and redux for state management. i search everywher but not found a proper way for this.i also found electron-redux-stor .but my real challeng is store my state in somewher

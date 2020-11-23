@@ -1,1 +1,1 @@
-Why is my electron event being delayed to the render process?
+i'm tri to flip a toggl switch in an electron app that start an express server, that send a messag back to the app that the server is on.what happen right now is, the switch is flipped, the server is turn on, but the event isn't fire back to the render process like it should.instead, i have to access one of my express server rout in my browser, which will then send both the log that should have come before, as well as the new one which come with the rout request.index.j

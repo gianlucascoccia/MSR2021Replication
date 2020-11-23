@@ -1,1 +1,1 @@
-Universal Windows App - the equivalent of NW.JS's typeof process == "object"
+in nw.js we check to see if we are in a nw.js app with the following: when i am on an onlin web page or a nw.js app?

@@ -1,1 +1,1 @@
-electron + typescript compilation
+when i tri to compil a sampl typescript electron project, i get the error . the electron site claim that just ad the node_modul electron would enabl typescript typings, but i can't make it work.

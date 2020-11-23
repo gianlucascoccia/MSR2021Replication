@@ -1,1 +1,1 @@
-ElectronJS app window moves horizontally and vertically upon showing after hiding the window, and blur event is not working properly
+creat a tray application. click the tray icon toggl the visibl of the application. when i hide and then show it, the window seem to move a bit to the right and bottom everytime.spam click the tray icon a hundr time make my window dissapear for a half of the width.. function to the blur event but then i wasn't abl to hide the window by click it, sinc then it goe from invis to visible).

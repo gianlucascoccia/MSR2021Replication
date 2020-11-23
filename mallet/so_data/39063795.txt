@@ -1,1 +1,1 @@
-Electron APP packaging
+i'm tri to packag my recent electron app. i tri to use electron-packag and i actual build the app though it is a bunch of files.now i'm face some problems:how do i chang the app icon? i did it by set it path in browserwindow creation, but shouldn't i be abl to do it with electron packager?and what about the actual desktop icon?and final how should i do to packag all the file built by electron-packag in one .exe?i'm build it in window for window architecture.

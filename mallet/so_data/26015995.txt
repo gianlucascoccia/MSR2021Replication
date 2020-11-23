@@ -1,1 +1,1 @@
-on -webkit-app-region: drag; why the window gets automatically resized
+i have creat the below sampl code in htmlafter maxim when drag the window , size of window automat resiz to it origin size. whi this happens. on unmaxim state drag work fine without ani window resiz event.

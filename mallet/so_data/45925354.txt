@@ -1,1 +1,1 @@
-Open iframe link in the browser using electron
+i want to open an ifram link in a browser use electron. i found some solut but they are not working, here are exampl i tried:npmjs.com stackoverflowi think the problem is, that the link is in the scr tag.look for a possibl solut whi noth is workingher is an exampl ifram element

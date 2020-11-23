@@ -1,1 +1,1 @@
-ElectronJS BrowserWindow.minimize() seems to be broken
+i'm tri to minim a fullscreen, frameless browserwindow (mainwindow) in electronj 2.0.2 by call do you have ani idea whi is this happening?

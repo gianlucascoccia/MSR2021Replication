@@ -1,1 +1,1 @@
-Templating database queries in Electron js
+i'm use electronj to build a simpl crud that connect to an onlin databas (i'm use mysql to retriev data from the database). i can log it to the consol but i want to display it on my window. i have look for templat option but so far noth useful, how do i display the data i retriev from the mysql databas to my window?

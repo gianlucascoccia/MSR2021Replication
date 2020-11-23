@@ -1,1 +1,1 @@
-Electron Pakaging issue for Windows in Mac Os 10.11.6
+i am use mac os 10.11.6. my elecron build for mac os is success but for window it is give the follow errori am use "electron-builder": "22.3.2" in package.jsoni have seen various post on this issu but no proper solutions. pleas help

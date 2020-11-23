@@ -1,1 +1,1 @@
-Yarn Packager Include Folders and Files
+i'm work on a desktop applic with javascript, nodej and electron. and i'm use yarn packag manager. i need to add some folder and json file into the packag which is creat via i want to copi these addit file into release.

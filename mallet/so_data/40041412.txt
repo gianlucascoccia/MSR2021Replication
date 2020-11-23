@@ -1,1 +1,1 @@
-How connect to proxy in electron webview-dynamically
+i am creat simpl web browser use electron. my use case is i need to rout each url via different/respect proxy-ips. if the user type google.com it has to rout via but it will not chang proxi dynamically. is it possibl to do it in electron.

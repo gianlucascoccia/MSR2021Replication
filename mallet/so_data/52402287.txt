@@ -1,1 +1,1 @@
-Error: EMFILE: too many open files on win
+i was build an vscode-lik app, and i wrote my own extens to vscode and put it into sourc code, it work fine. but after i use gulp command to packag my app, here is sth wrong :(on mac os it worked)can some one help me out on window with this problem????

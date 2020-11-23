@@ -1,1 +1,1 @@
-How to keep chosen files when building with electron
+i need to keep some file (like my data.db file) when instal electron app, i can copi and past it after instal of , but is better to have it by default.i the a way to configur electron builder to keep file or directori after instal in the instal path?

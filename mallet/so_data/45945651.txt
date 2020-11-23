@@ -1,1 +1,1 @@
-electron cannot find the index.html [Webpack]
+so the follow is how i set up my folder structur for this basic littl app.noth fancy, super basic.th app is compil from what is the correct way to compil the app such that it see the index.html? and load it properly?

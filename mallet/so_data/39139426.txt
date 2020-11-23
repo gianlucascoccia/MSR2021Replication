@@ -1,1 +1,1 @@
-Node.js - download and save PDF file locally for offline - file damaged
+i current have a desktop app built with node webkit. when the user is online, the app will open up pdf file from the server. i then save these file local so they are avail when offline.i am use the node.j file system fs.writefile(), to save the pdf local but when tri to open it via the app the pdf is blank. when i tri to open it direct from the folder i get the below error.can anyon pleas advise?

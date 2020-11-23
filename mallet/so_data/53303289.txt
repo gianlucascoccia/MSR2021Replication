@@ -1,1 +1,1 @@
-pouchdb-adapter-leveldb showing error in leveldown.js
+hi im tri to use pouchdb-adapter-leveldb to creat local db file to synch &amp; store a cloud data in offlin in electron with vuejs. after instal pouchdb-adapter-leveldb am import pouchdb to use leveldb adapterim use this pouchdb cdn link:https://cdn.jsdelivr.net/npm/pouchdb@7.0.0/dist/pouchdb.min.jscan anybodi help to get this thing clear?

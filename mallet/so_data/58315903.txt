@@ -1,1 +1,1 @@
-How can I cancel a bash command/script from my Electron app with Node's child_process?
+i'm run an electron app with wraith. i'm use node has been called. this method has pop up sever time dure my search for answers. doe anyon have an idea of what am i do wrong? thanks, allyour help is much appreci moe

@@ -1,1 +1,1 @@
-Can't see console.log in routes.js using node webkit and express
+i am develop a desktop app use node webkit and express. i use sublim build system to debug. i can see client page log. but in rout i can't see ani log or alert messag in sublim console, cmd consol and nodewebkit devtool. i am sure it hit sinc my page is rendered. sorri i am new to node-webkit. thank for help

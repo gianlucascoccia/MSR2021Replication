@@ -1,1 +1,1 @@
-node.js html-pdf get "spawn ENOTDIR" error when call pdfToFile
+i am use html-pdf in electron to generat pdf from a html.it is work when i test by "npm run start". i can get pdf.but when i packag electron app to .dmg file by electron-builder,i got "spawn enotdir" error when call pdf.create()i have no idea now. doe anyon have the same problem?ani help would be great appreciated.

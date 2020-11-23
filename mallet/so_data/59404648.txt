@@ -1,1 +1,1 @@
-Automated Electron desktop application is not working in Electron version 4.0 which is worked on version 2.0
+i have autom electron(vers 2.0) applic and it was run successfully. recent dev team updat electron version from 2.0 to 4.0. my selenium script is open the applic but not perform ani oper on the application. it not click ani of the elements.

@@ -1,1 +1,1 @@
-Electron - Showing Menu on only Main Window
+i am new to write in electron on windows. when i creat a

@@ -1,1 +1,1 @@
-Execute javascript file in child process within Electron
+i'v got an electron app with angular insid (last versions). i need to execut javascript (not typescript) file from the project in child process (some heavi thing that i don't want to execut syncronously).tri this solutions:1. creat function for both case child process in prod mode or releas build fail with code 1. the same code place to electron main.t file works.how can i fix child process execut in the place where i'm call it?

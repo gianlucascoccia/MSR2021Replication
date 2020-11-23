@@ -1,1 +1,1 @@
-How do I save a downloaded update to install later?
+i am implement autoupd in my electron app use squirrel. when the updat are download i show the user a dialog give them two options:quit the app and instal the updat immedi (use has been emitted.so how can i get this to work? do i need to somehow delet the exist download so it is download again when the app is next launched? this doesn't seem right.

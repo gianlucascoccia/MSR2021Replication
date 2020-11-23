@@ -1,1 +1,1 @@
-Tabs switched to empty while typing in a textfield
+there are three tab a, b, c in a tab component. type a charact into textfield which is in tab c form. sudden tab switch to empty, without select ani tab.deps:before-enteringthen press ani key once.after-ent

@@ -1,1 +1,1 @@
-After distribution, Electron app cannot file directory
+i am develop an electron app, of which the file structur is as below.in the html, i am use node fs system like this.in the develop environment, the app can run perfectly. but after i built the win app with electron-builder, it throw the error of no directory.and here is the distribut file look like. apparently, all asset are packag in to .asar.on weird thing is that, in html the sourc src could run well.

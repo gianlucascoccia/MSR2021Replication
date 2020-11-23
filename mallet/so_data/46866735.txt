@@ -1,1 +1,1 @@
-Electron v1.7: Close, Maximize and Maximize
+i am tri to build a simpl app have close, maxim and minim buttons.th problem with the applic is that the close, maxim and minim are not work properly. the

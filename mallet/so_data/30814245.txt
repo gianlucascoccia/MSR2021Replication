@@ -1,1 +1,1 @@
-Node request not saving zip stream
+in node-webkit i'm tri to download a remot file and save it to the same folder as the node execut (windows)th download progress in the consol log look absolut fine, it get all the way to 0. howev no file is ever creat and the close event is never fired.

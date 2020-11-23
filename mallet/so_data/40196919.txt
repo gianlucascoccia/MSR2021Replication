@@ -1,1 +1,1 @@
-How to load local html page in electron <webview>
+i am tri to load a local html page with an electron webview tag. problem is i can not figur out the correct path. i assum this must be a relat path.load an extern http://... file is no problem.rel path like : "src=/frames/something.html" is not work

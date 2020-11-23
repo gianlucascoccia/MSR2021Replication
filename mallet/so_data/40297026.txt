@@ -1,1 +1,1 @@
-Angular2 passing a JSON object to the constructor of a component
+i have the follow scenario where my first compon i feel this must be quit simpl but i am struggl to see how it works! pleas help me understand how i can pass my json object in the *ngfor loop into the constructor of the compon the templat is building.

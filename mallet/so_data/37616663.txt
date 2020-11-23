@@ -1,1 +1,1 @@
-How do I save a downloaded file to the file system? (node.js)
+i am tri to make a small scraper with node (electron) for learn purposes. i am stuck at tri to download file from the webpage.for now i do :&#xd;&#xd;&#xd;&#xd;&#xd;but the fs part is wrong - i just can't figur out how to make it right. how do i know what sort of data (uint8, int32, etc.) i should use? i'm realli confus about how this should work.

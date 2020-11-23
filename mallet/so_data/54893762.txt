@@ -1,1 +1,1 @@
-Get the size of BrowserView from a Webview in Electron
+i'm tri to add the function as seen here insid a webview which is below other elements. due to this the x and y valu it get are of onli the webview itself of course, but the so it return null. thus that answer doesn't suffice. i can't seem to find anyth on stackoverflow or other site regard how i could get the height of the window from the webview, or how much the webview is offset from the window itself.

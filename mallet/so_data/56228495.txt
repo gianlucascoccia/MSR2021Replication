@@ -1,1 +1,1 @@
-How to open a new window and close the current when clicked on button in electron application?
+i want to open a new window when the person click on the button in the first window display when the electron applic is started. let suppos i want to display a new html file call second.html whenev a person click on the button display on the applic where mainwindow.html is current loaded.index.j file

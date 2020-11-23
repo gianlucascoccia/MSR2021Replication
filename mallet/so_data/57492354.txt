@@ -1,1 +1,1 @@
-how to stop empty logs directory to be created on electron app
+when you start an app built by electron, c¥users¥username¥appdata¥roaming¥builtproductname¥logsth directori would be created.you can find c¥users¥username¥appdata¥roaming¥visu studio code¥logsdirectori if you are use vscode.what is this directory?and is there ani way to prevent this directori to be created, when you build an electron app?

@@ -1,1 +1,1 @@
-Electron fs - EPERM: operation not permitted, open 'C:\Windows\System32\drivers\etc\hosts'
+is there a way in electron or nodej to ask the user to give permiss to edit the file, e.g. like the popup if you want to instal a program and you need the admin permiss to do so.i don't have ani problem read the file with default permiss settings. if i chang the file permiss in the window explor my electron app can write/edit the file, but that not solv my problem.

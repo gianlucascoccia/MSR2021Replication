@@ -1,1 +1,1 @@
-fs.writeFile is not a function Electron/React
+i'm tri to write a littl proof of concept app with react and electron, follow the tutori here:https://medium.com/@brockhoff/using-electron-with-react-the-basics-e93f9761f86fi have one button call "save me!" in the app component. i wrote the handler to print out "hello world" to console, which worked, so i know the handler is not the problem. in memory, i have a simpl object: to reinstal your node moduleshttps://github.com/electron/electron/issues/7300problem solved.

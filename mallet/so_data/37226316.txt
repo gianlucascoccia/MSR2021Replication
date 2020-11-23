@@ -1,1 +1,1 @@
-How to access chrome app installed directory programmatically?
+i am new in chrome app development,i have develop desktop base app few day back use nw , now i want to develop same app for chrome.her what i want to achiev -1.creat folder (name same as app name) in user local file-system,when app installed.2.storing/access file and folder insid abov folder.ar these problem can be solv by chrome file-system api? if yes then pleas suggest me the way. btw , i have tri to access file-system api and my manifest file look like below-

@@ -1,1 +1,1 @@
-Nodewebkit app takes time to load
+i'm make my first desktop applic with node-webkit in windows.i compress the folder of the application, then i chang it extens to ".nw" and i generat an executable.th problem is that when i run the app, it take long time to start (load + white background of the window).i there a solut like show a splash screen when load or somet like that ?i need your help pleas !

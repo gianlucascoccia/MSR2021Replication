@@ -1,1 +1,1 @@
-Opening new Window - Electron
+i'm current tri to implement a new window on my electron app.so i want to includ a button, and when you click on this button, a new window should be opened.i didn't find anyth in the electron documentation, mayb one of you can help me.

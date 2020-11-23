@@ -1,1 +1,1 @@
-Electron App which uses GraphicsMagick to resize an image
+i'm tri to use graphicsmagick to resiz imag insid an electron app i'm building.th flow is (describ with psuedo code): issue, or mayb you see here someth els ?

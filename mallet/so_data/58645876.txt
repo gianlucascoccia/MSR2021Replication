@@ -1,1 +1,1 @@
-Cookies in an iframe inside an electron app stop working when setting custom header via webRequest.onBeforeSendHeaders
+i have an ifram in an electron app (v6.1.2) that load an extern url. i need to load that url with a custom header, therefor i use itself is interfering, as even when not chang the header at all (see code comments), the issu remains.am i miss someth or is this a bug in electron? is there ani way around this?

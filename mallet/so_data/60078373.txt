@@ -1,1 +1,1 @@
-How to debug electron main process with renderer process with Angular
+i am develop an electron applic which use angular. i can debug the angular code by use the i tri to put mani solut togeth to achiev this but i still couldn't find a solutions. if anyon has ani idea, it will be much appreciated. thanks.

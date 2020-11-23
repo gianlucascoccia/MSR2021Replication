@@ -1,1 +1,1 @@
-Node-Webkit and Three.js animation stop and hangs out in the page like a snapshot
+my littl experi with node-webkit and three.j contains; two page;index.html ( contain one button to open wayfinder.html )wayfinder.html ( three.j anim code and a button ( name go ) to back index.html )if i use back button to return index.html, anim stop and but it hang in the screen. even index.html load ( i mean dom element ), i can onli see this stop animation. this look like a node-webkit issu but i did not understand the problem exactly.sourc code

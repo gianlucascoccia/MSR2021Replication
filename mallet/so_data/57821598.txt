@@ -1,1 +1,1 @@
-(node:15864) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'match' of undefined
+when i run the below command to convert exe to appx, we face below error:command

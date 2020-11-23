@@ -1,1 +1,1 @@
-node-webkit app is creating new nw folder in temp folder and not deleting the old one whenever app is upgrade or system is restarted
+everi time, whenev the node webkit app is upgraded, the new folder in the temp file?

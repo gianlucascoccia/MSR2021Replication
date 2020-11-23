@@ -1,1 +1,1 @@
-Import electron.BrowserWindow in TypeScript
+i'm tri to get electron (0.37) and typescript (1.8), with typings, work properly. i'm have troubl with the import of browserwindow. in older exampl it seem to be a seper (a typescript namespace) isn't defined. admit i'm new to typescript.

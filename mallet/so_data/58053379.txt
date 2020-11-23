@@ -1,1 +1,1 @@
-In Electron, can I access the DOM of a BrowserWindow after fetching a URL if I have set javascript: false?
+in electron i want to send the content of the load document from a browserwindow back to the main process. my code look someth like this: without manual go into the dev consol (i'll even take a solut that send code to the programmat open dev console)?

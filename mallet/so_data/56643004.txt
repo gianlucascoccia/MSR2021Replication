@@ -1,1 +1,1 @@
-npm ERR! install electron-packager
+i am creat a new electron app and now i need to instal electron-packag in it. node -v v10.16.0 &amp; npm -v v6.9.0 (i updat both)i have tri to run this: what can i do?thanks!

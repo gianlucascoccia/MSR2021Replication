@@ -1,1 +1,1 @@
-Electron - How to save information?
+i'v recent learn about electron, and given i have a rather well amount of knowledg of html, css, and javascript, i decid to take a look at it. when i normal make web applic i use mysql for store user data most through php. i notic electron doesn't support php file like a normal browser does, so i'm curious as to what the best method for save user data actual is. i read electron allow for interact of file like a real applic doe unlik web apps, but i feel like there anoth way. is there ani "standard" when it come to stuff like this?

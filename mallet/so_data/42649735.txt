@@ -1,1 +1,1 @@
-How to add own c++ header file in electron？
+i'm new to electron and want to call c++ dll, that work fine. i now want to know how to add my own header file in electron. i tri root dictionari and some other deeper place, but onli got: ani help will be appreciate!

@@ -1,1 +1,1 @@
-'TypeError: fs.existsSync is not a function' ReactJS and Electron
+i'm have an issu where i'm get a , i get that error.thi is the compon sourc code: https://sourceb.in/1ffad505cd.jsxthi is the error generat in the console: https://sourceb.in/8c01058284.txtit look to be an electron issu but i can't seem to figur out why.ani help or advic would be much appreciated.

@@ -1,1 +1,1 @@
-Have any way to use MySQL as a installable process in PC?
+i'm look for a way to after instal my electron app instal also this "local database" but i don't want to use xampp... have anoth way ?

@@ -1,1 +1,1 @@
-Angular 4 + Electron - How to run application and watch for changes (live reload)
+i am creat an electron applic use angular 4. how can i set it up so that it watch for ani chang and live reload it.package.jsonthi get tiring, so i want to be abl to build run one command so it watch for chang and live reloads.

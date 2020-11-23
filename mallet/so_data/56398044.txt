@@ -1,1 +1,1 @@
-How Would I Use Electron IPC In Front-End Js File Electron App?
+i am make a electron application, dure this process i start on ipc main to send info from my node file to my front end js files.i am not sure to to use it in front end js file becaus that would requir use and requir can't be use in front end.

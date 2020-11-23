@@ -1,1 +1,1 @@
-Webpack ignores 'browser' field after setting 'target' to 'electron-renderer'
+i'm use webpack with electron, so i have , but it didn't help.i there ani way to forc webpack to use the browser field for a certain package? ani help would be much appreciated.

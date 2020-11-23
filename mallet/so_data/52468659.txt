@@ -1,1 +1,1 @@
-Electron: starting terminal in main window
+i'm use someth likechild_process.exec('start cmd.ex /k bash -c "some commands..."')to start a terminal. everyth work fine. of cours the termin open as a separ window. is there a way to emb this termin in the main app window?

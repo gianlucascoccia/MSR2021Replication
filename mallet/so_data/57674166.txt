@@ -1,1 +1,1 @@
-How to create readable stream from a MediaStream object
+in electron, i can get a mediastream object, but how to convert it to a readabl stream.th mediastream doe not have pipe method, how to read it?

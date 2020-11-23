@@ -1,1 +1,1 @@
-How to fix 'npm dist' fail when building a portable .exe with electron-builder
+when run npm dist with electron builder, the build alway fails.i'v tri modifi my package.json multipl way base on some configur tip i saw on various stackoverflow post and on the offici electron-build configur documentation, and it still fail everi time.package.json: i have no idea what els to do. it use to work when i was just packag it as an installer, but i now need it as a portabl exe. ani help would be appreciated. thanks!

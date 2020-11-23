@@ -1,1 +1,1 @@
-Is there a way to access Windows APIs like CORTANA form electron / node.js apps?
+i just got the "creator update" on winodw 10. i'v read a while back that cortana speech api will becom avail for develop trough an sdk in this update.given that the node.j run-tim is not sandbox like the browser - is there a way to get the nativ window api like cortana work in at this point. but i can't tell if is becaus it too soon - or becaus there is some incompat here.can someon provid an explan of what is actual happening?

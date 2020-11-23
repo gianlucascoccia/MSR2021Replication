@@ -1,1 +1,1 @@
-Electron - Retrieving HTTP response headers from the BrowserWindow's loadUrl()
+i'm work on a test project host on a pc includ in a sso environment.i'm actual point to a webpag host on a server insid this environ and i need to access the cooki (just got them) and the http header of the request.i studi the doc and it seem there isn't a callback function for the i'd appreci ani kind of help, thank

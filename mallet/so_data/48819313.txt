@@ -1,1 +1,1 @@
-Creating an Electron Application with Node.js Logic
+i'v been practic use electron for a few month now, and i was wonder how to convert a node.j webpag project that i made a while ago into an electron app. in my node.j webpage, i use function like ipcmain is a use aspect in electron that mimic the app.get/app.post in node.j

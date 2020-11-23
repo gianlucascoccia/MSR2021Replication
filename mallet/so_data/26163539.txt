@@ -1,1 +1,1 @@
-Is it safe to use a UUID as the name for a Node Webkit package?
+accord to the node-webkit wiki the manifest for a program requir a name and this name must be global uniqu becaus it determin the name of the directori that data file for the program are store in.i haven't been abl to find anyth els that this name is use for. is it safe to just use a uuid as the name list in the manifest? or will that be expos to the user somewher potentially?

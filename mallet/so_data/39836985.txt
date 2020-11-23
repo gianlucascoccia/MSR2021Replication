@@ -1,1 +1,1 @@
-how to get http: request to work in an electron app
+i am still new to electron and nodej but am want to do this project. i would like to open googl in an http: request(url, response, body) and store the html content in an array. here is a code exampl i tried.i place a module.export = website; at the bottom to export it back to the index.html page.i know i am miss some basic fundament but hope someon could give me some good direct to help me complet the task and learn.pleas state thing in a step by step easi to understand way. thank

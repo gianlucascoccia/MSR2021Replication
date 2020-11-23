@@ -1,1 +1,1 @@
-Open new tab in Electron/Angular4 application with a route
+i'm tri to find a way to open a new tab, in an electron/angular application, use a defin route. i build the angular applic with the command protocol.thank you.

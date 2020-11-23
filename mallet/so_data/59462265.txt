@@ -1,1 +1,1 @@
-Electron <webview>.getWebContents().on('login',..) only called once
+i'm tri to use a proxi on a webview element, but when i tri to chang proxi after it have alreadi been set, it won't call "login" and use the same credenti provid for the proxi the first time.code:but the code is onli call once.i'm even initalizit a new webview element and set new "login" event but it is still not get fired.mi though is that becaus the ip has the same port and ip it will stay to default credentials, but i need to chang the auth credenti for the proxi in the webview..how would this be done?

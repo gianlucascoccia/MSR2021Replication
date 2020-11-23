@@ -1,1 +1,1 @@
-how to showing data of my Db in electron.js?
+i has been regist some data in my mongodb and i just want to show this data in the html pages, i have tri use express-handlebar but not work my server.j code : https://pastebin.com/sisjnelu

@@ -1,1 +1,1 @@
-Dynamic templates with electron
+i'm write an electron applic use materializecss. i want to creat a dropdown menu that will show dynam content from an sqlite database. if i was make a webapp, i'd use handlebar or some similar templat engine. how would you recommend i go about do this with electron?

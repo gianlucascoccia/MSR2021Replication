@@ -1,1 +1,1 @@
-How to take screenshot with node-webkit
+all:i build a interact chart app run as node-webkit app. one thing i need help is:say if user click and the visual of chart changed, how can i use node-webkit to take a screenshot of that page to reflect the chang realtime.thank

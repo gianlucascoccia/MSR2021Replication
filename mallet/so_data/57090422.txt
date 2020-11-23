@@ -1,1 +1,1 @@
-Javascript createObjectURL.URL fails for MediaStream
+i'm tri to creat an electron app that take a screenshot of the screen accord to the follow guide:https://ourcodeworld.com/articles/read/280/creating-screenshots-of-your-app-or-the-screen-in-electron-frameworki'm get an error while execut insid the develop tool consol of electron:?

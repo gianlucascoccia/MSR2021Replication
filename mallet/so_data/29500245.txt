@@ -1,1 +1,1 @@
-ngIf always evaluates as true
+i'm develop an angularj application, use v1.3.9. i have a coupl is just an array of objects.

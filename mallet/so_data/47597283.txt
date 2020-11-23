@@ -1,1 +1,1 @@
-electron package: reduce the package size
+i made a simpl electron app:main.jsth total size of the build packag is 107 mb.anyon have tip to reduc the size of the package?

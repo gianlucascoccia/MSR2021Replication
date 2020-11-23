@@ -1,1 +1,1 @@
-Manipulate a MenuItem’s enabled property at runtime
+i have an app that, in order, need to:initi it ui presenc by creat a menu bar/notif tray icon with a menu.retriev extern data.bas on the data retrieved, potenti enabl a tray menu item that initi in a disabl state.in the docs, i don't see ani obvious way of chang the enabl properti of an exist menu item. am i just not see it?thanks.

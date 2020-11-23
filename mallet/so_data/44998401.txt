@@ -1,1 +1,1 @@
-Can`t make gRPC work with Electron.js
+i`m make an electron app that should connect by grpc to remot host and call some function from there. but i keep get the follow error:uncaught error: a dynam link librari (dll) initi routin failed.\?\d:\projects\demo-app\node_modules\grpc\src\node\extension_binary\grpc_node.nodei tri to: establish grpc connect from main and from render process of electroninstal depend as but noth works. error

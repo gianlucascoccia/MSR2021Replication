@@ -1,1 +1,1 @@
-Is it possible to create a windows installer for combine an application built with Electron Framework and AutoHotkey Tool?
+i have tri mani way to built the electron app with autohotkey tool as one exe file but still it didn't work, if you find ani way pleas help me. here is the build.j code:

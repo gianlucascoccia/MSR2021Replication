@@ -1,1 +1,1 @@
-After adding sqlite3 to Electron-forge app, app wont run anymore
+i am tri to integr sqlite3 into my electron-forg application. but whatev i tri it alway fails. i have triedus with all these warn and that one error i am totali lost, so ani help is veri much appreciated.

@@ -1,1 +1,1 @@
-Where to store user settings in Electron (Atom Shell) Application?
+i can't seem to locat a built in mechan to store user settings. i was hope that electron provid a standard method for store user set across all desktop platforms. if there isn't a preced for this i can implement it myself, i just didn't want to jump to a custom solut immediately. research onlin is pretti spars in this area. thanks!

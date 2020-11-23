@@ -1,1 +1,1 @@
-Electron - Javascript (ES6) - import remote Class
+edit :02/09 - it seem that the import code is fine (like the one in the response), but my class code is not good (bad es6 ? bad transpil ?)initi post :i'm tri to import a remot class from my electron app.i have a static server to host my html/js filesi'd like to import a class from that server, in order to use it in the main process of my electron app.i it possibl ?i found some solut like :is that a good way to go ? (i know about security, it just how to)

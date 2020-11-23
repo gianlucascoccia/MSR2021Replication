@@ -1,1 +1,1 @@
-How open link with hash (#) in new window with electron?
+i want open link in new window. link with hash (#). after hash go page for my js framework.i do:it is work for mac, but not work for window (open onli index.html- mainpage)

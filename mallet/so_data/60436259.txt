@@ -1,1 +1,1 @@
-how to run commandline in electron after build with ASAR
+child_process code like bellowaft build with electron-builder, in folder resourc i have 2 file electron.asar and app.asar and folder run. but it not execfil start.bat after build. run in dev is work good

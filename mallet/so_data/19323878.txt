@@ -1,1 +1,1 @@
-handle https file response errors
+how would i handl a situat where the file doe not exist on the server, or is unabl to connect with the server to get the file?a of the code below, the file download still occurs, and the file is empty.

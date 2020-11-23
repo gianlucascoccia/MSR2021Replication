@@ -1,1 +1,1 @@
-Jquery: Open a new HTML windows when button is click
+1) i'm tri to get this work just for test purpose, can you help me out?

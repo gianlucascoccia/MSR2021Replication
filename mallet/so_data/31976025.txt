@@ -1,1 +1,1 @@
-Cannot load Goldenlayout library on electron app
+hi i'm tri to recreat golden layout angular complex applic https://golden-layout.com/tutorials/angular-complex.html as a electron application, so basic i just did the quick start exampl of electron http://electron.atom.io/docs/latest/tutorial/quick-start/ and did all the logic of golden layout on my index.html but it send to me this error:jqueri is miss as depend for goldenlayout. pleas either expos $ on goldenlayout scope (e.g. window) or add "jquery" to your path when use requirejs/amd

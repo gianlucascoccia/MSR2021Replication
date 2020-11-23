@@ -1,1 +1,1 @@
-React router on electron can't change history
+i'v been tri to creat a spa on an electron project use react, react-rout and typescript (boostrap from here). i'm current just tri to make it rerout to a differ rout via a is the port associ with the project. i'm not sure how i can fix this as i believ this is a problem specif with electron? not sure..th code i'm run is exact the same as https://codesandbox.io/s/weathered-river-9yrbv(pleas to go /app first in the sandbox)

@@ -1,1 +1,1 @@
-Electron - debugging JS file imported from HTML in VSCode
+i'm complet new to electron.i have an app, which is a html (teacher.html) with script import.i put sever breakpoint in the file but all of them becam "unverifi breakpoints" onc debug started.how can i make the debugg stop on the breakpoints?

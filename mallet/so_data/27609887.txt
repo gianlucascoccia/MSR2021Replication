@@ -1,1 +1,1 @@
-How to disable DevTools in Atom Shell
+i'v been tri to figur out how to disabl the devtool in atom shell. i'v tri use a window event listen to no avail. it seem that the devtools-open window event listen doesn't work. the devtool are still open by shortcut listener. i'd rather not have to includ the mousetrap librari if it unnecessari but as of yet i can find nothing.do anyon know of a better way?

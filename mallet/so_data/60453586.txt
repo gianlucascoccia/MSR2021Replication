@@ -1,1 +1,1 @@
-Why does my MenuItem icon not show at the top level in Electron 1.1.8?
+i have an electron app with a menu. the first menu item is a drop-down so it has a submenu. the other two menu item just do their stuff on clicking.mi problem is that i just cannot get an icon to be shown for the menu item that do their stuff straight away. (the same icon display fine on submenu items.)a in:th icon is simpli not shown. if i take out the label, noth is shown.but the icon is shown when i put exact the same code insid a submenu.

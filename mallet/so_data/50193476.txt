@@ -1,1 +1,1 @@
-Require is not defined on electron with cypress
+i'm tri to implement cypress in my electron app, but on first line of code which is

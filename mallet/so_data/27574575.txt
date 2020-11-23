@@ -1,1 +1,1 @@
-ng-repeat does not show data until I move node-webkit window
+i'm write an angular app in node-webkit so that i can access the file system and other api like desktop notif and whatnot.i have an angular servic (let call it but sad that didn't fix the problem either.

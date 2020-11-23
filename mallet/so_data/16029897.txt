@@ -1,1 +1,1 @@
-requirejs timeout error
+i'm use js/html/node-webkit to build standalon app and have an issu with load js files.fil tree:catalogsmal is a huge file in json-styleso, if i load my sript direct from index.html there is no errors, but if i tri to load them via requirejs, i have an error "uncaught error: load timeout for modules: files/catalogsmall" after 180 secs. have no idea how to fix it.

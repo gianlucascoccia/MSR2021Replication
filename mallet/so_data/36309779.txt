@@ -1,1 +1,1 @@
-Invoke ActiveX In Electron
+i have sever activex controls( .cab files) for dsverifi or digitalsignatur and in the past i use html and load them into ie like:and now i want to use electron as cross-platform runtime, but i don't know how to invok these activex plugin in electron , or how to embed ie in electron?

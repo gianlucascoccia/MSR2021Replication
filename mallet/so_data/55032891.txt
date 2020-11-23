@@ -1,1 +1,1 @@
-How to load HTML file with style without affecting the rest of the page styles?
+i am creat a basic email client for myself in electron. when i load an email, that email data need to be display insid a div element that look like this . so what i'm ask is how can i display this html without it affect the rest of the document style or how can i catch and ignor the ifram error? thank in advance.

@@ -1,1 +1,1 @@
-HMR with Electron and React?
+i'v follow the follow guides: https://webpack.js.org/guides/hmr-react/http://gaearon.github.io/react-hot-loader/getstarted/https://github.com/wkwiatek/react-hot-loader-minimal-boilerplatebut i can't seem to make hmr work for electron. these are log i get when i appli some changes:i don't know if it has someth to do but i'm use typescript. ani help is welcome. thanks!

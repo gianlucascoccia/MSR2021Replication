@@ -1,1 +1,1 @@
-Move file from src to dest using HTML FIleSystem API
+this is a veri simpl question, but is give me a lot of trouble. i want to move a file from origin to destin in my local file system. i'm use html5 filesystem api. this is my code:but i'm get not_found_err - a request file or directori could not be found at the time an oper was processed.i'm use an stack with angularj + typescript in an electron app.ani idea?cheers,abel

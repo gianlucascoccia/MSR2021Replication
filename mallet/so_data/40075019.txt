@@ -1,1 +1,1 @@
-"Uncaught Error: Received packet in the wrong sequence" with devtools off - Electron + MySQL node driver + Webpack
+when i set up a new project use electron + webpack + node mysql my product build is throwing:

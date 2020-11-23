@@ -1,1 +1,1 @@
-How to put Electron GUI application into Docker container?
+i'm tri to put an electron applic into a docker container. i have tri follow this guid but no applic gui is showing:https://medium.com/@saravsun/running-gui-applications-inside-docker-containers-83d65c0db110anyon have ani up to date guid for put electron applic into a docker container?

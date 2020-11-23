@@ -1,1 +1,1 @@
-google auth on electron app
+we are develop an electron app use and reactj and node. googl oauth2 is be use for signup and login. but we are not abl to get back to the app after success login. what is the right way to solv this. what is the return url that is to be given to return the user to the app?thank in advance.

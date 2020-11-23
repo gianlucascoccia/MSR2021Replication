@@ -1,1 +1,1 @@
-How to open electron with a different session
+i would like to open sever electron browser window with a new session everi time.lik if i have chrome open a url and sign in a user. then i can open chrome in privat mode and have it ask me the login detail again. i just need more than just 2 windows.i it possibl with nightmarejs? is it even possibl outsid of nightmarej and without vms?

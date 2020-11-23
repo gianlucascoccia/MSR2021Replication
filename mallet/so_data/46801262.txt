@@ -1,1 +1,1 @@
-New BLOB losing data javascript
+i am tri to save a blob like this when i print out the "chunks" blob, it has data, but when it is convert to array buffer, all the data is lost. how can i fix this?

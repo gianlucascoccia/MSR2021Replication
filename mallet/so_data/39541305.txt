@@ -1,1 +1,1 @@
-Electron - Error launching app
+i am follow a tutori on how to use electron to make desktop apps. i have follow all of the step but when i use in termin i get this errorimag of errorclick here to see the tutori that i am follow

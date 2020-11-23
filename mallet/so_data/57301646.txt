@@ -1,1 +1,1 @@
-electron/socket.io client - python-socketio/aiohttp server // fail to connect
+this websocket connect fails. the funni thing is this was work a coupl day ago. i downgrad electron from 6 to 5.0.6 but this didn't help.serverwhen i run this from electron/nod now, i get the same error as initi plus a key error:sinc it was work before, and now it doesn't on 2 differ machin and with a minim exampl project, i have no idea what could caus all of this. pleas help me stack people.

@@ -1,1 +1,1 @@
-Button click event binding in Electron js
+i have start use electron js to develop desktop application.i want to know that how to bind button click event with javascript function so that i can perform other operation.i use below html code:

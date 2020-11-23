@@ -1,1 +1,1 @@
-Electron browserWindow password prompt
+i have a simpl electron app that wrap around a web app. the web app prompt for user name but electron doesn't show the prompt and direct goe to the 401 author requir page. is there a set i need to chang to make the prompt show? i can't seem to find it in the documentation. ani help is appreciated.

@@ -1,1 +1,1 @@
-Converting a website into a desktop application
+how can i convert my mean stack web applic complet into a desktop applic i have built the websit which is up and run . how can i use electron to convert this websit into a desktop applic i use nodej mongodb angular js and express framework to build the website. is there ani way to chang it into a desktop applic or i have to make it complet from scratch to make a desktop applic pleas answer thank

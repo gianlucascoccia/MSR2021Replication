@@ -1,1 +1,1 @@
-How to use ticket kerberos in app electron.js?
+i am develop a cross platform applic with electron.js. i need to call a web api that is on an ii server with integr security.on a mac comput i creat a kerbero ticket to connect to the web api, from a chrome browser it doe not ask me for credenti becaus it use the ticket ones. but from the app electron doe not use the kerbero ticket. how i do this?

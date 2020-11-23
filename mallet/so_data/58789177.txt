@@ -1,1 +1,1 @@
-Checking variable status from config file
+i'm tri to build a page that has a differ layout if a checkbox is select on anoth page within the app. in the userconfig.j file, i ad these:howev this seem to have no effect on the page. what am i miss to make this connect work properly?

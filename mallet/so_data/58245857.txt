@@ -1,1 +1,1 @@
-Nodejs docx-merger module doesn't work properly
+i'm use but it give on the first time. and then i rerun the application, it merg without error. but i don't want it to give an error.th document says, it has some issu about numbering. but i'm not use numbering.thank you in advance.

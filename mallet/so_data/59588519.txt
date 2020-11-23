@@ -1,1 +1,1 @@
-How do you make your own customize the scroll bar in electron?
+i know how to custom the scroll bar use but if i do that my code will break sinc i'm use the ipcmain and ipcrender in my project

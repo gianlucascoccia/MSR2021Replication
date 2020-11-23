@@ -1,1 +1,1 @@
-Electron Installer integrity check has failed
+i'v build an electron app with my app is not signed, do you think the problem can be this ?if i download my .ex file with http link, the instal is ok. i'v this messag onli if i copi the .ex on other support.thank you communiti !

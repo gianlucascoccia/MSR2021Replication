@@ -1,1 +1,1 @@
-Error: Cannot find module './'
+i stumbl upon this error when tri to start my applic via npm start. i am not sure where the problem lies, becaus it work fine in my other comput (i unzip the file to this comput ran, npm instal just in case and then tri to start it, but then the follow error is thrown below).ani help would be appreciated.

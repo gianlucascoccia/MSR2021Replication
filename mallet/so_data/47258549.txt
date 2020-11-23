@@ -1,1 +1,1 @@
-AWS s3 progress bar in multipart upload node.js aws-sdk
+i am tri to identifi a way to track upload progress for a bunch of file be upload use node.j aws-sdk multipart upload.i was abl to divid all file in part and upload them one by one, but the event httpuploadprogress provid the whole partsiz onc upload starts, it was not provid live byte upload to aw s3 as in putobject method.

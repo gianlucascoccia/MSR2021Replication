@@ -1,1 +1,1 @@
-electron 5.0.0 "Uncaught ReferenceError: require is not defined"
+i had initi been use electron stabl (4.x.x), and was abl to use . but i was not do this, so i thought someth els must be the issu and continu search for a resolution.

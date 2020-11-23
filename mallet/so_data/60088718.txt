@@ -1,1 +1,1 @@
-How can I copy a folder that contains symlinks from Windows to mac?
+i'm use to creat an app for maco on a window machine. this work fine, but the result app has symlink and need to be move to a mac afterwards. is there ani way i can copi those folder - via network or usb-stick - to an appl comput without break the symlinks? if there is ani possibl i'd rather not instal wsl or ani virtual subsystem. i tri to use 7zip and .tar archiv electron-installer-zip (which doe not seem to work under window at all)

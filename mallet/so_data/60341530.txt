@@ -1,1 +1,1 @@
-NW.JS Open New Window Errors Id does not work
+ani idea whi when open a new window, ii cannot use the id to repost a new url in the same window?

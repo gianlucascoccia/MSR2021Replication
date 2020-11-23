@@ -1,1 +1,1 @@
-Black window when running Postman on Windows 7
+when run postman on window 7this is the screen that i can see:in what way can i debug whi this is happening? and what could be the fix for this?

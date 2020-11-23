@@ -1,1 +1,1 @@
-Node v11 throws with spread operator
+i'm tri to build an electron app and i'm use electron-unhandl in it, but when run my app it throwsnow, the weird thing is that i'm use node v11.5.0 which has support for spread operator, so i'm stuck with this. so, the question is, how can i make this work without compil to es5? i mean, node is suppos to handl this syntax right?in case it helps, my electron version is v5.0.1 and i'm work with window 10.

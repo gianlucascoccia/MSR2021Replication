@@ -1,1 +1,1 @@
-unexpected token export in electron-react js
+i'm usimg electron-react biolerplate.electron main.j file place in public folder.i want to add anoth electron file to common constants,functions.when i tri to use that file it throw abov error.i want to keep main.j short .that whi i'm use anoth file/public/renderer/command-executor.j

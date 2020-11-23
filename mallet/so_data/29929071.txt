@@ -1,1 +1,1 @@
-Frameless Browser window zero height
+i'm creat a new frameless browser window in electron, with it height and width set at 0 but, at least in windows, the window is shown with some width and height.also i have not load ani content inside.i it possibl to have a frameless window with 0 height/width?

@@ -1,1 +1,1 @@
-Node Webkit http crash
+so i'm pull remot json in to provid version number for an auto updat procedure, i am abl to pull the file just fine if i am online, i disabl my network adaptor to forc no connectivity, and the app crash to desktop.her is my code:i guess in my inexperi i am set up the error check incorrect in some way? could ani of you guy provid the answer so the app doesn't crash on startup?

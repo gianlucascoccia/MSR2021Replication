@@ -1,1 +1,1 @@
-Deploy JS app to browser and nw.js or Atom Electron?
+i want to know if there a tool or way to develop a javascript applic and have it deploy either to browser javascript or to a nativ applic with nwjs or atom electron.of cours it would have to use browser-compat featur and not nativ featur of node.i guess it just a matter of how to bundl the files, but mayb there a tool alreadi to do that.

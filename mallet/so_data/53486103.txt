@@ -1,1 +1,1 @@
-Electron: Renderer process not rendering navbar
+i'm new to electron and i'm tri to display a simpl navbar in the render process of electron with the follow html code:and here are the results.when open the html file with firefox:and in the reder process of electron:ani idea whi this happens? thank a lot!edit: it seem that the electron render is render my webpag as a mobil webpage, i don't know whi this happens.

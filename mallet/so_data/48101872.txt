@@ -1,1 +1,1 @@
-Close application on press of GlobalShortcut keys when application is in focus
+i have made a applic that come in focus when i press the global shortcut key when it is not in focus. i want the applic to close with the press of same global shortcut key, if current it is in focus.

@@ -1,1 +1,1 @@
-Check if category along with key exists in 1 if?
+so, i want to check if object.category.key exists.what i mean is that, i want to do someth like that:

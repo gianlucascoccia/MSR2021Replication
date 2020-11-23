@@ -1,1 +1,1 @@
-Electron with local https server, redirecting POST request fails pre-flight OPTIONS
+i have a web app wrap with electron. the electron app filter web request and redirect them to handl by local it work fine (so far) when it is not a dev mode. is there a way to disabl this preflight check? or correct it somehow so it doesnt fail.

@@ -1,1 +1,1 @@
-External image links in Electron do not open in an external browser
+i'm use this code to open extern link in a browser outsid of electron. it work fine if text is written after the desin : &#xd;&#xd;&#xd;&#xd;&#xd;how can i get an imag link to open in an extern browser in electron?

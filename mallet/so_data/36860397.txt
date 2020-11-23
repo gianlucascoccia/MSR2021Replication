@@ -1,1 +1,1 @@
-Loading a yaml file in Electron app
+i am tri to load a big set of data store in a .yml file into my electron app:thi work in development, however, when i packag the app the .yml file cannot be loaded. what would be the "correct" way to load such data into my app?

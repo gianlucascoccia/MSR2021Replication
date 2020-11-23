@@ -1,1 +1,1 @@
-How to active another application window when electron's window hide
+i have a situat about that when my electron app is call win.hide(),i want the latest app which is blur becaus of show my electron app to becom activity.i saw some issu at electron github,it be mark as bug,and still not fixed.https://github.com/electron/electron/issues/10023wheth have some solut or idea can achiev it?

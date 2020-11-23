@@ -1,1 +1,1 @@
-Dust js partials / child templaes output undefined
+i'm use nwjs and dust.js. parent templat work as expected, but if i tri to load a child (partial) templat the output is undefined. am i miss someth to get child/parti templat working? thanks.

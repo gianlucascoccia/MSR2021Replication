@@ -1,1 +1,1 @@
-How to store application settings for all users
+i want save some configur for my electron app. i'm use electron-json-storag to store data. but it store data in app data of current user.i have tri to store data in instal directori use is there ani common storag in electron or ani other option to overcom this situt

@@ -1,1 +1,1 @@
-Electron: cannot scroll to bottom of div
+i'm tri to make a fake consol use electron and i can't seem to be abl to scroll on the bottom of the div contain the text, no matter what i try. i have use this code:and plenti variant of the code above, both with jqueri and javascript. do i have a problem becaus of electron? i just want to scroll to the bottom of the div.

@@ -1,1 +1,1 @@
-"process.send" is undefined in both parent and child Node.js processes ("childProcess.spawn" variant used)
+i want to provid the data exchang between my main applic and child electron applic (gui could be start from console). mainprocess (but not electron "main process")th below sourc code is typescript.

@@ -1,1 +1,1 @@
-Do apps made with Electron need to be installed?
+do electron app need to be instal on window / mac?

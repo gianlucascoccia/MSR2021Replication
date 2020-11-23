@@ -1,1 +1,1 @@
-ElectronJS autostarting for current user but not for all users on machine
+i have creat a electronj applic (for windows) which should be auto launch on login and restart. applic instal is machin wide (not onli for current user). this is work fine for current user from which applic is instal but when i login from other user of machine, applic is not auto launch i have to open the applic manual and after that applic will start auto launch when user will login or restart. i want applic to auto launch for all user without open it manual for first time

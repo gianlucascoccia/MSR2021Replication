@@ -1,1 +1,1 @@
-How to display RTSP stream in Electron?
+i have a video stream use the udp protocol, access through either , which works, but it display the stream on a whole separ window, which is not what i want. activex, npapi, and other plugin solut are not an option becaus electron doe not support them.am i out of luck, or is there a solut that i haven't come upon yet?

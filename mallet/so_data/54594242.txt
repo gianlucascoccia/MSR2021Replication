@@ -1,1 +1,1 @@
-Electron Webpack Vue global variables
+i'm tri for hour now to get global variabl to work in electron with webpack and vue, but vue can't find the declar variable.webpack.config.j

@@ -1,1 +1,1 @@
-Firebase analytics log event not working in production build of electron
+i use a firebas packag for use realtim db and i want to implement firebas analyt so i use the same packag and write code for analytics&#xd;&#xd;it is work in develop perfect but not work in the product mode

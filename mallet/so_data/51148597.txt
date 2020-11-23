@@ -1,1 +1,1 @@
-Angular + Express.js app in Electron doesn't starts
+i have success manag to build mean app. now i want that app to run insid electron. the follow command is work on web browserth server start success but the electron app doesn't rendered.

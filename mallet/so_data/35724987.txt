@@ -1,1 +1,1 @@
-Running Hapi.js in Nodewekit
+has anyon run hapi applic insid nodewebkit?thi is my package.json:thi => operator. how to byspass it?

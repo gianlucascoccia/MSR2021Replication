@@ -1,1 +1,1 @@
-Electron app do not start but electron-builder (dist) is ok
+can't figur what wrong in my electron project. start with )

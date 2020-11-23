@@ -1,1 +1,1 @@
-Using react router with electron
+i'm in the process of work on a project use create-react-app on electron and have react-router-dom. i'm author my user login and hope to redirect them to the home page immedi after, but the usual syntax for redirect doesn't seem to be working. pleas take a look at my code and advise.index.j

@@ -1,1 +1,1 @@
-How to let Artyom.js working in electron-react
+so i current work on an electon-react project, and i am tri to integr voic control into it for control the components. now the problem is, the i know it would be normal for restart if i set the continu to true, but it keep restart within a second so it cannot take ani commands.i also tri to run the react onli in the chrome browser with the same code and it work ok. i have no idea how to fix it.i am run on window 10 and electron ^7.1.1

@@ -1,1 +1,1 @@
-Require node module in angular2 component
+i can not figur out how to requir node modul in my angular2 compon - especi in my case on how to open a new electron window within an angular2 component.mi component.html has someth like thisth error at compil is say cannot find name require'.

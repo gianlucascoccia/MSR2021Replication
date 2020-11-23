@@ -1,1 +1,1 @@
-is it bad practice to use app.quit() to close all open windows in an electron app?
+i have an electron app with nodej and express. i have the main process code in one file (app.js) and the rout in anoth file (router.js). the main file creat the main window:mi question is whether or not this is a bad thing to do. it doe termin all open window without ani user input, but there is no unsav work that could be lost sinc all of the new window would be pdf which can not be edited.

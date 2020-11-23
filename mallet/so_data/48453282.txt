@@ -1,1 +1,1 @@
-Bundling an Electron App with Angular 4 and PouchDB
+i have built an electron applic with angular 4 and pouchdb. everyth work fine when i

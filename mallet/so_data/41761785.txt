@@ -1,1 +1,1 @@
-How to access class instance in Electron from browser JS
+i am write an electron applic use angularj for the main part of the application. i have a class defin in the electron main.j file

@@ -1,1 +1,1 @@
-I want to record the current window video + system sound + microphone sound in electron
+i tri a lot of methods, but they all failed.how can i record the current window video + system sound + microphon sound?

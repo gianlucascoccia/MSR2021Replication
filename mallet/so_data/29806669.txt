@@ -1,1 +1,1 @@
-node.js/typescript can not find local module
+when i tri to import a local file it either throw an error at runtim but compil it use tsc works. when i make it work for node.js, typescript throw an error at compil time.when i doi compil the file separ and i alreadi tri search for chang the root directori for the typescript compil but i couldn't find anything.

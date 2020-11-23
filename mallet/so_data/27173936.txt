@@ -1,1 +1,1 @@
-make a dmg package of my node-webkit app
+i have my node-webkit app run on my mac and i want to make a dmg packag to distribut the app.i have instal the appdmg modul and is perfect for me. my json config is this:that build a dmg packag with node-webkit but without my app, when i execut myapp it open the node-webkit browser.i think i miss some configur in node-webkit.app or someth similar, ani comment and approach is welcome.

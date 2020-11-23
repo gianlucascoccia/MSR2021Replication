@@ -1,1 +1,1 @@
-How to listen to Server Sent Events
+i am build an electron (1.8.4) app. how do i listen for sse, the usual javascript : give me the error : eventsourc is not defined. are ss not support in electron? i could not find anyth in the api reference.

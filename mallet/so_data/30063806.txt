@@ -1,1 +1,1 @@
-Run Javascript in iFrame context
+i am attempt to run a script in a webpage, that should be execut in an function was just a refor on how i call function in the frame.

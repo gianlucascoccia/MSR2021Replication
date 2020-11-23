@@ -1,1 +1,1 @@
-Hot Module Replacement of a particular module only works once while the App component can be HMR-ed all the time
+in my project i am use webpack hmr featur to dynam import and render the react app compon on new chang which work all the time. howev i have anoth file where i store a redux reduc with a correspond

@@ -1,1 +1,1 @@
-Unexpected token import on Electron app
+i have built an app use github electron. i am use the recommend way of load modules, the es6 syntax of: window isn't (perhap rollup'?), but there noth explicit within my app code to suggest this.

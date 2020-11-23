@@ -1,1 +1,1 @@
-It's possible to implement AdonisJS with Electron as a backserver?
+as the titl says; is possibl to implement adonisj server as a server insid electron? the idea is that when you open the electron program it automat run a adonisj server.i tri to use a requir server.j but didn't worked.

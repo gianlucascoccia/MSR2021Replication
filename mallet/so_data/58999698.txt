@@ -1,1 +1,1 @@
-Electron :linux start at boot up system
+this is a electron applic for linux.main.j .problem :i) how to auto start it at bootup?ii) which part of the code is to implement?

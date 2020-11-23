@@ -1,1 +1,1 @@
-Can we wrap/ modify Cordova FS APIs with Node APIs by Electron to make them work under Desktop environment?
+i am have an angular/ion app that build upon cordova for multipl mobil platforms. now i want to extend it to desktop. i have run the web view folder() in electron and everyth is work fine except some cordova file system apis.i there a way for me, so that i can wrap/modifi those cordova api use node fs api provid in electron ?

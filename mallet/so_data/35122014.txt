@@ -1,1 +1,1 @@
-How to route from outside of components with `react-router` in Electron?
+the problem i'm have with doesn't make rout changes?

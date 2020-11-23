@@ -1,1 +1,1 @@
-How to fix electron add facebook lead to can't load URL 'http://localhost:4200'
+i tri to add facebook login in my electron.i tri to add facebook login in my electron.but i add facebook cdn then my electron can't work.electron -> main.tsi would like catch some error message.becaus no error messag

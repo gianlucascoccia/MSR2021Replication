@@ -1,1 +1,1 @@
-Electron write json file working in dev but not in dist
+i'm work on an app build with electron and a config file is save after login.when the app is reopen in development, it works, but when it reopen after be distribut with electron-builder, i have to login again.codeproject:electron 1.7.11electron-build 19.55.2node 8.8.1

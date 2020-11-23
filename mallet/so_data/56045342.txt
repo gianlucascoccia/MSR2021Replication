@@ -1,1 +1,1 @@
-How bring a window on top of all other windows using a shortcut in electron.js
+i want to make a shortcut that will bring the window with my program on top of all other windows. the shortcut is regist fine, but i can't bring my window to the top.main.js(i provid onli necessari part of code, remov imports, etc.)al this should work like that: i press some keyboard shortcut(e.g. shift+alt+z) and a window like this pop up

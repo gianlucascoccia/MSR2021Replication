@@ -1,1 +1,1 @@
-jQuery not loading in webview in Electron app
+i am use electron framework to load a page in a webview. i want the page to be load just as a browser would load it without turn off i also tri the solut describ here electron: jqueri is not defin but with the same result. pleas help. here is the complet code https://github.com/ajaykgp/electron-start

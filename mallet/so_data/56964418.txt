@@ -1,1 +1,1 @@
-How to add to system path with the installer built by electron-builder?
+current i am use electron-build to build an instal for windows, i expect it can automat add one entri to the system path so the applic can be start from the command line.vscod is built with electron, and it can be start with after installation. but i search but fail to find how to do that with electron-builder, or doe electron-build support this feature?

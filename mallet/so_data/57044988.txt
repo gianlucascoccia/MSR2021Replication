@@ -1,1 +1,1 @@
-Having problems getting electron builder to sign a mac build
+i don't know whi , the exact same cert appear again.hav i miss anything?

@@ -1,1 +1,1 @@
-Electron(v5-v7) webview not accepting the keystrokes
+i'm write the app with electron and now i'm face the issu with the webview.i have some webview in which there are a few text field and one dropdown. and text field are not work when i'm tri to tap some charact in input but the dropdown handl the up and down arrows. also, i saw realli interest behavior: the text field keystrok start work when i tap on the tab button a few times.i use electron v3 and v4 and those version don't have that bug but they are not feasibl for me.someon had that issu before?

@@ -1,1 +1,1 @@
-How to bundle javascript using Parcel in Electron?
+i'm use https://github.com/parro-it/electron-parcel-exampl to use parcel with electron.mi project is https://github.com/patrykkalinowski/dcs-frontlines-electroni have basic setup where

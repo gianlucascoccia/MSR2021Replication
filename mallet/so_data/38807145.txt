@@ -1,1 +1,1 @@
-how to edit snapshot from a video?
+i'm load video from my comput through getusermedia, i take a snapshot with canvas. but when i tri to edit through of code below i can't.i can put lines, but they do not chang the color, thickness, etc ... i am use the electron to perform a desktop web application. can someon help me?? :dsnapshot on electron

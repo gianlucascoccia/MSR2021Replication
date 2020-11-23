@@ -1,1 +1,1 @@
-Electron - Variable changes value when passed from renderer to main
+with halloween around the corner i'v been get some spooki js bugs. this one i can't wrap my head around and have been unabl to debug at all. essentially, i'm use electron, and when i observ a variabl in the render process it fine, but when i call it on the main process it is miss an entir key valu pair: so it should be imposs for someth to direct overwrit it with a past valu of the object.

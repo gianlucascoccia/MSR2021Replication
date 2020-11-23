@@ -1,1 +1,1 @@
-Calling Electron from Gulp
+i have an app that i'v built with electron. i'm attempt to streamlin my build process. for example, minifi some code. my challeng is, i'm not sure how to start the app from gulp. currently, i have a task that look like this:i'm not sure what wrong.

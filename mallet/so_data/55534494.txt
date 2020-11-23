@@ -1,1 +1,1 @@
-Wine: exe file build with electron creates error "Bad EXE format"
+i'v got an exe file call presentation.ex that was build with electron. i am run the 32bit version of wine (4.0) which should be fine.when i'd like to run the exe file use wine i get the errorthi error messag doe not realli help me at all in debg the problem. how can i get a bit more inform and/or solv this issue?

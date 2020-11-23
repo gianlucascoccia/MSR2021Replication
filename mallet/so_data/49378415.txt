@@ -1,1 +1,1 @@
-accessing html element using id from a webview tag in electron.js
+i need to write javascript function to access a element use id from a webview in electron . is it possible?can i write a code simil like document.getelementbyid("#idinsidewebviewtag");

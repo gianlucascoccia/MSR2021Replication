@@ -1,1 +1,1 @@
-Electron: jQuery is not defined (for an EXTERNAL site)
+i know this question has been answer time and time again, but the answer assum one could chang code of render page. in my case, i have to redirect to an extern public sso site for authent which happen to use jqueri and caus this:not again: i do not have the abil to chang anyth in that extern site.

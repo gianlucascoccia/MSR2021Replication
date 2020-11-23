@@ -1,1 +1,1 @@
-Enabling Manual Garbage Collection in Electron app
+i have been tri to get garbag collect and max old space size configur in our compil and built electron app.i am abl to debug with these set on through the cli function.nor doe set node_opt help (i see that this has been disabl in the latest electron version as per here: https://github.com/electron/electron/issues/12695)do anyon have experi get this working?

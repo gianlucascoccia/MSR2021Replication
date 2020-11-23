@@ -1,1 +1,1 @@
-node-webkit http.Server and page change
+i write an applic use node-webkit. i want to use http for network communic between computers, run my app. can i chang current page without server restart if server was start from the page?i thought about child process, but i want to shutdown the server with my application. i don't want to use special network request to the server to close it.can i chang current page without server restart?can i save child process object while page changing?do you know other way to do this?p.s. sorri for my english.

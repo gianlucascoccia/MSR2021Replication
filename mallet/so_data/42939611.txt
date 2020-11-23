@@ -1,1 +1,1 @@
-How to Load Certain Route on Electron App Activate Event
+i'm have a realli hard time to figur out how to load a particular rout when the event is fire and the login screen show again. sinc the user is alreadi log in, i don't want the user to show the login window again. ani suggest would be must appreciated.

@@ -1,1 +1,1 @@
-Secure content (huge data) in electron App
+i am build an electron app which will be bundl with lot of content (images/html/videos/audios) of ~800mb. i will be render this content in my app. is there ani way to secure(encrypt) this content so user would not be abl to access it direct (or indirectly) without launch an app?i might have to store password and some other info which can be secur with node-keytar but to secur my 800mb content seem difficult with keytar.ani suggestion/help is appreciated. thanks!

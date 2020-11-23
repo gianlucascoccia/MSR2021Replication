@@ -1,1 +1,1 @@
-Setting request headers globally
+one way, to set the request header in nightmar librari is to pass them as a second argument of instanc to not pass them explicit on each navigation?

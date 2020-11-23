@@ -1,1 +1,1 @@
-Electron, copy a file to the websrver folder
+i'm use electron dialog to get access to a user files, now i want to upload the select file to the webserver. in my code i'm use

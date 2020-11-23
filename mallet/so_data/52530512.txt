@@ -1,1 +1,1 @@
-How to disable close event of electron in angular
+i have a function in my component.tswhat i want to achiev : when close button of electron ui is clicked, if unloadnotif return true, i want to show second messag box directly, rather than show to close with yes &amp; no buttons.

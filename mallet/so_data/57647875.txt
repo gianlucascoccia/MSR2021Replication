@@ -1,1 +1,1 @@
-Cypress - Alert message when running electron browser asking to update to latest Chrome fails tests covering elements
+i'v got one test case which fail onli when use electron and the reason is that an alert appear ask me to upgrad to latest chrome. this alert cover the element i want to interact with.us cypress version 3.4.1 if i manual dismiss such alert the test passes.i'v manag to make the test to pass by use a but clear this is not a good solution.

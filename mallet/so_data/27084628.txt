@@ -1,1 +1,1 @@
-angular js routeProvider doesn't work in nodewebkit
+i'm use nodewebkit with a angualrj and i have some problem with the routeprovid , this simpl exampl work fine in the browser but when i use nodewebkit and click in some link with a link to a router this doe noth

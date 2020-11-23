@@ -1,1 +1,1 @@
-Electron: Minimize the application when launched after computer is restarted
+i am use node-auto-launch to launch my applic after comput is restarted. this applic is onli for windows. i want this applic by default to be launch minim as it work in the background. how can i achiev this?i don't want the applic to be hidden. the applic icon should be visibl in the system tray in the taskbar.

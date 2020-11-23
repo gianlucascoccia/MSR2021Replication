@@ -1,1 +1,1 @@
-Wine giving "Write failed" errors while installing via brew
+i need wine to packag my electron app with electron-build for window &amp; the document say to instal via brew, but when i run "brew instal wine" it give me this output: http://html.scribblenerd.com/untitled.txt (would put it on pastebin but it more than 512kb)

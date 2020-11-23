@@ -1,1 +1,1 @@
-Youtube video playing on browser but not on electron-js app
+i am use plyr.io to run youtub video from electron-j app as well as browser base app. few video are not play in electron-j app but play on browser application(chrome). is it anyth to do with copyright issue?below is one video which didn't run on electronjs-app.video: https://www.youtube.com/watch?v=ajotle1k90k.api return the below json

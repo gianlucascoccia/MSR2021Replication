@@ -1,1 +1,1 @@
-Get instance id of electron app installation
+i am work on a softwar built on electron. i would like to know the instanc id of each instal of the application. i want someth similar to firebase.instanceid which is use for android. similar condit like firebas instanc id: instanc id is stabl except when: app delet instanc id app is restor on a new devic user uninstalls/reinstal the app user clear app data

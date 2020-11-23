@@ -1,1 +1,1 @@
-JSSIP How to switch between audio call to video call
+i am new in jssip. i need to switch audio call to video call in ongo call.thi is how i initi audio call. how i can abl to switch to video call in between the call?

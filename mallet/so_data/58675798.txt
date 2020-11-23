@@ -1,1 +1,1 @@
-How to dynamically render a tree of data in svelte?
+i have a tree of data that i'm use to repres a directori of the file system. it look someth like this.i know that svelt allow you to loop through array and render content base on each item howev there is no way of know what the tree look like.i there ani way to dynam render this tree in svelte?

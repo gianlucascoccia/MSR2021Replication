@@ -1,1 +1,1 @@
-Node.js reading textfiles in current directory and validate
+this is actual the answer from my previous question.... the suppli code work for me. all i need to do was retain a file counter (global) and in the read after valid add to array (global) which get pass back to render process.

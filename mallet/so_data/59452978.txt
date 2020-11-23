@@ -1,1 +1,1 @@
-got this error after created electron application and try to open
+i have generat an electron applic for linux .when i tri to open my applic after instal it get abov error .main.j file use windowdata.json file to read window option (height,width,url).

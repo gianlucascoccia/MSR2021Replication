@@ -1,1 +1,1 @@
-Resolving the router module to angular2 / electron app is failing
+i have an electron app written use angular 2. i want to includ the router angular module. my old package.json has these dependencies:th package.json is now as shown above.mani thank for ani and all advice.

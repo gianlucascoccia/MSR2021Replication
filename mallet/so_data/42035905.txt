@@ -1,1 +1,1 @@
-Prevent white flash between page loads electron
+each time the window start to load new html or make a make request to the server the window will go white until the page has finish load or server has respond to the request. this doe not look good at all and can be quit jarring.how can i stop this?th code if you wish to see it app.j

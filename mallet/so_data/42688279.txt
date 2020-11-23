@@ -1,1 +1,1 @@
-Import node js module in angular 2 application
+i wanna import nodej proxy-list modul into angular2 application.i am use electron with angular2 and webpack configuration.thi is my app.component.tsimport { compon } from @angular/core';const proxylist = require('proxy-lists');@component({ selector: app', templateurl: ./app/app.component.html',})export class appcompon { proxies: any[] = []; constructor() { } getproxies() { let option = { countries: ['us', ca'] };when i run the application, i get this error.app.png

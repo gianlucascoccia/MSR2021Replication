@@ -1,1 +1,1 @@
-Can you only spawn child processes from the main script (e.g. app.js) in an Electron app?
+i'm write an electron app. i'm tri to kick off a python script when a user click a button - the script just write a few file then print "done" when it completed.i tri to put a function with the code below in a function within a block on an html page, which didn't work. however, when i put the same code in app.js, the main script, it does! is this just how it has to work? if so, could someon let me know the best way to run that function from my html page?thank in advance!

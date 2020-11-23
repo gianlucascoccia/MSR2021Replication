@@ -1,1 +1,1 @@
-Cannot access session cookies in Electron app
+we are build an electron applic use v.4.1.4. tri to access the browser window webcont session cookies, but i am get an empti object or undefined. the browser window is load our web app url and in this use case the user has log in which set a cooki (to our url). i can inspect the browser window and can see the cooki that exist, so i'm tri to understand whi the follow code isn't working:i thought i could get the webcont session cookies, but perhap i have to set a cooki when the user log in.

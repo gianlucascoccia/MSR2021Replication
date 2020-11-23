@@ -1,1 +1,1 @@
-electron builder has failed to build window executable for my react web app
+it fail on the build process for electron. electron-build -w , i have tri to adjust the locat of electron starter but all in vain..i happen to use alreadi eject create-react-app mayb that may help and have been follow this tutorial.from react to an electron app readi for productionthi is the error that iam get when build the window execut

@@ -1,1 +1,1 @@
-webview: require is not defined
+in my electron app i am set a webview. this is a snippet from index.html: from main.js, it works, but i don't want to expos node api.(p.s.: the remot web app point by the webview is use jquery. mayb a conflict?)

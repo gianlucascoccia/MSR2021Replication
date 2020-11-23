@@ -1,1 +1,1 @@
-How to delete local storage when uninstalling an electron app which uses squirrel
+i have an electron.j applic where i am tri to clear the local storag of the applic on uninstal the application. the applic installer/uninstal depend squirrel.windows. i have tri the follow code use electron.sess on ani help will be high appreciated.

@@ -1,1 +1,1 @@
-How to use cryptocomapre api to display price of BTC?
+i'm work on an electron app and im use cryptocompar api to display btc price but it dosen't displays. i'v tri everi solut i could think of, some help would be appreciated!!it give me an output of $[object promise]

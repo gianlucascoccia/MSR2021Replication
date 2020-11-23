@@ -1,1 +1,1 @@
-window is undefined, Document is undefined - Electron
+i am work on an applic and tri to use most jquery, i have tri all the exampl online, but i cant seem to get where my error is. pleas can someon review my code and tell me what i am do wrong.. here my code.. it keep tell me that document is undefined. i havent been abl to find a suitabl solut online, would be glad if someon help me fix this. i prefer handl all my event and action from seper javascript file and not in the inlin script tag on the html pages. thanks.

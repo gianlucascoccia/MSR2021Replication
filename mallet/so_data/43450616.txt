@@ -1,1 +1,1 @@
-React - Cannot read property of undefined, although I am binding the function in the constructor
+i have a react contain with the follow function: doe not work. it use to work before, when i did not have this dobule-nest structure, but now it doesn't anymore.i am confus sinc i am bind the function in the constructor, so what els could it be?error message: uncaught typeerror: cannot read properti testi of undefin at onclick

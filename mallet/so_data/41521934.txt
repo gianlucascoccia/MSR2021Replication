@@ -1,1 +1,1 @@
-Electron Menubar Icon Size
+i'm work on a desktop time manag applic use electron. and i'd like to put a count down timer on the menu bar. but right now the icon size need to be 20*20. is it possibl to chang the icon size in electron?

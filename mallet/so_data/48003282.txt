@@ -1,1 +1,1 @@
-Efficient way to get the actual filename in a case-insensitive filesystem in node
+this is not a dupe of this question. this question is not about windows. it a general question across oses.i there an effici way to get the correct case of a filenam in node.j other than get the directori and find the match name?example: assum i have a folder with 3 file is alway the same with remov storage. i assum it not. so it seem like filenam as key is probabl better?

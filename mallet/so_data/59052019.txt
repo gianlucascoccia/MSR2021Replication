@@ -1,1 +1,1 @@
-Strange behavior of Vuex mutations in Electron app based on electron-vue
+i'm tri to build a simpl task manag app with vue and electron. my setup is base on the electron-vu boilerpl with vuex store.th user can add new item to the list (and edit exist items) through a modal. the modal send the inform to a store action which then call a mutat to updat the store and push a new item to the list item array.thi is the setup:

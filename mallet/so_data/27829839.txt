@@ -1,1 +1,1 @@
-Disable backspace in Atom-shell
+i'v been scour the interwebz and atom-shel document tri to find out how to disabl the listen (which works) and rather use someth more nativ and at more of the applic level instead of the browser window level.

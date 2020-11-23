@@ -1,1 +1,1 @@
-Why doesn't npm start run electron app?
+i have the follow in package.json for sever electron apps:anyon know what might have broken the package.json script? or some other suggestions?

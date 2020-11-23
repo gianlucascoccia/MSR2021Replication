@@ -1,1 +1,1 @@
-localStorage security error in node-webkit
+i get an error when tri to access localstorag or sessionstorag under my node-webkit app:i didn't find anyon anywher talk or ask help regard this issue.

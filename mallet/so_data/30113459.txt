@@ -1,1 +1,1 @@
-Unable to find electron-prebuilt's version number. - When trying to use electron-rebuild
+i am tri to use bluetooth-serial-port nativ modul in electron (atom-shell). i did the following.instal electron-prebuilt.and i am get the follow error. unabl to find electron-prebuilt version number, either instal it or specifi an explicit version"can anyon help?

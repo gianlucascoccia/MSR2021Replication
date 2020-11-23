@@ -1,1 +1,1 @@
-Reduce weight of a electron app
+i have one switch code to identifi the window arch: ia32 and x64, and by this i have two pepflashplayer.dl in my app folder but the weight of the two file is 45.8mb (and the final weight of the app is 74mb), and i think that my app weigh too much for onli charg a game in a websitedoesn't exist ani method to make the file lighter?

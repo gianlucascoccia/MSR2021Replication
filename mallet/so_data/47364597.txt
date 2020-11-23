@@ -1,1 +1,1 @@
-Electron App: Call java jar
+i have electron app (written in angular), is there ani way hot execut java jar from the local filesystem?thank for ani advice.

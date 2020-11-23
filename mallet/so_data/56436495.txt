@@ -1,1 +1,1 @@
-Electron returning Segment Fault error on mobile emulation
+i am test some code that someon wrote as an exampl for how to use the devic emul option in electron. when i run their code, i onli get an error that read “segment fault” with no other help. i have trace the issu back to the "const webcont = win.webcontents;", but remov it render the code useless as well as now webcont is not defin either. the code is includ below, ani help is appreciated.

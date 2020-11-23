@@ -1,1 +1,1 @@
-Is there anyway to run iOS or Android code on a desktop application?
+i would like to use an io or android sdk (e.g. based) and be abl to run their sdk to interact with the hardware?

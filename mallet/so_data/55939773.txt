@@ -1,1 +1,1 @@
-How to package Electron Application with another application
+i need to merg two differ applic and packag them together. i have written ui use node in electron and i have also written nativ maco applic without ui. i am abl to make dmg for electron app and instal it. now, i want to invok maco nativ app when i open electron app and invok maco process when electron app is closed. these two applic communic use socket. ani suggestions?

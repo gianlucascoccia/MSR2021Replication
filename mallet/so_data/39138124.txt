@@ -1,1 +1,1 @@
-Dynamically loading Angular components in an Electron app
+i am work on a kind of a pluggabl app that work with electron. basic what i'm tri to achiev is to download angular 2 compon file as singl .ts file (or .js file if latter is easier to do), compil and run them in the app when needed. is load the compon in electron main process and pass them to appcompon befor the bootstrap start an option?

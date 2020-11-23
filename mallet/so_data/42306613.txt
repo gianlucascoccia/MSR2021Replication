@@ -1,1 +1,1 @@
-Confusion with client and server side development in electron, node.js
+i'v built an app use electron.i have mani and the script stop there.i don't realli get how to make this work, i'm new to all this stuff. i also download require.j but it didn't solv my problem becaus i don't know what to do with the electron package. ani help?

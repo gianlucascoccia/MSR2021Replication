@@ -1,1 +1,1 @@
-"clearTimeout is not defined" in tsc.js
+i have an electron app that use tsc dure the compil process to appar transpil some typescript. however, i am get a whenev run the electron app. how would i fix this? i have suppos updat tsc and typescript through npm. ani help on diagnos the problem would be great. thank you!

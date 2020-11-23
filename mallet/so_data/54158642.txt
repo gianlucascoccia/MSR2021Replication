@@ -1,1 +1,1 @@
-How to open new window on production build NW-React?
+i need to open a new window to preview the document befor print it.i use the router to separ request by it paths:but on product build this show 404 not found page. how i can open a new window on product build??

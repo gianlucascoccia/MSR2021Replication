@@ -1,1 +1,1 @@
-Receive Push Notification with Node.js webToolkit
+i'm develop a desktop applic use node-webkit.now i need to receiv push notif from somewhere.thi is what happens:1) an android applic send a messag to my webapi server 2) my webapi server receiv that messag and forward it to the node-webkit desktop applicationth desktop applic can't poll the server, so i need a callback that "wake up"th desktop applic to show the messag on the screen.so i need a servic that can send push notif to an node-webkit client.i there a way to do it?thank a lot!

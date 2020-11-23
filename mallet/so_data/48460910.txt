@@ -1,1 +1,1 @@
-Electron App Getting Exception While requiring SQLITE3
+package.json npm err! exit status 4294967295npm err!npm err! fail at the billingapp@1.0.0 rebuild script.npm err! this is probabl not a problem with npm. there is like addit log output above.npm err! a complet log of this run can be found in:npm err! c:\users\sintu\appdata\roaming\npm-cache_logs\2018-01-30t15_36_46_678z-debug.log

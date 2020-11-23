@@ -1,1 +1,1 @@
-Ribbon Menu with Electron
+i am start out with electron and wonder if it was possibl to have a ribbon menu instead of the built in menu. i know how to creat a menu in an electron applic but would like to know if it is possibl to have a ribbon style menu instead, doe anyon know if this is possible?

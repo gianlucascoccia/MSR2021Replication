@@ -1,1 +1,1 @@
-Receiving information from a html checkbox with JavaScript
+so the scrip receiv a array of file name from a node.j function and creat a checklist. which work fine. but it should make a new array with the select file name and pars it back to a new function. but the array that get fill is by input from the function.and not the actual file names. languag and packag used: html, css, javascript, node.j and electronjshow the script looks:input from the scan.j {'a.txt','b.txt','c.txt'}expect array from the select item {'a.txt','c.txt'}

@@ -1,1 +1,1 @@
-What is the Visual Studio Code editor built on
+what under technologies/librari is microsoft new (free) cross platform editor visual studio code (launch 5/29/2015) built on? there are rumor that it just github atom editor rebranded.

@@ -1,1 +1,1 @@
-WebdriverIO xpath selector doesn't work
+i am test an electron app use spectron and webdriverio, when i tri to locat an element use xpath, it doesn't seem to work, as when i log in the consol it tell me the element is undefined. the html code is shown below: function. anyon know whi is that or is there anyway els i can get the element without use the text, sinc the inner text is one of the thing that i am text with?

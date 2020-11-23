@@ -1,1 +1,1 @@
-Uploading a CSV and then outputting as an array in JavaScript
+at the moment i have a input type but i have no idea how to read the file, or even upload it. the input type onli let you select a file.i look into papapars but i don't realli want to be use libraries.

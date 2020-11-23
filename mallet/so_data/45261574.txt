@@ -1,1 +1,1 @@
-path.dirname on Windows path is giving `.`
+i in electron am doing: part chop off.

@@ -1,1 +1,1 @@
-Bootstrap glyphicons not showing in production build - Electron + Webpack
+i am build an electron desktop app. i have start with the electron + webpack + vue boilerplate, everyth work fine when work in: "npm run dev" mode.a i make a product build: "npm run build:win32", the app work ok, but the bootstrap glyphicon aren't show up...:(main.js:directori structure:

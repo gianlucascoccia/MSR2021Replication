@@ -1,1 +1,1 @@
-angular application build in electron print a div shows blank window
+i have develop an angular applic then i build that applic in an electron. the applic work fine but when i click the button to print specif div it open a blank window of the electron. i use

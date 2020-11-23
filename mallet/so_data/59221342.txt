@@ -1,1 +1,1 @@
-Cannot react to click event in Electron app
+i have packag my html+css+js app into an execut use electron, howev it doesn't work the same way as it doe in a browser. specifically, my app doesn't seem to react to click events, wherea if i run the app in a browser, the click event get caught no problem.her how i structur my app. in a file call get execut when i click on the element.i honest don't understand whi this is happening.

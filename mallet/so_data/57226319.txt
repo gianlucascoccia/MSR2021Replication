@@ -1,1 +1,1 @@
-Insert dynamic menus to electron menu bar app
+i'm new to electron and i'm tri to creat a mac onli menu bar app that has dynam menu item in it. my idea is when click add... it adds/appends/insert a new menu item in it.mi code append the new item into the menu array. howev i can't make it render the updat menu'.

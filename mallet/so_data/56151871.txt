@@ -1,1 +1,1 @@
-Convert Audio blob to wav file
+i am tri to convert my record audio blob to file use javascript and i need to send wav file in api. but i couldn't convert the file here is my code:i am not abl to generat file of that size. here is the screenshot: http://prntscr.com/noxu5bnote: i have use react-mic to record blob

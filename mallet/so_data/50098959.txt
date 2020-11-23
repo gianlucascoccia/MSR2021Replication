@@ -1,1 +1,1 @@
-How can I use Electron, NW.js to "Serve" a React App that is accessible on a Local Network
+i want to creat an offlin "desktop application/website" with electron. the ui/backend is essenti a "react application". what i'm tri to achieve:hav a react application, which i run how do i achiev this?

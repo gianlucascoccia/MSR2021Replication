@@ -1,1 +1,1 @@
-How to pass context into custom dialogs?
+so in certain page i want a dialog/mod to popup and display some custom html depend on the circumstances, the easiest thing i came up with was to creat a brand new just return the window that the script part of not the top-level window.

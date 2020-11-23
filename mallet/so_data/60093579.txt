@@ -1,1 +1,1 @@
-How to load web url over proxy with authorization in electronjs
+i am tri to load a web page in a window with proxy, proxi requir username/password, session.setproxi allow to set proxi via proxyrul but i can't find a way to set proxi authorizationthank you

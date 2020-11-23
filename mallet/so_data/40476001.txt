@@ -1,1 +1,1 @@
-node-serialport doesn't list nor detect USB devices connected to laptop
+i am build an app use

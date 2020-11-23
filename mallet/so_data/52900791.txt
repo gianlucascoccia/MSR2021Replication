@@ -1,1 +1,1 @@
-NeDB ( with Vue-Electron ) couldn't save local DB file
+i'm develop vue-electron with nedb.on use nedb, i'v encount problem that nedb don't save local file though i set option

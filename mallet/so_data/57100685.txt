@@ -1,1 +1,1 @@
-How to send search text to findInPage in Electron
+i tri use contents.findinpage.i have code in index.js:i wrote this code on the exampl of this answer.but function find not work. i do not understand how i can send the text to be search and the word to be searched.how i can use function findinpag ?

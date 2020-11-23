@@ -1,1 +1,1 @@
-electron auto-update on click
+i'm tri to make my electron app auto-updatable, and after search on googl i found nice guid that works. the onli problem is that i want to creat a button for when updat is download so that the user can decid when he want to updat and restart the app. so far i was abl to put this code togetherrenderer.jsa you can see i ad a button to call for function but it doesnt work. when i press the button noth happens. if i remov button and just say auto.updater.quitandinstall() it works. it auto close window and instal new version. what am i missing?

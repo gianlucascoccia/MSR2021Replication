@@ -1,1 +1,1 @@
-How to read session value from electron session object
+i want to read sessionstorag valu from an electron session object. but i am abl to read onli the session cookies. there ani way to read sessionstorag valu use the session object? anyon can help

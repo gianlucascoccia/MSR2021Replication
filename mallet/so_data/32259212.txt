@@ -1,1 +1,1 @@
-Add menu item in nw.js doesn't show up on Windows
+tri to add a new menu item to a submenu in nw.js (node webkit.) do that withdo not work for windows, but work perfect for mac. when i restart the window app, the menu item doe show up. whi doe window not automat updat the menu? how can i fix it?

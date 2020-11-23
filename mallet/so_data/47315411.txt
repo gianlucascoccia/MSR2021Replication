@@ -1,1 +1,1 @@
-How to import nwjs in ES6/typescript?
+in es6, i want to use this sampl code in angular 1.6 code.pleas help what am i do wrong.

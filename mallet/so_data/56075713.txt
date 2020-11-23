@@ -1,1 +1,1 @@
-How to execute a Bash command using an Electron platform in Cordova
+i'm tri to use cordova that now includ electron to creat a desktop app for linux.i want a button that fire a shell command: in a differ scope?ani help will be realli appreci :)

@@ -1,1 +1,1 @@
-Text ending up on same line
+im have troubl with my program today. im write a simpl program in electron.j to send out payment talon to member from a excelfile.th problem is when i tri to print out the member name from a loop. if i enter

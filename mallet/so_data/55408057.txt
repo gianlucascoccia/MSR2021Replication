@@ -1,1 +1,1 @@
-Converting a Puppeteer cookie session into BrowserWindow
+i am use puppet for someth that i can not do in electron browserwindow, howev i am use browserwindow for someth that puppet can not do. i need to use the cooki retriev from puppet in the browserwindow to achiev my goal.i am current log the output that this function return - global.cookies[0] be the output of a puppet session - onli post one cooki for concisenessi there ani way i can achiev this convers while keep all of the origin cooki attributes?

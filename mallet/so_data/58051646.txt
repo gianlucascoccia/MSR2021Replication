@@ -1,1 +1,1 @@
-Electron ipcMain / ipcRenderer Delivery Guarantees
+doe electron make ani guarante that (asynchronous) messag sent via ipcmain and ipcrender are ...deliv at alldeliv in the exact order they were sentdeliv onli once?or do i have to write an addit layer in my applic that take care of all of this? like send deliveri receipts, ad a sequenc field and re-ord messag on the recipi side etc.it would be great if ani form of evid (e.g. documentation) would be provided.

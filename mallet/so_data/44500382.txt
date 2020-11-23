@@ -1,1 +1,1 @@
-Close window after printing - electron
+in my electron applic i have to print a ticket silently.so i am put the content in a

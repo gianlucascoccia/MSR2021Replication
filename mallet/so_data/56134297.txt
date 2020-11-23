@@ -1,1 +1,1 @@
-How to include cursor with page screenshot captured via Electron's capturePage API?
+i'm attempt to captur a screenshot of a method. i had assum that a cursor would be includ with the screenshot, but it not.ani idea on how best to achiev includ a cursor with the screenshot taken via a capturepag call?

@@ -1,1 +1,1 @@
-electron packaged into asar target windows , config json with api key setting, is safe?
+if an app is packag with asar and the electron app use a set json file that i creat that includ api key info... is this is a terribl idea relat to security? how hard is it for someon to view this json file in plain-text?

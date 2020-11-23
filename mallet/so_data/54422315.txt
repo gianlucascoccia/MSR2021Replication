@@ -1,1 +1,1 @@
-Is it possible to run aframe inside electron?
+i'v just start learn both electronj (https://electronjs.org/) and afram vr 3d (https://aframe.io/). but i'm not sure if afram work insid electron? i cant find anyth within googl search. i get cross-origin polici error in the consol then multipl three.j error and a-scene.j errors. ive have ad the js file insid the html page:aframe.min.j is now local but i still get the same error

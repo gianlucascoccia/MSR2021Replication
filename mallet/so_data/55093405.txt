@@ -1,1 +1,1 @@
-Electron app.makeSingleInstance to avoid multiple instances thrown javascript error
+i'm use electron 2.0.7 and i want to prevent multipl instanc of the app by use app.makesingleinstance. it work but when i'm tri to run anoth instanc of the app i get this error: "a javascript error is occur in the main process" as a pop up.thi is the code in main.ts:thi is the error:

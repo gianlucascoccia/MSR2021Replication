@@ -1,1 +1,1 @@
-Right Click Menu using React JS
+i'd like to know if there is a best practice/correct way to setup a right-click menu for a react component.i current have this...thi works, but it feel a littl messi and i was wonder if there was anoth approach i might be abl to use, ani inform would be great appreciated,thanks!

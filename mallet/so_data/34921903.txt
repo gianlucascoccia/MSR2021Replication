@@ -1,1 +1,1 @@
-App threw an error when running [SyntaxError: Unexpected token import]
+we have a run react app that i am ask to generat an electron for. after ad my main.j file as explain here . my electron threw the error abov . after go through, i notic that my electron doe not the es6 and react terminolog in my index.j below

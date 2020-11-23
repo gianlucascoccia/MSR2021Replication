@@ -1,1 +1,1 @@
-NeDB regex operator called with non regular expression
+i'm tri to search string use regex as below:but it is throw error error: $regex oper call with non regular express

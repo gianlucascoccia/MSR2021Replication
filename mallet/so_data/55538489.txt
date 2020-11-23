@@ -1,1 +1,1 @@
-Reload page in electron BrowserWindow but keep session
+i'm use electron to login to a 3rd parti webapp to execut stuff there use javascript.with should reload the page to execut js each time. (els the variabl have alreadi been declar and it brings)(i am use typescript which compil down to "commonjs", in case you are wonder about some snippet here)quest now is:how can i reload the browserwindow page but keep be log in?

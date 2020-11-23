@@ -1,1 +1,1 @@
-Syntax error with Electron and React: unexpected token
+i am develop an applic with electron and want to start use react. becaus of this, i have instal the react and react-dom packag with:

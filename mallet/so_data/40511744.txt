@@ -1,1 +1,1 @@
-Where is Electron's app.getAppPath() pointing to?
+i am use browserifi to merg all the .js file of my app into a ?thank

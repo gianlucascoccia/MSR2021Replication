@@ -1,1 +1,1 @@
-npm build is failing after of yarn update
+the npm start fail in all the applic after the yarn update.th log error is:

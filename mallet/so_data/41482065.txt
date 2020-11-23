@@ -1,1 +1,1 @@
-Electron: my custom config.json is not being loaded
+i'm new to electron framework. i'm ad my custom config.json in my project root and access it in a file main.js. this file is success be load when i execut project use npm start but when i creat exe file use electron-builder, i get an error message:-ani one who has face this kind of issu and fix it successfully?

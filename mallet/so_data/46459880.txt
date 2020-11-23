@@ -1,1 +1,1 @@
-Electron build timing out on CircleCI
+i am tri to get circleci to work with my electron app but i can't understand how to stop the timeout error.you can look at the app here: https://github.com/sauravyash/outfluxit fail on the i'm new to the whole idea of ci so bear with me if the answer is obvious.

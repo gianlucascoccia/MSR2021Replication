@@ -1,1 +1,1 @@
-How to access `process` throughout an electron app?
+i have no problem to access various ... what is wrong here?also with a huge delay (in case, process depend on some onload()-ish things), all i get is undefined. i am use parcel as a bundler.

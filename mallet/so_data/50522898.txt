@@ -1,1 +1,1 @@
-NW.js how to show the file path and toolbar on window?
+i use the nw.js in window 7 system, relat teach document have the photo:th top have a bar , can be show the project file path and reload buttons.i don't know how to call this panel.th ), veri inconvenient.

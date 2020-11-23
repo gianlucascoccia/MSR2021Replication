@@ -1,1 +1,1 @@
-Is there a python version of node-webkit
+it look like develop gui applic in html+js with python in the background would be realli nice. i see node-webkit. i also see that there are python bind for webkit. it just seem like it an order of magnitud more difficult to set up than python/tkint - and i couldn't find win7 support.

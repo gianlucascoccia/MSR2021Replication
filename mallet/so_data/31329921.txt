@@ -1,1 +1,1 @@
-Require is not defined after navigating to new url
+in node-webkit, i'v got a tabl with some url that open in new windows. on this screen, when i type in . whi is this happening? i'v also tri to open it in the same window, same issu persists.

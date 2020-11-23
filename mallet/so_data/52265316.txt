@@ -1,1 +1,1 @@
-Electron + React + CSS loader without webpack
+i am build a desktop applic use electron js and react js. but when i run my electron app, it doe not recogn extern css files. i am use babel for compil react code. is there ani way to use css loader without use webpack?ani help much appreciated.thank

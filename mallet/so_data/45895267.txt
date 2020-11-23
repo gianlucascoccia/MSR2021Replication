@@ -1,1 +1,1 @@
-is there a way to prevent duplication of entries in neDB collection's array?
+in this codei want to push new id to the array if it is not in it.i'v read the doc of nedb but it seem there is no way to do thati'm beginn so i think there is a way to do that but i cant see it.

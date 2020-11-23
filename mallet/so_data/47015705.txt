@@ -1,1 +1,1 @@
-Client configuration in Electron
+i am quit new to electron and i have two question regard configur of my app.1) look for a way to store client configur (similar to app.config of .net apps).whi i need this:i am work on a desktop electron app. this app will be distribut to a number of machin and each of them need to have differ configur values.2) need a way to packag electron app with predefin configur for a specif machine.example:machin 1 config: machineid='m01', machinetype='a'machin 2 config: machineid='m02', machinetype='b'appreci the support!

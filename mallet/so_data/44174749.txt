@@ -1,1 +1,1 @@
-Opening index.html without running localserver in webpack dist folder
+i have creat the output files/fold after webpack build. the index.html has been generat in dist folder with script and style folder.th configur in package.json is as followbut when i open index.html it is simpli show a blank page. it work onli after run in local server. as i want to run it through electron desktop app, i want it to run as a standalon without start ani server.update:her is how i am open the electron window

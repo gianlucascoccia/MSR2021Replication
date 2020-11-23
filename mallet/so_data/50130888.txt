@@ -1,1 +1,1 @@
-Error when extending from BrowserWindow electron class
+i use the https://github.com/simulatedgreg/electron-vu templat to creat a

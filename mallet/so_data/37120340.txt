@@ -1,1 +1,1 @@
-Create persistent redux state backed by MongoDB in Electron + React
+i have an applic base on react-electron-boilerplate, use the veri same set of patterns. my applic use however, this doe not necessarili write to the database. what i want is to maintain a persist state, which is to say, write this state to a databas whenev it chang (yes, i know this might be cost for larg applications).i this possibl to achiev with redux and mongodb?

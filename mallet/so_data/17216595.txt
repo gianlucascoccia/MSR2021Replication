@@ -1,1 +1,1 @@
-Error EACCES (Node-Webkit / asw2js / Amazon S3)
+i am tri to upload a file from my local file system (/local/dir/file.png) to my amazons3 bucket (bucket/dir/file.png). i am use node-webkit and aws2js. my code look someth like..

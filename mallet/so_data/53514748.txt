@@ -1,1 +1,1 @@
-How do i make sure that Electron express app is only accessible from inside electron window
+i new to express, so i made this small demo app, to test it out:and then just send it with all request and chang it everi time, but that seem like hassle, and one would think, there should be a better solution, to handl this automatically..

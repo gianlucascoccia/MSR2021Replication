@@ -1,1 +1,1 @@
-ERROR ITMS-90283: Invalid Provisioning Profile. The provisioning profile included in the bundle is invalid [Missing code-signing certificate]
+version: electron: 5.0.1electron-builder: 21.2.0electron-notarize: 0.1.1electron-webpack: 2.7.4work on: maco catalina 10.15the my certficatesbuild folderprovis profilesalso, the notar step is also passed. is am miss anyth here?

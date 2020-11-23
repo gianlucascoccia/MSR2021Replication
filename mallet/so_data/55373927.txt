@@ -1,1 +1,1 @@
-Testing file choose and upload in Spectron
+i have to write test for a electron gui which contain a choos file dialog. i have no access to the implement of the gui.i have wrote

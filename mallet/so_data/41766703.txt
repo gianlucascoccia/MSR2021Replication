@@ -1,1 +1,1 @@
-NWJS Uncaught Error: Cannot find module 'mdns'
+i have not so much experi with nwjs. if i open my nwjs.app i found this error:uncaught error: cannot find modul mdns'i tri to fix it remov node modul and reinstal npm but it doesn't work. i tri to remov mdns modul and reinstal but nothing.i tri to chang permiss to the folder but it doesn't work too.i don't found caus and how to fix it.thank in advanc for help.

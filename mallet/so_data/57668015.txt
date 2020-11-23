@@ -1,1 +1,1 @@
-Electron: How do I remove unwanted modules?
+i am in the process of develop my first electron application, and i have a few question regard deployment.i am develop on maco and use electron-packag to packag it for both maco and windows.ther appear to be a larg number of modul in the node_modul directory. i know they don't take up so much space, but the number of file certain slow down the packag and zipping/unzip process. how can i trim the unus modules?ther also appear to be a larg number of local which i don't use. ditto.

@@ -1,1 +1,1 @@
-How to use FS module inside Electron.Atom\WebPack application?
+i need write some data in the file, use fs modul (fs.writefile). my stack is webpack + react + redux + electron.th first problem was: cannot resolv modul fs'.i tri to use in this case fs is not empty.how to solv this problem? ani ideas?

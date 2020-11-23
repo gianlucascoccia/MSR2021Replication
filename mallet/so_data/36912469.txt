@@ -1,1 +1,1 @@
-Gulp LiveReload is not working with Electron
+i have an electron app with typescript. the structur of my project is as follows:project structurein /src is my code allocated, and in /www is where my compil (transpiled, in fact) code is allocated.i made a toy exercic with gulp-livereload base on this example:l reload for electron applicationand it work fine! but in my project is not the case. in my index.html i have the follow line added:what the differ between my project and my example? thank in advance!

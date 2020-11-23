@@ -1,1 +1,1 @@
-Use BrowserRouter in Electron
+i have alreadi googl sever time and tri to find the answer on this site.but i couldn't find the exact answer to my question.her my situation.currently, i have built the front-end side use react and i use browserrout to remov # in url. but now, i'd like to build it for electron and it seem browserrout is not work on electron becaus it requir server response.th onli solut for rout in electron is hashrout but for that case, i will get # in the url. so i tri to use connectedrout but not sure if it works.mani thankskinji

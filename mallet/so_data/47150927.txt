@@ -1,1 +1,1 @@
-Instructions for how to lay out the Mac OS X and Linux versions of Electron apps?
+i'v just spent a veri long time look through everyth on https://electron.atom.io/docs/ but i cannot find ani mention of how to put the file for mac and linux. onli windows, which i alreadi have set up.i rememb that nw.js had such instructions, which i follow in the past, but it obvious too ridicul to accept that i should have to look at a competitor manual to figur out how to distribut electron apps.i rememb that at both linux and mac had some veri fancy/weird packag need, veri unlik windows.

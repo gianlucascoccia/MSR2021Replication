@@ -1,1 +1,1 @@
-How to use Thimble Editor Offline?
+is it possibl to use an offlin version of thimbl without instal all the dependencies? or someth like wrap it in electron for offlin use?

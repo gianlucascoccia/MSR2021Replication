@@ -1,1 +1,1 @@
-Debug Jest with Electron - Vs code
+i can't manag to debug my jest test in vs code when i use electron. my test should run with electron, not with node (due to the use of nativ modules). option ad by vscode seem to mess out with jest.

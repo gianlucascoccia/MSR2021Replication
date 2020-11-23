@@ -1,1 +1,1 @@
-How to fix "Error: spawn py ENOENT" error when running python script from electron app?
+i was tri to run some python script from electron app in window 10.the sampl code that i am tri to run is:

@@ -1,1 +1,1 @@
-Is NodeJS required for a build Electron App?
+i have creat my own app use electron and now built it use electron-packag to an .app file.of cours on my mac — with nodej instal — it works. now i wonder if it would work if i sent my app to a friend who doesn't have nodej installed.so my question is: is nodej requir to run a packag electron app?thank you!

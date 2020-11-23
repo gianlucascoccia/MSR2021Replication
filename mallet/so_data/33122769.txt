@@ -1,1 +1,1 @@
-Electron IPC within Angular Controller
+just after a bit of advis please, is it possibl to call ipc modul from angular controllerhav read multipl articl on ipc, can not get it to work.

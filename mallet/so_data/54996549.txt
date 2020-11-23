@@ -1,1 +1,1 @@
-Running Angular app (with router) without a server
+i'v made a simpl angular app that use rout modul to display inform page or test page.when i build the app and run it from local index.html it doesn't work, which is to be expected, sinc angular doc say you need to serv your app if you use router.th goal was initi to build the app to work insid electron, but right now it look like it far more complic then i anticipated.i there a way to run angular app that use rout from singl file? or, maybe, is there a way to turn this app into an electron app?

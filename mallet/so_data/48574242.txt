@@ -1,1 +1,1 @@
-Electron | Rpm need to have licence in (main package)
+i instal the modul of electron instal redhat for compil to rpm, i put the code like the github page of this module, but when i put npm run rpm64 the consol put this: nerror: el campo licens debe estar present en el paquete: (main package)\n\n"i don't know whi this happen and i search in a lot of page and i didn't find inform for solv this error.

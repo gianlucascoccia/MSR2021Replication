@@ -1,1 +1,1 @@
-Change primary audio device via JavaScript
+i'm attempt to creat an audio router app in electron. i use detectrtc (https://github.com/muaz-khan/detectrtc) to get the list of audio devic on the computer.how would i go about chang the window default audio devic via javascript, or is it even possible?

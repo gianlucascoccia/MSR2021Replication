@@ -1,1 +1,1 @@
-Can't see dynamicly added element in electron
+i dynam add a element insid a div, insid a tag, with a window.onload function.when i go to my .html page on googl chrome. i can see the element, but when i do "npm start" in my cmd, and it opens. i do not see the dynam ad element.do anyon know how i could make it work?thanks.

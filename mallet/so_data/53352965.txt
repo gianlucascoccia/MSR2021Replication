@@ -1,1 +1,1 @@
-Cursor not moving to secondary display in Electron
+i'm tri to get the cursor to go to the secondari display, but it is stay in primari display.i have refer to the follow page, but i don't understand what i'm do wrong: https://electronjs.org/docs/api/screenwhi doesn't the cursor go to the secondari display?

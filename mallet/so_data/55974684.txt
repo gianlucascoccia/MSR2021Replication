@@ -1,1 +1,1 @@
-How can I resolve loading of xml2json in my electron app
+i am start a new electron app, work with vscode on window 10. i am start to write the code and the first step is to load an xml file into a json object so that my app can process the data in the xml file.i have instal xml2json (v0.11.2) with some warn but no error reported. i have the requir xml2json at the begin of the file in which it is needed. when i tri to run my app with the vscode debugg i get an except when the xml2json modul is required.how can i resolv this problem please?sid

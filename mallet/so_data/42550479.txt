@@ -1,1 +1,1 @@
-Using HTML5 Notification API with NWJS - Only icon is clickable on windows chromiuem
+i have a messag desktop app, written in angular and wrap with nwjs.the end user get html5 notif when the applic is in the background.on mac everyth work fine, but on windows, onli the icon is clickable. if the user click on the titl or body, noth happens.how can i fix it so everi place on the notif is clickable?

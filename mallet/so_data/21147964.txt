@@ -1,1 +1,1 @@
-How to show a Outlook-like toast from Node.js?
+i would like to show a messag that basic look like the "toast" of outlook (or a growl notic on os x). i want to show that messag from a node-webkit applic in a way that work on os x, linux and window without ani chang (if this doe not work, you may skip linux).how could i do this?so far i have seen that i could use node-growl, but the setup for the various oper system is a littl bit, well, clumsy.i there a better approach?

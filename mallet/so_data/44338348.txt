@@ -1,1 +1,1 @@
-Storing variable passed from node server to EJS file as input data for form
+i'm tri to store a variabl call from the server as the default valu of a form. the for loop i use is correct display all the data and even call the data direct insid a paragraph is display the data. but i'm get a "cannot read properti email of undefined". all of this is in an .ej file. &#xd;&#xd;&#xd;&#xd;&#xd;

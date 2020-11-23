@@ -1,1 +1,1 @@
-Cross-platform way to get permissions to write files on Electron
+when attempt to write to the file . how would i ask for the permiss so that i can write to the file?

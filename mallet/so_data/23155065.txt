@@ -1,1 +1,1 @@
-Custom chrome for Node Webkit?
+here is what i am aim to build:ful size of imag is here.i this possibl to do with node webkit? i know i can visit sites, but i want to chang the default chrome and add more functionality.

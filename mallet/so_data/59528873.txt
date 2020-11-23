@@ -1,1 +1,1 @@
-Reset screen capture and microphone permission for all apps through terminal in macOS
+i am work on an electron app which has audio and screen record features.i have to ask permiss for both featur befor move to the signup flow.so while developing, i manual need to go to system prefer -> secur and privaci then uncheck both permissions. it take too much time so i have to do that thing use the terminal.

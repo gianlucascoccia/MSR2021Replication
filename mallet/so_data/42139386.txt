@@ -1,1 +1,1 @@
-gui.Window.open() returns undefined
+i have a nw applic that start with a splash screen, which then open the main applic in a new window. the code is approxim this: version 0.13.4, but i have also tri various version of 0.14.x, 0.15.x and 0.16.x, with the same problem.ani suggest of viabl workaround would also be acceptable.

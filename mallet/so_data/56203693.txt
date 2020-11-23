@@ -1,1 +1,1 @@
-Electron Angular after button click, window is redirected to a nonexistent path
+i creat a simpl profil page that store data into a json file in an electron angular project. however, i encount an error when i click the save profil button.(us angular 7)here is my profile.component.html file (save profil button is at the veri bottom of the code):&#xd;&#xd;whi is it redirect me to that path and how should i address it?

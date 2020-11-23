@@ -1,1 +1,1 @@
-Cannot run Visual Studio code script via symlink
+so, i built visual studio code from sourc and intend to keep use it like that. but now everytim i want to open it i have to run a script from it directory. i made a symlink to that script in my /usr/local/bin but unfortun when i run it it say this:i perfect understand that it cannot access some files, but i don't understand why. are there ani nuanc regard run electron apps?

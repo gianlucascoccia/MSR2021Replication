@@ -1,1 +1,1 @@
-Install Electron app without auto-launching
+i'm use electron-build nsis to bundl my electron app. when run the bundle/executable, the app instal and auto-launches. how do you prevent the app from auto-launching? basic tri to do a silent instal that can be run in a batch from the command line.

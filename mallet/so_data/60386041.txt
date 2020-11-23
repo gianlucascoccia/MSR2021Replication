@@ -1,1 +1,1 @@
-Electron React Native for Web Keyboard Shortcuts
+i am tri to add keyboard shortcut specif for the electron (web) build of a react-native-web app.i do have some shortcut alreadi defin as acceler in not be defined.i'm stump on how to go about ad keyboard shortcuts/ev listen (that trigger react-specif code) to an electron app that is built use react-nat for web.thank you in advanc

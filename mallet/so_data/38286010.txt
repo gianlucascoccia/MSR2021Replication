@@ -1,1 +1,1 @@
-getUserMedia not capturing the screen correctly
+use the follow code: paramet pass to the function is alway the correct and actual size of the entir desktop area. even when i hardcod the min and max width / height, i get the same result. is there ani way to fix this? am i do someth wrong?i'm build an electron app which need to take a screenshot of the user desktop. there also noth els on the web page, and i am use a reset css.

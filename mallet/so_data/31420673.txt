@@ -1,1 +1,1 @@
-Pass a packed JS file within an asar package to a spawned node child process
+when tri to spawn a node.j modul within the archive, as though it is a physic file.can someon who is more familiar with the asar documentation/cod advis a workaround for this?i have also rais an issue/quest for this on the atom/electron github repo.

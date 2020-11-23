@@ -1,1 +1,1 @@
-How to add java syntax highlighting to devtools in electron?
+i'm tri to debug my gwt app use java sourc map (gwt superdevmode) but for some reason java syntax highlight is not working.when i open my app in chrome the syntax highlight work ok.i there a way to turn on java syntax highlight in electron devtools?

@@ -1,1 +1,1 @@
-Express js render pug|ejs file throws Jquery error
+i'm have an issu with expressj render and jquery.mi app.j (main file) is) instead of modul export) the simpl javascript show me the alert.i'v even tri to link jqueri script to the cdn repository. it alway get me error.i'v even tri move all the file to the root folder with no public/stat assignment.noth seem to work...what am i missing?!

@@ -1,1 +1,1 @@
-Can i use fsmonitor or watchr with electron js?
+i am tri to use is there ani altern from angular2 to monitor file changes?

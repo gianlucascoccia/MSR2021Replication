@@ -1,1 +1,1 @@
-Changes don't propagate through the component
+i have the follow exampl of a compon that toggl an element (div) when a button is clicked. the problem is that the first click doe absolut nothing: the chang don't propag at all and it is need a second click to achiev the desir behaviour. ) and after the oper end my compon need to be updat with some status (let say: file copi successfully!), this solut won't work.so what could be wrong in this approach?

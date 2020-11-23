@@ -1,1 +1,1 @@
-Getting errors trying to create a new file using different methods with node fs in an Electron app
+i'm tri to creat a new file, but both of the method below throw me an error:method 1:

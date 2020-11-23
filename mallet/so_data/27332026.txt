@@ -1,1 +1,1 @@
-Download .exe file with SailsJS - NodeJS
+i have creat a small applic use node-webkit. so i want to write a backend servic in sailsj which will help me download an exe of my applic from a remot server. i would like to know how i can write a servic to download an .ex file to local disk when the remot server locat is specified.ani help is appreciated,thank in advanc

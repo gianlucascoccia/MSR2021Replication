@@ -1,1 +1,1 @@
-Cloudinary node.js progress of uploading
+i use cloudinari in angularj web spa and there was nice callback name i'm use electron so i can communic nodej side with front with ipcmain i can send custom event from node to front so i can just pass new event everi 1% of upload and display some progressbar on front.but sinc cloduinari doc doesn't provid some addit info of how to get status of upload with nodej i don't know how to do that and if it is possible.

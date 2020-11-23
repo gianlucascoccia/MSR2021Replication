@@ -1,1 +1,1 @@
-Electron - Localhost replaced with IP address in the link url
+in electron app (angular 5, electron 2, ionic 3) i have an link which on click should open user manual. and it fail to open the manual.ani idea what can be the caus of this?

@@ -1,1 +1,1 @@
-Visual Studio Code (VSCODE) no longer can launch electron debug?
+vscode version: 1.12.2os version: window 10electron version: 1.7step to reproduce:i did an npm updat for electron, and a few other modules, and the debug launch of electron stop working. however, i can still manual start electron from the command prompt, and it seem that the same command is what vscode is doing.i.e. this works:

@@ -1,1 +1,1 @@
-Node Webkit- opening and sending emails via outlook
+i have a cordova app that i want to run on desktop use node webkit.i need to replac cordova.plugins.email() function with a node webkit equivel but am struggl to find the info i need. can anyon help?th abov code basic open up a new email and pre-popul the email. i cannot find much inform out there on how to do this. i have come across nodemail but i don't think this is what i need as i would want to open up and email in outlook and prepopulate, leav the user to add the email address.mani thank

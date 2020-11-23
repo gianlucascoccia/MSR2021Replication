@@ -1,1 +1,1 @@
-Electron: Cannot access dialog before initialization
+i have a render file that has the sole purpos of open a dialog box to select file from. i have tri rewrit this so mani times, and each time i get a differ error. what am i do wrong?exact code:us electron:"7.1.7"

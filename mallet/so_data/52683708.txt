@@ -1,1 +1,1 @@
-How do I parse large .xls files in an ElectronJS app in the background?
+i am tri a basic electronj app, wherein i am tri to read an .xls file from the local filesystem and tri to pars it:th file has around 300,000 row and the code is abl to pars and enlist data from all the rows. however, till the time it pars the file, the applic gui becom unresponsive. how can i make this code run in the background to not have this issue?

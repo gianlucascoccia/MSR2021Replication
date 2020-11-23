@@ -1,1 +1,1 @@
-where do I type this for node.js packaging into a .exe file (windows)
+i know this may seem like a duplicate, but hear me out. i have gone through mani tutori on how to do it, but they never quit answer my question. i want to know where you type: is what software. do you use the cmd, or is there someth else?

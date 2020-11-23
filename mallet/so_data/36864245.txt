@@ -1,1 +1,1 @@
-How to Play Video using Node-Webkit?
+i'm use node-webkit, it just a hello world program.thi is my code.then the screen appear as follows, pleas find attach imagebut not play &amp; the play button also disabledand i includ ffmpegsumo.dl in nw root folder

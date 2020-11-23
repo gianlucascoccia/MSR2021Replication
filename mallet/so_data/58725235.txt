@@ -1,1 +1,1 @@
-Require in electron.js / Uncaught Error: Cannot find module
+i have an electron application, and need a featur like i get, uncaught error: cannot find modul helper'ani idea how i can proceed with this, to get the same functionality. use electron: 6.0.12

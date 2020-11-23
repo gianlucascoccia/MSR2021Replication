@@ -1,1 +1,1 @@
-Electron browser window size changes when scale factor is not 1 (100%)
+electron v5.09we creat a browser window instanc with a specifi width and height.

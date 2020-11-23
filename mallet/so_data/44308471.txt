@@ -1,1 +1,1 @@
-Disable windows key in Electron
+i'm make an electron desktop app. i want to disabl window key and function key while the app is oni tri use the follow code ... it regist the event but the window menu open anywaysani help?

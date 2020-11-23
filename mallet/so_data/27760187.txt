@@ -1,1 +1,1 @@
-Writing Remote Images to Disk in Node Webkit
+how would you write imag to disk without make new request from server in node webkit?lik open this, how to save all alreadi load imag to disk without re-request from server?

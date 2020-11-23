@@ -1,1 +1,1 @@
-fomantic JS not working correctly in Electron nodejs application
+i have a veri basic page built to be display through an electron nodej application.th onli thing this page doe is load the fomantic.css, fomantic.js, and jquery, and contain a singl modal which i was use for testing.her is my code: into the console, i don't get an error or anything. it appear as though the element is returned, but noth happen in my program.how can i get the javascript work proper insid my electron nodej application?

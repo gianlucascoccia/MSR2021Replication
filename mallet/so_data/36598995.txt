@@ -1,1 +1,1 @@
-I get Failed to load error in Electron application
+i am tri to link a font to my electron app but i get this errorani help is appreciated.

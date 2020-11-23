@@ -1,1 +1,1 @@
-Trying to send data from one electron window to another via ipc
+build my first electron app and i'd like the workflow to be as follows: mainwindow open -> user click open button -> 2nd window open -> user enter input/hit submit -> mainwindow open back up display user inputbelow is my

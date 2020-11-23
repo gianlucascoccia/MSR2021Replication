@@ -1,1 +1,1 @@
-Detect pinch-n-zoom on Macbook touchpad in Electron
+the onli way that i could find to detect pinch-n-zoom in javascript is by mean of gestur and touch events. but those event are onli implement in safari (not even chrome). the same code that detect gestur event in safari, didn't detect anyth in my electron app. is there ani way to detect pinch-n-zoom or other two finger gestur on macbook trackpad in electron?

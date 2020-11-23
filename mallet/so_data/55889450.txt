@@ -1,1 +1,1 @@
-manage file input with electron for ftp upload
+i'm learn how to use node.j and electron to build cross platform app. i want to creat a simpl ftp client for intern use at work and i'm lock to the upload managing. i need to figur out how to manag the

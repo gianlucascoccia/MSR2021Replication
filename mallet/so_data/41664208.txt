@@ -1,1 +1,1 @@
-Electron tray icon change depending on dark theme?
+i'm use electron and tri to develop a tray (menubar) application. i know how to set the icon:how can i creat an icon (or select a differ one) that will chang color depend on the theme (normal or dark) that the user has selected? in the abov example, i use a dark theme, so i can creat a white icon, but what happen when the user has the normal white theme?

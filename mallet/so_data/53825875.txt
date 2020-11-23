@@ -1,1 +1,1 @@
-TypeError: Crafty.scene is not a function
+i have a small problem. i'm develop a game use craftyj and i need to use electron to run it, but electron throw this error:

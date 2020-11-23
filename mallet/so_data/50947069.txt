@@ -1,1 +1,1 @@
-no such file or directory, open 'package.json'
+i am a beginn tri to use electron (former atom) and angular 2 bundl with webpack. everyth was work fine until i tri to build package.tri to run exe, i get the infam error:

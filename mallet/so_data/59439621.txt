@@ -1,1 +1,1 @@
-Scraping dynamic webpages with nightmare (PhantomJS) on NodeJS takes way too long. How can I make this process faster?
+here is my code snippet:thi snippet grab the url of the first product that show up on the link. however, this process take a whole 30 second to just grab the link.i there ani way of make this process faster? mayb use anoth npm packag other than nightmare? i'v tri use puppet but it won't work on this specif websit for me.

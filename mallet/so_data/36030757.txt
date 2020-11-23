@@ -1,1 +1,1 @@
-Why aren't my assets being moved when building an electron app?
+i have begun develop an app use electron, github desktop applic framework. i am use the electron boilerplate.to run the app i run or is there anoth problem here?thank

@@ -1,1 +1,1 @@
-Nedb non-unique _id indexing
+i have a nedb databas for my electron.j app that generat _id replica even with is uniquely-index by default, but isn't so in my use.ani workarounds?

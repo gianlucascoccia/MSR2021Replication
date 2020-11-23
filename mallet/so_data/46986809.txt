@@ -1,1 +1,1 @@
-mainWindow.loadURL is not a function
+i am get this error but not get the solut to resolv this issue. mainwindow.loadurl is not a function

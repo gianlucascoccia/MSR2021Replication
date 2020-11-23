@@ -1,1 +1,1 @@
-Reference to assets from dist folder with vue + webpack in electron app
+i am use vuej + webpack + electron.i have hard time retriev the path to my asset.mi project structur is the following:i'm new to webpack and tri to load it in differ way but i can't make it work, can you help me in resolv this issu ? thank a lot !

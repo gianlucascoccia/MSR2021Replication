@@ -1,1 +1,1 @@
-Electron: How to resize the BrowserWindow?
+how to chang the size of the browserwindow, not at startup, but on time work?al the solut that i found were about such:

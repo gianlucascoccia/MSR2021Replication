@@ -1,1 +1,1 @@
-Proper webpack config for electron - different target for different bundle
+hi all i have been have a veri tough time with electron onc i move to use webpack.her is my config:. howev i am onli abl to set one target in my config. how can i set differ target base on bundle?thank you

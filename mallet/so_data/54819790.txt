@@ -1,1 +1,1 @@
-installing node-webcrypto-ossl on electron project in windows throws error
+i am tri to instal a modul that use node-webcrypto-ossl in an electron project. below is my .npmrc filei am not sure what the error is all about but this modul fail to compil onli when use electron, it instal and compil fine with just node.

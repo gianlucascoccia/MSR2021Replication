@@ -1,1 +1,1 @@
-nightmare/electron, how to carry out different operations depend on whether an element exists?
+i want to use function to test whether an element exist on the page, but i don't know how to use it or whether it can be use here. can someon give me an exampl on how to do this task? thank you!

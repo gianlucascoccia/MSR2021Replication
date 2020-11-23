@@ -1,1 +1,1 @@
-angular - decrypting data with unreadable key.. for license purpose
+my question is somehow general. i have an app - angular + electron and i am tri to implement licens data.i am decrypt it with cryptojs, but final this is not ok, becaus onc you build the app, the key is written in the javascript file and it is readable.i there ani way to make such approach ?

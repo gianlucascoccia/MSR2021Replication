@@ -1,1 +1,1 @@
-Electron 'window' is not defined
+i'm tri to build an app that draw a line chart use the googl chart api.on thing i'v got set up is an event listen on window for the resiz event. this trigger the line chart to redraw with dimens set to window.innerwidth and window.innerheight to fit the new window size.thi all work just fine if i run the app use npm start. problem is when i build the app use electron-packager. run the exe it build throw this:her my html:as far as i know, this should just be window as can be access by javascript on a webpage.

@@ -1,1 +1,1 @@
-Flask only working as expected in debug mode
+i'm creat a desktop applic use electron and flask. when i attempt to send a select path (select by the user via a folder select dialog. use electron i am abl to get the full path and not someth like c:/fake_path. this is becaus electron provid the full path via .files[0].path) to python use flask, i never receiv a respons or caught an error (the main.logpython function is never call in either branch follow the rq). however, if i includ

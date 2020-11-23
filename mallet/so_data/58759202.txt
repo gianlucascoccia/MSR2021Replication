@@ -1,1 +1,1 @@
-How can I correctly find a .txt file and read it's contents using NodeJS
+i am build an electron applic and i have a logs.txt file which i want to read the content of and put it on an html page. i'm use nodej and the "fs" modul but the follow code is give me the error "uncaught error: enoent: no such file or directory..."i think the issu may lie in the refer of it. here the code below:thi is exact where the logs.txt file is, but for some reason it still say that there no such file there.i'm on a mac if that is relevant.thank you.

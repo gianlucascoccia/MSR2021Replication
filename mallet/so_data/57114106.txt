@@ -1,1 +1,1 @@
-Electron webview html string video resize
+i have a problem. whenev i click the video fullscreen button then instead of the video go fullscreen the main window of the applic is go fullscreen. can't seem to solv this.her is some part code:problem video showcas

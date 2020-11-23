@@ -1,1 +1,1 @@
-What event should I use for closing client websocket in Electron application?
+i have electron application. there is websocket connect between server and client side of electron app (anoth words, i use but i have no access to browser code at this point.

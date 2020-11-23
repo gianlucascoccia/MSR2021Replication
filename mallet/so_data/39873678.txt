@@ -1,1 +1,1 @@
-Electron flash plugin error 2034
+hello i'm build an app use electron and i want to use flash in it, the flash plugin work and load but then i get error#2034 how can i fix this ?i'm use a softwar call wiziq that allow you to stream class onlin and here is a screen-shot of the error

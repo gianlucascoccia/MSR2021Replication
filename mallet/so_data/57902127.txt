@@ -1,1 +1,1 @@
-how to generate and print reports in electron and angular
+i'm creat a desktop app use electron and angular and want to generat report and print them i alreadi tri canvas2html and take screenshot of the screeni need my app to be abl to generat the report and print it and without download the report.

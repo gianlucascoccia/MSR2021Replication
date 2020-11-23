@@ -1,1 +1,1 @@
-Can't understand `sendInputEvent ` in webContents in ElectronJS
+in gmail, the shortcut of none of them work, why?

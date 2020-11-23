@@ -1,1 +1,1 @@
-Need to use flash player on react-electron-web-view
+i'm develop a react-electron applic and i'm use react-electron-web-view which is use browserifi to display the website. the problem is that some websit still use flash player and the applic show the "get adob flash player" icon and is not loading. how can i add and use flash player? ani suggest or ideas?

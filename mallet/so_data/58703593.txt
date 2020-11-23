@@ -1,1 +1,1 @@
-Electron OpenGL for MacOs Catalina
+i am build an electron application, howev i have an error which make render pain slow and caus high cpu usagei tri to find out howev i couldn't find a answer about the problem. anyon have ani idea about this problem ?

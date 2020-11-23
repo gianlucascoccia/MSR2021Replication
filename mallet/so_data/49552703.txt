@@ -1,1 +1,1 @@
-Passing command line arguments to electron executable (after installing an already packaged app)
+i'm tri to pass command line argument to my alreadi packag app on execution.(alreadi packag with electron-build and instal the .dmg on my mac)i navig into the for some reason "mynewargument" doe not appear in my process.argv array. am i miss anything? i thought the arguement will automat be pass to my electron main process.i am thankful for ani help.

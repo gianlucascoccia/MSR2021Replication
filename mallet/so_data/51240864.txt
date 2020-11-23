@@ -1,1 +1,1 @@
-Making a Child window move with Parent in a frameless Electron window
+i'm current work on a frameless applic with electronj where i'm tri to have a parent window handl the dragging, minimize, maximize, and exit, as well as a control for the child window which will handl all of the content. however, when i set the parent to the main window in my main.js, the content window stay in place when i move the parent. below is my main.js: to allow it to act as the top bar like a normal window. basic i would like this to move both windows.

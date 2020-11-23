@@ -1,1 +1,1 @@
-protected Node context(node-main) nwjs
+i hava a js file name server.js.i compil server.j to server.bin use nwjs tool(nwjc).i setit work well.i want to pretect the server.j code.

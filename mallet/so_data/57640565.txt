@@ -1,1 +1,1 @@
-Add js in the electron app and save it, then import it in react
+i plan to develop an applic base on electron + react. in this applic i can add a js file and save it to the static resourc directory, then i want to load this js modul in react. i found that js must be built befor it can be referenc by react.so i want to execut the command npm run build in the main.js:do anyon know what is the reason for this error? or is there ani other better solution?

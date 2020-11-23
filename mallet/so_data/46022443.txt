@@ -1,1 +1,1 @@
-Electron - How to add external files?
+i have an electron app. i tri to make the app open an .ex file. i creat a directori in the root folder name (which is a file).how can i add an extern file that can be access when the app is packaged?

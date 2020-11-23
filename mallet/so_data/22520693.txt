@@ -1,1 +1,1 @@
-How do I execute a node function using nodewebkit and Angular?
+i'm experi with node webkit. i want to make a simpl page where you have a link with a torrent url, you click it and that call a function to start stream the torrent with peerflix.i'm use angular so i thought use ng-click to execut a function insid the scope of the control that call the peerflix modul but i just can't get it to work. i have the depend and can requir it correctly, but i'm sure i'm miss someth about use node modul and call them through angular while on nodewebkit.can anybodi give me a hand?

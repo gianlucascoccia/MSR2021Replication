@@ -1,1 +1,1 @@
-Electron: Get folder structure from client side
+i am develop angular2+electron desktop application. as boilerpl i took simpl exampl angular2 + electroni need to get folder structur by drag &amp; drop folder to the area. i found the way how to get inform about folder onc it drop to area. now need to get folder structur with a help of this info. here is an exampl of return object:ani inform on this issu will be appreciated!

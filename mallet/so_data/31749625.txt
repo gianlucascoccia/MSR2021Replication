@@ -1,1 +1,1 @@
-Make a link from Electron open in browser
+is there ani (simple/built-in way) to open a new browser (i mean default os browser) window for a link from electron instead of visit that link insid your electron app ?

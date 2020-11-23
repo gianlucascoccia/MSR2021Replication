@@ -1,1 +1,1 @@
-AngularJS alert strange behavior
+i have a bit strang behavior use alert. here is the point of my function: so what i have here is a save and exit function (both work), the saveall() return a promise. when the promis is resolved, i alert the user accord to the resolve/reject.when the save is successful, the alert display some weird window like icon instead of my messag (see attach image). what can it be? i can't figur it out.note: this happen on a specif machine, and not on my dev computer.

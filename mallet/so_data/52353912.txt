@@ -1,1 +1,1 @@
-Electron ipcRenderer message between two windows doesn't work
+i am tri to send a messag back from a modal to a browserwindow in order to updat it with the data return from the modal.th modal has a tabl where when you click a row, the row id is sent via an ipcrender message, but the messag doesn't seem to get there, as noth is log in the console.what am i do wrong?browserwindow (renderer)

@@ -1,1 +1,1 @@
-Passing "website’s security certificate" on react and electron
+i have an applic that was written in react and contain on electron framework. in this application, i have to show a local machine(https) with unsecur option. i am abl to open ui by use explor bypass warningcertif errorhowever, i cannot open the ui in react app. here my code :how can i pass the certif problem?

@@ -1,1 +1,1 @@
-REST API in electron
+where and how do i write a rest api in an electron app? i have alreadi written the api (which access mongodb to add/remove/modifi object in the db) and it work well in a nodej app. but i am unclear on how to do the same in an electron app.

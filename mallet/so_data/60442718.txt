@@ -1,1 +1,1 @@
-How to run electron as root
+i tri to run electron on may kali linux as where i am the root but it doesn't show anyth but it work on my ubuntu where i am not the root. when i run: npm run electron:starti get this:11640:0227/233443.028885:fatal:atom_main_delegate.cc(211)] run as root without --no-sandbox is not supported. see https://crbug.com/638180.help me please.

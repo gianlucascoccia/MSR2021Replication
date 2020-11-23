@@ -1,1 +1,1 @@
-Electron set image as wallpaper (OS X and Windows)
+how do i go about set an imag as the wallpap on os x and windows? i'v look through the document but can't find inform on this.

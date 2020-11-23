@@ -1,1 +1,1 @@
-Is there any way to bring an application window to foreground in electron by its window id
+i want to bring an applic window to foreground from the data which i get from desktopcapturer.getsources(),i want to know if there is ani possibl way to bring the applic to front/foreground from the data (which we get from sources)

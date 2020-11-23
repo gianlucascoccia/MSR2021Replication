@@ -1,1 +1,1 @@
-XMLHTTPRequest onreadystatechange not working
+im tri to send an asynchron post request to my "server" in my electron applic but the callback function

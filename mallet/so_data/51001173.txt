@@ -1,1 +1,1 @@
-Visual Studio Code opens multiple terminals while running electron
+how do i prevent visual studio code to show mulitpl termin while run electron application.when i'm run it use visual studio it look like:it look like it is use it to do some form of interprocess communic but is it possibl to hide those terminals?whil use onli those termin doesn't show up.

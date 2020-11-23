@@ -1,1 +1,1 @@
-How to call electron context-menu in create-react-app with the help of 'CommandOrControl+C' shortcut listener not right click?
+we develop a create-react-app. now we need our context menu to be call form keyboard not mous right click (as we put some other func to right click). cannot get ani work sample. document has not help as far... can some one help? would appreci

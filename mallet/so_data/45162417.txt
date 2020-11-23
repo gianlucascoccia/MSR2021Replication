@@ -1,1 +1,1 @@
-Http requests in electron
+i'm do a desktop applic with electron where i need to make an http request to a php to close the session on the server.th case is, that the session close perfect but the content that is insid http.get (options, function (res) {} doe not work, it like i do not enter herei leav you the code below

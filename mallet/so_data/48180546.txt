@@ -1,1 +1,1 @@
-Error: Uncaught Error: EPERM: operation not permitted, rename when installing electron app on windows
+i'm creat an electron app and when i tri to instal it on a window 7 32-bit machin i'm get the follow error:but i'm still get the same error. am i do someth wrong?

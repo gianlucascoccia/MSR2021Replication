@@ -1,1 +1,1 @@
-How to use a StencilJs component in ElectronJs
+use the stencil compon starter project i creat a simpl my-compon object and publish it to npm here: https://www.npmjs.com/package/@marekknows/my-componenti then use the electron-webpack-quick-start project to creat a simpl applic that use the previous mention component. code here: https://github.com/mmakrzem/myappi can start run the electron app with are suppos to get resolv correct by electron.

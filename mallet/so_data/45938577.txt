@@ -1,1 +1,1 @@
-app and autoUpdater not available in reactjs, but available in nodejs
+i'm stuck with an electron problem. or react, i don't know.i'm tri to creat a react.compon for use the electron.autoupdat with it.i'm usingi tri use window.require('electron'); the command works, but those modul are still not availablethank you in advanc

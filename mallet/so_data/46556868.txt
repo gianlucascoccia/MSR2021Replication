@@ -1,1 +1,1 @@
-"electron-forge" is not recognized as an internal or external command
+i was work late with electron-forg and i had no problem, after i instal norton i cannot use electron-forg anymor (with the window cmd) and i get the message: "electron-forge" is not recogn as an intern or extern command. can someon pleas help me solv this issue.thank in advance!

@@ -1,1 +1,1 @@
-How to run external exe in Node Webkit?
+i'm use node webkit for my web app and i am realli a newbi in work with node webkit. i want to run my exe in my applic but i can not even open simpl notepad use child_process'. i have seen some exampl on websit and still i am find it hard to run notepad.exe, pleas help and thank you veri much in advance.

@@ -1,1 +1,1 @@
-Unable to determine Electron version. Please specify an Electron version
+i was tri to creat execut file for instal on my machin global but still it was give me error.

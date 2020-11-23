@@ -1,1 +1,1 @@
-NPM 'excel' module returns empty array after parsing, in electron app
+in my electron applic excel modul return no errors, but alway an empti array param, whether it is path or stream.in node.j applic this modul work as expected.thank in advanc

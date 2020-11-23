@@ -1,1 +1,1 @@
-How to load javascript in the browser window?
+this is the standard way to creat a window in electron (from the docs); tag in test.html? the reason i don't want to use script tag is becaus i can have mani .js file and .html file and i don't want to updat the html everytim someth changes. i'd rather have them in the function that creat the window.

@@ -1,1 +1,1 @@
-ES6 syntax import Electron (require..)
+to learn the new es6 syntax, i'v been tri to refactor some js code.i'm absolut confus though by the whole import / export methods.how do i chang this i'v seen this answer but:it doesn't workit doesn't realli seem to be much es6-squeani thoughts?

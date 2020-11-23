@@ -1,1 +1,1 @@
-Loading A HTML From Another Directory In Electron
+i am tri to make an electron app and i need to load a html to a browserwindow but the script that control this is in anoth directori which isn't the same as the html ones. this is how it looks:thi is my code to load the html into the browserwindow:th window is creat but it doesn't load the html into it which is realli weird, someon help? by the way keep in mind that i don't creat the window from the main script.

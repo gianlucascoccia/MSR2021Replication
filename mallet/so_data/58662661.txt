@@ -1,1 +1,1 @@
-Is there an option to enable GPU usage in electron.js
+i'm make an app on electron.j and it lagg a littl so i want to enabl webgpu. is there an option to do it?

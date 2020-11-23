@@ -1,1 +1,1 @@
-How To Compile An Electron Application To A .exe
+i'v been learn how to creat applic in electron and i need help compil a simpl project to a window executable. the program is a clone from this github repo: https://github.com/electron/electron-quick-start. on the repo readm it show how to run the program:thi work fine, but i can't figur out how to simpli compil it. i'v look all over google, you would think that someth as simpl as deploy an applic would be well known information.

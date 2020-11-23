@@ -1,1 +1,1 @@
-Auto refresh page after submit form - ElectronJS
+i'm look for a way to auto refresh a window after i submit a form.i'v tri to use but it did nothing.how can i manag to reload my page everi time i submit my form ?mi code :

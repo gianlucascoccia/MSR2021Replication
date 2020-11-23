@@ -1,1 +1,1 @@
-node-webkit crashes when I create an ArrayBuffer inside c++ add-on
+i am write a node-webkit c++ add-on, it crash everi time i tri to creat an arraybuffer. the follow code is a minim crash example.i tri it on node-webkit 0.7.2 and 0.7.5. ani suggestion?

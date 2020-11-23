@@ -1,1 +1,1 @@
-Electron desktop application that support high FPS animation
+i simul a high fps camera and was request for a desktop app that support screen draw in 100 hertz. now it implement in .net (winforms) and i want to learn a new technology. therefore, i need to show that there aren't perform issu use electron framework with js ui.i search quit a bit and the max fps where 60.is it possible?

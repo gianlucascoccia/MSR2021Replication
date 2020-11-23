@@ -1,1 +1,1 @@
-how to communicate between react and electron
+creat desktop applic use react and electron.i want to call method in main.j of electron from react component.in angular there was a npm package.how to overcom this issue?

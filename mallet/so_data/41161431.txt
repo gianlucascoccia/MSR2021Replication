@@ -1,1 +1,1 @@
-Electron: How to extract a variable in a page loaded by electron to update the badge value.
+i am look for a way to updat the badg valu of a mac applic base on inform provid in the page load by electron. i am load the page at startup use the follow code in the pleas let me know as well is this is the correct way to proceed know that i would like to avoid to have to creat and addit call the the db of the application. thank for your help in advance.

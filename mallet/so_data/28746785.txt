@@ -1,1 +1,1 @@
-node-webkit window menu not showing up
+i have the follow file in node-webkit but no window menu is show up. i do get the alert i have in there so it run the code. i'm use win 7. ani ideas?

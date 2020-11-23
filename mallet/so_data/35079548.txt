@@ -1,1 +1,1 @@
-How to call Shell script or python script in from a Atom electron app
+i'm tri to use the atom electron to write a desktop app for both mac and windows.what i need here is :a button.and when the user click the button it run the follow shell (or python script):and the result will be display in a textarea.i tri to use [shelljs] and [yargs] but it seem like it is not workabl with atom electron.al i want is to use javascript to write desktop app (with gui of course) that call some script (shell &amp;&amp; python) to do some autom work.ani suggest will be appreciated, thank :)

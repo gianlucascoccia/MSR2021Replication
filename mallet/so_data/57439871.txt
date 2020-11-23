@@ -1,1 +1,1 @@
-How to auto-launch the Electonjs App at system restart or system boot
+when i run the electronj app with npm start then it work as expceted, but it is not abl to auto-launch app when the system restarti tri to follow the npm auto-launch packag that seem to work but not perfectindex.jsapp should auto-launch when system restart (same like npm start)what i am get at system restart what i want is there is anyth that i am miss or is there ani other way in which i can achiev the same.

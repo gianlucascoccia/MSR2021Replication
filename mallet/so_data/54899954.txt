@@ -1,1 +1,1 @@
-Signin into electron app from browser window
+i have electron app which use angular-token for angular and devis token auth for rail backend. oauth sign in work fine in browser use api provid by angular-token. it creat a new window and return an observ and window close after authent is complete. open electron window which i assum is not secur and safe. how do i implement this function safely? github desktop doe this nice by trigger my safari browser window and return to electron app after auth is complete.

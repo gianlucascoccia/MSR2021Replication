@@ -1,1 +1,1 @@
-ElectronJS communicating with remote website containing websocket
+i'm write an electronj application. when it start up, it will navig to a remot websit whose page contain a websocket. there is a start button on the display webpag that when i click it, the websocket transfer data to my electronj app - i can see the messag in the chrome debugg panel (console), but how do i pass the messag back to the main process so that the messag can be process (the messag contain command process instructions)?

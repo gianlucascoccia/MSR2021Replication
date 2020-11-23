@@ -1,1 +1,1 @@
-Electron-builder mac os dmg file crashes at start
+i creat a dmg mac file of my electron app with electron builder.th creation process pass without ani error.th "installation" works, but if i tri to start the app, it doesn't come up.note: window and linux build work fine.us part of electron-build mac config:electron-build version 22.1.0

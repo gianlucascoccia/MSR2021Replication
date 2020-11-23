@@ -1,1 +1,1 @@
-Runtime Error occurs when require('electron') with Jest test file
+when i version are as follows.node: v4.2.1jest-cli: v0.8.2electron-prebuilt: v0.36.4can anyon help me?

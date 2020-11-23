@@ -1,1 +1,1 @@
-Mark as read option in notification in MacOS
+i'm build a messag app use electron. i am abl to repli from the notif but did not find ani sourc to make the notif as read. i am use the default expect to find a way to mark the messag as read given the notification. appreci if use the default notif api (though not mandatory)

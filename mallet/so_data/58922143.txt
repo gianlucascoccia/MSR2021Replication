@@ -1,1 +1,1 @@
-External webpack module for electron does not work after building
+i'm tri to use the to build my electron app.

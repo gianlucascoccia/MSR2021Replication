@@ -1,1 +1,1 @@
-Running Protractor from Node-webkit
+is is possibl to run protractor in ani other way except use cli?i there an api call which will simul the command: ' usage).thank you in advanc for ani pointers!

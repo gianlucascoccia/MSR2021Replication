@@ -1,1 +1,1 @@
-NodeJS and Electron, Open external file with OS' default application with closed signal
+i am use nodejs/electron for a desktop app.i want to open a file with default os program.for exampl open a word doc with ms word.but i need a callback when ms word close so i can consid chang done in doc.i can open the word document alright but i am have problem with callback which i need when ms word is closed.

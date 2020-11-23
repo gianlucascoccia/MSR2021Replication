@@ -1,1 +1,1 @@
-How to pass variables from electron to the angular behind
+i want to make a websit and desktop app with one singl codebase. but becaus there are some minor differences, i need to know in the angular app whether the app got call from the web or from electron.in the main.j i have alreadi tried:put a url paramet in the but that html doe not get compil with angular.

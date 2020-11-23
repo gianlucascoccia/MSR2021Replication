@@ -1,1 +1,1 @@
-How to call local .dll files in Electron App
+i have an issu how to call sampl .dll file into my electron app. i have sampl .dll file in my folder, the thing is how to access my sample.dl file and how to call my sample.dl function and get results. ani tutori or step to follow pleas sampl code to start

@@ -1,1 +1,1 @@
-Tedious package giving error "undefined is not a function" with es6,React,webpack
+i am tri to connect to a remot mysql server use connect string with the help of tedious library. i convert all my code from react to react-es6. when i tri to make a connect as below, i get an error "undefin is not a function".i am not abl to establish a connection.perhap there could be a syntax error as i am new to this.

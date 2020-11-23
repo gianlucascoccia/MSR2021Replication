@@ -1,1 +1,1 @@
-Perform click operation in succession on dynamic list of selected elements in nightmare js
+i just start use nightmare. i was use it on my web page for test purpose. i have follow user interface. menu tab1 | tab2 | tab3 ......(dynam generat tabs) contain div for select tab

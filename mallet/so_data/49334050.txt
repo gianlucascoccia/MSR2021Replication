@@ -1,1 +1,1 @@
-Can we use electron functions within external web app?
+scenariow are load the extern web by use thisif we do can, what is the syntax for typescript?i know there is a similar question but without confirm answer. i just like to be sure.thank in advance.

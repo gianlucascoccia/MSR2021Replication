@@ -1,1 +1,1 @@
-Prevent zoom on certain webview elements
+is it possibl to prevent certain element to be effect with setzoomfactor in a webview in a window? essenti i have an applic with a canva and various tool to manipul the canvas, and i onli want the canva to increas in magnif instead of the tool and other ui elements. current the entir webview is magnifi when chang the zoom factor via setzoomfactor().

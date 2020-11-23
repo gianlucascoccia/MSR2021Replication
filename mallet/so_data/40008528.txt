@@ -1,1 +1,1 @@
-Rotate electron screen/browser window
+i have written an electron app which is be use on an all-in-on touchscreen computer.i want to rotat the screen by 90 degre to the right, so i want to rotat the electron app accord to that.so i am not abl to work with rotat the oper system option (it ubuntu, command is xrandr --rotat right), becaus i can not re-calibr the touchscreen.how can i accomplish the roation in electron?i think it must be possible, becaus there is a googl chrome plugin out there which is abl to rotat the browser window.

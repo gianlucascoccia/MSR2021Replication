@@ -1,1 +1,1 @@
-console.log prints the values where return shows undefined
+hi everyon i cannot abl to figur what is happen can anyon help me outi am new to electron , i need to take valu from databas (mysql) where when i hit console.log(rows) i receiv the object valu but when i return the row to other function it show undefin can ani one help me to fix this.

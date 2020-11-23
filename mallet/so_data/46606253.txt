@@ -1,1 +1,1 @@
-Change Windows Size in Electron
+i'm veri new to electron, but love it. however, i am stuck on one thing, so after some guidanc if possible.i have a small test app, that i will be use for user to login in to a page.in my main.j file i set the mainwindow properti as below:thi is all work perfect well. the onli issu i have is that i'd like the second page (loggedin.html) to be a differ size.i presum i have to chang the mainwindow option specifi previously, but i am unabl to acheiv it.ani pointer are great appreciated.regardsj

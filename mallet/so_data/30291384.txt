@@ -1,1 +1,1 @@
-NW.js build doesn't open for Raspberry Pi (Raspbian)
+i have a desktop applic (built with nw.js and the node-webkit-builder) that run smooth on window and os&nbsp;x, however, i can't seem to open the execut on the raspberri pi. the nw.js builder output the 32- and 64-bit linux distributions, as well, that i assum should oper on raspbian or ubuntu mate. however, i keep get the error: cannot open the applic sinc there isn't a readabl executable.even after chmod +x the application, it doesn't work.

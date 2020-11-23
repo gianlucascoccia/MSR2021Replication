@@ -1,1 +1,1 @@
-Electron Application Displays White Screen but Renders on CentOS 8
+my electron applic is display a white screen on cento 8, but when i hover over area of the application, the cursor will chang to a button click cursor or a text cursor which tell me that the compon are rendering. when i have the applic start with dev tool open, it is also just a white screen. the applic is work fine when run in develop mode. doe anyon know what the issu is? the applic is work on cento 7 and various window versions. the applic and platform are both 64-bit.

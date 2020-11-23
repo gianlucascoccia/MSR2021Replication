@@ -1,1 +1,1 @@
-Control node-webkit App with AppleScript
+i'd like to execut javascript code in my node-webkit applic from an applescript. don't know if this is reason or possible, though.thi work without problem of course:exchang "appname" for "chrome" and there it work fine and the alert is displayed. guess it is becaus my nw app has no tabs?might you be abl to give me a hint? probabl this resourc might help, as node-webkit is base on chromium?

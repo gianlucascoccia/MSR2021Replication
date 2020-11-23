@@ -1,1 +1,1 @@
-Packaging Keytar with an Electron app
+i'm use electron-build (16.6.2) to packag my electron applic which includ keytar (3.0.2) as a prod dependency.package.json file includes:i must be miss a step in the build process.

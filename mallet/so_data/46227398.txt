@@ -1,1 +1,1 @@
-Register a Mac OS Service
+mac os has this featur to have tool call services. they are regist and then avail from the or electron?

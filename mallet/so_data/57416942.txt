@@ -1,1 +1,1 @@
-Getting error "Strict MIME type checking is enforced for module scripts per HTML spec" when trying to import project
+tri to creat some reusabl compon for our electron screen use

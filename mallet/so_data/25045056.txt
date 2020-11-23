@@ -1,1 +1,1 @@
-Execute Command from Node Webkit
+i want to run a command insid of a script tag within my index.html file use node webkit. is such a thing possibl and how would the code look like if i want to execut the command pwd for example?thank in advanc

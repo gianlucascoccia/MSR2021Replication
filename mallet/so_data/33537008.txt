@@ -1,1 +1,1 @@
-Electron ipc using remote website?
+i'm creat a electron syntax to includ ipc. it is possibl to send messag from a remot url to the electron main-process? if so where can i get the javascript sourc for it?or mayb there is a better way to pass info to electron main-process? just need to send the log in user info.

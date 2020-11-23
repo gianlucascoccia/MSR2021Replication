@@ -1,1 +1,1 @@
-Electron-packager: can not locate local db file after packing
+background:in my app, i have a local db file, name in this example). thanks.

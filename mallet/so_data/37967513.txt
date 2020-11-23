@@ -1,1 +1,1 @@
-Exit full screen when "esc" is pressed (using javascript with electron)
+i'm work on an app (with electron) and i would like user to be abl to exit fullscreen mode when press "esc". i tri differ methods, in vain.her is the code who launch the app in a new browser window in fullscreen mode and display and html/css content :i also tri with "cancelfullscreen". and "fullscreen:false". not working.thank a lot for your attention!

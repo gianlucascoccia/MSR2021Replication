@@ -1,1 +1,1 @@
-Using electron to show value on touch bar slider
+i would like to show the valu from the

@@ -1,1 +1,1 @@
-Electron web components unable to import component as module
+this work just fine as a web applic (in the chrome browser). i am use lit-html and polym to creat a web component.src/components/helloworld.jsi am puzzl as to whi it would work as a web app but not in electron when they both use chromium. i have research this topic and have found some stack overflow question but could not fulli understand the answers.thi is what i have read that seem relevant: electron es6 modul import

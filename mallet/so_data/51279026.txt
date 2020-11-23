@@ -1,1 +1,1 @@
-Dynamically load firebase config params for different environments
+i am use firebas topic subscript to push notif in my electron app. as of now i am hardcod all the config properti like author key, topic, senderid etc in my app. is there ani way i can access these param base on the environments?in short instead of hardcod config properti are there way to load it dynam after packag the app?

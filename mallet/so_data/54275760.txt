@@ -1,1 +1,1 @@
-Which database is better to use with electron windows build
+i am develop a standalon school manag applic use electron framework ,which databas is better in my scenario. i mean the databas should easi to manag ,easi to distribut with the applic packag or easi to configur it in ani system. what i want to store is student details,fe details,images. etc,

@@ -1,1 +1,1 @@
-Delay navigation in electron
+i'm use electron for test against my website, and need to delay the navig process in order to verifi the xhr respons from the server (navig make it imposs to read the respons on time and it be lost on a new page).how can i proper delay the navig in electron?i have tri to use will-navig event of webcont with the synchron block. however, it block the whole render process and not the actual page, so i cannot actual access anyth in the renderer.

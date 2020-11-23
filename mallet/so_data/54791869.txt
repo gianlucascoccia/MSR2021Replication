@@ -1,1 +1,1 @@
-Click any element in array of root folder and get its path?
+i'm tri to get the current click folder from an array of my app root folder and read it with readdirsync and i can't find anyth helpful.so far, what i got is onli the index number on click, but i can't read it becaus it is not a string.her is what i have now : function. i want to click on "js" folder for example, and display what is insid it but i don't know how.i'm new to electron and node.j :)thanks!

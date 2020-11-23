@@ -1,1 +1,1 @@
-RecordRTC: Interval upload to Web Server video files cannot be played
+i want to upload the record video at each specifi time to web server. the below code upload the video to my django web server fine. the first upload video can be played, however, the next video can't be played. ani idea whi this occur? i have also open an issu on github a few month ago, but i couldn't get ani solut yet. https://github.com/muaz-khan/recordrtc/issues/438whi all upload after the first one couldn't be played?

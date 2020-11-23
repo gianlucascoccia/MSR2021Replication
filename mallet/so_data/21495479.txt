@@ -1,1 +1,1 @@
-Node webkit opening a new window and listening for on.loaded
+ok so i couldn't find an answer for this one, i am tri to open a window, execut a command onc it loaded, and then modifi it dom from the main window.her my sampl code:but here it doesn't even open the window! (no i don't have a hide() function insid the callback) also, no error is thrown. ani help?

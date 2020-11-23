@@ -1,1 +1,1 @@
-NodeJS Electron app.on('ready', ...) question
+i have an app that on readi call this function from a module.

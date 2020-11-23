@@ -1,1 +1,1 @@
-How to TakeScreenshots Selenium ChromeOption Driver
+not abl to captur screen shot for electron applic use i am get follow error - org.openqa.selenium.webdriverexception: unknown error: cannot get autom extens from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.htm am use mac osthank

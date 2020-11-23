@@ -1,1 +1,1 @@
-Unable to create production build of electron app
+i am new to electron i have found one exampl for angular 1. it is work fine it run the app;. but i am tri to creat product build then .ex file is working. i am get the follow exception: this is code of example:https://github.com/jasimea/electronangularcan ani one help or provid a sampl exampl app for starting.

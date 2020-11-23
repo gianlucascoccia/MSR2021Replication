@@ -1,1 +1,1 @@
-child_process cant execute docker run
+use simpl command like ls, pwd and even open an extern applic i have success use child process, but when use exec with a docker command in a built electron app, i get this error:

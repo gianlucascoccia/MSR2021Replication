@@ -1,1 +1,1 @@
-TypeScript: how to NOT use relative paths to import classes?
+i am current work on an electron app use typescript and angular2, for which i have creat mani differ classes, all in separ files. in order to make the refactor of my app easier, i would like to not have to use the relat path when import those classes.right now, to import them, i use this syntax: is that possible?

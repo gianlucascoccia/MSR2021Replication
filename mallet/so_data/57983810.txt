@@ -1,1 +1,1 @@
-Constant minor CPU usage while using node-sqlite3
+write an electron application, notic that it cpu usag is constant around 13-18% even when idling.i think i have isol the caus to as the databas filename.

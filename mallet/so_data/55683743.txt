@@ -1,1 +1,1 @@
-PDFJS / Worker / Electron - Avoid using NodeJS for requests
+as far as i can tell, whenev pdfjs detect the nodej environment, it use this layer to request for files.we'r work on an electron applic and there is the nodej integr there, how could we prevent pdfjs from use nodej request?

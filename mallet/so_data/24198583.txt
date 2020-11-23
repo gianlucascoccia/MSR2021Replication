@@ -1,1 +1,1 @@
-Node.js: password trouble
+i have a strang problem with my nodej modul mysqli'm tri to connect node with mysqlon the connect i have someth like thisi chang the sessionstorag by localstorage, but it the same, and the other prop work without problemsthank again

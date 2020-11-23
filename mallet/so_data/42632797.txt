@@ -1,1 +1,1 @@
-Install WebChimera Prebuilt on Linux
+i am write an electron base applic and want to use webchimera. howev when i want to instal (with npm) the wcjs-prebuilt packag i alway get the follow error:no webchimera releas found match your environmenti use ubuntu 16.04.mi package.json:

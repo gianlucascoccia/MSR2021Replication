@@ -1,1 +1,1 @@
-Electron app isn't working properly
+i want to convert quit simpl web app to a desktop app with electron. but there is one big problem. the app, that i want to convert is here: dinoz.mobi/shelter-editorso as you can see there is a page that tell us to load a file.when i convert it to desktop app, it look like this: screenthi is my package.json file:&#xd;&#xd;&#xd;and here is link to app github page: https://github.com/mobilesam/shelter-editorwhat is wrong with it?

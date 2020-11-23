@@ -1,1 +1,1 @@
-How to determine display format
+by display format, i mean name like 360p, 720p, 1080, 2k, 4k, 8k.if i have a bunch of videos, how do i determin which format is each? their resolut vary, some are 1280x720, which is 720p, but other are 1270x528, which should still be 720p? same with 960x720.

@@ -1,1 +1,1 @@
-Electron open & keep open cmd.exe
+i'm build a littl tool that should among other thing allow me to start a tomcat server.pretti easy, i just want a button to launch

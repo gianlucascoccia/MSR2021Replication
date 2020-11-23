@@ -1,1 +1,1 @@
-Electron storing files internally
+question : i want my electron app to have a built-in 3d model, what would be the best way to go about it?i am current store it in the dist/models/foot.babylon.when the app is open i want to load a file in. i tri use i could possibl import it as a string to one of my .js files, but the file size at least 10mb, so it would be slow for bundling.

@@ -1,1 +1,1 @@
-How to close nodewebkit app though server side nodejs code
+i am run webkit from a nodej script with child_process.exec process-> server.j

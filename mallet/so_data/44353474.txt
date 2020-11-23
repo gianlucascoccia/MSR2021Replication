@@ -1,1 +1,1 @@
-Binding to changes on global variable in electron
+for an electron-app i use a global variabl to store some constant chang valu in my administr panel (main status inform receiv from various clients).so in my main process i collect this data and write it to a variableha anyon got an idea, or know a better way to store rapid chang valu global in electron?

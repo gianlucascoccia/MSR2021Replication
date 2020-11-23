@@ -1,1 +1,1 @@
-Electron Angular2(angular-cli) require internal module failed
+i can't requir intern modul in my render process.when i want to requir intern node modul or even electron, i got an error or undefin or empti object.for example:what i'm do wrong ?

@@ -1,1 +1,1 @@
-What are these extra processes?
+in my electron app, i have my main process and two render window open. whi doe task manag show 8 "electron.exe" processes? i would expect it to be 3. thanks.

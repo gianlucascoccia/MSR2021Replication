@@ -1,1 +1,1 @@
-How to create multiple windows with a single index.html in electron.js
+i am work on an electron desktop app and tri to understand how it works. i want to add differ windows, but so far i couldn't understand how it can be done. i have been examin the sourc code of atom and github desktop app and they onli have one singl index.html. that all. how is it achiev to lot of differ window (or tabs) onli with one html file?can someon explain or point a reference?thank

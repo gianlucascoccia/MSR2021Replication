@@ -1,1 +1,1 @@
-What is the proper way to handle concurrency with SQLite3 when writing data from an API?
+when use the below api, i need to store return data from event such as:userjoinuserleavethes event can happen at ani time which make concurr write difficult.how can i handl concurr with sqlite3 when i need to write data from mixer api?should someth other than sqlite3 be use in my electron app for this situation?

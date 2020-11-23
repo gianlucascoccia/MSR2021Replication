@@ -1,1 +1,1 @@
-What is the standard way to send data to the view on Electron?
+is there a standar way to send data to the window on electron? i mean, i do know it is possibl to do so, but what the recommend or at least the most use way to do it?also, is it recommend to have, for instance, an express server run with the electron app to fetch the data needed?thank in advanc for your responses.

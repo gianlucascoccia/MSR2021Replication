@@ -1,1 +1,1 @@
-How to select file OR folder in file dialog
+how would someon open up a file dialog in node.j / electron to be abl to select either a folder or a file. when i use it will open up the dialog, but won't allow for folder selection.what i want to do is just have one input button, or doesn't realli have to be a button, but a way to launch the nativ system file explor for both possibilities.

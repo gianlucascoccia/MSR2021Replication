@@ -1,1 +1,1 @@
-Can you launch electron app from nodejs and have it communicate back and forth?
+i want to creat gui for termin app. it'd be nice if i could code it with js/css/html. electron seem like a good candidate. is it possible, if yes how, to launch an electron app, have it talk to nodej process run in background.at this point i'm explor differ options.

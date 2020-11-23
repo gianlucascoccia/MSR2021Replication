@@ -1,1 +1,1 @@
-NW.JS / node-webkit : Where is SQlite DB stored
+i am use nw.js, former known as node-webkit, to compil desktop app on window but for the life of me, i can't figur out where the sqlite db is stored.if the page in nw.js is use sqlite, doe anyon know where it is stored?

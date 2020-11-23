@@ -1,1 +1,1 @@
-Get date from images
+i'm build an app for upload imag and i'm have problem when i need to get date when was imag uploaded. imag will be upload random so date must be equal to date of upload. i'm work app with electron and for imag upload i'm use multer.her is my code for imag galleri where i get upload imag to imag gallery. if anyon has some idea how it should be, i would be grateful for reply.

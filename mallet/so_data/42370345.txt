@@ -1,1 +1,1 @@
-Deploy NWJS with docker
+i am develop an app with nwjs, now i am think in the deploy process, what i need is instal the app into differ machin that will use that app, the problem that i see is if i chang some file i will need instal again into each machine, i was read about docker and if i understood fine, i can make an imag and download the last version of the app into each machin that use the app.th question is if can i upload the app into a contain and download that into each machine?, and how can i search the document for do that?.thank for ani help

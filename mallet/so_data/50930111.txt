@@ -1,1 +1,1 @@
-Including PepperFlash in electron not working when built in production
+i have an electron applic that need to load a flash base website, i have includ the pepperflash dll in window and it work when i run un-packed, but when i run pack the plugin doesn't work. i'v made sure that the file exist in the path it look at when builti see the flash plugin in the list of plugins.ani suggestions? thanks!

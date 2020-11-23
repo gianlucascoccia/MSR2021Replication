@@ -1,1 +1,1 @@
-How to take the bounds of the web part(chromium view) in electron
+----title--------------------menu-------------------x,y-- - content- i want't get screen posit this area-------------------------------------------th posit and size result of the browserwindow.getcontentbounds()method includ titl and menu bar

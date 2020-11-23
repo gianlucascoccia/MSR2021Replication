@@ -1,1 +1,1 @@
-Highchart range selector doesn't show up
+for the last few hour i am struggl with rangeselector in highcharts. i have enabled: input and allbuttons, but that didn't help. also i'v put min and max for x axi and also min rang for x axis, still no luck. here is my initi of graph:p.s. datapreparedforgraph is seri of element contain javascript date, and some value.

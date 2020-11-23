@@ -1,1 +1,1 @@
-In Atom, how do I style the line that shows in between tabs when a tab is grabbed?
+i am have the hardest time tri to figur out how to style that line.i know that the class is call . https://atom.io/themes/seti-ui

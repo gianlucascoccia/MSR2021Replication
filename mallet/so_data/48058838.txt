@@ -1,1 +1,1 @@
-net::ERR_INSECURE_RESPONSE in Electron
+i am tri to connect to the localhost via https. sinc on product it will be replac with a proper ip with a valid ssl, but on localhost it is throw error on electron. how to avoid the error by suppress the ssl check, just on the localhost for the test , which i will remov on production.pleas help

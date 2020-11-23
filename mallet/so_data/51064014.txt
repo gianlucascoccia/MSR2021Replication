@@ -1,1 +1,1 @@
-Electron, electron-builder, nsis, remove SchTasks at uninstall
+i made an app that is run with admin privileges. to run the app at window startup i made an schtasks, but at uninstal i want to remov it. the closest i could get is:

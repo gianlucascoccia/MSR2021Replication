@@ -1,1 +1,1 @@
-Communicate between parent and child renderer process Electron JS
+suppos we have the follow 2 browserwindow instanc creat in main process:.

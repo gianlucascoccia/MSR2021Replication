@@ -1,1 +1,1 @@
-Electron require module that requires a module?
+i have a veri basic function i am tri to figur out but may not be set this up correctly.in my main.js, i am requir a js file that has a function in it. this function is esenti just tri to access a global variabl that was set from main.jsit appear though that the hotkeys.j doesn't have access to the requir that is be added? mayb i am approach this incorrectly. i am just tri to separ some logic and i am tri to run the

@@ -1,1 +1,1 @@
-inserts and updates with nedb sometimes fail in my node.js + electron application
+i have some issu with my applic made on this model to save protocol record with nedb : protocol (title, date, patient_name, notes). sometim near 40% of times, it doe not save my record (insert or update) into the db... no error...thi is my save function :```ani idea will be welcomed, thank !

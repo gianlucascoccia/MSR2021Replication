@@ -1,1 +1,1 @@
-Electron window unable to be resized after being set to minimum sizing
+edit: i recent upgrad my version of electron and it fix itself.i recent set up my electron app so that the browser window has a minheight/minwidth of ~900-400 px. sinc that change, when the window is at it minimum size (height, width, or both), the zone to turn the mous pointer into a resiz mous pointer seem to onli be about 1px wide, make it almost imposs to grab. strangely, this onli effect the bottom and right side border. ani ideas/thought on a fix? thanks.

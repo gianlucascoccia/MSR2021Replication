@@ -1,1 +1,1 @@
-How can I load nwjs binary file at server side?
+https://github.com/nwjs/nw.js/wiki/protect-javascript-source-code-with-v8-snapshotgener binari file:

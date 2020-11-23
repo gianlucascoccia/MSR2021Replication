@@ -1,1 +1,1 @@
-Different behaviour between 'npm run' command and windows console
+here a weird problem i'm suffer for days.i need to creat an asar pack file, done with electron "asar" command, like this: process, it creat the app.asar file, but seem to be corrupted.it can't be unpacked, process throw an error and can't be access by the electron appi can't figur out why.i'v tri to run the exact same command from console, that in package.json, exact the same, and both with the result above.what the difference?vers infonpm: v3.10.6 node: v4.5.0asar: v0.13.0electron: v1.4.3

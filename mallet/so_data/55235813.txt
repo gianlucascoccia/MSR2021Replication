@@ -1,1 +1,1 @@
-custom Frame menu bar - electron
+my question is how can i make a custom menu bar for new window that load url not file in my local.so i know i can use { frame: fals } and inject some html css tag for handl this. https://github.com/binaryfunt/electron-seamless-titlebar-tutori . accord to this use article. but what about load urls?

@@ -1,1 +1,1 @@
-Cross distribution terminal opening
+in electron, i am regist a shortcut to open a terminal: as the os one?

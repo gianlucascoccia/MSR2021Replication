@@ -1,1 +1,1 @@
-How to find if electron app is in foreground?
+i have a requir where i want to perform an action insid the electron app onli when it is in foreground.it is an electron-react application. on mount of a component, i want to schedul a period task which onli run when the app is in focus or is be use by the user. and paus the task when the app goe in background.how can we detect the electron app be in foreground?

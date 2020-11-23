@@ -1,1 +1,1 @@
-Electron.build auto-updater - when does it download updates?
+i'v manag to success implement the auto-upd featur for window and mac for my applic use https://www.electron.build/auto-update. i wonder whether the download continu when the user close the applic (and, obviously, an updat has been found)? or doe the applic need to stay open until the the updat has been complet downloaded?

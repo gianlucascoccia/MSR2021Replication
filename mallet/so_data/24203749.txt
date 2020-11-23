@@ -1,1 +1,1 @@
-InnoSetup: include and auto-install DirectX
+i'm prepar a window instal for my nodewebkit application. it an app that use three.js, so directx is required. how can i modifi my installer.iss to instal directx befor (or after, isn't important) my app?i have:

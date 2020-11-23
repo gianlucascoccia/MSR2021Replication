@@ -1,1 +1,1 @@
-Blurry text Electron
+i have has some issu with text and icon font look blurri in an electron application. i have test the same html page in chrome and the text and icon font look much crisper.aft zoom the imag i can see that chrome is use subpixel render but electron is onli render in grayscale. i have tri use but it doe not seem to chang anything.chrom browser version: 53.0.2785.116electron version (process.versions.electron): 1.4.1electron chrome version (process.versions.chrome): 53.0.2785.113what caus this and how should i fix it?

@@ -1,1 +1,1 @@
-Electron: How to resolve CSS url in prod?
+i want to run an angular app with electron base on this exampl on my raspberri pi. the app run well on my pc with is an old issu of angular.

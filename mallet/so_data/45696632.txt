@@ -1,1 +1,1 @@
-Cannot read property 'format' of undefined - Build on Mac - Open the prog - Ionic 2 with Electron
+if i want to build my app, which is ionic 2 and electron use to get nativ node modules. i get this error, if i want to build the program and open it.log-fil while building:

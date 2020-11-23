@@ -1,1 +1,1 @@
-how to enable remote webpage access nwjs's node environment
+i was work on a project which need to figur out whether a webpag is run in nwjs and then do some oper base on it.now the page is run on a remot server and i use window.loc to jump to it from my webapp. when jump to a outsid location, the webpag cannot get nwjs node environ even it is open in nwjs.i use node-remot to allow access from all url in the origin webapp package.json, it is like this:do i miss something?

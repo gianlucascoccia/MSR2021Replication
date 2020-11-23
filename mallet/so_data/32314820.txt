@@ -1,1 +1,1 @@
-NODEJS [electron io.js] send input to spawned process child.stdin.write();
+i have a set of script in powershell. i built a gui with a .hta, but i am migrat over to a node.j like approach. i have a work script, but i had to make a modif to work around the lost function to get input from the command line. i use to have the cmd prompt window appear where i would see all output and, if there was a prompt (

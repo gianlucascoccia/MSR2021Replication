@@ -1,1 +1,1 @@
-Node-Webkit Iframe Not Displaying Internet Browser
+mayb i instal someth incorrect or something, but no matter what i try, i can't get a browser window to display in an iframe. i copy-past code from an exampl i found into the main page:when i run the code with "c:\node-webkit\nw.ex ." from the command line, i get "you should be abl to see googl in an ifram below:" with an empti box below it.also, i'm on windows. ani help i could get would be great appreciated.edit: i'm abl to run all of the sampl app here

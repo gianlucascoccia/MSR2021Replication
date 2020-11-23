@@ -1,1 +1,1 @@
-Platform issue in require('os')
+i have creat an ionic 3(a5) app. i am run this as node-webkit (nw.js) app on mac. if i write insid index.html script tag and check,

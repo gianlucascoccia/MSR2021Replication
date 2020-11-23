@@ -1,1 +1,1 @@
-app has already been declared within try/catch
+i have the follow what is the proper way to do this so eslint doesn't complain?

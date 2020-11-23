@@ -1,1 +1,1 @@
-Spectron and electron without exe files
+i m tri to build an applic use electron.i need to make some unit test base on the electron env and use electron packages.thi way, i m use spectron to simul my application.on the documentation, it written that i have to put in path properti the path where my execut file is. i don't have execut for now, i m in develop mode.her what i'v tri base on anoth question :doe anybodi know what should i put in this path to make my test env work ?ps : i m use mocha chai and sinon.thank for your help

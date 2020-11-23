@@ -1,1 +1,1 @@
-is it possible to connect from electron to WSL mariadb installed?
+i'd like to creat a simpl applic use electron in window 10 and i would like to use mariadb as a database. now i have mariadb instal in wsl, is it possibl to connect from electron to wsl mariadb installed?

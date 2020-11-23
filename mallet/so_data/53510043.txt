@@ -1,1 +1,1 @@
-How do I use Electron's showSaveDialog to set the destination of a cloned repo?
+i'm build an electron app that will allow user to clone repo they have access to.i want to use showsavedialog() to allow the user to select the destin of the clone repo.th code below clone a repo but in the app directory. i can set a default locat easi enough, but i want the user to set the location.how can i make the follow work?

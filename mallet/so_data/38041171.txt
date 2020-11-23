@@ -1,1 +1,1 @@
-fs.readFile looks in wrong folder after electron-packager
+i'm work on the demo electron-quick-start project. i just added, in the main folder, a .what the clean way to solv this electron-packag folder issue?

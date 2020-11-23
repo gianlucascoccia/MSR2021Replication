@@ -1,1 +1,1 @@
-How can I install the MetaMask extension in Electron?
+i'v success instal the extens from https://github.com/aragon/metamask-pluginwhen the electron app is start i can see the metamask plugin loaded, but can't do much with it. there are some errors:

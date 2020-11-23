@@ -1,1 +1,1 @@
-Electron - JavaScript Error Adding Tray Icon to Windows PC
+i am run into this error while tri to learn electron and show an icon in the tray of a window computer. doe anyon know what may be caus this error? a javascript error occur in the main process. uncaught exception: type error: insuffici number of arguments. at app.app.on (c:\users\davidb\desktop\electroncode\boilerplates\tasky\index.js:18:3) at emittwo (events.js:111:20) at app.emit (events.js:191:7)

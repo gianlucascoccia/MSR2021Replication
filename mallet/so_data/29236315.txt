@@ -1,1 +1,1 @@
-Hide mouse cursor in Atom-Shell
+is it possibl to hide the mous cursor in a atom-shel app? i'v tri ad to my index.html with a style tag to "cursor: none" for the bodi element but it dosent work. i am run atom-shel on window 7 x64.

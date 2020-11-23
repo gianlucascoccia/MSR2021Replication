@@ -1,1 +1,1 @@
-Electron connect to MySQL function doesnt give error when it should
+i ahv written a function that test the connect to a mysql databas in electron. howev my function alway return "end_of_function". even if i give it input valu that doesnt make ani sense.

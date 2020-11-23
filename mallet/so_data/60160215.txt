@@ -1,1 +1,1 @@
-Why does my electron app display the source code in the browser window?
+i made an electron app, and when it opens, it show the actual content of the php file (it not just php, there html of course). i was wonder how i can get it to display the html in the browser window and not just the sourc code of it.edit: i just fix it by make it an html file and not a php file, but is there ani way to make the electron app execut php code?

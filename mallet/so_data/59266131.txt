@@ -1,1 +1,1 @@
-Is there any way we can bring the application window to focus by providing its title in electron
+i want to bring an applic window to focus by it the window title:someth like this : i want to do someth similar to this : https://www.webrtc-experiment.com/getdisplaymedia/aft we click testgetdisplaymedia api button -> applic window and then choos ani of the desktop applic the window select is brought to focus, which is what i am tri to achiev

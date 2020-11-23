@@ -1,1 +1,1 @@
-How to make an iFrame node frame in NW.js
+i am creat an ifram in my nw.js app like thislet say the src of my ifram is https://www.abcsomepage.com but it have x-frame-opt set to sameorigin in it respons headers, due to which app is show a broken page in iframe, can anyon pleas point out where i am wrong.

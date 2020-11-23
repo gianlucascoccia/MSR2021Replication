@@ -1,1 +1,1 @@
-How can i have auto-increment field in nedb?
+i want to have exact auto-incr field like relat or object databases, so i need an integ

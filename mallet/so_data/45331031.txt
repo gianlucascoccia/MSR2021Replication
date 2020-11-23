@@ -1,1 +1,1 @@
-Error "document is not defined" when executing electron
+i would like to creat an app by use electron with a tini html and js script and d3.js library.package.jsondo anyon know the reason and how to solv it?

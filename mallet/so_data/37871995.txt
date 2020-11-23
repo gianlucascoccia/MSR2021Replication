@@ -1,1 +1,1 @@
-NodeJS: Manage processes
+i want to be abl to kill process (widows\linux) like "chrome.exe" and other from nodejs. i walk through a lot of inform and i couldn't find ani useful information, instead of node child processes. i'm use nodej with nw to build desktop application.i it possible?

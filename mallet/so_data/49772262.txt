@@ -1,1 +1,1 @@
-Electron - File path issue in distribution build
+develop an app in electron and react, everyth is work fine in develop mode but in product mode, i'm get path issue.window - v 10electron - v1.8.9react - v16.3when the app opens, rais an event for download data from server to local system for display in offlin mode. in develop mode with internet the file path as belowlook forward for much need helpthank you

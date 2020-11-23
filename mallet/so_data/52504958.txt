@@ -1,1 +1,1 @@
-Execute JavaScript method in electron event handler
+i'm tri to call a method from a class that i creat insid a handler event of electron. but i cant import the file in index.js. my method is like:th error is : "myimport is not defined."mi mission here is call a method everi time when my applic has the focus. the onli way that i found is the event handler of electron, but i cant do anyth insid this index.js.

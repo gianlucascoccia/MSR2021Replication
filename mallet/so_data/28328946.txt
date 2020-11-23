@@ -1,1 +1,1 @@
-node webkit text to speech api not working?
+i am tri to build an app with node webkit which is run in chrome browser well and some text to speech api is not work proper in node webkit (windows). when i did some check in consol with webkit debugg i can see the

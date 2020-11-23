@@ -1,1 +1,1 @@
-How to delete NW profile data on Ubuntu?
+"your profil cannot be use becaus it from a newer version of nw.js"on window you delet the subfold in ?

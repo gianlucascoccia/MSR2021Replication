@@ -1,1 +1,1 @@
-Backend in Nuxt + Electron app
+i use nux in electron application...i use vuex and i need to make a copi of the local data on the server (well, download them from the server on request). which approach to use for request to the server applic of the electron? i so understand it is necessari to think over well system of author and so on?

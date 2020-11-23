@@ -1,1 +1,1 @@
-Save Lokijs DB in Electron
+there is some way from insid the "main.js" electron to save a file out of the asar?i'm fight with this command to point the way out of the write-on area but i can not do it.it would be nice that the path was insid

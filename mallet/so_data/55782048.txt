@@ -1,1 +1,1 @@
-nw.js execute gui.App.quit() but threads still running
+with the follow script:it give expect consol debug output but the nwjs process never end, the app seem never quits, i get no error.th app will run in the system tray in the background (use tray) but when the user want to quit i don't know what to execute.

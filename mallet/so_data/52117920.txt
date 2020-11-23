@@ -1,1 +1,1 @@
-Integrating Angular CLI proxy config in Electron
+i'm bring over an angular 6 (cli) applic into electron, and have problem figur out how to bring over the proxi config file into the electron world. in angular cli, specifi the proxi config is pretti straightforward, for instance: might be a way, but the implement just doesn't look right, to me - i feel like this is a more-or-less common problem, and perhap i'm miss someth obvious here. ani pointer would be huge appreciated!

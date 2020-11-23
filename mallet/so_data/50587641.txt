@@ -1,1 +1,1 @@
-Data from getBoundingClientRect is not correct after calling setZoomFactor in Electron
+i'm use electron and tri to zoom in a page use but the element do not seem to care about the zoom and their data is not correct. ani idea whi this is happening, and how can i fix this?thanks!

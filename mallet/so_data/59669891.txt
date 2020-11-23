@@ -1,1 +1,1 @@
-Electron NSIS prevent reinstalling
+is there a way to have the nsis built by electron not re-instal the app everytim it is click just like the msi ? if the app is alreadi instal i would like it to simpli open it rather than re-installing. i would use the msi but when i open the app instal by it, it doesn't have read/writ permiss from file insid the directori even if it is in appdata (same folder as instal from nsis). when instal from nsis for some reason it give read/writ permiss to the app for file insid the instal directory. ani help would be appreciated.

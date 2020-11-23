@@ -1,1 +1,1 @@
-Node-js -- Download and store file - Binary - Archieve corrupt
+i'm use the node.j dropbox api to read a file, and then store it (on windows).it a renam .zip file (node webkit packag => .nw )mi code:th {responsetype: "b"} stand for binary.when i tri to open the package, it corrupted.how can i save it propperly?thank in advance, jeroen

@@ -1,1 +1,1 @@
-Search filesystem in an electron app
+is it possibl to search/index a filesystem/hard-disk (window or mac or linx) use an electron app. is there a node package/funct which can do this?

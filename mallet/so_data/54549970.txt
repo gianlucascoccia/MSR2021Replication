@@ -1,1 +1,1 @@
-How to create HTML button based on database content?
+tri to learn handl databas inform and my mission has been to dynam creat button base on content from a databas query.mi javascript is as follows:now i can't figur out how i can use this info to dynam creat button on my html page.

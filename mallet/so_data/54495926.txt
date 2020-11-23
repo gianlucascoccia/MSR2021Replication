@@ -1,1 +1,1 @@
-JsPDF in Electron
+i build an simpl app with electron that get the data from some

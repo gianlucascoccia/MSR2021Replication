@@ -1,1 +1,1 @@
-How to fix "missing ) after argument list" error when the code in question is (seemly) non-existent?
+i am attempt to creat an audio player use the electron framework. when i run the applic i get a "miss ) after argument list" error on a line in main.j that doe not exist. how can i fix this issue?i have look around at other forum posts, but overal i'm quit inexperienc and help would be welcome.consol log: edit: manag to forget to add part of it. :pi expect the program to boot with the file-load function added, but instead i get an error in a non-exist line of code.

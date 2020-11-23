@@ -1,1 +1,1 @@
-Polymer neon-animated pages: no transition animation played
+i'm tri to build an applic use node-webkit and polym 1.0.one part of it - pageabl welcom screen to give a short overview of app featur to user.i'm use neon-anim page for that. the page-switch work perfectly. but no anim are played. i'd be veri happi if anyon could give me at least the direct where my problem could be - i'm out of ideas. see the code below. index.html:

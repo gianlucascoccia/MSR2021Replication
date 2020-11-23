@@ -1,1 +1,1 @@
-Packaging node-webkit application as ".appx" (for Windows 8 Store)
+i want to know how i'd be abl to packag a node-webkit applic as an .appx for the window 8 store? i'v been abl to creat an .ex of my applic that work as long as it in the same directori as it .dll's.here how my directori current looks:i'm unfamiliar with window develop sinc i primarili use osx, so i'm not sure what step to take next to packag this .ex as a .appx. ani help is appreciated.

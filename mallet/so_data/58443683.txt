@@ -1,1 +1,1 @@
-Wait for Electron window to be a specific URL?
+so i am write an applic in node.j and electron, and i am tri to login through googl on the same session, then get anoth url. i have the session work and the login to googl working, but when i login to google, i want it to switch and load anoth url. the current idea i have is someth like this:i just don't know what els to do, i know this is fair spaghetti but i'v tri so mani thing and noth seem to work correctly. i feel like i shouldn't even be do a while loop at all becaus it seem to freez my browser (understandably).

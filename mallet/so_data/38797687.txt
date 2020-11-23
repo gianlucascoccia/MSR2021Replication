@@ -1,1 +1,1 @@
-HTML is changed before the copying of the image is completed leading the image to not being displayed in Electron
+in my electron program i copi a file to an other directori and then chang the

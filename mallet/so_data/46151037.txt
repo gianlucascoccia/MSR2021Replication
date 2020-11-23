@@ -1,1 +1,1 @@
-Create cookie/session in Electron
+i would like creat a cookie/sess in my electron app. i'v tri to use the default document.cookie, but not worked.i'v see the cooki document, but i have not found how to creat a cooki from my applic with react.anyon have alreadi creat a simpl cooki in electron app ?

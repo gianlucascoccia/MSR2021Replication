@@ -1,1 +1,1 @@
-How to terminate a .exe program with electron?
+essenti what i'm tri to do is to run a program name app.ex with electron, and then termin it.i have been success with run the app.ex program use the follow code: i would like to have someth that doe the opposite, someth that termin the program.thank you

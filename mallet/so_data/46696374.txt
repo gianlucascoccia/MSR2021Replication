@@ -1,1 +1,1 @@
-Electron application SQLITE package has not been found installed
+we are struggl with build app for window 32bit and 64bit.it is angular 2 applic which use sqlite3 as a database.everyth work perfect in a develop but after packag app and run it on window it thrown errorbut when i run .ex on window i'm get error that i mention abov how sqlite packag has not been found.

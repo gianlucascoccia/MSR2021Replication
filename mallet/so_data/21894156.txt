@@ -1,1 +1,1 @@
-Node-Webkit MenuItem click function issue
+i have an issu with my node-webkit menuitem click function which i believ i have narrow down to chang the url from within the javascript on my load page. i have a 5 second timer which chang the page when complete. if i set the document locat to a web page on a web server (could be anyth even www.google.com) from within the javascript in my loading.html page, my menuitem click function do not workha anyon els come across this or am i do someth the wrong way?thank

@@ -1,1 +1,1 @@
-Creating invisible window from main process to compute function in Electron
+i am tri to write an electron program in which the main process creat an invis window, send a number to that window, the window comput the factori and then send it back.thi is in the main process: event.what am i do wrong?

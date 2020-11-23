@@ -1,1 +1,1 @@
-What you recommend for Electron Notification?
+i am look for recommend to show electron notifications. electron provid notif api but did not find that helpful. is there ani way to show some toast notif in electron main window itself rather show windows/system notif ?

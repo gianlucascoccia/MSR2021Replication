@@ -1,1 +1,1 @@
-Electron: Uncaught Error: Cannot find module 'file-encryptor'
+i download the crypto again and ad cach use github clone link still this error is pop when i creat packag but befor creat it is work absolut fine.and my node modul is visibl after creat package.

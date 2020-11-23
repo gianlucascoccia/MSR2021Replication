@@ -1,1 +1,1 @@
-Node JS - read file properties
+i'm develop a desktop applic with nwjs and i need to get the file properti of an .ex file.i'v tri use the npm properti modul https://github.com/gagle/node-properties, but i get an empti object.i need to get the "file version" property: i'v also tri use fs.stat and no luck.ani ideas?

@@ -1,1 +1,1 @@
-How reopen an already running node-webkit window app?
+i current have a node-webkit app for mac and windows. when you close the window, the app keep run in the background and can be reopen trough the system tray.i would like to let my user open the window from the execut (think the shortcut to the .ex on the desktop).on mac, i did this to allow user to open the window from the dock :but, accord to the documentation, the reopen event is a mac onli feature. is it possibl to have the same behaviour on window ? how ?

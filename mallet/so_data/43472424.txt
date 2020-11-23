@@ -1,1 +1,1 @@
-How to create a nw.js build with out dev tools
+i have success build and test a there is no command line access, so that bit of it seem fine. what drive the builder to download and use the sdk version?

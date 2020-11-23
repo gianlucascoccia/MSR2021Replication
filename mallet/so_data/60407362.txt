@@ -1,1 +1,1 @@
-TypeError: fs.existsSync is not a function (Electron/ReactJS/Typescript)
+i'm build cross platform desktop app use electron and reactj with typescript. so there is a function like below. the functon is call on a button click and it should print the text in the connect default printer. this is a third parti librari that handl the print operation. but the problem is when i use this function, my app doesn't loads. it crashes.ani help would be realli appreciated.

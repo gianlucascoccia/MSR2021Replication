@@ -1,1 +1,1 @@
-How to open files (mp4 in my case) with 'Open with' from the context menu and render it to the electron app?
+i want to open a option.

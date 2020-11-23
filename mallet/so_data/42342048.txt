@@ -1,1 +1,1 @@
-How do I determine if an application is built by Electron or not?
+how do i determin if an applic is built by electron or not?could i alway find specif file or binari on electron apps?pleas give me some advice, thanks.

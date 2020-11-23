@@ -1,1 +1,1 @@
-React Dev Tools - Unable to use profiler in Electron application
+the react profil plugin doe not seem to be enabl in react develop tool when use with electron.i have tri the follow and have had no success:bundl the applic in develop mode and load it use the, but this is obvious not ideal becaus i cannot use the electron api.her how it look when open react develop tool in my electron application.

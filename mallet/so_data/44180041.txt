@@ -1,1 +1,1 @@
-Electron Forge template with mobx-react observers
+i have recent start play around with electron forg and i think it is an awesom tool. i have also been do some work with the mobx-react packag and have been use the observ feature. creat an electron-forg project base on the react template, i modifi the app.jsx file to look like from what i have play with in the past i use someth like webpack to compil everyth so it run properly. base on the descript of the project i shouldn't need to worri about webpack. how do i use electron forg with react, mobx, and the observ feature?

@@ -1,1 +1,1 @@
-Google OAuth Electron WebView deprecation
+in refer to: https://developers.googleblog.com/2016/08/modernizing-oauth-interactions-in-native-apps.htmlin this page, it is clear state that: "on april 20, 2017, we will start block oauth request use web-view for all oauth client on platform where viabl altern exist."do this affect electron webview as well? if it does, can you point me to ani samples?

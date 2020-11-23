@@ -1,1 +1,1 @@
-Error: ENOENT: no such file or directory
+i am tri to get get the folder path from user select and for each file i read it and return the data. howev upon get the file i cannot read the data for some reason that i have't been abl to understand yet. the directori i am tri to read and render do exist. i have refer to the other similar post as well.

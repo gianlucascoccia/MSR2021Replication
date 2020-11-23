@@ -1,1 +1,1 @@
-How to sort find query by date?
+i am insert data use this query: question 1: but how can i ensur i get onli the latest record? question 2: how can i get all record within 24 hours?thank you!

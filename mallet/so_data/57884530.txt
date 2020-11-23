@@ -1,1 +1,1 @@
-How to expose the current git tag to electron-builder on windows using azure-pipelines?
+my windows-fu has gone weak over the last decad and i'm quit new to azure-pipelines.th electron-build expect to see a git tag in the environ variabl how do i do this for the window build?

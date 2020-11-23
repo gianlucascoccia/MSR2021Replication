@@ -1,1 +1,1 @@
-Electron application handle end task from task manager windows
+i need an electron event handler that detect a forc quit/end task from task manag in windows. i would like this event handler to be abl to send an http request befor end the program. i am current using:to handl the forc quit event. while this handler work with forc quit in mac environment, it doe not get fire in window use the task manager.

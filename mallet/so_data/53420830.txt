@@ -1,1 +1,1 @@
-Electron + xmpp.js: How I can Debug SSL Self-signed error messages?
+i am use a combin of electron.j and xmpp.js in order to make my own client. my main project is consist of these 2 files:boostrap electron on: still get strang errors.

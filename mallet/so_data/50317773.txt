@@ -1,1 +1,1 @@
-How to include bootstrap 4 in an electron app
+i am abl to figur out how to includ bootstrap css but could not figur out how to includ bootstrap js. i am tri to creat some bootstrap tabs. here is some sampl code i wrote.when i click on a tab it doe not toggle. i think the issu is the bootstrap js is not be includ right. i copi the tab code straight from bootstrap website.

@@ -1,1 +1,1 @@
-How do I use pug with electron-vue?
+i built a new electron-vu applic and instal the pug and pug-plain-load packages. when i run the application, i am get an error in the console: is there ani configur i need to add or a specif packag i need to download in order for this to work?

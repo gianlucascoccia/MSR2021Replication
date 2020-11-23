@@ -1,1 +1,1 @@
-Close window but not app on click of "x" on Mac OS with node webkit
+usual on mac, when i close the window it doesn't quit the app but when use node webkit it doe quit the app. doe anyon know a workaround so when i click the "x" it just close the window but not the app?thank in advanc for your help.

@@ -1,1 +1,1 @@
-electron-builder cannot find git repository although specifying
+package.jsonwhen i am run npm run build i am receiv this error. error: cannot detect repositori by .git/config. pleas specifi "repository" in the package.json (https://docs.npmjs.com/files/package.json#repository). pleas see https://electron.build/configuration/publishwher is the error?

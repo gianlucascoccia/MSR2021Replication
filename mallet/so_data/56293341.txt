@@ -1,1 +1,1 @@
-electron-webpack-react error "Module parse failed: Unexpected character '@'"
+i'm use electron, webpack and react on this project. when i tri to build the project, i end up with this error:

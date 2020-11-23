@@ -1,1 +1,1 @@
-window.print can't work in node-webkit
+i hava a web project with express. when i convert the project to node-webkit use package.json on click and now it can't work in node-webkit application. ani idea about what i am do wrong? or are there ani other solut to print the page？

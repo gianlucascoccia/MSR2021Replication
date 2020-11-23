@@ -1,1 +1,1 @@
-ElectronJS - How can I control the cursor (move, click)
+i'v alreadi tri robotj (which give me an error on windows, while instal package, probabl becaus the librari is old).i want to be abl to move the cursor and also to click at that point.pleas note that sometim i just want to move it, without click it.thank you

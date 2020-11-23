@@ -1,1 +1,1 @@
-Electron open new full-screen window from menubar
+i have an electron app that run in the menubar.cod is current heavili base on an exist pomodoro app (https://github.com/g07cha/pomodoro)when the timer hit a certain point, it open up a messag box:i it possibl to open a new window instead of the messag box, and make it full screen? basically, make sure the user see it and it fill the screen when the timer is up and allow custom of the page that come up with css and such.

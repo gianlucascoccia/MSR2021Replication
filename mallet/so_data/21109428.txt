@@ -1,1 +1,1 @@
-Can't get a working node-webkit+sqlite3 offline app
+i download a demo zip from https://github.com/zycbob/node-webkit-sqlite3-windows-demo, unzip it. i download the win32 binari archiv from https://github.com/rogerwang/node-webkit, unzip it, copi all the files, and past them into "node-webkit-sqlite3-windows-demo-master" folder.package.json: what exact should i do to get a work offlin node-webkit+sqlit demo?

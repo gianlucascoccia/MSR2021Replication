@@ -1,1 +1,1 @@
-nodejs print file with child-process
+i'm learn nodej and i want to send some file to the print queue.i tri elctron-print and node-print modul but actual they do not work propr (can't detect printer with printer.list command for example). now i'm tri to make it with child_process modul and i want to know is there ani posibl to start file with it associ applic with "print" argument like a python can do it?for example, this is a code sampl of file execut with nodejs:but it is terribl way to do it.

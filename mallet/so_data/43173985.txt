@@ -1,1 +1,1 @@
-electron win.unmaximize(); not working
+i am use electron to make a desktop app, i made my own minim maxim and close buttons, all of them are work fine, but when you click on maxim and it alreadi is maxim it is not be unmaximized. here is my code:ani help appreciated.

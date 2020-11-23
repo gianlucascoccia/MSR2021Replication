@@ -1,1 +1,1 @@
-How to route an angular 2 component in electron?
+i am new to angular and electron development.i did the project in asp.net and angular and there i could chang the compon by chang the path like this:what is the equival of this in electron? sinc there aren't ani path and i don't want to open a new window for everi component. is there ani way to switch the compon on my main window?

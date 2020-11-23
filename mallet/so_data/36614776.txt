@@ -1,1 +1,1 @@
-why use webpack with electron
+i am experi with electron. i see a lot of exampl that use webpack.but whi use someth like webpack? becaus as far as i can tell electron support .

@@ -1,1 +1,1 @@
-How to use ElectronJS's screen.dipToScreenPoint() method?
+i am tie to use the method.a mention in electron docs, but i'm get the undefin method error. how to resolv the issue?

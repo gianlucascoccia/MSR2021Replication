@@ -1,1 +1,1 @@
-shows empty blank screen when creating electron app of existing angular app
+i have develop one app use angular 6. now i want to make build desktop app with electron. i have follow all the step to make a build. when i run npm run electron-build it make a build &amp; display me empti white window it show nothing. i don't even understand what is the problem.thank you in advance.&#xd;&#xd;&#xd;&#xd;&#xd;i have creat a main.js, made chang in the index.html &amp; package.json. system configurationos: linux x64 (ubuntu 16),node 8.11.1angular cli: 6.2.9angular: 6.1.10.

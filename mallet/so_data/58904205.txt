@@ -1,1 +1,1 @@
-ipcRenderer not receiving messages
+i'm tri to send a messag when the q key is press from my the key press is detected, but the messag is not receiv by the ipcrenderer. ani mistak on my code?

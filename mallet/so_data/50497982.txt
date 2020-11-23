@@ -1,1 +1,1 @@
-Basic Proxy Authentication on Electron
+is there ani way to add usernam and password on session.setproxi on electron, here is what i am tri to do: but it is not work right now? i tri search electron document but no luck. would realli appreci ani help.thanks!

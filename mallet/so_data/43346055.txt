@@ -1,1 +1,1 @@
-webpack cannot find module "fs"
+i have a project that use webpack and electron. i updat my app to use the latest version of electron as it was use electron-prebuilt. sinc updat to the latest version i am now unabl to compil my app due to this error. i'v tri some suggest from other so post which suggest edit webpack.config and ad

@@ -1,1 +1,1 @@
-Is electron cache reliable
+i have to develop an electron-appl (vue.js) for oli one computer. on startup, the applic fetch content (main imag and a text-json) from a server. if there is no internet connection, the app should use the cache.mi research went from servic worker over "imgcanvas.todataurl()" to custom made plugins. but i'm wonder whether the build in cach also can work. therefore: is the "built-in" cach of the electron "chrome" reliable? can i assume, the file will not be lost (until there is an internet connect and new imag were load)?thank you!

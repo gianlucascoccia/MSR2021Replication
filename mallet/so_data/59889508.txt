@@ -1,1 +1,1 @@
-How can i open an exe file using a button inElectron
+i am tri to make a button open an exe file in comput but it doesn't open and it give me this error uncaught referenceerror: requir is not defin at runex (main.js:61) at htmlbuttonelement.onclickher is the code for my button

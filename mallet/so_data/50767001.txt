@@ -1,1 +1,1 @@
-Electron Preload a function instead of an external file?
+i don't think this is possible, but i can't find ani clear document say it is not.th featur i'm refer to is referenc here in the docs: https://electronjs.org/docs/api/browser-window

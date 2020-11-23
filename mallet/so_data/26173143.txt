@@ -1,1 +1,1 @@
-Caching images in node-webkit app
+i have a node-webkit desktop applic that display ton of imag on some pages. i'd like to ask node-webkit to cach all incom imag like browser do. is there a way to do this?i can write a simpl cach mechan (download those imag and store them locally) but suppos that there is a nativ way for it.

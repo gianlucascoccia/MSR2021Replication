@@ -1,1 +1,1 @@
-How to play an audio file in JavaScript with just the full path
+i have a full path of an audio file, for exampl object, and obvious load in the full path doesn't work.ani help appreciated.edit: this is an electron app i'm write for mac desktop. the file will be store local on the user machine.

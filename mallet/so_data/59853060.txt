@@ -1,1 +1,1 @@
-Cannot run NodeJS on electron App with React
+this error occur when i run the package.thi is my electron.j when i packag it and run it, the exe file instal give me that error onc i instal the app on my desktop. it run fine in the dev environ without ani packaging, just run the dev script in my package.json. cannot manag to integr the node server.

@@ -1,1 +1,1 @@
-How to connect your Angular - Electron application with localserver (Microsoft SQL Server or Wamp)?
+i am tri to develop a desktop applic over electron and angular, and at the back end i am go to use . i didn't find ani document or ani answer relat to that, whether how i would be abl to access ani local api that will be built.while, i know how to access your local server use the web application, and the same tech stack has been use in the electron js, can i access the api through the same way ? or i am suppos to follow anoth rout ?

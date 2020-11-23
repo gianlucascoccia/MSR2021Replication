@@ -1,1 +1,1 @@
-Global Key rewriting on mac with Node.js
+i want to defin a shortcut, can be either with nw.js or iohook i'm not particular. when this shortcut catch a global keypress combin emit anoth key or combin of keys, so that if i am in a particular window type and i make my shortcut the rewritten key get sent to the window. this need to work on mac.i suppos it could look someth like this (iohook example, nw.js more verbos so have not shown)wher the sendkey function is the part i don't know. i'm suppos either nw or iohook support this i just haven't seen it in the documentation.

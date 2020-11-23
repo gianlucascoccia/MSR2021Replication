@@ -1,1 +1,1 @@
-Update electron app via npm update
+i have an app publish in a local npm repo and this app is a main depend of my second electron app. i'v built electron app base on and re-build itself depend on gotten version? thank in advance!

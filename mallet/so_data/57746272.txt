@@ -1,1 +1,1 @@
-How do i make electron rebuild work so that i can use sqlite3?
+i am tri to creat an app that use i am use ubuntu18.04

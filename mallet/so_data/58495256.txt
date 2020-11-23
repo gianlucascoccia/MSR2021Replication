@@ -1,1 +1,1 @@
-Electron auto updater setup with own server (generic provider)
+i have my own server where i upload app instal via ftp. it name is .i don't want to host releas at github becaus my repositori is privat and i saw some inform in electron.build doc that i shoudn't do that.i also saw info in some issu that i could creat new repo onli for releas but i consid host everyth at my own server as more clean approach.

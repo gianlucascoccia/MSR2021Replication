@@ -1,1 +1,1 @@
-Proper way to integrate WebRTC to Electron app?
+i'm tri to develop a peer-to-p desktop app with electron and webrtc which transfer onli json data betwen peers. i ran into mani librari such as but i'm not sure what the best way to proper integr that, ani ideas? thank

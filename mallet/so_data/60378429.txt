@@ -1,1 +1,1 @@
-how to integrate a browser in electron app?
+i am recent develop a semiautomat web content extractor use electron. in my design, this app can display a web, allow user to select some dom content in this web, and automat extract use data insid these dom.but i don't know how to display a web insid electron app. i tri use a , it won't be display in an iframe.i there ani other way to integr a web insid an electron app? especially, i need to listen the click event insid the integr web, and i also need to access the dom from this web.thanks!

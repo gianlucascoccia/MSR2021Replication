@@ -1,1 +1,1 @@
-Nodejs, Electron nightmare is not defined when it's installed?
+i'v instal nightmar via npm this is my code:i'm veri new to nodej what is caus this error? am i do someth wrong?

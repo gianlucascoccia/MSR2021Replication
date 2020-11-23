@@ -1,1 +1,1 @@
-trouble updating angular component in IPC communication between back and front
+i have an electron (6) / angular (8) app.in the front (angular) i send a messag through ipcrender to the back.in the back, ipcmain receiv the messag and perform the oper needed, in the exemple, get a list of files.th back send the file one at a time to the front (again, ipc).th front receiv the messages, as i "console.log" each file as i receiv them.but, as i fill an array with the files, it won't display in the compon until i click on the page.ani idea of what i do wrong ?in main.t :

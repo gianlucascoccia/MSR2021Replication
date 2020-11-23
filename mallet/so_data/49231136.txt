@@ -1,1 +1,1 @@
-How can I better test an actionCreator that uses electrons
+here is a sampl actioncreator. it dispacth the correct action and then tri to persist the data that has been updat in the store to the file system (this is an electron app).everyth works, but i have a question about test the action creator.i'm not sure if i need to test it as it just use electron i/o method which i think would be cover by electron own tests. or is there away i can test it? i don't think as it is the test environ that there is access to electron.

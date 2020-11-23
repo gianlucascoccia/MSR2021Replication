@@ -1,1 +1,1 @@
-MongoDB $elemMatch not working for subdocument
+im tri to get specif quiz in databas by id:ani solutions?im actual use nedb https://github.com/louischatriot/nedb which is same syntax as mongodb.thanksedit:i tri my code use mongodb console, it work beautifully! mayb that just nedb bug?

@@ -1,1 +1,1 @@
-Why is electron using an old version of chromium?
+chromium is current avail as version 68, but electron is still use version 61.what are the reason for this and what are the (security) implications?

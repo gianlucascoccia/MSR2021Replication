@@ -1,1 +1,1 @@
-Using electron-progressbar in renderer process
+https://www.npmjs.com/package/electron-progressbar#more-exampleshi, i need to use progressbar in electron. but with the progressbar package, it turn out that exampl can be use in main process not in render process.i it possibl to use that in render process so that the user click the calcul button and wait for a while?

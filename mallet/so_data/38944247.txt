@@ -1,1 +1,1 @@
-Build not found error when trying to create an installer for my electron app
+i am tri to creat a window instal for my electron app (so that it can be run on ani window comput as a standalon app) use electron-build https://www.npmjs.com/package/electron-builderwhen type i am use window 10, and execut the command via bash

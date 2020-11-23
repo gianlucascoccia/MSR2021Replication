@@ -1,1 +1,1 @@
-webkitSpeechRecognition in Google Chrome Extension
+i am tri to figur out the best and most effici way to take a voic input for a googl chrome extens i am developing,i have been test out webkitspeechrecognit in js in a webpage, tri to figur how to transfer to an extension!

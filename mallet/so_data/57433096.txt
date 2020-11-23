@@ -1,1 +1,1 @@
-How can I call Web APIs in React JSX?
+i'm write a music player with react and electron and want to add metadata for the audio so as i can get mpris support. so i did some search and found media session api is what i needed.to test it, i copi the code from the exmapl code contain by the abov link into a function in my project.why?

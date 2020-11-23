@@ -1,1 +1,1 @@
-Promise fired before waiting for result
+i'm veri new to promis and my follow code produc some unexpect result but i don't know why.th taskrunner.syncobject function in main.j should wait for the fill selectedcours variable, but instead of that it just fire instantly. this result in an empti selectedcours variabl be used.whi is it that the taskruner.syncobject function run befor have a result?main.j

@@ -1,1 +1,1 @@
-How can I set properties conditionally in Node.js via Atom?
+i am develop a node.j app with electron via atom.i want to set some properti conditionally(or automatically), for instance, the this is veri annoy me, and it can be a problem when i miss chang comments. how can i chang my properti condit with production/develop level?

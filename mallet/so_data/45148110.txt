@@ -1,1 +1,1 @@
-How to add a callback to ipc renderer send
+googl say you can add a callback to it, but the document just say "arg1, arg2, arg3" etc.they also have sendsync, but i'd prefer not to block while my event is be sent [we'r tri to do as much work through the browser as possible, becaus write client code in node, seem a littl daft].if the creator have a sendsync, then sure they have a version with callbacks, or better yet promises.som exampl of thing i'd like to be abl to do:

@@ -1,1 +1,1 @@
-Shared resources in packages made by Electron
+i need to distribut a webapp in an offlin version on an usb. electron seem like a great way to make the webapp feel nativ and work well on all platforms. there is (potentially) just one problem: the offlin version requir sever huge media file and therefor there is not enough space for each packag to have it own folder with the media files. this can be solv by let the packag share a common directori on the usb. can you tell me if this is possibl with electron. and if so, how?(not that each packag must be avail on the usb.)

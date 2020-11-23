@@ -1,1 +1,1 @@
-View stack in visual studio code
+is it possibl to view stack in a javascript program made in visual studio code?mi program is give me a "maximum stack size exceed in browserwindows" and i have no idea, where it started. my thought are i need to view the stacks, while run the program, but how do i get visual studio code to show program stacks? or am i approach this in the wrong way?

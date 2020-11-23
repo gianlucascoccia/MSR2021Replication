@@ -1,1 +1,1 @@
-How do I load the index.html file on electron?
+i'm creat an app with electron and angular.curr to load my index.html file my code look like this.i'm unsur how to load the index.html file for the electron app. what the right syntax is.i'v tri "index.html" and "./index.html" but can't seem to find the solution.ani help on what to put would be appreci

@@ -1,1 +1,1 @@
-Electron - mainWindow.show() doesnt work inside ipcMain
+i'm set the event from my applic on ipcmain like this: ...and it work like a charm. i'm work on window 10 and i think it work befor on mac but i'm not sure.

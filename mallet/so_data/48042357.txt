@@ -1,1 +1,1 @@
-Angular 5 not updating the dom after receiving async message from Electron IPC, this suppose to be simple but it's not very obvious
+i have a servic and a compon that i want to updat the array of string onli if i receiv respons from electron ipc.thi is my component: which suppos to add the new data to the array and updat the dom but it updat the dom onli when i chang the input field (html).

@@ -1,1 +1,1 @@
-Does ElectronJS have the ability to show mac control buttons in full screen?
+i'm build a desktop app use react and electron. i want to show the mac control button ('traffic lights') at the top left when the applic is made full screen.i have tri set but noth seem to be allow me to show the control buttons.below is my code for the start.jshttps://sourceb.in/136c585a4d.jsani help or advic would be much appreciated.

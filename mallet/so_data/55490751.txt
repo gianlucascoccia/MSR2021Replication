@@ -1,1 +1,1 @@
-REST operation from Spectron test case
+given the follow e2e testcase:i have a spectron test case which put data in rest endpoint and then call the program window to check if the data ident to the data i have ad to the rest endpoint.i have manag to get the data from the endpoint put i have no clue how to add data to the endpoint.th exampl on the internet are use angular project. but it is out of my scope to use angular depend

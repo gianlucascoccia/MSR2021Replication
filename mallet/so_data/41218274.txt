@@ -1,1 +1,1 @@
-Electron doesn't show reload and toggledevtools menus
+i'm start from the templat menu specifi in the document which includesbut when i run the application, this is what i see:ani idea whi those menu item are not appear (they also don't work)?

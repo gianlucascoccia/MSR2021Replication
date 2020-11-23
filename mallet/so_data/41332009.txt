@@ -1,1 +1,1 @@
-Forking from Electron process fails on Windows only from installed executable
+i'm develop a desktop applic use electron. i do certain task in a separ process to avoid lock render processes. i achiev this by call option and run the execut from the unpack directori it work fine.thi led me to believ that it has to do with the permiss set on the execut by the installer. i'v play around with the permissions, but without ani success. i'm not sure which permiss are respons for allowing/prev this behavior.her a screenshot of the permiss on the fail execut

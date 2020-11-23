@@ -1,1 +1,1 @@
-Is there any way to modify the basepath value at runtime in angularjs?
+i have a scenario where i need to modifi the basepath we are set in accord to the avail of internet connect , i need to chang this value. what are the differ way to chang this at runtime?

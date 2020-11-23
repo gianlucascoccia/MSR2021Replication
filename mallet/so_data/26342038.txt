@@ -1,1 +1,1 @@
-greenworks and node webkit not working with steam overlay
+i am work on a game in node webkit and greenwork that i want to releas on steam soon, everyth was fine until i ad it to steam as a non-steam game just to see how the overlay would look and it just will not come up. i read up on the steam overlay and appar it onli support game with directx and opengl, my game doe not use either of those and it also doesn't use webgl. how do i get the steam overlay to work with it.

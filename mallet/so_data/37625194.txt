@@ -1,1 +1,1 @@
-Close, Minimize and Maximize buttons on Electron
+i'm current use electron 1.0, and i can't find a way to use the remot modul with, everi singl tutori i try, none of them works, i just give me an error "cannot find modul remote'".her is the snippet from my index.j (mi extern .js file which is call on my html file) where the function is located:

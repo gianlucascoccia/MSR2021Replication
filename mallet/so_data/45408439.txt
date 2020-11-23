@@ -1,1 +1,1 @@
-Shared data between windows in Electron
+i need a multi-window app to share media streams. is there anyway to do that? in nw.js i can creat a proof of concept, where a mediastream creat in one window can be play in the other, but it appear i cannot do this in electron. am i correct?

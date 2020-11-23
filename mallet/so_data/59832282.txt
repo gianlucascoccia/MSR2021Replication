@@ -1,1 +1,1 @@
-Can one deliver an electron application without delivering the debugger?
+i'v shallow-research this and could not get ani answers. i have been abl to use the electron-packag (assum latest) to packag my electron application, but i don't want to deliv devtool as a featur to the end-user. i recogn that you can disabl it, but are there ani electron configur option that i could modifi to not deliv devtool or is it someth that would be manag by the electron packag module?

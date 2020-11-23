@@ -1,1 +1,1 @@
-Electron browser window re-rendered everytime
+i am have an issu where everytim i creat a new remot browser window, everi current open electron window is refreshed.e.g i have a main window that perform some fetch request and load animation. after load the inform and the user click on a button to open anoth window, the main window is reloaded. how can i stop this?

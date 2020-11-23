@@ -1,1 +1,1 @@
-Angular 8 load external npm package
+i want to import the dragscroll.j package. i alreadi tri import it in the index.html likeit give alway this error:dragscroll.js:1 fail to load resource: net::err_file_not_foundi use angular with electron, if it matters.

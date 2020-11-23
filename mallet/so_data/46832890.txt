@@ -1,1 +1,1 @@
-Electron oauth callback
+i'm tri to implement an oauth 1.0a flow in an electron app use react-router. here is the code for the request to the oauth server. but i get a not allow to load local resourc error in the authwindow. if i use the https://localhost:8080 redirect i use in the web app then the authwindow get a raw chromewebdata url. ani idea on how to proper do this would be appreciated.

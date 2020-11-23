@@ -1,1 +1,1 @@
-ffmpeg.exe not found inside project directory
+i´m current work on my first electron / react app, which make use of ffmpeg. i do have a problem to link the .ex file correctly.th prolem i´m face is that i

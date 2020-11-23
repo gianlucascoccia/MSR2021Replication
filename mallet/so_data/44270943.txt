@@ -1,1 +1,1 @@
-Spectron testing producing a JScript syntax error
+i'm tri to test out spectron for electron in term of test but as i'm go through a tutorial, i keep get this error messag whenev i run npm run test:e2e. my test file syntact correct but im not sure whi i run into an error through compil specs:nodej 6.10.3electron 1.6.1here the error messageher the json file package.json

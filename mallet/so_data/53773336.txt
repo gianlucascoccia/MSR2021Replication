@@ -1,1 +1,1 @@
-React JS app: How do I load new TTS voices?
+i'm build an app with the react js library, use electron and node js to packag it as a window .exei use the “speak-tts” modul to integr speech synthesis. everyth seem to be pretti straightforward, but i can't figur out how to load addit voices. i can onli get the default voice.ha anyon els come across this issue? your advic is much appreciated.

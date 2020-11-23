@@ -1,1 +1,1 @@
-How to close file with electron app
+on my electron app i use electron.shel (shell.openitem()) to open file (docx, pdf, tiff, ...).now i want to close this file after one specif action. there is a way to close it with electron api or node js ? thank

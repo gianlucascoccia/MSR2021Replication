@@ -1,1 +1,1 @@
-Node-Webkit on Windows runs in 3 different processes?
+i'm sorri if this is a duplicate. i tri to googl the answer but it isn't veri helpful.if i run a node-webkit app use i know that googl chrome use a novel softwar architectur which make each tab (and plugin) run as a separ process, thus make resource-manag more manag and effici (?) is that what is go on here?pleas forgiv my ignorance. i don't have ani advanc knowledg of window or node/-webkit. i'm look to learn someth out of this. so ani link to man-pages, faqs, doc etc will be great appreciated.

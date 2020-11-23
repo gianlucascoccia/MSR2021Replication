@@ -1,1 +1,1 @@
-Data is showing in controller and service but not showing in view
+view--index.html it will print array of data in ng-repeat

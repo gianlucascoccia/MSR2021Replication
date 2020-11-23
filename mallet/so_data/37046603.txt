@@ -1,1 +1,1 @@
-How do you run a npm command in a electron app?
+hi there im wondering/tri to run a npm command in order to creat a gui interfac for a project creation desktop app. im wonder as i can find ani document on how to do it if it possibl to run a npm command such as yeoman generat command through a electron app.

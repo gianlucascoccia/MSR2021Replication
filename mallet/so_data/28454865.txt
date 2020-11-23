@@ -1,1 +1,1 @@
-Node Webkit window hide toolbar dynamically in js
+is there a way to toggl the default toolbar in a nodewebkit app use js ?mi app shouldn't display the toolbar as it set in the and it work fine in most cases. but for some reasons, in an embed window xp distribut it display the toolbar anyway..so i would like to tri to hide it dynam after the app is launched.and i don't find ani window function to do that in the documentation.ani idea ?

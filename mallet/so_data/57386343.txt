@@ -1,1 +1,1 @@
-How I can avoid error when running an electron project created on Mac in a Windows?
+the problem is that i start to learn electron on my mac, but when i tri to show the project on my friend comput (which use windows) i got the follow error in the cmd:the onli thing that can be use was to delet the electron folder in node_modul and then reinstal and it worked. but my question is if there is a way to avoid this and so i could open my project on mac, window or linux whitout delit and reinstal electron everi time.

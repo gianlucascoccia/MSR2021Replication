@@ -1,1 +1,1 @@
-Increase Electron Memory limit
+my electron app crash as soon as the memori usag reach 2,000 mb.i can test it by have this code in my main process file which intent rais the memori usage:but noth it working...test on electron v3.0.0-beta.12 and on electron v2.0.9 ~ 2.0.xhow can i increas the memori limit on electron &amp; not have my app crash as soon as it hit 2gb or ram usage?

@@ -1,1 +1,1 @@
-Getting "Null" when fetching data from SQLite3 using Node.js
+i am test whether i can connect to a sqlite3 databas use electron and node.js, howev when i take the necessari step to retriev data i am simpli get a singl "null" respons in the terminal.mi code look like thismain.jsand a renderer.j file that is empty.us these file togeth with "npm start" (start script power by "electron .") allow for the window to pop up and everyth work as expect but as i state in the console, where i expect my data to be all i see replac it is null.

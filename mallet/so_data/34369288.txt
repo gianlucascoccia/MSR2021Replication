@@ -1,1 +1,1 @@
-Electron error on canceling file open dialog
+when i press the cancel button on file open dialog (code below) i receiv the follow error: ani help resolv the error would be high appreciated.

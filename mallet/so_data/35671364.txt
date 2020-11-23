@@ -1,1 +1,1 @@
-Electron apps i.e. mongotron not getting started
+i was tri to start mongotron from it sourc by run below command from root , src, and or src/browserit return me below error p/contents/macos/electron ; exit;ectron-prebuilt/dist/electron.ap illeg instruction: 4 logout[process completed]ani suggest how to troubleshoot? thanks!

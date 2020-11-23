@@ -1,1 +1,1 @@
-How to create an Electron app that is also served from local server
+i want to creat an electron applic that allow the same wrap websit (albeit through differ url-routes) to be access through a local webserver. so when the applic starts, a local webserv is start that serv the exact same site.how would i set this up?

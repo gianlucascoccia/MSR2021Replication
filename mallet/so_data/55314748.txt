@@ -1,1 +1,1 @@
-What are the risks of connecting to database directly from Electron app?
+i'm fair new at build electron app and i'v seen a lot of exampl where electron app connect direct to a remot databas (mysql in my case) so i start wonder what the problem might be with do it that way. my first thought was to have a remot api (built on top of express) which would communic with the databas and electron app (react) would just util that api.ani advice? thoughts?thanks.

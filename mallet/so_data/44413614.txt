@@ -1,1 +1,1 @@
-How to connect to remote hostinger mysql server in node js?
+am make a electron desktop app for fetch exam result which will be display as a table(am state this becaus i don't want to use grant permiss queri in sql mean this app will be use by mani student not just me)i tri below code am get enotfound getaddrinfo mysql.hostinger.in error.can it be solv by ani npm package?if not pleas provid the code.thank

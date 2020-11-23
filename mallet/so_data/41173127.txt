@@ -1,1 +1,1 @@
-Invoking a node module from react component
+how do i use node modul for exampl lwip in react compon ? this is for an electron application.upd the question with code:thi is the react compon from which i am tri to invok anoth .js file.button.j

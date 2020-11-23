@@ -1,1 +1,1 @@
-Electron: prevent / cancel page navigation
+is there anyway to prevent or cancel page navig in electron?th code abov doesn't work sinc the event handler get execut while the page keep on navig away.similarly, i'd also like to do the same for event did-get-redirect-request', to prevent certain redirect from happening.mani thank

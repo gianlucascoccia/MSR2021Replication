@@ -1,1 +1,1 @@
-NeDB not loading or storing to file
+i cannot get the simplest exampl of nedb to run properly. my code onli work in-memory, persist to file keep fail without ani error messages. the error callback for the loaddatabas and insert event alway pass a null refer as error, so no inform there. odd it seem no one els has this issue, so i guess i'm miss someth here. all help is much appreciated. here is the code:&#xd;&#xd;&#xd;&#xd;&#xd;

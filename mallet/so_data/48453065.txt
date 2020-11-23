@@ -1,1 +1,1 @@
-Filter by extension in Electron file dialog
+how do i add a filter by extens in an electron file dialog. for example:

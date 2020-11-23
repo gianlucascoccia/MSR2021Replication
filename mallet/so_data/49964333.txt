@@ -1,1 +1,1 @@
-Angular 5, Angular Material and Electron
+i'v recent start a project with angular 5 and electron. i have it run fine without use angular material, but onc i tri use angular materi (follow all the instruct online) it give me a new warning;warn in ./node_modules/@angular/cdk/esm5/a11y.es5.js1112:164-170 "export inject was not found in @angular/core'i have look thorough through my code and re-don the instruct online. noth seem to have worked. i can't find anyon on stack-overflow whose also had this problem.

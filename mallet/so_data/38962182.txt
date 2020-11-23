@@ -1,1 +1,1 @@
-Blank screen when navigating Angular routes within Electron app
+i'm current write a desktop hybrid app with electron with angularj integr for rout etc, pleas see follow angular config:});th app load up fine, and the initi dashboard.html is inject into ng-view perfect fine.th problem come when i click on an tag to load in anoth view, such as sites.html, for example. i get a full white screen with no error output into the console, nor ani error come from node.j itself.i'm wonder whether this is a known problem, or whether i'v done someth wrong in my config.

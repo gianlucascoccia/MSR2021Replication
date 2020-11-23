@@ -1,1 +1,1 @@
-Is there a way to set 'Disabled = false' of electron-simple-updater
+i'm wanna set up auto-upd featur in my electron app build in quasar. so i come across with electron-simple-updater.https://github.com/megahertz/electron-simple-updater#checking-for-updatei fail to implement it as the auto-upd just can't seem to work. due to disabl option alway set to true, just like state in the documentation.i tryit not working. i'm abl to set ani option other than disabled'i there ani way to forc disabl = false'?bi the way, my environ is maco v10.14.6

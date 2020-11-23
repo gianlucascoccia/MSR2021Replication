@@ -1,1 +1,1 @@
-How do I track dragging of a BrowserWindow in Electron?
+i have an instanc of a browserwindow. i would like to know when the window is be dragged/mov on the screen.i have tri use the move event but that event onli get fire after the window has been moved. it doe not fire while the window is be dragged.how do i track when the window is be dragged?

@@ -1,1 +1,1 @@
-express detect get request
+i'm use electron to build an app which serv sever imag file in a webserv use express.from anoth app built in android i get file from the server and post file to it.i have no problem detect when the android app is post the files:

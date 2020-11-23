@@ -1,1 +1,1 @@
-npm install fails in electron app with node: command not found
+i am tri to run an electron app on my window 10 machine.i have clone the electron-quick-start example, but when i run my suspicion is that it not relat to electron, but i'v mention it for the sake of complet (in case it a tangenti relationship).

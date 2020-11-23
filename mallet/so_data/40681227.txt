@@ -1,1 +1,1 @@
-autoUpdater.setFeedURL is not a function
+i'm attempt to implement window auto updat function in an electron app (which may lead to my earli death) and i'm get this error.thi is the url i'm pass for test purposesedit: my electron app is use the two package.json structur and this code is in my app>main.j file

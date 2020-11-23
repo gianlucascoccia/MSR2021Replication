@@ -1,1 +1,1 @@
-I keep getting the error "TypeError: Cannot read property 'originStackTrace' of null" in electron I can't seem to find out why?
+it happen when i tri to submit a formjavascriptgoogl tend not to produc ani results. and i have no idea what "origin stack trace" is.

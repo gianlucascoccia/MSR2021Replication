@@ -1,1 +1,1 @@
-How can I set a github proxy for electron-builder configuration?
+i'm work under secur close network and my electron builder depend depend can't update/donwnload their depend so i need to work behind a proxi to github in order to download them,but i don't know where to set it,

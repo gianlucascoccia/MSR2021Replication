@@ -1,1 +1,1 @@
-bootstrap dropdown not working in electron
+build an electron app use angular js. i instal a bootstrap nav menu on the main screen that work perfect except for the dropdown nav items, they don't drop down when clicked. the code itself is a copi and past from the nav sampl from the bootstrap site.her is my package.jsonagain the rest of the nav item that are not dropdown work great. whi would dropdown not work here? thank for the feedback.

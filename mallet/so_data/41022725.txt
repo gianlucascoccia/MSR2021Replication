@@ -1,1 +1,1 @@
-Launch and Attach to NW.JS program from Visual Studio Code
+doe anyon have a launch.json exampl that will work for visual studio code to attach or launch a nw.js desktop program. yes, i know that nw.js use chromium debug, and you can debug it direct that way. but it would be nice to be abl to debug and singl step from vs code.i assum it use port 9222 (below doe not work)attach below is the log:vscod log

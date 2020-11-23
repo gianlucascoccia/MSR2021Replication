@@ -1,1 +1,1 @@
-How to get https on socket.io
+current i use, how do i do that? i also heard i need a certif thing, how do i get that? and how to set it up? caus stupid anti virus think the socket.io is "dangerous" when it isnt.. (the client side is on my electron application)

@@ -1,1 +1,1 @@
-Jquery Datatables does not populate with data
+i am tri to build a web app with electron and i'm use jqueri datat to popul data.th problem is that i am face is that the tabl doe not load my data from data=[] array

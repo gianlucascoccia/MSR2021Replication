@@ -1,1 +1,1 @@
-How to set up application menu in electron?
+if i start the electron-quick-start application, i get a full osx menu:i then add this code, most copi from docs, to my main.js:i also tri to use menu templat code from the electron menu docs, with the exact same disappoint result:i also tri to add the code abov to index.html, liter copi the code on menu doc. same thing.ani idea what is wrong?

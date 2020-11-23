@@ -1,1 +1,1 @@
-Spectron and starting electron application
+while tri to run the first mocha test for my electron applic i get error:i am pretti sure it is relat to the way applic is run in general. while use "electron ." to start, there is no issue. when "npm start" is executed, i get the same error as pictured. most probabl it is relat to the way db was ad to electron (pouchdb + sqlite) for window (recompilation)sinc configur sqlite for pouchdb for electron took me a while and i have to use this tool, do you think there is a way to get mocha run under such circumstances?

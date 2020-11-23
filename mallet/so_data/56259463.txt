@@ -1,1 +1,1 @@
-"Unnotarized Developer ID" error occurred while building for mac with Electron Builder
+i'v generat develop id applic and instal certif use appl developp page and i can see it in login on keychain. when i run i tri it a few hour later and tri to recreat the certificate, but it didn't work. what should i do? should i tri to notar the app manually?: how to upload dmg file for notar in xcodeosx 10.14.5.electron-builder: 20.38.5

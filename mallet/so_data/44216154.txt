@@ -1,1 +1,1 @@
-Set initial app view - Chrome App/Electron/JS
+how can i set the init zoom for my app. current it load at 100% zoom i want it to load at 80% zoom. also is there a way to load full screen instead of have to specifi width/height?main.j

@@ -1,1 +1,1 @@
-Trouble setting up net-log for Electron- No logs found
+i am tri to set up net-log for electron(v6.1.7) to log/debug request from the main process to a worker.i tri the below thing but i am unabl to see ani logs. . did not see ani logsalso tri use the session.defaultsession.netlog return a fals in this case too...ani help would be appreciated.thanks!

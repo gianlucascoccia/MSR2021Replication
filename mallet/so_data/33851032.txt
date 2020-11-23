@@ -1,1 +1,1 @@
-How to set max height for Bootstrap accordion
+i use this templat to creat an accordion in bootstrap.i will probabl have a lot more element and can't figur out how to set the max height for the menu befor the content of the sublink div becom scrollable, sinc i have a limit window.jsfiddlei alreadi tri appli max height to both

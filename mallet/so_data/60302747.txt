@@ -1,1 +1,1 @@
-electron production build always has frame - macos
+when i am run the dev build, or use npm run prod my window render as expected.thes are my set in main.js:but when i run npm run packag the result .app when open has the normal border and title.

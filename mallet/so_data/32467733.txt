@@ -1,1 +1,1 @@
-AngularJS : Using angular-ui-router with electron
+i'm tri to integr angular, angular-ui-rout and electron to build a desktop app which is also a singl page application. i'm unabl to get a proper rout configur use angular-ui-rout without mess up the file paths.below is my rout config. state without mess up the paths?

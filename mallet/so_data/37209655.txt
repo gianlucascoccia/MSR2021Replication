@@ -1,1 +1,1 @@
-Google Ads in Electron?
+i'm write an electron app that i'd like to place googl ad in, but i'm not sure how to correct do it.i'v creat my ad snippet and put it in my app. the default snippet use , but i'm not sure how to do that with extern ads.so how can i put ad in my electron app?

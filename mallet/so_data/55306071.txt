@@ -1,1 +1,1 @@
-How to show progress bar in a window during downloading in electron-updater
+i'm develop my app with electron and i'm use electron-updat to show a window that ask to the user if he want download a new app version or not.i'v tri to show in a window a progress bar dure the download like this.i'v tri to use progress-bar but if i instal it, the electron-updat stop working. now i can see the progress onli in dev mode into the electron shell.thank you in advanc

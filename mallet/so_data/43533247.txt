@@ -1,1 +1,1 @@
-jquery addon function not adding element to DOM in nw.js inside w2ui panel
+i creat this in fiddl to show what i'm tri to do in nw.js. this work just fine. 2 tab get creat dynam at run-tim just fine.http://jsfiddle.net/fnbqupf4/i port this over to my nw.js and i get an error when ace.edit() is call say it can't find the element id. when i look at the dom in nw.js i see the tab and the editor is not creat there. so the issu is the tab and editor div get creat in the jsfiddl but not in the nw.js site.i there someth with not be abl to dynam add element to the dom in nw.js?

@@ -1,1 +1,1 @@
-Indexeddb with Node Webkit
+i am veri new to indexeddb with node webkit, i have a databas in my project which is requir to store some information, due to continu develop now we have multipl databas in indexeddb, doe anyon know how to delet all the creat databas from indexeddb in one go?

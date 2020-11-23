@@ -1,1 +1,1 @@
-React not loading background image
+i am tri to get a full screen background imag to load on a land page but i cannot seem to get the imag to load when i refer it in the cssi can refer it from within my react compon use all that is display is the get start button, not the imag

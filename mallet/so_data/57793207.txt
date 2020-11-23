@@ -1,1 +1,1 @@
-Re-building nodejs serialport module in electron-angular
+i have tri everyth possibl to get serialport (https://www.npmjs.com/package/serialport) to work in my electron-angular window applic to no success. i have been on this for over 1 week. when i tri to rebuild the modul use this command: link to angular-electron boiler-pl : https://github.com/maximegris/angular-electron

@@ -1,1 +1,1 @@
-How to know if file finished downloading?
+i am develop an app for both mac and window use electron that watch a folder for file that got download there from anoth app, i want to check if file finish download befor move it somewher else, i don't know if should i check the file size period or is there anoth way to know if the file did finish download use javascript.

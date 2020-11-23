@@ -1,1 +1,1 @@
-Interacting with Electron via HTML document
+excus the stupid question, but i'm super new to electron and kind of lost.thi is basic what my project look like:? do i need to includ it somewher befor the page loads? how would i do that?

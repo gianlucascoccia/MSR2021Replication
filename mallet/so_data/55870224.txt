@@ -1,1 +1,1 @@
-I tried is to include electron-usb library into my electron-project
+when i execut npm start with require('electron-usb') in my index.j file an error occur in the console:cannot find modul node_modules\electron-usb\build\release\electron-v0.36-win32-x64\usb_bindings.nod

@@ -1,1 +1,1 @@
-How to call some logic in Electron application from outside?
+i plan to write my electron app, but i still don't have ani idea how to implement such use case - how to call some logic in electron applic from outside?for example, there is a real applic mavensmate. i can run it and leav in tray, and next from sublim text menu i can run differ logic insid mavensmate.

@@ -1,1 +1,1 @@
-How do I code sign an Electron app before bundling it (for Mac)?
+i am develop an electron applic for mac os x. i am attempt to test it auto-upd featur while develop locally, prior to bundl it as a ?if yes, how?if not, why? and is there ani way to speed up test this?

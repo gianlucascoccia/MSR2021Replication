@@ -1,1 +1,1 @@
-Unable to create virtual table in sqlite3 in electron app
+i am use my own sqlite3.dl in electron. so i need to regist all the function of sqlite3 with ffi that i need to use. it was work pretti well till now. ex for sqlite3_exec, i'v regist this in ffi as follows}; it in c syntax, i'v tri to chang it to js syntax as much as possible, but still noth positive.so if you'v ani solut for this pleas help.

@@ -1,1 +1,1 @@
-Electron failed to install correctly, please delete node_modules/ and try installing again
+i am tri to use webpack + react + electron, and when i type in the cli "electron ." it give me this error:i delet node_modul and re-instal all the modul over and over like about 6 times, obvious delet node_modul and instal isn't a solution, so i need the communiti help on find this error.package.json

@@ -1,1 +1,1 @@
-Can I set DNS Server for local machine using Node.js?
+is there ani way in node.j that i can set local machin dns server. for example, i'm plan to build an electron app which can chang my internet dns server to 9.9.9.9 whenev i click on a button.thank you.

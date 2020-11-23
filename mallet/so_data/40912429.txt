@@ -1,1 +1,1 @@
-Build a table from SQLite query with Loop?
+introductionat my company, we current use excel to maintain a rather larg databas of item that is use for cost estimation.i am build an electron app to replac that with a simpl databas and some more user friend form and reports.right now, i have a sqlite db that contain 2 tables:a always, ani advic is more than appreciated. i realiz i am probabl ask someth basic, but isn't that how it alway goes? we can excel (ha!) in the difficult thing like build complex user interfaces, but we brainfart on the easi things.

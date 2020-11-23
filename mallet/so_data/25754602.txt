@@ -1,1 +1,1 @@
-Sudo Command Node Webkit
+how can i execut a command in node webkit use sudo privileges? i am tri to chang permiss on file in node as well as creat directori in locat that requir sudo.

@@ -1,1 +1,1 @@
-Develop Desktop App With Electron And Angular 2
+i have a problem develop (creat the environ of) a desktop applic use electron and angular. this app, at some point, has to fire a and so on. after that i need to copi the distribut file into electron project. i know, this is a realli mess.q: what would be a better way to develop this kind of application? like both angular and electron environ in the same project.

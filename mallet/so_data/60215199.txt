@@ -1,1 +1,1 @@
-Platform browser has already been set. Overwriting the platform with [object Object]. when using tfjs-node in electron app
+platform browser has alreadi been set. overwrit the platform with [object object].error when tri to load file that has tfjs-node as an import:

@@ -1,1 +1,1 @@
-Electron APP shows undefined document.body
+hello i am use electron to load extern url, in the extern url i have the script bellow show the ifram insid window.open. in normal browser it work fine but in electron app i am receiv the follow error: uncaught typeerror: cannot read properti bodi of undefinedani suggest are welcome.

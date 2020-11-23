@@ -1,1 +1,1 @@
-Integrate an option to explorer context menu with Electron
+i'm build an app which should be integr through an option in the context menu of window explor and mac finder. i couldn't find a relev option in electron documentation.for example, when i right-click a file in window explor / mac finder, i want this option from my electron app to appear in that menu. is it possible?

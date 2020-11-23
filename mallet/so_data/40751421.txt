@@ -1,1 +1,1 @@
-How to include python script inside a NodeJS file?
+good day everyone,through recommend of this community, i have instal shellj such as hence, my question is how do you includ this python script with the variabl defin in nodej includ in the script in the same file as the nodejs. this app that run on nodej will be packag as an execut desktop app via electron.

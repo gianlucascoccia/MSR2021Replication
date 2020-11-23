@@ -1,1 +1,1 @@
-Node-GYP failed with exit code: 1
+i have to use node-usb in electron.atom to use that i am tri to instal node-gyp and i am face a issue.i found few same ticket on stackoverflow i have tri them all. still no success.ha anyon found ani solut for this problem.

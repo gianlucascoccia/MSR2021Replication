@@ -1,1 +1,1 @@
-Electron-Builder does not copy node_modules into my application
+i have an electron app with the follow structur it is perfect will to load it.it seem to me that electron-build isn't copi node_modul into the application, but i can't see whi it would do that. is it exclud all folder name node_modul and how can i fix this?

@@ -1,1 +1,1 @@
-How to enable flash on NWJS?
+how to enabl flash on nwjs? my current package.jsonand i have lib in app/plugins/pepflashplayer.dl but it doesn't work.

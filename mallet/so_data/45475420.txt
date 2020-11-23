@@ -1,1 +1,1 @@
-installing electron app is too slow because of native dependencies that need installing into user end pc
+i have an electron app with 2 package.json files.th .other app cost 3-10s for installing, but mine 25-35s.so what should i do for this? mayb i can bundl the js use webpack befor packaging?thanks.

@@ -1,1 +1,1 @@
-Is it possible to use c++ as back-end for Electron.js?
+i have a task to make simpl c++ app which store inform into binari files, then need to make simpl manipul with this info, like edit,delete,read. i want to creat desktop app use electron for design ui and to use c++ for manipul with information.i it possibl and how can i includ c++ into electron, is there ani tutorials?thank in advance.

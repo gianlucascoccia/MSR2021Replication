@@ -1,1 +1,1 @@
-How to integrate trading view into electron
+i want to build trade app use electron js and use the tradingview librari but i got stuck on how to implement it. i also creat a new blank project to implement it, but still result.i there anyon has ever implement tradingview to electron and could give me solut to this?blank app resulterror in console&#xd;&#xd;&#xd;&#xd;&#xd;

@@ -1,1 +1,1 @@
-How to append item on Tray context menu in renderer process?
+i use electron and tray like this in "main.js" : how can i append an item to the tray context menu insid a page "test.php" ?

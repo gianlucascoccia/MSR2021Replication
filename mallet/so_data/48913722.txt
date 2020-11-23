@@ -1,1 +1,1 @@
-Electron - How to make a certificate select pop up window?
+i am tri to wrap my head around electron select-client-certificate. my goal to is to have someth like chrome that pop up and the end user can select which certif they should use to sign in.electron by default select the first avail certif which will not work for the site they are tri to access. use a specif name also doe not work as user are assign slight differ certificates.ani guidanc will be great appreciated. thank you.

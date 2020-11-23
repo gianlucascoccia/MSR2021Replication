@@ -1,1 +1,1 @@
-I want to force my app to close other background application before startup
+i want to forc other app to quit befor launch my applic like prompt to close. it seem to me a dead end. i can block key but not other app run in taskbar

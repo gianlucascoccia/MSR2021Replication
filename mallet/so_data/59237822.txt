@@ -1,1 +1,1 @@
-nodejs react functions are not invoked
+not all function are invok in nodej application, what mistak i am making? need help.i have follow function in react electron nodej applic output is data to preset {val1:1,val2:2,val3:3}

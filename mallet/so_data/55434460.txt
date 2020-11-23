@@ -1,1 +1,1 @@
-Cant build electron app without code signing
+i'v tri electron-build and electron-packager, and i get this errori'v tri electron packag and electron builder.

@@ -1,1 +1,1 @@
-Electron nsis Installer x 64 not including node_modules?
+i have an electron app that run veri smooth both in dev and prod envs.i'm have issu with packag a window installer.her what i'm doing.$ npm instal -> postinstal will take care of instal nativ product dependencies.$ npm run prod-buildmi output folder structur is :

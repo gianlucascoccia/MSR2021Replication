@@ -1,1 +1,1 @@
-How to get the url of the BrowserWindow?
+this is a pretti basic question. in electron, how do i check the url/filenam of a browserwindow?how do i go about this, i prefer to not have to send an event to the win to then send the url through ipcrenderer, though this is definit possible.

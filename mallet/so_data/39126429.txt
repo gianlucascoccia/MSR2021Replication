@@ -1,1 +1,1 @@
-Electron splashscreen on startup application
+i'v been use django a lot and now i'm play with electron as i would like to creat a desktop app.i wonder is there an easi way to creat a splash screen (frameless window) onli to display a logo for a few second then open a "normal" window where the main applic will be render ?thanks,arnaud

@@ -1,1 +1,1 @@
-Problems compiling node.js version with Electron
+i'm tri to run a electron project with 10.16.0 node js version but an error ocurred.i'm use this librari https://github.com/pokusew/nfc-pcsci have tri to take anoth electron version that work correct with 10.16.0 node.j but did not work.https://i.imgur.com/uhsjlo6.png "error"

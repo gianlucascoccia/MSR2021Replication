@@ -1,1 +1,1 @@
-print canvas in vue-component in electron
+i creat a spa with vue.j and the electron-framework. in a vue-compon i want to print some labels, which are get the data from databas in mount state of vue liefecycle. the compon is onli use for view the data in label format and it a child component. the label are render by canvas-elements.at first i tri to use the js-function . i have to call it in the vue-life-cycle, but i dont find a way to communic with electron.i thinking, i have to steer the current browserwindow instance.

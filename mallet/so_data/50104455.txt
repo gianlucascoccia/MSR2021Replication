@@ -1,1 +1,1 @@
-Electron - BrowserWindow minWidth not respected on windows
+anyon experienc the same issue? on linux/mac the code below work perfectly, but on window the browser window is ~14px under the specifi minwidth which add a horizont scrollbar when it should not be there.just use this code you can see the issue. (note you can put ani url in there or take out the webview and just put some content, it alway under the specifi minwidth)her is main.j

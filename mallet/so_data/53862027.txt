@@ -1,1 +1,1 @@
-VSCode, Electron, TypeScript, debugging Renderer process, Setting skipfiles?
+i have start to creat an electron app use typescript, in vs code. after lot of reconfiguring, i have been abl to get the debug work except for the skipfil for the render process.how can i configur the debugg to skip over the code file that are not my code?thi is my current launch.json file.th skipfil work for the main process but i still end up in random code when debug the render process. ani suggest would be appreciated.

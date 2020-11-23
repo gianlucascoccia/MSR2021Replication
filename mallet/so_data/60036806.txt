@@ -1,1 +1,1 @@
-How to implement Google Analytics for an electron based windows app using universal-analytics?
+i want to implement googl analyt on my window app which is primarili built use electron base front-end and java spring-boot base back-end. i was not abl to find suitabl solut for the same online.

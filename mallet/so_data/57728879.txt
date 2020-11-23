@@ -1,1 +1,1 @@
-how make electron executable file read a [json] file from the same build directory
+after build my electron app and run the electron.ex i want my app to read a config.json file befor load as the veri first thing. at this point i do not know:how to generat that file when buld my electron apphow make my app read config.json file first thing in load and how to debug the electron execut file. i would apprici your help.

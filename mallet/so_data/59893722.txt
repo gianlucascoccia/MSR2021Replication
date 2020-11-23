@@ -1,1 +1,1 @@
-How do i build an Electron App also serves and runs on a network
+im new to electron but i was abl to pull of a react + redux (with persist) app on electron and was abl to get it to work, build and install. however, i have an issue...i am work on a project: the app is suppos to instal and then act as a server so that i can reach it on a port on the network over wifi after it has been installed. i have this to start up the server on devthi work on develop perfect but i need it to work on the product as well. ani ideas?

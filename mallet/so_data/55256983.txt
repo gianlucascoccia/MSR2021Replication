@@ -1,1 +1,1 @@
-Touchpad Pinch to zoom not working in Electron (MacOS)
+i am show web content in a browserview in electron, and look to allow pinch to zoom. i'v tri the follow that didn't work:but noth that i'v tri can enabl the user to zoom.on thing confus me is that in tri to search for the answer, everybodi seem to have the opposit problem:dis zoom (both pinch zoom and smart zoom [mac]) in electronhttps://github.com/electron/electron/issues/8793so i'm wonder did someth change?i am on electron 4.0.6, node v11.12.0.

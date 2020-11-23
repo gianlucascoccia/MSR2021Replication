@@ -1,1 +1,1 @@
-Node Webkit - Fire Event from iframe to the app
+i'm tri to make a mini kiosk browser (fullscreen, minimum option, etc) use nodewebkit.th kiosk browser is strutur like this :the problem is, onc the ifram is load and display (100% width and height) the event are fire in this ifram and not in my app.i'v tri sever thing use the document but i didn't realli understand how to make thing work the way i want.so ani help would be great ! thanks.

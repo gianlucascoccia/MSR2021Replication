@@ -1,1 +1,1 @@
-how to unit test components in main process of an electron app?
+i have an electron app with the follow folder structure:it say it couldn't find clipboard module. i guess the test need to be run from insid electron.how do i test this? i tri use electron-mocha, but it seem to have problem with async modul that nedb uses. none of the call like insert, update, etc work in test environment, but they work fine when i bring up my app.am i miss anyth here?

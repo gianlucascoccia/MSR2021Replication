@@ -1,1 +1,1 @@
-NSIS build does not install the Electron application on Windows. The installer exits silently and produces a 1620 error
+i'm build an electron app use electron-builder. the build process produc a setup.ex file, but when i launch the setup process, the instal get to around 50% complet and then exits.th onli file that is in the instal directory,i expect that the result of run the instal would be that the applic is instal in the default locat or that there would be a more help error message, but i can't seem to find the right combo of option to make this work.

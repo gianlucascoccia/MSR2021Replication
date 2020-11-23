@@ -1,1 +1,1 @@
-Choose which popups should be allowed from webview in electron app
+i'm not use allowpopup properti to allow open popup from webview in electron app, instead i'm handl new-window on per case basis.her is my event handlera you can see if event that trigger this handler has url of dropbox (for example) i want electron to allow open that window as intended.if that is not the case, i should open that url in the electron app.... but this doesn't work, when dropbox url is used, i get nothing. ani advic on what i'm do wrong?thank

@@ -1,1 +1,1 @@
-Uncaught TypeError: document.getElementById(...).addEventHandler is not a function
+i'm code an electron sampl app, and i want the consol to log "start clicked!" whenev i click the start timer button. instead, i get the follow error in the console:uncaught typeerror: document.getelementbyid(...).addeventhandl is not a function.her is my renderer.j code:al help is appreciated, thank you!

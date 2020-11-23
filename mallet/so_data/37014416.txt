@@ -1,1 +1,1 @@
-clearing canvas in html not refreshing without scroll in electron
+my problem is simple, i'v made a draw board in html canvas. everyth work ok, except when i want to cleat the whole canvas.i'm use this function i found that this issu onli happen in electron

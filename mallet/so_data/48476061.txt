@@ -1,1 +1,1 @@
-Electron and TypeScript: 'fs' can't be resolved
+i'm tri to creat my first electron app. i'v decid to use follow tools/technologies:typescriptwebpack (version 3)reactloc environ is os x high sierra.th problem is that i can't even build my app and i get error on build with webpack: "reinstal of node modul doesn't help.

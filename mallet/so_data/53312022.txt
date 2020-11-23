@@ -1,1 +1,1 @@
-How to let react electron ignore undefined error?
+react electron on windows, if .if this can't be resolved, can i print the error on the web view? so i don't have to remot visit the user comput to see the consol error.

@@ -1,1 +1,1 @@
-Electron - Call function from view
+hello i am new in electron and i am face a problem, i want to execut a command on click button for that i am use a child_process of node. i have written a code for app.on('ready') and it work fine. but i need it on click below is my code pleas help..a i am hit an api on click of login button and get respons &amp; i want to call that function too on same click or true response..ani idea..thank in advanc :)

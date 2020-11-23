@@ -1,1 +1,1 @@
-ElectronJS: how to manipulate cookies from rendered Process(browser window)?
+i am abl to creat persist cooki from main process (app.js)code: is undefined.pleas suggest what should i do to save persist data in the browser.

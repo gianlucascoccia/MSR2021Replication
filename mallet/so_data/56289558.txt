@@ -1,1 +1,1 @@
-Electron window will not minimise or close
+i am build an electron app with the use of eel as well, although i am not sure that is relev here. i recent came back to this project, and i'm sure it was work before. everyth work except for the minimis and close button which are custom ones.her is the html), but those error are also in the electron-quick-start main.j so i'm quit confused.

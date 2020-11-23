@@ -1,1 +1,1 @@
-Electron setSize method and ReactJS
+i remov frame from electron and ad custom button for collapsing, close and maximizing/minimizing.collaps and close work fine, but minimize/maxim make blink and return to fullscreen

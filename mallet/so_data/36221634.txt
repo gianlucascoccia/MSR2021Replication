@@ -1,1 +1,1 @@
-How to serve static files from an asar archive
+i am tri to build an electron app with a server compon use express for remot control.th express modul initi withth elecron doc mention that the current work directori cannot be set to a folder in the asar archive. this is confirm by the error messag indic the file is be tri to be read from app/asset below the root folder of the installation.how can i tell express to read the file from the asar archive? and how can i do this so that i can develop with an explod archiv and deploy with a built archive?

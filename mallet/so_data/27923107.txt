@@ -1,1 +1,1 @@
-Node webkit: How to open external link with system default browser in MAC
+in window i was use these linesit work properly. the same piec of code is not work in mac. what am i miss here? i dont want to creat ani file and write command in it (batch file, which is usual call a shell script.). is there a way without creat batch file and run these command in mac?

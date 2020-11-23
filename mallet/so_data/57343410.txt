@@ -1,1 +1,1 @@
-ElectronJS - Cannot read property 'on' of undefined
+electron output an error - cannot read properti on of undefined.tri remov electron global and local and reinstal but it still give the same errortermin cmd use to run electron - npm startindex.j

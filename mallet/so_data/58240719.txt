@@ -1,1 +1,1 @@
-require() and $ not defined in electron
+i ad a piec of code to add jqueri code in html file of electron app. but everi time when app start in debug consol section it show require() and $ is not defined. what is the solut of this problem ?imag of problem sectionhello world

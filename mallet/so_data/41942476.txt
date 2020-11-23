@@ -1,1 +1,1 @@
-NodeJs gaming screen recorder
+i use electronj and have develop a small screen recorder. now i had the idea that i could creat ingam video as well.th onli problem is that the window of the game remain black.i'm assum that somehow i need to get access to directx, opengl ... to do this.but how is this possible, or is there anoth way to record with nodejs, ingam videos?thank

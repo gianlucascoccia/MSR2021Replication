@@ -1,1 +1,1 @@
-Custom dependency require Electron
+with the , so that should work.

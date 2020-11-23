@@ -1,1 +1,1 @@
-Module version mismatch. Expected 43, got 14. while running node-imagemagick-native sample program
+i instal the node-imagemagick-n use command npm instal imagemagick-nativeth modul is success instal with the follow logbut got the follow error...pleas look into the issu and oblige.

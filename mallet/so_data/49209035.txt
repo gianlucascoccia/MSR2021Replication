@@ -1,1 +1,1 @@
-Alternative to passport js for electron
+can i use passport js to authent user in an electron app?i use passport js in my web applic and when i use the same code in my electron app i got lot of errors.i there ani altern to passport js in electron?

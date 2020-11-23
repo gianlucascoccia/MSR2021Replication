@@ -1,1 +1,1 @@
-How to create modeless dialog with electron?
+i want to creat a modeless dialog with electron, but i found noth about this topic in the offici documents. can anybodi help me?

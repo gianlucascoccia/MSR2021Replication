@@ -1,1 +1,1 @@
-what does web preference mean in electron js and why nodeIntegration is set to false default?
+i am follow the electron js doc : https://electronjs.org/docs/tutorial/first-appand it given there, by default ? where we should put it true and where we should put it false?thank for everyon answer and support

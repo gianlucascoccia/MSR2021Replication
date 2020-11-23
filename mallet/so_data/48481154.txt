@@ -1,1 +1,1 @@
-How to specify another disk for fs.readdir(path) in Electron-vue app?
+problem:i have a breadcrumb compon (i'm use file explor function from this project). the problem is i don't know how to chang the disk it displaying. when i click on ani path in it, i get this:

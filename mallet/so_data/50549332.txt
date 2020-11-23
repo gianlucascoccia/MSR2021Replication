@@ -1,1 +1,1 @@
-IpcMain and IpcRenderer call main.js function from index.html
+i am new to is not working... ani help will be appreciated. thank you in advance.

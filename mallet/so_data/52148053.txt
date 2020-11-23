@@ -1,1 +1,1 @@
-Getting CSS selector for Electron's web-frame
+is it possibl to get a css selector for iframe/fram that is assign to specifi web-frame?i know that it is possibl to get web-fram know the ifram selector (docs), but it is possibl to do the opposite? some code that illustr what i would like to achieve:

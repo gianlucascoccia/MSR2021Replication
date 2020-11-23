@@ -1,1 +1,1 @@
-How to make express routing work in electron
+this is my code: it take me to an empti page and noth is print to the consolewhat am i do wrong here?

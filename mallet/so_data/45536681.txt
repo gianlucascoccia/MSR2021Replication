@@ -1,1 +1,1 @@
-Authenticate Windows User in Electron App?
+i'm work on an app that will be deploy to a fleet of corpor window laptop that are bound to activ directory. part of the app would need to allow the user to access the compani intranet url. would it be at all to automat authent that user for their intranet without forc anoth login? they'v alreadi log into their ad account when log into the laptop so i want to avoid it if possible. i'v search and haven't been abl to find ani inform that cover this case.

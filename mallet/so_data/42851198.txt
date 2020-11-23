@@ -1,1 +1,1 @@
-How can I send a notification in electron?
+use electron / node.j for desktop application. tri to figur out how to produc a notif on the desktop. is it built into the electron api?

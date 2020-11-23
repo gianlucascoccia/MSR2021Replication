@@ -1,1 +1,1 @@
-Using multiple JS files in an Electron project
+i am make a basic electron app but i'm stuck on how to use multipl javascript file in my project. i have tag, but i want to have node function in it, so that wouldn't work. how would i do this?

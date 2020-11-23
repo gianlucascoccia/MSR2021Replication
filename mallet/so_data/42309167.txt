@@ -1,1 +1,1 @@
-Electron save as giving long server URL as title
+electron save as dialog is give me a long url as title.i seen this: how can i display a save as dialog in an electron app?.but it give me "item object destroyed".if it a post call how to pass data to the request.

@@ -1,1 +1,1 @@
-Display my toolbar (Node-Webkit) on mac
+i work on mac, i want to display toolbar for my program but i cant, howev i specifi in my package.json file to show it with this code :do you have a solut for this ?

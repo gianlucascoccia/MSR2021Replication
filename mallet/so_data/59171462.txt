@@ -1,1 +1,1 @@
-How to send get request to proxy by axios in electron app?
+i want to send request by proxy. but my request send from my ip to url not to proxi ip. my axio code is: my respons must be 206.189.45.191 but my respons is my own ip.

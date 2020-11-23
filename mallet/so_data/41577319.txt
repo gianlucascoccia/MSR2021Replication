@@ -1,1 +1,1 @@
-React - Uncaught TypeError: Cannot read property 'state' of > null
+i have the follow piec of code. it is basic just a button with an event handler, and the class is suppos to hold some state wich as of now is onli a counter, set to 0 initially.when i click the getnextsent button i get: sentenceview.js:14 uncaught typeerror: cannot read properti state of nulli am awar that this error is not uncommon, but i have not yet found ani solut on here.

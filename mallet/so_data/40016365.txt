@@ -1,1 +1,1 @@
-File gets copies with 0kb size using nodeJS
+i want to copi a file from a folder to anoth folder present in my pc use node.js. below is the code. file get transfer with 0kb. pleas suggest how to solv this?thank in advanc

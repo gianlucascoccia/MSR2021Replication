@@ -1,1 +1,1 @@
-On full page load, detect if is Electron
+in my app, i need to on full load, detect if is electron, then fire a custom event. how to achiev it?thank in advance.

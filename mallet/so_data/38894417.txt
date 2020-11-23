@@ -1,1 +1,1 @@
-Jasmine and importing a custom node module
+i'v been tri to use jasmin to test my code which has work fine until i need to test code that use a custom node addon. i'm requir the addon in the typic way, is there a way to tell jasmin where to find the requir modules?

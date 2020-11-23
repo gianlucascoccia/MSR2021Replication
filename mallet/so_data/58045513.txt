@@ -1,1 +1,1 @@
-How to quit application using command line arguments inside a Task
+i am use electron 5.0.0 and i am tri to use window jumplist and the task categori to quit my electron application.

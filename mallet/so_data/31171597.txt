@@ -1,1 +1,1 @@
-Atom Electron - Close the window with javascript
+i'm use with no luck, sadly. ani idea how to achiev this?

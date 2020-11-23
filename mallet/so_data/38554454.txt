@@ -1,1 +1,1 @@
-setInterval() stops repeating shortly after other process is started
+i have creat an app that track the launch and termin of program on the user comput and i have run into an issu where the function provid to as you can see, it detect that i launch atom, and show the notification, but onc the notif disappear the app termin (it may be to-do with the notif disappearing). doe anyon have ani ideas?

@@ -1,1 +1,1 @@
-How to get all images from a bunch of subdirectories with React/Electron/Node
+i'm build an app with electron forge. one of the thing i'm build at the moment requir me to includ about 140 imag in a directori with the follow structure:(i know, use requir and import - bad, was just test this out though)i'm not sure how or if it even achievable. thank in advance!

@@ -1,1 +1,1 @@
-How i get events in electron webcontents?
+i'm use electron application. use web content in browserview.can i get event in this webcont events?i just tri like thisbut i can't get.i want to handl event like how i get this events?

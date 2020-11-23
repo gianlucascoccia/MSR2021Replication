@@ -1,1 +1,1 @@
-Electron-compile not working
+i'm bit hesit to make this post, becaus i feel like i'm be veri stupid, but i would like to know what i'm do wrong. i have attempt to creat an electron app with electron-compile. however, it behav exact like a regular electron app, it doesn't compil anything, and it give no error in the terminal(it of cours give all kind of error in the dev tools), i have no clue what the problem is, and it realli quit aggrav sinc this is suppos to be a veri easi thing to use.

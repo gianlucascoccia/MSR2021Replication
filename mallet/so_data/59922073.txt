@@ -1,1 +1,1 @@
-How to get My Electron Auto updater to work?
+i'm tri to get my electron vue.j aplic to updat itself when i releas a new updat in my github repro.i'm pack my app use "electron-builder" and here is my package.jsoni was follow this guid but it didn't work. this is the code for the updat part which is locat at the top of the src/main/index.js.i am hope that you guy can help me

@@ -1,1 +1,1 @@
-IntelliJ IDEA Node-Webkit debug is not working
+i'm set up node-webkit up on idea and have found issu with debug - breakpoint just don't work.her is my code:index.htmlhtml outputhiwhich mean all script where execut and problem is within idea debug. what could be cause?

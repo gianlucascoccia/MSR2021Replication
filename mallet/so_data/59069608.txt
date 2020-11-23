@@ -1,1 +1,1 @@
-sqlite3 node js insert into multiple table
+in my application, i need to insert record in multipl tabl in an sqlite3 databas with electron and nodejs. i tri this: i want to display success if all record are inserted. if it generat an error in ani query, then the insert record (current inserted) need to be deleted.

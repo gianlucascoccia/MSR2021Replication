@@ -1,1 +1,1 @@
-Require node-opcua in electron freezes the electron instance
+electron freez when node-opcua is requir in index.html and a process call electron helper take up 100% of the cpu.i have encount the problem on maco 10.14.2, but a friend test in window 10 and that worked.from package.jsonwhen run the simpl code it should just print the opcua object in the console. but the complet electorn process freezes.

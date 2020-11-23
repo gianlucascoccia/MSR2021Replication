@@ -1,1 +1,1 @@
-How to get current electron window reference in angular component?
+i'm build and electron app (use angular 8). in a specif component, i want make the current window (not creat new) transpar (setopacity(0)). but i'm not abl to get the current electron window refer in angular component.i tri is there a way to get hold of the current window (not creat new one)?

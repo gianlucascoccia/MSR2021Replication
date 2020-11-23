@@ -1,1 +1,1 @@
-nwjs app javascript protection?
+so nwjs is a neat littl framework that enabl node app to run in desktop mode independ to platform. but the way i packag my file is pretti raw.i zip my node app directori into a .nw file, and i copi it to an exist nwjs app content folder. then this mean that anyon with some knowledg of nwjs will be abl to liter unzip the .nw file and dig through the app directory. wtf. is there a way to protect my file in my nwjs app?

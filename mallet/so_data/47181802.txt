@@ -1,1 +1,1 @@
-Display canvas in menubar electron OSX
+i have a simpl electron app which updat the traymenu everi x second with some text data, but now, i want to color the text (green/red) in the menubar.i found a solut to do it with a canva convert into a base64 image, but the text stay pixel (non-retina canvas).do you know how i can do that?canva imag (i can set differ color with this way but the text is not smooth) text onli (on white but the text is smooth): thank by advanceregard

@@ -1,1 +1,1 @@
-`knex` SQLITE_CANTOPEN error in production `electron` app
+i recent build the when it doesn't find a databas file on a specif path. ani solut or best practic to handl it properly?

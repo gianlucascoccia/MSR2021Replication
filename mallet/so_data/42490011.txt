@@ -1,1 +1,1 @@
-Mocha test setup to run two tests who require same beforeEach setup
+i'm test an electron app use spectron, use mocha to run the test suite.i'm tri to accomplish run two test that requir the same setup, so i'm use beforeeach to achiev the repeat setup code.th former test run success through as expected, but the second test bail out two earli with error message:

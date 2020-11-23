@@ -1,1 +1,1 @@
-$(...).jstree is not a function, using JSTree in Electron js
+i'm build an app in

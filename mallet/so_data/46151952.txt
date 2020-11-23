@@ -1,1 +1,1 @@
-How to build Meteor.js in an executable file?
+i need to build a meteor applic under windows. how to do it right?i found the meteor-electron package. if i understand correctly, it creat an execut file (exe).i perform the follow commands:and launch the team meteor --set settings.json. the result is the same.https://github.com/stekolschikovv/meteor-electron-build-testif i add the "appsrcdir" parameter: "./" - start an endless loop that all copi to the .meteor-electron folder.how to correct build an execut file meteor electron use windows?

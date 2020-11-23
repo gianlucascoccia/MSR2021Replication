@@ -1,1 +1,1 @@
-Looking for node-sqlite3 optimization methods
+i'm use sqlite3 wrapper for node to copi data from one db onto anoth while perform individu insert in each transact when attempt to insert 100k entri a temporari mydb-journ file is creat and updat as the queri runsth journal file keep get updat well after the code has finish execut in nodeelectron stop respond -> memori usag jump to ~ 1.59gb and ~120% cpu on a mac sierra 1.6ghz intel core i5 (8gb rams)ani idea how i can optim this process to avoid my electron app from crashing?

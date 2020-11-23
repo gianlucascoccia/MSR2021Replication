@@ -1,1 +1,1 @@
-How to mock ipcRenderer.on functions inside React functional components
+i am write an electron app, use react for the front-end and jest + react test librari for run tests. i have the follow simplifi code in a module: if yes, how would you go about achiev this?

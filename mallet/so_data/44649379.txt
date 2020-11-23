@@ -1,1 +1,1 @@
-Solution to access indexed database using Dexie from a server initialized in electron
+we are build a desktop applic use electron and react.w need to store the content for applic in the index databas in the electron application. the content is store as if it a client applic similar to a web page. our design contain a server which allow connect from other applic instal in differ ip addresses. the client connect to the server send data to the server and store the data in it local index storage. this store data should be allow for access by all the client connected.

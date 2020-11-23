@@ -1,1 +1,1 @@
-Launching Electron app from a standard web browser
+click a . how would this be intercept insid of electron when it launches?i have read some doc on what i think might be relev stuff: http://electron.atom.io/docs/v0.36.0/api/protocol/ howev as a frontend dev there some gap in my understand of how the overarch process works. ani help much appreciated!

@@ -1,1 +1,1 @@
-How to append values to the PATH environment variable in NodeJS?
+follow the answer suggest in the question -is it possibl to perman set environ variables? i was abl to set new environ variabl perman with the command - but now my goal is to append new valu to the path environ variable.i it possible?

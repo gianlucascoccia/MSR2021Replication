@@ -1,1 +1,1 @@
-NW.JS - How to use chrome.desktopCapture to just save a PNG screenshot of user's desktop?
+i am use nw.js with the latest chrome app api capabilities.in my app, i need to take a screenshot the user desktop to a png file so i can sampl color from that save image.i notic a chrome.desktopcaptur function in the chrome api but all the sampl i tri for that were to captur and stream one desktop over the network and not mere save an imag of the desktop. is there ani way to do it with this api or ani other function in the chrome api?

@@ -1,1 +1,1 @@
-Is it possible to catch exceptions of renderer processes in electrons main process?
+i'm use electron quick start projekt (commit dbef48ee7d072a38724ecfa57601e39d36e9714e) to test exceptions.in

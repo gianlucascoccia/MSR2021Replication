@@ -1,1 +1,1 @@
-nw.js html5 application cache max size (node-webkit)
+i'm in the process of plan an offlin music player with nw.js.im go to want to cach gb of data for offlin use within nw.js. what the max size of nj.js applic cache?

@@ -1,1 +1,1 @@
-Electron open external web url
+i am tri to creat a desktop app use electron but i am unabl to load ani extern url like google.com or anything. when i am use this code insid index.html:mi question is can i open ani url insid atom if yes then will that work when i make it as a desktop app or android app

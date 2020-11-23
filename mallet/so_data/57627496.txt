@@ -1,1 +1,1 @@
-How can we Remove the AppData of an electron msi Application when we uninstall it ?(using electron-builder)
+i have creat an electron applic and packag it use , i instal the msi instal then after uninstal the applic the app data is not get deleted. are there ani flag i need to add in build configur for msi to remov appdata.expected: appdata should be remov after uninstal the application.

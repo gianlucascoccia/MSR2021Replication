@@ -1,1 +1,1 @@
-Node Webkit - Finding standard directories
+is it possibl to find standard directori like program file or window and their linux and mac equival in node webkit?

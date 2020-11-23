@@ -1,1 +1,1 @@
-Not getting entered data from input element
+this is js app in electron framework. i am tri to get the updat text enter insid text box as shown in imag but i am not abl to retriev ani data. i have ensur that data is submitted. i have predefin data in a file ,initally, i have this valu but onform submit, i modifi those values.

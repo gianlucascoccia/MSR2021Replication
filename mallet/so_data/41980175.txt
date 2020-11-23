@@ -1,1 +1,1 @@
-Error in electron-rebuild serialport on Windows
+i am develop a project with electron and serialport. the serialport librari doesn't work automatically. search in the readme.md, i figur out that is need to recompil the librari for the nodej version of electron, use the electron-rebuild library. (insert this script in the package.json: how can i compil this library?thank in advance!

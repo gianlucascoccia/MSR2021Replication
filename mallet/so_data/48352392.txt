@@ -1,1 +1,1 @@
-How to execute node.js protoype function from html?
+i have a program that will work to start a motion sensor when run the file from the command line, but when i tri to call the function from html, it recogn the prototyp as undefin and will not execute.her is the full code:dev tool say sensor is undefined. how do i run sensor.watch(callback) from html?thanks!

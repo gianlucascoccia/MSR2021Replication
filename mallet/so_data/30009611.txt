@@ -1,1 +1,1 @@
-Can Visual Studio Code be configured to launch electron
+sinc visual studio code was creat use electron, i'm guess that launch.json might be configur to proper launch an app use electron. but i'v not figur out how to do it yet.also sinc electron is base on io.js, itself base on node.js, i'm think maybe... it can be done, but haven't found the magic yet.tri someth along these lines... snippet from launch.json:it doe start electron, but fail (window vanish too fast to see exact why).ani thoughts?

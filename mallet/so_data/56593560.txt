@@ -1,1 +1,1 @@
-Why are files copied from Asar readonly?
+i have an electron app, and when i build it for distribution, the actual app code and build folder are on app.asar file. dure the app runtime, i have to copi certain file from the app.asar onto the user computer, wherev the user chooses, and modifi with the code.th problem is that whenev the file is copied, it becom readonly, and thus i can not write to it. ani way to handl this?

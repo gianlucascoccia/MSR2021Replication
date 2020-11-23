@@ -1,1 +1,1 @@
-How to remove top menu button in electron main window
+i have app run under electron framework. i see menu is ad on top of application. this is not needed. i have attach an image. i tri modifi main.ts. but noth work out.

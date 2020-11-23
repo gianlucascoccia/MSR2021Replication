@@ -1,1 +1,1 @@
-fail to install electron in ubuntu
+i follow the command ', but still doen't work?anyon seen the problem before? solved:at last i found you can instal it direct without root or sudo

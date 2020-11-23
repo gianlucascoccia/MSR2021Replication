@@ -1,1 +1,1 @@
-Nodejs, Electron, how to add a scrollbar?
+i was wonder how i could add a scrollbar to my electron applic for both window and mac horizont and vertic as some of my user are have an issu see the full applic as they have small screens.

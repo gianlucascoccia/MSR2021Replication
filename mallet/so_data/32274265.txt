@@ -1,1 +1,1 @@
-Print from an Electron application
+i'm tri to use node printer from an electron application, but as soon i add the line to use the printer, the app crashes.th consol output this:am i miss something?i tri the node printer on it own, and i success print some gibberish text.

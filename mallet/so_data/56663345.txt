@@ -1,1 +1,1 @@
-can i use Sqlite Encryption Extension(or sqlcipher) on Electron app? (windows 10)
+i made window app by use electron and i use sqlite3 on my app.but now i need databas encryption, so i tri to find way to encrypt db but i failed...i it possibl to use sqlite encrypt extension(see) or sqlcipher on electron app?i want to publish my electron app, so db encrypt function must be possibl on public computer(window os) not just on my computer(window os).i triedbut db file wasn't encrypted..

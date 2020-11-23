@@ -1,1 +1,1 @@
-Long frame jank with Electron
+made an electron app run on ubuntu with reactj and redux, encount the ui jank that shown in timelin of attach pic. the jank alway occur when xhr got respons and handl (or the same time that dispatch action to re-rend react ui), add "componentshouldupdate" check the long frame is still there.raw timelin data might be helpful.ani possibl reason for the case is help sinc i have been search the issu for a week. thank in advance.

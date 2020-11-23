@@ -1,1 +1,1 @@
-Issue when opening Electron application on Mac - "the git command requires command line developer tools."
+solv the systeminform packag run sever shell command - git be one of them. i modifi the sourc to prevent those command from running, as i didn't need them. the app run fine without ani prompt noworigin question i have built my electron applic on window and mac use electron builder. the , includ these depend and got no prompt message. someth in the code is trigger this most likely?se a screenshot of the prompt:

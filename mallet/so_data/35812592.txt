@@ -1,1 +1,1 @@
-Electron require ipcRenderer not working
+i am tri to do a simpl ipc.send and ipc.on but for some reason i am get undefin on this electron require.libs/custom-menu.js:th error is cannot read properti send of undefined.

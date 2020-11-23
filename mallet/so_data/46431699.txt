@@ -1,1 +1,1 @@
-Visual Studio Code unable to debug Electron
+i am use electron on visual studio code on window 8. i am new to electron.i use the electron-quick-start which work in visual studio code when run it with the vs code terminal. but when i tri to debug the code i get the follow error:what have i to do to can debug this code in visual studio code

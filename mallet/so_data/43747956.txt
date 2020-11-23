@@ -1,1 +1,1 @@
-Raw HTML passed with dangerouslySetInnerHTML React & Electron "lowercased"
+i'm stumbl through a bit of react w/ electron that use react-photonkit which is ad some headwind. i'm tri to creat a dynam horizont menu in the photon it appear the render html is all lowercas which break the photon integration. if anyon has ani thought on how i might address this i'd appreci some help.mani thanks.

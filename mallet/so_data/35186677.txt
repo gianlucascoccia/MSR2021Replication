@@ -1,1 +1,1 @@
-Multiple instances of Node Webkit (nwjs) shares cookies
+i have two nwjs app run in differ nwjs executables. but cooki for both app are store in the same folder ? how to store cooki for each app separately?

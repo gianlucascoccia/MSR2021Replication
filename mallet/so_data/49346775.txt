@@ -1,1 +1,1 @@
-Electron .ipcRenderer fires twice
+i'm creat (for the first time) a small mac onli app use electron.i am tri to use ipcrender to communic between my app menu and the content in the main browserwindow.i have the menu set up as follow to send the messag select-active':th problem i have is that everi time the menu command is select the messag is log twice in the console. where am i go wrong?

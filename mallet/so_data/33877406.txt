@@ -1,1 +1,1 @@
-Maximize nw.js window from protractor doesn't work
+i want to maximis the window from protractor. i am test a nw.js app.i ad the below line in onprepar statement in protractor-conf.js, but noth workedi there a way to resolv this ?i am test this on ubuntu.

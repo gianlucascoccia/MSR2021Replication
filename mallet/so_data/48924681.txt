@@ -1,1 +1,1 @@
-Electron.js - Suggestions for a Shared Local Database
+i'm think of creat an electron app for my custom (a veri small business), and all they have is a network drive (nas) for me. so i'm tri to figur out a way for them to share my electron app data local (sinc run a server isn't realli an option, let alon a database.)right now i'm think to save the data on the network drive so everyon can share it, but json format isn't realli ideal for my data model. is there ani way i can have some sort of relat databas system on their network (or within the app)?ani suggestions?

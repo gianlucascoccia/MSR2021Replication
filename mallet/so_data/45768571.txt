@@ -1,1 +1,1 @@
-why console window is opening at a side on my exported electron package
+browser consol window is get open as seen below - pleas guid how can i get rid of this window, i dont want it to be opened.

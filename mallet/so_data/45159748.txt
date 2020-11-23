@@ -1,1 +1,1 @@
-How to get the list of all the printers installed/connected printers in Node.Js
+i am creat a desktop applic in node.j use electron framework and want to get the list of all the printer installed/connect in node.js.i had alreadi tri node-print but it is not instal properly.

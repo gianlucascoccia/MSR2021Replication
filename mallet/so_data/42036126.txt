@@ -1,1 +1,1 @@
-How to capture entire WebContent inside CurrentWindow
+i have a realli long page insid a window (need to scroll to view all), when i tri to captur the entir window use the code below, i get a squeez imag instead of full webcont screenshot insid the currentwindow.https://github.com/electron/electron/blob/master/docs/api/browser-window.md#wincapturepagerect-callback which is the correct size of the webcont in the currentwindow.

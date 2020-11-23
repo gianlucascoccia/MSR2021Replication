@@ -1,1 +1,1 @@
-Take a screenshot using Javascript without libraries
+i wanna build an electron project that will be use to take screenshot and save them. but the main problem is that i don't know how to do this use javascript. i have found a coupl of answer but they all includ some librari (most html2canvas). so could you give the work code to take screenshot use javascript with no library?

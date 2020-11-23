@@ -1,1 +1,1 @@
-Templating in Electron?
+simpl question here, but i found no use resource. is templat possibl in electron? use jade or handlebar to display dynam templates? i know there is .loadurl() that take a static html file.i dynam possible?thanks.

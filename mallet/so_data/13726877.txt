@@ -1,1 +1,1 @@
-target node-webkit browser using jquery
+i have a node-webkit app and am wonder if there is a way to target just node-webkit specifically? i need to run some function onli if the client browser is node-webkit.thank

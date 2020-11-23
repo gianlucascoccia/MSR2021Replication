@@ -1,1 +1,1 @@
-How to 'open file with' electron.js app?
+if the user right-click on a txt file he should me abl to choos my app and the app should open the file.mi question is, how do i identifi if the user has open the app with a file and where is the file store in the app? in java, extern paramet are store in args[], doe electron have someth like that?

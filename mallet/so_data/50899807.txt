@@ -1,1 +1,1 @@
-Is Chromium Local Storage an alternative to node-keytar in electron?
+i'v to save user password on my electron app. https://github.com/atom/node-keytar is the best choic and it work well on mac. but, a bulk of my user base is on windows. keytar on window is buggi and sometim even insecur https://github.com/atom/node-keytar/issues/88. so, i'm consid use chromium local storag (within electron) to store the password - perhaps, salted/hashed.i search much of the relev internet; no one has a blog/suggestion/so post on this. what am i missing?

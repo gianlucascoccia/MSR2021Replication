@@ -1,1 +1,1 @@
-How do you fix "self signed certificate in certificate chain" error with Node.js?
+i current have an applic that run partial on node.js/electron (backend) and react (frontend). i am abl to run these separ but the full project has to util both. usually, the javascript code for the backend heavili util

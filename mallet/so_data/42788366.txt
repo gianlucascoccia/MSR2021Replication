@@ -1,1 +1,1 @@
-Reference error: document is not defined at compile / Electron
+i'm tri to make an electron app, but a javascript error occur in the main process. basic i get this error after

@@ -1,1 +1,1 @@
-How To Prevent More Than One showOpenDialog Window In Electron
+i am call simpl showopendialog system dialog in electron when button click in render window.th issu is that new is alreadi opened, it should block the call render process window until the dialog popup is closed. similar behavior alreadi have dialog.showmessagebox

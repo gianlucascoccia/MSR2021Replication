@@ -1,1 +1,1 @@
-How do I move a frameless window in Electron without using -webkit-app-region
+i'v been tri to move a frameless window on fals but now i want to move the whole window just by drag one element (the titl bar), i'v tri but it doesn't seem to work, i'v also tri https://www.npmjs.com/package/electron-drag but it does't work either.

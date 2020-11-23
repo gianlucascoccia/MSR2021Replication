@@ -1,1 +1,1 @@
-Connection mysql credentials ElectronJs
+i am current use mysql in my electron application, so i start to verifi the .asar file when i compil it, i could see that all the applic code is shown, so i think the mysql connect would be veri vulnerable, there is some way to correct this?image:

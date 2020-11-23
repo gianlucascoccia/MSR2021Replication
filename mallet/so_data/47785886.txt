@@ -1,1 +1,1 @@
-Different Browser Window should have different menu option in electron js
+i need the 2 browser window one is main window and other one is child window i want to set the child window - menu that menu should not reflect on the main window .

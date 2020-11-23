@@ -1,1 +1,1 @@
-Would I be able to give access to specific electron APIs safely?
+so i need to find a way to creat custom window titlebar button that i can add function to safe without enabl nodeintegr in electron. i was think the preload might be what i need but i'm not sure how this work or if it would work for this.sinc i'm creat custom window button with html, css and javascript, i need these methods:would i be abl to use the preload option with nodeintegr disabl to access these method to add function to my custom buttons? if so, how? would it be safe this way?

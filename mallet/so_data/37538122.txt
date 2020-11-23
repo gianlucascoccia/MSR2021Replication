@@ -1,1 +1,1 @@
-ElectronJs: app.quit is crashing the application
+tasktermin the applic when all the window are close or the main window is closed.problemappl crash when the

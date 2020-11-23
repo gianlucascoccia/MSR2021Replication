@@ -1,1 +1,1 @@
-How to handle database queries in Electron app (with react-redux)?
+i'm build an electron app use react and redux that connect to an sqlite database. i am use knexj for queri the database.curr in my app, i'm use ipc for communic between render process and main process.i it a good practic to send a request for each request? how should i structur databas access in main process?

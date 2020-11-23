@@ -1,1 +1,1 @@
-Serving Electron renderer process over HTTP and using require
+i'm tri to make a mobil version of my electron app by serv the html and render javascript file over a http server start from the main process.mi render process javascript make heavi use of require's. they work fine insid electron. outsid of electron, they don't becaus on a non-electron page?

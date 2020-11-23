@@ -1,1 +1,1 @@
-Cannot open video with cv::VideoCapture in nodejs native module in Electron app
+i'm write an electron-vu applic on ubuntu 18.04 where the main routin involv call some method insid a c++ librari i wrote that use cv::videocaptur for process a given video frame by frame.th librari is compil as a static librari and i wrote a nativ nodej modul to call the methods, the modul is compil use cmake-js.i found out that cv::videocaptur cannot open a video given it absolut path: call the

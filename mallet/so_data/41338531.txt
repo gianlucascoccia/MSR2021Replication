@@ -1,1 +1,1 @@
-Desktop app screen turns white with electron+angular2?
+i made a desktop applic by angular2 and electron.ther is no problem usually,but sometimes,th screen will turn white,and consol show &#xd;&#xd;&#xd;

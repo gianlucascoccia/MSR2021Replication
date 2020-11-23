@@ -1,1 +1,1 @@
-Debugging Electron renderer process with VSCode
+i tri this document, but hit a problem.i went through the guid one by one and it is all fine until "1. updat the content of renderer.j to" in "debug of the render process" section.but when i tri "2. while your debug session is....", vscode show the imag like below and i cannot attach the debugg to the electron process.th list in the imag show the tab of my browser but there no option correspond to the electron process launch by the main debugger.how do i solv this issue?

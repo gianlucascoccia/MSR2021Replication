@@ -1,1 +1,1 @@
-how to change screen size from the webview itself?
+i have a function that is be call onc the user hover the window. is it possibl to chang the width of the window? this is my function:

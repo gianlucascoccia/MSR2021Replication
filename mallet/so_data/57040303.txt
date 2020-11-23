@@ -1,1 +1,1 @@
-Electron with Angular, new file is not updated in app.asar bag from app.asar.unpacked folder
+in electron js, when ever updat the json file insid the folder .ani idea how we can do this?

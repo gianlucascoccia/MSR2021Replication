@@ -1,1 +1,1 @@
-Interpreting Error Code -102 Nightmare.js Scraping
+i'm just get start with nightmare.js. i'm build off of their demo, which target duckduckgo.com and work beautifully. i set my sight on imdb.com and got . . .mi question are 1) whether or not this came up becaus imdb.com knew it was be scrape or some other reason and 2) is it a nightmar thing, a node.j thing, or an electron thing? i'v tri googl about for the specif code and gotten veri nonspecif answers. ani thoughts?

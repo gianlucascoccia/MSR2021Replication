@@ -1,1 +1,1 @@
-Images Rendered to Canvas in Node Webkit are Blurry
+when i tri to load an imag in my node webkit app with the follow code:how can i make my imag load properly? i have tri ad the imag to as a web access resourc in my package.json file, but this did not help.

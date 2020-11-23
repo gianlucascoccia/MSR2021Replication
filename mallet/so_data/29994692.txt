@@ -1,1 +1,1 @@
-merged PDFs are showing as "in use" by WebKit when I try to delete them
+i am merg multipl pdfs into one pdf use node, itextsharp, and edge. everyth is work until i tri to delet the origin pdfs. they are "in use" by webkit. if i close nw they are releas of course. i can run the same code but use a consol app and the file can be delet immediately. ani ideas?

@@ -1,1 +1,1 @@
-How to call Window.print() on a popup window in NWJS?
+in nwjs, i would like to open a popup window with a local file url to a pdf and then print the pdf right away (on windows). i tri do this:ani ideas?

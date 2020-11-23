@@ -1,1 +1,1 @@
-Electron-builder release tries to publish to Github and complains about GH_Token
+run the ani idea what go on or if i'm do it wrong?!,m

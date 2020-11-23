@@ -1,1 +1,1 @@
-Drag and drop .webloc (browser url) file into electron app or react component
+doe anybodi know a way to enabl the function of be abl to drag a .webloc file from the browser into an electron app or react component?

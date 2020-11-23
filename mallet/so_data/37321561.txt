@@ -1,1 +1,1 @@
-Electron, internal packages and testing
+i m actual build an applic use electron and i m have some troubl deal with packag that are built in electron.i have a test that look like follow use chai mocha an:in fact, i can require('remote') insid of my app, the one run on the browser, but not in my test. and i don't know how to do make it access insid of my test file.can you help me ?edit : the same thing happen when i tri to use web api such as notif or webspeechrecognition. ani idea ?

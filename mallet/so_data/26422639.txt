@@ -1,1 +1,1 @@
-bluebird - promise chain return unexpected "true" value
+i'm write an atom-shel app use reactjs. therefor i wrote

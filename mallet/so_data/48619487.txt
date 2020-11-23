@@ -1,1 +1,1 @@
-Fetch API cannot load in Electron
+i have an electron app set through the react cli. it seem to work fine but when i tri and do an extern http request though:

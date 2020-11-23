@@ -1,1 +1,1 @@
-Nightmare iterating inside loop
+i have follow code:i am rug this insid electron app. howev this execut async and i am get instant output in consol (0, 1,2,3,4,5,6,7,8,9) and nightmar open all 10 window at same time!how to execut follow code synchorous? i'd like to get follow result:do while counter &lt; value(e.g. 10)1) counter = 02) nighmar work3) nightmar end, counter++1) counter = 12) nightmar work3) nightmar end, counter++e.t.c.

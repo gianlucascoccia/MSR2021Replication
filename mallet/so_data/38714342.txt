@@ -1,1 +1,1 @@
-How to traverse all files, and support pause and continue
+i have creat a nodej (electron) code for read all the file in a specif directori and subdirectories.i don't want to use too much hd resources, that whi i use a delay of 5ms between folders.now my question. i want the if my node process stop? i want to be abl to continu from when it is stopped. how should i do that?in other words: how to keep index of current state while walk in all file and folder, so i can continu the travers from when it has stopped.thank youmi code:

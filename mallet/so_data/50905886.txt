@@ -1,1 +1,1 @@
-I am trying to turn my electron app to windows portable
+i have search a lot, but noth realli help to build my app as portable. no mater what i do alway the result is a nsis.it follow the package.json:i there ani good guid to follow?

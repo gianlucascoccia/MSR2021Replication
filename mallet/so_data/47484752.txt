@@ -1,1 +1,1 @@
-cannot include a user module in electron (node js)
+file structureimport the user modul connection.jsconnection.jserrorthi app is base on electron everyth is work fine apart from the fact that i cannot requir a self creat module. it is work fine in the same file just cannot requir it externally. i think the render somehow cannot find the module.i have tri set app to var app = electron.appand, i have also tri remot but that was a bit defi logic however, it didn't work serious fed up!!!!!!

@@ -1,1 +1,1 @@
-Select Text & highlight selection or get selection value (React)
+i have a react applic which display some spans:i would like the user to select the text with the mous like so ..and then get the select value, or highlight the text etc.how would i do this in react? i am not sure what event handler to use and how to get hold of the current selection! a minim exampl or a hint would be appreciated!

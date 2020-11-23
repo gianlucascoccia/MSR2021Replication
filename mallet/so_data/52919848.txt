@@ -1,1 +1,1 @@
-electron-compile not playing nice with Electron v3.0.5/Chrome 66 due to .scss files
+updat to the latest version of electron (3.0.5) seem to break electron-compile.styl are no longer load and the dev tool consol display this warning:how do i overcom this and still use electron-compile?

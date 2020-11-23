@@ -1,1 +1,1 @@
-Pass class as parameter to nightmare evaluate
+pass

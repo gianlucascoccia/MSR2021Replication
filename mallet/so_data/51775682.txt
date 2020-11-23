@@ -1,1 +1,1 @@
-How to catch error while using fork child process in node?
+i am use the fork method to spawn a child process in my electron app, my code look like thisbut my child process exit immedi with exit code 1 and signal, is there a way i can catch this error? when i use childprocess.exec method i can catch use stdout.on('error'... is there a similar thing for fork method? if not ani suggest on how i can work around this?

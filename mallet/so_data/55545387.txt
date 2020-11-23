@@ -1,1 +1,1 @@
-User navigating to site in game client gets HTML response from an unknown site
+i have an html5 game built with nw.js that make a get request to my websit to retriev a static data file, again, there is no chanc that this is be serv from my site. could the user be affect by malware? they said they didn't mess with ani configur file in windows, but i have my doubts. i check their request headers, and everyth look complet normal.

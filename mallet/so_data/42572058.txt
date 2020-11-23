@@ -1,1 +1,1 @@
-Waiting for resources in Electron
+in phantomj we can wait for resourc to do someth relat to ajax call of webpage, but in electron i could not notic such thing, so i want to know is there anyth that can help me to handl ajax call in electron.i there method like from casperjsthank in advance!

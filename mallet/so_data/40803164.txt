@@ -1,1 +1,1 @@
-Cannot get windows 10 assigned access work with Electron-Windows-Store
+i have creat an electron app distribut as window store applic by use packag i'm abl to launch it and use it without ani problem, but when i tri to setup an assign access for a standard user with the same app the applic fail to startup.syntom are the same that are state in this other stackoverflow question, but the answer doe not appli to my case, becaus the generat packag is 64-bit.i'm not abl to find ani other clue about the reason whi it fails, so i don't know what wrong.

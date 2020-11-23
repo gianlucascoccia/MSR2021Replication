@@ -1,1 +1,1 @@
-convert angular 4 application to desktop application using electron
+i have develop applic use angular 4. i need to develop desktop applic for this web applic . from my initi research i got the best solut is electron. ani one pleas suggest the step to convert angular 4 applic to electron?pleas suggest!!!

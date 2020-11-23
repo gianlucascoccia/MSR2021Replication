@@ -1,1 +1,1 @@
-How to detect HDMI device is connected with Node JS?
+we requir hdmi info in nodej and electron. if ani hdmi is connect with system then we have to do some specif task with the electron application.

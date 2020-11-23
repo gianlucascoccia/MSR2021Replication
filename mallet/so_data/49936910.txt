@@ -1,1 +1,1 @@
-Unable to run Electron Quick Start in WSL
+hi i'm run ubuntu 16.04.3 lts on window subsystem linux. i'm tri to run the quick start first app as list in this section here https://electronjs.org/docs/tutorial/first-app however, i keep get the same error no matter if i clone the repository, write it myself, or delet and reinstal the electron module.for refer i'm run node: 9.11.1npm: 5.8.0

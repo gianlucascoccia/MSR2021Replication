@@ -1,1 +1,1 @@
-What are the risks of storing credentials in Electron renderer's localStorage?
+i have an electron app, with one browserwindow. this browserwindow load a local index.html ( link to the outsid world), but doesn't load ani remot javascript.i implement the offici electron secur guidelines, except number 3 "enabl context isol for remot content". i also ad number 3, after rupp comment.

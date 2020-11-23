@@ -1,1 +1,1 @@
-Electron - Necessary to have files within Electron package?
+i'v instal electron and built a small tool use it. but i find it bothersom that my file are insid the electron package, i.e. electron.app/contents/macos/electron path-to-your-app'i it possibl to have my work file elsewhere? would an alia work?

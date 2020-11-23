@@ -1,1 +1,1 @@
-SQLite 3 & Electron 1.4 on Mac OSX
+i'v been develop my own electron app without ani problem. i'v use sqlite3 to stock some data for my app.but the problem is, that when i build my app, the applic can't load the database.how am i suppos to get sqlite3 work outsid of the dev environment?her is my build command: edit: my workaround is down below :)

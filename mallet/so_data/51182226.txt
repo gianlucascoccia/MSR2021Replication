@@ -1,1 +1,1 @@
-electron-builder is not bundling the python files
+this is my directori structur where ps:this is the electron-build i am talk abouthttps://github.com/electron-userland/electron-build

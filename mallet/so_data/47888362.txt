@@ -1,1 +1,1 @@
-Array Binding with Electronjs/SerialPort & React/Redux
+i'm struggl sinc few day with a reducers, even if after the action the state seem right, react compon doe not update...i have tri mani ways, with or without spread oper (use object.assign())from my understanding, is might be miss someth becaus of the callback that list devices, guess i'm not manag well how i should updat the ui.ani idea or advis ?

@@ -1,1 +1,1 @@
-electron toggleDevTools() method is undefine
+in my electron code i want to open window with browser develop tool when the window is load for that is i call toggledevtools(); on load but it show toggledevtools() is undefined.what is the solut pleas help !

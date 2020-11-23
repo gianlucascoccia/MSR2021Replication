@@ -1,1 +1,1 @@
-Angular 6: How to access API of Electron <webview> Element?
+current use the awesom angular electron boilerplate. let say i want to access the api of electron webview component. i have current creat follow sampl component:but i get a type error: cannot read properti opendevtool of undefined. so what am i do wrong? is this approach even a good practice?

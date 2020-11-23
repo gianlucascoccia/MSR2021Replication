@@ -1,1 +1,1 @@
-Node-Webkit - Try enumerate file under directory from webkitdirectory input but return only directory path
+the titl may be too long, but i want to enumer file name under select directori from webkitdirectori attribut and i believ mine behav exact like that, is it a bug?if i'm do everyth wrong, i actual want to result of: http://www.thecssninja.com/demo/webkitdirectory/pleas help me! :(

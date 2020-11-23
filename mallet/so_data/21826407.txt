@@ -1,1 +1,1 @@
-how to use node-webkit with express server?
+i am develop an app use nodej and express.i want to export it as a packag with node-webkit.how can i start server and run app with it ?

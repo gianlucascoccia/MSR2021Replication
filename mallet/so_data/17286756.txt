@@ -1,1 +1,1 @@
-require() not working for node-webkit 6.0
+i am just tri to get start with node-webkit howev when i tri to use and both give me the same error.

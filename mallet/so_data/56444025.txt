@@ -1,1 +1,1 @@
-How to fix electron-builder hide dock menu problem in mac?
+i develop mac app with electron and now meet a problem with docker menu.mi electron app entri file is command. after electron app started, i can see the open windows（show in the red box） in the docker menu by click right button of mouse：but after packag app to an instal with electron-builder，th docker menu doe not show open window ani more. how to fix this docker menu lost problem?look forward some advices.

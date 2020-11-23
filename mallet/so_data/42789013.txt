@@ -1,1 +1,1 @@
-Node Webkit / Electron Get apps running in background
+is it possibl to fetch list of app run in the background use nodewebkit or electron ?i want to make an app for render secur video ... so i want to make sure that app like screen grab or screen record isn't run in the background

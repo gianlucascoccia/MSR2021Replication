@@ -1,1 +1,1 @@
-Vuejs2 firebase with electron error
+i have configur electron with vuej and i would like to add fireba to my project so i havein my main.jsi have tri run rebuild but still failswhat eles do i need to do for this to work

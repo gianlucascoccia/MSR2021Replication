@@ -1,1 +1,1 @@
-Inject CSS into <webview> Chrome/Electron/HTML/CSS/JS
+can anyon tell me whi the below wont work? pleas forgiv ani mistak i am new to all of thishtmli'm tri to get it so that onc the content within the webview has load the background is chang to red via css. open to ani altern or help with whi the abov wont work.thank

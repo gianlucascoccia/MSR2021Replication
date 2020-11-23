@@ -1,1 +1,1 @@
-How to enforce node webkit to work offline
+i am use nwjs (previous call node webkit) to interpret html and run the under javascript code to handl events. as it doesn't need an internet connection, i would like the nwjs window not to be connect to the internet or at least not be abl to make connect to remot hosts. i have tri someth like --host-rules="map * 127.0.0.1" insid the chromium-arg option in package.json, but this fail (pars error). how can i accomplish this?

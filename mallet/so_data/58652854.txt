@@ -1,1 +1,1 @@
-Javascript delay image change inside a for
+i'm make an applic with electon js that need to valid a determinist finit automaton and then show the process with a diagram and status.in order to show the chang from one status to anoth in the diagram i have 5 images, one with each status highlight and am use this function:});

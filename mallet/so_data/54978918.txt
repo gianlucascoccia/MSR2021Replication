@@ -1,1 +1,1 @@
-What is the purpose of buildResources folder in electron-builder building process?
+i'm read through manual anyway)?

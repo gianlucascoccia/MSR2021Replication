@@ -1,1 +1,1 @@
-Can't install electron with npm, what could be wrong?
+i am use mac osx sierra. i was use on el capitan then i updat and now it not working. i tri a clean instal of node and npm, even after that it not working. i tri "npm instal electron --save-dev" but it get stuck on node install.js. i left it for an hour still no change.i tri other packag from npm it working. i tri "npm instal express" it worked.

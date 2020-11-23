@@ -1,1 +1,1 @@
-How to create nwjs app installer for MaxOS X ? Does it require MacBook to create installer?
+i have creat desktop applic use nwjs (node webkit). i'v creat instal for window successfully.how to creat instal for maco x?

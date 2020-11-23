@@ -1,1 +1,1 @@
-Scanning a large number of files
+i'm tri to scan a larg number of imag and i'm have some trouble. my sampl folder has about 4k smallish file and i keep run into

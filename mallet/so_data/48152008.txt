@@ -1,1 +1,1 @@
-Can you use react native to create a desktop app
+i'm make a desktop app with create-react-app and electron. it need to run on mac, window and linux, i also want to make a nativ version after for android and ios.can i just make an app in react-nat that work on mobil devic and on desktops? it would mayb save a lot of time

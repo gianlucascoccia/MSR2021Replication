@@ -1,1 +1,1 @@
-Check when WebKit context is available in NW.js
+when execut in node context ( be check from node context? is there a reason way, like an event that could be handled?

@@ -1,1 +1,1 @@
-Why getting error while creating windows installer in Electron App
+i am creat an electron app use angular 7. the project is built fine. but problem aris while i tri to creat an instal for that. here packag version are bellow:

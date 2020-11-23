@@ -1,1 +1,1 @@
-[Electron][OSX] Always show the tray icon
+i am write an osx app use electron,and it primarili focus on the tray. basically, it onli show when the app is current be used, how can i set it so that it independ to the window?

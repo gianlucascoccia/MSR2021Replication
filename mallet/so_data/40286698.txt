@@ -1,1 +1,1 @@
-How to get startup arguments from Electron app?
+i'm build a react app, and wrap it in an electron build. so far, i'm abl to creat a working, stand-alon build.now, i want to add argument to the launch:a far as i understood, the process.argv get extend with these arguments, but they don't appear in the argument array.do anyon know how to get this fixed?i'v search the issu list from electron, atom and stackoverflow, but noth so far...thanks!

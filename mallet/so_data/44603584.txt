@@ -1,1 +1,1 @@
-Window with bottom bar
+in electron, is there a way to put a "bottom bar" (under macos, "status bar" under windows) into a window? more specifically, i'm look for a (cross-platform) altern to cocoa's:which look like:

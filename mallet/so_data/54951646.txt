@@ -1,1 +1,1 @@
-How to close Electron app via TypeScript?
+i am tri to find the correct way to close an electron app. i make use of react and typescript within the app. i found this post and found a way that works: style import is forbidden. is there a cleaner way to close the electron app?

@@ -1,1 +1,1 @@
-Child windows can't be maximized in Electron in GNU+Linux
+i am write a program in electron. i have a parent window which creat child windows. my problem is that it is not possibl to maxim the child windows.i have read in electron doc that the option maxim the windowi there an other way to make these window maximizable?

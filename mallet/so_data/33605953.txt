@@ -1,1 +1,1 @@
-Is it possible to play around with windows touch keyboard using javascript?
+i'm develop a kiosk applic use electron. but when i test the app on an actual kiosk with window 8 os, the on screen key board is not launching. is it possibl i can manual enabl keyboard by use javascript? i search along for the answer but didn't got ani proper answer. also i would like to chang the languag of the keyboard with user preference? can i do these use window on screen keyboard?

@@ -1,1 +1,1 @@
-How to create dynamic routes in electron?
+how can i creat dynam rout in doesn't make use of url if am not mistaken

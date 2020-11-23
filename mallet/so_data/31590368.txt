@@ -1,1 +1,1 @@
-Choose a file sporadic issue
+i am use in desktop application, on click "choos file" there are some sporad issu which occur in windows: 1. it doe not show all folder in a specif location. 2. if there are two window user a and b, if user a is log in currently, it show desktop/docu folod of user b instead of a. this happen onli onc everi 10-15 time i click on choos file.i am not sure sure if issu is relat to nodewebkit or javascript or windows.

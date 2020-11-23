@@ -1,1 +1,1 @@
-Exit status 255 in electron
+sever time when build electron app i get error exact like this one i no longer get the error. sinc i have an easi workaround, it realli an academ question. where doe this issu come from? i'v googl it repeat without success.

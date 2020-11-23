@@ -1,1 +1,1 @@
-Disable resize windows less than min width on Electron
+i'm make app by electronjs. i want to user can't resiz window if width less than 300px becaus layout was broken. i set minwidth but this not working.how can i restrict or disabl resiz for less than 300px width?

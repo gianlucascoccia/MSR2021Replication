@@ -1,1 +1,1 @@
-Electron downloading files like in ordinary browser
+i am develop ionic progress app that is wrape into electron. i am use to download file. in browser it works, file is download to download folder, but in electron save dialog is opened, but after click save, file is not saved... i do not know why. i realli need this function in my ionic electron app, simpli download file to download folder or ask user to choos folder for file to download... there is no much ressourc on internet and i am lost actualy. whi download attribut do not work?thank for everi help,filip.

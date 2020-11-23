@@ -1,1 +1,1 @@
-Updating an array element in nedb
+i know this has been answer before, but for some reason none of the solut has help me. so i'd like to ask for some help and see if you can spot what i'm do wrong. i have nedb run and a .db file that look someth like this (remov a few attribut to make it clearer):i hope someon is abl to help me :)

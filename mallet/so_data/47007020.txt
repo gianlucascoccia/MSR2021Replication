@@ -1,1 +1,1 @@
-Different compiling version while trying to run an electron project
+i current an tri to make a node js project use electron and node-gyp for c addons. but when i tri to run my program usingi'v tri reinstal all the packages, and recompil all the sourc code, i don't know what wrong.

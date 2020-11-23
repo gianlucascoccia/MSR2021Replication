@@ -1,1 +1,1 @@
-Electron : Confirm and Alert of a website in a webview doesn't show
+i have an electron app with a webview in the page load in my browserwindow.thi websit is emit in some occas confirm or alert but electron is show them. is there ani way of modifi this behavior for exampl in the code i inject on the websit page?

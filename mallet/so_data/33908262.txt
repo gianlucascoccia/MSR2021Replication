@@ -1,1 +1,1 @@
-Executing a node-webkit application from vscode
+i am test node-webkit in vscode, but i am have issu execut it. in my launch.json file i have this:and it run the applic just fine.so, am i set this up wrong or something?

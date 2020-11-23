@@ -1,1 +1,1 @@
-Using nodejs/electron to add new line causing multiple lines to be added
+my code is have a strang behavior. so i have a check box, and when ever the file is checked, it add a new line with new text

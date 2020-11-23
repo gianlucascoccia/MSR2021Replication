@@ -1,1 +1,1 @@
-Does Lokijs generates its own IDs?
+i'v been tri to use lokij on a project.do lokij generat it own ids? or do we need to handl that our selves?

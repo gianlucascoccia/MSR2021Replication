@@ -1,1 +1,1 @@
-how to fix 'Error: Cannot find module 'nconf'?
+reference: https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.w1gam0oa6i have download the code throught zip file and after i launch the applic with what may be the reason that caus the issue?

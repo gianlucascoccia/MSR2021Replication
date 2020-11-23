@@ -1,1 +1,1 @@
-Istanbul Cover js files run by electron during jest or mocha tests
+i have a basic electron app test: statement in test files. jest use istanbul tool for code coverage, which is built-in in it. if i use nyc in mocha tests, how can i cover js file in electron context.

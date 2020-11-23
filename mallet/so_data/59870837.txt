@@ -1,1 +1,1 @@
-React WebkitAppRegion Warnings
+ok, so i'm extrem new to react, so sorri if this question is realli dumb. i'v been work on a react applic use electron and expo, and don't fulli understand how to solv this warn which is show in my develop console.

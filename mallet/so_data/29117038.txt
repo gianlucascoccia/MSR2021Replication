@@ -1,1 +1,1 @@
-Adding node webkit app as plugin
+i have a web-kit app, can ani one pleas help in integr this web-kit app along with googl chrome browser or is there ani other possibl way in which i can interrel this app with a browser?

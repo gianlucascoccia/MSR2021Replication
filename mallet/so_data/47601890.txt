@@ -1,1 +1,1 @@
-Packaged Electron App fails to Find Node Modules
+i have an electron project that is setup use electron-forge. the app work fine locally, and i am tri to packag it for distribut on various oper systems. however, when i packag and compil the app and tri to run it, i receiv .

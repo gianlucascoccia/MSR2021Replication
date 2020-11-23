@@ -1,1 +1,1 @@
-Bypassing proxy in Electron.js
+im have issu in bypass proxy. i'm new to both javascript and electron.i'm either face this issu (pic below) or a blank white screen will be loaded.mi pacfile.pac :

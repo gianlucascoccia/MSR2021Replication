@@ -1,1 +1,1 @@
-Is it possible to call parent window (cpp code) to child window (electron js/node js)
+is it possibl to call parent window (cpp code) to child window (electron js/node js)? my main goal is to achiev modal dialog.mod dialog: a modal dialog is a window that forc the user to interact with it befor they can go back to use the parent application.

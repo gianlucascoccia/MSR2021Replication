@@ -1,1 +1,1 @@
-libGL error: No matching fbConfigs or visuals found
+i get error when run the electron app is just open a simpl html file.ubuntu 16.04i'v found this post but the solut is about nvidia driver which is not my case.

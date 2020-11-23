@@ -1,1 +1,1 @@
-Get Azure Active Directory token from an electron app
+what would be the best way to obtain an aad token from an electron app?microsoft has 2 javascript authent libraries: scheme as a repli url).sound like a long term solut would be nativ aad packag (like microsoft built for apach cordova), but sinc that probabl not go to happen ani time soon, what is the best short-term option?

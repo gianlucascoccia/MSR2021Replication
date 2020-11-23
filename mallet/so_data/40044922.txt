@@ -1,1 +1,1 @@
-What is the .app folder? How can it be turned into a .dmg archive?
+i am use however, when i extract it in finder, it also turn out to be a whole, work application.what is this strang behavior of the .app folder and how can it be distribut as an instal .dmg?

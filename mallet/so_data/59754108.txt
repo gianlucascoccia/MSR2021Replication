@@ -1,1 +1,1 @@
-Setting httpOnly Cookie in electron
+i have a node.j express backend with a /auth route, use basic authentication. onc success log in this rout return a httpon cooki with a jwt, store as access_token. i know about the cooki api in electron but this doesn't seem to be a suitabl solut for cooki receiv from http requests.

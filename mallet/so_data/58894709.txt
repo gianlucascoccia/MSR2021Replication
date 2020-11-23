@@ -1,1 +1,1 @@
-What do we specify in "mainWindowUrl" property in .testcafe-electron-rc for executable electron apps like atom/vscode?
+i was look at https://github.com/devexpress/testcafe-browser-provider-electron repository.to autom electron app use testcafe, i see we need to provid "mainwindowurl" in .testcafe-electron-rc . regular electron app have index.html file in it which i can pass to mainwindowurl but i'm not sure what should we pass for execut electron app like atom.exe/vscode.exe.

@@ -1,1 +1,1 @@
-Interacting with dev tools while scraping with nightmare.js with .evaluate
+i am tri to autom a process that i manual perform in devtools. in the dev consol i'll creat a variabl object:

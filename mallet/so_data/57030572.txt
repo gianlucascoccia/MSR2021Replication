@@ -1,1 +1,1 @@
-How to trigger 'new email' window with attachment in nodejs/electron app
+i am build electron/angular app and i would like to open new mail window in system configur mail client. with pre-fil field like:recipientstopicmessageattach (similar to send to -> email recipi from window context menu)and it need to work on windows/linux/mac.mi first guess was mailto:', but it is not support attach due to secur reasonsi rather want to avoid send email quiet use nodemail or similarrel issues:electron: open default email clienthttps://github.com/electron/electron/issues/11802

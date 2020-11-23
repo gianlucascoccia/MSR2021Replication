@@ -1,1 +1,1 @@
-exiftool-vendored doesn't return when used in an electron app on Mac?
+on mac, when i run my app from webstorm, exiftool-vendor work great. however, when i build my app (i use electron-builder) and instal it on the same mac, it never returns, even just tri to get the version:)what am i do wrong? is there an exampl anywher of how to use exiftool-vendor in an electron app?

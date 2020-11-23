@@ -1,1 +1,1 @@
-Variables in ng-bootstrap modal not updating instantaneously
+the problem is that valu of variabl (files , filepath) are not updat instantan , they get updat onli if i click on the modal .sinc i am use electron , i have alreadi trigger chang detect use the method

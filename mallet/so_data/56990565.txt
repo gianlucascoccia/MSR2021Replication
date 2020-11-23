@@ -1,1 +1,1 @@
-Spectron app.client.close() does not trigger on('close' event
+i have a multiwindow electron application, name it consist of a launcher window and a main window. the main process is respons for first show the launcher, and after everyth is initi it get an event over ipc and show the main window, hide the launcher.i use event of the main window is not triggered, therefor it doe not jump back to the launcher. is there anyth i'm miss / misunderstanding?

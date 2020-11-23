@@ -1,1 +1,1 @@
-Any way to have a listener for when you copy things to the clipboard?
+is it possibl to listen for when you copi someth somewhere.and then execut a function or similar, for exampl when you copi someth .hope that make sense... :/

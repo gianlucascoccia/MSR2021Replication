@@ -1,1 +1,1 @@
-Electron: Is there any way to access/modify a main process array over ipc
+in general, array pass over electron ipc was copied.a express in the code comments, it seem that there is a problem of valu pass with proxy. in this case, is there ani other effect and practic way to achiev my purpose?

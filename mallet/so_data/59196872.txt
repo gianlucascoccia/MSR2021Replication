@@ -1,1 +1,1 @@
-document is undefined when require JQuery in a preload script (Electron BrowserWindow)
+i found a workaround but i don't understand the problem with

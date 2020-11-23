@@ -1,1 +1,1 @@
-how to store javascript object as custom class
+i had a custom class, that defin in javascript. i creat an object base on the class and store insid json database. when i retriev the object, the prototyp becom object constructor, instead of custom class. i chang it by assign a custom class prototyp to the object prototype.problem but insid the object has other key and values/object, each key has it custom class prototyp too, but didn't replac it in nest level.codequestionhow do i replac all at onc without assign one by one?

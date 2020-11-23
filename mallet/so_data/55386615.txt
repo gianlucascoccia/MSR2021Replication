@@ -1,1 +1,1 @@
-Can't save/create files using Store.js
+so i want to save a file on the client storag use store.js.i can chang the date use for now if possible,i might need to find anoth way to save the file.and i tri : fs : it doesn't work for me for some reason (i get strang error that they don't want to be fixed..) .if anyon has an idea then pleas i would be grateful.

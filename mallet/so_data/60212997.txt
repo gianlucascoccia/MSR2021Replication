@@ -1,1 +1,1 @@
-How to check if I should wait for the dom to be ready to add or not a listener?
+i am use electron. i have some class (module) where i need to send some signal to the renderer. the first time i run the code i use

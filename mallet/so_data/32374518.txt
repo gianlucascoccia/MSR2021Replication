@@ -1,1 +1,1 @@
-Disable touchscreen on Nodewebkit (windows)
+we are make a program in nw that run on window 8.1 tablets.but some user accident zoom in becaus they use 2 finger (touchscreen zoom).they don't know how they can zoom out (they are 80+).so i want to disabl the zoom function, but i can't find how i can disabl it. is it possible? or is there a hack?i know how i can disabl the pitch zoom. but this isn't reali a pitch zoom.thanks!

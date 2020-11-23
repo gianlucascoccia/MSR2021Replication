@@ -1,1 +1,1 @@
-can we use electron in backend like in a server side
+is it possibl to run nodej code in electron (use it for server-side), if there ani way to do it.i'm alreadi use electron in front-end, mayb i will includ the code of the server part in same app.

@@ -1,1 +1,1 @@
-Can I create an HTML page using javascript in Electron?
+i know there is a way to load an html page

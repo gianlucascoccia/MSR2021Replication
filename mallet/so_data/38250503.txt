@@ -1,1 +1,1 @@
-Node writeFileSync encoding options for images
+i'm use default to utf-8i'v tri set the encod to binary', the mime-typ and the extens to no avail. it feel like someth realli obvious that i'm overlooking, can anyon point me in the right direction?thank you in advanceupdatei'm run this through electron. i didn't think it was worth mention as electron is just run node, but i'm not a node or electron expert so i'm not sure

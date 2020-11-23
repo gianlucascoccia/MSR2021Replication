@@ -1,1 +1,1 @@
-Electron + Angular 4 = two ways data binding not working
+each time we want to updat the ui we are forc to use the zone.run() method and this in not an option sinc it unintuit and forc dev to add more repetit code.her our main dependencies:&#xd;&#xd;&#xd;

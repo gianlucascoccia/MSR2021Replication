@@ -1,1 +1,1 @@
-inject script into main dom from webview
+i have electron app in which i am load my site in a webview due to some reason i want to inject a node js script to my main html page on which webview is loaded. webview has nodeintegraion fals but allow-pop true and disable-web-secur true. or ani way to save js file in memori and use it as preload script in electron app e.g window.open("new-url",_blank,"file://that-script-in-memory")

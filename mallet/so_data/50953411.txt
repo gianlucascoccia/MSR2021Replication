@@ -1,1 +1,1 @@
-How can I make an Electron application to send it to others?
+i have an electron installed. i have html, js and package.json files. i open electron, i transfer my html file there, the applic is launched. and now what? how can i show my app to my friend? "instal the electron, so i threw you the files, open the electron, put the file with the extens .html in the special window, see what a beauti applic i have." how can i do better? how to make it so that i would throw off a friend, well, mayb a folder, but that there would have to open 1 file to run my application?

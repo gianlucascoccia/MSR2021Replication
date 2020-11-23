@@ -1,1 +1,1 @@
-Communicate directly between two renderer processes in Electron
+i creat multipl window from electron main process and need to pass messag between them. the onli way i have come across to send messag from renderera to rendererb is by bounc it to main process. is there ani way to direct send a messag from renderera to renderb?

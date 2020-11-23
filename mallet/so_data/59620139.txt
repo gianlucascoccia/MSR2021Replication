@@ -1,1 +1,1 @@
-making rest api in electron app and set up routing for testing on Postman using express js
+i am new to eletron develop and i want to build rest api in it. for that i need to know how to process http request (get, post). i would like to use nativ node js method and test them with postman.her is what i have got so far:can you tell me if i can make it work or should i use someth els like fetch or axios?

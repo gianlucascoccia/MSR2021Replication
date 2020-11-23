@@ -1,1 +1,1 @@
-module.exports method that interacts with HTML page does not work
+i am run an electron app in which my file in my app

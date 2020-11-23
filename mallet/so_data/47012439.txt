@@ -1,1 +1,1 @@
-Infinite session using Electron framework
+we are build a desktop client(us electron framework) which will communic with a remot server via rest api. we want our desktop client to be in the logged-in state for an infinit time. i am awar of this fact that credenti of user need to be store secur for this purpose. but how can we achiev this electron framework so that it renew user session continu on session expiration?

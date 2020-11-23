@@ -1,1 +1,1 @@
-Electron: Desktop Capturer is coming as undefined
+i am tri to build an app where i need to take screenshots. but when i import

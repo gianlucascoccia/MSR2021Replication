@@ -1,1 +1,1 @@
-How to handle mouse move and keyboard press in nw.js?
+i'am use nw.js to creat some app. one of my task is determin user activity.can i use some modul or someth to handl mous move and key press events?

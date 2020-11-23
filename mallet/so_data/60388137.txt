@@ -1,1 +1,1 @@
-Electron shows blank screen when running in development yet works in production
+when i run "yarn run electron-dev" in the cli, open http://localhost:3000 in the browser is show the homepage, but the electron app is show blank.unlik similar issu where other peopl are have issu with product but work in development, i am have the opposit issue. look at the devtool there are no error in the browser console, and also noth is come up in the consol even when i do console.log().electron.j

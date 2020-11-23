@@ -1,1 +1,1 @@
-Electron window.webContents.send doesn't work
+main.jsit onli log data onc so probabl the ipcrender doesn't run the ipcrenderer.on change_display event. how would i fix this issue?

@@ -1,1 +1,1 @@
-Vuex Electron: Exception when committing mutation
+i am write an electron app use vue and vuex.mi store is as follow (i don't understand exact what could be caus this, as i have been follow https://www.youtube.com/watch?v=lw9yir4govu and https://vuex.vuejs.org/guide/mutations.html which appear to be do it this way.

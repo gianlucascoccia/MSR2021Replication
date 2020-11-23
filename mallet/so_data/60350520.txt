@@ -1,1 +1,1 @@
-Electron Browser Window Prevent Control+W closing window
+i have an electron js app with angular 8. if the user perform the command control+w, it automat close the window. i tri look through the browserwindow api, however, i couldn't find a flag or handler to prevent this behavior from happening.

@@ -1,1 +1,1 @@
-Error while loading electron-tabs module & unable to create tabs in electron
+i have instal electron-modul packag for implement tab in electron as shown belowpackage.jsonwhi am i not abl to load electron-modul package. what is caus this error? how to creat a new tab on click onappl menu in electron?

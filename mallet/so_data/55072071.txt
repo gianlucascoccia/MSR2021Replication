@@ -1,1 +1,1 @@
-Node HTTP Server does not respond to first request within Electron
+i'm tri to start a local server in electron to captur googl oauth callback like so:.if anyon has ani idea i'd great appreci it. thank you!

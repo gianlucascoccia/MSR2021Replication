@@ -1,1 +1,1 @@
-Electron build error
+i'm tri to build an app made with electron but when a build the window version this error appear on consol and the screen stay blank:not allow to load local resource: file:///c:/program%20files/8track/resources/app.asar/index.htmlif i set websecur as fals this error disappear but the blank screen continues.i have tri the solut of this issu in github and even set "asar" as fals in package.json without success.https://github.com/electron/electron/issues/5107ani idea how to solv this?thank

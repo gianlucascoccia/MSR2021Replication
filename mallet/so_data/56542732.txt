@@ -1,1 +1,1 @@
-Need Help to setup angular in electron app
+i am look for run the latest angular8 in the electron app. my electron app run but the angular doe not get launch into the electron app.i have follow all the step given in the given link. https://www.sitepoint.com/build-a-desktop-application-with-electron-and-angular/i get the electron app run but cannot see the angular structure, and in the console, there is error display as seen in the attach imag

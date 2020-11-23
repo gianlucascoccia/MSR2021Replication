@@ -1,1 +1,1 @@
-Can I make (build) Electron app for Linux (Debian) on Windows?
+can i make (build) electron app for linux (debian) on window machine?i am use electron forg and init project.i am get error: "cannot make for linux and target deb: the maker declar that it cannot run on win32"do i need to build on wsl becaus linux use cpp?i not found ani inform to this topic (i was not look much, tho)

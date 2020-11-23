@@ -1,1 +1,1 @@
-node-webkit: issue on taking e.target from mousedown
+in node-webkit, i was run the code like below.jqueryoldgeeksguide, this is the code i use to test each platforms, node-webkit 0.9.x, 0.8.x, atom shell, bracket shell, chrome, etc. so far, node-webkit give me the lag. pleas take a look at consol log and see how fast other one show the log. im use windows7. thank you!-im use document.on but the perform is the same with pure javascript or $('id').on

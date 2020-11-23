@@ -1,1 +1,1 @@
-How to build electron application with assets folder by Electron-builder
+i have built an applic with electron-builder. there was a video in folder in production. how can i do that

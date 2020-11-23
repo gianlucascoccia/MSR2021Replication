@@ -1,1 +1,1 @@
-Decoding/reading json part of complex text file
+i am start to develop a desktop applic use electron. this app will pars some file and data will be shown from these files. these file are contain complex data.now, i am tri to get json data from a complex text file. this text file contain some string and json objects. sampl file look like that:resolv with regular express is not applic for this issue.now, i am tri to find a javascript base solution.

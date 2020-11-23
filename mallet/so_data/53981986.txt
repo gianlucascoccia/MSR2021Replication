@@ -1,1 +1,1 @@
-My modal into electron dont open when i click into the button
+i expect that by click on the editar button, within #app, the modal would open, but it doe not open at all !. i dont know if my js logic are wrong or my html are wrong!when i tri to use some function for the modal, they continu dont work.what i need to do for solv this?javascript code are in finalful html:https://pastebin.com/9ggbq7w

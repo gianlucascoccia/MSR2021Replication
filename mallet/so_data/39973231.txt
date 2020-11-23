@@ -1,1 +1,1 @@
-Run a Cli command from an Electron packaged app
+i'm write a mac osx gui with electron and nativefi packag and when i run the packag app on a machin with nodej instal (globally), everyth work fine.on a machin without nodej instal the command can't be found.i'm use the nativefi cli insid electron with a full path to cli: also, but without ani luck again.what i need to do to call a packag node_module/c from my app, on a machin without nodej installed?

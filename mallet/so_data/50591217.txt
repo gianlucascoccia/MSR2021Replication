@@ -1,1 +1,1 @@
-Getting an error when trying to read json file via fetch
+i am tri to read i have read all solut which from googl ,but can not solv the problem!

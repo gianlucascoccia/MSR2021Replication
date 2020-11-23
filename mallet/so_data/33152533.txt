@@ -1,1 +1,1 @@
-bundling precompiled binary into electron app
+is there a good solut on how to includ third parti pre compil binari like imagemagick into an electron app? there are node.j modul but they are all wrapper or nativ bind to the system wide instal libraries. i wonder if it possibl to bundl precompil binari within the distribution.

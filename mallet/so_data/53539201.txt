@@ -1,1 +1,1 @@
-electron migrate localstorage of old app to the new one
+we have an electron app.rec we creat a new version of it from scratch.it a new project.w need to do some data migrat from the old app localstorage.so 2 app they don't see each other localstorage.i there ani way i can make use of the old app localstorage?wil localstorag be avail if user updat via amazon?

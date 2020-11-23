@@ -1,1 +1,1 @@
-Electron NET Application using Serilog for logging to a file
+i am use serilog for log to a file. it work when i run the site on the web. but when i run it as electron net app it doe not write ani log. when i chang the sink from file to consol it spit the log on the consol screen. is anyon awar of this issue?her is my program class:

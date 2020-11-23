@@ -1,1 +1,1 @@
-Possible to force update when window is hidden?
+i'm do a sequenc of screen grab use capturepag and am chang the state of the screen between each grab. it work fine when the window is be shown but i would like to put up a "progress" window and hide the activ window from the user so that they do not see the messi set up between each screen grab.i just test my routin with the window hidden and the screen doe not updat (e.g. all the screen grab imag are the same). is there some way to forc a screen redraw?

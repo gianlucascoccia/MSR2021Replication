@@ -1,1 +1,1 @@
-Compiling electron application using electron packager: bug on MACos with uws when opening the executable
+when i compil my electron applic with this command:) so i guess this error must be link to an unsupport modul on macos.

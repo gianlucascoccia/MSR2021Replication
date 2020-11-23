@@ -1,1 +1,1 @@
-Data doesn't bind on promise fulfill in node-webkit, AngularJS and mysql
+i am use node-webkit in conjunct with angularj and mysql. i am fetch custom from mysql db use node.j mysql driver. use $q servic of angular i want to bind this to the ui which i am unabl to.html:th sql work fine and also return the array. but ui doesn't show the data on fulfil the promise. what am i missing?

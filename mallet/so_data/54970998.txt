@@ -1,1 +1,1 @@
-Nedb async function to be awaited
+i would like to write something, after the iter is over, is there way to do it in some normal way?

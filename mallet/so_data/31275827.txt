@@ -1,1 +1,1 @@
-Electron developer tools in separate window not showing on Windows
+i'm develop a quick proof of concept app use electron (former known as atom-shell), while tri to debug it i pop the dev tool to a separ window and it was work for a while until today. i can see the develop tool window in the window task bar but when i click it noth show up.i'v tri restart the computer, reinstal atom, toggl develop tool via menu and alt+ctrl+i but the window is nowher to be seen.her the relev code of my app, but i'v tweak it and it doesn't help either.

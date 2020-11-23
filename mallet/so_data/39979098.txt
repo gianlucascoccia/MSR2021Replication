@@ -1,1 +1,1 @@
-How to take screenshot of full webpage in Electron app?
+i was tri but this function take screenshot of onli visibl page.i tri to google, but didn't find how to take screenshot of full webpag in electron app?

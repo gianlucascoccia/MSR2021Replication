@@ -1,1 +1,1 @@
-How to include old es5 Javascript from CDN in Electron app
+i am want to build an electron client which utilis the follow librari which are host on a cdn and written in es5.how can i includ these librari in my electron app?i there a way to bundl these librari into an import library?

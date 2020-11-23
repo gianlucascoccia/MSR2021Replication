@@ -1,1 +1,1 @@
-How to enable print preview - Angular + Electron.js
+i have a problem with print preview on electron. when i run app on angular(localhost) and run print, all work fine. but when i build electron app with angular, i didn't get window with print preview. i get this window:and when i click on button print i get empti paper. electron consum chromium where is print preview is disabled.how to enabl print preview in electron app ?function for printing:

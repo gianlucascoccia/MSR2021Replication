@@ -1,1 +1,1 @@
-Convert multiple video Blobs into one and save it
+i record the screen and push a blob into an array, when it´ avaible. in the end i want to save it to a webm or a mp4 file. i tri convert it to a new blob and then save it as an arraybuffer, but that didn´t work out.

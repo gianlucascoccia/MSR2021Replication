@@ -1,1 +1,1 @@
-Electron Modify Options without recreating the window
+i'got an issu with my application. i'v creat a nice look login-window which is a window with the option {transparent: true, frame: false}.aft the user has log in. i want to "redirect" to the dashboard where i need to set the option "transparent" back to fals becaus the background of the dashboard is white and im onli abl to the print font on a fulli transpar window.i there ani workaround to get the electronwindow back to none transpar without recreat it. app.js:

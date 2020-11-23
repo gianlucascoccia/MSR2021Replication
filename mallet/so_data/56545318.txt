@@ -1,1 +1,1 @@
-How to use Ionic keyboard on Electron/ionic App
+i'm creat an app with electron and ionic (in the futur all will be on ionic only) but i can't use the ionic keyboard on text area.i tri to use the ionic keyboard includ in ionic v4 like that:app.module.tson the input in my html i just put #inputk (click)='showkeyboard() but i won't work…i'v you got solut for this kind of problem ?kind regard for your time.i don't get ani error code, it just do nothing.

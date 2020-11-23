@@ -1,1 +1,1 @@
-Dexie startsWithIgnoreCase() function array is undefined
+i am queri dexi databas with startswithignorecas and push result in an array but while print or use it, it is throw an error as undefinedi have tri use json.stringify, tostring, string to convert it in a string and print on consol but still it show undefin while print whole array to consol show normal array() i should at least print someth when i use console.log(arr[0])

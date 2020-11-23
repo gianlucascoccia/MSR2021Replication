@@ -1,1 +1,1 @@
-package electron atom angularJS error on build
+i develop an app on atom electron, i use angularj as framework for rout urlsif i run

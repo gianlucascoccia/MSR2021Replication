@@ -1,1 +1,1 @@
-How to use cookies in Electron + Angular app?
+i creat an electron with angular app base on this templat (angular 8.2, electron 7.0).so far, i'm use ngx-cookie-service. i just want to store a few set local, e.g. the last open view and so on.when i'm build the app as website, the cooki are work fine. when i'm build the app as electron app, the cooki are not working.i tri the electron cooki example, but couldn't get it running.ani idea what i'm do wrong?

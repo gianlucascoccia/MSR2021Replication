@@ -1,1 +1,1 @@
-Execute an exe(Inside Project structure) in Electron
+while in develop mode, execut the exe is work well. my code to launch the exe isregards.

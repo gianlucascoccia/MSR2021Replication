@@ -1,1 +1,1 @@
-why i am getting unhandled error event in event.js while running node js program
+i am new to node js. i have creat a server.j in visual studio code editor and two html file under view folder and one main.j file for render that html code.whil i debug the server.j file then i am get unhandl error event in event.j at line 160. whi i am get this error.se error here

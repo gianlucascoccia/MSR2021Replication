@@ -1,1 +1,1 @@
-net.request post data not working
+post data use net.request is not working. it reach the url. but data not posted. my code is below. pleas help me on this.

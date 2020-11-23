@@ -1,1 +1,1 @@
-How to get DOM tree from BrowserWindow in electron app?
+i would like to get data from one process to anoth in electron and i can't figur out how to do this. i have the follow code:i tri ipc, but i can figur out how to use it. ani help will be appreciated. thanks!!!

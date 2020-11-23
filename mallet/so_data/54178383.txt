@@ -1,1 +1,1 @@
-How to disable touch-pad while using electron app?
+i am work with onlin exam system and i have built one electron desktop app for candid to take the exam. i tri to block or disabl the touch-pad in order to prevent the 3 finger and other. so they can't switch to browser and other tool to cheat. so if anyon know the way to prevent it pleas help me to fix this problems. thank you befor hand.

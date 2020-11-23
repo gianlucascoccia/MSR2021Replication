@@ -1,1 +1,1 @@
-'electron' is not a command after installing electron globally
+i am look to start use electron to make a desktop applic howev when i do both multipl time but they seem to do noth at all.ani help is appreciated!

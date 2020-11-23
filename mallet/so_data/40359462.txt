@@ -1,1 +1,1 @@
-Electron enable touch events for a touch screen
+i have a raspberri pi connect to touchscreen and run an electron app on it through the startx command,th problem that i can't handl the touch event like (touchstart, touchend) and appar that is becaus electron (or chromium) not see the screen as a touch screen.

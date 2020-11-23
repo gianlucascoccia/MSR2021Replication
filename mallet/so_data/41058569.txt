@@ -1,1 +1,1 @@
-what is the difference between const and const {} in javascript
+when i studi electron, i found 2 way of get browserwindow object. can work. do i miss anyth import about js?

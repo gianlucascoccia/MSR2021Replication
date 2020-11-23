@@ -1,1 +1,1 @@
-Read the MP4 file with Node Webkit
+i use node webkit and i can not read the mp4 file! i still have this error for each mp4 file:but work perfect with webm and ogghow can i do to debug this?

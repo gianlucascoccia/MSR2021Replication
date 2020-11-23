@@ -1,1 +1,1 @@
-How to isolate two sessions while loading same webpage
+now suppos i have two all request (includ s2!) somehow are stop perfectly. doe this mean the custom session i set do not take effect? if so, what am i missing?thank in advance.

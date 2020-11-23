@@ -1,1 +1,1 @@
-Node Webkit and Web SQL error inserting JSON
+i'm just start with node-webkit (nw.js as it is now) and i am tri to use web-sql to store data.cr the databas work fine, exact as in the examples, and general insert data work fine, again as in the examples. howev when i come to insert a json object creat from jstree i am hit trouble.th json object is creat use the jstree method: with veri similar errors, usual either a syntax error or "]" as an unrecognis token but alway a code:5'.ani help would be grate received.regardsmax

@@ -1,1 +1,1 @@
-Can't fix the Electron React Boilerplate package error
+i'm use the electron-react-boilerpl to creat a desktop application. and i'm use yarn packag manager.i was compil this applic befor 4 months. but now it can't be compiled.when i write

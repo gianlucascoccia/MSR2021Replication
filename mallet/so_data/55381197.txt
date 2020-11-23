@@ -1,1 +1,1 @@
-Unexpected identifier {classname} when I try to import a class
+i get an "unexpect identifier" error when i tri to import a class.i'm import class this way:class to be export (windowmanager)fold hierarchyclass which import (main) > handler > class to be import (windowmanager)extra infothrow the error at this line of code (main) import windowmanag from ./handlers/windowmanager.js';i'v look into unexpect identifi {classname} when import javascript class into anoth class and make chang and still noth

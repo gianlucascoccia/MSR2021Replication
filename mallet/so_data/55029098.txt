@@ -1,1 +1,1 @@
-Why does only one BrowserView work with Electron?
+i'm tri to have two is displayed. how to have both displayed?

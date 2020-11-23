@@ -1,1 +1,1 @@
-Electron build size 2.1GB
+i am tri to build an electron app with some functionality.but it size becom 2.1 gb when i build an app use npx electron - builder.i have modifi my packag to remov unus dependencies.but did not get ani luck. i also use "compression":"maximum" but it onli increas the size but no luck

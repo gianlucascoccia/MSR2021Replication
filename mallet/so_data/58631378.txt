@@ -1,1 +1,1 @@
-How to check if a windows user has read & write privileges to a certain folder using node.js?
+i am tri to valid a directori path. all i need is to throw an error in case if folder is not access at all or user has no write permissions. i need to run the valid synchronously. the problem occur onli onli on window machines.it seem that is there ani other way to check if the user has all need right to oper with a certain directori use node.js? am i miss something?

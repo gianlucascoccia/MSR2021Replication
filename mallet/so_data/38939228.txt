@@ -1,1 +1,1 @@
-How to capture all internet traffic in node
+i am look to make an applic (with electron preferably) that can rout all internet traffic on a devic (current target windows) and tunnel/stream it through a socket (mayb use socket.io or socket.io-stream). essenti what would be happen is an openvpn-lik thing onli use web technology.i am wonder if there is a way of snif out all internet bound traffic from any/al program or window itself and rout it. ani help would great be appreciated.

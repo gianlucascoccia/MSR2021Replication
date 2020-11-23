@@ -1,1 +1,1 @@
-FCM/GCM for electron APP
+i have been use fcm/gcm to send notif to chrome app, chrome extension, android app.but, may i know how can i send notif to an electron app from fcm/gcm. i brows through a lot of websit but did not find anyth relat to it.ps: i don't worri about how the notif are displayed. i just want the notif payload to be receiv by the electron app.thank in advance.

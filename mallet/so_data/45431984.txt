@@ -1,1 +1,1 @@
-How to Install and manage a windows service in a node js app.?
+i have a window service, i need to instal it and manag it use my electron app. what is the best way to do this?thanks. updatecurr for instal a servic i need to usene to do this while instal my electron app.

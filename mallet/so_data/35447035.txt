@@ -1,1 +1,1 @@
-Electron how to load Main Menu when mainWindow is severing external HTML
+in electron i have read how to includ the menu code typic in the index.html. but in my applic i am load an extern websit and would like to know how to do this.

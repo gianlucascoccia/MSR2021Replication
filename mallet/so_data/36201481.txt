@@ -1,1 +1,1 @@
-how to clear cache using javascript when starting Offline application again
+i need a help to clear cach use javascript, is it possibl to clear cach use javascript?.i have develop a offlin chrome applic use javascript &amp; node webkit. when use this application, the cach size increas more day by day. so i want to delet cach directori or clear cach from appdata/local/myapp.1.0 whenev i'm start application.kind help me to clear the cach use javascript (relat solution). pleas let me know, if you need ani inform on this.thank in advance.

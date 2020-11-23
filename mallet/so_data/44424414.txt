@@ -1,1 +1,1 @@
-How to run Aurelia app with Electron?
+i use the aurelia cli to creat a default hello world app that was confirm run use aurelia.aurelia generat a index.html in the root directori as such:

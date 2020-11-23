@@ -1,1 +1,1 @@
-Inno Setup + Node webkit app exe is not showing app icon in taskbar
+i have creat myapp.ex (the version of app that run direct on doubl clicking) by binari copi myapp code into nw.exe.thi myapp.ex run with proper app icon in task bar.however, when creat instal through inno setup and then run the instal copy, it run with default node webkit icon in taskbar.her is my script of inno setup:can anybodi tell what am i miss here?

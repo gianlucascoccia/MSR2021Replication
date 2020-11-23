@@ -1,1 +1,1 @@
-Jquery is listed at top of head, but refuses to work
+i'm tri to includ jqueri into my electron project, and it should be work right now. but it doesn't. my is as follows:. none of the other page on stackoverflow have help me, becaus jqueri is alreadi referenc befor the other script and i copi the script tag direct from google. can anybodi help me?

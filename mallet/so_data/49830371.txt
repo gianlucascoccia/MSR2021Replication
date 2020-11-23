@@ -1,1 +1,1 @@
-Error message with electron (node.js): binding.lstat(BaseLong)
+i'v just start learn electron and creat an app yesterday follow a tutori online. the app work perfect yesterday, but today i keep get this error message: , with no luck.

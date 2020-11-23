@@ -1,1 +1,1 @@
-Are the source codes of Node.js desktop applications protected?
+i am plan to creat a node.j desktop application. i am concern if i write the applic in javascript, the sourc code of it might not be secur just like script serv on web browsers. is it possibl to secur both server-sid script and client-sid script includ css when build a node.j desktop application?

@@ -1,1 +1,1 @@
-electron-forge, packaged application shows blank screen
+i'm develop a electron app and use electron-forge, i start a new project with the webpack &amp; typescript template, did not do ani major chang to the configuration, howev the time came to packag the applic all i get is a blank screen.if i start my app with ani suggestions?

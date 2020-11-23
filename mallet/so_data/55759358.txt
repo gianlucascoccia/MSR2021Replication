@@ -1,1 +1,1 @@
-Download multiple files with an electron app
+i have an app that must download multipl file as parallel and problem is when i start download this file with

@@ -1,1 +1,1 @@
-Wait for a newly opened window to close before continue
+i'm use a loop with

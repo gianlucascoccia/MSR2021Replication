@@ -1,1 +1,1 @@
-How to add Intellisense in my IDE
+i have made an onlin ide in mean stack and it write code and give result from the server, to make it better i want to provid intellisens like featur in vscode or atom to my ide. how can i do that? ani suggestions?

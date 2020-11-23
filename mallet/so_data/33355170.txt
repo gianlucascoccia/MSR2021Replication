@@ -1,1 +1,1 @@
-Can't run nightmare script after switching pc
+i have a script use nightmar and which work on my pc ,and couldnt get it work on anoth pc.this is the error im get :it seem like it search for the electron on my pc path , how could i chang it? i have the electron exec , in the node moudl , but the path is diffrent (f:\lounge\lounge\node_modules\electron-prebuilt\dist\electron.exe)

@@ -1,1 +1,1 @@
-Communication between preload and client given context isolation in electron
+i have an electron app. my client script (renderer) need to access electron apis, but this gave me a secur warning, so i move it into a preload script and disabl nodeintegration. i was then receiv a warn about contextisolation, so i enabl it. my preload script was previous attach a function to window that the client could read as follows:with output: window.readclipboard undefin

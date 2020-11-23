@@ -1,1 +1,1 @@
-How to make cookies separate in different windows in nw.js?
+i use nw.js to display a web page in an to open a new window, all the window share the same cookies. i need to login the web page use differ account but i cannot make the cooki separ in differ windows. how can i manag the cooki in that way? ani idea will be appreciated.

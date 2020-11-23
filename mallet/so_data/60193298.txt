@@ -1,1 +1,1 @@
-nodejs.How do subprocess destroyed along with the masterprocess？
+&#xd;&#xd;&#xd;&#xd;&#xd;this code open a new process of xxx.exe.how can i destroy the child process automat after the main process exit

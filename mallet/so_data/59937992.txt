@@ -1,1 +1,1 @@
-overriding Webpack config target Create React App Electron-renderer issue
+i creat an applic with creat react app script, follow this article. after ad custom target for webpack config as electron-render applic is get fail to start.i overrid the webpack with customize-cra instead of rescripts.and the error snippet is given below on run npm start.som guidanc would be veri much appreci to resolv this issue.

@@ -1,1 +1,1 @@
-List all channel listeners for ipcRenderer in Electron
+we have an electron app. we add / remov listen use for all channel listeners?

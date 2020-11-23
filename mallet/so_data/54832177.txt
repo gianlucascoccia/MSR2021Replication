@@ -1,1 +1,1 @@
-Screenshot from hidden html video element
+i am tri to take a screenshot of a hidden element use canvas, but the imag sourc is empty. here is my screenshot function: and the video element is visible, then the imag has data.i'v done lot of search but cant find anyth on this matter, so ani help would be great appreciated.thank you!

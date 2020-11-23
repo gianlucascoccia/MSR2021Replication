@@ -1,1 +1,1 @@
-Log user activity on various platforms
+i have an electron app and i need to log system-wid user activ (e.g. mouse-clicks, keystrokes). basically, i need to detect if user is afk if he did noth in a 5-minut interval, so i can stop the timer insid the app. i'm pretti sure i need to do it with extern script for each platform (osx, linux, ms). can you guy suggest me ani finish tool or os-level api to do it (doesn't matter for which plat) if you know some, or just tell me how you would do it / did it some time.

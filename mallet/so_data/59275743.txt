@@ -1,1 +1,1 @@
-Local native node module causes error: Uncaught Error: No native build was found for platform=win32 arch=x64 runtime=electron abi=75 uv=1 libc=glibc
+i have a i can't find much onlin regard this error and i'v been at it for days. i'v tri recompil everything, tri rebuild the addon with electron as target and noth helps. ani help explain whi this error happen and how to remedi it would be great appreciated!

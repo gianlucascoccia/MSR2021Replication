@@ -1,1 +1,1 @@
-npm run build give out npm ERR! code ELIFECYCLE
+i'm veri new to node.j and electron and want to run

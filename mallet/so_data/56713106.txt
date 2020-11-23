@@ -1,1 +1,1 @@
-ElectronJS: Child window does not move along with parent window on windows system
+i have creat an electron app which had a parent window and a child window to that parent. on mac it work fine, the parent window when moved, child window also move along with it. but the same code, when packag into an .ex file, and test on window machine, the child window doe not move with the parent window.below is the code:

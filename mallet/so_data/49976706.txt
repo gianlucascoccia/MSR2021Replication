@@ -1,1 +1,1 @@
-How to add custom sidebar to a mainWindow in electorn when loading an external url(eg: mainWindow.loadURL("https://gmail.com") )
+i am tri to build a desktop app that open gmail in a webview use electron. in my main file i have load the url like this i was look for a way to add a custom side bar in my app , but for that i will have to load my own html file in the main window. is it possibl to load gmail.com as the url but still be abl to add a custom sidebar.

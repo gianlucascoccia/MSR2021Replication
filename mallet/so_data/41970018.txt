@@ -1,1 +1,1 @@
-Getting Started on building electron apps
+so i have built a simpl electron app but don't realli know how to make it do anyth on the server side (the whole reason of use electron other than the cool window) i was wonder if i would have to use someth like socket.io but i figur there was a better way of do this here is my code for now index.jsso how would i be abl to press a button and it call a function on the index.j side :)

@@ -1,1 +1,1 @@
-How to debug code running in node with electron package
+i have an applic use angular 5, node-adodb and electron (see package.json below)when run angular and electron in develop mode, everyth is work fine. when i cal the electron ipcmain.on('select'...) (see below), the sql select is done to the database, then return to my angular application.when i packag everyth with an electron package, the same sql select doe not return at all. doe not got to then and not to catch'.how can i debug that situation? you have a solut to suggest to fix that?thank in advance.main.j

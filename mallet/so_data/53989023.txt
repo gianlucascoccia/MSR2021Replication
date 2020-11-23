@@ -1,1 +1,1 @@
-Don't add methods to the wrong prototype
+i'm use jqueri with an electron app, but i alway get an error that seem to be correspond with jqueri tween function.i'm load jqueri via standard node require:i'm onli have this problem with electron (version 4.0). doe anyon know what this is caus by?

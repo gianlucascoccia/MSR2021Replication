@@ -1,1 +1,1 @@
-Save sensible data in Electron
+i have a connect with redis, that it protect by password. but if i put my password on js, it is readabl and insecure, such as if i put my pass in main.j like:if i compil my app with electron-packag and i look at the folder created, i'm abl to read main.j with password.so, my question is, where can i store a sensibl data like password in electron?thankyou!

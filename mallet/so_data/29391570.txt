@@ -1,1 +1,1 @@
-Can node webkit build in a single windows .exe file
+i have a project that need to run in a pen drive, the content is updat daily, and i need a autom way to generat a singl file (.exe) to be download by users.i use this tool https://github.com/mllrsohn/node-webkit-builder, but when build for windows, the build generat multipl file ( dlls, dat ,ex ).this break my autom becaus the content need to be download (singl file).ani help?

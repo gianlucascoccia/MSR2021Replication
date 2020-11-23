@@ -1,1 +1,1 @@
-Electron: Zurb Foundation Tabs not working
+i'm not sure whi my tab are not working, i think i'v import foundat file correctly, i'm not sure how to test how. i tri the markup from the doc on both browser and electron app, but it onli work on the browser. pleas help. thank you. gist: https://gist.github.com/mamarilmanson/4c3d9ca52c3cc745ee1aff0269b53f9b

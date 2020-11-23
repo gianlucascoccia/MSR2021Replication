@@ -1,1 +1,1 @@
-Debug electron-app. Is it possible to see js-calls through minidump?
+i'v face with crash that hard-to-reproduc in my electron app. so i'v configur the crash-report and got minidump. use the breakpad tool i'v transfrom minidump to stack-trace, and got a lot of info about chromium/electron call when crash happened, but this stack trace has no info about ani js calls. so my question is it possibl to somehow add js stack-trac to the electron minidump file?

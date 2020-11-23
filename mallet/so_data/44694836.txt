@@ -1,1 +1,1 @@
-Shutdown system from a web page when you click a button
+i am work on do a cibercaf and i need that when the user want to leave, when the exit button is clicked, the machin will be automat restarted.thi web i'm do through html, css, javascript and the electron.j framework.anyon know how i can turn off the system when i click on a button?

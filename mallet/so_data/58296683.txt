@@ -1,1 +1,1 @@
-Associate file extension with Electron application
+when a user doubl click on a file with an extens of but no exampl of how this can be use to creat this association.

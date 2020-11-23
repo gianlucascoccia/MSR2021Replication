@@ -1,1 +1,1 @@
-Electron - Close initial window but keep child open
+i am code an electron app which is suppos to load a splash screen, and then open a new window. afterward the splash screen should be closed. howev i am not abl to do that. in my doe anyon have an idea on how to prevent the newli creat window from closing?

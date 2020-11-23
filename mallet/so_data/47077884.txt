@@ -1,1 +1,1 @@
-Requiring app variable from electron inside function returns undefined
+i am tri to assign the app object from electron but it return as undefined. i have tri to debug this but i cant for the love of god find out what is wrong. here is a snippet of my logicwhi doe this not work and how should i do it?

@@ -1,1 +1,1 @@
-How to disable middle mouse click paste in Atom editor?
+i did extens investig but didn't find a way to disabl the middl mous click paste.i have found it was possibl to disabl auxclick but it has no effect into the atom editor:can you help? the middl mous click past can be extrem annoying.

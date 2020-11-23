@@ -1,1 +1,1 @@
-electron packager not packaging darwin version correctly
+i am tri to packag my app with electron-packager. for a start , run my electron work fine and easi with the it work fine and packag with all the folder and file i was expecting. i tri everyth possibl yet couldn't get it to packag the darwin version with the resourc folder and necessari files. it is fail as a result. pleas what caus this and how do i resolv it please? ani help would be appreciated.note: i am run osx elcapitan version 10.11.4 on my machine.

@@ -1,1 +1,1 @@
-How do I package an electron app when using express as the feed?
+i'm tri to build an electron applic use electron-packager, and whilst it succeed in building, when i tri and open it i get an error that it can't access my index.ej file. i haven't tri anyth to fix it but i suspect that it could be fix by not use express, howev that is not an option becaus i need express for an api that the electron app requires.mi index.jsthanks, sam.

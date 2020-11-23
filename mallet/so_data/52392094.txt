@@ -1,1 +1,1 @@
-How to save user data in electron.js app?
+i seek to save user data for my electron.j app. the app has a graph with adjust values, which disappear when relaunch the app. demo: https://puu.sh/bx5or/ffb0382d0c.gifhow do i preserv these values? can (and should) it be done with sql?

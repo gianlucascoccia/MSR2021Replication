@@ -1,1 +1,1 @@
-nwjs (node-webkit) modify website javascript and css
+is there a way to modifi a websit javascript/css like we do with tampermonkey or greasemonkey but insid my nwjs app? i'v made a chrome extens that use the section in order to run javascript when a certain webpag loads, but i can't find a way to do so in nodej with nwjs.i need to run a few line i wrote when the end user load a certain page so thing will be modifi to match my app window and stuff.

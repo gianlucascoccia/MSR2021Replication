@@ -1,1 +1,1 @@
-How to de-register context menu listerners in electron
+i previous wrote this question stack of context menus in electron and creat this issu in the context menu modul for electron.even though my question abov is quit detailed, it got no replies. then, @sindresorhus recommend i ask this question on stackoverflow:how do i de-regist context menu in electron? i have a program in which, depend on where you click, a differ context menu will show up:and it works! that that, got rid of the electron-context-menu as well.

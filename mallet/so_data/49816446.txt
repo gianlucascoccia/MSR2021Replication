@@ -1,1 +1,1 @@
-Running electron as GUI for Python and Sharing data
+i am look to use electron as my gui for futur python projects.i would like to be abl to input inform to the gui side (electron) and then onc i press a button the python applic run without it just open the python shell.for exampl a calcul program in python where it get the two valu from electron and multipli them by each other(just an example)if anyon could lead me into ani document or exampl on how to do this would be much appreci

@@ -1,1 +1,1 @@
-Automatically click recaptcha box in electron with Javascript
+im attempt to setup an autoclick function in my javascript code that will click a recaptcha in my electron window when called. ive taken a look at a googl chrome extens that automat click recaptcha on a page success and their simpl code is on github. when i tri to implement their code into my electron window it is never successful. is this someth to do with electron or is it someth im just do incorrectly?thi is their code.

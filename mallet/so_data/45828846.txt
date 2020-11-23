@@ -1,1 +1,1 @@
-Triggering click from Electron main script
+how can i trigger a button click from electron main script?in my project, i have the html file with a button that i'd like to simul a click, a javascript file where i defin some behavior with jqueri and the main javascript file which is the main electron process.th electron main process should send a command to the render process to trigger a button click, but i can't access the render from the main.js. what option do i have to do this?

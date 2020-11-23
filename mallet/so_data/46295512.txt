@@ -1,1 +1,1 @@
-How to unit test a function that reads from or writes to files?
+my electron applic is save paramet in config files.how can i unit test the function without modifi the real data onc it goe to prod?i'd glad show you what i'v alreadi done, but i have no idea where to start.

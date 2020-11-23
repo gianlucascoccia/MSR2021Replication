@@ -1,1 +1,1 @@
-Download link inside iFrame works in Chrome, but not in Electron
+i have built an electron applic which download file from sharepoint. this work flawlessly. soon the file will be transfer to windchil and onli be avail there. when i substitut the download link with the link from windchill, it doesn't work, although the link work insid the browser. my app load the index.htmlboth with the same result.

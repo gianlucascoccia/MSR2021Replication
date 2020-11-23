@@ -1,1 +1,1 @@
-Progress bar based on file download
+how would i display a progress bar base on file download in node webkit?

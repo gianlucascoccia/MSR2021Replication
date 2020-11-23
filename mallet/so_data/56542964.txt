@@ -1,1 +1,1 @@
-Communicate with a device over wifi
+i have been ask if it possibl to creat a window app that can communic with a devic that has it own wireless so you can connect and control it from there. is it possibl to creat a react app with electron so that the app can be built on a window pc or mac to communic and control this device? i can't seem to find ani info anywher on how to do this from the react side of things, i can onli find this from node. can anyon point me in a better direction?

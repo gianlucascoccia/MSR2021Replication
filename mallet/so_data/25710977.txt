@@ -1,1 +1,1 @@
-Node-webkit desktop app restrictions
+i need to creat desktop applic that will run in full screen. and you should not have possibl to close it use alt-f4 or ani other keyboard combination.i it possibl to do use node-webkit or it has ani restrictions?

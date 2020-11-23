@@ -1,1 +1,1 @@
-a href vs window.loadfile
+i'm current chang page in my electron app with anchor behav like button and with their href attribut contain the url to correct pages.i'v start to wonder if i should use electron own api loadfile() for navigating. is there ani major function that i'm miss by use anchor hrefs?

@@ -1,1 +1,1 @@
-simulate('scroll') on a div inside a React component returns `AssertionError: expected false to be true`
+i have a react compon i'm write some test for. i'd like to test that when a function at the moment.

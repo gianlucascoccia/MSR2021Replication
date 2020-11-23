@@ -1,1 +1,1 @@
-Node.js open terminal window (Electron on Mac OS)
+i have an electron applic that i would like to open a termin (cmd window), and run a script within the termin on the click of a button. i have tri a few option such as howev this simpli give me the error syntaxerror: unexpect string and doesn't launch an extern terminal.if anyon has the solut pleas help me out, as i'v been struggl for a while.thank

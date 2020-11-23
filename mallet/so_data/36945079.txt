@@ -1,1 +1,1 @@
-Webpack not bundling .json file in node_modules properly
+i am current build an electron app to deploy on a raspberri pi3 with a react front end. it use webpack to bundl everything. i am also tri to use the node-raspicam packag to interact with the camera module. i have success been abl to use the node-raspbicam packag on it own outsid of this app. but when i tri to import it in this applic i get the follow error i am still fair new to webpack. what am i miss so that the options.json file in the raspicam node_modul get bundl properly?

@@ -1,1 +1,1 @@
-How to change the autostart name, publisher and icon when using app.setLoginItemSettings({ openAtLogin: true })
+i am abl to toggl autostart function in my electron (6.1.2) app by set packag instead, which i have use in an nwjs app before, but i couldn't get it to work becaus it seem that it incompat with the node version use by electron. i find it hard to believ that electron simpli doesn't offer to chang this via ani other option provid by that api.

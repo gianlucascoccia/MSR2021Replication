@@ -1,1 +1,1 @@
-How to display NativeImage in Electron
+i have an electron method, which return a nativ image. how can i add that imag to the dom and thus display it on my app? i'm unsur how to convert it.

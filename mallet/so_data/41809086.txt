@@ -1,1 +1,1 @@
-Node's and Electron's modules from inside Angular2
+i am develop an electron applic use angular2.in the electron folder (right?).what do i need to do to make them avail insid the ng part?

@@ -1,1 +1,1 @@
-Unable to set cookies in electron
+i'm tri to set cooki in electron but keep get error like insuffici number of argument while tri to run the build,thus argument pass to cookies.set() and therefore, the cooki never set

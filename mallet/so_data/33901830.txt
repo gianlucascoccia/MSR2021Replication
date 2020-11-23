@@ -1,1 +1,1 @@
-Inject multiple javascript sources in nw.js
+i'm tri to inject multipl script when the window opens:so far no luck. ani ideas?

@@ -1,1 +1,1 @@
-Sendkeys to VSCode with Powershell: only works 1st time, 2nd time, why do I get an error about nodejs?
+when i past this in powershel console, it worksbut if i past second time, i have a weird messag about nodej wherea it has noth to do with what i'm do ?!update: i suspect electronj so i add it in tag :)

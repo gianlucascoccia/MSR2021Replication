@@ -1,1 +1,1 @@
-Unable to set icon on electron-builder
+electron-build version: 20.11.1electron-build targets: win nsiswhen i run yarn dist it throw the error unabl to set icon . googl around i have discov it is caus by a bug in rcedit and it was report in novemb 2017, so it seem strang to me that no one has find a solut until now. are there ani other solutions? my final goal is creat an instal for my applic

@@ -1,1 +1,1 @@
-require('fs') not working with angular and electron
+i am use angular 6.0, electron 2.0, typescript 2.9, nodej 9.11 to make a desktop app use electron framework. i am struggl with access nodej nativ api from the typescript code. i have set "commonjs" in the "tsconfig.app.json" file. when i write : require('fs') or require('net') in ani of the ts file which are part of angular application, the system isn't abl to find those modules. onli one solut has work so far. it goe like this. first in native.j syntax?

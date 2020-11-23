@@ -1,1 +1,1 @@
-How to load modules in Angular Electron?
+i have a function angular electron applic which was made use this boilerpl code:https://github.com/maximegris/angular-electroni am tri to add the ngsanit modul (https://docs.angularjs.org/api/ngsanitize) to my applic and i'm stuck at "load the modul in your applic by ad it as a depend module":how can i do this in an angular electron applic with the current file setup? thank you!

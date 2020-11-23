@@ -1,1 +1,1 @@
-Microsoft Face API - 400 Request Body is invalid
+i am use the microsoft face api to build a facial recognit desktop app use electron. i can right now detect a face and creat a person group, but run into this error when i tri and add a person to my person group:

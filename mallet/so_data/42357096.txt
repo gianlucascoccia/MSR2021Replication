@@ -1,1 +1,1 @@
-Client http request to an Electron app
+so i am work on a project that i would like to turn into an electron app, current it is an angular (2.x) app and use express as the server. the issu i am run into is how to replic the express router in electron? basic i want to be abl to do gets, posts, updat etc from the client down to the electron server (current use @angular/http service). i know electron has their own messag protocol for asynchronous/synchron messag but it is more akin to a web socket.cli side example:

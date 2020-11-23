@@ -1,1 +1,1 @@
-Electron / Node file path location
+i have an electron app that is use electron-log to handl creat some debug inform for the app. by default, it is save the file to the follow locat per the module:

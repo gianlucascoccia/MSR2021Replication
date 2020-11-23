@@ -1,1 +1,1 @@
-Electron HTTPS for local file
+tri use electron to work with web speech api but it record no voice. it is probabl due to the https connect requirement, but how would i show https if i am load the app local like win.loadurl('app://./index.html')?i basic want to use webspeechapi on my local app but it doe not seem to work. i think it is probabl due to the requir of have an https connection. how would i go about have it if i am use a simpl main.j file?

@@ -1,1 +1,1 @@
-Bundling open source google fonts in a browser based desktop app
+i'm look to download and bundl open sourc font from https://fonts.google.com/ in a browser base desktop applic (electron based). i'm struggl to figur out what (if any) restrict exist when bundl someth from googl font in this scenario. is there an authorit sourc on appropri use of these fonts? i was not abl to tell if this is appropri use from the term of service. ani advic on this or the appropri place to post would be welcome, thanks.

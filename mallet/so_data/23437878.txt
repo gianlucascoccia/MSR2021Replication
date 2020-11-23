@@ -1,1 +1,1 @@
-Node-webkit protecting data
+how to pack, distribut and protect data when use node-webkit and creat execut app. i use enigma virtual box to creat pack app.ex (follow instruct from node-webkit github). but i must have a data folder in which my data.db file is. (i am use nedb for data persistence). that file is access to everi user and it can be chang easili with text editor. is there a way to protect that data or is there better way for distribut app.

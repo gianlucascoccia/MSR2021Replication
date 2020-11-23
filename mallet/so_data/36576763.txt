@@ -1,1 +1,1 @@
-Electron packaging - ASAR file error
+i am packag a meteor app use electrifi (bi extens the electron-packager). sinc the node modul path are too deep for window to accept, i ad --asar=tru as a packag option. now when i tri to start my packag app, i get the follow error:it seem to have a problem with read the asar file. do you know ani way to fix this?

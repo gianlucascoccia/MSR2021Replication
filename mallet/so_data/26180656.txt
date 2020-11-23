@@ -1,1 +1,1 @@
-Update only works sometimes
+when tri to updat data in a nedb databas i'm get

@@ -1,1 +1,1 @@
-App to access file system and run in browser
+i am will to make a portabl app use html css js and similar languag that doesn't need ani instal and can be access via a browser.th app should be abl to access the file system and create, write and delet files.th requir file will be on the local machine.i have triedapplet but the perform is too inconsist and depend on browsers.i have also tri use electron but the end result need instal (correct me if i am wrong)i am open to all suggest

@@ -1,1 +1,1 @@
-require(): "Is not a function"
+i'm tri simplifi go through code by creat a function which work as a class for the window. when do so, it smack the follow in my face: windows.main.initi is not a functionif you have ani simplic tip regard this, pleas also let me know. it mean a great deal that i make clean, readable, access code.main.j

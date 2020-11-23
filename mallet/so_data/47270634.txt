@@ -1,1 +1,1 @@
-Launch Electron application using selenium and java
+i'm tri to launch my electron execut use selenium and java in a window environ but i get a timeout error. the code that i'm use is someth like this:

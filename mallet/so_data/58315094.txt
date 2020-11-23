@@ -1,1 +1,1 @@
-How can i know that the mouse has entered window in electron project?
+what do i want to do when the mous enter the window with

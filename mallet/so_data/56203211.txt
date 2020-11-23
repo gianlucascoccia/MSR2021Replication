@@ -1,1 +1,1 @@
-Is there any other way to close a frameless window in electron 5.0.1
+i have a inner window, which is frameless and i creat a button to close the window. after ad the event listener, it doesn't close..it doe not return ani error

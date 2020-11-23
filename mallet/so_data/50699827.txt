@@ -1,1 +1,1 @@
-Electron-builder - path to include sqlite database in dev && production
+i'm use this templatehttps://github.com/simulatedgreg/electron-vueand includ a sqlite file in static/db/database.sqlitein my main.j i have thisit work fine for dev, but when build for production, i receiv this messag in devtools:sqlite_cantopen: unabl to open databas file

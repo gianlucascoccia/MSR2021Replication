@@ -1,1 +1,1 @@
-Node-Webkit frameless app covers taskbar when maximized
+i am develop an app in node-webkit (use the latest version, 0.9.2). when the main window (which is a frameless window) get maximized, it cover the whole screen, includ the taskbar, which is obvious not what i want.i am use window 8.1. on os x the maxim function work as expected. i am not abl to verifi this on window 7 and linux at the moment.

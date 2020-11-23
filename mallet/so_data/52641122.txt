@@ -1,1 +1,1 @@
-Using NeDB for testing, while using other DBs in FeatherJS application
+i'm wonder if it is common practic to use an in-memori databas for a test environment, instead of mysql (that has to be use for development/production).if it make sense, how do i set this up?i think i can creat .this question is solved, thank you!

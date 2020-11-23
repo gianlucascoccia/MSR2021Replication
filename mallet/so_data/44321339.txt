@@ -1,1 +1,1 @@
-Electron: How to access .Net COM Objects
+i am tri to creat a simpl applic use electron quick start. it go to be run on window 10 where i need to access few .net com object instal on that machine.when i googl about this i am direct to win32ol packag that need to be installed, but i see that this is 4 year old and it doesn't instal on my window 10 machine. i was wonder if ani one has ever manag to access the com server from within the electron node.j code? or if you have ani opinion on how to go about this requirements.regardskiran

@@ -1,1 +1,1 @@
-run escpos module with electron
+i'm work on electron project, i'm face problem when tri to use "escpos" module, it show me this error:know that i'm use node js v11.6.0, electron v6.0.12 and escpo v 2.5.2apprent escpo is built under node 8 version , is there a way to run it under node js 11 ?

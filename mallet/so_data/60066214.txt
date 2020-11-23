@@ -1,1 +1,1 @@
-electron event.returnValue returns mongo document _id as a bson object instead of a objectid
+i am current work on convert one of my mean stack project to be a desktop app with electron.when i click on a button in angular i want that to trigger ipcrend to send data to ipcmain, and base on that i want to do a search in my mongo databas and return the result to angular to be display in a table.mi main.js:ha anyon experienc this issue? ani suggest or workaround would be welcome.

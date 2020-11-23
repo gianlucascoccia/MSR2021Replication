@@ -1,1 +1,1 @@
-browser to get machine-id by launching an electron app or similar
+i want to identifi a user by uniqu machin id across all browsers. so came up with an idea of launch a app which determin the machine-id (like electron use nodejs) and pass back the info to the browser that launch it and use for identifi the user.i have seen someth like this been done on canyourunitcan anyon point me right direct where can i find some info about this kind of approach.

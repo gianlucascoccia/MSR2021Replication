@@ -1,1 +1,1 @@
-How do I use electron window inside typescript components?
+i'v alreadi creat a main.t for control whole electron window. but i cannot handl electron insid compon of angular2. and there is no option for import electron in ts

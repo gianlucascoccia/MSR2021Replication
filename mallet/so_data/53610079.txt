@@ -1,1 +1,1 @@
-Electron: Cannot read property 'send' of undefined
+i'm tri to read the file from a directori use the fs module, and display that in a div with the id displayfil in an electron app. i keep get the error :&#xd;&#xd;&#xd;im tri to to the ipc modul to communic between the renderer.j and the main.j file. from what i read, i should be abl to the ipcrender modul to send a messag to the main process via a channel but i kept get this error. can someon tell me what i'm do wrong?

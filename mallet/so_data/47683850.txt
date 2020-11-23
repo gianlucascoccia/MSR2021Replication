@@ -1,1 +1,1 @@
-Missing data in PouchDB using sqlite with Electron
+i'm use pouchdb in my angular2 base electron applic with pouchdb-adapter-node-websql store db with sqlite.thi code is suppos to work everi time without issues, actual in my dev environ it never lose data.but while run the applic as product i realic that sometim after a restart the data is missing. i know pouchdb make version of data as part of the core, but use other adapt like indexeddb this is not happening. ani idea?

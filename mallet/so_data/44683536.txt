@@ -1,1 +1,1 @@
-Electron - Network path cannot be found
+i am tri to run a batch file in electron use a network path. the function i am use is:i understand it doe not like the space in the network path. i have tri mani combin of quot and string concatenations, but still no luck.thank you in advance.

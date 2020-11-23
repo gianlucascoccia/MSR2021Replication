@@ -1,1 +1,1 @@
-Change border-color of select option box
+i am tri to chang the border color of the option box for a nativ selects. i onli need to support chrome (electron app) so no worri for backward compability. in the attach imag below you can see the orang border. that the color i want to change. cheers!

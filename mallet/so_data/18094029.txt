@@ -1,1 +1,1 @@
-Node-Webkit: How to create a file in the local file system?
+with use node-webkit, i'm tri to creat and write to a text file in a user defin local folder from within a web worker js file. i tri use , etc. but i'm not sure where this file is save (can it be written to an defin local folder, or is it "sandboxed" to a special folder location?).can anyon offer advic on the best way for me to creat text file from a web worker to an arbitrari local folder location? that is, in the local file system outsid of a sandbox file system?thanks.

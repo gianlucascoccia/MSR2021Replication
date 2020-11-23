@@ -1,1 +1,1 @@
-Can't insert data forms to sql server using electron
+whenev i click the submit button, it won't transfer the data to mssql. it seem like it onli work on hard-cod queri with onload event without the web forms.html

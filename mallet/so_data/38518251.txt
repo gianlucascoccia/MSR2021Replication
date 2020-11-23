@@ -1,1 +1,1 @@
-nw.gui - TypeError: Cannot read property 'on' of undefined in gui.Window.open
+use node webkit, i'm tri to open a new window from the click of a button in the initi window, and at various point write to a textarea in the new window when run node.j code in the initi window context.th initi window (index.html) contain the follow js:i realli don't know what go on here - is there an issu with the event contexts?

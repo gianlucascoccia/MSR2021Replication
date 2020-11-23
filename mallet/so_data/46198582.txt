@@ -1,1 +1,1 @@
-Is there an electron documentation for VSCode?
+is there ani way to load up the electron document so that vscode can, show the electron suggest when i start type a new word, and show the comment of each function and it paramet when i hover over it. i couldn't find an electron extens on vscode that doe that.

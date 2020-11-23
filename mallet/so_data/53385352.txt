@@ -1,1 +1,1 @@
-Some code can't be used after packing with electron-packager
+//this is a touch and drag sort code, but setinterv sometim doesn't work after packaging//i would be grate if there is a reply.

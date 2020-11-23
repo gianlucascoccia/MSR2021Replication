@@ -1,1 +1,1 @@
-Opening restricted files with Electron
+i have figur out how to read an ordinari file use electron use

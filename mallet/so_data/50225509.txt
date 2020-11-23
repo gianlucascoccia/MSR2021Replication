@@ -1,1 +1,1 @@
-Call a method within a React Component from Electron's globalShortcut
+i have a react compon with a method:how can i achiev this? there not much inform i could find on this subject.

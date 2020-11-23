@@ -1,1 +1,1 @@
-Deploy reactjs by electron for creating desktop app
+i know my question is obvious but i want to find best practic for that. how can we deploy a reactj project by electron in lowest size of package? can we deploy the built reactj project by electron? i use and i don't want to eject that.

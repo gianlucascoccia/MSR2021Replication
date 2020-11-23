@@ -1,1 +1,1 @@
-Deep linking on a new window using file:// with aot
+contexti'm creat a desktop version of an angular app, for that i'm use electron.open main window is quit easy:, didn't chang anything.for now, i'm build my electron app without aot but this is not a solut that i want to use for my release, be abl to load frame from electron with a deep link and aot enabl is a thing i need to be abl to do.

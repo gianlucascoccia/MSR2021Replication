@@ -1,1 +1,1 @@
-Complexe child_process not working with Promise bluebird
+i wan't to execut a shell command use child_process from node.j https://nodejs.org/api/child_process.html, i am do an electron program use react js.i want to do a promis with bluebird, my function work but just for a small command like ls but if i want to execut a simpl hello world program in a folder i want to do someth like : can you help me pleas ?

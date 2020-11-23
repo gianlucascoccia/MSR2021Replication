@@ -1,1 +1,1 @@
-electron - loading page when certificate is imported
+i am use https and in case of a self-sign certificate, i want to prompt the user if he want to import the requir certificate. (practic the same thing browser doe when load page without trust certificate)i have found out that there is a function parti it possible? or do i have to for exampl load the page again to show it? if i run the app when the certif is alreadi imported, it work just fine. otherwise, i get onli a blank window.ani help is appreciated, thank you

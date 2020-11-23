@@ -1,1 +1,1 @@
-Electron - How to sniff http request body
+i have a simpl electron app which load a certain website.thi websit is do http get/post requests. i want to sniff the bodi of the server responses.i alreadi check out the webrequest modul which seem pretti nice. unfortunetely, it handl all data except the body.how can i sniff the bodi of the server responses?

@@ -1,1 +1,1 @@
-NW.js / NodeJS Google Analytics integration
+i tri to implement googl analyt api in a node-webkit applic with analyt measur protocol, i manag to do that with ga-dev-tools.appspot.com but i can't use it with a simpl javascript request.i suppos the problem was the header paramet "origin" (in a node-webkit app is "file://"), therefor i tri to use a http request with node but i reach the same result: googl respond with i tri to find a nodej modul to do that but i can't find one with applic integr (screenview, an, av..)someon can help me?

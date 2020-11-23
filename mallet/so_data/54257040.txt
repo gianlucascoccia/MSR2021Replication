@@ -1,1 +1,1 @@
-Using nodegit in Electron app throws "Symbol not found:" errors
+i build a project in electron and, when i done i want to add git support to app.i tri add this, by ad nodegit to my project. simpl i tri to delet node_modul folder and instal npm again. i tri npm rebuild to. when i put "node -v" i have v10.15.0is ani way to fix this issue, or differ way to add git support to electron app?thank for answer! :)

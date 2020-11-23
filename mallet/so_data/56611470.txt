@@ -1,1 +1,1 @@
-Why doesn't NWjs work with socket.io like it does when I run my server with Node?
+when i run my socket.io server with node it works. but when i packag it with nwjs it doesn't. specifically, the client alert connected! on the connect event but doesn't respond to ani other event from the server. in fact becaus nwjs consol doesn't log command from the node server, i can't even begin to debug what the problem is.

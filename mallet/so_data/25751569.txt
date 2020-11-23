@@ -1,1 +1,1 @@
-Execute Command with sudo Node Webkit
+i found this on the npm site and instal it on my machine.https://www.npmjs.org/package/sudobut when i instal it and copy/past the exampl code they had, noth show up, no errors, no prompt, no output, nothing. sinc there is littl document to go with this i was wonder if anyon has ani insight into the correct usag of sudo run on node webkit.

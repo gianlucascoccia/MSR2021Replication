@@ -1,1 +1,1 @@
-UAC management for an app build with electron-packager
+i use the winreg npm packag for my app and i need elev privileg for the use i have.i would like to associ a manifest file with an app build with electron (atom-shell) and packag on window with electron-packag but i can not find ani way to do it easily.an old app of mine was made with cx_freez and it suffic to put the file with the name app.exe.manifest in the same directory.i can't understand whi it doesn't work this time.

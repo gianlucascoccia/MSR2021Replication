@@ -1,1 +1,1 @@
-Socket.io connecting but not emitting or listening with electron.js
+i'm tri to make a chat program use electron.j and socket.io, but while my socket.io code work perfect when i test it in the consol or browser, onc i load it into electron code the socket onli connect, they can't receiv or emit data. here my codeserver.j

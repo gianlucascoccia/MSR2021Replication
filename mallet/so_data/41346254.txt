@@ -1,1 +1,1 @@
-ElectronJS - Cache HTML and JS files from remote server
+i have an electron app that retriev the app file (.html &amp; .js) from a remot server use the function the problem aris if the user network connect to the internet is offlin or disconnected.i there a way in electron to cach the html and js file so that if the user is offline, electron will automat load from the cache.i have tri to use the html5 applic cach and a plugin for webpack https://github.com/nekr/offline-plugin but these do not seem to work.

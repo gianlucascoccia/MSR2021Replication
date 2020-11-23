@@ -1,1 +1,1 @@
-Electron load remote URL and load local file
+i have a video instal for an art exhibit with big video (sever gbs) and a onlin host webapp. sinc i want to save some bandwith dure the exhibition, i would like to packag the video into an electron app, load the webpag onc dure startup and load the video from the local filesystem / packag electron app.i'v alreadi achiev to disabl the websecur (it fine, no one besid me run this application) and i alreadi get the error messag in the js consol my folder structur look like following:

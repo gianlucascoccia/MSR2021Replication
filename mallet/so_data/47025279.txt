@@ -1,1 +1,1 @@
-Node server for electron app
+i'm creat an aplic with electron + react. the app has to allow user to save file on the server (someth like googl drive).now, im build the server side with express but i dont now how to send file to the client. how could i do it?would it be nice to use an ftp server instead of node?thanks.

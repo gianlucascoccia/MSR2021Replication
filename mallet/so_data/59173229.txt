@@ -1,1 +1,1 @@
-How to remove a tab from .exe file >properties
+i have packag electron app. when i click on .ex file properties. i see tab call git, this has some unnecessari info i want to remov this tab . ani idea how to do this?i have attach a pic for clear understand

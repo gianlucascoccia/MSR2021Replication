@@ -1,1 +1,1 @@
-Use sqlite3 in electron, db.serialize dose not work properly
+package.jsonwhat can i do now?

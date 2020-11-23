@@ -1,1 +1,1 @@
-How to fix electron sqlite3 rebuild error ( Syntax error) on windows 10
+so i ran it give me this error. × rebuild fail an unhandl error occur insid electron-rebuild gyp err! configur error gyp err! stack error: command failed: c:\users\newub\appdata\local\programs\python\python37\python.ex -c import sys; print "%s.%s.%s" % sys.version_info[:3]; gyp err! stack file "", line 1 gyp err! stack import sys; print "%s.%s.%s" % sys.version_info[:3]; gyp err! stack ^ gyp err! stack syntaxerror: invalid syntax

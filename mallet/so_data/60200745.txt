@@ -1,1 +1,1 @@
-"require is not defined" error comes when i try to import js file (with node modules) to my main electron js file
+this is my folder folder structur hi im new to electron.j i was face for an issu where that i cannot captur jqueri event in my main.j file. as a solut i creat a separ file (events.js)[now i can captur jqueri events] and i connect it to index.html. so in my event.j i ad a cron-job(node-cron) to check whether it work or not, but when i tri to run a project i get an error say requir is not defined. without ani import librari , it worked. this is my index.html

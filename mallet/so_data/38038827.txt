@@ -1,1 +1,1 @@
-How do I install typescript definitions for Electron?
+i have two problems:which definit should i install? give me an error: attempt to compil "github-electron" as an extern module, but it look like a global module. you'll need to enabl the global option to continue.

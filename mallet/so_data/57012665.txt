@@ -1,1 +1,1 @@
-React intermittent CORS errors
+i have written an applic in electron that allow user to make api request and save them into a file. the request object are first save into memory. i then do a entirely, the error never show up. ani help here. alternatively, ani help with pretti print json to a file would be help as well.

@@ -1,1 +1,1 @@
-Configure electron-builder to run powershell script
+i have an instal file creat by electron-build and face issu that can't find a way how to run powershel script after installation.th idea is to make some chang in window registri and set permiss for applic folder.a far as i understand it should be configur in method, but i can't figur it out how to execut powershel file through it. thank you.

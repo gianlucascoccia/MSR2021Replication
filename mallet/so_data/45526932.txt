@@ -1,1 +1,1 @@
-React Router v4 dynamic redirect initial load
+i am creat an electron app and i'm not sure the best pattern for handl the following:th app let user creat a group. so a group rout would be doesn't actual exist but i can handl load the group from local storag and then forc a redirect insid of this component. just not sure it the best approach.

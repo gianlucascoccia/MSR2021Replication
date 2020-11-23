@@ -1,1 +1,1 @@
-Using bootstrap offline
+i am creat a desktop app use electron and i would like to includ bootstrap. however, i want my app to be usabl offlin onc it published, and i'm wonder if there a way to static save the applic bootstrap element within my app so that it standalone.ani ideas?

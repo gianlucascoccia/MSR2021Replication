@@ -1,1 +1,1 @@
-How to build a Snap with Electron-Builder with access to zlib 1.2.11?
+i'm packag an app that reli on zlib 1.2.11. electron check the system zlib version and use it. with an appimag this work fine, but with a snap made use the default templat the app cannot use the system zlib version.i it possibl to packag a snap with access to zlib 1.2.11?

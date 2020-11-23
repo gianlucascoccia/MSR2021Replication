@@ -1,1 +1,1 @@
-Starting Electron.exe or electron project - no BrowserWindow opens up
+i'v been tri to get an electron program to work on my window 10 laptop, but i can't get the .

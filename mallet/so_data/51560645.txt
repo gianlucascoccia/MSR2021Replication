@@ -1,1 +1,1 @@
-Error in Electron and Node.js
+i am pretti new to electron and node.j i am follow a tutori of how to make a shop list applic but when i tri to run it (use: “npm start”), it say this:can someon help me?

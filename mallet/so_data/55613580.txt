@@ -1,1 +1,1 @@
-Error: Cannot find module 'ffi' compiling ElectronJS project
+i'm new on nodejs/electronjs.i need to use user.dl functions.mi actual situat is:window 10 on parallelsnod -v = 10.15.3 (lts)npm -v = 6.9.0i installed:what wrong?

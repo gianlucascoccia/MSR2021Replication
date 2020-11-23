@@ -1,1 +1,1 @@
-Is it possible to print a byte array on a printer in npm like in java with DocFlavor.BYTE_ARRAY.AUTOSENSE
+i am replac an old java applic with an electron app. in the old application, we open the cash drawer of a cash regist by print a byte array with a docflavor docflavor.byte_array.autosensei it possibl to do the same thing with an npm package?

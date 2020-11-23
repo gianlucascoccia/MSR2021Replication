@@ -1,1 +1,1 @@
-Building React Native/Electron apps on remote server
+is there ani standard way to build react nativ (android) / electron (win, linux) app on remot comput (server)?bi standard way i mean some tool what i can download and start some build server.or i need to make my own by for exampl make git, instal build-tool and program some interfac to build automatically.i am not search for 3th parti cloud services.thank for help, i not found ani solut by search on googl or here on so.

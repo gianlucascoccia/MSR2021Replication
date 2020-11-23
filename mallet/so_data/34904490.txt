@@ -1,1 +1,1 @@
-Node Webkit App and page displayed
+i am creat a desktop applic with node webkit to creat a file on disk. it is work but when i tri to send the succes messag to the page it reload the page chang the titl bar to index.html and delet the head it was before. what i am do wrong?thi is the code:

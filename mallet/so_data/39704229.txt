@@ -1,1 +1,1 @@
-White flash with electron
+i'm develop a javascript videogam with some friends, use electron.w have a render problem, when we launch the game, some white block appear on the screen and we just have no clue of the sourc of this problem. you can see it on this video : https://www.youtube.com/watch?v=puepftbhmh4 can someon help us?

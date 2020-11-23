@@ -1,1 +1,1 @@
-Extending nw.gui functionality in Node.js Module
+so i'm build a node modul for use with node-webkit that creat a new object and export it. standard fare. but sinc node has no access to the hasn't been set. basically, i'm tri to make it nicer to add new prototyp method to node-webkit modul without do it in the constructor. anyone?

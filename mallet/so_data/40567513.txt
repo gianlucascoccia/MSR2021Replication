@@ -1,1 +1,1 @@
-Stream OpenCV frames to Electron
+i'm tri to stitch video come from 2 camera and stream the output to an electron applic but i'm not realli sure how to go about do this.

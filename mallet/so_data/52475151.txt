@@ -1,1 +1,1 @@
-Loading div from external site in Electron app
+tldr: how can i show #div from anoth url insid electron app.i'm learn javascript and i'v came across this problem. i want to load specif div from anoth websit insid electron app. alreadi tri look for the solut onlin and read docs, but that failed.i'v tri use javascript with this:and it show - nothing. blank div.

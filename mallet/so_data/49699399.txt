@@ -1,1 +1,1 @@
-Why electron apps does not have localStorage object when accesed from development tools? (Ctrl-Shift-I)
+i'm tri to access some data that is present in discord app to write it to disc. becaus i'm go to do that without human supervis everi x seconds, i have thought of use localstorag to store this data, but it seem i can't access this object from the console. i get a localstorag is not defin error. i also tri windows.localstorag without ani luck either.i there ani way to achiev this from a electro app dev console?her a pictur of the problem:cheers.

@@ -1,1 +1,1 @@
-Is it possible to build Apps comatible for Mac OS 10.6 using Electron?
+i am new to electron. build osx app use electron is easy. however, i couldn't make the app compat with osx 10.6 and higher. is there a way to do this? the default build target latest version of osx. i want to make it compat with mac os 10.6 and higher.appreci your help!

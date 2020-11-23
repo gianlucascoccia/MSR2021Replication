@@ -1,1 +1,1 @@
-Electron App Chromium Update Notice
+i'm build a kind of kiosk app with electron and node. this applic has to run on a system without ani connect to the internet. some time ago i built a html5 / javascript applic for a similar purpos that run in an offlin system on chromium portable. but after few week chromium come up with an annoy notic and must be updat to get rid of this message.wil chromium bundl with electron show the same behavior?

@@ -1,1 +1,1 @@
-Yarn add command returns http 405
+i ran this command:yarn version: 1.21.1node version: 12.13.0os: window 10 pro 1909 build 18363.535

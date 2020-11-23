@@ -1,1 +1,1 @@
-custom error window/handling in Electron
+i'm current build an applic for file backup, and it got quit a bit of read and write to the filesystem. most of it work great, but i'm struggl a bit with the error handl of the app.in the screenshot below the last path is not a valid directori and return an except as you can see. my question is, is it possibl to replac the standard error window with my own? or in some case ignor the pop up of the error window? first time work with electron so sorri if this is an obvious one.thanks!

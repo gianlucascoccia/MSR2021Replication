@@ -1,1 +1,1 @@
-toggling enabled property of menuItem which has a subMenu?
+question: should we be abl to toggl the "enabled" properti of a menu item which has a submenu?a menuitem below has a submenu. depend on the app context, all off the submenu item will be disabled. i'd like to toggl the "enabled" properti of that top level menu so that a user doesn't click on it onli to see disabl items:noth happen when i set the "enabled" properti of the top level item (i set the submenu item "enabled" separately)

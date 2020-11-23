@@ -1,1 +1,1 @@
-how to get a Network Panel show up when debugging Electron/Node applications
+i am build an electron applic and i am use librari (request/axios) for make requests. one thing i didn't expect is that make these request on node won't display a requests(i assum these librari all use https)?current on my server side electron app i onli see the follow

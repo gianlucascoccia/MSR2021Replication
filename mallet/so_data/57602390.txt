@@ -1,1 +1,1 @@
-how to clear user data while delete mac electron app from application directly?
+how to delet user data while delet the maco electron app? it seem we need to write a daemon to listen to the folder change, but how to do? do you have more clear or easier method to handl it?packag use electron-builder.

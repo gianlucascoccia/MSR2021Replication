@@ -1,1 +1,1 @@
-Can node-webkit or atom-shell take screenshot of entire desktop screen?
+i want to take a screenshot of entir screen (printscr), not just browser window. is this possibl with either node-webkit or atom-shell?

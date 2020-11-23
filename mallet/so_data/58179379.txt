@@ -1,1 +1,1 @@
-Electron: difference between process.defaultApp and app.isPackaged
+what is a the differ between electron flag may be use in the main process only.

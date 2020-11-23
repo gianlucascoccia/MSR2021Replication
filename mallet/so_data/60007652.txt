@@ -1,1 +1,1 @@
-Electron : Error on generating Setup for Windows with electron-winstaller on MacOsx
+sinc i'm use catalina i'm not abl to generat new nupkg and setup.ex with electron-winstaller.i think it a permiss problem but i don't know how to resolv it.hop someon could help me.thanks.th error that appear just after the creation of the nupkg :

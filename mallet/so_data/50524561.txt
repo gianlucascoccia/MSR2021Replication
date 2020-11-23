@@ -1,1 +1,1 @@
-How to ignore src folder from package
+i have an electron app and below is the folder structure.but here the problem is my node_modul also have some packag which contain src folder and those src folder are also get ignor by abov --ignore=/src statment.

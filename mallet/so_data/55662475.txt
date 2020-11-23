@@ -1,1 +1,1 @@
-how to get squared corners with frameless windows in electronjs on macOS?
+i am creat an electron app and i'v notic that frameless window have round corners. in fact most app have round corner on macos. the problem is i total want to have an app with squar corner like on window 10.i'v tri to set anyon with ani suggest or code solut even ?i'v also notic that when window are transpar on maco they have a top whitish border. ani guess on how i can solv this ?cheers,mk

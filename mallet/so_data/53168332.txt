@@ -1,1 +1,1 @@
-Trust custom CA in electron-builder's autoUpdater, without importing to system
+how can we programmat make the autoupd of electron-build trust a specif custom ca certif when fetch updat use the api claim that it tri to follow close the node api, but doe not mention anyth relat to certificates.

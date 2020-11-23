@@ -1,1 +1,1 @@
-what is the command code for 64bit windows electron js?
+in nodej package.json i have the below command for 32bit window app: "package-win": "electron-packag . test -app --overwrit --asar=tru --platform=win32 --arch=ia32 --prune=tru --out=release-build --version-string.companyname=c --version-string.filedescription=c --version-string.productname=\"test app\"",but i want the same for 64bit architecture.

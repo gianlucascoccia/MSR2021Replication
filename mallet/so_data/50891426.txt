@@ -1,1 +1,1 @@
-Electron event fires multiple times
+i have one page, that load new element via jquery. i have page that have event listen like

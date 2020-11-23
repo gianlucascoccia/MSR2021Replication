@@ -1,1 +1,1 @@
-Electron - how to handle in page popups
+insid electron i'm load an old site. the code is simple:) when a user click a button. when the popup opens, i see someth flash on screen, but it doesn't stay open. i have 2 questions:i there a way to prevent this flash? is there a way to control this popup and show it to the user? or get it url in some way?

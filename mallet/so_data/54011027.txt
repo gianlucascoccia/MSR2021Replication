@@ -1,1 +1,1 @@
-Routing doesn't work on packaged Electron app using ReactJS and reach-router
+i'v manag to complet success packag of a react app use electron. it run fine and load the home page but when i tri to route, it simpli doesn't work. i am use reach-rout for my project and i'm guess i have to tweak my rout configur for this purpose. fyi, it not a network request that i'm making, it simpli rout to login page from homepag which doesn't need an api call. but noth happens. there is help on how to fix this issu with react-rout but there is noth on reach-rout on the internet.

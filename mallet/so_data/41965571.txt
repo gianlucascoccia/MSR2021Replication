@@ -1,1 +1,1 @@
-nightmarejs , hangs the browser
+pleas help. i do not understand what the problem is a nightmare. the essenc of the applic logic is as follows: in the databas has a list of task for a nightmare, when measur state is generat by the initi process of a nightmare.th problem sludyuschem, at some point in time copi of a nightmar to stop respond and hang. on the counter in the databas it can be seen that they can work for longer than specifi in the timeout set nightmare.pleas tell me what could be the problem and how it can be combated.check the status and run:

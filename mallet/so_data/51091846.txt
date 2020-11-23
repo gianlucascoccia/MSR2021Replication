@@ -1,1 +1,1 @@
-Electron windows installer is not creating the shortcut on desktop
+tri mani time and mani solut but all give me the same problem. everyth work just fine, the app work and no issu with it, it just the shourtcut that is not be creat on desktop. i can see from the log file emulatefileiopermissioncheck and a messag error the given path format is not supported. but not sure what it means. i experienc the same error with this modul "electron-squirrel-startup". here is what is happen relat to squirrelsetup.log

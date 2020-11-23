@@ -1,1 +1,1 @@
-How to make a connection between javascript and a python file?
+i have a python file which make some predict on a csv file and display the output. i don't have ani user input data. now i am tri to display my predict on an electronj app by connect it to a front-end. my html file look as below:mi expect result is to show the predict on the browser or on an electronj application. but when i tri to click on the button noth seem to happen! can anyon pleas help me out with this??

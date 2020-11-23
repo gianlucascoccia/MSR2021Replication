@@ -1,1 +1,1 @@
-Electron app, How to set the release server URL, only for download app update
+i am new to electronj and i am use electro-updat packag to publish the app and to fetch app update. i have configur as per the document and current the checkforupd method is get an updat from s3 bucket for now, but i need to chang it to https url so in futur checkforupd method should call the url and not the s3 bucket.

@@ -1,1 +1,1 @@
-Hide window from program switcher in NW.JS
+i'm write desktop applic with nw.js (node-webkit). in my applic user may open mani window and i would like to hide them from program switcher (alt+tab) and from taskbar. i alreadi found option to hide the window from taksbar, but can't find ani way to hide it from program switcher. is it even possible? or at least is it possibl to group all window as one (just like in sticki note on windows)?

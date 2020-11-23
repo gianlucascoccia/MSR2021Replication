@@ -1,1 +1,1 @@
-Electron builder to overwrite existing gihub release files
+i'm use travi to deploy my electron applic as a draft release. i want the electron builder to upload the artifact after each success build in to github. so the latest stabl releas is avail on github. howev when electron builder is tri to upload the file, if it alreadi exist in github it doe not overwrit it. is there an option to do this via electron builder?if not what kind of cli task/tool that i can use to achiev this ?

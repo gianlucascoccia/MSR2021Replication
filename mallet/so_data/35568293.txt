@@ -1,1 +1,1 @@
-Can you use absolute paths in Electron?
+simpl question here that i can't seem to find a straight answer for.i there ani way to use absolut path for depend (e.g. which load index.html just fine, but here the thing, index.html load which fail becaus it look in the root of the entir hard drivethi would make my life quit a bit easier, as otherwis i'd have to refactor a bunch of templat urls, and do some would forev break my app if i ever want to add page in a subdirectori on the websit (e.g. http://website.com/m/).ani suggestions? thanks!

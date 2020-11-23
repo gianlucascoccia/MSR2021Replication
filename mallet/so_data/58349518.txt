@@ -1,1 +1,1 @@
-Nightmare page content not loading - Cannot assign to read only property 'onbeforeunload' of object '#<Window>'
+i'm use nightmare.j to make a bot that should perform the follow tasks:go to facebooklogin into facebookgo to marketplacemak a marketplac publicationonc i get into fb and success login, no content is load except from the bluebar:nightmar use electron, which devtool throw follow errors:not this is a self answer question, please, do not remov the answer. you may downvot it if, with some reason argument, you don´t agre with it or have a better proposal.

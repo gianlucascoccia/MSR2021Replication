@@ -1,1 +1,1 @@
-Can I get the MainWindowHandle of an Electron window?
+i have an electron app that spawn a c# app. the c# app want to fetch the electron browserwindow to be set when the window is an electron/chromium window, or doe this onli work for c# windows?

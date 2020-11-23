@@ -1,1 +1,1 @@
-Performance measurements from Spectron
+is there anyway to use spectron to pull out perform metric like fps? it would be veri use to know if our electron app is stay perform as it complex grows.i'v been look around onlin but don't see anyth for webdriverio or spectron. i also had a look at the electron api but noth seem obvious. even a way to dig into the dev tool might work, i wonder.

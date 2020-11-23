@@ -1,1 +1,1 @@
-How to create loading screen for node-webkit?
+i have creat a node-webkit desktop app but it take long time to load after i click . is there ani way to show load screen. i am search for a solut for this but i didn't get one.

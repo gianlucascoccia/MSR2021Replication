@@ -1,1 +1,1 @@
-Sharing an ESM ".js" module within Node / Electron environment
+in my electron app i have a larg file

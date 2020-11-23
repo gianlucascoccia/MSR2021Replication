@@ -1,1 +1,1 @@
-Node Webkit - Interactive pop ups
+look to see if anyon has an answer for me. look to have a node webkit applic with an interact popup, perhap html5 growl with a input field. is this possibl with node webkit?

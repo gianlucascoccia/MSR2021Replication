@@ -1,1 +1,1 @@
-Command line node-webkit app
+i would like to be abl to creat a node-webkit (nw.js) applic and then be abl to start it from the command line with argument to pass into the applic itself. i would like to be abl to run the command callback back to the command line after it has closed.how would i go about creat command line interfac for a desktop app built use node-webkit?

@@ -1,1 +1,1 @@
-NPAPI flash plugin for usage with node-webkit
+i'm tri to pack my web-app to all major os (win+mac+linux) use node-webkit (https://github.com/rogerwang/node-webkit).mi problem is with the npapi flash plugin. current it is be phase out by googl and others, so i can't find a place to get it for all (or any) platform (for win it a dll, mac it someth els etc.).i have to use flash for some featur of the app.ani ideas?

@@ -1,1 +1,1 @@
-NodeJS: Append file inside a callback function
+i have a electron js app that start a independ child process (non-blocking) (binari application) that i wrote in c++.i would like to stream the c++ standard output [stdout] to nodej and log it in a log text file.i alreadi saw the differ between use

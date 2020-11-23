@@ -1,1 +1,1 @@
-electron-vue: store properties set but not rendering (VUEX)
+folks,i am start electron-vuej desktop applic programming. i am learn how

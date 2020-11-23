@@ -1,1 +1,1 @@
-Cannot write data into the sqlite db file inside asar archive in electron app
+&#xd;&#xd;&#xd;&#xd;&#xd;i was abl to read the data from the databas file insid the asar archive, but while write the data into db file, it doesn't get updat insid asar archive. so pleas help me crack this issue.

@@ -1,1 +1,1 @@
-electron builder puppeteer missing local chromium
+is use the two packag.json structur to load depend in electron builder config.in dist/node_modules/puppet the folder .local-chromium is missing. ani idea how i can forc instal local chromium?

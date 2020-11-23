@@ -1,1 +1,1 @@
-Nodejs Electron how to get rid of the right click option on the windows context menu
+i am tri to get rid of the option to press electron on the window context menu/renam it and chang the picture. to explain it better i want to stop electron show here https://gyazo.com/8b8f2a17c3ec0acba646a4d4abfacd47

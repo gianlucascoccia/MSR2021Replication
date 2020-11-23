@@ -1,1 +1,1 @@
-ElectronJS build doesn't include needed folder
+i'm work on a electronj and expressj project to build an applic that run an api in background and show a system tray with some featur to control and monitor that api., i jsut keep it fals to check if folder and file are includ right.ani idea will be helpful.

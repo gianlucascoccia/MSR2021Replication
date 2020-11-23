@@ -1,1 +1,1 @@
-Does not show the view AngularJS
+i tri to show a view with angular paths. the consol doe not throw ani error or warning.but equal the view is not displayed.what am i do wrong?index.htmlit wrong? becaus the view is not displayed? i'm use obsolet mertodos, guid me lleguar mani tutori there.thank so they can help.

@@ -1,1 +1,1 @@
-Electron with Reactjs execFile error when packing the app
+i use i pack the app with the follow command:"electron:pack": "yarn build &amp;&amp; electron-build build -w"

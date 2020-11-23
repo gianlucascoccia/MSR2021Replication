@@ -1,1 +1,1 @@
-How to build electron GUI for CLI tool with electron-builder
+i'v made an electron app which is an gui for 3rd parti cli tool and luckili it work fine in develop mode when i run but i cannot find how should it look like.

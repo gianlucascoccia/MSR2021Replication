@@ -1,1 +1,1 @@
-How to get started with angular2 in nw.js
+how can i get a work hello world for angular 2 under nw.js?i success got a work angular 2 app use this guide:https://angular.io/docs/js/latest/quickstart.htmland a work nw.js app use this one:https://egghead.io/lessons/javascript-your-first-nw-js-desktop-application-in-less-than-5-minutescombin the two i get this:i'm on linux.

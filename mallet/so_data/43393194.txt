@@ -1,1 +1,1 @@
-Signing Windows Electron App
+i have an electron app that compil fine on window use command that will build a sign window app?

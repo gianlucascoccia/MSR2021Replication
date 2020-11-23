@@ -1,1 +1,1 @@
-NodeRT: could not find assembly
+i am write an electron app with electron-windows-notif which is depend on nodert.a i tri to instal my project, i get follow error for each of please, can you help me?thi question was also ask here: https://github.com/nodert/nodert/issues/56.

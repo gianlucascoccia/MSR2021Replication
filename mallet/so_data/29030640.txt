@@ -1,1 +1,1 @@
-Set quota for HTML5 File API in NW.js application
+how do you set the quota for the html5 file api in a nw.js application?her is my package.jsonus quota: 0, remain quota: 0

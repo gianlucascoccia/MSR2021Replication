@@ -1,1 +1,1 @@
-Electron React : Unable to view console log from react
+i have electron app which access react app run on dev server. i use loadurl("http://localhost:3000/") to access the reactapp within electron. the react app have consol log howev not abl to view the log anywhere. how do i view these log messagesnb: i am new to js /react/electron and come from enterpris java background

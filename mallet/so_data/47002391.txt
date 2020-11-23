@@ -1,1 +1,1 @@
-Which Node APIs are included in electron?
+i am work on an electron app and was wonder which api from node are includ in electron and if there are ani differences.for example, i know that . i haven't found anyth in the doc about the support apis.

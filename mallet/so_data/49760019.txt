@@ -1,1 +1,1 @@
-Angular & Electron - IPC communication between main & render processes
+there are small model:it seem that ipc work fine, but for some reason when i get the respons i have a differ instanc of the settingscompon class. i don't know whi and how to manag it. ani idea or suggestions?

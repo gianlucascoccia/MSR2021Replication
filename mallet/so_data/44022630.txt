@@ -1,1 +1,1 @@
-Error while installinng libimobiledevice in ubuntu 14.04
+after instal libimobiledevic in ubuntu 14.04, when i run command ideviceinfo it is generat error could not connect to lockdownd, error "code -5"'i have other depend - build-essentiallibudev-dev,libimobiledevice6,libimobiledevice-utils,libusb-1.0-0-dev,libimobiledevice-dev,libzip-dev correct instal with no error.can i get some advic about the error ?

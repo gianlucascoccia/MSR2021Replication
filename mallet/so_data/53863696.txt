@@ -1,1 +1,1 @@
-location.reload() and location.replace(url) not work in Electron with Angular 6
+i use electron to rebuild a readi web app. the electron main.j is simple:

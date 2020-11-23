@@ -1,1 +1,1 @@
-JXcore vs Electron
+questioni am wonder what the main differ are between electron and jxcore. backgroundi was think about how i could make a nodej server into an app and i came across both of these. they seem to do the same thing, except that jxcore support mobil and electron doesn't. side questionif electron doesn't support mobil then how was the slack mobil app created?thank in advance!

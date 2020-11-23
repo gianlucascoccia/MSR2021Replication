@@ -1,1 +1,1 @@
-How do I switch which Vue component I display in my app depending on whether it's build in Cordova or Electron?
+i have a vue.j app. for mobil app i build the app with cordova and for desktop client i build it with electron. in some case i want my applic to react differ depend on whether it build for cordova or electron.if i want to show the

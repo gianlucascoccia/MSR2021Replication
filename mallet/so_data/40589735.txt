@@ -1,1 +1,1 @@
-Electron - Tidy Up Packaged App Folder
+run electron-packager, i expect the result folder structur to be a bit neater, so that i could just zip it up and allow it to be download as an app. the main folder contain the execut app, but also a lot of .dll, .pak and .bin files. i think this may be a bit confus to user of my app, is there ani way to move all of these file into a folder when run electron packager?

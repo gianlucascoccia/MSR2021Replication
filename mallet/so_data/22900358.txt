@@ -1,1 +1,1 @@
-Node-webkit app instance does not allow form input
+when run a node-webkit app via

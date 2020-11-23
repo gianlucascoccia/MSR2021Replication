@@ -1,1 +1,1 @@
-Scroll bar below fixed header with Vuetify + Electron
+i am use vuetifi and electron to make an app to help me with certain task at my job. i have disabl the browserwindow frame and made my header the draggabl area with a button to close the window. i am use the electron vuetifi templatemi problem is the scrollbar reach all the way to the top but i would like it below my fix header.i have tri play with overflow properti on the html, body, app div, and content div tag but i have not been successful.how would i accomplish this?

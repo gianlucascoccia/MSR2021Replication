@@ -1,1 +1,1 @@
-Increase the default memory limit for electron app
+how to increas the default memori limit for electron app? flag doe not seem to have ani effect?app get crash when rss(resid set size ) size reach 1gb

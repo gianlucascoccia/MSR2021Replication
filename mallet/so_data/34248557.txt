@@ -1,1 +1,1 @@
-NeDB query with projection syntax error
+i get a syntax on a simpl nedb request. what is wrong with my queri written for feathers/nedb?thank you

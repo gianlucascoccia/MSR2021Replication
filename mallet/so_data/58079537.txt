@@ -1,1 +1,1 @@
-How do I use node.js in index.html without nodeIntegration [electron]
+i'm start out to build a new electron app, but it need to use certain node.j function in the html page. i know that set for example. i don't know if it possible, but i'll never find out if i don't ask. :)

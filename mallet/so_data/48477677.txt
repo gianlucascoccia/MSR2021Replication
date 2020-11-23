@@ -1,1 +1,1 @@
-How to add custom property on electron js browsel window?
+i tri ad a custom properti on the main browser window, but when tri to access i am just get undefined.upon the creation of the main window i add a custom property. is undefined.thanks.

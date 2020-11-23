@@ -1,1 +1,1 @@
-Electron for MAS (Mac app store)
+after do a lot of research i'v found that in order to build an electron app for the mac app store, it requir a special build of electron. previous though i'v onli use electron-prebuilt instal via npm.is there a way to instal the mac app store version via npm or is there a pre-built version? i can't seem to find ani such packages. i do notic the full code is here https://github.com/atom/electron/releas but, it would be nicer to have the depend remain in my package.json if possible. is there a recommend way to set this up?

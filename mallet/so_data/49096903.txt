@@ -1,1 +1,1 @@
-ember-electron use fs in third party npm module
+i need a third parti npm packag in my ember-electron app, that requir access to the file system (ngraph.offline.layout, which also has sever dependencies.it use the follow function:what exact is the difference?a the modul perform an offlin layout of a graph, it should be execut on the "server" and i was wonder if this is the correct approach?edit1:th import and requirenod resid in the ember control of the specif rout

@@ -1,1 +1,1 @@
-Electron Failed to load Module
+when i tri to load my angular project as an electron app, i get the follow error: fail to load modul script: the server respond with a non-javascript mime type of "". strict mime type check is enforc for modul script per html spec.**i use this tutori to creat the applic and now i'm tri to add some components. so my code is similar to the one suppli in the tutori i just ad the .https://malcoded.com/posts/angular-desktop-electron/th solut that was given in the tutori comment section isn't work for me or mayb i'm do someth wrong.

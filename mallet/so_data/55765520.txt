@@ -1,1 +1,1 @@
-Getting "Uncaught reference error: $ is not defined" - scripts are loading in correct order - and works from console
+i'm get an error: "uncaught referenceerror: $ is not defined" when tri to use not be load when called... but i'm at a loss as to what, or how to fix it.

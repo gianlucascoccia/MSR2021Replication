@@ -1,1 +1,1 @@
-"non-JavaScript MIME type" error in electron JS + Angular project
+i am tri to develop an how can i get rid of the issue?ubuntu: 18.04node js: 10.16.0angular: v8

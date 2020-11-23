@@ -1,1 +1,1 @@
-Window.chrome object is undefined in Electron App
+i want to measur first paint time with electron (former atom-shell). a close approxim is avail in chrome call that display this in consol [4792:0115/150607:info:renderer_main.cc(200)] render process start [456:0115/150608:info:renderer_main.cc(200)] render process start [4776:0115/150608:info:console(1)] "0.31.0", source: (1) [4776:0115/150608:info:console(1)] "chrome version: 44", source: (1) [4776:0115/150608:info:console(1)] "window.chrome:undefined", source: (1)

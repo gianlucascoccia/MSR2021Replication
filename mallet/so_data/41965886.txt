@@ -1,1 +1,1 @@
-What am I missing in my OS X Squirrel configuration?
+i'm deploy an electron app with squirrel on the backend to do updates. the window deploy work just fine, updat from a .nupkg at this sampl path:what path should i be use for os x? is there perhap someth about the .zip file that electron-build (with the squirrel module) is creat that might be caus a problem?

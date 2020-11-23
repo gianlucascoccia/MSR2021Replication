@@ -1,1 +1,1 @@
-Displaying json data using browser window in electron
+i am use electron browser window to display notif receiv from firebase.now in my index.html file i need to render the json data that receiv from firebase.i tri sever solut but none worked.if somebodi can help me it would be great.whenev i broadcast messag through firebas ,an empti window open .i want to display the json content in that window.

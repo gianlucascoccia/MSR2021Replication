@@ -1,1 +1,1 @@
-Add folder to favorites and change folder icon [Electron macOS]
+sinc one week i'm look for a solut to add a folder with a specif icon to the favorit sidebar (like dropbox doe it)i there ani solut to do this with electron or object c?what i'v found so far:drag &amp; drop it by yourselffileicon programmat add a folder to &quot;places&quot; in finder (don't know if i can extend electron)

@@ -1,1 +1,1 @@
-NWJS SDK is not using package.json
+i am use nwjs to creat a desktop app. the file. nwjs just open with a generic window show the version number. nw.js v0.35.0 node v11.3.0 chromium 71.0.3578.80if i drag and drop the desir html file into the nwjs window, the app won't load at all becaus ajax request aren't allow in a file context. (the same as when you open the html file by double-click on it in the finder).ther is no explan to be found on the debug with devtool page.

@@ -1,1 +1,1 @@
-How do i add more images and text to about panel in Electron?
+i am develop an app in electron and am current work on the about panel. the problem is there is more text i want to put into the panel in separ line and i do not know how to do that. also is there a way to add more imag like you see on itun when you hit about?

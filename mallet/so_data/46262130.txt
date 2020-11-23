@@ -1,1 +1,1 @@
-electronJS / OSX - open file with my application, how to use the Apple event?
+my applic is an electron.j appi type this command in the termin to open a file with my app: i get an appl event, someth like -psn_0_#######', how do i use this event to get the jpg?

@@ -1,1 +1,1 @@
-Device ID and OS build number in ElectronJS
+here i like to know abouthow to get a devic id and os build number in electronjs.i have follow this link. but it return the differ devic id when compar to my devic id and no idea about os build.help me out,regards,nandha.

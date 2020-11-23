@@ -1,1 +1,1 @@
-Get GPU info within Electron app
+i'd like to know how can i retriev gpu info within electron app.i would like to get the same info as when i type in the browser and log this inform for diagnostics.thank for the help!

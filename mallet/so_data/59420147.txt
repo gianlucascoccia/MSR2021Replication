@@ -1,1 +1,1 @@
-how to use electron cookies in angular
+i am work with electron and i want to use cooki conditionally. if it is a electron app then use electron cooki otherwis use angular cookies. i am face problem in declar the cooki in my angular app for electron.a per the electron cooki document, we need to declar it use all the approach generat error while compil or stop the script to execut at runtime.can anybodi pleas help me and guid how can i use electron-cooki in my porject.

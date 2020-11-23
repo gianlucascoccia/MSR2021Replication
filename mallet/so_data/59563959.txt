@@ -1,1 +1,1 @@
-electron-react-boilerplate :sub window on clicking a button
+i have a doubt that how the reactj file can be load into a new window on click a button in electron-react-boilerplate. handlevideocal is the method which is call on click the button. filenam is the reactj file that i need to open. as there is no document from react-electron-boilerpl i was stuck with this. ani help is appreciable.

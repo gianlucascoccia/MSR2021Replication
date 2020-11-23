@@ -1,1 +1,1 @@
-How to overlay calculator on the kiosk-mode/full-screen app on mac?
+now i'm make a examin consol app on mac by use electronjs.whil examination, app allow none of other app except calculator, word/excel viewer to be opened.so i implement it. but onc i tri to open calculator, the examin screen will be swipe and calcul will open on new screen.i don't want this.so i want to know how to overlay calcul on the kiosk app.thank you in advance.

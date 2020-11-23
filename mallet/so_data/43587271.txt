@@ -1,1 +1,1 @@
-Windows 'start' command not executing with child_process.exec in VS Code plugin
+i am tri to start a program from a vs code plugin through the note that deckard.ex is an electron applic with window ui.ani suggest would be great appreciated. thank in advance.

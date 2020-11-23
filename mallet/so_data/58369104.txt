@@ -1,1 +1,1 @@
-PouchDB Replication Fails with Empty Error
+i'm attempt to replic a remot couchdb databas to a local one. i can success access the remot doc and creat a local pouchdb instance. however, as soon as i initi a replic or sync command, i'm return a pouchdb error with an empti array (i.e. no message, code, etc.).ani ideas?

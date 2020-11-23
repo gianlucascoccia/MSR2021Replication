@@ -1,1 +1,1 @@
-Electron builder - how to loadURL for production windows executable build
+i'v happili creat an angular app and got this to load into electron via

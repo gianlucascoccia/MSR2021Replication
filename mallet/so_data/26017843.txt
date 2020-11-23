@@ -1,1 +1,1 @@
-swf files not working in node webkit
+i am build an desktop app use nodewebkit, html5 .app consist of few swf anim emb to it.problem is node webkit is not support swf file.how to make swf file work on node webkit

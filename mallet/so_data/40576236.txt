@@ -1,1 +1,1 @@
-Modify Electron Browser Window Options Without Recreating Window?
+i have an "alway on top" toggl in my app. i was wonder if there was a way to appli this set without close and recreat the window.thank for ani advice!

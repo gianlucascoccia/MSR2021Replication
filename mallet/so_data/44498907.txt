@@ -1,1 +1,1 @@
-How to load js embbed in electron app ? like twitter embbed
+when i tri to load twitter js emb to my electron app, all the text came but no css got loaded. whi is it happen and what is the best way to load js embed?i just use twitter embedeg:-

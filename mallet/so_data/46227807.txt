@@ -1,1 +1,1 @@
-alasql: application performance is not affected when saving all data in an object?
+i'm develop an electronj applicationi have a tabl that has 35 field and user will record an approxim between 5000 and 40000 record in that tabl per month. i did some storag test with filestorag of alasql and save the object of the databas file in an objectmi question is, would not it affect the perform of my applic have so much persist data in an object?if so, what do you recommend me to do?thank a lot.

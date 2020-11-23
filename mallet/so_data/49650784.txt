@@ -1,1 +1,1 @@
-Printing a PDF file with Electron JS
+i am tri to creat an electron js app that has the purpos to print letter size pdfs.this is my snippet of code for printing:, the printer print in the same way as the screenshot, with headers, controls, etc. i need a silent print of the pdf content, and i can't manag to do it for days. did anyon experi the same thing with electron?

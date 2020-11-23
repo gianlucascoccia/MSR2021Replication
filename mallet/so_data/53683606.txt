@@ -1,1 +1,1 @@
-Packaging NodeJS along with electron application
+i have an electron desktop applic running.i it possibl to packag it with nodej server set up and make it as an complet applic or and .ex file?

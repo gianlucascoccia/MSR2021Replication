@@ -1,1 +1,1 @@
-Recurring Uncaught ReferenceError: function is not defined
+i know that this has been ask a lot but it is been day of research and i am still stuck with the same error. i cannot seem to find the perfect solution.so i have a : https://drive.google.com/open?id=0bzz5wr0i2306vgjztuztmdy4ehc

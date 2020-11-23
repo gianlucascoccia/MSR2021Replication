@@ -1,1 +1,1 @@
-How do I send image file with nedb
+i use nedb.how do i imag upload?i'm tri this code.but, there is no save evidence.i want to save for binari data.pleas tell me imag upload with nedb.

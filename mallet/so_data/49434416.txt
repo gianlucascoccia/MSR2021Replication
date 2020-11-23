@@ -1,1 +1,1 @@
-is an electron BrowserWindow id guaranteed to be unique for the life of an application?
+if my electron app open and close lot of will have the same id as the one that i closed?

@@ -1,1 +1,1 @@
-Black border arround content in Electron
+i use electron to convert a video game made with phaser 2 to a .exe. but arround my content, i have some border or margin.i tri to use full screen to chang that, i also tri with usecontents but the problem was not solve.so this is my js file :

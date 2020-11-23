@@ -1,1 +1,1 @@
-Electron removes top bar when packed
+i'm build an electron app, i have develop everyth and it work fine, but when i use but when i pack it the top menu dissapears.two imag to show what i am saying;thanks.

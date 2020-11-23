@@ -1,1 +1,1 @@
-Path must be a string (require url with node.js http module)
+so im tri to make an updat checker that doesnt actual download the updat but nvm and all im tri to is check if the version on the package.json on github is the same as the one in the app (im make it in electron)and with this code i get a "path must be a string error" (here an imag https://gyazo.com/7b55a1cbe96b2719bb588a6591855839 )also i did look it up mani time and in fact the code to get the package.json from github with the http modul was from how to requir from url in node.js}

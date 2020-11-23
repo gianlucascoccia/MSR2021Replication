@@ -1,1 +1,1 @@
-What is the advantage of using angular with electronJS
+i want to creat desktop applic compat with other os.for that i'm use electron with angular.becaus both are frame work whether it will effect perform or load time, and also whether deploy easy,can we use all the featur of angular when we use with electron like routing..?

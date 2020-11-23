@@ -1,1 +1,1 @@
-Stream response to file using Fetch API and fs.createWriteStream
+i'm creat an electron applic and i want to stream an imag to a file (so basic download it).i want to use the nativ fetch api becaus the request modul would be a big overhead.but there is no pipe method on the response, so i can't do someth like?

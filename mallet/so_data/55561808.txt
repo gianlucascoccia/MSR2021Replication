@@ -1,1 +1,1 @@
-Vue Electron, devtools throwing exception
+liter out of the blue, i'v start get the follow consol messag when i run and my electron vue applic doesn't finish loading, i just get a white screen. i'v read around for sever hour on the subject but found noth that solv the problem. i'm run on ubuntu 16; to be honest, i don't know what other detail would be useful; everyth was behav perfectly, then it simpli wasn't...i'm use the boilerpl at: https://github.com/simulatedgreg/electron-vu

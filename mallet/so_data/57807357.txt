@@ -1,1 +1,1 @@
-Is there any remote debugging configuration for electron?
+the use case is:hav the applic run in a raspberri pie and the sourc code in a window machine.question:i want to debug in vs code the electron render of the applic that is run in the raspberri pie. is it possible?i post a question in vscode-recip but no answer :(https://github.com/microsoft/vscode-recipes/issues/228

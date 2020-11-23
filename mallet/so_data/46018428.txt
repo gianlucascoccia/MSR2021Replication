@@ -1,1 +1,1 @@
-Electron - Selectors :first-child and :nth-child
+it seem like electron won't allow selector such as would still appear.how can i solv this?thanks!

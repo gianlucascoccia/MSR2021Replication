@@ -1,1 +1,1 @@
-nedb: how to get docs out of find() function?
+i encapsul the nedb modul in self-defin object:&#xd;&#xd;&#xd;&#xd;&#xd;however, the variabl "items" can't be assign to variabl "docs" and is alway "null". i realiz that this is caus by the asynchron natur of javascript.but how can i get the variabl "docs" out?

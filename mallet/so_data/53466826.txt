@@ -1,1 +1,1 @@
-Devtron is unable to load the processes graph
+i am learn to use eletron and i found veri use this debug tool: devtron.but it not work and i don't know if it is a bug or i am not use it correctly.th instal guid from devtron websit says:but can't understand what wrong.how to fix this problem?

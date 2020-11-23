@@ -1,1 +1,1 @@
-Node execFile detect if application is not correctly open in Electron
+i'm use electron 5.0.8i tri open applic use exex in node.js:.how i can detect use node did applic was open not correctly.

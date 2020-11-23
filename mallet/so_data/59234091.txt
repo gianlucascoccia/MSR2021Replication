@@ -1,1 +1,1 @@
-Reading from a file which I write to the mocked file system using Mock-FS library
+i am write a unit test use jasmin on an applic (an electron + angular). below show partial code in the unit test my queri is whi console.log show empti string?

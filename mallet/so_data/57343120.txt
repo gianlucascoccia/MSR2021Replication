@@ -1,1 +1,1 @@
-Uncaught ReferenceError: require is not defined - Electron js
+i'm use electron for the first time at the same time as js and node, i'm tri to make an applic for hobbi and knowledge.i'm face a problem when implement my script to open extern links.i'v been use the doc to fix the problem, but i haven't seen anyth to help me with that problem. my ex-links.jsi expect that by click the open-ex-link button it will open the link in the default browser.

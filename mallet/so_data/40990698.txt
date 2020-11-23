@@ -1,1 +1,1 @@
-Disable windows keys in a node webkit application?
+one of my new applic i need to disabl window key so,ani one know how to disabl left and right window key in a node web kit applic ?

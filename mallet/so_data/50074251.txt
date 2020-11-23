@@ -1,1 +1,1 @@
-The log function isn't being called in my custom transport
+the log function in the custom transport isn't be call so the log aren't be saved. i'm use winston 3.0.0-rc5 and electron-stor to store the log file so that a proper json file is created. the custom transport work befor i start use winston.loggers, but i need to be abl to save log messag from multipl files.

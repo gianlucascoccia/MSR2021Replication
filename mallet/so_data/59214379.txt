@@ -1,1 +1,1 @@
-executing exe files in electron html
+i'm want to creat a simpl electron desctop app that execut a file when press a button in the html part. somehow i get sever errors. first i got this requir is not defin error, when fix it by enabl node integr in main js i got:

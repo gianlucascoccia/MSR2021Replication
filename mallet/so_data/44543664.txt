@@ -1,1 +1,1 @@
-How to enable a pop up for authentication for electron?
+i am creat an electron app that access a url. and when navig to the url the user click on a button and are redirect to a url that display this pop up in chrome.how can i enable/show this popup in electron? it doesn't seem to enabl it by default.

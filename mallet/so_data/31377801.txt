@@ -1,1 +1,1 @@
-Change Page in Electron
+as a question title, i want to chang page (in same window) use electron from render process. how to do that?i have home and custom page from home i want to go to custom page vice versa.

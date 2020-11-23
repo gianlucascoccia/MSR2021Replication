@@ -1,1 +1,1 @@
-Update plot with real time socket stream
+we have a socket client on a raspberrypi send sensor data to a remot server where we have a dashboard. i wish to plot the realtim socket stream in the dashboard i'm make with electron-python.i'm use the python-shel packag to interact with the script and tri to use plot to achiev the real time plot functionalityfor instanc i have a for loop as below run in a scripti wish that the plot be updat on everi messag recieved.

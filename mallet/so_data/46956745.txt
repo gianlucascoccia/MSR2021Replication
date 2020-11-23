@@ -1,1 +1,1 @@
-MouseLeave fires on child Elements in Electron
+i am handl mous hover event use the follow html templat and script. my app is written use angularj and host in electron.html:when i view my app through chrome mouseleav is onli fire when i leav the controlarea div. howev when i put my app into electron mouseleav is fire when i hover onto the child div element. is there a way to prevent this from happen in electron?

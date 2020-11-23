@@ -1,1 +1,1 @@
-Electron application exits immediately after starting
+i had an electron 5 environ run on window 7.electron 5 was instal in the local node_modules.i was abl to develop and run the applic from vscode.i ran ncu and opt to upgrad to electron 7.this upgrad the electron (from 5.0.0 to 7.1.3) and socket.io modul (from 2.1.0 to 2.3.0).now, when run electron .', my applic start but exit befor the window is rendered.thi is becaus i set the browserwindow to or similar. besid "what is go on?", my obvious question is: how do i fix this?

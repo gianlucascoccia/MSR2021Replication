@@ -1,1 +1,1 @@
-Include a folder and the files inside it to electron build using electron-builder?
+i have a few json file insid a directori name data in the work directori of my electron project. i succeed in build the app use

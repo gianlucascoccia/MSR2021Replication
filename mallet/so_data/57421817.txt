@@ -1,1 +1,1 @@
-Using ElectronJS, is there a way to run a Java applet (.jar) in the window?
+i'm work on a project for a friend, and it involv insert a java applet into an electron html document for the user to interact with. is there a way to do this?i'v alreadi tri use node-jr to run it, and i am abl to output the result into the consol which is fine, but that doesn't give me an applet. i'm not too familiar with java, but i understand some concept of it.her what i have use node-jre: in the html file the user will view.

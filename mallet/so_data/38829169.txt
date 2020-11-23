@@ -1,1 +1,1 @@
-electron ES6 code Unexpected token import
+develop electron app.us zhe es6 code in html is success.but write es6 code in alon js fail is error.package.json: is success,how can i use zhe es6 code in alon file ? thank =.=

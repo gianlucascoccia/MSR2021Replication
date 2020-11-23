@@ -1,1 +1,1 @@
-invoke node-powershell sample script in create react app- App.js
+i am tri to use node-powershel packag in creat react app app.js. i am unabl to assign the node-powershel sampl script in react render. here is the code i am using:can anybodi help me with this?

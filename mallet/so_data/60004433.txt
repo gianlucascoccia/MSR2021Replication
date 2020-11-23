@@ -1,1 +1,1 @@
-Electron custom notification design
+how can i setup custom notif design use html. i tri electron notif bodi but there i am not abl to use fulli html and css. and it is have two button which should communic with web app insid electron app.

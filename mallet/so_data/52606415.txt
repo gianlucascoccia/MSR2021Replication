@@ -1,1 +1,1 @@
-How can I open this external app from Electron securely?
+i'm prototyp an electron app that can open provid file in a third parti photo editor, use node hijack the command, produc evil side effect - do anyth unexpect or undesir in the hand of a malici user?if so, what can i do? are there better altern to open third parti applic from a node process?i there ani general good practic for secur in electron app that i should be read up on?

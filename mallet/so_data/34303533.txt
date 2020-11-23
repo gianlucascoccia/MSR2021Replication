@@ -1,1 +1,1 @@
-CSS transform rotate effects on duplicated element instead of actual one
+i have a problem where css transform rotat generat a new element and rotat it overlap the actual one when i dynam add the class to the element.and if i set default rotate(deg) to element. the anim work fine.i have no idea whether this is a featur or issu of css.i build this element in electron by reactjs. is it relat to webkit of electron?

@@ -1,1 +1,1 @@
--webkit-backface-visibility doesn't work in node-webkit on Windows
+i'm use node-webkit to build a self-contain web app demo, and for some reason, the (like this one) don't work when i run them in the app on windows:i this a bug in node-webkit? is there ani way i can get this to work?

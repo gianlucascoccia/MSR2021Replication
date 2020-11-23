@@ -1,1 +1,1 @@
-How to run Ramme with sourcecode
+i found an unoffici desktop applic for instagram, call ramme. i'v instal electron for window and download the source, but couldn't run this applic with that. should i load/instal ani package(s) with npm or it not the problem?

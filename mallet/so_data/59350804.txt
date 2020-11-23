@@ -1,1 +1,1 @@
-How to get data from one Exe to another Exe using Nodejs Child_process
+i have two exe files(intro.ex and main.exe) creat use node-webkit. i have one variable(senddata) in intro.exe. i want to send senddata variabl from intro.ex to main.ex . i use the follow code in intro.ex for execut main.ex now, i want to get senddata in main.ex . what code i want to use in main.ex for get data. thank in advanc

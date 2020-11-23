@@ -1,1 +1,1 @@
-Pass arguments to packaged electron application
+we'r use electron-packag to bundl up and distribut the front-end of our web application. we need to be abl to pass in the archiv or not. ani idea on thing we could try, or if we'r tri to go about this the wrong way?

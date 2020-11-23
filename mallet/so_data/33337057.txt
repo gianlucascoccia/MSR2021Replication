@@ -1,1 +1,1 @@
-Finder aliases not recognized as symlinks on a Mac with node.js
+i am run a nodewebkit application, and i want to search a folder for aliases. the follow code is working, but not recogn folder alias or file alias as symbol links.wher am i wrong?

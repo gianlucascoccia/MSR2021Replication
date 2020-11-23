@@ -1,1 +1,1 @@
-Draw a shape when an input changes
+i am have a blast learn electron/node.js. i am tri to use paper.j to "encode" a string into an image, sort of...i am use a "paperscript" file like this:but that did not work. read the documentation, it seem the context should have access to ani global objects.can someon point me in the right direction?

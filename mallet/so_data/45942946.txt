@@ -1,1 +1,1 @@
-Transfer electron app to cordova app
+i have a work electron applic that use react, redux and webpack. my current task is to creat a work mobil cordova applic from it. what are the main step i should undertake? how to import the bundle.j creat by webpack, what should i copi in the www folder. i have a veri limit knowledg on node and i will be veri thank for some guidance.th boilerpl use for the electron applic is:https://github.com/chentsulin/electron-react-boilerplate.git

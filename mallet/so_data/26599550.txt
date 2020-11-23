@@ -1,1 +1,1 @@
-How does one use ejs with node-webkit
+in package.jsonth app give me this error "syntaxerror: unexpect token &lt;"which i assum to be an issu due to ejs! (embed js) ani idea on how i can get around this?

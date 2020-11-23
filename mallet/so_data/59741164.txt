@@ -1,1 +1,1 @@
-How to get the selected options from dropdown and multiply with input fields
+hi i am tri to perform a check on whether the user select a given item from a dropdown and accord to it select perform a multipl with three differ item and render the result.i want to get i.e: if lamp is select then make lamp * hour * qti * watts;then get: ac * hour * qti * watts,and finally: tv * hour * qti * watts,and then get all the total in an array and render it to the user in the;thi is my html```

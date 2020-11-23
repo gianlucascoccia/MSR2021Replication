@@ -1,1 +1,1 @@
-How to launch a desktop application from win32 c++ desktop application?
+i built a window desktop applic use electron and packag it. i would like to have an applic built in win32 / c++ be abl to call and open my electron application. is their a command / class / function or featur that i can call from my win32 c++ applic that will call and open my electron executable?

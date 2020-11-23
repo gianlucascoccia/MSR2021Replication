@@ -1,1 +1,1 @@
-Unable to obtain desktop picker dialog @electron
+i am unabl to get desktop picker dialog for avail sources. i am newbi can someon guid me what am i missing? in chrome we use "chrome.desktopcapture.choosedesktopmedia"? i obtain sourc from below code.&#xd;&#xd;&#xd;&#xd;&#xd;i have tri option link but i am get browserwindow undefin error.thanks!

@@ -1,1 +1,1 @@
-How do I blur an electron BrowserWindow with transparency
+questioni it possibl to make a but can't get it to work. environmentubuntu: 18.04.2node: v10.15.3npm: 6.4.1i3wm. 4.14.1i have compton running. maybey it has to do with that. or the composit engin in general?thank in advance!

@@ -1,1 +1,1 @@
-Electron fails to find react module on its installed dependencies
+my app work fine in pkg.have i instal packag at the wrong level? (app/package.json)do i need to link depend of depend somehow?i there a main.j set somewher that i'v tweak by accident?can anyon help?

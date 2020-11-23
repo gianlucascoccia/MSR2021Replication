@@ -1,1 +1,1 @@
-Debugging in Electron: how can I access render-scope objects from the console?
+in web development, i alway found it use that i could get read, write and execut access to variabl and function via the browser develop consol at runtime. for example, if i have a at the end of the html body.)

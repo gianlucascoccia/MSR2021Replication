@@ -1,1 +1,1 @@
-Webpack-Electron-React: ModuleConcatenation bailout Error
+i just got start with creat electron desktop app with reactjs. i keep get this webpack build warn when i start my application.

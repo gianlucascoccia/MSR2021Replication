@@ -1,1 +1,1 @@
-docompress-zip in Node WebKit app cannot unzip downloaded file, downloaded file "corrupt" according to WinRAR
+i'm attempt to write an autom instal for a *.ex file. i am use node-webkit, my unzipp is decompress-zip. i am download the instal via ajax:i assum this limit is in mb? this is veri confus as in both locat the file size on disk is 1.7mb for the file i'm tri to extract. ani help is great appreciated.

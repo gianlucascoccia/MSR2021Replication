@@ -1,1 +1,1 @@
-How to execute Python script from electron using a button click?
+try.html file:- the python code is not execut use this code. the valu of button chang to hang on... ,and remain in the same state.

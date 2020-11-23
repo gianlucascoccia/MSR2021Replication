@@ -1,1 +1,1 @@
-Using file protocol to access react router route locally?
+i am build a app with react and electron and am use react router dom for navig (i am use the hashrout as it will not be on a server in production). i am tri to open a new electron window and display a page made with react in it but i cannot figur out how to access a react router rout use the file protocol becaus each page doe not get it own html file. doe anyon know how i can access that rout use the file protocol?mi home page is load into the app use this which work for the "/" route:

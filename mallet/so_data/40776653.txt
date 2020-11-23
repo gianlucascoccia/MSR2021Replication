@@ -1,1 +1,1 @@
-electron menu accelerator not working
+i am go through the electron fundament cours on pluralsight (trent, 2016). i can't get the acceler to work on my "quit" menu item. below is my entir main.j file. the menu is creat success from what i can tell (pictur below), and click direct on the quit menu item doe shut down the application, but the alt+w key combin doe not. i am on window 10. what am i missing?

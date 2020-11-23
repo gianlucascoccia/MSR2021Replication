@@ -1,1 +1,1 @@
-React Idle Timer with BrowserRouter
+i'm attempt to use the react idl timer to go to a lock screen after 15 minutes. the problem i am have is redirect the page. i am use electron with react and the react browserrouter. becaus of this i can't use window.location.assign('/clock'); (or similar window.location) method to redirect the page. typic in my compon i use:

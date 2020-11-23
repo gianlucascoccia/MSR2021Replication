@@ -1,1 +1,1 @@
-How do I seperate ipcMain.on() functions in different file from main.js
+i'm creat an electron app with vuej as frontend. how can i creat all the ipcmain.on() function in a separ file from the main.js. i want this for a more clean code structure.th app has to work offlin so i need to store the data in a local database. so when i creat an object in the frontend, i send it with ipcmain to the electron side. electron can then write it to the local database.i want someth like this:main.js:th problem here is that onli the first ipcmain.on() function work but the second,... doesn't

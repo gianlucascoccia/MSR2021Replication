@@ -1,1 +1,1 @@
-Electron-builder: EACCES: permission denied
+i have tri to packag my electron app on mac use electron-builder. there are no error while do so, however, onc i tri to open the app i get the follow error: a javascript error occur in the main process uncaught exception: error: eacces: permiss denied, mkdiri have not found ani similar error relat to electron-build and it also work just fine for windows. i have also tri sudo'.thank in advanc for ani help.

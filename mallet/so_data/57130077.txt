@@ -1,1 +1,1 @@
-Electron "force reload" and local file in iframe issue
+consid an electron applic with a gui like this:th strang thing is, none of these happen when i start the app, onli after i reload it.ani ideas? am i do someth wrong, or is it a bug in the latest electron (5.0.7)? i had no problem with older versions, but i don't know if it an intend chang or a bug, or my mistake.

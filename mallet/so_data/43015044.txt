@@ -1,1 +1,1 @@
-electron, printToPDF from BrowserWindow
+i understand the usual method within electron to printtopdf is within the on the click of a button.i understand from this: https://github.com/electron/electron/pull/1835/commits/1eba552a8d1ab4479824275f0e0a2cea9337bd8c that printtopdf has been expos to browserwindow, but there is no document on how to actual call printtopdf from within a webpage.a googl of it doesn't reveal an exampl either. ani clues?

@@ -1,1 +1,1 @@
-Electron showOpenDialog not respecting extensions filter on macOS
+i have an electron app and i'm attempt to open a nativ file picker dialog and restrict the user to onli select a singl file with some custom extens (call it .foo).on maco (mojave, if that matters), use electron ^3.0.0, this:wil open a nativ file picker that allow me to pick a singl file, but allow file with ani extens to be selected.how can i open a nativ file picker dialog on maco that restrict the user to pick a singl file with a specif extension?

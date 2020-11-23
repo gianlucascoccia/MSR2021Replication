@@ -1,1 +1,1 @@
-Socket.io Failed to load resource when used within Angular 5 and ElectronJS
+i have an angular 5 app, which work with websocket to constant receiv data from a server. the websocket are handl by socket.io, under an angular servic call

@@ -1,1 +1,1 @@
-Icon file is not recognized in electron framework when building for different platform
+in my package.json i have "builderforlinuxwindows": "electron-packag --out winx64 --overwrit --platform win32,linux --appnam xyz . --icon=./logo.ico --executable-nam xyz --no-prune"packag app for platform win32 x64 use electron v4.0.4packag app for platform linux x64 use electron v4.0.4rcedit.ex fail with exit code 1. cannot open icon file ./logo.ico'wil .ico work for both window and linux

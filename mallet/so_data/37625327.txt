@@ -1,1 +1,1 @@
-How to run nightmare.js on google appengine for node.js
+there is famous issu with nightmar and electron not run on headless linux servers. the offici electron doc suggest to use xvfb in order to fake the display. they suggest to use this .yml file for travis.addons: apt: packages: - xvfbinstall: - export display=':99.0 - xvfb :99 -screen 0 1024x768x24 > /dev/nul 2>&1 &questionhow can i use the abov piec of code into is invalid command. the gap offici doc don't have ani similar command.ani suggest how we can run nightmar and electron on googl appengin for node.js..?

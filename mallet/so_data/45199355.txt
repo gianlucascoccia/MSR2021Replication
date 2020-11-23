@@ -1,1 +1,1 @@
-How to use electron-devtools-installer?
+what i havewhen it come to instal and configur the offici document state the following: all you have to do now isthat is a bit concise.questionswher should i place this code?how should i initi it?how can i add multipl extensions?

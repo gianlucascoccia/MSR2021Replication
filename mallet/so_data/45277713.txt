@@ -1,1 +1,1 @@
-Electron: Cannot find module 'electron-prebuilt'
+i have an electron app that use nightmare.j when one of the button is clicked. it work fine befor be packaged, but after i compil it to an .ex file with electron-packager, it will work as intended, until i click the button that make use of nightmare.js. i get this error:

@@ -1,1 +1,1 @@
-How to parameterize msi file from electron builder
+i'm tri to creat an .msi instal file with electron-build (version 20.39.0), that can be parameter dure instal time.th paramet (e.g. server endpoint) should be written in a file. example:when in the log file. do you think this is the right approach to make the msi file parameterized?or would you recommend anoth solution?i also found orca.exe, to creat an mst file, but i would prefer a simpl solution, without manual steps.

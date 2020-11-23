@@ -1,1 +1,1 @@
-Debug node modules in nwjs
+we'r develop an applic base on node webkit (nwjs) that is a mix of node modul and angular code. a lot of busi logic has been move to the node modul and i haven't found a way to debug that code in the run application.debug with devtool doesn't seem to work, and that a known limit or bug (debug with devtools). i even tri to requir from one of the scripts, hope to be abl to open some sort of backdoor ;) - didn't work unfortunately.so is there ani other way or trick to (remote) debug the code?

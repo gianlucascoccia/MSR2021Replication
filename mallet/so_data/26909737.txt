@@ -1,1 +1,1 @@
-How to stop node webkit from stopping on error
+i am use node webkit to run a html5 app. we are tri to releas the app for beta releas howev whenev there is an error it stop the whole applic mean they lose data and faith in the software. for these user (who aren't test for reliability) i want to hide or log the error elsewher without it stop the program. i have tri ad the line:howev this make no difference. what is the best way hide these errors?

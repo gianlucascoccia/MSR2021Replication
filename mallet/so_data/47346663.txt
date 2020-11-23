@@ -1,1 +1,1 @@
-Deploy osx apps on Gitlab CI
+is it possibl to deploy osx app use gitlab ci ? default gitlab is run on linux but what i would like to get is build electron app for osx. it is possibl onli on osx system. thank for help.best regard

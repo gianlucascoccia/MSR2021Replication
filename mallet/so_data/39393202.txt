@@ -1,1 +1,1 @@
-Finger position on Apple Trackpad with Electron
+i'm tri to creat an electron app that enabl the user to draw on the trackpad. sinc use onli your finger on the trackpad is a a lot more intuit and precis than requir the user to actual press down on the trackpad, i'd like to includ this functionality. is there an api avail that i can use to get the absolut finger posit on appl trackpad in electron?thi is a good exampl of someth i'm aim to implement: http://osxdaily.com/2014/12/04/sign-documents-trackpad-preview-mac-os-x/

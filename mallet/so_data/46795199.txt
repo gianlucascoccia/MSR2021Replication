@@ -1,1 +1,1 @@
-Electron: Maximized browserWindow overlaps Window' taskbar
+i have problem with electron browserwindow becaus when i call the function: win.maximize() the app overlap window taskbar as if it were in full screen mode, but i set fullscreen: false.her the link of the screenshots!https://www.dropbox.com/s/a7b8h8ukaz4pf26/default%20window%20size.png?dl=0https://www.dropbox.com/s/8wf0jcv5kp04c25/maximized%20window.png?dl=0her my code:main.j (the default electron window setting):thank you for your help!

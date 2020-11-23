@@ -1,1 +1,1 @@
-how to pass a html <select> box value into another js file in electron
+i would like to get the valu from a user select option in html to a js file.how can i go about do this in electron. i am stuck? how can i make a variabl that can go from html form to a js file?

@@ -1,1 +1,1 @@
-uncaught syntaxerror:unexpected token => in build index.html
+i have a react websit and it work fine in chrome when i build it. but when i put in into a linux nw.js browser, it through out an error:i use babel and es2015 to transpile. how should i fix this error?

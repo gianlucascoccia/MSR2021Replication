@@ -1,1 +1,1 @@
-Is it possible to load chrome extension in node-webkit window
+i am tri to make a node.j app use node-webkit . is it possibl to load a chrome extens in node-webkit window and make it appear as it appear in chrome browseri have gone through this but i am onli abl to understand that it can load npapi plugin. is there a way to convert chrome extens to npapi plugin?

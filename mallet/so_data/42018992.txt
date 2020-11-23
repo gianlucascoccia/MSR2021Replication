@@ -1,1 +1,1 @@
-why value is undefined in node which is returned by database
+i am learn nedb and node.jsher is the database.j file:in the output window of chrome browser:

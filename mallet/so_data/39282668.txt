@@ -1,1 +1,1 @@
-Exporting node-printer in Electron
+i was abl to get node-print to work on my local machin for my electron app to print this certain pdf i have. the issu is that when i build and packag the app and instal it on a differ machine, it doesn't work. do these other machin also need to have those depend of python and vs2013 that i need to instal the module? if so what would be the altern be sinc i don't want my user to have instal python, vs2013, and node gyp just to make print work?

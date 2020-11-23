@@ -1,1 +1,1 @@
-How do I check if a UDP port is being in use?
+how do i check if a udp port is be in use?thi is for an angular/node.js/electron desktop application.in c# .net i'v use the api:, then check if my udp port was in the array... but i cannot find the syntax for node.j and javascript. can anyon help me?if there is no such api for node.js, are there ani workarounds? i feel like i'm unsur what i should be searching.thanks.

@@ -1,1 +1,1 @@
-Webpack concat and electron index.js require issue
+i am build react applic with electron packag and i am work on product build now.i want all file to be concaten and uglified, but when i do this, my index.j is not work becaus i cannot requir dependencies, here is my code:index.jsanyon got idea how to resolv this problem?

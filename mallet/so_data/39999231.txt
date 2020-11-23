@@ -1,1 +1,1 @@
-How does Electron proxy URLs?
+i creat a small server which, for now, just output the object?

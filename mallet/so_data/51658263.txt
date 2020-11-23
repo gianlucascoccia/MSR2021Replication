@@ -1,1 +1,1 @@
-Electron and edge.js using .NET core DLL gives errors
+after day of tri and googl i decid to tri and find a solut here.th project use electron-edge-j with electron and angular for ui.i built a netcoreapp2.0 dll - veri basic:it run fine if i comment out the parser relat lines.what am i miss here - or edg doesn't realli support use of custom dll like that?

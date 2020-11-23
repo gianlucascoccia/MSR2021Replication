@@ -1,1 +1,1 @@
-weird symbols in electron javascript
+on this page in the exampl code constant are defin with

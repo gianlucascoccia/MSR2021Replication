@@ -1,1 +1,1 @@
-Using Edge.JS with Electron fails
+i'm tri to use edge.j in an electron application.when requir the edg modul the applic throw the follow error:uncaught error: the specifi procedur could not be found.\?\c:\myapp\node_modules\edge\lib\native\win32\x64\5.1.0\edge_nativeclr.nodeani idea of the reason for this error?

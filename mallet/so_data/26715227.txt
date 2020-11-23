@@ -1,1 +1,1 @@
-App window restore on keypress
+in my app i have ad a function to minim app window to system tray on keypress (on esc or pause/break button press). so when press them the window get minimized.i there a way to add function to restor app window on certain keypress (even if other applic will be current active)?for exampl i press paus and the window is minimized. i press paus and the app window is restored.

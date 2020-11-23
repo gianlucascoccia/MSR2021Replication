@@ -1,1 +1,1 @@
-Runtime compiler is not loaded
+i am use this github repo to build my own application. i have creat my own custom modul name user and all the rout are defin perfectly. when i creat a compon insid the user modul and run the application, whenev i click on the new compon name in the menu it show me noth and consol window show me error: runtim compil is not loadedi did tri to find out whi this error is occur but most of the thread show onli the solut if it is occur in angular applic but there is no solut if the error is occur with electron+angular.her is my codepages.module.t

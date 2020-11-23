@@ -1,1 +1,1 @@
-How to add a flash game on electron
+i have an electron app and i want to put an swf(flash) file on it.i have the direct link to it but i do not know how to download it and how to put on my electron app.link: http://www.coolmath-games.com/gameframe?u=sites/cmatgame/files/games/bouncing.swf&amp;f=bouncing.swfa an import point my app should be offline, of course, i have poor experienc with flash game. my target is to run the bounc ball game on my app.

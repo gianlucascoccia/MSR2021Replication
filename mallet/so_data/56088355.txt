@@ -1,1 +1,1 @@
-"TypeError: Cannot read property 'pseudoType' of undefined" with chrome-devtools
+i'm develop an electron app with react for the front-end. i get the follow error in my consol when i run my app and hit refresh. my app work as expected, but it kind of annoy to see this error pop up in my consol and not know what it means. ani ideas?thi is the error messag i get in my console:

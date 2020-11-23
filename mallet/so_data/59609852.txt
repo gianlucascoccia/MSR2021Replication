@@ -1,1 +1,1 @@
-Override prefers-color-scheme in Electron
+i have an electron app that use css . is there a way to do this use the electron api?

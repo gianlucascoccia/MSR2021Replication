@@ -1,1 +1,1 @@
-Desktop screen capture in web application
+i need to captur deskop screen in my web application( core php and javascript). i want to know is it possibl to captur desktop screen in javascript or ani framework of javascript if possibl pleas suggest me some code example, api or demo.i am googl so much but not found ani appliabl solutionthank in advanc

@@ -1,1 +1,1 @@
-How to append bootstrap-multiselect to div
+i want to append html code to an html file with js. insid code which is to be add is a bootstrap-multiselect selector. but when i add it, there is no "bootstrap-multiselect" style, it is onli bootstrap.i am program a dynam desktop applic base with electron.i know that the code which is append has to be compress in one line.i hope you understand my problem. thank you for your answers.and sorri for bad englishhttp://davidstutz.github.io/bootstrap-multiselect/html

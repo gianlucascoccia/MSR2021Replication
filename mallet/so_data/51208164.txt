@@ -1,1 +1,1 @@
-Electron app reload after an action in react component
+i am build an electron-react app, in which i want to reload my applic (on the web contents) after a certain action. can we access browser window from react app? is it even possible? ani insight on this will be realli helpful.

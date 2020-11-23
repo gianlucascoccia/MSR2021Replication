@@ -1,1 +1,1 @@
-Link style in electron application
+i have applic generat with electron-forg cli with webpack template. my file structur is: i'm tri to add some style to index.html but it doesn't work as expected. i tri to add in to renderer/js/index.j (sinc it bundl by webpack anyway) but it also doesn't work. what i'm do wrong? is the path to stylesheet not correct in my index.html head becaus of use webpack?

@@ -1,1 +1,1 @@
-Electron and Babel 6 async / await throw unexpected token
+i want to use async / await featur from es7 in my electron app, but it seem to be not working. it give me syntax error: unexpect token functionaft command but it end with unexpect token importit seem to like babe is not load at all..

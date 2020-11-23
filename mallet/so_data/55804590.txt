@@ -1,1 +1,1 @@
-NPM ERR! exit status code 77 when using "npm start"
+i receiv an error when use "npm start" it throw me this error.i'v alreadi tri npm-cache-clean , and also tri delet the node_modul as well as delet the package-lock.json , follow by "npm install" this didn't yield a differ result. i want the electron app to start and not throw and error becaus i can't test ani javascript in the index.j file i have

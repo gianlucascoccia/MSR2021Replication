@@ -1,1 +1,1 @@
-Electron-Forge with webpack: "Can't resolve 'child_process' in .../electron-squirrel-startup"
+i tri to build my electron app with webpack. i want to build it with webpack, typescript and react. but i get this error: https://hastebin.com/qatexiyude.rbwebpack.main.config.js:

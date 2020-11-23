@@ -1,1 +1,1 @@
-Electron Application changes height permanently when minimizing/maximizing
+this bug occur when minim and maxim the window of my application.aft everi min-/maxim the window becom a few pixel shorter.her are imag from befor and after i repeat this process a few times.befor &amp; afterher is my code for creat the window:ani idea how to fix this?

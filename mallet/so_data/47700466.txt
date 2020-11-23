@@ -1,1 +1,1 @@
-electron ipc renderer to main process - euro sign (€) becomes 'Ôé¼'
+i have some encod troubl with a string i am send from the ipcrender to ipcmain within the electron framework.render process:whi is the main process print the string as "abcôé¼123"? the valu get save into a databas and get save as garbag and not the actual € sign.edit: console.log("€") in the main process also show up ôé¼ in the consol

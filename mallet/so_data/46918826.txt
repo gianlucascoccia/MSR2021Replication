@@ -1,1 +1,1 @@
-LevelDOWN: NODE_MODULE_VERSION error when testing, but not running
+i have a directory, but the error persists.ani idea whi i'm see these error or how to correct this issue? edit: i was abl to switch mocha out with electron-mocha and bypass the error.

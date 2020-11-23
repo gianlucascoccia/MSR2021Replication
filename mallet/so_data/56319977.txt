@@ -1,1 +1,1 @@
-How to change the http:\\localhost:8001 to HTTPS for Electron .Net Core application
+currently, i have develop a.net core mvc applic which includ the featur for screen share use the janus webrtc.th janus webrtc screen share will onli work with the applic run in https.now i have convert the mvc app to a desktop applic use electron. but the screen share is not working.so kind share some thought on this.

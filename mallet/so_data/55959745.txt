@@ -1,1 +1,1 @@
-How to pass payload of an action to another rxjs operator in redux-observable?
+i am use redux-observ with rxjs tap oper to initi an ipcrender event. befor of that i want to dispatch anoth action. the question is how to proper pass the payload to the tap operator? -note: i want to keep the tap oper at the end of sequencei have tri to pass it in the action payload but it is not what i want.. check the examplei expect to dispatch toggleload first then make the ipcrender call

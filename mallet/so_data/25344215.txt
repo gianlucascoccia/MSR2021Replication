@@ -1,1 +1,1 @@
-Can't seem to save the output of a client.shell() command to a variable
+i am use node-webkit and adbkit to attempt to read a line from an android build.prop and do someth depend on what that line is.ful script at http://pastebin.com/7n7t1akkth gist of it is this: would probabl work better but dont understand these function (specif callback) veri well i am veri new to this area of javascript and home someon can offer some insight

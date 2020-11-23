@@ -1,1 +1,1 @@
-Electron & ES6 how to implement require remote/ipc when using gulp and ES6 modules
+i am use es6 js file that are then compil by gulp (browserify/babel), exampl of a es6 file is:i have a normal app.j that is use to set up the main window etc.. then the html page will use a main.min.j file that is basic made up with all my es6 class compil into one file:loader.es6 file

@@ -1,1 +1,1 @@
-SPAWN node ENOENT error in electron package on run
+i have build an node.js, express.j app, electron app and in oper system windows. i have packag the electron app through the tutorial: how to packag an electron appth packag to win32 is success without ani warn or errors.howev when i tri to run the app.ex file from the dist folder, though the main applic window show up but i cannot see ani content that i have in my express.j app folder.mi app folder structur is:ani kind of help will be appreciated.

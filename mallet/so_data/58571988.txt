@@ -1,1 +1,1 @@
-How to run executable file from packaged Electron app
+i am build an app with electron in which there are some execut which run just fine when run }optim this would run from the applic folder (in macos) with no issue.ani help would be great appreciated.

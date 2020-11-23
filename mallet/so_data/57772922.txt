@@ -1,1 +1,1 @@
-Angular - ReferenceError: Constants is not defined
+i'm refactor an angular (updat to angular 8, electron 6, ionic 4) applic and i came up with a way to clean up the constant that were scatter all over the project. i creat a namespac where i put reus constant accord to their type

@@ -1,1 +1,1 @@
-How to update tray icon
+in as state in the documentation: .. creat a new tray icon associ with the image. ..is it possibl to replac the current tray icon, instead of creat a new one?

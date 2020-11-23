@@ -1,1 +1,1 @@
-node http get function works only a few times
+i am new to node, so pleas bear with me. i'm tri to write a function that test to make sure there is a live connect to the web server befor redirect the page.thi work for the first 6 - 7 clicks, then the page will not redirect anymor - it just sit there. then a few minut later, an alert will show.what is go on?!

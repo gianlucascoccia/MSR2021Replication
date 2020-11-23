@@ -1,1 +1,1 @@
-Are --save-dev modules included when electron packaging? If so, how can I exclude them all?
+there are mani depend and devdepend in my project and i would like to packag my project folder with in asar mode.whil do so, doe it automat exclud devdependencies?thank you in advance.

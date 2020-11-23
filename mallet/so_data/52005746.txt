@@ -1,1 +1,1 @@
-how to open electron application in browser as a local website
+i am tri to open an electron app use localhost but not abl to do that. the page in open but not show anything?help. i tri serv option but the folder where index.html is present there no fire javascript not there. it in other folder. that start javascript.

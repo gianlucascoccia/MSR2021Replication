@@ -1,1 +1,1 @@
-How can I attach listeners to DOM object when creating an Electron window using the BrowserWindow.loadURL command
+i have the follow code that render a third parti websit in a browserwindow use the }```

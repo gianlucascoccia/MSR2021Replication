@@ -1,1 +1,1 @@
-How does IPCRenderer.send() serialize data to JSON?
+i am tri to send inform about an error event use ipcrenderer.send("error", errorobject) but my error object get serial to {} in the listener. now, i know that ipcrender serial object to json intern (more inform here: https://electronjs.org/docs/api/ipc-renderer) so i want to find out what method is call for serial to json intern so that i can tri to overrid it in my code. can anyon help?

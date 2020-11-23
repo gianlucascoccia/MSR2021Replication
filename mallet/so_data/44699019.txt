@@ -1,1 +1,1 @@
-win.document.write ('content'); Cannot read property 'write' of undefined
+i'm tri to open a new window from electron via a javascript file, it works, and open the new window but i can't write html/text to new file. i'm get that error : cannot read properti write of undefinedmi simpl code:ani advic or other way?her imag from console:

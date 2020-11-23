@@ -1,1 +1,1 @@
-Monaco editor in Electron: How can I compare JSON old and new to see changed properties?
+i'm load up and array of json object in monaco editor in an electron app. i need to determin which of the object in the array were edited. is there ani built in way in either electron or monaco to compar old and edit model? or do i have to roll my own here?

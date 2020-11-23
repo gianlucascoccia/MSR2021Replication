@@ -1,1 +1,1 @@
-Angular-cli + electron import typescript
+good afternoon, i am unabl to import the electron modul in my ts. i have the follow error: cannot find modul electron'.mi structure:projectcovaragedistelectronmain.jspackage.jsonsrcappcomponents...assestenvironmentesservicesservicesindex.htmlmain.tspolyfills.tstsconfig.jsontypings.d.tsangular-cli.jsonkarma.conf.jspackage.jsonprotractor.conf.jstslint.jsonmain.j electron:noth happens...ani suggestion? grateful!

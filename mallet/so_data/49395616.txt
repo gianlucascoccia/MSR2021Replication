@@ -1,1 +1,1 @@
-Electron Node and Chrome version outdated?
+i am tri to develop a webgl desktop app, i am just a bit worri about the version that electron shows.i current get this:but chrome is at version 64 i think sinc jan 2018?also my node.j version local is 9.8.0.so i was wonder electron come with it own nodej distribut ?

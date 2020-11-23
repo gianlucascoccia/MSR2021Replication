@@ -1,1 +1,1 @@
-electron : In simple hello world app, not able to view the default menu bar
+i am new to electron and tri to run the simpl hello world. in that "electron" app, it menu bar should show up as a normal applic with generic options, such as edit, view, window, help. but i am not abl to see it. my os system is maco high sierra.i simpl hello world code i have taken from the follow link.https://www.tutorialspoint.com/electron/electron_hello_world.htmhttps://www.youtube.com/watch?v=rl305ldfzm8&amp;list=plc3y8-rfhvwicjd3wrafurimkgvde0uqw&amp;index=2could ani one help?

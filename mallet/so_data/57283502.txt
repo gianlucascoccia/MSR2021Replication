@@ -1,1 +1,1 @@
-change / modify url on the fly
+i need to chang the the url (origin) at an electron appat onbeforerequest or onbeforesendhead it possibl to log itbut chang doesn't effect

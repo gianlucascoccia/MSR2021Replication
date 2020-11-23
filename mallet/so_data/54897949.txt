@@ -1,1 +1,1 @@
-Windows service and Electron native windows app communication using window messages
+i have an window servic send window messag such as hwnd messages, i need to reciev these messag on the electron app and perform some action. how to achiev this?th servic find a window by it name and postmessag to that window. but how doe electron reciev that message?below is my servic code

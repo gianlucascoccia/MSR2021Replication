@@ -1,1 +1,1 @@
-NodeWebkit win.title don't refresh title windows
+i need chang titl of my app :ani best soluc ?test on window 7.

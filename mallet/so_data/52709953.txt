@@ -1,1 +1,1 @@
-What languages should I be good at to make an electron app?
+i dive into this new subject electron few month back. i'm a php developer, but after go through mani articl on web i'm learn nodejs, express through onlin resources.could anyon here suggest me, what exact i need to focus on. i'm realli interest in make a electron app with routing, crud, session etc.pleas suggest, your help will save me a lot of time

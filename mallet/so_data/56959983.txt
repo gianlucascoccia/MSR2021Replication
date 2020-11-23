@@ -1,1 +1,1 @@
-How to reorder columns with Knex?
+i am pull all of my data from an sqlite3 tabl use knex, electron and javascript and i wish to reorder the column either on the knex queri or in the html/javascript side.mi sqlite3 db has the follow header data:i wish to be abl to queri the db so that the array display in the exact order as in the table.

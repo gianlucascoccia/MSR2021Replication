@@ -1,1 +1,1 @@
-How to observer path change in dialog
+in my electron app,i want to cach file path chang with dialog,but,when when choos differ file in dialog ,the observ didn't work.

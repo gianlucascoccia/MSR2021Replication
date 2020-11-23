@@ -1,1 +1,1 @@
-Electron Native Addon: Version missmatch
+i am tri to creat a simpl exampl nativ addon for electron. however, keep run into this version miss match issue. i have .nvmrc file for both my electron project and the addon project (use node 7.4.0).electron 1.6.7node 7.4.0nvm 0.33.2npm 4.0.5the error&#xd;&#xd;&#xd;&#xd;&#xd;tri solut 1. tri use ./node_modules/.bin/electron-rebuild 2. tri rebuild my addon nvm use 7.4.0 npm rebuildstil get the error.update: found this post, but solut didn't work for me either.

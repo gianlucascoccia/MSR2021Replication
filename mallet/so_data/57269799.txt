@@ -1,1 +1,1 @@
-Use Angular router link in new tab src tag in an Electron app
+i am use electron with angular 7. tri to open each router link as a new tab but i am not find anyth that could help me to achiev this. here is a piec of code for creat a new tab in electron:how can i insert a router link in src tag?

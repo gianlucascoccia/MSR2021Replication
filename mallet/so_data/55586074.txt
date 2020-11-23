@@ -1,1 +1,1 @@
-Calling Rest from Typescript
+i have an electron app which i need to test from a separ spectron project. in my test case i should communic with the rest endpoint send and receiv data and verifi if the ui show the data i have sent to the endpoint (of cours there is some data manipulation, valid ,etc). this test case showld repres e2e testing.in my e2e spectron project i have the follow dependenciesnow i am look for a way to make rest oper from typescript without use angular specif depend in my e2e test. how could i achiev that

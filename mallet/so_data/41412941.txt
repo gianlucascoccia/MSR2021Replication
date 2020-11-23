@@ -1,1 +1,1 @@
-Vuejs use NeDB,can not find database files
+vue creat project：wher is the test.db file？ i can not find this file! i can find this file when use nodejs.

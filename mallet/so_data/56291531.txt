@@ -1,1 +1,1 @@
-Importing typescript files in preload script using Electron
+i current have a object for a webview. what i want to do is import a typescript file insid the preload script. the preload onli support commonj syntax.i there ani way i can achiev this?i tri to transpil the file and access the webpack output but it didn't work.

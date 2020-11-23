@@ -1,1 +1,1 @@
-Push Local File From Electron to Server PHP
+js and electron. i have a problem to push my local imag file to my remot server. the server is use php. here my client side code :&#xd;&#xd;and the file is not sent to the server. can anyon help me how can i solv this? thank

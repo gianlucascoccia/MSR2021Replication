@@ -1,1 +1,1 @@
-Node.js error: "Unexpected token ;" while on node-webkit
+i was tri to follow this tutori for make a simpl text editor on node-webkit, but when i got to the part of wire the modul i get this error:

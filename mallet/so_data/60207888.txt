@@ -1,1 +1,1 @@
-How can i make electron run code in the right order?
+when i call this function

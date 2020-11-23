@@ -1,1 +1,1 @@
-Unsealed contents present in the root directory of an embedded framework
+i am face this issu when i tri to sign the nwjs frameworkcan anyon pleas suggest what should i do

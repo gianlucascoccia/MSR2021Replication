@@ -1,1 +1,1 @@
-How to change Tray icon color on Ubuntu and Windows?
+in electron, osx has the icontemplate.png to help you manag icon color across themes. how can i do the same for tray icon across differ theme on ubuntu and windows?

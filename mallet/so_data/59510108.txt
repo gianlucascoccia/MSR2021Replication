@@ -1,1 +1,1 @@
-is there any way to pass the propertyname as a variable in query while removing database entry in nedb?
+for example,if i say --remove=age,45 i want to remov everi entri which has an age of 45,the current implement doesn't work eventhough i can pass the value(columnvalue) as a variabl

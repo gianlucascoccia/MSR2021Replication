@@ -1,1 +1,1 @@
-ngOnInit not firing when opening dialog
+when open the dialog, what am i missing? what have i done wrong? (i don't might tri stuff again)thanks!

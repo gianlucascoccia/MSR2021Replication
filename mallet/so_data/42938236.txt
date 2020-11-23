@@ -1,1 +1,1 @@
-Cannot find namespace 'ng'
+i am rewrit simpl angular 1.6 project to typescript. i have declar type depend and they are compil and installed. despit that there is compil error "cannot find namespac ng'" in my service.angular name is also not recognized.screenshottsconfig.json

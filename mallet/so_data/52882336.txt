@@ -1,1 +1,1 @@
-socket.io-stream Livestream MediaStream
+i tri to make a livestream trough socket.io. to achiev this goal i send the mediastream trough the socket and tri to set it as a mediastream in the client:server:

@@ -1,1 +1,1 @@
-NODE_MODULE_VERSION 48. This version of Node.js requires | NODE_MODULE_VERSION 64. Please try re-compiling or re-installing
+it my first electron project, after use the get starter, sorri if it is someth too dumbi'm tri to automat some stuff i do, so my first project should be someth with this lib:http://robotjs.io/but i reciv this error:

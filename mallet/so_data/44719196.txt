@@ -1,1 +1,1 @@
-Using Electron / Node.js, how can I detect all installed browsers on macOS?
+i'm tri to find a way to list all instal web browser in my maco electron app. what would be the best way to do this? or... i'm happi to maintain a list of possibl browser but need a way to check they are present.

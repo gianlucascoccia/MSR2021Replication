@@ -1,1 +1,1 @@
-How to prevent multiple instances in Electron
+i do not know if this is possibl but i might as well give it a chanc and ask.i'm do an electron app and i'd like to know if it is possibl to have no more than a singl instanc at a time.i have found this gist but i'm not sure hot to use it. can someon shed some light of share a better idea ?

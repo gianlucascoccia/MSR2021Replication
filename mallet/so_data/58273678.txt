@@ -1,1 +1,1 @@
-Push additional file to the S3 bucket with Electron Builder
+is there a way to push addit file to the s3 bucket with electron builder?for context: i want to push up a i suspect i may not be abl to do this with electron-builder, in which case i'll write a script.

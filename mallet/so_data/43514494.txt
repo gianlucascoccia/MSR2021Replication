@@ -1,1 +1,1 @@
-Webview in Nwjs can't rrun jquery
+can someon give advis on what happen when i load a webpage(loc or remote) with jquery, error is alway "$ is not defined". note i have load jqueri in my main html, where the webview element resid in, and i can use jqueri in the context of main html. ani help is high appreciated.

@@ -1,1 +1,1 @@
-How to check if my Bokeh Server Application is completely loaded and rendered?
+i would like to integr my bokeh server applic in electron. so what i did is to run bokeh server use the problem here is that the window never pop up becaus electron doe not detect the server as loaded.

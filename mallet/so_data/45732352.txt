@@ -1,1 +1,1 @@
-Opening a local pdf file using node.js and express
+i am attempt to make a pdf viewer app use electron and electron-pdf-windowth code below work when i want to open from a url file path, but when i tri to open a pdf from my local file use the is there anoth way to open local pdf file from my pc directory?

@@ -1,1 +1,1 @@
-Electron JS and TypeScript - Using TS-Node with main process
+how would you adjust the follow script to allow electron main process to use typescript with ts-node?

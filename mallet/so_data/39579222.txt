@@ -1,1 +1,1 @@
-RegExp over electron ipc turns into plain object
+i'm build a littl applic in electron, and need to send an filter object with a regexp from the render process to the main process. i'm use the follow code in the render process to call the method on the main process:.

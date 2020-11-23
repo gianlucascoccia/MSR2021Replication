@@ -1,1 +1,1 @@
-Failed to install electron-prebuilt in windows 7
+i am tri to instal electron-prebuilt use the instructionbut i fail in all ways.

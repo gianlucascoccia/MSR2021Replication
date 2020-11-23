@@ -1,1 +1,1 @@
-net::ERR_INSECURE_RESPONSE while making ajax request from node-webkit
+when i'm tri to make ajax request with jqueri to:do anybodi know how i can add self sign certif to node-webkit truststor !?os: ubuntu 14.10

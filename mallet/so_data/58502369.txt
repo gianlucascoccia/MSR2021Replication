@@ -1,1 +1,1 @@
-get response from php remote server node js POST
+i am pretti new to node js and want to send a json to a php remot server via node js and get a json back as response, tri googl and stackoverflow too but could not find anyth useful. need help for both side

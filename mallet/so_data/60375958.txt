@@ -1,1 +1,1 @@
-Electron webview catch console errors
+problem descriptioni use the consol and send them to my logger service?

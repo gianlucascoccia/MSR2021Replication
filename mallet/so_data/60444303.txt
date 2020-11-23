@@ -1,1 +1,1 @@
-Error when using electron `app.getPath('home');`
+i have the follow code within a script i am use within my electron app:

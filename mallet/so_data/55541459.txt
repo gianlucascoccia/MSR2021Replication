@@ -1,1 +1,1 @@
-Detect installed applications from node JS (Electron/macOS)
+is there an packag or api for interrog what other applic are instal on a mac from the electron node process? i'm realli just look for the presenc of one proprietari app in particular.

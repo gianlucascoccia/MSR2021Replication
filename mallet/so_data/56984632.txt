@@ -1,1 +1,1 @@
-Can't make posts requests in Electron using axios (makes only get requests)
+i am build a simpl app use electron and axio to make http requests. but everi time i tri to make a post request to my server it onli make a get request as i see it in chrome devtools. i can't understand what is happen here.on the server side i have a laravel backend app that accept onli post requests.index.html

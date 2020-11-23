@@ -1,1 +1,1 @@
-Electron-Windows-Store AppX crashing with "ntdll.dll in myApp.exe: 0xC0000138: Ordinal Not Found"
+i'm tri to convert my electron app to an appx so that it can be upload to the window store (use electron guid with electron-windows-store)th problem i'm have is that when i run the creat appx, it immedi crash with:th electron app itself run fine, just not after be converted.i'v tri run electron-windows-stor with contain virtual and without, but neither produc a usabl app.ha anyon use this tool and run into this behaviour before? what should my next step be?

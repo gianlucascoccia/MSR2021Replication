@@ -1,1 +1,1 @@
-How to open Teams meeting link in electron based app(or Chromium)
+i am tri to open team meet link which is generat by outlook team plugin(thi link can be copi while you open a outlook meet mail and is locat at "join microsoft team meeting"). but i can't open this link in ani electron-bas app:chromiumelectron offici demo app: https://github.com/electron/electron-quick-startand i use loadurl() to do it.it work well if i open this link in chrome. so i guess it is the not support by microsoft. do you have ani solution? thanks.

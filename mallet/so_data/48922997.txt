@@ -1,1 +1,1 @@
-Touchbar icon with custom image doesn't load in Electron
+i'm tri to build a button with a custom imag on the touchbar in electron. when test via "electron ." the imag show up - as publish maco app the button is empti and has no imag in the touchbar.th app is build and publish via electron-builder. did i miss something?ful code avail in dev branch on github: https://github.com/stefansl/image-shrinker/blob/dev/main.j

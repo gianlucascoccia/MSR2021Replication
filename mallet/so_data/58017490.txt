@@ -1,1 +1,1 @@
-How Can I make flash work in my electron application?
+i am tri to creat a launcher for a flash game. i am new in electron and in program so i was read the electron document but my flash isn't working. the site load normal but the flash isn't working. so, is someth that i am do wrong? how can i get it working?thanks!obs: this is my main.j

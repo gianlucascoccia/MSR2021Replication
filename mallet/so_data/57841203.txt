@@ -1,1 +1,1 @@
-How to make import from syntax work with electron and typescript?
+i'm start a new project with electron and typescript, i set up the project and got a basic hello world running, howev i tri to add a librari (https://github.com/benjamn/recast), the import syntax is not working.am i do someth wrong?

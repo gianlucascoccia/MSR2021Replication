@@ -1,1 +1,1 @@
-Saving files in folder using Ionic 4 and Electron Desktop
+i would like to save a file from my ionic 4 app to a folder use background service. i'v built a desktop app use electron for windows.i there ani way we can save file in desktop use ionic 4 electron build?

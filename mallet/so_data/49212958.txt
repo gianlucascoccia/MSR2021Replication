@@ -1,1 +1,1 @@
-Push notification in electron
+is there ani way to use firebas push notif in electron?i want to creat a push notif for my electron app which is a chat app and whenev a new messag come i want to get that notification.but i did not get ani good materi onlin to implement it.how can i do it?

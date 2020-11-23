@@ -1,1 +1,1 @@
-Electron vue scaffold throwing errors
+i generat the electron-vu scaffold with the vue-c use to creat and run the packag electron application. ani idea how to fix this?

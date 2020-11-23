@@ -1,1 +1,1 @@
-Can you use Angular CLI with Electron Forge to build for web and desktop?
+i have an angular 6 app that use angular cli and i am tri to make an build for desktop with electron, so i start experi with electron forge, onli to realiz electron forg work the same without of angular cli.would like to build my dist folder as usual with angular cli and then packag that in an installer.what is the best way to achiev that ?

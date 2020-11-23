@@ -1,1 +1,1 @@
-OSX signed app and installer, after installing signature is removed
+i came across a strang behavior when sign osx applic for distribut outsid the appl store.aft the applic was built, the app packag was sign with develop id applic certificate.run

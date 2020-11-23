@@ -1,1 +1,1 @@
-Electron Web Bluetooth API requestDevice() Error
+i'm tri to develop an applic which communic with bluetooth low energi devices. i establish a work "website" with the web bluetooth api. everyth work fine, so i use the electron framework, to build an application.th issu is known - if you start .this caus due to the miss devic chooser in chromium. there are sever topic about workaround i found, but no examples. this is my first electron project. mayb somebodi solv this problem and can give me a hint :-)

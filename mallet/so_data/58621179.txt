@@ -1,1 +1,1 @@
-Cypress: Electron doesn't support .finally()?
+electron 3.x ad support to javascript . ... i cannot ask the team to refactor code for a problem onli with a test suit and onli with the auto mode becaus we'r still work on local cultur to accept to spend time across testing. if i ask this to the devs, someon will shutdown testing...question: is there a way to make electron abl to digest this syntax?th webapp is made with laravel 5.8.x, vue 2, and axios, transpil by webmix (webpack chain).

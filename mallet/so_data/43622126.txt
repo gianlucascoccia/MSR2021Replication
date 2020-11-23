@@ -1,1 +1,1 @@
-React/redux router isn't going into page
+i am use the react router modul with electron. i click on a text which i link it with the link function so that it can rout to that page (which is /torrenado) but it doesn't go through. the onli reaction i get is a consol message. here is all the code includ the console.log messag i get in response:home.j compon contain the rout link which lead to ./containers/torrenado.js:

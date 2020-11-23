@@ -1,1 +1,1 @@
-Error packaging electron react boilerplate app
+i clone electron react boilerpl as ebpthen i packag it with:then i ran testapp-win32-x64/testapp.ex and i get the follow error:what annoy is that i can't see the full trace or copi ani of it. doe anybodi have ani idea how to troubleshoot this?

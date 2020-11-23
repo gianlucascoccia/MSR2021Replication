@@ -1,1 +1,1 @@
-why i am getting electron builder codesign error
+i have below set for co-design through pfx file and password. i don't know whi do i need subjectnam here. and whi i am get this error.

@@ -1,1 +1,1 @@
-How I can convert my web application to desktop application with same functionality using Node EJS
+i'v web applic build with ejs/jquery/bootstrap with node js rest api.i it possibl to creat executable/instal for window oper system?without ani 3rd-parti software, it should look like nativ application, but html and ej templat engine.ani ideas?i probabl need support of ej in html view, but i need all featur for ecmascript5/css3.i have use electron packag for creat exe for windows.but ej not support for dynam data.

@@ -1,1 +1,1 @@
-Script works but script source doesn't - ElectronJS
+i'm new to javascript and i'm tri to creat a simpl electronj app. however, i can't get extern script to work. it should be ad that both file are in the same folder (as are all of the applic files). what am i miss here?thi works:main.html

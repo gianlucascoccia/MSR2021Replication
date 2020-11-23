@@ -1,1 +1,1 @@
-Cannot transfer data from backend to frontend via example code in latest api
+the exampl code for the latest api of contents.send() here: https://electronjs.org/docs/api/web-contents#contentssendchannel-arg1-arg2-i am simpli tri to read a json file, send that data to the front end, and use the front end to visual the data. yet, the exampl code error state that require() is not a function on the frontend. how am i suppos to read the data on the side of the frontend with a tag if this api instruct is wrong?

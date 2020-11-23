@@ -1,1 +1,1 @@
-How can I blur other windows and not the electron window?
+so, i want to blur or vibrant other window or just not the electron app, i'm work on. and blur all the display except the app.i could vibrant/blur the browser window by ad vibranc option to the browserwindow class, however, i want to blur the other windows, but not the window i am work on.

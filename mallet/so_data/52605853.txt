@@ -1,1 +1,1 @@
-How to pass arguments to UI in Electron, using Flask?
+i am use flask to creat a webapp and want to creat a desktop app for the same. now in flask, i can just pass a list along with the html file in render_templ functioncan anyon tell me electron equival for this?

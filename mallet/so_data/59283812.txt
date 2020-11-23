@@ -1,1 +1,1 @@
-electron error The system cannot find the path specified
+i'm tri to add electron to my angular project, but run the electron command i get the error the system cannot find the path specified, the path is: ng build --base-href ../ &amp;&amp; electronand it look like that:ani help will be appreciate!

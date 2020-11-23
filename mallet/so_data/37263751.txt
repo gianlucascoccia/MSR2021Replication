@@ -1,1 +1,1 @@
-Why d3 does not work in NW.js
+[update]: it turn out the npm version d3 not works, i chang to cdn version, and everyth works, but i still wonder what is wrong with require("d3")all:i am pretti new to nw.js, current i am tri to use d3 in it, but even the basic d3.select can not work, ani idea? the onli thing work with select is thank

@@ -1,1 +1,1 @@
-NeDB How can i use variable in find query?
+how can i use variabl in my find query, someth like this:db have doc like how i can defin that x is a variabl not is a property?thanks!

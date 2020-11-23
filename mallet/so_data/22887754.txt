@@ -1,1 +1,1 @@
-Node.JS C++ Native Addon read/write file?
+the current problem i am face with my project is that i do not know how to read/writ file from the nativ node.j addon.i have to build a type of encrypt decrypt ( rc6 algorithm ) program. but in order to encrypt files, i should be abl to somehow read and write to them from "node-webkit". i am build the .cc file with nw-gyp, and tri multipl possibl but none worked.i am build my project with "grunt-node-webkit-builder" and i simpli want to read/writ one file from the build folder "nw" where nw.ex is located.th structur look like this:

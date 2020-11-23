@@ -1,1 +1,1 @@
-window.opener is always null when using html native window.open
+use the nativ . would there be a reason whi this is not work like in a normal chromium base browser? i read multipl post about this issue. the latest post is date late 2017 so i think it is alreadi fix but i cannot find how to achiev this.

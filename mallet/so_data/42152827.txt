@@ -1,1 +1,1 @@
-nodejs mysql and angularjs in electron
+i'm use electron and angularj 1.how get data from mysql and pass them to view?i tri this but doesn't work :(.the problem is that how to send result to

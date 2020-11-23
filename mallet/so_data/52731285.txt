@@ -1,1 +1,1 @@
-Pycharm with Electron - runnerw.exe: CreateProcess failed with error 193: %1 is not a valid Win32 application
+i just tri to start electron app on window with electron quick start .how to fix this error when run electron on pycharm?ps: i am run on window 10 x64mi electron configurationmi error

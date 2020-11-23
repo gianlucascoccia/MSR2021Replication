@@ -1,1 +1,1 @@
-Print dialog box is not open in after click on canel button
+i am tri to print content use print dialog box in electron and angular.her is code for print the content by this it print the content but when we click on cancel button instead of print then print dialogbox doe not appear again.

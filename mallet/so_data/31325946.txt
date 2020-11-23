@@ -1,1 +1,1 @@
-Spawn ENOENT thrown when running Electron App packaged for distribution on OS X
+when i packag my applic up for distribut all of the button i have that start spawn task now throw enoent.it onli happen when i packag for distribution... when use electron-prebuilt i have no problems. i was hope someon could give me some inform on what could possibl be caus this! i verifi both that my path variabl includ the executable, and that the folder i am execut the childprocess.spawn in exists.if ani more inform help pleas let me know. thanks!http://prntscr.com/7qrzk0

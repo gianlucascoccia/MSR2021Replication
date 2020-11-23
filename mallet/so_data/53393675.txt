@@ -1,1 +1,1 @@
-Problem installing electron on Linux/macOS
+i need to creat an app use angular and electron. this app should work on windows/maco and linux.i tri to run it on window and it worked. but when i tri on maco or linux, it fails...her is the output when i run with

@@ -1,1 +1,1 @@
-items hidden by filters electron
+i am creat an applic in electron with angular2, where i make request to an api. when disconnect the machin from the internet, (becaus i want the applic to work differ without internet) on the console, sever error are start with the titl "item hidden by filters", as shown in the image.thi count increas veri fast, onli while the comput is not connect to the internet, when reconnect the counter is paused.i wonder if this is common in applic of this type, which use chromium and node.js. can someon help me?image: item hidden by filter consol erro

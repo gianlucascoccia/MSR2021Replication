@@ -1,1 +1,1 @@
-unable to build nw.js with diskdb
+i am develop a sampl desktop applic use node webkit and angular js refer this tutori series. i had use the diskdb for store the data and will be connect as,how can i fix the same?

@@ -1,1 +1,1 @@
-Packaging electron produces blank page with no content
+i'v built this app use electron: https://github.com/harryingles/frjumpcalchowev i can't seem to get it packag into an exe file - do this with ani of the packag util caus a blank page when i open it.http://prntscr.com/hutb0jthi is my first electron project.edit: i instal a modul to open the dev tools: and was given the follow error messag when run the app from the exe file when packag - not allow to load local resource: file:///views/index.html

@@ -1,1 +1,1 @@
-Electron: Can I get Computed Style
+i am write an electron app, which, for the most part work like a web app.when it come to get a comput style, i am stuck. in the render script, i triedwher browserwindow is correct identified, but that doesn't work either.how can i get comput styles?

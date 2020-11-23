@@ -1,1 +1,1 @@
-Electron Updater Not Calling 'update-downloaded' event after downloading new app version
+we are use follow packag in our electron app electron-updat ^2.21.10"electron-builder": "^19.19.1","electron": "^1.7.5we have follow code snippet where we call autoupdater.quitandinstall(), but it not quit current version of app and not instal new one.&#xd;&#xd;&#xd;&#xd;&#xd;

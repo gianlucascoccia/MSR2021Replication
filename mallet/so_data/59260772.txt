@@ -1,1 +1,1 @@
-Electron/React app freezing while using ps-node
+i'm tri to simpli check all the process run on a system in an electron app with reactjs. i eventu want to do this on a loop everi 10 second or so, but right now the app freez up while i do the call to ps.lookup here is the code:ani advic would be great appreci

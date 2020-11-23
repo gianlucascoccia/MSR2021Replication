@@ -1,1 +1,1 @@
-Node WebKit change print settings in source code
+so i have an app built with node webkit, it creat an imag to be print but i cannot get rid of all the margin by use css, so here is my css.i'v tri everi combin of sizes, properti and hack but there is still a huge margin/pad on the output. so sinc node webkit is open sourc i figur i'd put my c++ hat on and do it at a higher level.which of the mani thousand of file in node webkit should i edit to remain forward compatible?

@@ -1,1 +1,1 @@
-Electron - No desktop notifications
+i'v been follow gari simon tutori on how to make a basic app on electron, but i can't seem to get the desktop notif work on my computer. i'm 100% sure the code is correct becaus i perform to run his code), but i'm get no desktop notifications. is there a set on my comput that prevent it from working?her is a pictur of what it should look like:i check all my notif set on my window 10 machine, but everyth is turn on as far as i can see.

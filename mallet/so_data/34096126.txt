@@ -1,1 +1,1 @@
-File Transfer to Raspberry Pi using Atom Electron (Javascript)
+i'm tri to set up an electron (node js) applic that can connect to a raspberri pi on the network via (ssh or scp) and wireless transfer file from the pc/mac/linux to a certain directori on the raspberi pi!i know there will have to be some way to locat the raspberri pi i am look for on the network first.ani pointer on how the best way to go about this for cross-platform compat would be awesome!thank you!

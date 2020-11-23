@@ -1,1 +1,1 @@
-Object has been destroyed Exception after reopen BrowserWindow on button click in Electron
+i am new to electron framework, develop simpl desktop applic with electron.problem is that, when i open a new window in electron app and close it use menu bar close button and again tri to open it, then it throw "object has been destroy exception". how do i retain browserwindow object even though close button clicked???

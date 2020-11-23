@@ -1,1 +1,1 @@
-Electron require external javascript file outside app
+i want to requir an extern javascript file in ember electron that is locat outsid the releas app.so the user can adapt this javascript file without rebuild the whole app.th file should sit in some directori of the user comput within/linksalgs/sayhello.jsin linksalg i have also a package.jsonwhat i have tri so far inemb controller.js:},then i get this error:so it search in the wrong directory.how can i achiev a correct requir of an extern javascript file (outsid the releas app) in electron (with ember)?thanks!

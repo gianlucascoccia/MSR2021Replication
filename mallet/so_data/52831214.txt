@@ -1,1 +1,1 @@
-JavaScript: How get an access to the system windows in OS Windows
+how can i get an access to the window of program with whom user work right now?and this should not violat the secur of the system.th thing is that i want to write an applic on nodej and electron that can see which program is run and be use by the user.which one method can i do that? can i use a window api and how if the answer is yes'?

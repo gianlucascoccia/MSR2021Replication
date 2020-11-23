@@ -1,1 +1,1 @@
-Electron and Cordova for Windows build
+electron can allow to develop desktop applic (.exe) use javascript, html and css. it is base on node.j and chromiumit seem i could also do the same use cordova but what cordova couldn't do that electron can (in term of desktop applications)?i need to build an app that can do full screen, use appcach (manifest) and store data use indexeddb. it need to work well with barcod scanner and serial port communic (eg: https://github.com/voodootikigod/node-serialport)

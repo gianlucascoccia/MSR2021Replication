@@ -1,1 +1,1 @@
-How can chrome or electron launch default mail client
+when i use mailto to launch default mail client, i find that if outlook is close in window 7, mailto onli launch outlook edit page, not outlook self. so i cannot send the email via onli click send button. i must launch outlook by myself. but i still find i don't need to launch mac default email client to send email in mac.could anybodi know how to deal with this occurrence? thank you veri much.

@@ -1,1 +1,1 @@
-Angular electron - Change event not triggering for file upload
+am work on an electron app which use angular 5. i have code for a file upload problem: the chang event is fire if i run ng serv and test from browser. but if i make electron app (npm run electron-windows). the same chang event not firing. whi it is work in normal angular but not with an electron?your direct will be appreciated.

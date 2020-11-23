@@ -1,1 +1,1 @@
-Atom/Electron developer tools theming
+i'v recent migrat from use the ? (undock the devtool window and hit ctl shift i again). this will help me discov exact which class i need to configur and if they have been appli correctly.how can i tell which version of chrome/chromium atom is using? it possibl some featur have chang after googl how to guid were written.how do i manual instal a devtool theme into atom?her is a relat question which work in the browser but not in atom.

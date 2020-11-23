@@ -1,1 +1,1 @@
-nw command linked with nanoc
+i'm use osx and instal nwjs, when i tri to run a site use .

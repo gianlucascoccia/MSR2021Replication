@@ -1,1 +1,1 @@
-Angular - electron view does not update after model changes
+i have a field that enabl me to choos a folder from an electron dialog. on click the field, the dialog open and i'm abl to select the folder.however, upon hit ok, even though my model contain the folder path, it doe not reflect in the input field, until i click outsid the field (when it lose focus). how exact do i fix this behaviour? templat contains:

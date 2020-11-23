@@ -1,1 +1,1 @@
-Would it be safe to enable nodeIntegration in Electron on a local page that is packaged with the app?
+i am stuck when creat custom window control like close, min/max and restor with nodeintegr turn off. i creat the button in my render local html file main.jsthi wouldn't work becaus of nodeintegr be disabled. is it safe to have it enabl in a local page? if not, what is a safe way of do this?

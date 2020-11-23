@@ -1,1 +1,1 @@
-How to Flip & Rotate images on HTML5 Canvas
+i'm build an electron app which lay out imag for batch print on an industri printer and i'm have an issu with imag flip / be mirrored.her is my code which determin whether an imag should be flipped, rotat or both.th first part of the code recognis if an imag need to be rotat or not. this work fine. the mirrorimag function howev isn't work correct for imag that do not need to be rotated. everyth work perfect on imag that are rotated. am i miss something? can anybodi help, this has been drive me mad for hours.thank

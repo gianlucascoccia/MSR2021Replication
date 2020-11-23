@@ -1,1 +1,1 @@
-zeromq w/ Electron: Could not locate the bindings file
+i'm use window 7 x64, nodej 5.1.0 and electron 0.35. i follow the instruct from electron quick start app and then ad the line . how am i suppos to get rid of the error when run with electron?

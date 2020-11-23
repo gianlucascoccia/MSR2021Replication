@@ -1,1 +1,1 @@
-Can't succeed in making transparent window in Electron (javascript)
+i am tri to make a transpar window with electronj but i obtain a black background.i am on linux (debian jessie)i have tri differ version : latest, beta and night with the same result.i have a version for nw.js that work on the same machine, so i expect it is a electron problem.her is my code of as said here

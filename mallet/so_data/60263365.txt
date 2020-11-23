@@ -1,1 +1,1 @@
-How do you access a Sequelize instance in a VueJS component?
+i'v an electron/vu app built with electron-vue, but i can't work out how to access a sequel instanc which is initialis in main.js, in the compon variabl into a scope that the vue compon can access? are there ani best practic here that i should read up on?

@@ -1,1 +1,1 @@
-AngularJs With Electron Close Application Clear All localStorage
+i have creat one applic angularj &amp; electron user login success login i have set local storagescreen redirect to list page.then i applic close and again run app but not login screen display, list page displayappl close all localstorag removemain.j

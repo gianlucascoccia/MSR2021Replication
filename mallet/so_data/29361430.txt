@@ -1,1 +1,1 @@
-EasyRTC + Node Webkit: Attempt to connect when already connected to socket server - Error
+i am creat a node webkit applic in which i want to implement audio-chat.i have implement the same with when the user log out and log in. still it give the abov error. can anyon help me figur out what the problem actual is?thank in advance.

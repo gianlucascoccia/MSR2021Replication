@@ -1,1 +1,1 @@
-Not embeddable Youtube video is only available when Electron app is not compiled
+on the mainwindow });is there a way to forc to play that not embedd video from an electron built app?

@@ -1,1 +1,1 @@
-Not sure how to compile compass related files for Electron?
+i'm recent rewrit an exist html5 web app to desktop app.i find electron is much more suitabl for my task, but my exist web applic includ compass file (config.rb file and sass etc) that need to be compiled.not sure how to config that in electron.ne help here, thanks!

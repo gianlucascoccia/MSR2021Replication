@@ -1,1 +1,1 @@
-How to pause downloading in Node.js by request module
+how can i paus while download a file and start again?now i'm make download and show progress function with node.js, javascript, html and electron. i thought it would be better if i can add paus function too.i search the request module, but i couldn't find event about paus download. this is my first time use node modules.i there ani event that i can add on my code? thanks!ref by this post.

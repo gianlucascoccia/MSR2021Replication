@@ -1,1 +1,1 @@
-Export directory as zip with a SaveFileDialog
+i'm use archiv to export a directori as a zip file in nodejs/node-webkit. howev i can't find anyth on how to have the user set the destin on where the zip file should be export use a tradit savefiledialog.do anyon know how i can have the user set the destin on where to export the zip file use a savefiledialog in node-webkit?

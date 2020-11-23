@@ -1,1 +1,1 @@
-How to convert electron app into web app?
+i develop an electron applic few week ago with the framework angularj (use to make the client side). i would like to convert this desktop applic to a classic web app.

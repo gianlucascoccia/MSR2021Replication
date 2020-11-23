@@ -1,1 +1,1 @@
-Jasmine - Getting "describe is not defined" when run the script using spectron
+i have instal spectron use the follow command npm instal -g spectron but i am unabl to run globally.so i instal local as you said. have instal jasmin and i have specifi test scrip as jasmin in package.jsonif i run my script use the command node first.js, i am getting"describ is not defined"i want to know whi i am get this error and whether the way i am import the jasmin is right ?

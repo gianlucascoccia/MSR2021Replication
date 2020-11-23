@@ -1,1 +1,1 @@
-Videos block each other while loading on the same page in Electron App (using video.js)
+follow code load the video but both player are readi at the same time.when one video is smaller it won't be readi until the second video is readi too.i have two video tag on the same html page:chang the play video dynam is make thing even wors as they sometim load, start playing, stop for a second and then start play again, all in sync.can someon point me to whatev i am miss or misunderstanding?

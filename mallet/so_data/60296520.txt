@@ -1,1 +1,1 @@
-Can one make a portion of window transparent build using Electron?
+can one make a portion of window transpar build use electron ?i see a solut to make the whole browser transpar but hope some day there is solut to make portion of a browser transparent.https://www.electronjs.org/docs/api/frameless-window#transparent-window

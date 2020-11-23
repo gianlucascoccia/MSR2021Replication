@@ -1,1 +1,1 @@
-unknown error: call function result missing 'value'
+i have electron 4 program which i want to test. i want to set a valu of a simpl input field. depend are among othersi hade to updat to electron 4.1.4 becaus the client i am test has been updat with this version. i have been get this error sinc upgrading.

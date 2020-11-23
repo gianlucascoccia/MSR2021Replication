@@ -1,1 +1,1 @@
-Electron (atom shell) window getting closed on its own after some time
+just a plain hello world applic use electron-prebuilt is set up.i run it by what is caus this issue?npm version is 1.4.10 &amp; node (via io.js) version is 0.11.13 (window 7 x64)

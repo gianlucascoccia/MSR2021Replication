@@ -1,1 +1,1 @@
-Where does Electron pull its ssl certificates from on Linux (Ubuntu)?
+we have our root certif for our local web server (it a local ca) in ubuntu system certif store but for some reason the zulip applic (electron base app) doesn't appear to be util the certif in the system wide certif store. firefox and chrome are pull the system wide cert through p11-kit-trust.so without issue.do electron automat pull from the system wide certif on linux? if so, from where?

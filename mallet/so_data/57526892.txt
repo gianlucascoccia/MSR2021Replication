@@ -1,1 +1,1 @@
-Issue with setup and run Electron + React + Typescript + Webpack application
+i'm tri to run my electon applic that i'm migrat from es6 to typescript. with my configur i can build dll and main success but get an error (syntaxerror: unexpect token ...) when i'm tri to run.for now project file are mix of typescript and javascript files.i use the follow depend (main of them are):

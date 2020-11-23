@@ -1,1 +1,1 @@
-Nodejs how to create a button that runs a command in cmd and terminal?
+i am look for a cross platform way between window and mac where i can creat a button, that when it is press will execut a command in cmd/terminal, if anyon know how it would be realli appreci if you could let me know thanks!

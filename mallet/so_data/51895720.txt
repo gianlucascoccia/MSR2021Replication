@@ -1,1 +1,1 @@
-Can I create a self-contained, cross-platform Electron application?
+i'm consid creat an electron application. ideal this applic is distribut as a singl file that run on multipl oper systems.i that possible, and if so, how?

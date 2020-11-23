@@ -1,1 +1,1 @@
-Use of require(lib) versus <script> in Electron apps
+i don't have a handl on when to use them.

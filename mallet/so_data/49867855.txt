@@ -1,1 +1,1 @@
-Prevent emitting certain code when using webpack to deploy Electron app for the web
+i have a electron-bas app written in typescript. to bundl the code i am run webpack in my gulpfil which can either target electron or the browser of course. the respect configur look as follows: this won't help me to "condit import".

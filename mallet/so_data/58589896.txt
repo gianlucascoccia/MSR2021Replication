@@ -1,1 +1,1 @@
-Is it good approach to call ipc communication in preload script?
+i have just start learn which one is better? i have no idea of ani negat impact, i just want to learn best practic from the beginning.

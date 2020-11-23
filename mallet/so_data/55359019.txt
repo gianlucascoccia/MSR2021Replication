@@ -1,1 +1,1 @@
-Ubuntu does not show the maximize button in electron
+hello everyone, i have a problem with ubuntu, and when we compil the electron project we can not see the maxim screen button.sampl photo:mi main.j is the following:

@@ -1,1 +1,1 @@
-Using window.document.write() in Electron
+i'm use vue.j for frontend-building, but final the my project should be abl to get work in a webbrows and in electron.now i want to implement a page print function, but it onli work for the webbrows version. i use the electron plugin for vue cli3. i can start the electron build and also the dev mode. if i tri to print data the new window get open, but i receiv &#xd;&#xd;&#xd;this snippet will execut in a vue component.

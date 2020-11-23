@@ -1,1 +1,1 @@
-How to get text from alertbox in spectron-mocha-webdiverio
+i am test my electron app use spectron.i am tri to get text from alertbox but get an error.i want to get the text from alert and if that is expect then accept it. test : but i can see the alert.

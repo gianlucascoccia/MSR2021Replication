@@ -1,1 +1,1 @@
-What is the difference between BrowserWindow and <Webview> Tag in electron and when is it advisable to use each?
+here are link to specif part of the electron docs:brows windowwebview tag(edit)th use case i was think about is for exampl if i want to build a browser, would each webpag in a tab be an instanc of a webview or a browserwindow? or for instanc if i want to build a program editor, and i want to display the render html page right next to the code, would that be a new browserwindow or a webview?

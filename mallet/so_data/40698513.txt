@@ -1,1 +1,1 @@
-Angular 2 + Node Webkit
+i'm new with angular 2 and i want to know if i can use it with node webkit to creat desktop aplications. are they compatible? i know that angular 2 creat a package.json same as nodewebkit, but they are different. so is there ani chanc to work with both?

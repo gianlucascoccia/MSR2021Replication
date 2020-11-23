@@ -1,1 +1,1 @@
-Electron: Size of contents in webview not rendered correctly
+i have a problem with the webview of electron. when the applic open and the content of the webview are rendered, the width and height of the content is not size correct as you can see in the imag below. the width and height of the webview itself is correct and doe not need ani change. if anyon know how to fix this problem, let me know.

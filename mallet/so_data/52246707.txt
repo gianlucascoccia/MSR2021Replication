@@ -1,1 +1,1 @@
-Can we force the mainWindow to focus on some DOM after restore from minimize in Electron?
+i am write a desktop version for googl translat with electron. and i hope that everi time the app restor from minimization, the textarea can be focused. therefore, i triedwher source-i is the id for the textarea. but it doe not work. the focus is kept on &lt; bodi />. can someon help me with it? my platform is win10. thank you!

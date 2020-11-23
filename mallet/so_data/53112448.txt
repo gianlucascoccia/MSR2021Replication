@@ -1,1 +1,1 @@
-How to replace variable names in external js files
+i am work on a node.j termin project that need to compil javascript file for the anti-data leak befor running!do anyon know of an easi way of do someth like below with node.j and the file onc compil will be run in an electron browser page!befor compiled:feel free to ask question and i'll tri my best to answer them to help you help me.

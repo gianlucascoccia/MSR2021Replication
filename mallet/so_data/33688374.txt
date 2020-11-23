@@ -1,1 +1,1 @@
-node get the source code from url and display
+i am use node-webkit to creat an application. i need to get the webpag from the url and display it.i have tri use cannot be load into ifram and it replac the whole page.i cant use php here..i there ani proper dom parser in jquery??(i there ani way to display the css and imag correct so that i can continu use request module)

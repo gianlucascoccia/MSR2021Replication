@@ -1,1 +1,1 @@
-WebSQL access in Electron application
+i have an electron applic run a node express server. the electron main process is: command and obviouslli i receiv "undefin function" error.ani idea ?

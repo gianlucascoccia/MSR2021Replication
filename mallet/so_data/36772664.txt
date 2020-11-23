@@ -1,1 +1,1 @@
-Is it possible to save a file such as .swf, .mp3, .txt, etc. without the "save as" prompt using javascript in a specific directory?
+i am develop a node-webkit application. i would like to download a .swf file when i click a button and automat save it to a specif directory.right now, i can download it but a "save as" dialog is prompting. is it possibl to disabl it and just automat save it?i this possibl with javascript?

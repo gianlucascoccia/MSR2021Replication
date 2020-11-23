@@ -1,1 +1,1 @@
-NW.js + vue-cli: how to read a local file?
+i am build a file, so that it get preserved/copi to the final bundle. but again, how can i point to it both dure develop and in the product build? thanks.

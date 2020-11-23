@@ -1,1 +1,1 @@
-Redux works in dev, seems to break in production
+i have an electron desktop applic contain a react + redux app. redux work fine whilst run the app local in development, but doe not updat compon onc the app has been built to a nativ desktop app. mani articl and issu seem to think that the store is configur incorrectly, or that i am mutat state direct rather than updat it, or that my get called.

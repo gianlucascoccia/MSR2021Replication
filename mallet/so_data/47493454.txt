@@ -1,1 +1,1 @@
-Run JavaScript targeting iframe in electron
+is it possibl to execut javascript in either a preload script or manual target an ifram in a webview /the webview is base on chrome , my intuit say it should be possible.bas i would like to click a button insid the ifram using:

@@ -1,1 +1,1 @@
-Handling oauth2 redirect from electron (or other desktop platforms)
+this is most a lack of understand of oauth2 and probabl not specif to electron, howev i'm tri to wrap my head around how someon would handl an oauth2 redirect url from a desktop platform, like electron?assum there is no webservic setup as part of the app, how would a desktop applic prompt a user for credenti against a third parti oauth2 service, and then authent them correctly?

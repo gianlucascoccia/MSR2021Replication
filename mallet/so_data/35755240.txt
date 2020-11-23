@@ -1,1 +1,1 @@
-How to add text to ubuntu app indicator with with NW.js (or electron)?
+i know that it is possibl to creat a tray icon for a node-webkit applic like so:but on ubuntu the titl won't be displayed. is there anyway to achiev this? i would like to use the tray icon to display dynam information, which would be realli annoy to do by chang the icon itself.i would also be fine with use electron, if there is a way to implement it there.edit:for those interest in participating: i creat some issu on github for electron and for chromium.

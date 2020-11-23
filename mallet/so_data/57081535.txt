@@ -1,1 +1,1 @@
-How can use Django with electron for offline desktop application
+i am tri to creat an electron offlin desktop app with react as front-end and django(python) as backend.but i am face problem to creat django server insid electron package.pleas suggest how do i communic from node.j to django rest api.i tri to do use below function which is place insid electron.j file to start djangoserver.

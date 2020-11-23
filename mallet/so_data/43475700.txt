@@ -1,1 +1,1 @@
-Testing Visual Studio Code Extension with Spectron - How to determine when VSCode is ready?
+goal: perfom real end-to-end test for a vscode extens use spectron.a an exampl i instal the vim extension.i adapt the usag exampl from spectron readm like this: which seem to work most of the time. sometim it run into the timeout.i there anyth more reliabl (in the dom) that is set by vscode and can be check by spectron that state that vscode is realli ready?

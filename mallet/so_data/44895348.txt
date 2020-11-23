@@ -1,1 +1,1 @@
-electron readonly array javascript
+i'm use electron to test some code.in whi do these command work?i this a scope problem?or how do i forc an array to be read-on in javascript?thank you for your help!

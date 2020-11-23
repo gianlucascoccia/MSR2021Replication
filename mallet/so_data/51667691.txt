@@ -1,1 +1,1 @@
-Web API Notification requireInteraction is not working in Electron App for Windows
+i am use web api notif in my electron app follow this documentation.mi code look like this:however, both of these option are work fine in chrome browser but unfortunately, these option are not work in the electron build an app for windows.th notif are show but they do not wait for ani user interact and gone.i there ani other librari for show sticki notif in window platform, which stick to the screen unless the user perform ani action?

@@ -1,1 +1,1 @@
-How do I exit and external CMD file from a Node-Webkit Application?
+i have a batch script file as a text file and display the file text instead of run it. doe anyon know how to accomplish this?

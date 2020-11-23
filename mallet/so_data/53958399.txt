@@ -1,1 +1,1 @@
-Browser window closing as soon as we serve the electron app
+i am tri to run an electron app in dev mode.i'v clone the project from github and did yarn install. when i serv the project use electron builder after serv , i get the follow error and the browser window is closing. this is happen after serving.th error is as follow :pleas help. thank you .

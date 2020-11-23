@@ -1,1 +1,1 @@
-PouchDB returning wrong image attachment type
+i'm tri to get pouchdb to return a small imag attachment. when i upload the imag through fauxton, my app success return a blob with

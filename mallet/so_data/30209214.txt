@@ -1,1 +1,1 @@
-Browserify with node-webkit (nw.js) usage
+i'm use grunt-browserifi to build my applic for nw.js.the problem is that process.cwd() or __dirnam return relat path not absolute.i'v tri differ combin of detectglob and insertglob options. doesnt work.how do i restrict use browserifi polyfills?

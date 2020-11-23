@@ -1,1 +1,1 @@
-electron how to redirect data from node to angular 7
+i generat an angular 7 application, which is run at http://localhost:4200i have an applic in node js that is respons for authent the user on facebook, run at http://localhost:3000ther the callback redirect work correctlyindex.j (node)when tri to includ it in electron, i can invok the node functions, but i can not redirect the data to angulari tri with file: /// and it doe not work either, it doe not give error eitheri appreci your help

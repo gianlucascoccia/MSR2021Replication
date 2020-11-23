@@ -1,1 +1,1 @@
-Force csv-write-stream to always use doube-quotes (nodejs and electronjs)
+i am use csv-write-stream to creat and append data to csv in nodej and electronj project.i there a way to forc it to alway use double-quot around each entri of each row? so row would look someth like this:

@@ -1,1 +1,1 @@
-node-webkit destroys print on Windows
+when print within a node-webkit app the result isn't as expected. it seem that the charact are rotat and cutted. here is an exampl with a simpl lorem ipsum text block:i use the standard js-print-command:it the same printer and app that print on osx correctly, but "crashes" on windows, as seen above.

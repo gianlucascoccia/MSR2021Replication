@@ -1,1 +1,1 @@
-Compile and build chromium browser for electron
+so i am develop an electron application. i know electron is run a chromium browser in it core. one of the use case i am current work on involv chang the sourc code of chromium. i have clone the chromium project and made the changes. now is it possibl to use my version of chromium to build my electron application? if yes, how can i do it? if no, what are the alternatives?

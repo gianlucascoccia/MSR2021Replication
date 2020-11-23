@@ -1,1 +1,1 @@
-How to write Electron debug messages into a file?
+i am develop an electron app and i want to write it debug messag into a log file. if i start my app by execut to my cmd statement but i wonder if there is also a programmat way to save the debug log for electron main process?mi main goal is to be abl to write debug log from the main process when distribut my app.

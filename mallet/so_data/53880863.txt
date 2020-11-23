@@ -1,1 +1,1 @@
-Electron: Can't hide program icon in BrowserWindow
+i am tri to hide the program icon on the windowbar of a electron window. i have creat the browserwindow as follows:thi howev doe not hide the icon and still show the default program icon.how can i hide the program icon in electron?

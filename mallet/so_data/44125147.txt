@@ -1,1 +1,1 @@
-dyld: Library not loaded: /usr/local/opt/openssl/lib/libcrypto.1.0.0.dylib
+use electron-build to build window app, when sign up, i got this error :

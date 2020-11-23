@@ -1,1 +1,1 @@
-Inline svg does not resize in Chromium (Electron.js browser)
+in regular chrome: in chromium of electron.js:el inspection:implementation:

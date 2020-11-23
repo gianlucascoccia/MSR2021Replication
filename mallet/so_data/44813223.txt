@@ -1,1 +1,1 @@
-Is Electron a Reliable Framework for Enterprise Apps?
+we can see good applic (such as slack and insomnia) go to electron, but there is safety/st enough to build an big solut (such as an erp) with that? thanks.

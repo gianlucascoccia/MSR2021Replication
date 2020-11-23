@@ -1,1 +1,1 @@
-Sending keydown, keypress on type in nightmare.js
+type method in nightmare.j assign the text to input control valu property. due to this implement keydown,keypress event doesn't get trigger on the on the page your are tri to scrape. ani way to send keydown event after type'?edit 1-here is an exampl to send event use jquery, which doesn't work either-

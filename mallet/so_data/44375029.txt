@@ -1,1 +1,1 @@
-Electron <webview> back using backspace
+i'm write an electron app. i use webview to show a websit insid my app. i want the websit insid the webview to go back when i press the backspac key. the offici documentari on webview was not help for me. how do i make the webview content go back when the backspac is pressed,please?

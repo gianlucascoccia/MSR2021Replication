@@ -1,1 +1,1 @@
-download large zip files (around 50mb) using node js
+i want to download larg zip file have size around 50 mb use node js. i have tri http.get and i also tri "dld" plugin for file download but not working. pleas tell me some way or ani plugin which will be use to solv this download issue. i am develop this app in node-webkit. my code is work fine for small zip files.http.get method is work onli for small files.

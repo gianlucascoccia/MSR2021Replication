@@ -1,1 +1,1 @@
-How to export a require assigned to a variable?
+i'm do the follow to make this full example: https://github.com/alexcheninfo/vue-electron-simpl

@@ -1,1 +1,1 @@
-nw.js sign application OSX
+i want to sign my app to get rid of app block with accord to security. i follow to the offici document mac-app-store-(mas)-submission-guidelin generat certificates, packag my app, sign it. but after signed, my app close immedi after launch. when i tri to upload this sign app via templat loader to app store i got:i alreadi ask question on github, but didn't get ani respons yet. if someon had experi with nw.js on mac os pleas help.

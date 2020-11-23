@@ -1,1 +1,1 @@
-How to access a pouchdb in electron from external app?
+tldr; what the best way to access the pouchdb from outsid electron?i'v built an electron app with a pouch database. now i have anoth small c# tray app to interfac with a fingerprint reader. it is working, but i would like to use the same databas for both apps.or is there a better way to do 2way communic between the apps? i alreadi communic with the fingerprint-reader-app use a basic api endpoint.

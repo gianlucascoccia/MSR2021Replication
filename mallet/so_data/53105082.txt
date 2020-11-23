@@ -1,1 +1,1 @@
-NodeJS/Electron The given range isn't in document
+was program on my electron program and i somehow got the error in my console: [10316:1101/170233.809:error:console(2564)] "the given rang isn't in document.", source: chrome-devtools://devtools/bundled/shell.j (2564)i don't know what happen there, but i'd undo everyth i did and i'm still get this error. i can't see ani messag in my window consol (the chrome consol from electron).

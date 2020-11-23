@@ -1,1 +1,1 @@
-Node Webkit ember.js issue
+i am tri to packag a simpl ember.j exampl with node webkit in mac-o 10.8 but i am get the specifi error "run without render sandbox". is there ani issu with use ember.j with nodewebkit b'coz when i am packag without use ember.j it working.

@@ -1,1 +1,1 @@
-Exclude json config files in webpack
+i am work on an electron app that have a few config file that i do requir on in the app. the problem is that when webpack my app all the config file are bundl into the bundle.j file but i would like the file to still be access to the user without hack in the bundle.j file. is there a way to exclud these file in webpack but still do a requir on them?

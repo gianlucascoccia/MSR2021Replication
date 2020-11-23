@@ -1,1 +1,1 @@
-node webkit- catch iframe mouse events from parent window
+i'm tri to creat a draggabl ifram in my app. when the ifram is focused, all mous event are trigger within the inner window object.i can't listen to those event within the ifram and trigger them myself, becaus it can be block by the ifram content jsi can't creat an unvis layer abov the ifram that will catch all the event and move them forward to the iframe, becaus bultin event can't be trigger by script (like css )can i catch those event in node layer, without use webkit dom?

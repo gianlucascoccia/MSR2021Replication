@@ -1,1 +1,1 @@
-How to detect desktop idle time from an Electron app?
+i need my electron app to respond to the user becom idl (no mous or keyboard input to ani program on the os) for a certain amount of time.how can i trigger a function base on such idl time data?

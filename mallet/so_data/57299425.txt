@@ -1,1 +1,1 @@
-zlib error when I try to install node packeges
+i have problem with instal new packag with npm after i did an npm updat with this command :

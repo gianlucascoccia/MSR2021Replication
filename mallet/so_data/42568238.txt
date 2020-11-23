@@ -1,1 +1,1 @@
-Node.Js - exit out of exec after continuous commands
+i'm execut a few git command in sequence, in particular, i'm follow a git flow model,e.g. when finish a feature, i run,and so on. the output are work correct and the order is working. however, if one of those command fail, i am break out of the chain.i know that there is an async librari that i could use with the same effect, per here. however, is this the best possibl way to do that without resort to a third-parti library? how have other peopl done it?

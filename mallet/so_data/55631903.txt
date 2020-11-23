@@ -1,1 +1,1 @@
-declare variable in angular in a way that all functions have access to it
+im creat the window variabl over and over again how can i declar it onli onc ?i tri ad it to the constructor but that didn't work.

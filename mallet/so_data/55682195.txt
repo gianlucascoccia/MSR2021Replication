@@ -1,1 +1,1 @@
-How would I do component testing if my component requires access to a database
+i creat an electron app which persist data in nedb which display data through the app. i'm tri to test my compon which display the data with jest and enzyme, but my simpl test fail becaus one of my modul that is import to the file requir access to a properti that is onli defin when i run the electron app.i'm new to creat electron app so my architectur might be bad. the main issu is when i tri to run my test i get the error,

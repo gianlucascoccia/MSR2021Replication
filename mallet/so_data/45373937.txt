@@ -1,1 +1,1 @@
-Debug electron with vscode. runtimeExecutable
+i can't debug electron main process on window with vscode. i'v tri all possibl thank you.

@@ -1,1 +1,1 @@
-Cheerio not finding table content
+i need to pars an html conta a table.i'm get null when i'm tri to alert the content of the span.

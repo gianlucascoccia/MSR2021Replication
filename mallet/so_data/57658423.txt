@@ -1,1 +1,1 @@
-How to create and manage a npm process in electron
+i'm tri to make this littl qol app that can trigger my script insid package.json of ani project i throw at it (react, polymer, etc.).so far, it work as it should. at least until i kill the app or want to termin the specif process (like use ctrl+c while run a npm start in a console).i'm current call the command this way:so if there is some solut i would be realli grateful. i'm also open to ani differ solut if there is any.thank in advance.

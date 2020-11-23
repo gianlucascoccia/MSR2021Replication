@@ -1,1 +1,1 @@
-How to get current URL from electron BrowserWindow object?
+i want to know the current url of the browser-window. is there ani way to access window.location.href properti of browserwindow or ani other way to get it?

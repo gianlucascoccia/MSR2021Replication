@@ -1,1 +1,1 @@
-restrict electron app to resize when width is below minimum limit
+i have a basic desktop app built in electron. my desktop app can be resiz but if when resiz the width decreas to 700px then it should not allow user to resiz less than that width. i mean the resiz should be avail onli if the width is more than 700 px. i tri this use but it did not work.how can i restrict resiz for less than 700 px width?

@@ -1,1 +1,1 @@
-Electron, React and WebSockets causes WebSocket.Server is not a constructor
+i am work on a new project to learn electron and react and i'm hit a problem when i am tri to start a web socket as a server. i have the follow code:

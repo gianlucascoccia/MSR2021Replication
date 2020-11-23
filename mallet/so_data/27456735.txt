@@ -1,1 +1,1 @@
-Bounce on Alert OSX in Nodewebkit
+i am work on a nodewebkit app.for window i can alert user by use follow code: does.i there anyway this can be fixed? thank in advanc

@@ -1,1 +1,1 @@
-How to set up google analytics (or Firebase Analytics) in electron desktop app?
+i want to collect the data of desktop app built with electroni creat the property(app+web) in firebas consol then get the firebas sdk snippet as below:put the configur into the bodi section then tri to send the logeventunfortun i cannot see ani stream data in real-tim data collectionani thought would be appricated.

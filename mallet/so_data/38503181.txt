@@ -1,1 +1,1 @@
-How to display a JPG image from a Node.js buffer (UInt8Array)
+i have a custom node.j addon that transfer a jpg captur to my applic which is work great - if i write the buffer content to disk, it a proper jpg image, as expected. the data in b64encod after the convers is correct, as i tri it on http://codebeautify.org/base64-to-image-convert and the correct imag doe show up. i must be miss someth stupid. ani help would be amazing!thank for the help!

@@ -1,1 +1,1 @@
-AJAX POST successful but does not do anything
+i am build a desktop app use electron. i want to keep the list of all the recent file opened, for this i am use jqueri ajax. here is my codeth problem is that consol say success but no chang in json file. reload the page didn't chang anything.

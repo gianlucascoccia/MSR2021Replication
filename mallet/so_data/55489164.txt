@@ -1,1 +1,1 @@
-Can I use Electrons built in IPC to communicate with .NET app?
+i'm look into build an electron applic which need to be abl to send messag to a separ .net applic on the same machine.i it possibl to use the built-in ipc-librari to communic outsid of electron, not just between render and main? or do i need to use a separ ipc-librari like node-ipc for this?i have tri to use http-commun in other projects, but that doesn't feel right for this application.thanks!

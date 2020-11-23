@@ -1,1 +1,1 @@
-Electron/JS Wait till varible gets data from a different function
+i am current learn to use electron for a univers project. what i am tri to do is to read data from a .xlsx file, then creat a chart with chart.j and display the data. for that, i am use excelj and chart.js. for this, i wrote multipl function (code below). my problem right now is, that i tri to return an array with some data (it get creat perfect fine) but it just display as

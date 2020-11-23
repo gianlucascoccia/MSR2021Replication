@@ -1,1 +1,1 @@
-Electron-edge precompile for node v7.4.0
+i am tri to build electron-edg for node v7.4.0 as it doe not work for version after node v6.5.0. i have tri their github instruct https://github.com/kexplo/electron-edge#building-on-window but it doe not work for me. can anyon help with that please?

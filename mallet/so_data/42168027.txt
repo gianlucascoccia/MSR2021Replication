@@ -1,1 +1,1 @@
-Error while Packaging and Distributing Electron Desktop Apps in Windows
+i have creat a sampl electron app and i need to creat a .ex file from it. i manag to build the app without error but when i start the app an error appears.i cant figur out whi im get this.how to resolv this?.th error im gettingmi package.json fileth repo of the project electron project

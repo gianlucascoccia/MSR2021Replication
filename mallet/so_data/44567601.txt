@@ -1,1 +1,1 @@
-How to enable notification in electron app packaged for windows
+i am make an electron desktop app for windows. i have use node-notifi and in-built electron notification. these notif are fire when i run the app in development. but when i packag the app and instal it on a window computer, the notif fail to fire. what step should be includ while build the app to ensur notif work? i am use electron-build to build the app.

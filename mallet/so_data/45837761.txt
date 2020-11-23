@@ -1,1 +1,1 @@
-Passing commandline arguments to electron app
+i'm tri to creat an electron applic that interact with files. appart from the abil to drag file into the app i also want to add it to sendto on window and have an openwith entri for it. the later two boil down to window explor open the electron app with the path(s) to the file(s) append as commandlin arguments.read up on the topic it seem peopl just go with process.argv and process it through yarg or similar. the problem is i don't even receiv the real arguments. my argument look like this:it all seem fine. am i miss someth here?

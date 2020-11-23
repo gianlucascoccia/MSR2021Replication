@@ -1,1 +1,1 @@
-What does (Electron) BrowserWindow's baseURLForDataURL option expect?
+i'm load a window from data-uri:th good news is that the dev tool consol show error now for the css/js file that should be load but aren't, but i can't make sens of what it expects. there are no exampl anywhere, not even in the github issu that inspir this option.do it expect an absolut path (as in my exampl above)?

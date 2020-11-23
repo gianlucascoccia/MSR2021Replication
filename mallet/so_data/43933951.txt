@@ -1,1 +1,1 @@
-How to increase the max memory limit for the app built by electron-builder?
+version: "electron": "1.6.2", "electron-builder": "^16.8.2",target: window x64i know i can add when run it use electron. but where should i put this param to the build config of electron-builder?

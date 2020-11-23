@@ -1,1 +1,1 @@
-Identity Server 4 Angular Electron App Authentication Example
+i'm look for a good exampl authent an angular electron app from an ident server 4 server. i have been sucesful use oidc-client to connect to my ident server with an angular web app. https://github.com/identitymodel/oidc-client-jsth same implement doe not work for my angular electron app and i realiz i should be use a differ client library. ive settl on use appauthj with my angular electron app but cant find an exampl on how to implement this. help!

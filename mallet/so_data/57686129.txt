@@ -1,1 +1,1 @@
-Error 1016 when executing Argo Tunnel from Node child_process
+cloudflar argo tunnel from node child_processi have an electron app from which i would like to spawn a child process that execut i can see the normal consol output from cloudflar indic that the tunnel has been establish and my server is respond at some-random-name.trycloudflare.com. however, when the process is start from within the electron app, i get error 1016 display on a cloudflar error page.do anyon have experi with argo tunnel and child_process?

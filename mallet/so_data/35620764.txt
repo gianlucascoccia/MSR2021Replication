@@ -1,1 +1,1 @@
-How to disable alert dialogs when errors occur in Atom Electron
+is there a way to disabl alert dialog when error occur in electron app, or better yet disabl all dialogs? dialog are useless in headless mode (grant electron is not intend to be a headless app) and just get thing stuck.i'm not necessarili look for a flag disable_dialogs'. perhap i could overrid one method in the main process so that dialog don't open?

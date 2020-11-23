@@ -1,1 +1,1 @@
-Loading shared Javascript code between vue-electron components
+i'v creat a new vue-electron project use and sever other variations, but i alway get an error that the modul cannot be found. what the correct way to build and import modul in vue-electron projects?

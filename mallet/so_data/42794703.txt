@@ -1,1 +1,1 @@
-Updating electron app manually
+i was think this scenario if you know how to make this with electron-build electron-updaterth electron updat is download the updat and close the app suddenlyi don't want that i want the user to have the control.how i gona make this. ?

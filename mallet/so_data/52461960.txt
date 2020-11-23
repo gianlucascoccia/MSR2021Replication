@@ -1,1 +1,1 @@
-What files do I need to code sign on Windows Electron app?
+i want to sign a window electron app. do i onli need to sign the instal that will be download by the user or do i also need to sign the files) befor they will be packag by the installer?

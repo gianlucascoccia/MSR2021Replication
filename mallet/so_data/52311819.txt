@@ -1,1 +1,1 @@
-Error: fs.readFileSync is not a function using Electron
+i'm have problem use pdfkit in electron due to “fs.readfilesync is not a function” … how can i use fs librari in electron? i'v read that is disabl for secur reasons, but i would need it to be execut offline.

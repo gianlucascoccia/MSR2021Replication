@@ -1,1 +1,1 @@
-Why do I need to make my electron window bigger than my canvas?
+js.i can get rid of the scrollbar by ad 50px to the electron window. but i'm confus as to whi this is happening.how can i just make a window and the canva be the same size?

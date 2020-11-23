@@ -1,1 +1,1 @@
-Are there canUndo and canRedo webContents methods?
+i have some button and menu item that use undo and . realli i can´t find inform about how to do it.

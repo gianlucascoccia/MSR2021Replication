@@ -1,1 +1,1 @@
-Open Directory in Node.js and node-webkit
+i have a function that should open a directori after it was created, work fine. what am i do wrong here?

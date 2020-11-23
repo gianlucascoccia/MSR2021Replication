@@ -1,1 +1,1 @@
-Electron process keep running after closing
+on close my electron app process keep running.her my code:what i'm do wrong?

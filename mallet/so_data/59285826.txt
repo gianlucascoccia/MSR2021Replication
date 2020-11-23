@@ -1,1 +1,1 @@
-How to open file with specific application not the system default in electron
+in fact, i'm develop my vscode extension. i want to open file with extern application, the node packag is xxx.md, the default app to open markdown is typora(built with electron also with mark text). but if the default app isn't built with electron, it work well. for exampl the html file will be open by default browser.

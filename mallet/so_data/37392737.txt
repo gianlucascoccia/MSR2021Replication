@@ -1,1 +1,1 @@
-open word application inside electron/node js desktop application
+i'm new to electron(node.js) desktop application. i'm tri to find a way open word application(which is alreadi avail in that particular pc or mac) insid the electron desktop applic browser-window. ani help is much appreciated.

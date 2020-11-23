@@ -1,1 +1,1 @@
-Using winston logger with electron+angular 2
+i'm tri to use winston logger insid and electron app host an angular 2 app and i just can't make it work.th angular app is written in typescript.someon has a work example?thanks.

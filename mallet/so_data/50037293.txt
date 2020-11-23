@@ -1,1 +1,1 @@
-'Unable to find a valid app' error building electron app using electron-packager
+when run my applic use npm start, everyth work fine. howev after build my app use electron-packag and open .ex file, it occurs:'un to find a valid app , complet descript is errormi packager.json file is:i chang the entri point and my project structur is：project structurehow to solv this problem?

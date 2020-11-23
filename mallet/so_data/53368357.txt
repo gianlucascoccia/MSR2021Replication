@@ -1,1 +1,1 @@
-How to access system files with node.js/electron?
+i am tri to read system file from a mac use electron/node.js, current how i do it is.but i keep on get a eaccess error, i believ this is becaus it is a system file becaus i cannot copi it from the termin or with python without root. is there anyway i can grant the applic root access? even if the user has to type in there password at launch that is fine. i even tri with sudo-prompt and i continu to have the same issue.

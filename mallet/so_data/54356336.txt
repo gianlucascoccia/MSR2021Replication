@@ -1,1 +1,1 @@
-Electron: How to reference global BrowserWindow object in another file?
+i'm tri to refer the global is alreadi defin as a global variable, whi is it undefin in the other file? i'v tri do various thing like inject it and export it etc. but it alway undefined. i'm not sure what wrong here and would love some help.

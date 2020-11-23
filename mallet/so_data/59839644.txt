@@ -1,1 +1,1 @@
-Unable to send state data as props to another component
+i am new to react. and i am tri to build an electron app use react js.i want to send a parent compon thank you for your help

@@ -1,1 +1,1 @@
-Video not loading when using an iframe in Node-webkit
+i'm use node-webkit for a portfolio of a client. sinc the client want to add stuff later in decid to use an ifram so that anoth separ html could be load into the page. my problem is that one of the product contain a video. when i test the portfolio in chrome it work just fine. the video normali load in the ifram but when i test out the portfolio in node-webkit the video doesn't load. doe anyon know how to fix this?

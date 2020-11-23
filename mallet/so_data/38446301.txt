@@ -1,1 +1,1 @@
-Electron Windows Installer with wizard
+i have creat an app use electron and i want to creat a window instal with a wizard.i am current use the electron-installer-window modul to creat my installer. but this creat a singl .ex file with no wizard at all.i need the wizard to allow user to select destin folder and the possibl of creat a desktop iconso, there is a way to generat an instal with a wizard use this module? or i need to creat my own installer?also, will this instal manag depend issues? for exampl if the end user doe not have npm installed, or ani other depend

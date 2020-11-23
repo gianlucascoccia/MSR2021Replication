@@ -1,1 +1,1 @@
-node-webkit: calls to require() throw "AssertionError: missing path"
+i'm write a node-webkit applic (base on node-webkit-hipster-seed) and i'm tri to import addit node modules. i'v found that even if i attempt to import default node modul (such as not the commonj require?

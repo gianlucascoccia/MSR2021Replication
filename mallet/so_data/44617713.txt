@@ -1,1 +1,1 @@
-Use Electron with Database file
+i have to build an applic for a small company. i want to use a boilerpl which use electron, react redux... but there is no server in the company. they want me to save a file on their network drive which can be access through the electron app. in the past i use microsoft access to connect to an access file on the drive. so far i found no packag or someth like that to connect to a databas file.how to resolv this problem?

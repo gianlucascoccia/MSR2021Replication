@@ -1,1 +1,1 @@
-Allow node-webkit to be multi-window?
+as we know, if set a name in package.json, we alway open a uniqu node-webkit window. how to allow node-webkit to be multi-windows? mean that if i run nw once, i can get a new nw app.

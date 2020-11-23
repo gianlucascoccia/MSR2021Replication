@@ -1,1 +1,1 @@
-Atom Electron Close and Minimize window using the html button and javascript
+i state use electron and tri to make minim and close button.index.htm must be do some silli mistak or what but minim button work perfect while close button not working.i also tri eventlisten method as mention hereatom electron - close the window with javascriptand it work perfectly, but whi my function approach isn't working??

@@ -1,1 +1,1 @@
-Create arrow in :after with inset border radius
+i'm i'm tri to creat an arrow which point to the top. the arrow is current a basic css pseudo class. however, i the left and right side of the arrow need to have some kind of "inset" border radius. ani idea how to fix this?sinc this concern an electron menubar app, the outer part need to be transparent. this is what i current came up with:https://jsfiddle.net/xcpo1g2y/

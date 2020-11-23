@@ -1,1 +1,1 @@
-Popover window in Electron
+is there a way to have a popov window that goe beyond the boundari of the main window? doesn't have to be a child window. but would be great if it attach to the main window. i know there modal window option, but that not exact the look i'm aim for. exampl of popov window:ani trick to achiev someth like this in electron? thanks!(i'm build this in react, if that good to note)

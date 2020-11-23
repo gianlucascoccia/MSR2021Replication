@@ -1,1 +1,1 @@
-Multipart/form-data request by nw.js
+i need to send post data to server from nw.js. data conent simpl name-valu pair and one file, ie, request type will be file section is empty.i also have tri to pass buffer direct to formdata. in this case file send but server doesn't recogn file as a file - it put file in a string instead (common php server).thank

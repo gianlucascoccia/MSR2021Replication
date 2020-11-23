@@ -1,1 +1,1 @@
-how to test an angularjs app on node webkit
+what are my option for test if i want to run an angularj app in node-webkit?i had a look at the nw doc for test and they did not realli make sens to me https://github.com/rogerwang/node-webkit/wiki/how-to-run-node-webkit%27s-test-cas

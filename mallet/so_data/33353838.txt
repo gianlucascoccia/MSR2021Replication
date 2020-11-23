@@ -1,1 +1,1 @@
-How to do oauth 2.0 in electron shell
+i am tri to build an applic which will consum an api. it has a oauth 2.0 authentication. my gui framework is electron shell (https://github.com/atom/electron) is there ani framework or node packag to do this easili ? my doubt is the callback url is nat behind some router. how do i do this ?

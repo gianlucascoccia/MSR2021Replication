@@ -1,1 +1,1 @@
-EmberJs error for excel parser
+i am tri to integr ember with electron and use xlsx parser insid servic to read my local excel file, but when i am inject it to my route, i am get this error. pleas help.mi servic file:

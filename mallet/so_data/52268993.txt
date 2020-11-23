@@ -1,1 +1,1 @@
-Get the filepath which open with electron app
+i am build a text editor with electron, and i want to open file with my text editor, lik some file open with my editor or doubl click to open file, i fix it for window use process.argv becaus when some file open with electron it save thr path of file in command line argument process.argv,but the same thing is not work for linux or mac, so could some one help me to get this work for linux or mac.

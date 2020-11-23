@@ -1,1 +1,1 @@
-Electron: Drag and Drop a file on the icon
+with an electron app, is it possibl to open a file by drag it on the applic icon, as with a normal desktop application?us code from elsewhere, i can open a file which has been drag onto the document window:i would like to be abl to open the file by drag it on the applic icon itself.in some cases, that would also mean start the applic if it isn't alreadi running.

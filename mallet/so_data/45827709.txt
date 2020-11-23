@@ -1,1 +1,1 @@
-Confirm beforeunload in Electron
+i know that there are hundr of question like: "how can i prevent close event in electron" or someth like that.aft implement a confirm box (electron messag box) in the ) will behav exact like with the dev tools.ha anyon an idea how i can resolv this problem?mani thank in advanc

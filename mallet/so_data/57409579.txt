@@ -1,1 +1,1 @@
-Debugging electron application
+come from web develop background, i am learn applic develop with electron.with the basic code i made a honest mistak of use from github repo.

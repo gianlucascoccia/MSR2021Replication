@@ -1,1 +1,1 @@
-node-webkit native module with dll
+i'm use node webkit with the node webkit hipster seedi have build a nativ c++ module, use the leap motion sdk, which compil and work fine with node-gyp.now i'm tri to implement it on node webkit, but i alway get "error: no error" when i requir my module. (yes, it recompil with nw-gyp)i was get the same error when i was tri my modul with node-gyp without leap sdk dlls, so i tri to move my dlls in the modul build directory, and in the applic build directory, but no effect.i'm use window 8, but i will also build on osx

@@ -1,1 +1,1 @@
-publish to github with electron-builder
+when i test to publish on thank for your help

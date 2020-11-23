@@ -1,1 +1,1 @@
-Moving files with fs in electron.js
+i am use electron and fs', and current tri to move a file to anoth directory. i have no problem do it so when i provid the file name (use fs.rename()) but i'm wonder if it can be done by not provid the destin filenam and default to the same filenam as the destination.th reason i want to do this, is becaus i want to move all the *.txt file in one directori to another. is this possible??thanks!

@@ -1,1 +1,1 @@
-Module compiled against a different Node.js version - SQLite3 error
+im tri to use sqlite3 in my electron app but i keep get the error - i'v tri numer solut on stackoverflow and youtub but none seem to be working. ani input/help on this matter would be appreciated.

@@ -1,1 +1,1 @@
-Update.exe doesn't create start menu shortcuts when passing in process-start-args
+i'm use electron-squirrel-startup to creat start menu shortcut but i need to pass in argument to the shortcut, right now i'm edit the although it doesn't creat the shortcut anymore.how can i creat the start menu shortcut with arguments?

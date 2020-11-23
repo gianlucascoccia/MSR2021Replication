@@ -1,1 +1,1 @@
-ElectronJS React custom menu Event is not defined
+hi i'm use electronj with react tri to fire off an event whenev i click the save button on the menu in electorn js. i'm tri to listen to the event within a component, howev on click of the menu item i get this error; ani idea as to whi this is happening? ani help would be appreciated!

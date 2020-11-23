@@ -1,1 +1,1 @@
-What is the most efficient way to display images from a ZIP archive on an offline desktop app?
+i have an offlin but i'm afraid that i don't know the file system api enough to do what i want.i'm out of idea so ani suggest are welcome. mayb i didn't see the most obvious way to do... or mayb that what i'm current do is not that bad and i am overthink the problem.

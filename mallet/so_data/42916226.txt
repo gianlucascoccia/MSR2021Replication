@@ -1,1 +1,1 @@
-Electron: Share Files Between Different O.S Packages
+i'v creat an electron app and build packag for window and maco use electron-packager. the app data is store in a json file insid the resourc folder and i'm use fs to perform file i/o task in the app.what i would like to do is store the json file in a folder that could be access by both packag (win and mac). this way my client could use both version of the app and the data sourc will be the same, thus, the data alway updated.sinc i'm a electron newbie, is there a way to "merge" both packag and share the same data file?

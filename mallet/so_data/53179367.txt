@@ -1,1 +1,1 @@
-How do you print messages to openDevTools's console in Electron js?
+i just complet a hello world applic for electron js. i can print to my termin via console.log and i can open the opendevtool in the window of my applic but i'd like for my console.log statement to print to the opendevtool in the window if possible. doe anyon know how to do this?

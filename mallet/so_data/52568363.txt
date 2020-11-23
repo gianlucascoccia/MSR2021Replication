@@ -1,1 +1,1 @@
-Electron: Why occurs 'Uncaught ReferenceError: require is no defined.'?
+i have a problem problem in my program use electron.first, i was type , but i do not know whi other file fail.

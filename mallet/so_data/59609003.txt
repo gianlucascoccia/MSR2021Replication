@@ -1,1 +1,1 @@
-Instagram upload video from pc
+i'm tri to autom the process of upload videos/imag on instagram (without use a privat api). for now i autom the imag upload and i'm tri to do the same thing for the videos. i'm do this with button.(th video is 6mb (&lt; 15mb that is the maximum) and 40second (&lt;60s that is the maximum)

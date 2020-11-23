@@ -1,1 +1,1 @@
-Trying to create my first node.js application: /bin/sh: 1: fpm: not found
+i have follow this step to creae my first node.j application: https://www.codementor.io/javascript/tutorial/how-to-create-cross-platform-desktop-apps-with-nwj the problem: i can not find anyth at https://gist.github.com/ziiweb/65104ee6f7f109f3a41

@@ -1,1 +1,1 @@
-require() not defined in Electron HTML page
+i'm current unabl to load electron modul in javascript file outsid of the main.j file.i'm tri to use: run out of idea here, but i wonder if it some kind of scope issue?mani thanks.

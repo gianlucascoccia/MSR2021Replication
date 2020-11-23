@@ -1,1 +1,1 @@
-Custom function inside onAdd:
+i have an issu with my code. i'm new to react and electron, so mayb is a easi question (i hope). basic i'm creat a sortabl list and i want to call a function i made insid the onend:even if i use .bind to bind the function to this, when onend git executed, i get that storemydata is not defined. what am i do wrong?thank everybodi

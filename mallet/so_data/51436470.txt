@@ -1,1 +1,1 @@
-Background-color in Bootstrap container not working in Electron
+here is my html code:thi is what look like open in googl chrome as an html filethi is what look like open in electron:a you can see the background-color for contain doe not show up in electron. anyon know why?

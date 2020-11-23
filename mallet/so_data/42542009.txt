@@ -1,1 +1,1 @@
-Can browser plugins be made to run in Electron as-is?
+for my electron app i would like to access wacom tablet with all the special data it can offer. without do anyth i can still use wacom tablet as a standard mouse-lik input, but i want devic specif data like tip pressure, etc.i notic that wacom provid browser plugin on window and osx which allow a web page to access wacom tablet function through javascript. chrome is on the support list of browsers. so i'm wonder if it possibl to get that plugin to work with electron. ani thoughts?

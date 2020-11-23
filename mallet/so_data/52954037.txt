@@ -1,1 +1,1 @@
-Electron can't find file when path is correct
+i am requir a javascript file which is locat within my extern resourc within built electron package.

@@ -1,1 +1,1 @@
-Very fast endless loop without blocking I/O
+is there a faster altern to .

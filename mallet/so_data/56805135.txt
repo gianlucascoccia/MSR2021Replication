@@ -1,1 +1,1 @@
-axios The "url" argument must be of type string. Received type undefined error
+im work on an electron app that is tri to download a photo from the unsplash api and set it as a wallpaper. when i call the api i get 200 ok status and get the download url, but when i tri to download the photo with the axio stream method i get the follow error: unhandledpromiserejectionwarning: typeerror [err_invalid_arg_type]: the "url" argument must be of type string. receiv type undefinedthi is the function code:and it print string.i hope you can help me, thank in advance.

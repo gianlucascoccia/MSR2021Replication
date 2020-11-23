@@ -1,1 +1,1 @@
-Axios not setup properly in Vuex Store - Vue.js & Electron
+i'm use electron-vu to build a simpl desktop app.i use all of the standard configur at the begin (includ ad axios), but i'm current have an issu get part of my file structur is this:mi main file look like this: (ani insight into what i could be do wrong?

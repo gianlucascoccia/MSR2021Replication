@@ -1,1 +1,1 @@
-Creating new windows with React + Electron
+i have an electron project set up with react. i am attempt to follow the exact same code here:https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202it work perfect fine in googl chrome. however, in electron, click in the new window button return an error: is an undefin property. this problem doesn't show up in chromeani help on what i could be missing?

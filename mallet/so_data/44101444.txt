@@ -1,1 +1,1 @@
-Capture Command line response in an Electron/NodeJS app
+i need to execut command line command from an electronj app which also has nodej avail and then captur the respons from those command ran.th xampp window wamp dev server app shown below has an exampl of captur the command respons and show it in an app.how can i do this in a nodejs/electronj app?

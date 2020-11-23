@@ -1,1 +1,1 @@
-How do I trust a self signed certificate from an electron app?
+i have an electron app that sync with a server i own at a https://xxx.xx.xx.xxx:port that has a self sign certificate. how can i trust that certif from my electron app? right now i get:

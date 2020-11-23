@@ -1,1 +1,1 @@
-electron : how make an auto-update with squirrel on Windows?
+with electron on widow i want to launch an auto-upd when needed.i want to use squirel and not electron-updat .do you know how to do that?

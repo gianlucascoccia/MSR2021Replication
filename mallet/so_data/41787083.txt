@@ -1,1 +1,1 @@
-Trying to use ffi in Electron is fatal erroring
+i instal but this doesn't fix it.

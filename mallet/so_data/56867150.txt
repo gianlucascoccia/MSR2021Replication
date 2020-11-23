@@ -1,1 +1,1 @@
-Process microsoft DOT/DOTX file and save as microsoft DOCX : Electron JS
+in electron application, i need to convert dot/dotx file to docx with fill databas data -1) on button, click select the dot/dotm file 2) after file select open the select dot/dotm file with replac of placeholder/vari from api json format data.3) on save, the open file execut the next code from where the file has been open in electron.mean code execut cursor should wait for file data replac and save in electron.ani solut for this!

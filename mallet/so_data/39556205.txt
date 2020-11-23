@@ -1,1 +1,1 @@
-Node.js effects in Thermite for Electron
+i am tri to expand https://github.com/kritzcreek/electron-apps-with-purescript to add an input for the directori whose filenam i would display.however, i cannot get the follow function to typecheck (the last two line are problematic, the last is line 53):

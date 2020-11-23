@@ -1,1 +1,1 @@
-Pass request result to view
+i'm new to electron and i stuck with how to pass request result to view.her is the js file:. so is there ani way to send the request result to the view ?

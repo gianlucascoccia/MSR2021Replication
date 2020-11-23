@@ -1,1 +1,1 @@
-electron-builder is not calling x64 installer [win10]
+electron-build is call 32bit instal caus path point to wow64 equival instead of the real x64 paths.process that call instal is 64bit, then 32bit instal is call and eventu applic that is "runafterfinish" is 64bit.how can i overcom this issu and forc instal to call x64 version?test on window 10, electron-build 19.16.3builder ran with --x64 option give output:cal instal with ... /d=path argument would also solv the problem, but it is not take this into account.

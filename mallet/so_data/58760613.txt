@@ -1,1 +1,1 @@
-How can I call an ipcMain command from another ipcMain command?
+unfortun i am brand new to electron, in effort to be dri i need to kick off

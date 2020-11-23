@@ -1,1 +1,1 @@
-How to prevent Leaflet.js from reloading Electron app?
+i have set up an app use electron. for the most part, all of my code is in the index.html file. the app take some data from the user, and use it to plot area on a leaflet map. the map is plot onto a there should be no need for the app to reload. everyth work fine, until i ad those last two functions. i have debugged, and the function run until the end. no error messag are ejected.i this just an issu with an electron app format? will it go away, after i build and packag the app?

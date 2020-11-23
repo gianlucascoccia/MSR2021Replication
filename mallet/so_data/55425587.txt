@@ -1,1 +1,1 @@
-Node module not working with Electron App
+i am tri to make an app that use the node-bluetooth modul found in npm. but i am get the follow error :

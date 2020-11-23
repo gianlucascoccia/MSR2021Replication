@@ -1,1 +1,1 @@
-How to use relative paths with node-loader and native addon
+i have a nativ addon i am use that work great on my dev machin but fail on ani other machin due to the webpack build use an absolut path to the nativ modul instead of a relat one. here is the error i get:how can i make sure that my main.nod file get packag for the build and import via relat path?

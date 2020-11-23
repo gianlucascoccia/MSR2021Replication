@@ -1,1 +1,1 @@
-Spectron async isExisting doesnt return false
+i am use spectron 3.8.0 and am tri to check if am element exist in the dom. i tri use the

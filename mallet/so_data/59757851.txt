@@ -1,1 +1,1 @@
-Node fires 'close' for spawned external application immediately (macOS only)
+my electron applic need to open an extern program and wait for it to be close befor react again. in window this work fine, but maco has some problems.so my code for appl is event immedi after the applic is launched. is there ani way to monitor if keynot is still open in macos, or is it just a bug?

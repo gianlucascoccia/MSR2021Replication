@@ -1,1 +1,1 @@
-How can I set webFrame in electron rendeerer process? - Electron
+this is my main.js, from this file i generat an exe file that i need for my purpose. here is the thing, i need to add a protect against pinch zooming, in document it say you can do this by ad webfram compon to reender but i cant seem to manag to find where is reenderer. my applic is basicali main.j and index.html that main reads, i tri to put it into script tag in index.html but no succes. pleas help

@@ -1,1 +1,1 @@
-Focus loss in elecron-based apps in Manjaro Xfce on Alt push
+while use electron base apps, like slack or gpmdp, when i type someth in input field and switch keyboard layout (i use caus focus to move onto menubar selection.so type anyth contain 2 languag is infuriating.how to disabl focus loss?

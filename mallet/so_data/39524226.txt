@@ -1,1 +1,1 @@
-How to include Phaserjs with NWjs
+i am tri to use phaserj insid nw.js, but it is show blank screen. while it is work ok in normal browser.can anyon help me with it.package.json

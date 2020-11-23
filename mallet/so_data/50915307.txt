@@ -1,1 +1,1 @@
-Typescript Class Singleton vs Module Singleton
+i was look at some code in the vscode repositori and notic they use a class singleton for one of the modul see here.would it not be much cleaner to write this just as a regular module? what are the benefit of wrap this up in a class, creat a singleton instance, and export the methods?

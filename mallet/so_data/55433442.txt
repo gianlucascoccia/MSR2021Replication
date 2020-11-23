@@ -1,1 +1,1 @@
-Problem: re-rendering vue instance when data is changed by a call-back inside a method
+i'm develop a app with electron use vue.j as a standalon libray (no cli envolved) and it get a pretti wird re-rend behavior when i chang data by a call-back of a electron method insid a vue method (render on a v-for). i show a simplifi code:... and now it work properly. why?

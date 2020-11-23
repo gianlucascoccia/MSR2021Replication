@@ -1,1 +1,1 @@
-Multiple window managing: removing windows from window list
+descriptionin my electron program i store all visibl render window in a singly-link list in the main process.when a new one is created, it is ad to the list but i am not sure how to remov them from the list again when they are close (figur out which list element to remov respectively).cod in main process. the log command befor that line produc an output but the one after it don't do anything. no element is remov from the list.what am i do wrong? and is there mayb a better way how to manag the windows?

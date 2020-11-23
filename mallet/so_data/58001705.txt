@@ -1,1 +1,1 @@
-trying to execute a selector with electron
+when execut this code, noth show

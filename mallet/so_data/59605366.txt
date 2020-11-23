@@ -1,1 +1,1 @@
-Electron app duplicating variables when importing from two different classes...?
+i have an electron app (run typescript compil to es6) and i'm tri to do some relat simpl window management. my onli problem is that it seem to be duplic the variabl that i am tri to store all the window in.a simplifi version of the class system look like this:

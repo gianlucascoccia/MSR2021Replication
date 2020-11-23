@@ -1,1 +1,1 @@
-How to navigate pages via electron menu - angularjs app
+i am new to electron, how to navig between local page use electron menuhow to navig to a page local on click about menu

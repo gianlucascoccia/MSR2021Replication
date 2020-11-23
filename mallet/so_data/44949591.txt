@@ -1,1 +1,1 @@
-Create NW.js with using webview but no shadowprotect
+hej sri when i ask but is there a way to use the webview tag in an nw.js applic without that everyth under the webview is cover in an shadow-root?shadow-root(open)

@@ -1,1 +1,1 @@
-Electron Intercept file:/// protocol to read inside zip files
+i would like to read insid zip archiv with electron as if they were folders, like so doe not seem to work.

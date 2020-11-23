@@ -1,1 +1,1 @@
-addEventListener not working when i import modules in the same javascript from electron
+i load it from tasks.html with

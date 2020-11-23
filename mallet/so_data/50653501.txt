@@ -1,1 +1,1 @@
-Electron not executing my JS
+i have my electron window, it load all right except that the js is not run. i can't find out why. here is my code:thi has been frustrat my for a while. i get no error in the console, and no log. i am new to electron.

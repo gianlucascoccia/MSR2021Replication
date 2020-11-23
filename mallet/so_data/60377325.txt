@@ -1,1 +1,1 @@
-electron-rebuild fails for sqlite3
+i want to use sqlite in my electron applic with reactj so i flow this guid https://www.aljaiban.com/post/setting-up-electron-with-sqlite-on-window "electron": "^7.1.2""electron-builder": "^21.2.0""electron-rebuild": "^1.10.0""sqlite": "^3.0.3"but when i want to rebuild the sqlite3 with electron-rebuild it show me this messag error : thanks.

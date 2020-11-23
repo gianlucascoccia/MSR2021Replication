@@ -1,1 +1,1 @@
-Why is the installation of Babel failing in Electron? And do I need Babel or not?
+i want to use the npm packag https://www.npmjs.com/package/swipe-detect and get the follow error messagei also tri sever other tutori and set the environ in .babelrc. the error messag still pop up. now i read that babel is alreadi includ in electron. whi is babel need in an electron project. i'v been search for two day now and can't find a solution. whi doe this error pop up?

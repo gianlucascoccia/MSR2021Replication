@@ -1,1 +1,1 @@
-How do you send self-signed certificates with the electron-fetch module in Node.js?
+i current have an electron applic that pull data from an api endpoint. initially, this primari url for this endpoint look someth like module? is it even possible? i would appreci ani help solv this problem!

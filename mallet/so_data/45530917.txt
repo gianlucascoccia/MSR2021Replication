@@ -1,1 +1,1 @@
-Need a solution for an Electron application that uses a shared database
+i understand that node-mysql can be use for a databas with electron. however, if i build my app, the user will still need mysql instal on their comput correct? i need a databas solut that multipl user of my app can use without have ani other depend installed. just my standalon app. are there ani solut for this?

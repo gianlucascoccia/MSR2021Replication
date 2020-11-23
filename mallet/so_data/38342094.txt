@@ -1,1 +1,1 @@
-SHA256 mismatch trying to brew wine
+i'm tri to , to no effect.what could be go wrong here? what is an sha256?

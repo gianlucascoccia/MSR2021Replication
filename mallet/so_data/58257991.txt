@@ -1,1 +1,1 @@
-Electron-rebuilt using vsbuild - license
+npm serialport packag has to be rebuilt use electron-rebuild tool if we are go to use this npm packag in an electronj project. in a window environment, electron-rebuild use visual studio compil to rebuild the packag to fit electron runtime. in this case, doe the packag rebuilt with visual studio compil have the visual studio licens terms? if the visual studio communiti compil is use for this rebuild process by the electron-rebuilt, how doe the licens term appli to the rebuilt package?

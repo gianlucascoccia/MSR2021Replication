@@ -1,1 +1,1 @@
-Can't close the window with Electron and Socket io
+i start a chat applic project with nodej and socket io, everyth was fine. later i decid to add my app to the electron framework, the chat start in a window, but i can't close this window, the exit button do nothing.aft some research on my code to understand where the problem came from, i delet the socket.io.j line in my main.html and then i could close my app, but for sure all my client websocket stop working.pleas help me !

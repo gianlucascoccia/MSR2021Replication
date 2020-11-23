@@ -1,1 +1,1 @@
-electron builder, mac dmg package including files for build stage
+i am use electron-build to packag my app for windows, mac, and linux.result packag are all the same size but for mac, the file is twice that size.ther a huge

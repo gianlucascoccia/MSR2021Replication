@@ -1,1 +1,1 @@
-Electron with firebase functions behind proxy
+i'm tri call firebas function in my electron app.i need to authent my app in a proxi server, and when i tri to load ani url with:i there ani way to call firebas function behind proxi in main process in electron?

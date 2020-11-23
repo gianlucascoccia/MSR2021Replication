@@ -1,1 +1,1 @@
-How to import tensorflow coco-ssd model in Nodejs electron application
+face problem while import tensorflow model and use alreadi train coco-ssd model. problem i face is on electron applic in nodej .success run coco-ssd mode exampl code provid on github: use yarn but my applic is electron based. i am get real time imag from camera and save them in my dataset.

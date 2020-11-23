@@ -1,1 +1,1 @@
-Mathjax in an electron application
+i want to load mathjax onc when the app is start and after that it should behav like the script-tag on a websit and "translate" ani mathml, tex or asciimath "text" into human-read content.i tri mathjax-electron and mathjax-nod but i couldn't get it work at all. can someon give an exampl on how to implement it?i use the readme.md exampl for mathjax-electron: error be thrown. i also tri to implement the exampl provid by mathjax-nod but i couldn't get it to work at all.

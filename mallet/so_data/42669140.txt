@@ -1,1 +1,1 @@
-Can't build Electron app for Windows
+i have problem with builind electron app for window on mac os. yesterday i could do that, today i can't. i have error:i'v instal wine and have also crossover. onli thing that are chang from yesterday is that i'v instal android studio, nativescript and new version of java se.

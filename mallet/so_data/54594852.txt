@@ -1,1 +1,1 @@
-Is possible to run application.bat from html button?
+i alreadi build a desktop applic in javascript and html and i need some kind of help to let the applic interact with anoth javascript program which i made. i need to make a html button which on click run a program.bat. is that possibl to do? i success made a button open my program.bat and it show what was written in the bat file instead of execut it.button:i accident delet my script which i first use to "run" but actual open the .bat file.

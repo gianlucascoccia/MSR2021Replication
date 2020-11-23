@@ -1,1 +1,1 @@
-Sqlite3, electron, webpack: cannot find module abi_crosswalk.json
+i'm tri to make sqlite3 work in electron in combin with webpack, babel and react.thes are the depend in package.json:

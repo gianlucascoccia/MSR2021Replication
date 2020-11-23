@@ -1,1 +1,1 @@
-ElectronJS with Sparkle: Can we integrate SPARKLE in electron application? How?
+what is sparkle?it is an applic updat use by almost all applic on mac e.g vlc. it is open sourc and made by an appl insider. it is easi to use and easier to integr with apps.know more:https://sparkle-project.org/what is electronjs?electroj provid chromium platform to build the cross-platform desktop application. know more: http://electron.atom.io/questioni want to confirm, is it possibl to integr it in electron js app made for osx?

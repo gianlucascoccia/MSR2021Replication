@@ -1,1 +1,1 @@
-How to mock require in electronJS
+i'm tri to write unit test for my electron js applic and i'm stuck at one place.for examplelet say my app code is like belowquestionhow to mock requir for ani modul which is not instal on dev pcbut requir for actual execution(instal on client pc).

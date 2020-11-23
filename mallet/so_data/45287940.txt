@@ -1,1 +1,1 @@
-How to specify for files with double extensions in file explorer such as vcf.gz in electron?
+i'm play with the file filter object from electron api. you creat a file filter object like this. filters: has anyon has success in achiev this?

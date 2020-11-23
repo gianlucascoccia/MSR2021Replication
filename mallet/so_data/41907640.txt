@@ -1,1 +1,1 @@
-how to create electron desktop app with existing angular2 project
+i have an angular2 project which use mysql, php, jspdf and firebase.i tri to find it with lot of github sourc but it doe not work!th problem is, i have to run it on desktop without internet. so how can i convert an exist angular2 project to electron desktop app and packag it?

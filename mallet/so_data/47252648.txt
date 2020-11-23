@@ -1,1 +1,1 @@
-How to deploy/distribute vue project as desktop app
+i have a project made in vuejs. i'v start from folder with static folder and index.html. now what i want is to convert web app into desktop app. it seem electron is what i need. however, after search for instruct here and there, i'm not abl to figur out where to start.

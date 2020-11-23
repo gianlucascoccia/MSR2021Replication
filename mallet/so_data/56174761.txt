@@ -1,1 +1,1 @@
-What is the best way to configure the pkg option scripts in electron-builder?
+i am use the pkg option in my package.json configur for electron-builder. i have some preinstal script that i want to run upon installation. i have follow the electron-build instruct in order to set where the script are, but npm can't seem to find the file correctly.i have tri chang ownership of file and folder with chmod +x file command, but the error persits. this is the bit of code about pkg script configuration:

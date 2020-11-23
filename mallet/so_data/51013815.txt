@@ -1,1 +1,1 @@
-Electron WebAssembly: TypeError: Incorrect response MIME type. Expected 'application/wasm'
+webassembly.instantiatestream fail when use a local relat path. is there ani way to disabl this check or doe anyon have ani advic on anoth approach of get around the problem? i'm tri to remov have the depend of a web backend of my electron project.&#xd;&#xd;&#xd;&#xd;&#xd;

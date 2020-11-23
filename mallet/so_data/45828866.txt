@@ -1,1 +1,1 @@
-How to make a semi-transparent app background with electron?
+i'm quit new to electron and am wonder how i can creat the effect where part of an applic are partial transparent, and show a blur imag of the applic below them.thi screenshot of canary, an email app is a good exampl of what i mean. (i edit out my email in preview)how would i go about creat an effect similar to this in electron? specifically, how would i make a element show a blur version of the applic below it? is this even possibl with electron?thank you for your help in advance.

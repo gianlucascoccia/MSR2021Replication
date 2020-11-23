@@ -1,1 +1,1 @@
-How to set the app icon using electron-forge package on Mac?
+can somebodi pleas tell me the instruct for use a custom icon, when compil an electron app (on mac) when use what am i missing?

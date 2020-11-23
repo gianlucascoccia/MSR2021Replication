@@ -1,1 +1,1 @@
-I want the website inside the loadURL to go back when I press the backspace key
+i'm write an electron app. i use loadurl to show a websit insid my app. i want the websit insid the loadurl to go back when i press the backspac key. the offici documentari on loadurl was not help for me. how do i make the loadurl content go back when the backspac is pressed,please?

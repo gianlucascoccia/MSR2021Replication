@@ -1,1 +1,1 @@
-How to start electron application programically via child_process?
+i need to start the electron.j applic programically. below solut with execa librari works, howev i did not find the answer, how to make consol to display caus the error with broken encoding:

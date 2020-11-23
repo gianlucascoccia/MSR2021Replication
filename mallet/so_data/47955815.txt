@@ -1,1 +1,1 @@
-How to getCurrentPosition via navigator.geolocation in Electron app?
+when i tri to get the current positionit return "network locat provid at https://www.googleapis.com/ : return error code 400."can somebodi suggest ani possibl ways?

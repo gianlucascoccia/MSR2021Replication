@@ -1,1 +1,1 @@
-On Screen Keyboard Pop Up Automatically
+i'm build an applic with electron run on a raspberri pi. i want an on screen keyboard to pop up automat whenev a textbox is selected. how can i accomplish this? either a linux or a javascript solut would work.

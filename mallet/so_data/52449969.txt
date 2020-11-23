@@ -1,1 +1,1 @@
-Electron - mainWindow.webContents.executeJavaScript() with a file instead of text
+i'm build an applic where i can't use a

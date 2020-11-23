@@ -1,1 +1,1 @@
-changing the language when building an executable with electron-builder
+i am tri to build an execut file of an applic made by electron, by use electron-builder. (not an installer)i haven't quit grasp the correct way of do this(for exampl the exe has an incorrect icon, etc) , but somehow i have manag to generat one exe file that run the application. now, when i check the properti of this exe file, i can see that in "language" it is specifi "english-america" my question is: how can i generat an exe of this applic specifiy anoth language? (chinese, french, or ani other)

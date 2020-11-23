@@ -1,1 +1,1 @@
-electron load website external website as content
+good morning,i it possibl to load onli a websit as content in electron and run it in electron? or do i have to redesign my bundler für my react js app?thanks.

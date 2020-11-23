@@ -1,1 +1,1 @@
-how can I loop through files in a folder and subfolders using electron?
+i have a desktop app that i am make that requir me to loop through a folder and all of it subfold to find file with a certain charact in their name. is this possibl use electron? i can't figur out how to do it

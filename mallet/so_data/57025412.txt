@@ -1,1 +1,1 @@
-What is causing MySQL Database to refuse connection?
+i am tri to use mysql for a local databas in my electron app to store set and user data but am get the follow error: error: connect econnrefus 127.0.0.1:3306i can't seem to figur out what is caus this and think i have it proper set up. here is the code for my setup:

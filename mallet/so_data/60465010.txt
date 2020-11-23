@@ -1,1 +1,1 @@
-electron: drag range control while holding meta key
+with electron, i'm wonder how to captur meta-key event when drag the thumb of a rang control, or increment/decr the number control, a shift-drag or option-drag on the slider, shift-click or option-click on number spins.ther is the . i need to detect event on a singl meta-key.mor importantly, use the api, it basic requir global variabl as state to be share with whatev part of the code that requir those states, which is ugly.i there a way such as with other widget librari where meta-key are part of the api signature?

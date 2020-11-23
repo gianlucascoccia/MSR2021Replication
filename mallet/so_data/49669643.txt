@@ -1,1 +1,1 @@
-Dynamically created list throws out jQuery scripts for selecting multiple check-boxes
+hi so i'm dynam creat a checkbox list with children use javascript in the bodi of the html page, that run in electron. but my jqueri code that check the parent tree item that i got from here work fine onli when i add the debugger; after the as state the code work fine but onli when i have the debugger; line in after window.on load this is obvious a time issu how would i resolv this?

@@ -1,1 +1,1 @@
-npm sinopia installation faled
+i am tri to instal sinopia for electron updat global but am get the follow error:a suggest in the debug log, i have alreadi check the permiss to the directory. but the instal delet and re-creat the directori on installation.ani suggestion?

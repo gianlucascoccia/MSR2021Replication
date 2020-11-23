@@ -1,1 +1,1 @@
-Electron video playback breaks when app is packaged
+i have creat an app use haxe, createjs, electron. it all work veri nice prior to electron packaging. i.e. npm start = applic work fine.onc i packag the application, the app crash when it is play video...i.e. run the exe, navig to a section that play video, applic crashes. (window goe blank white, and is unresponsive. devtool disconnects)ani idea on what could be the issue?

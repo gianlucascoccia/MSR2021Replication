@@ -1,1 +1,1 @@
-Select and display an image from the filesystem with electron
+i'm develop a littl app in electron from which i can upload an imag to instagram and i'm stuck at one of the first step :/i want to select an imag from the filesystem and display it in my app.thi is the code i'v got so far:code:

@@ -1,1 +1,1 @@
-NW.js + Babel: ES6 import working but not export?
+i'm build a nw.js app, current with babel-standalon and react. i can use es6 import, but es6 export on the other hand doe not work, consol spit out work fine.

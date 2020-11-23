@@ -1,1 +1,1 @@
-How to package node webkit app
+i'm develop my first node webkit app. i'm confus about pack the files. is the end product a singl file that can be execut ? these line in github made me more confused. how is the packag done ? do i need to includ the webkit file also in the packag or just the file i have creat ?

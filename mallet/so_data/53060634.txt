@@ -1,1 +1,1 @@
-Electron Browser Window won't open
+when i am execut npm command npm start it show onli this not open an electron browser window. firstdesktopapp@1.0.0 start e:\nodej projects\electronjs\firstdesktopapp electron .here is my package.json code22 error exit status 123 error fail at the firstdesktopapp@1.0.0 start script.23 error this is probabl not a problem with npm. there is like addit log output above.24 verbos exit [ 1, true ]"

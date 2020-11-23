@@ -1,1 +1,1 @@
-Trigger $digest when variable changed by node.js function
+i want to make an applic with node-webkit use angularjs.no problem so far but when i want angular to watch over a "legaci variable" by use the method describ in this answer i just get an all of the code resid within my angular control function.th function is async, so i guess it could have to do with that?or is this function incept i have go on in $appli mayb caus my error?i'm just clueless right now, i have just recent start use angularjs, hour of googl haven't gotten my veri far.

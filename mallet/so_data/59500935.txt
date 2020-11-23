@@ -1,1 +1,1 @@
-Check microphone permission status for windows platform in electron
+in electron, there is api for check microphon permiss status use getmediaaccessstatus but in window platform, how can we check is microphon is enabl or not ?

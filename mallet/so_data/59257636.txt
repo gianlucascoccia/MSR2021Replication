@@ -1,1 +1,1 @@
-Eleсtron's devDependency can't find module 'child_process'
+i have project s1 that has child_process. s1 is electron app.how can i add child_process to build?upd:ok, got that child_process is intern thing. then how to call it from my electron dependency?

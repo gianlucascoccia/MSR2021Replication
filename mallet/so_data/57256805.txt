@@ -1,1 +1,1 @@
-redux-persist not working in electron app
+i am tri to use github issu here. there were a coupl thread from a few year ago for this particular issue, but those solut did not work for me. thank you for ani and all help!update:i implement the suggest here in the first answer but i am still see the same behavior

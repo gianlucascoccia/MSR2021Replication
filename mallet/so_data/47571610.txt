@@ -1,1 +1,1 @@
-Jest testing React component using Electron-Remote in ElectronJS
+i'm current develop an electronj applic use react for the ui. in some react compon i'm use nodej packag via electron remote, so i import packag from the main process into the render process. look like this:main.jsi have no idea how to solv this problem, mayb someon has an idea how to fix this. mayb somebodi have an idea how to setup unit test for react in electron which allow to use nodej packag in the react component.i'm thank for ani help.

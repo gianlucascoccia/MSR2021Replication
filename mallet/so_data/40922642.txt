@@ -1,1 +1,1 @@
-NW.js - "Module did not self-register" when page is reloaded
+the first time i run my nw.js applic the modul are load without error (and works). if i refresh the page (ctrl+r, f5 or shift+f5) i get the error:

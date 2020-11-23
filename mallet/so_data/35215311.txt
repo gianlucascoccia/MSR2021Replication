@@ -1,1 +1,1 @@
-Nodejs electron: focusOut event?
+i'm toy around with electron, the framework use for the atom text editor, but i'm have a littl troubl find a basic feature. i'm work on a littl system tray gui that i want to pop up in that respect corner of the screen. when you click elsewher on the screen, not on my window, i would like for the window to hide itself. for that, i would normal use a focusout event callback or someth similar. doe that event exist in electron, becaus all i'v found is the focus event.

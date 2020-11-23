@@ -1,1 +1,1 @@
-How does electron handle global dependencies
+i'm new to electron. i'm build an app that use ffmpeg and sox, which are instal globally. how do i guarante that these depend will be instal on the user computer?

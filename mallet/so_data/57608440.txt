@@ -1,1 +1,1 @@
-How can I display a spawned child process output as colorised html?
+i am develop an electron node js app. (i'm a newbie)and i have code that start a process and then display the output in the html window.but i want to take it a step further, if possible, and also show the output in color. (in my current html custom web component)how can i do this? or more specif how can i get hold of the color information, so that i can translat it into html?here is part of the code that run the process:and this it the output i see (html):how can i get closer to the origin consol output:

@@ -1,1 +1,1 @@
-clearInterval not working electron on ARM
+in the follow code snippet the clearinterv command is not working. the setinterv integ report to be 14. i am run this on an orang pi one (arm) board run electron.js&#xd;&#xd;&#xd;&#xd;&#xd;

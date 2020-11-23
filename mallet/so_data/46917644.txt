@@ -1,1 +1,1 @@
-Electron together with live mode in Angular isn't loading node_module resources
+contexti'm write an applic with electron and angular 2+ use angular cli. i'v set up my electron .js file to point to the url provid by the , the node_modul resourc insid the .html file are not be load and the chrome consol output the follow messagesi know that the path to the resourc are correct becaus i'm use webstorm ide and i can go to the referenc element through a link like this imag below.whi my resourc are not be load when i'm run in angular live mode?

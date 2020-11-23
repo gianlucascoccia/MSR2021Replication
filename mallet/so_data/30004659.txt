@@ -1,1 +1,1 @@
-Trying to use mongoose with node-webkit target on Webpack
+i use webpack and target it build output for but it still throw that error and warnings. am i miss something?

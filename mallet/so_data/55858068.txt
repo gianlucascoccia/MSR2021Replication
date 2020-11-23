@@ -1,1 +1,1 @@
-How can I rebuild zeromq.js bindings for electron version 4.1.4?
+in attempt to use zeromq.j in an electron app, i found that the node_module_vers did not appear to match:which match what i'm see in node-abi index.j (there noth in there that tell it what to do for node version 10.11.0).is this a bug of some kind, and if so, is there a recommend workaround? version of softwar used:electron: 4.1.4zeromq: 5.1.0node: 10.11.0node-abi: 2.8.0 (releas today, yay...?)

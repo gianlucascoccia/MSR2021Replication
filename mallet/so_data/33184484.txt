@@ -1,1 +1,1 @@
-How to run my nw-js app in the browser?
+is there ani way to use the browser for develop preview?th reason is becaus in the browser the develop tool are attach to the window.but in the nw.ex it a separ window and it get veri annoy to switch between them

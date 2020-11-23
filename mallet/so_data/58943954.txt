@@ -1,1 +1,1 @@
-Stream to RTMP with Electron?
+i have an rtmp server up and run and now i'd like to stream to it with an electron app.i could not find much info onlin regard how to do this.ani pointers?

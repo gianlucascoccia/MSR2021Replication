@@ -1,1 +1,1 @@
-Spawn command not working in electron app
+i am tri to run a command use spawn use angularj in electron , i am get an error. when i am run the same batch code manual it work fine. what is this error? i am not abl to get this.

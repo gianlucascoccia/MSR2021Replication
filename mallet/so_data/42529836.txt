@@ -1,1 +1,1 @@
-App built using Nw.js freezes on using window.print( ) on Mac OS X
+os : mac os xnw.js version (latest 0.20, tri from 0.14 to latest)rais issu on nw.js forum as well:https://github.com/nwjs/nw.js/issues/5020anyon has face such issue? ani hint on troubleshoot such problems?

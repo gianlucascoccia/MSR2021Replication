@@ -1,1 +1,1 @@
-how to start an electron-application in a browser
+i download an electron-angular4 project from "https://github.com/maximegris/angular-electron". it work perfect!mi question is: is there ani simpl way, to start it in a browser as angular does.mi object is to develop a hybrid-project, which can be run as a desktop and as a web application.thank you!xinyu

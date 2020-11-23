@@ -1,1 +1,1 @@
-Rendering rails app with electron, but JQuery isn't working
+im render my rail app in electron, and the html and css works, butt the anim with jqueri don't. i'm new in electron, so ani idea on how to add jqueri on the electron app or how to fix it in anoth way, doe my rail app has to do with someth with the electron side?thi is my code in the

@@ -1,1 +1,1 @@
-How i get the window object in node webkit after startup
+i want to regist event on the window object just after startup in node-webkit node-main file. if do is there anoth event (mayb member of process) i can listen to, to get notifi that the window object is avail ?

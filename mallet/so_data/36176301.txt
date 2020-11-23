@@ -1,1 +1,1 @@
-electron sqlite3 Uncaught Error: Cannot find module
+i have built an electron app in mac os, when i tri to export the packag for window and tri to run it throw me follow error:error screenshotmi app use sqlite3, i instal sqlite use follow command:but still i am not abl to run sqlite3 on window with electron

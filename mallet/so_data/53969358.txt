@@ -1,1 +1,1 @@
-Setting up Electron with React Typescript CRA
+_____ project descript _____ i start my typescript &amp; react project as a web app and i am current in the process of convert that fulli to an electron app. i am have some troubl with this though. _____ where i am current at _____ i follow this tutori to get electron to work. it work fine, other than that the

@@ -1,1 +1,1 @@
-Automatically Refresh iFrame When Change is Detected
+i am make a simpl electron app which allow user to preview their index.html through an ifram which they can adjust to fit differ screen sizes. i was wonder if there is a way to make the ifram automat refresh whenev the user make a chang to the document they are editing?

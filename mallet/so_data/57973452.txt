@@ -1,1 +1,1 @@
-Electron - JSON.parse() bad perfermance only on windows
+i am tri to pars 20 json string in a loop( 3kb each) , but when i do so , the app becom realli laggi and sluggish .backgroundi am save raw json string into my sql databas .i tri updat to the latest electron version , but that had no effect .i also have to mention that the perform is accept on mac , but on window that is not the case

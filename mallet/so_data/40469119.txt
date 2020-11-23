@@ -1,1 +1,1 @@
-Step over EventEmitter to the listeners in debugger
+node has a class, are there ani other more generic solutions? like mayb a debugg featur where i can pick code to never step into direct but pick step into in the debugg come out of it exit points?

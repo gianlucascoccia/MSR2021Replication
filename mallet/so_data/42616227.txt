@@ -1,1 +1,1 @@
-Close event not triggered in renderer process, but other events are fine
+this question is about electron.in my render process, i have), the callback function will be call (when i resiz the window, or click on the minim button). what could be the caus for this strang behavior?i am use electron 1.4.0 on mac os x 10.12.

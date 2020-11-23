@@ -1,1 +1,1 @@
-Electron and Vue for ARM arch
+i would like to use a kiok app made of electron and vue js on a raspberri pi 4but for the moment i don't succ at compil my app for arm arch use this command in my package.json : in the folder, same with a chmod later )( in the same idea, i'm not abbl to run of build a nativefi app on my raspberri )don't know if anon can help me on this, it a veri import work

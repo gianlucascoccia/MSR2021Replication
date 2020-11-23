@@ -1,1 +1,1 @@
-Enabling "maximize" button using NWJS
+i'm develop a desktop app use nwjs. i have a problem when i tri to maxim the window. the button appear disabled, so i can`t maxim the window, onli let me close and minim the window.that my package.json:anyon could help me? it was grateful. thanks!

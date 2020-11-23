@@ -1,1 +1,1 @@
-How to disable http cache for electron app after packaging to .exe using electron-packager
+i have an electron app, that load some css from spring boot server.when i run app from npm from sources, i can run asand it work without the cache.if i build my app with electron-packag to app.exe, how can i disabl cache.start .exe-fil with --disable-http-cach doesn't workupdateth onli approach that work is to clear cach from main process befor app load the page. but is there ani anoth way to disabl cache?

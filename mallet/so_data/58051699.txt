@@ -1,1 +1,1 @@
-How to install react-table into Electron (with React) project?
+i creat electron simpl project use work good alone. am i miss something? this is the way i usual instal npm libraries.

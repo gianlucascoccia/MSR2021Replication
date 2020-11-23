@@ -1,1 +1,1 @@
-create menu item with special characters in nwjs / node-webkit
+is it possibl in node-webkit to creat menu item that contain special charact like "ü", "ä", "ö"?when you creat a new menu item with a special charact in the label, it will display it like this (same goe for tooltips):&#xd;&#xd;&#xd;&#xd;&#xd;screenshot

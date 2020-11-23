@@ -1,1 +1,1 @@
-MacOS app valid on disk but REJECTED with Unnotarize Developper ID
+i'm current build a maco applic with nwjs. everyth 's fine, the app run fine. but i'm tri to codesign it. and i have troubl go through it. for the moment, i codesign each => i'm go crazi and i don't know what els to do.did someon have this issu ?do you know a way to get ride of it ?thank

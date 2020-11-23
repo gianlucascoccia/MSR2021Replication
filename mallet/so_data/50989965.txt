@@ -1,1 +1,1 @@
-Electron Code Signing on mac
+we are build an electron app on mac and have enabl code sign with electron-build like this:

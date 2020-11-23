@@ -1,1 +1,1 @@
-In Electron , what is the best way to make ajax requests?
+im use electron to creat a desktop app, now i need to get data from some remot apis.could i use someth like fetch or reqwest on the render process,or use ani of the http npm packag on the main process such as request and use electron ipc to shuffl the data back and forth.so what is the best way to do that.

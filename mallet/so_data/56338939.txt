@@ -1,1 +1,1 @@
-Hover in CSS is not working with Electron
+i'm start to make my simpl code editor. the window that i creat with electron is without frame (it work perfect in the browser, but if i use it in electron, noth chang when i hover my mous over element.

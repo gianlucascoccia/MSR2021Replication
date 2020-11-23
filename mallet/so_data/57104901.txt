@@ -1,1 +1,1 @@
-How to Get JSON Values and save them in another file in js
+i am tri to make an electron app.i want to read json file (

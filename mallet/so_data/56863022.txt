@@ -1,1 +1,1 @@
-Error on adding winston log to electron angular application
+i am work on angular electron applciation. i am tri to add winston logger to my application. after configur winston-logger.t file when i run applic use npm run electron, i am get follow errorshow to resolv it

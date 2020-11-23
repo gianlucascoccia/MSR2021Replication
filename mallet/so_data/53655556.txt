@@ -1,1 +1,1 @@
-React devtools does not have a profiler tab in electron
+when i open react devtool in electron, it works, but it has no

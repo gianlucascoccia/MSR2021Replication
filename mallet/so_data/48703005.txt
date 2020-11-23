@@ -1,1 +1,1 @@
-electron-builder - only build for mac but set to build mac and win
+this is the first time i am build script is locat somewher maybe?

@@ -1,1 +1,1 @@
-How to add static files to an Electron app
+how can i add json or toml file in an electron app for deployment? the follow code work in develop environment, but doe not after packag by

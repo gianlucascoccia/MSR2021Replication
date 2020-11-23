@@ -1,1 +1,1 @@
-Node-Webkit do not load net image
+i am use node-webkit develop an app,th page imag url was generate from javascript and the javascript download from internet.thi is my javascript code:

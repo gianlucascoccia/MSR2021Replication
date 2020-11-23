@@ -1,1 +1,1 @@
-How to write .wav file from blob in Javascript/Node
+i'm tri to write a .wav file with fs.writefile. the file is creat successfully, howev it onli 8-13byte long, so obvious i'm not do someth right.if the blob is alreadi audio/wav can i write to disk or do i need to convert it to base 64?i'm pretti much at a loss here, i found anoth similar thread with no answer - hereani input would be appreciated.

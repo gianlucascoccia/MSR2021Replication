@@ -1,1 +1,1 @@
-Electron desktop app file structure
+can anyon suggest me how file structur work in electron app. the app i have made is work fine if it is not packaged. onc packag there come issu with file structure. can anyon suggest me what to do.

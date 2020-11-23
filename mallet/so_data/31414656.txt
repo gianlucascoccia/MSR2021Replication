@@ -1,1 +1,1 @@
-Context menu off center when zoomed
+i'v built a right click context menu use node webkit menu api. the problem i'm have with it is when i increas the zoom of the page, say from 1 to 1.4, the context menu goe off center from my mous cursor. has anyon els run into this or have a fix for it?her how i'm generat my menu:her a link to the api reference: https://github.com/nwjs/nw.js/wiki/menu

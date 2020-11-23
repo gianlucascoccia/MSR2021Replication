@@ -1,1 +1,1 @@
-How should I handle user-facing plugins in Electron?
+i would like to add a plugin system to my electron applic so that my user can add new featur to my application. i was origin think that i would let my user upload a )?how can i give the plugin an api to use (e.g get applic theme or resourc name)i am not sure how this could be handled, i'v look around for similar case but haven't found them. my ultim goal is to have a system that work in electron similar to how wordpress plugin work.

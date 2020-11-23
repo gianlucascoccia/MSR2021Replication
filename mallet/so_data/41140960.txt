@@ -1,1 +1,1 @@
-Where can I find the logs for my Electron app in production?
+i'v built an app with electron and use electron-build to creat a squirrel window instal and updater. it all work great but i'm have troubl debug the product version of my app. are the log creat by a but that not enough for debug my production-on problem. just came across electron-log. that could work if regular consol log are inde not written to disk somewhere..

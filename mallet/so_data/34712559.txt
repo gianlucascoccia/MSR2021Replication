@@ -1,1 +1,1 @@
-Nodegit and Electron not working together
+i am get this error with nodegit, and i am not sure if it is my fault for not know how to work with electron remot or it is a problem with nodegit. i did file an issu just in case.in my not a function?

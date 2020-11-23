@@ -1,1 +1,1 @@
-node.js require returns a string instead of module object
+i'm tri to make an electron app. however, my work stuck on veri beginning: the

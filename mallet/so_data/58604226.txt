@@ -1,1 +1,1 @@
-How can i add electron install location to PATH variable after install
+i am use electron-build to packag my electron app. my app has a cli module, so what i need is: - after i finish instal the applic (use ), i need to add the instal locat to the path variable. i can't find anyth on this but this question ad electron applic path to user environ variabl after install, which doesn't have a viabl answer

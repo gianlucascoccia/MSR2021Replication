@@ -1,1 +1,1 @@
-How to get machine date using electron framework
+is this possibl to get system date in electron?i get 12hrs format date time when system contain 12hrs format.i get 24hrs format date time when system contain 24hrs format.ne api for this.pleas suggest your answer!

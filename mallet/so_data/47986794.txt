@@ -1,1 +1,1 @@
-Get particular Button click event using IPC
+i am use electron ipc to communic and captur event from the guest content of webview.(pleas refer this link for more detail about code)ani help would be appreciated. thank update:i am abl to solv the abov problem. instead of use preload file, i have ad the ipc in my guest applic and use the same code of preload script to send event from render process to main process.

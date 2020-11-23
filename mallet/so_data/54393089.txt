@@ -1,1 +1,1 @@
-decoratorsBeforeExport Error when using electron-webpack dev
+i was tri to convert my react project into an electron-app. as the project is bundl via webpack, i began use electron-webpack for the build. when run folder from _/node_modules_ and ad a log for the options. apparently, it doe not identifi my option set. i trieddirect from the webpack loader config, but the problem still showing.mi envnode: v11.2.0webpack: v4.29.0@babel/core: v7.0.0

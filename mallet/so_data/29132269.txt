@@ -1,1 +1,1 @@
-Node webkit hotkey example not working
+i'm tri to play around with node webkit hotkey exampl which can be view on their shortcut page here: https://github.com/nwjs/nw.js/wiki/shortcuther my code:test.j

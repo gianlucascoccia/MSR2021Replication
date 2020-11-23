@@ -1,1 +1,1 @@
-can I build an electron app for Mac on a linux system?
+i read some docs, and probabl the direct answer is "not, that not possible!".but i was wonder if there is a chanc to reach the goal with some kind of system like virtualbox, docker, ....i'd like to understand if it make sens tri those way befor to wast too much time. ani help will be appreciated.

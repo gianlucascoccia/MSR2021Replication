@@ -1,1 +1,1 @@
-printToPDF does not print all webContent view
+i am use the code below to save the webcont view into pdf file.th view is a report and have a realli long content insid it (see below).instead of show a full view, i see a partial view insid a singl page with a scrollbar. below is the screenshot for the generat pdf,expect behaviorjust like a real browser, the generat pdf should contain all the view if a singl page doe not provid enough space, multipl page should be generated.i am think probabl someth wrong with my css.

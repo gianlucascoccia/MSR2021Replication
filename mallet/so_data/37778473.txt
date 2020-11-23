@@ -1,1 +1,1 @@
-Connecting electron with sqlite3
+i want to connect electron with sqlite3. my package.json file is list belowi think i am get this error as i am have :'/var/www/tools/node/project/electrontest2/node_modules/sqlite3/lib/binding/node-v46-linux-x64/node_sqlite3.node'instead of /var/www/tools/node/project/electrontest2/node_modules/sqlite3/lib/binding/electron-v1.2-linux-x64/node_sqlite3.node'pleas tell where i am make mistake. current while run the app it is throw the error list above.

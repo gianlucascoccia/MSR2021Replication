@@ -1,1 +1,1 @@
-Uncaught ReferenceError: jQuery is not defined in electron
+i'm have a jqueri issue.i have a js file that link to some other webpag that includ jquery.(ex. window.location='https://www.google.com', by the way i don't know if googl websit use jqueri or not)it work fine insid my intern js file that use jqueri but when i link to new page(extern page), i get a uncaught referenceerror: jqueri is not defin error.how can i import jqueri into the extern websit that i want to show.do anyon have idea how to solv this issue?

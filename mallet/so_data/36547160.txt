@@ -1,1 +1,1 @@
-Calling a function in the main process from the renderer
+i'm look for simpl tutorial/exampl that show how to call a function run in the electron main process. i have this access to my main process: instead. which i'm abl to get working.

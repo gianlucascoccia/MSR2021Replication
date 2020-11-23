@@ -1,1 +1,1 @@
-How to prevent multiple notifications pop-up in electron?
+i'm tri to display a pop-up everi 5 seconds. when a certain trigger is trigger as true (ispopup). i tri

@@ -1,1 +1,1 @@
-clear cache in Nightmare.js (Electron)
+i'm use nightmar js to log into a site that set a token in local storage. however, ani futur test i run the user is alreadi log in. i'm guess the local storag wasn't cleared. is there ani way to do this? my code in test.j (http://electron.atom.io/docs/v0.32.0/api/session/) but i don't know how to access the session object from nightmare.

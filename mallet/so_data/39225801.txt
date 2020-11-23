@@ -1,1 +1,1 @@
-Electron Packager On Windows Does Nothing
+i have written a small app with electron in window and have some function which inspect the registri for inform about some softwar that is installed, and i need to run the app on anoth machin to test. so, i am tri to packag my app.firstly, it is import to note that when i run ) it work perfect fine. so, i am at a loss. i can onli presum there is probabl someth wrong with the package.json. is there an issue? whi am i not see ani consol output when run the packager?

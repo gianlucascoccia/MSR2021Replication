@@ -1,1 +1,1 @@
-Ninja: No work to do
+i'm tri to build nwjs with ninja. i built the code a few time before, however, this issu i cannot resolve.i get the follow ninja message:ani suggestions?ther should be work to do. i haven't built the code yet.

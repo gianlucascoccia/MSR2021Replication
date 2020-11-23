@@ -1,1 +1,1 @@
-SQLite package not found in Electron/TypeORM
+i'm work on an app that base on electron (1.7), typeorm (0.2.6), sqlite3 (3.1.13) &amp; ionic (3.19.1).i'm tri to updat the databas depend to their latest version (typeorm 0.2.20 &amp; sqlite3 4.1.0).the project compil correct but when i run the app, i'm get this error:what did i miss?

@@ -1,1 +1,1 @@
-ZeroMQ Rebuild for Electron 5.1.0 fails with error MSB4019: The imported project "C:\Microsoft.Cpp.Default.props" was not found
+i'm tri to instal zeromq into an electron applic but i'm unabl to rebuild the packag for electron.i'm tri to instal zeromq for electron 5.1.0 on my window 10 machine. details:os: window 10electron: 5.0.8node: 12.0.0as per the instruct in the readme.md https://github.com/zeromq/zeromq.js/, i have follow this procedure:1) instal zeromq with npmwith a similar end section as the other year produced.

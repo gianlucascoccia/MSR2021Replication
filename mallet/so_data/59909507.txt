@@ -1,1 +1,1 @@
-electron version 7.1.10, using session.setproxy() to set proxy, but it is not working
+when upgrad electron from version 4.xx to 7.1.10, function setproxy() is not work somehow, log is not printed. the same code was work fine in 4.xx version.

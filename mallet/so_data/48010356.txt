@@ -1,1 +1,1 @@
-Return to the original page ElectronJs
+i'v been look for a solut to my problem for a while and i can not find it, so i decid to publish it to see if you can help me.mi code is the following:thi would be in the main.js, so, i would like to know if there is ani way that when you load a url such as "http://google.com" when you click the search, run the defaultpag function to return to the origin html.i hope you can help me, thanks.

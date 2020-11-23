@@ -1,1 +1,1 @@
-Building overlay app for gaming ( age of empires 2 build orders. )
+i'm a big fan of age of empir 2, and play a lot on the " definit edit " . and i like to tri new stuff. but in this game have a build order ( a list of action that you shoudl do one by one ) is kinda helpful. and i'v find noth where i could do this easily. so i decid to build it myself and i'm wonder wich method/ techno would be the best ? it would be just an app display on top of all other open window ( so my game too ) show some text note basically.thank a lot in advance.cheers.

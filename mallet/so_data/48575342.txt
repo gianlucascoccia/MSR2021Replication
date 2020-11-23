@@ -1,1 +1,1 @@
-Allow plugins in nodejs application / electron
+i am creat an applic which further down the line, will allow user to creat plugin for it. i am new in regard of plugin develop and do not know how to proper search for exampl of this.

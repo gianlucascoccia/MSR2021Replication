@@ -1,1 +1,1 @@
-Electron works unexpectedly with updating component's style
+the code below work perfect in browser, but not in electron env. didn't work (or electron didn't re-rend the page) until the imag was loaded, unless there an alert disturb the process.i'v push the complet code to github (/lib/file.js).

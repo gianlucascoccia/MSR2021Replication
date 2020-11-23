@@ -1,1 +1,1 @@
-How to save input file files to electron?
+i'm develop a program use electron, but now i'm in a dilemma, how can i save the file sent by the input file into the "uploads" folder that is locat at the root of my program?thi is my form. &#xd;&#xd;&#xd;&#xd;&#xd;

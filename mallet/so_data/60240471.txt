@@ -1,1 +1,1 @@
-express-pouchdb enable cors
+i'm tri to get all document from my express-pouchdb server but il alawi get this error : i don't know how to configur cor fromth server side to solv the problem.

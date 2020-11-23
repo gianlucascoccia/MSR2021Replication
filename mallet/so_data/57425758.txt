@@ -1,1 +1,1 @@
-How to use worker-loader in electron main process
+i configur the worker-load in the render process and it work fine. however, the same configur doesn't work in the main process, it will throw an error "worker is not defined".i know that the worker is differ in the node.j environment. how can i set it up properly?

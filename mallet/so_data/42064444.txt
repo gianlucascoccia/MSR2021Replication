@@ -1,1 +1,1 @@
-Disabling window blur state
+how i can disabl window blur state in electron ? i have 2 window window with phaser.j and tween animation. when window 1 is focus, anim work on window 1 and when i click on window 2 anim is stop on window 1 and start at window 2.how i can focus 2 window at the same time ?

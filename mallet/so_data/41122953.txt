@@ -1,1 +1,1 @@
-Realm and Electron
+i want to send/rec messag from an electron app to realm.i search the web and found this, but i don't know how to do it and i couldn't find an example.can i work with realm and electron? if so, can you show me a good example?

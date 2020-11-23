@@ -1,1 +1,1 @@
-child_process.spawn return wrong unicode values
+in an electron app, i run a window execut (msbuild.exe) with child_process.spawn and i display stdout in a div.som code :the stdout contain accent charact (éàè...). the é charact is repres with the number 130 (in unicode, the é is the 233 !).bi default, child_process.spawn use utf-8 encoding. must i chang the encod ? if so, with wich encod to use ?

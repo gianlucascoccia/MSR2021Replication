@@ -1,1 +1,1 @@
-SQLITE3 installation error for Electron in Windows
+i am tri to use sqlite3 with my electron app and final creat an execut file use electron-packag module.i am instal sqlite3 use pleas help me out to solv this issu

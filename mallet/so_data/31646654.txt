@@ -1,1 +1,1 @@
-Is nwjs fast enough for a media manager application?
+i'm plan on writ an applic which would be a kind of media manag for video and imag (for organis in playlist and galleries, and display it insid the app), it will involv a lot of drag and drop and db access, will build this app with lot of javascript and nwjs be fast enough for that kind of app? or should i switch to c++/qt or someth like that?thank you in advanc

@@ -1,1 +1,1 @@
-Do you know any minimum version of an electron that can work on catalina?
+i'm make electron program.it is not work in mojave, but it is not work in catalina ( the last mac version) do you know ani minimum version of an electron that can work on catalina ?pleas reply.

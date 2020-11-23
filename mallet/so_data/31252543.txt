@@ -1,1 +1,1 @@
-Using 'this' in an object in Node?
+i'm use electron to creat a littl desktop app and export with how should i be access intern method in this instance?

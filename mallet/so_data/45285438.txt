@@ -1,1 +1,1 @@
-How to add a step to electron builder installer in MacOS
+i am tri to creat a pkg file of my .dig into the document of these two (and few other tools), i couldn't find a configur or solut to add a step in the instal process.to be more clear, when i click on the pkg file, i would like to have a user agreement step.

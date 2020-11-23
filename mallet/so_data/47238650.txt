@@ -1,1 +1,1 @@
-Run Bash-Script within Electron App using child_process.exec
+i'm struggl with run a bash-script within main.html.i'm alway get the error: no such file or directory. what am i do wrong?ani help is high appreciated.

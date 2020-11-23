@@ -1,1 +1,1 @@
-Electron app Travis CI builds fail
+i'm use electron to build a cross-platform app use javascript. i'm have some troubl get travi ci to build succes though. the doc on set it up say that my thank you guy so much for ani help you can provide!

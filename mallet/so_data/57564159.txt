@@ -1,1 +1,1 @@
-Regenerate ElectronJS window when appearance theme changes in macOS
+hello everyone. i'm actual develop a simpl electron app that has a transpar background with a vibranc effect.until here everyth is ok. the problem is that i need to specifi the vibranc effect theme as an argument in the , so i haven't been abl to test correctly. github issu

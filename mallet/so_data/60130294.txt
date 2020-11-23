@@ -1,1 +1,1 @@
-Electron/Node.js - Replacing/intecepting a .json file request with javascript function that returns data
+i'm use electron to make a desktop version of a websit that almost entir run on javascript, but there are few key area that get serv by a .php script on the server. the initi load function of the websit applic look like this: so i could run and return javascript code in that load function?..

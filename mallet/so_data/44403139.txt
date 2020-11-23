@@ -1,1 +1,1 @@
-All input forms in MaterializeCSS in electron look smashed
+okay, so when i follow the direct here for get start with materi css, my input form alway turn out like this:mi current my electron version is 1.6.6 and node is at 6.10.3

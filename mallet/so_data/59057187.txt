@@ -1,1 +1,1 @@
-How to change file version, product and copy right values for .exe generated through electron framework
+i have built an electron app, this must be abl chang electron file version, product version and copi right to the valu i specifi when packag is generated. i generat the packag use electron packag for window and linux. how to do this?i see npm packag rcedit is somehow link to this, i am not sure how to use this package? i want these valu to be set dure electron package.

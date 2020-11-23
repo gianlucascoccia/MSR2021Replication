@@ -1,1 +1,1 @@
-Angular Electron, white screen after reload page
+when i first run my applic electron with angular 4, it work normallylik thisbut onc i reload the page all becom whitewhen i check the dom, everyth appear normal, but the screen is still white.lik thiswhat caus the problem, how do i fix it ?

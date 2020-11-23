@@ -1,1 +1,1 @@
-Electron App: Error: %1 is not a valid Win32 application
+i am write code to load c++ dll from electron.i am use nan and bind (node-gyp) to achiev this. i am creat a 32 bit dll. around 2-3 day befor i was abl to load the dll from electron. sudden i am now get this error:error: %1 is not a valid win32 application.i did run the follow command but they did not help:node-gyp clean configur build --verbos --arch=ia32npm set npm_config_arch ia32npm instal --arch=ia32 electron-prebuilt -greinstal node and electron as well.

@@ -1,1 +1,1 @@
-Code signing for MacOS works in SSH session, but not in Jenkins CI
+i build and sign my electron applic on maco catalina use electron-build 22.3.2.work nice in ssh session, fail in jenkin ci. i alreadi compar all environ variables, and even tri to unset some variabl in order to hack https://github.com/watson/is-ci test, i.e. simul non-ci environment. it seem that in when call from jenkin builder remov local keychain befor use it. ani ideas?

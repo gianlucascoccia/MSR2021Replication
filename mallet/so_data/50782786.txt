@@ -1,1 +1,1 @@
-Electron architecture API calls
+hello stackoverflow community,i'm current dive in into cross-platform app with electron.a i'm a newbi to this topic there are some uncertainties:in "normal" webdevelop i would write an api in go(lang) which process json files. is it possibl to set up electron like an offlin server which can make api calls?thank you in advance. i realli appreci your help.

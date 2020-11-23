@@ -1,1 +1,1 @@
-Electron: Cannot load internal URL on build
+i'v made an electron app with two browser windows. the one load "http://localhost:4200" and the other load "http://localhost:4200/list". the problem is: it work fine when i am in develop mode but in product mode, it doesn't show. thank in advance.

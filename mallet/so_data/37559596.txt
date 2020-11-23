@@ -1,1 +1,1 @@
-Cannot access files inside asar archive in electron app
+electron version: 1.2oper system: windowscannot abl to access the file insid asar archiv use readfilesync:&#xd;&#xd;&#xd;&#xd;&#xd;non of the trial work out. if i tri without use app.asar, i was abl to access the db file. so pleas help me resolv this issue.

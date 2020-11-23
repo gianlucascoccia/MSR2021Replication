@@ -1,1 +1,1 @@
-ejs-electron not working with electron-forge
+in my electron-forg application, run on window 10, the ej templat are not rendered, although no error is visible.i can reproduc the issu with an applic creat with was return the follow error:error: the scheme has been intercept

@@ -1,1 +1,1 @@
-How to create a consistent navbar using jQuery?
+i have my navbar insid that we use to indic that the rest of the content should go here.how is it accomplish in jquery?

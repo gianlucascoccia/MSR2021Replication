@@ -1,1 +1,1 @@
-Can't load jQuery locally in node-webkit app
+i get the follow error in my console:

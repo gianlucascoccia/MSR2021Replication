@@ -1,1 +1,1 @@
-TypeError: Cannot read property 'app' of undefined
+i instal i tri to clean node_modul and re-isntal it, but no luck. i suppos it not direct relat to electron-json-storage, becaus when i instal ani new packag i am face this. sometim clean node_modul and re-instal them helps, but this is not the solution.i there ani general thing i am missing?

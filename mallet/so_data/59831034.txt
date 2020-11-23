@@ -1,1 +1,1 @@
-Electron globalshortcut when computer is locked
+is there a way to captur globalshortcut command on maco when the comput is locked? the vlc applic will paus media when the comput is lock and the play/paus function key is pressed. i would like to do someth similar in an electron application.i am alreadi abl to captur the globalshortcut success when the os is unlocked.

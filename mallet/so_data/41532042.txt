@@ -1,1 +1,1 @@
-ELECTRON: Upload a PNG file (using PHP Web service)
+i am build an electron app for multipl platforms. i need a standard (and reliable) way which upload a local png file to a web server use php. i am sure what to do at php end, but not sure what is the best way to upload a binari file use electron?ani help is appreciated. thank

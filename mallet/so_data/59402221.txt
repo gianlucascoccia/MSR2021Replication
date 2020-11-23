@@ -1,1 +1,1 @@
-How does one build debug information files with electron-builder
+i have an electron app that includ sever nativ modul ( rather than use a prebuild.

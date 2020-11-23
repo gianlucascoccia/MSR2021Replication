@@ -1,1 +1,1 @@
-Can't change the default TTS voice in Electron
+i am design an applic with html and js that use electron as the browser, (electron allow me to have a transpar window). everyth work well, except i cannot seem to chang the default voic from microsoft david regardless of what my code says. would anyon be abl to shed some light on thing i could try/what i could do?tri reloc where the speechsynthesi was call from, chang the array number. i would expect the code to chang the default voic from david to zira.i cannot deviat away from david.

@@ -1,1 +1,1 @@
-What is .asar file and why it's used in electron applications
+so the question is in the title. as far as i understand, .asar is kind of archiv file use in electron app. but what is the goal for it?

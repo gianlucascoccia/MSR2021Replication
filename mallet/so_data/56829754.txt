@@ -1,1 +1,1 @@
-set-cookie header will be ignored even by enabling withCredentials option, angular + electronjs
+i have a desktop applic which has to send http request to other site and get some data and respons cookies:her is my code to send and http request with when the applic window is creat due to cor problemso what is the problem?

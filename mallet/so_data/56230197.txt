@@ -1,1 +1,1 @@
-Why I cannot using cookies variable value outside the cookie.get function?
+i just began to learn use electron. i have set a cooki and i want use it value. but it keep undefined. how to use the cooki valu outsid the function?i have tri display the valu with alert 1' insid the cookie.get function and it is work. but, the alert 2' which outsid cookie.get function keep display undefined.thank you

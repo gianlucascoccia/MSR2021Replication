@@ -1,1 +1,1 @@
-How to use Npm behind a corporate web proxy for creating an app?
+i want to use npm from behind a corpor web proxi for creat an electron app. i am use window 10.npm and nodej is run in an actual version:npm -v6.4.1node -vv10.15.3i want to set the but the in the system-set (set for local network) i found that the compani is use a script for an automat configuration. how can i run the command lines?

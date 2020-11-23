@@ -1,1 +1,1 @@
-NW JS Node JS executing command on Windows XP
+i'm develop a desktop applic with nwjs and i'm tri to execut a command to get a properti of a file but it not work on ani comput with window xp, here is the code:on window 7 and 8 it work just fine, i get the properti but on win xp doesn't do anything... no error, no alert, anything, it simpli doe nothing.but if a copy/past the code in a cmd termin it works.

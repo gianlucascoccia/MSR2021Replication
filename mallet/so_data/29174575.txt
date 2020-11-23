@@ -1,1 +1,1 @@
-How to open URL in the same window in Node-Webkit?
+this will open url in a new window, but how do you open (redirect) the url in the same main window?

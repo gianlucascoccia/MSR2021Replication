@@ -1,1 +1,1 @@
-Build for production Electron (using npm and webpack)
+when i build my electron app for product i still get a file. again, can't i use this instead of have again the node_modules?

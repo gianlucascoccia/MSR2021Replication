@@ -1,1 +1,1 @@
-How do I search text in a single page reactjs/electron application
+i have a react electron applic and i want to add ctrl+f function to it. i ad a globalshortcut that respond to ctrl+f and show a text box, then on the textbox, i gave it a listen for chang which call window.find().unfortun this never search in the page, it alway return false. i'm assum this has someth to do with the react components, is there a way to search and highlight text of all the compon on the page? code:

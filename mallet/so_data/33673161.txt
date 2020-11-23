@@ -1,1 +1,1 @@
-How to find a string in Electron webview tag?
+i am tri to get find a string in electron webview tag. in node-webkit we have api like webview.find('string',callback); but i couldn't find ani api in electron webview tag. if you have ani idea, share your idea ,comment are appreciated. if iam in wrong path pleas correct me thanks.

@@ -1,1 +1,1 @@
-NodeJS: Cannot read property 'hide' of undefined
+the problemi'm work with electron and node, and am have issu where a variabl (let me know if you'd like more information.ani thought or suggest are appreci :)

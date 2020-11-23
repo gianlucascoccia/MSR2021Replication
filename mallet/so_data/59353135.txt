@@ -1,1 +1,1 @@
-in Electron with react app how to solve blank white screen after restoring from minimized state
+i'v develop an electron app with react content . in mac os after restor app from minim state it first show a blank white screen and then it render the page. how can i solv this issue? i have chang all bowserwindow option but it could not help. minim the app and then restor caus a blank screen at first. i also made electron app with electron-forg . same issu still there. i don't know how actual vscode or what app have solv this problem ?electron instal version "7.1.6"

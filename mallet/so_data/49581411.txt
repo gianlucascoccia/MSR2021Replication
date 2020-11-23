@@ -1,1 +1,1 @@
-Why Electron+React has different act in Dev and Prod Mode?
+i have a react compon insid of my electron app. (main) andi want use "electron-log" from my compon (renderer).when i use below code insid of my render on dev mode, it works!but when i build app, i get white-screen-of-death without ani error!why?

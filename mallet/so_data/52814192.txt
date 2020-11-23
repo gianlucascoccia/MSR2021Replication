@@ -1,1 +1,1 @@
-Electron - ipcRenderer not working in Async Class
+i have a class with a constructor and async functions.i have done edit:if i dont requir it, and have the whole class in my main file, i can do event.sender.send('mymsg', hello');but i want to do it in my class, that not in the same file as my main.

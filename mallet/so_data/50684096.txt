@@ -1,1 +1,1 @@
-Errors from older dependencies than declared?
+in my electron-app ive instal some sass-dependencies:th strang thing is, that in package.json the depend node-sass is declar in a higher version as the error messag shows.could that be a peer-dependency-problem?

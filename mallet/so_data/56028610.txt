@@ -1,1 +1,1 @@
-JS Error when running electron app with native module on another computer
+when i tri to run my packag app on anoth comput i am get follow error:

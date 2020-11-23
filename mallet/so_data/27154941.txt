@@ -1,1 +1,1 @@
-Detecting node-webkit during npm install
+i'm work on a librari for node.j that is build primarili as a nativ module. as such, when peopl tri to includ it in node-webkit projects, they have to recompil it use or something?

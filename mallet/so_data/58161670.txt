@@ -1,1 +1,1 @@
-Problem with [node_notifier] in [Electron + React] Project
+i decid to use node_notifi to handl os notif of my electron application. the whole project is base on the packag author mention this in the issu part of his project: this seem like be run from webpack or someth similar? insid either electron or on a page. in ani case, node-notifi need to be run in a node-context, have access to child processes.how should i run and build the code in a node context?

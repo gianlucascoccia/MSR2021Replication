@@ -1,1 +1,1 @@
-Packaging WIN app on OSX triggers request for Wine install. Why?
+i'v success been use electron on osx (10.11.6) for month to build and packag osx and win apps. i am current use or includ ani addit npm packages.

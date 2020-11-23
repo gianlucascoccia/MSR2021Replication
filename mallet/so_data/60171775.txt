@@ -1,1 +1,1 @@
-dialog.showMessageBoxSync(null, options) getting hidden
+i have an electron app. if i use

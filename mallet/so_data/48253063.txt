@@ -1,1 +1,1 @@
-How to properly link native modules in an Electron app?
+i am work on an electron app where i pretend to use nativ modules. i need . i can't figur out what is caus this problem.ani help will be appreciated, thank you in advance.

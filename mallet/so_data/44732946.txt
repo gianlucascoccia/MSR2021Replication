@@ -1,1 +1,1 @@
-What does {app, BrowserWindow} means in JavaScript (node.js)?
+while read doc of make softwar with electron, i came across this type of code in the begin of (the syntax, not the keywords) realli means? is it a javascript syntax, or a node.j thing or someth exclus relat to electron?

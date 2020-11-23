@@ -1,1 +1,1 @@
-electron-forge: missing some dependencies
+using: window 10, nmp 6.4.1, node v10.13.0, git 2.8.4a simpl app to show imdb records:https://ide.c9.io/learnwithcolt/webdevbootcamp folder api / movie_search_appdowload to run local on windows. it run ok.when i run:th same happen with other proyects. cmd is run as administrator.

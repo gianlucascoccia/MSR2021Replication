@@ -1,1 +1,1 @@
-Can I access Electron's HTML/CSS via app.asar?
+i'm test a desktop app be built in electron. sinc the app layout is css/html based, i was hope to do simpl layout modif without access to the sourc material. even if i can't see my mod in the run app, it would be use to extract html/css/javascript templates, modifi these and see the result in a browser. question 1: is the abov possible? base on this question i'm assum without instal all the stuff mention above?

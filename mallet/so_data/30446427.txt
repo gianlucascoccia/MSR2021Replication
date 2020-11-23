@@ -1,1 +1,1 @@
-how to get keypress from one window into another?
+i'v been tri to get the keypress from one window into another. sinc a window get focused, the other window can't receiv my keypresses, so i want to pass those to the window that need them. i can't figur out how to do this.i'v tri window.eval() and simul a keypress, but there doesn't appear anyway to simul a keypress success in node webkit. ani help would be appreciated.

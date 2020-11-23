@@ -1,1 +1,1 @@
-No such file or directory error in Webpack + highlight module
+i'm work on an electron app which requir the code highlight feature. i instal highlight modul as a node depend and use webpack to bundl all the code into the app.bundle.js.however, when i launch the electron app, i notic an error from the highlight modul complainingdo anyon have some idea for this?（everyth work fine when not bundl by webpack.）thank you in advance:)

@@ -1,1 +1,1 @@
-Best way to render OpenCV Mat to Html5 Canvas?
+i am use node.j and electron to build a desktop application. i want to use opencv with it. i success instal opencv4nodej and now i want cv.mat to be render in html5 canvas. is it possibl to do it directly, or i have to save the imag and then render it.th one more problem is that opencv4nodej work well in node.j console, but it doesn't work with electron it give me error:

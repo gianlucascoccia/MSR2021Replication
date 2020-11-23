@@ -1,1 +1,1 @@
-electron-builder, in windows ,how to config that can exit the installation process?
+i am use electron-build nsis key to control my app instal behavior. i hope user can termin the instal dure the instal process.but onc the instal starts, i cannot stop it, the cancel button is disabled.i want to know how do i need to configur to make the button available?below is my configuration:thank you.

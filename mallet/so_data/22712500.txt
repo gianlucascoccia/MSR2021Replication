@@ -1,1 +1,1 @@
-Safe passwords locally with node-webkit
+i have to save password local in my application. unfortun i can't just hash them becaus i have to use it everi time the applic starts. is there a possibl to save the password and keep all other program away from open it. i know from android that you don't have to mind about this becaus the os doe everything. is there also a possibl in node-webkit(windows).thank a lot in advance!

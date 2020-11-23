@@ -1,1 +1,1 @@
-How much Data I can save through Electron in my local database?
+i need to store data in local storag in electron. - work offlin for desktop app ?- how much limit of data i can store local ?

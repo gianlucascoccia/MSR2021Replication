@@ -1,1 +1,1 @@
-How can I get the whole Electron back trace?
+when i pack my app for distribut use electron-build and i tri to run it, i get this error:i there a way to get the full back trace, becaus i cannot figur out what wrong from just this. the error happen right away, there no electron/chrom window pop up, there no even consol output from when i call the .exe:

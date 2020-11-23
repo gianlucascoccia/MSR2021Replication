@@ -1,1 +1,1 @@
-NeDB didn't update the records
+hi i don't know whi this function didn't do anything, even don't show anyth on the console, and the callback function didn't work , sorri if i made an obvious mistak i'm new with node js and nedb.her is my updat function:

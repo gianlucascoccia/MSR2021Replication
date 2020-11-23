@@ -1,1 +1,1 @@
-How do I get the data for the form-action(target=blank) from the webview
+i can't find the form-data from event of new-window'i can't modifi data.html becaus the data.html is not mine

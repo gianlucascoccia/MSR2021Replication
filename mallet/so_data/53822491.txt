@@ -1,1 +1,1 @@
-Clipboard cleared on quit
+i want to creat an applic in electron that add some data to the clipboard and then exits. i got to the point where it is perfect ad the data to the clipboard and i can past it wherever.th issu is that as soon as the app quit the clipboard is cleared.so i am wonder if there is a way around this, and if it is relat to my code or an os level issue.in short this is what i have

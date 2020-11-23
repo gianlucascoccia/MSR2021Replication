@@ -1,1 +1,1 @@
-Electron-builder desktop shortcut icon has to be enabled manually
+when i creat and instal an execut use electron-builder, the desktop shortcut instead display an electron icon. i have to manual is there a way to forc it to take effect upon instal as would be expected?link to the issu on github.

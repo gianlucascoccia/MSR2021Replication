@@ -1,1 +1,1 @@
-Detect Electron powerMonitor initial state
+the electron powermonitor api allow us to monitor when a comput switch to ac or batteri power. but i see no way to detect the initi state.i there a workaround for this?exampl code for detect changes:

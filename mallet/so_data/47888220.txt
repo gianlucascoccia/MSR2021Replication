@@ -1,1 +1,1 @@
-Accessing filesystem in Angular 5, using electron
+i'm build an simpl stand-alon angular applic in which u can submit information.thi inform need to be save in a local json file that in the asset folder. i know angular run in a web browser that whi i use electron to build it. the problem is that i can't figur out a way to edit the json file in angular 5 use electron (local).i have tri the solut mention in this post, but they didn't work for me, ani other solutions?

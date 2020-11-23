@@ -1,1 +1,1 @@
-How can i get a list of running app with nodejs
+i'm tri to get all the run app inform with nodej or electron on everi os with a generic code.so far i was use all desktopcapturer.getsourc from the electron api https://electronjs.org/docs/api/desktop-captur that work fine until now but on maco it onli get the current desktop run app information.if there is 3 differ app run on 3 differ desktop how can i get an inform list of those app on everi os (id, title, ...) with nodej or electron ?

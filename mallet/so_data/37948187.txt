@@ -1,1 +1,1 @@
-Hide source code from build executable in electron-app
+i am tri to packag and distribut my app which is written in electron. i notic that when the binari build is completed, the local resource/sourc code are also expos in the final built folder. in the resource/app folder, you would have all your sourc code reveal to anyon who can access. i am wonder if there anyway to hide these information, and just deliv the built binary. i am use electron 1.2 and electron-packag 7.0.4

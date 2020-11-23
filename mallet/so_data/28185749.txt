@@ -1,1 +1,1 @@
-Drawing a picture and save it without displaying it
+hat i want to do is to draw a pictur with a png over anoth one, i'v alreadi success done it by canvas, and then i can save it as a new png file.i want to save the pictur to a path, but i don't want to display it, how i can achiev this or there is ani plugin can did this.

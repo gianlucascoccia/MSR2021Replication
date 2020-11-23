@@ -1,1 +1,1 @@
-How should I instantiate an object which use external const require
+i'v two file which one repres connect and dataacquisit object.th code below work fine:it not possibl to instanti this class within anoth one. i tri to export as default, and noth works. may anyon help me?

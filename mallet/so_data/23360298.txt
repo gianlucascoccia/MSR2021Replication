@@ -1,1 +1,1 @@
-Node webkit database support and Browser support
+i am plan to use node webkit for port my exist html/css/javascript from a web app to desktop nativ app.befor do this, i was tri to see if there are ani downsid of use node webkit.which is the best databas support by nodewkitmi understand is that it doe not requir ani browser to run this node webkit app and that it provid webkit engin and the app provid a ui to it by use html5, and css.is this understand of mine correct?al your pointer will be helpful.thanks!!!

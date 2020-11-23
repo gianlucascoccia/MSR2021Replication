@@ -1,1 +1,1 @@
-Zooming in on the center of visible image?
+so, this is a bit of a math heavi question. i am work on an e-com book reader in electron, and i want to program it so that you can zoom in, but that it doesn't zoom in from the top left corner, but instead from the center.ani suggestions?edit: similar to the css in concept, but requir differ method of handl zooming, as well as a more perman execut besid hovering. input call for differ window dimensions, differ zoom locations, and implement js to solv the issues.

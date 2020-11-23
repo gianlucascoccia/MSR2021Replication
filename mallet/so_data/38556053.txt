@@ -1,1 +1,1 @@
-Node buffer to HTMLImageElement src
+i have the follow function: can use? when i test this in my electron application, it seem slow.mi end goal is to draw the imag onto a canvas.

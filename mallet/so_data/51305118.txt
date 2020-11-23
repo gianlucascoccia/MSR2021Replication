@@ -1,1 +1,1 @@
-hot module replacement HMR Cannot find update. Need to do a full reload! Create react app and electron
+i'm use electron and i have an eject creat react app webpack config. i have hot modul replac enabled.th hot updat are generated, in the termin i see e.g. 5f4dde8b4941bfe36ef8.hot-update.json, but the client can't seem to find these updatesani idea how i can debug or fix this issue?i have my suspicion is the path the client is tri to look for the updat on is wrong.in the client console, i can see:

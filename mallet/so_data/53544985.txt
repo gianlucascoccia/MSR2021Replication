@@ -1,1 +1,1 @@
-Can electron-forge be used with Electron 3.0?
+i would like to use some electron 3.0 new api in my electron-forg application, but i am not find ani inform of which electron version is electron-forg supporting?i am current run electron-forg 5.2.2.can anyon pleas help?

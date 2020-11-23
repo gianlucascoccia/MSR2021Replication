@@ -1,1 +1,1 @@
-How is an electron-builder NSIS block map generated? Can it be controlled?
+i have a project packag use electron-build with nsis target, produc as artifact a 40 mb .ex file and a .exe.blockmap file (which is gzip json, i know). the problem is that even if someth as simpl as version number changes, blockmap start differ vast (for exampl onli 1756 chunk of 2032 matched) and each updat end up download multipl megabytes.i understand it may not be easi to make a detail file-by-fil map of an nsis .ex contain 's routin for blockmap creation.

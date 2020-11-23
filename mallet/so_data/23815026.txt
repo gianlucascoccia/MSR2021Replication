@@ -1,1 +1,1 @@
-Node-Webkit start function in different window
+my node-webkit applic consist of a control window and a present window.th control window gather data and eventu launch the present window via the to regular check a global variable?

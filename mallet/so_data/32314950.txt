@@ -1,1 +1,1 @@
-nwjs / node webkit display scrollbars
+for some reason it doesn't show me ani scrollbars.th overflow content is simpli hidden.middle-click with the mous allow to scroll. it just that the scrollbar are hidden.tri with css:

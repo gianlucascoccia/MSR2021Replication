@@ -1,1 +1,1 @@
-how to call a child component from parent component in electron-es6-react
+i am use electron-es6-react when i am tri to call achild compon from parent compon it not work can ani one help me,her is the sampl what i have done,ani help must be appreci

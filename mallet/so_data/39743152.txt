@@ -1,1 +1,1 @@
-open pdf after generate pdfkit/node webkit
+i am work on a cross-platform app with nw.js. i am tri to genrat pdf and to get it open but it dont work ! and i have no error ! do you have ani idea ?thank

@@ -1,1 +1,1 @@
-How to install a 3rd party software with electron?
+how to instal a 3rd parti softwar along with instal of electron app?mi exampl use case is, i want to use dure the electron app instal on differ oss, if possible.

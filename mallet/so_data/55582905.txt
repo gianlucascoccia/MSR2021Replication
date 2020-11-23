@@ -1,1 +1,1 @@
-How to get Electron windows binding for sqlite3 on mac?
+i'm on my mac os x computer.i want to rebuild sqlite3 in my new electron version.when i use this command with electron-build :which command should i use with electron-rebuild?

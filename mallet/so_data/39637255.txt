@@ -1,1 +1,1 @@
-Node.js FileSystem access returns ENOENT despite the file existing
+i have a node.j function which use fs.access to check if a file exists, is readabl and writable:i use the "open link" function from the ubuntu termin and it open the file with gedit successfully.what the issue?edit 1:i'm almost sure the path is right:

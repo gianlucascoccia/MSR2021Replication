@@ -1,1 +1,1 @@
-How to load a local file using, electron and webpack?
+i am develop a video player with electron. and i wanna have an abil to choos a video file from the file system and play it. the path could look like protocol and without the the protocol it tri to load it from the current host. so is there a way to load a video from os file system use electron or webpack?

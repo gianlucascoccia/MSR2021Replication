@@ -1,1 +1,1 @@
-Call .dll files in ElectronJS on linux
+i have a problem with use c# .dll file into my electronj app on linux. i know that electron-edg help to run .net in node.j on electron. but if it` possibl to use c# .dll on linux in this case?

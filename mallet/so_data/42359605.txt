@@ -1,1 +1,1 @@
-install.js cmd hangs - unable to install Electron js npm on windows
+i am a bit new to the node npm electron world and recent start develop applic relat to electron js. while i am abl to instal and creat electron applic on my offic system at the same time i am have issu with the person system.when the execut the command but not fatetri re-instal of node on machin but same issu persist.details:i am use the latest version on node - 6.9.5 [lts - henc node is stable]vers on npm is 4.2.0system is window 7screenshot of the command prompt execut script where the command hang

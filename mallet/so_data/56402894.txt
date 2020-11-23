@@ -1,1 +1,1 @@
-Can't get SWF file to run. Get's stuck at please "Right click click to run adobe flash player"
+i'm write an applic with nwjs and i'm tri to get pepperflash to work with it. when i tri to open an swf file, i get a messag that i can't address that say "right click to run adob flash player"i think i have instal pepperflash correct as this dialog is show up, but i can't seem to get the swf to run. i have tri ad this block of code to my javascript:

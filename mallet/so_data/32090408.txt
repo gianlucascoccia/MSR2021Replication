@@ -1,1 +1,1 @@
-Is it possible with Node-webkit to disable maximize on osx yosemite 10.10.3
+i'v set the resiz to fals in the manifest file, it work fine on window 7 (maxim button is disabled), howev on osx, maxim button is not disabled, and it still possibl to enlarg the window.i there a workaround for this? i tri search for inform about this issue, howev the inform is outdat by 3 years, and solut no longer apply.

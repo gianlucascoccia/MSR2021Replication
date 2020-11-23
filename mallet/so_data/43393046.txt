@@ -1,1 +1,1 @@
-Disable text selection on nested span (React / Electron)
+i have some nest spans. but it doe not work, i can still select everything. i am use react &amp; electron, if this should make a difference.

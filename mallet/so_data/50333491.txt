@@ -1,1 +1,1 @@
-Set Electron App as Default Web Browser
+i am develop an electron app that need to function like a web browser. the applic need to be abl to be set as a default web browser on a window 10 machine. how would you go about do this?

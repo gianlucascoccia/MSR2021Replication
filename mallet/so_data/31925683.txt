@@ -1,1 +1,1 @@
-CoffeeScript class results in empty object
+i have a file a.coffee', with the follow code:.how can i fix this?

@@ -1,1 +1,1 @@
-How to quit Electron app on Mac?
+below is stock code from the electron websit (https://electron.atom.io/docs/tutorial/quick-start/): abov the condit doe close the app. did they leav someth out specif to mac os x that prevent the app from closing?

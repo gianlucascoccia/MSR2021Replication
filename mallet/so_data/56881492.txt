@@ -1,1 +1,1 @@
-How can I deploy an Electron app served by a local Django server?
+i'm creat an electron app, which upon start spawn a local django server child process (to serv as backend processing). in my develop environment, the electron app run proper when i run&#xd;&#xd;&#xd;

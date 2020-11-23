@@ -1,1 +1,1 @@
-Not able to upload file of 1GB from filesystem, (hardcoded file not using input type file) using xhr from Electron application using node.js
+i need to upload a file read from filesystem (not specifi by the user) use xhr. is there a way to send it via ajax? i understand that javascript has input type file, which give javascript file object https://developer.mozilla.org/en-us/docs/web/api/file.i tri get file descriptor use node fs api (https://nodejs.org/docs/latest/api/fs.html) . but am unabl to send it via xhr. here is my code snippet.ani help will be great appreciated.

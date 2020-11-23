@@ -1,1 +1,1 @@
-How can I get built electron app PDB file
+i made a simpl electron app use crashreport and electron-builder.when my app occur crash, dump file generat successfully.i tri to analyz dump file with windbg but it is imposs becaus i cannot find my electron app pdb file.i alreadi download electron pdb and window pdb file follow this document (https://www.electronjs.org/docs/development/setting-up-symbol-server).i also tri ad electron-build build option includepdb but my electron app doe not generat pdb file.can anyon help me?

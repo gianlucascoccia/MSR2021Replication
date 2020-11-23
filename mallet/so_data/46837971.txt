@@ -1,1 +1,1 @@
-Electron-forge how to successfully and efficiently install sqlite3?
+how can i instal and run sqlite3 with the electron-forg app?whenev i tri to instal a new project and add the sqlite3, there are alway miss depend and errors.i'v tri instal it with

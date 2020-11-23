@@ -1,1 +1,1 @@
-Why i'm getting and error while sending email data to my database?
+so my problem is that i'm get this error: ps: i'm get the data from form value.if you need more inform do not hesit to ask.thank for help :)

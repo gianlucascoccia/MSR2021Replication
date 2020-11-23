@@ -1,1 +1,1 @@
-View does not refresh on IPC message received
+my compon correct receiv a messag (as i could see with the debugger), but it view is not refreshed. is there ani manual oper to be done in the ipc listener?thi is my compon html code:i expect the new string the page receiv from electron process to be shown on the page, but it doesn't happen

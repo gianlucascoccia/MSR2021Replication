@@ -1,1 +1,1 @@
-How to save ArrayBuffer?
+how to save an arraybuff in json file? i use electron-config for this, but in config.json i found "{}". i tri convert (code) arraybuff to string, but then i can't convert string to arraybuffer.

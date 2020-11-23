@@ -1,1 +1,1 @@
-Is it possible to use Electron in web application loaded from external web server?
+i start to learn electron and have one question:i it possibl to use electron code in a web applic onli in the case when applic was load by electron from local folder?

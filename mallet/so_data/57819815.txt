@@ -1,1 +1,1 @@
-How can I avoid the automatic download of unsupported file format in electron <webview>
+i am use a to display differ file format (pdf, ppt, pptx, etc..) in my electron application.when the file format is not support (ppt for example), the applic automat tri to ask if i want to download the file.i would like to avoid this and just display a messag say that the file is unsupported.i there a way to automat detect if the file is support to be display in the webview?

@@ -1,1 +1,1 @@
-Proper way to zoom dynamic created webview
+i creat a webview dynam in my browserwindow in electron.but it doesn't chang anything.what is the proper way to zoom in electron webviews?thank in advanc

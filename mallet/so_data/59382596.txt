@@ -1,1 +1,1 @@
-How can I stop an Electron app from restarting itself after using app.relaunch?
+i was play around with the this is a bit stupid, but now, i am stuck in a relaunch loop.i tri force-clos all 5 electron.ex process that are run on my machin via task manager, but it keep restarting.how can i end this process?

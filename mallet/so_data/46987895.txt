@@ -1,1 +1,1 @@
-Electron with imports (polymer)
+i'm tri to creat an electron app with polymer. i tri to import a custom element use

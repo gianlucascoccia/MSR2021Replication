@@ -1,1 +1,1 @@
-Loopback Controller APIs not working inside electron app
+i am tri to run a loopback base applic insid by electron app. i was success in configur sqlite into loopback and also db migrat insid the app. the server run fine insid electron in debug mode and i am abl to access api endpoint that i created. but when i packag the app and run the file, the server start up fine but there are no api endpoints. here is the link to code: https://github.com/sahilanguralla/daakiya

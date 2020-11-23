@@ -1,1 +1,1 @@
-Order of process.stdout.on( 'data', ... ) and process.stderr.on( 'data', ... )
+i'm write an electron app and this app deal with termin command execut from within electron.i'v got troubl with the execut of the somehow get call in the middle.i this expect behavior? can i work around this somehow to retriev the same behavior as in my terminal?thanks. :)

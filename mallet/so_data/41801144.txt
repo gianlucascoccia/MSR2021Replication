@@ -1,1 +1,1 @@
-Electron webview events
+i'm write an app in electron and came across with some issues, appreci if anyon can help.i'm navig a webview to event fire twice - this caus a blank page for coupl of seconds.do anyon has a clue why? i look the document again but this is not explain right. is there an event that trigger onc after all resourc are done download and are readi to show?

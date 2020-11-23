@@ -1,1 +1,1 @@
-Frameless BrowserWindow in macOS 10.13 (Beta) still displays a title bar
+i updat my maco to version 10.13 beta, and feel superior than ever before. howev when i start up my electron app, i immedi notic that my frameless window, which work perfect under 10.12, display a titl bar. here a picture:notic the grey bar on the top. the desir behavior would be no grey bar on top. i'm on the latest electron version at the time of write (1.6.11) and latest version of node. can someon explain whi this is happening, and possibl a work-around?her my code that creat this

@@ -1,1 +1,1 @@
-Errors with U2F in Electron
+when load a i am not use u2f (mayb some npm depend is?), and would like to know how to disable/remov this. it doesn't affect my app anyhow though.

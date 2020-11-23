@@ -1,1 +1,1 @@
-How to make a simple updater for my electron app
+my code so far.package.json insid the dist/win directori i get this files:insid dist, i have file latest.yml and a setup.exeand insid the dist/win, i have my app unpacked.how i can updat my app from the github repository?i have tri to make a releas on my github repository, with a new version 1.0.1 but is not updat my application.

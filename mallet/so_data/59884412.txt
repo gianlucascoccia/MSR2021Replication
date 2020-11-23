@@ -1,1 +1,1 @@
-electron tray app - ui window covered by taskbar popup menu
+i have an electron tray app that, when it icon is clicked, open a ui window. the onli thing is that taskbar menu cover it awkwardly, even if i focus the ui browserwindow. user has to move mous to hover over part of the ui window and wait for a few second befor it closes. doe anyon know either a way to put it in front, or to close the taskbar menu use either c++ or electron?

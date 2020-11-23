@@ -1,1 +1,1 @@
-Calling print verb in windows powershell without using Start-Sleep
+i have an electron app (nodejs) and have a requir to print pictur from it. i am use the powershel command:thi work but as soon as i remov start-sleep, the print window open for half a second and close by itself. then, if i don't do this and the window opens, even after the user press the close button on the titl bar, the powershel process still remain open until the timeout is completed. is there a way to have this window open and to clean up it memori when the user close it?mani than

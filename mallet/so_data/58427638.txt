@@ -1,1 +1,1 @@
-How can I download one single file to a specific location?
+i just want to download one singl file to a specif location. i don't need a listen for all downloads. i just want to download one file at the begin of the code likei download electron-dl, but in the document it onli seem to be cover how to catch download from the render process. also this seem fair complic electron - download a file to a specif locat

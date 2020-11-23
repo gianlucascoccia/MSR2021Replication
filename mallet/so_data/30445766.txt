@@ -1,1 +1,1 @@
-Live reload for electron application
+i want to use a combin of vscode + gulp + electron to build an application. a nice featur of the develop workflow would be to add an live reload task to my gulp watch task, to reload the electron applic on everi change. ani idea how to achiev this?your help is high appreciated.

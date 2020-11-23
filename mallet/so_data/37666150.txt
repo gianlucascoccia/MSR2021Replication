@@ -1,1 +1,1 @@
-Why my javascript game is slow when compiled with nw.js (node-webkit)?
+it is not much slower than in a browser, but i thought it will be much much faster, sinc it is a nativ window applic when compiled, and not html5 app.what am i missing?it is graphic intens game, lot of re-flow and re-paints, but that shouldn't be a problem for a nativ .ex app.

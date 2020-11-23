@@ -1,1 +1,1 @@
-How to check if url exist synchronously in NodeJs ?
+i would like to know if there is a way to check whether an url exist synchronously. in fact i am download file so i need to make sure these url exist befor tri to download them. here is the packag i am use to check if these url are valid https://github.com/boblauer/url-exist

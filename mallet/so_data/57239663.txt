@@ -1,1 +1,1 @@
-Mocking process methods in Jest
+i have object?

@@ -1,1 +1,1 @@
-Is putting a modal in javascript html css the same as in electron js?
+i am tri to make it so that when i press a button, a modal appears. however, i am have troubl as it is not work in my java script file functionality. i alreadi got the html and css part down, but i am unsur how to make the javascript work. i start to wonder if this electron js thing is differ from the usual javascript thing.javascript:

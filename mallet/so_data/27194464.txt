@@ -1,1 +1,1 @@
-How ensure default data in NeDB?
+i'm tri to use nedb as storag for my data in node-webkit application. i have the singl collect name is empti (in case if user open node-webkit applic first time)?

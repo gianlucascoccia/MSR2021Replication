@@ -1,1 +1,1 @@
-error while loading shared libraries: libgtk-3.so.0: cannot open shared object file: No such file or directory
+i ran electron packag for linux and window environment. the build is work as expect in window but not in linux .it complain about " error while load share libraries: libgtk-3.so.0: cannot open share object file: no such file or directory"i run this in suse linux flavour, i am not sure what i am missing.thi is electron-packag for linuxlink to my previous question

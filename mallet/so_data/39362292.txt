@@ -1,1 +1,1 @@
-How do I set NODE_ENV=production on Electron app when packaged with electron-packager?
+how do i make packag releas of my electron applic set ?

@@ -1,1 +1,1 @@
-Problem building node-serialport with nw-gyp (win10 64bit)
+first i tri node-pre-gyp - it same as nw-gyp rebuild

@@ -1,1 +1,1 @@
-Electron transparency turns white
+so i'm tri to program a calcul in electron and was pretti happi as i saw, i can do transpar window and so do round corner like you see here:https://drive.google.com/open?id=1_avnucrbqs20rwgirtjzyaohuprkwpt3but as soon as i focus some other window the upper "rounded" corner turn to this:https://drive.google.com/open?id=1u4lwul-kdzmzagclwpwj3l5mp0ts8uymimportant: no the yellow on the pic is not gonna stay :palreadi thanking,elia

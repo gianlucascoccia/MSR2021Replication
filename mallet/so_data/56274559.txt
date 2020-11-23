@@ -1,1 +1,1 @@
-Javascript Canvas draw image to buffer only
+i'm use canva to process an imag in various way use it imag data only. i'm get the imag like this:then i can't process it imag data...i there ani way this can all be done in data? i have no use to display the imag in my app at all. is there ani way to draw it to the buffer onli or something?al i'm do is captur the imag and then process it imag data so i have no need to display it anywhere.

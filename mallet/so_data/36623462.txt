@@ -1,1 +1,1 @@
-Not able to spawn gulp task from Electron Package
+.i don't know how to resolv it, and all the answer that i can search is not to fix this problem. pleas help me.sorri my english is veri poor, thank for read.

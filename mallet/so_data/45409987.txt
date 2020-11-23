@@ -1,1 +1,1 @@
-Debugging an Electron app : Breakpoints not working ("Breakpoint ignored because generated code not found")
+i'v got a basic helloworld app base on the electron-hello-world project run on vscode and abl to launch a debug session and the app start up fine.i'v got a breakpoint set on main.j but it appear to be grey out with a message:ani help would be much appreciated.

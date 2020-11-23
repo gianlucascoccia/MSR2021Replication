@@ -1,1 +1,1 @@
-Faster MediaStream ImageCapture (read media stream as buffer in nodejs)
+edit: i need to do this live. i can't wait until the stream ends.i get ?

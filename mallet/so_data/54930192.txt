@@ -1,1 +1,1 @@
-How to compile wasm in a worker thread in Electron?
+i have a bundl like this that is not electron-readi apparently:tri to run it in electron i get this error: webassembly.compil is disallow on the main thread, if the buffer size is larger than 4kb. use webassembly.compile, or compil on a worker thread.mi question is, (apart from produc and use an async bundle), what are the step to compil it in a worker thread and avoid ani hassle? exampl appreciated.

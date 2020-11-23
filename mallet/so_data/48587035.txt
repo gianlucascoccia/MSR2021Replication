@@ -1,1 +1,1 @@
-Electron: How to set a custom directory for user data (--user-data-dir)
+i want to set the --user-data-dir of my electron app to a custom directory, in my case, i would like it to default to a folder in the public directori so ani user run the app will share the same asset directory.it doesn't seem like electron appendswitch() function support this (and didn't work when i tried), so i'm kind of lost on how to implement this switch.

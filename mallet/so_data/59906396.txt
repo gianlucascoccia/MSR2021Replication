@@ -1,1 +1,1 @@
-node: managing create-react-app template package.json creation
+so far as i can tell (sinc i can't find document on this topic), when creat a templat for create-react-app, the best practic is to have file that contain the correct entri for electron?edit: look like "main" is blacklist in the code. is there a reason for this? what is the best practic here?

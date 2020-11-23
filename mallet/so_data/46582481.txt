@@ -1,1 +1,1 @@
-How much time is it necessary for an electron app certificate to build enough trust?
+i have sign my electron applic on window with an code sign certificate. accord to https://www.electron.build/code-signing, the app will show "a warn dure instal that goe away onc enough user instal your applic and you'v built up trust".mi question is, what is the number rang of user that have to instal my applic in order for my certif to be trusted?thi is crucial for us sinc we are launch a beta this week and would like to avoid show the message.

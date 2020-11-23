@@ -1,1 +1,1 @@
-Document is not active
+develop a game platform use electron + react.th game are load in an ifram and i'm forc to use a

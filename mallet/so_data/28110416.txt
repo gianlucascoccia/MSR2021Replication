@@ -1,1 +1,1 @@
-Displaying Flash files in a node-webkit app
+i need to run a swf file insid a node-webkit app. i have the swf embedded, plugin enabl in my package.json file, but i get the error “couldn't load plugin”. how can i success run flash insid a node-webkit app?i'm run ubuntu.thi is the package.json:thank you!

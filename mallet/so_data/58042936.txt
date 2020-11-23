@@ -1,1 +1,1 @@
-Electron - How can I install or use a third party dependency like a brew or apt-get package in my app?
+current i want to build a desktop app which is use a third parti packag that can be instal trough but i do not know how to inject this depend on my electron app.i want to avoid ask the user to instal this depend befor of use my app like "hey to use this app you should have the packag a installed.".thank for the help.

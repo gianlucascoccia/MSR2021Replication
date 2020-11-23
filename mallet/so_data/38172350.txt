@@ -1,1 +1,1 @@
-How to watch changes on a global server-side variable in Angular 2
+i'm creat an app with angular 2 use electron &amp; node. there are test that run on the server and the result get output one by one into a global variabl array call testresults. i have no problem pull that into angular using:

@@ -1,1 +1,1 @@
-Error: File to import not found or unreadable: ~@angular/material/theming while running electron-build
+so i am get the error while build electron with electron-builder:how would i go about fix this?i did not get this error while build with electron-packag but i was not abl to find a way to make that .ex into just one file instead of a folder with the .ex in it. is there ani other way of do this?mi package.json,mi electron main.js, which is call electron.prod.j andmi scss file

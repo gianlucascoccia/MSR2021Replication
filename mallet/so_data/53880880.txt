@@ -1,1 +1,1 @@
-Electron: Can we access BrowserWindow using its unique id?
+assum the below function is call multipl time to creat browserwindow, say 5 times.thi will generat 5 differ browserwindow. doe browserwindow has it own uniqu id to identify? or can we assign a uniqu id on it so that we can access them use it own id?

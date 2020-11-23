@@ -1,1 +1,1 @@
-Why webview tag blank after i go to router link and come back?
+electron 2.0.18, vue-electron 1.0.6i'm tri to show (on show, no interaction) other content from extern site, but tag don't work with rout page, it show simpli blank block. how i can reload it after everi router pass?

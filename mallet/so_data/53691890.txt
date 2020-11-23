@@ -1,1 +1,1 @@
-How do I create a node with childnodes using SQlite & Javascript?
+i'm tri to build an app with electron and a databas call sqlite. i would like to creat a list of titl and subtitl from multipl tables. it need to look like this:how can i fix this? i think i need to use some kind of loop, but i can't figur out how to do this. someth like foreach chaptertitl select correspond subtitle'. can you help me?

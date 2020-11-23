@@ -1,1 +1,1 @@
-Open external file with OS' default application (docx with Word, etc.) using NodeJS and Electron
+i'm use nodejs/electron for a desktop app.what i wanna do, is to open a file with it os default application, like .docx with word.what i tri so far are approach use child_process.spawn, .exec or .execfil but i don't get anything.her is my actual code:thank in advance.

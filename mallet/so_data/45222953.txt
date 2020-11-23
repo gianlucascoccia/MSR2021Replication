@@ -1,1 +1,1 @@
-Can't connect to nodejs server in docker container after settting USER
+i have a dockerfil that work fine when run as root. if i add a non-privileg user it runs:

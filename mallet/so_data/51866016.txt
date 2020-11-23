@@ -1,1 +1,1 @@
-Electron - Where does logging go?
+i'v creat an electron applic and bundl it use electron-builder. it all work great, though as this applic is still in it alpha stage there a lot of debug that get print via console.log (in the backend of the application, not the frontend/renderer). so my question is, as no terminal/command prompt get open with the application, where doe all this log go, and can i retriev it to review where my applic went wrong? thank you!

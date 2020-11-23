@@ -1,1 +1,1 @@
-Is there any way to test Electron based application without using Spectron
+is there ani way to test the electron base app without use spectron.i just want to use to test the electron base application.

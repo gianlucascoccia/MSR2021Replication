@@ -1,1 +1,1 @@
-Missing typings when using window.require with Electron and TypeScript with create-react-app
+i have an electron app that use

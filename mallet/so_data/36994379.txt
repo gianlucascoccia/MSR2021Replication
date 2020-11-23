@@ -1,1 +1,1 @@
-Nightmarejs screenshot doesn't clip at the bottom of long pages
+i am tri to make a screenshot at the bottom of the long page (e.g. http://www.taoism.net/ttc/complete.htm) like so:, it did not help.do anybodi know a workaround?p.s. nightmarej wrap around electron browser.

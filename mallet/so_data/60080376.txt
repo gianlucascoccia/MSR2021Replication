@@ -1,1 +1,1 @@
-Does dynamic toggling of "autohideMenuBar" not work?
+electron 7.1.10, window 10when my app enter full screen, i'm tri to turn off menu visibl and make it "autohide" so it can be access through the alt-key. the code below doe turn it off but doe not enabl the "reveal through alt-key" behavior.i'v tri comment out the

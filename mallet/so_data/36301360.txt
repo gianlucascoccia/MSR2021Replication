@@ -1,1 +1,1 @@
-NW JS window loaded doesnt trigger for a URL but does from a local file
+i'm tri to get the load event on a live web page but it doesn't fire like a local page. so the load never fire with this:on differ is the local file or url.thank and sorri for the dumb question (i'm not a programm so i'm sure it someth realli basic).i'm use nw js 13.2regardsandrew

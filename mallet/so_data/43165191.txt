@@ -1,1 +1,1 @@
-How to run an Electron application as a service in windows?
+i have creat an electron applic and now i want to run this applic as window service. i tri to search for it and end up with a npm call "npm instal os-service", i tri to instal it but show an error. i want to know that is there ani other way to achiev my goal? doe anyon have ani solut for this?

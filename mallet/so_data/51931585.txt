@@ -1,1 +1,1 @@
-How to set up Rxdb with pouchdb-adapter-leveldb?
+i am work on electron app and i am use react,react-redux. now i am tri to set up rxdb and pouchdb-adapter-leveldb for offlin mode, i took rxdb(react) - exampl and made littl chang for pouchdb-adapter-leveldb. this is my database.j file:![and this is my error notification:]1when i saw this error message, i delet nod-modules, and instal node-bind (one guy suggest this solution) but it did't work for me. ani idea how to fix this :? :/ thanks!!!

@@ -1,1 +1,1 @@
-Uncaught ReferenceError: global is not defined at Object../node_modules/fbjs/lib/setImmediate.js
+i got this error when i tri to render button from ant design in my electron project, and it render noth instead. when i chang from button to just hello world text, it works.i'm not sure whether the error come from webpack or the ant design itself.note: i manual creat this project by myself, but the error can be reproduc on https://github.com/devtography/electron-react-typescript-webpack-boilerpl but no error on https://github.com/robinfr/electron-react-typescripterror messag

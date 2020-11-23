@@ -1,1 +1,1 @@
-ADB pushing only part of a file when using Node
+i'm work on a program made in electron which instal an apk to a connect android devic use the android sdk platform tools. i'm use the node the file is about 10mb and it onli push about 4.5mb befor tri to instal the app, thus give the invalid_apk error.what could be caus this error?

@@ -1,1 +1,1 @@
-Electron app crashes while calling autoUpdater.checkForUpdates
+electron : 6.0.9 electron-updater: 4.1.2electron app be crash when i'm call

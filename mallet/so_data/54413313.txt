@@ -1,1 +1,1 @@
-In Git Bash, the command `npm start` returns an error
+i'm use window 10 64 bit and vscode.se the screenshot of the error:

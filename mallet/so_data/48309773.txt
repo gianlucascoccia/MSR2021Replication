@@ -1,1 +1,1 @@
-Code signing macOS app with Electron
+i cannot seem to get code sign to work with electron-builder. when i run and direct me to the electron-build doc (which are not help at all). can anyon point me in the right direction?

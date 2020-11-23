@@ -1,1 +1,1 @@
-How to enable nodeIntegration on child window
+i'm work on electron project that must have child window for the app. i set function so i can use read and write in electron ?

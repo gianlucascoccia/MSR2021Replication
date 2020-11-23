@@ -1,1 +1,1 @@
-How to reset the renderer javascript context in atom-shell
+in a standard browser, load a new url will reset the javascript context. ie. all global variables, compil function and event will be cleared, and the browser will start with a clean slate.in atom-shel however, call will load the new html file, but it will keep the javascript context alive. and so variabl that i would need delet would just hang around. how can i tell atom-shel to wipe out the whole javascript context on the render side?

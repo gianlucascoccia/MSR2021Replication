@@ -1,1 +1,1 @@
-How to send messages from electron to another process (other native windows app)
+i am have a nativ window app that send messag to the electron app via wm_copydata. in electron i use hookwindowmessag to receiv the message.i it possibl to send messag back to the process, if i know the hwnd?how can i respond to the message? is there a method i can use?cheers,til

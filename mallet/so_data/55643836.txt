@@ -1,1 +1,1 @@
-How to fix 'Can't insert key undefined, it violates the unique constraint' error in NeDB?
+i'm tri to use nedb for my vue.j app, but the follow error occur when i tri to save my data from the second time.th error is: "can't insert key undefined, it violat the uniqu constraint."i'm make the app in electron-vue.i check the databas file and find that no _id field had been generated. i think the _id field should be generat automatically.src\renderer\datastore.jsand _id field dose not be generated.pleas help me.

@@ -1,1 +1,1 @@
-Node-Webkit: What authentication method should I use to authenticate user from google account
+i am creat an applic with applic run direct from there locat which mean that that url is alway different.

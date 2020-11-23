@@ -1,1 +1,1 @@
-electron linux app is not displaying the icon after built
+this is the package.json script for develop linux app. while run the electron local the icon is visible, but when i develop it as an applic it is not show the icon

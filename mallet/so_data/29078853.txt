@@ -1,1 +1,1 @@
-Node-Webkit: Run application on download complete
+i have creat a . what i have done till now is:i am check version of my applic package.json with the package.json from server.if they are different, i will download the new .ex from server.it download to user-folder\appdata\local\temp\ foldernow i want to close the applic which is open and run the new exe file. but i want to do it pragmatically. can anyon help me in do this? is there a way to open applic when it path is specified?ani kind of help is appreciated. thank in advanc

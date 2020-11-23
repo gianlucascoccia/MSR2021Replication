@@ -1,1 +1,1 @@
-How to access electron.app.getPath()?
+hi i'm make a custom compon under ) without requir remot module.

@@ -1,1 +1,1 @@
-MediaRecorder Blob to file in an electron app
+i have an electron app that has veri simpl desktop captur functionality:i'm complet stumped. all the refer tutori or other so answer i can find basic follow this flow. what am i missing?electron version: 1.6.2

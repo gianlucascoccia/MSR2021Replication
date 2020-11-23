@@ -1,1 +1,1 @@
-Uncaught ReferenceError: require is not defined at add.js:1
+i am tri to get set up on a simpl electron project, but am have troubl resolv this issue. i have a file ani help is great appreciated.

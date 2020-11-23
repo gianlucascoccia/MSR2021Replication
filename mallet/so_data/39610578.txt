@@ -1,1 +1,1 @@
-Create App installer for windows - Electron (electron-packager, electron-builder)
+can someon help me with the follow queries.what the differ between the two? pleas help/guidethank you !!

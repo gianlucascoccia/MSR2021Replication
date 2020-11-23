@@ -1,1 +1,1 @@
-npm run doesn't work after install git for windows
+i instal git for windows. sinc then i can't run ani electron project. befor the git instal it work perfectly. now i have this error in the termin on visual studio code. how do i fix this?

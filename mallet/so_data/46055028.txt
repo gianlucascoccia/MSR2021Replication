@@ -1,1 +1,1 @@
-Electron for React cannot load custom cursor
+i am work with electron in react. i'm have an issu where electron cannot get my custom cursor, but it work well with default cursor like pointer, progress, etc. this is my css properti valu for the cursor:anyon know the solut to my problem?

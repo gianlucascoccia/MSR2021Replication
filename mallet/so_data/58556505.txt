@@ -1,1 +1,1 @@
-Running Jest within Electron and using --inspect-brk
+i am tri to get jest to run within the electron runtim (rather than node), it work as expect when i start electron as follows:

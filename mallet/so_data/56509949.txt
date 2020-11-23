@@ -1,1 +1,1 @@
-Both webView and iFrame overriding 'transparent:true' property in Electron.js browserView
+i have a browserview embed within an electron.j applic i am developing. i would like the background for this browserview to be transparent, which work without issu until i attempt to add either a webview or an ifram to the browserview. upon ad either of these element the transparent: true properti seem to be overridden, with the browserview now display with a white background. exampl of code in the main.j file: ani help would be much appreciated!

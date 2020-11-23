@@ -1,1 +1,1 @@
-How to access camera/webcamera inside electron app?
+i have a web electron applic and i want to implement camera in one of the pages. the problem is that late for secur reason webcam can onli be access via https'. but in case of an electron app where the applic is serv local the scheme is differ and therefor stream fails. so my question is:i there ani good solut to implement webcam insid electron?if not, what solut other than webcam might work?

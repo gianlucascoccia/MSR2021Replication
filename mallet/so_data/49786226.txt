@@ -1,1 +1,1 @@
-Stop/Remove daemon (service) when uninstalling App developed with ElectronJS in Mac OS
+i work on electronj to make mac app.th problem is when instal and run mac app it set daemon insid it.but after uninstal app, daemon still work which it shouldn't be.daemon should be remov befor delet app.pleas help me with solution.thank you.

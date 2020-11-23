@@ -1,1 +1,1 @@
-using mysql in Electron
+im tri to use then it run 100% fine without errors, so im not realli sure where im go wrong here

@@ -1,1 +1,1 @@
-Check if size of electron window changed
+i wanna have a listen ( or someth ) to check if the size of the window changes, do someth ( like re-rend entir view page ).how should i do this?

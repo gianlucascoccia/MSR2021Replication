@@ -1,1 +1,1 @@
-Cookies required error upon first login facebook (Atom-Electron application)
+i am build an applic use atom/electron librari and i have a facebook login button for this application.it is work fine. however, upon the user first login (in facebook popup window), an error show (cooki are requir pleas enabl them in your browser to log in). i check electron document and noth seem to be a workaround for this problems. ani help/idea are much appreciated. thank you.

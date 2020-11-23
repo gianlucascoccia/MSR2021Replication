@@ -1,1 +1,1 @@
-Cannot find name 'BrowserWindow'
+in folder provid in electron.service.t i have code:becaus in method togglefullscreen() will not be to abl method isfullscreen(), show(),setfullscreen().app work good in develop mode, but i have error and i can't build exe file. how fix that?

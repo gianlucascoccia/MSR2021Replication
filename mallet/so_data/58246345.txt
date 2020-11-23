@@ -1,1 +1,1 @@
-How could I write something through handwriting on to my Electronjs desktop app
+i am develop a desktop applic use electron js and have python backend. i want to write someth on to my app through hand without keyboard and want to store this handwritten inform into my database. ani suitabl solut for this task??

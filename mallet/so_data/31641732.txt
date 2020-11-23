@@ -1,1 +1,1 @@
-Native looking UI components for Electron application
+i'm use electron (former atom shell) for a desktop application.it is a lot of fun to use and event-driven program has it merits.i'v got all html, css &amp; js power at my hand becaus it use one of the more recent chromium builds.i'd like to use ui element which look similar to the nativ one (from os x in my case).i there a ui librari imit the look and function of the nativ ui element or other one which fit nice into such a desktop application?

@@ -1,1 +1,1 @@
-Issues with VueJS, Electron, and Webpack (Hot Reload)
+i'v been work on a new project involv electron, vuejs, and i'm use webpack for hmr functionality... my issu is that the hot modul replac stuff isn't work for some reason.i'v got the follow configuration:webpack.config.j in the electron initialization. thank in advance!

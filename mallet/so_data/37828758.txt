@@ -1,1 +1,1 @@
-Electron.js How to minimize/close window to system tray and restore window back from tray?
+i want my electron.j applic to live on system tray and whenev the user want to do someth they can restor from the system tray do someth and minimize/clos it back to system tray. how do i do that?i'v seen the update:i found this menubar repo, but it won't work as expect on linux.

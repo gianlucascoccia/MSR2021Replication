@@ -1,1 +1,1 @@
-can react-primitives be used in electronjs app?
+i read from react-primit readm https://github.com/lelandrichardson/react-primitives#readme, state that we need to instal target platform librari to use react-primitives. for window there is this react-native-windows. if i develop app that use react-primit on electronjs, is it possible?i want to develop multi platform app that run on windows, linux, macos, android, ios, and web with one codebase.

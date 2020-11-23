@@ -1,1 +1,1 @@
-Bundling multiple existing projects
+i current have two exist projects, one node.j and one react. both in their own folder with their own package.json and node_modules.i want to creat a third folder for electron and bundl the exist project together. is this possibl or do i need to merg all three project togeth and use a singl package.json and node_modules?

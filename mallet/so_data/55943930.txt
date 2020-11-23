@@ -1,1 +1,1 @@
-How to disable System shortcut on MAC by AppleScript
+i'm make a exam consol app for mac. i use electronj and when user enter the exam room, this app will be set to mode.but onli some shortcut such as cmd+tab were disabled.oth shortcut such as f12, cmd+shift+4, cmd+f5 weren't disabled.i am look for the methodolog to disabl system shortcut dure examination.if applescript will touch this problem, it will be great help for me.

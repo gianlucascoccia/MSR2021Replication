@@ -1,1 +1,1 @@
-Calling a function in a renderer process when main window is closed in electron js
+i have a form(wher user enter some inputs), in a render process and i have to store the valu enter in localstorag when the main window is closed. (electron js app)

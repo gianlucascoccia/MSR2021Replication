@@ -1,1 +1,1 @@
-Electron Quick Start in NodeJS Child Process
+i am tri to combin a gulp setup with debug electron-quick-start, and i am tri to close and re-open electron when chang occur in my sourc files, which i implement with &#xd;&#xd;&#xd;is there a reason whi end it manual in the command line has a differ effect than send the signal manually? can i close the full electron quick start applic run in the child process?

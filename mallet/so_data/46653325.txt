@@ -1,1 +1,1 @@
-Close Electron app on click event
+i have look at the document for electron regard the frameless-window', but i just can't seem to make a button of my own work to close the application... ani help would be appreciated! thanks!&#xd;&#xd;&#xd;&#xd;&#xd;

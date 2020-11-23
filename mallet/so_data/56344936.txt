@@ -1,1 +1,1 @@
-Grab ETAG from google cloud bucket file
+so the problem im work with is for version of an app. i have remot file store on a googl cloud bucket that i want to compar with local files. my understand is that use the etag properti might be the best solution, but i have no clue where to start with this. it would have to be in javascript as this is for a electron applic im building. is this even possible? thanks.

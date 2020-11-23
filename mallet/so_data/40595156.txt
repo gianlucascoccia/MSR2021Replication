@@ -1,1 +1,1 @@
-Electron command opens file asscociation menu in Windows 10
+i am new to window 10. i am build screencat app for windows. but when i run the "npm start" in console, i get the below popup ask for how i want to open the js file.i it possibl to run electron app in window 10?

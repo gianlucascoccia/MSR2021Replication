@@ -1,1 +1,1 @@
-Error when opening my packaged Node.js app, no error when opening the unpackaged app
+my app is work as long as i start it use the terminal/cmd line.now i'v packag the app use the electron packager, but i get the follow two errors:also tri "var set = path.resolve(__dirname, settings.json');" etc., noth worked.could it be that someth is wrong with "set = json.parse(data);"?i'd realli appreci ani help, i'v been tri to fix this for hours.

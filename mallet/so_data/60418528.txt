@@ -1,1 +1,1 @@
-How to use bult-in spellchecker of Electron 8.x in Webviews
+electron v8.x introduc built-in spellchecker. it get activ by set spellcheck option in webprefer in browserwindow api to true. i would like to know whether it is possibl to use this in webview in electron. if so, how to use it.

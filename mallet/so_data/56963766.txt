@@ -1,1 +1,1 @@
-Electron - ERR_TOO_MANY_REDIRECTS using fetch in a render process
+i'm have problem use fetch in my electron app.mi app function fine when built use electron 3.1.9 but when i tri to use anyth greater that electron 4.0.0 fetch work onc only, then fail give an error:'fail to load resource: net::err_too_many_redirects'i'm creat the browserwindow like this:i can't work out if it a problem with how i'm set up the browserwindow, how i'm set up fetch, or if i'm tri to do someth that just not possibl in electron 4+.

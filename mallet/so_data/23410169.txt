@@ -1,1 +1,1 @@
-nodewebkit failing install in node 0.8
+i'm tri to instal nodewebkit in node version 0.8.strangely, this work in node 0.10. i'm on ubuntu 12.04. i tri instal rimraf (whatev that is) separ to no avail. ani ideas?

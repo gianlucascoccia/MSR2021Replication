@@ -1,1 +1,1 @@
-Wkhtmltopdf-node open and render a local file
+i'v walk through the examples, where the main method take url or html directly:

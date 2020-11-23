@@ -1,1 +1,1 @@
-vue-cli + electron builder error: Please install mariadb package manually
+i want to creat electron app via vuejs. i want to use sequelize. but when i want to connect, i see this error on consol : pleas instal mariadb packag manually. this error is same when i chang dialect to ani other db driver. for exampl dialect is mysql, then error is:pleas instal mysql2 packag manually.pleas helpi'm sorri for my english.

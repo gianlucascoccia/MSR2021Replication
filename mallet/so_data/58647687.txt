@@ -1,1 +1,1 @@
-::selection span is not as high as actual <span/> tag container, only as high as text
+in electron (a chrome window) i am text-select a number of multi-lin i want the select span to fill the whole span tag and meet, what am i do wrong?editin this jsfiddl the select span do fill the div... i'm start to think this could be depend on the browser?edit 2ye in fact the same fiddl in the latest chrome fill the span but in the latest firefox it doesn't.chromefirefox

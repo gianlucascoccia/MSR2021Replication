@@ -1,1 +1,1 @@
-Scaling a window and Component
+hi i'm work on a electron project use html javascript and css and there is ani way we can scale the window with the compon insinde, so when you are on window the window and the compon insid (pictures,text) look the same as on a mac.

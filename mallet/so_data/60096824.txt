@@ -1,1 +1,1 @@
-How to run .exe file from windows path
+i am use node.j to run an electron app. i want to run a exe file use arg -h which list out all the avail options, i am use npm packag child-process i can run this applic use cmd prompt, file.html

@@ -1,1 +1,1 @@
-Electron showMessageBox not blocking the process
+from the doc of it also didn't work. could someon explain whi it not work neither of both approaches? and how could i fix it to behav as intended.

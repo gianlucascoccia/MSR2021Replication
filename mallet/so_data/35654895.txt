@@ -1,1 +1,1 @@
-Drag and drop not working in nw.js app on windows 10
+i have nw.js (webkit) desktop app with follow js codeon window 8 and linux, this code works, but on window 10, it won't accept file drop. when i drag file over "holder" area, i get black circl icon.i have tri to run app as administrator, and it don't work.i made quick web page to tri it in browser, and it work in both ff and edg browsers.can someon help with this?

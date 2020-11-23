@@ -1,1 +1,1 @@
-Electron Notification Buttons
+i'v just start play around with electron some and was wonder if there is a way to add button or other element to notifications? my compani might use electron to build a product and it would be awesom if we could have answer/hangup button or a quick repli text box and button right on the notification. is this possibl within electron?thanks!

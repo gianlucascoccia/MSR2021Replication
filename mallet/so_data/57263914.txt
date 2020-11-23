@@ -1,1 +1,1 @@
-Sign Windows Electron app without purchasing certificate
+i have one electron project and want to build window and mac app.i build mac app with develop id but in window i think i must purchas certificate. but it too expensive. pleas help me on get free certif of windows.

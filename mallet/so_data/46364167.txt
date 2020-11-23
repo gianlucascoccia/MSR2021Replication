@@ -1,1 +1,1 @@
-What is the equivalent for app.dock.hide();
+i current work on an electron tray application. for mac, the electron framework has a function for hide the app in the dock.now i am look for an equival function for window to hide the app in the taskbar.

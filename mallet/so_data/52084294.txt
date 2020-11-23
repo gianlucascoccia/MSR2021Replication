@@ -1,1 +1,1 @@
-jQuery find element :contains, then get class
+i am tri to get the class name of this item but it keep return undefined.1: here is the class i want it to returnhtml page: https://shop.palaceskateboards.com/i want to get the class of name of the product base on keyword later i will use nightmar js to click that class.

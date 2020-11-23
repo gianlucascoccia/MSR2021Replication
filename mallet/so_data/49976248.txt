@@ -1,1 +1,1 @@
-Small issue with Electron Packager and NightmareJS
+i am use nightmarej with electron. everyth work as expect in development. however, when i pack my applic with electron packager, i get a new window everi time when i tri to run nightmarej code.i have alreadi set nightmarej properti

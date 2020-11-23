@@ -1,1 +1,1 @@
-In the electronjs docs I read the statement - The electron module exposes features in namespaces. What does it mean?
+i just start learn electronj and the follow line in write your first electron app is quit unclear. can anyon help me understand this and the exampl that follow it?

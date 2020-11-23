@@ -1,1 +1,1 @@
-In nwjs DOM seems to be empty when accessed from another module
+i want to use modul in my nwjs app that use i found that i can bundl my main.j with rollup or webpack then it will work becaus the main modul and the mod_test modul are merg into a singl file. but i don't like that approach as i afraid it would impact the performance, not to mention it seem to be realli unnecessari addit step in the assembling.

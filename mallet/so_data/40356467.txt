@@ -1,1 +1,1 @@
-Electron app: Reference mainWindow object in another module?
+i am build an electron app, where the 's callback (which i know is also advis against). i confess that i do not fulli understand the simpl case of the post, as i am rather new to node. this prevent me from fix my own implement of it, which i agre is blunt copy/past which reason should be expect to fail. could somebodi help me with how to correct abov method, or advis me of a differ approach to make it work? thank you!

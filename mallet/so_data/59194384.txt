@@ -1,1 +1,1 @@
-'build' is not recognized as an internal or external command - Using ElectronJS / electron-builder
+i recent updat my electronj app to a higher version togeth with electron-builder. i have no issu run the app with "npm start", howev when i tri to build it use electron-build i get the follow error when run "npm run dist": $ npm run dist myapp@1.0.0 dist c:\projects\myapp build build is not recogn as an intern or extern command, oper program or batch file. npm err! code elifecycl npm err! errno 1 npm err! myapp@1.0.0 dist: node version: 12.13.1npm version: 6.12.1

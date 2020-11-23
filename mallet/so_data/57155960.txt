@@ -1,1 +1,1 @@
-Adding an click event listener to an element in an electron app
+error: document is not defin when start up the electron appi'm tri to make it so when someon click on a p element a function in my js file for run the electron stuff open a new electron window but it keep say that document is not defined.thi is my index.html (main electron app file)

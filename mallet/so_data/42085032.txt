@@ -1,1 +1,1 @@
-Is it possible to compile chromium and nwjs for PowerPC?
+is it possibl to compil : https://github.com/andrewlow/nod and v8: https://github.com/andrewlow/v8ppc?

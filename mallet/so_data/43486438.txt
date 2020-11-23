@@ -1,1 +1,1 @@
-Electron - IPC - sending data between windows
+in the main process, i creat a window call can anyon explain what i'm do wrong? thank in advance!

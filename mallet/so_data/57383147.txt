@@ -1,1 +1,1 @@
-Multiple Notifications in Electron App Show Only 1 Visible
+an electron app may sometim push 2 or more notif at once.problem: onli the latest notif is visible, as all previous notif (seemingly) are hidden direct behind the most recent one. this problem is seen when run on mac os x mojave.i it possibl to make multipl notif stack vertically, such that all of them can be seen (as long as they dont stack off the screen height)?curr usingelectron v1.8.8node v12.6.0mac os x mojav 10.14.5code

@@ -1,1 +1,1 @@
-install nwjs dev version automaticaly when npm i
+is there a way to instal dev version of nwjs automat from package.json like when i type npm install?lik when i type npm i nw --nwjs_build_type=sdki tri set environ variabl like this in package.json:but it did not work?

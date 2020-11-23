@@ -1,1 +1,1 @@
-Implement web based desktop application with python
+i want to make a applic that run as a web applic or desktop application, i know how to implement for a web server use django or flask, i prefer django, but is there ani way to port it to a desktop applic too? i found a nodewebkit that mayb give me the solut but, i don`t have ani idea on how to use it.

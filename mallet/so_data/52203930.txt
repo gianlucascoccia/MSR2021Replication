@@ -1,1 +1,1 @@
-How do i install spectron and start scripting on it?
+got a recent requirement, where i need to do test autom of backend node js applic use the spectron. i would like to know what are program skill requir to approach the same

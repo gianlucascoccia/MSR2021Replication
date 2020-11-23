@@ -1,1 +1,1 @@
-Drag and Drop interfering with scroll Angular 7 CDK [ionic] [angular]
+i have an ionic app, which is built in angular, and thus has angular cdk drag and drop in it to rearrang a list. drag and drop work great, however, on mobile, i cannot scroll at all. i believ the drag and drop gestur are eat up my scroll gestures. i'v attempt to set the cdkdragstartdelay to 5000 (milliseconds):it doe delay the drag, but i still cannot scroll.i it possibl to scroll and have drag and drop implement in mobil use angular cdk?

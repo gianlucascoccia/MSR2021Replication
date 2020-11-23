@@ -1,1 +1,1 @@
-How to access appId in electron App
+in electron app, how can i access section is gone from the packag app. i want to use that id for node-notifier.

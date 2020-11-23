@@ -1,1 +1,1 @@
-nw.js node WebKit - unable to play audio file
+i have start work with nw.js, creat a test app to play audio file from. i am work on os x 10.11.the code for the player is:and open the packag app.i can play the file fine with the same code from a web browser.i don't know what els to try, help would be much appreciated, thanks.

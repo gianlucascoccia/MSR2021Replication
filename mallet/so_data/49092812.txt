@@ -1,1 +1,1 @@
-Scraping categories and subcategories using beautifulsoup
+i am tri to retriev all categori and subcategori within a website. i am abl to use beautifulsoup to pull everi singl product in the categori onc i am in it. however, i am struggl with the loop for categories. i'm use this as a test website: http://www.shophive.com.how do i loop through each categori as well as the subcategori on the left side of the website? i would like to extract all product within the category/subcategori and display on my page.

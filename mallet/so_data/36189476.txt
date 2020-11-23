@@ -1,1 +1,1 @@
-Angular apps break when run in Electron
+i start build an electron app and i am encount some issu when i tri to run an angular distribut inside.for the angular app i'm use yeoman and grunt for building. if i develop the angular app with

@@ -1,1 +1,1 @@
-How to make Electron WebView fill specified size?
+i'v tri ad an electron webview to a basic app and set minwidth and minheight on it as shown below. when it load though it alway end up as 784px x 150px

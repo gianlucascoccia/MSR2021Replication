@@ -1,1 +1,1 @@
-How to create a perfect OS X tray icon (Electron)?
+i'm use electron and i would like to creat a nice tray icon under os x.i know how to put an icon on the system tray, but the problem is when i tri with icon i resiz (16x16, 20x20, 24x24, 32x32), it appear a black square.so how to creat a nice tray icon from an imag pleas ?

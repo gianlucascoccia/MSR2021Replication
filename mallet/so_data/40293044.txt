@@ -1,1 +1,1 @@
-Angular2 accessing binding instance variable within callback
+in angular2 i have the follow component: becaus the context of the this is not my class.how do i access my instanc variabl within the callback?

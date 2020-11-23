@@ -1,1 +1,1 @@
-Cannot start JS application packed by Electron. Uncaught TypeError: require.nodeRequire is not a function
+i pack our js web-appl by electron.ther is follow error when i tri to start this pack application: text.js: uncaught typeerror: require.noderequir is not a functionther is no function noderequir in our version of requirejs.a i understand version of requirejsfor nodej is differ from from version of requirejsfor browsers.what should i do to fix this problem?should i use in our web-appl other version of requirejs?or is it possibl to configur electron to avoid this error?

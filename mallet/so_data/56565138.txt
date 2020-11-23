@@ -1,1 +1,1 @@
-Unhandled Rejection (TypeError): keytar.setPassword is not a function
+i am tri to save a password use keytar.js, for some reason i keep get this error when use ani function from keytar.for inform : the lib. is instal and the function are there and present (i check use console.log) and they work just fine with catch().her is some code : if some can help , i would be grateful.thank you.

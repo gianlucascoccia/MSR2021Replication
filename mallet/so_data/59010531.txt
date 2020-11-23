@@ -1,1 +1,1 @@
-Electron ignores @css prefers-color-scheme
+i have made an electron project and now ad dark mode support to it.th problem is that it for some reason doesn't work. below is my but that is for the main process and i want it to be reflect in the frontend + i want it to updat automatically. thank in advanc

@@ -1,1 +1,1 @@
-Get mouse buttons in entire Windows screen with a npm module
+i am look for a modul that could help me to get mous button in screen (the entir screen) for my electron app.can you help me ?i tri hundr but all are link to the "window" paramet which doesn't exist in electron main.j script.thank in advance.

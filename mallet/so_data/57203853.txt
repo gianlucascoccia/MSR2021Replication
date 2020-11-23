@@ -1,1 +1,1 @@
-Spy on the electron.BrowserWindow constructor and return a mock object with jasmine
+i have seen that there are some other post on this site concern how to spi on constructors. i understood that i should overwrit the constructor in the prototyp of the extern library. which would be like spi on a function from an extern library, e.g.:

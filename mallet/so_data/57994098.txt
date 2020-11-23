@@ -1,1 +1,1 @@
-Self host 3 webapi's, MongoDB and angular app in a electron desktop app
+i have to implement the follow scenario. i have three web api's, a mongo db and a angular web app. i need to get them all togeth into a singl electron.net desktop client that self host those api , db and the angular part. can you suggest how to go about it. am total new to the web and electron world.what call do i need to make in electrn.net to host those api's.

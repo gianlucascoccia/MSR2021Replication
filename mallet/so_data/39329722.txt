@@ -1,1 +1,1 @@
-Electron App Linux - HTTP requests do not run until the terminal window is resized
+i have this bizarr issu on electron when run my app on linux. this is just a linux relat problem as this doesn't happen on osx or windows.bas i run note: i am run linux on a vm use parallels.thank for your help!

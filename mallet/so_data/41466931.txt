@@ -1,1 +1,1 @@
-Building electron app breaks my angular 2 app
+so after build my electron angular 2 app when i run it, my angular 2 app doe not work anymore. no error come up, but the app doesn't know how to rout anymor so it just get stuck at load accord to my index.html . doe it have someth to with how asar is pack up my app? what can i do to make it run again?fil structure:./package.json----->./electron/main.j

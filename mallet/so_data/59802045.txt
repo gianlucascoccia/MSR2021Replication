@@ -1,1 +1,1 @@
-Run sudo command without password prompt
+i have this electron app that execut a sudo command and i don;t want it to prompt for the sudo password each time so i ad the path to that command in the sudoer file: doe not solv the problem. that packag will ask for sudo password each time is invoked. i use it to onli ask for password onc so i can setup the sudoer file and then user regular exec with sudo.i there a way of execut a sudo command without password prompt in nodejs/electron, consid that the program is whitelist in sudoers?

@@ -1,1 +1,1 @@
-How much does it matter whether various "requires" are included in an Electron app?
+exampl 1:will exampl 2 load faster, take less resourc and/or work smoother in ani way? or is this practic meaningless? (assum you don't actual need to use menu-rel code, of course.)

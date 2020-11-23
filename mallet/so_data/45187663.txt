@@ -1,1 +1,1 @@
-How to make a application output for linux from nwjs?
+hi i am new to nwjs i made a small applic use nwjs and use this follow command to creat a build for linuxbut my applic is not opening. how to make this happen. can someon pleas help me with this?

@@ -1,1 +1,1 @@
-Routes transitions doesnt not work in nuxt.js + electron.js
+i use vue.j + nuxt.j + electronin global.css i ad next codebut transit effect doe not workhow to solv a problem?

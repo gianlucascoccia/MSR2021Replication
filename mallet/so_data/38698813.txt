@@ -1,1 +1,1 @@
-Alchemy C# Websocket handshake
+i use alchemi in c# for a websocket server. both firefox and chrome can connect to the server. but nodewekit give a error (it is the same page).in nodewebkit i get "websocket connect to ws://localhost:7980/ failed: connect close befor receiv a handshak response"i have no clue what to do now. doe someon has a idea? of a better c# server lib?thank already!

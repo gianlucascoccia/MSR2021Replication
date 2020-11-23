@@ -1,1 +1,1 @@
-Angular sources with REST services for both: web app and electron
+we thought about pack our exist angluar web app in an electron project, to run it offline.up to now, the web app load a configur by rest requests. in the electron app, this inform should locat in a local file.ani recommend how this can be done efficiently?mi first idea, mock the backend in an express server in electron doesn't seem pretti common. but redirect all rest request in angular also doesn't seem straigt forward to me.

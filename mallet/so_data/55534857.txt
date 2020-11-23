@@ -1,1 +1,1 @@
-Unable to create connection to mysql in electronjs and error show "ER_ACCESS_DENIED_ERROR"
+i have wrote a databas factori class which will handl databas relat oper in applicationa i have import it in render process (some abc.html) under script tag it is not connect to mysql and error show "er_access_denied_error"databas class

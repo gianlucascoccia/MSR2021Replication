@@ -1,1 +1,1 @@
-Using the 'before-quit' event in electron (atom-shell)
+i have a applic which need to make an api call befor it quit (someth like logout). as i still need access to some app data (redux store) for the api call so i decid to listen to the before-quit event on app.i tri the follow code: event was alreadi implement in that version. ani idea whi this event doe not seem to be fired?thank in advanc and happi holidays!

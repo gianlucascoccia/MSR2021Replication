@@ -1,1 +1,1 @@
-electron.clipboard.readText() returns empty string
+i tri to use how can i fix this?

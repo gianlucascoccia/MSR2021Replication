@@ -1,1 +1,1 @@
-Monaco editor in Electron with AngularJS
+i want to get the monaco editor up and run in electron. i found the electron exampl for monaco but they won't work in my app. all i get are error like:but as said: without the monaco loader.j file includ this is work fine.ani suggest how i can fix that? i want to includ the monaco editor in my electron app and in best case access it in my angularj direct and/or services. would simplifi my app compar to the ace editor.

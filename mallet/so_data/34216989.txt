@@ -1,1 +1,1 @@
-NwJS, and requiring client libraries
+i'm build a small app with nwjs, and natur i want to use some typic client-sid libraries. for exampl i have in my main app.thi seem like a major problem for nwjs, unless i'm miss something. how are you suppos to use client-sid librari with nwjs?(fwiw, there was an earlier question on almost the exact same topic, but it involv react.j which seem to have it own server/cli behavior so the answer didn't address the basic issue.)

@@ -1,1 +1,1 @@
-How to Disable Multiple Child Process in Node JS/ Node Webkit
+im new to node js and node webkit and i tri search for disabl multipl child process but unfortun i wasn't abl to find any.her is a sampl code that i want to disabl multipl notepad.ex and run onli 1 instanc of it only..thank

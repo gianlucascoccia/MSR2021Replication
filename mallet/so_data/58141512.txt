@@ -1,1 +1,1 @@
-Include a pdf in an electron.js window
+i have a web app that creat pdf file and show a preview. like soproblem is, it doesn't work e.g. in ie. so i want to make a desktop app use electron.js. accord to this post: >electron pdf viewer there is a pdf viewer in electron, but the ifram (or webview) is alway empty.i it somehow possible?

@@ -1,1 +1,1 @@
-electron-forge start failed due to failure on installing electron-prebuilt-compile
+i want to start creat app use electron-forg but it cannot instal npm dependencies.her is the error i am get after this command: `

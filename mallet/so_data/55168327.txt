@@ -1,1 +1,1 @@
-mapbox map does not show up in electron app
+i am learn electron develop and would like to integr mapbox into a dummi applicaton. i use electron-forg to initi the application. it work fine befor i add the mapbox in. with mapbox, the map doe not show up in the main area of the application.her my veri simpl code:ani help is appreciated.

@@ -1,1 +1,1 @@
-Electron frame: false not working
+for some reason in my electron app, whenev i set even, to no avail. my friend also claim his window frame is also not be remov on his mac as well. i'm current use electron version 1.8.2.

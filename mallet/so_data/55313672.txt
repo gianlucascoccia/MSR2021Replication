@@ -1,1 +1,1 @@
-How to use jquery to go to the next page or window in my Electron app
+i'm tri to creat a login system. i want the system to take me to anoth page "page3.htm" when i press the login button. i have been tri to test my system in jquery, but the code below doe not seem to work. whi is that?th "login.js" file contains:

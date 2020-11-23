@@ -1,1 +1,1 @@
-Codesign Electron App - How to gracefully switch certificates?
+i have an electron app that origin was distribut with a certif for an individu developer.i'd like to now sign the next updat to that app with a certif from my organization, but when i do so, exist instal (upon auto update) throw an error that the code requir aren't met.i there a way to proper sign an electron app with both the old and new certificate? i'd like to prevent my exist user from be interrupted.ani help appreciated!thank

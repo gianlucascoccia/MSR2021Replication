@@ -1,1 +1,1 @@
-Electron App -How to automatically log out a user after inactivity for 15 minutes?
+i am make an electron app and wonder how i can automat log out the user after be inact for let say 15 minutes! thank a lot!

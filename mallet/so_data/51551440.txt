@@ -1,1 +1,1 @@
-Create-react-app Module not found: Error: Cannot resolve module 'child_process'
+this in the begin and there it could not get child_process module. i am not sure how to resolv this, can someon help me out in this?

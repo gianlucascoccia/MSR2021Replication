@@ -1,1 +1,1 @@
-Catching downloads / saving backups in Electron
+is it possibl for me to "catch" the download that occur in my electron app and save backup of them or automat save them in a given folder? i do have express setup, if that helps. the download i'm tri to catch is occur in an iframe.i'v been look into electron download manag but i can't get it to work the way i want and the document onlin isn't much for my specif case.what i'v tri is this, in my main/index.j file:&#xd;&#xd;&#xd;&#xd;&#xd;

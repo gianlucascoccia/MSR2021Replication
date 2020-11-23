@@ -1,1 +1,1 @@
-How to create a snapshot of .js file -> webkit nwjs v8
+can somebodi pleas explain me how to make a snapshot of javascript file in nodewebkit (now known as http://nwjs.io/) aplication. i found this wiki https://github.com/nwjs/nw.js/wiki/protect-javascript-source-code-with-v8-snapshotbut i cannot find nwsnapshot aplication.or where i need to input code (nwsnapshot --extra_cod mytest.j mytest.bin) to convert - compil it?

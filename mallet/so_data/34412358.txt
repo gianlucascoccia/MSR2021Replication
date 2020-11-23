@@ -1,1 +1,1 @@
-node webkit doesn't launch with '#' in folder name
+i have the follow node webkit versionit open a window with the list of file and directori in download folder. ani idea whi it behav so ?also on macosx i am unabl to launch it if i have a # in the directori name.th error got is uncaught referenceerror:requir is not defin not allow to load local resource:i understand in both case that special charact is caus the problem but is this some sort of a command to node webkit ? if there is ani such refer it would be help to know that.

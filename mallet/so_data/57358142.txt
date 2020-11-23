@@ -1,1 +1,1 @@
-serialport.io list returns empty array for virtual Com ports
+i am use com0com for set up virtual com port on windows. mode command in cmd is show me the list of virtual coms, but when i tri use list function from the serialport.io modul in my electron app it return me an empti array.note: it is work fine when i connect actual devices, not work onli in case of virtual com ports.it is work fine for a few day on my pc but sudden stop work after a few days.

@@ -1,1 +1,1 @@
-Require ('ffi') throws error in Electron application
+i am work on an electron.j applic and need to use the ani ideas?

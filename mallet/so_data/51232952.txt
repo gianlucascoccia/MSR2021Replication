@@ -1,1 +1,1 @@
-material dialog causing memory leak
+my app stack is angular5 and electron2, use also angular materi 2.tri to solv a memori leak, i notic that each time a materi dialog is opened, anoth detach dom tree is added. i can't find anyth differ in my code compar to other similar projects, which do not have this kind of behaviour. i'v ad .edit:

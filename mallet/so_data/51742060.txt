@@ -1,1 +1,1 @@
-Electron default entire proxy
+i find my question is like this https://github.com/electron/electron/issues/5449ther are a lot of request in my application, e.g, oauth request, load onlin image.i wonder how to set default proxi to my entir electron application.thank !!

@@ -1,1 +1,1 @@
-Javascript onclick not navigating between pages
+i have one html file , it doesn't render the page. whi isn't this working?

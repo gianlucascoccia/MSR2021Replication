@@ -1,1 +1,1 @@
-Continu after error event Node.js Webkit
+my app aim to scan a proxi list.when i have a dead proxi the error event is call but the callback or the end event is never call, whi ?

@@ -1,1 +1,1 @@
-How to setup serial port connection using NW.js and chrome.serial API?
+i think i can communic with serial port in nw.js without such depend as node-serialport with precompil binari for differ platforms.pur node.j can't accomplish this task. but there integr chrome api in nw.js and it has api, that can be use direct in javascript to setup serial port connection.how to implement this?

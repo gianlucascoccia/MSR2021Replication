@@ -1,1 +1,1 @@
-Electron - Update window message
+i am use squirrel for updat in my app(electron).and i'm look for nice way to display releas notes.someth like this:wher can i found inform about this? how can i make my messag window look like this?

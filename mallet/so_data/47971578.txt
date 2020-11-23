@@ -1,1 +1,1 @@
-How to let electron app open all links started with "http://" or "https://" and with target="_blank" open in browser instead in app
+how to let electron app open all link begin with "http://" or "https://" and at the same time with target="_blank" open in browser instead in appi want it without addit modul like node-open(sri for my english, googl translator)

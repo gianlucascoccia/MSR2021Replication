@@ -1,1 +1,1 @@
-Node.js/electron: How to Identify the process is windows process or other application process
+i am work on an applic which give top 5 cpu usag applic names. currently, i have got top 5 applic from the follow code:output imagebut i am unabl to identifi whether the process(pid) is of window servic or other application. in short, i don't want to show ani system service. is there ani other way to identifi this?

@@ -1,1 +1,1 @@
-Choose default webcam for node-webkit
+i have a node-webkit applic that is use recordrtc to captur a snippet of video. i'm run the applic on a window surfac pro 3, and need the front-fac webcam to be use instead of the back-fac one. i know there is a set in chrome to chang the default webcam, but how do i configur this in node-webkit?

@@ -1,1 +1,1 @@
-angularjs with nw.js not working. ng-src attribute
+problem with the ng-src attribute.i run the project on localhost in the pictur are display correctly.

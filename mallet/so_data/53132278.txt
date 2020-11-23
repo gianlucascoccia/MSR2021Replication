@@ -1,1 +1,1 @@
-Bundle PHP7 with electron VCRUNTIME140.dll error
+i'm use for the first time the npm modul electron-packager. i want to bundl insid my app the compil version of php. i'v download it from the offici websit and i'v place it insid a folder of the app name is missing. i'v found some question here on so where is explain whi this error happen, and it suggest to instal vc14 to solv the issue. i'm test the window app generat on a virtual machine, is there ani way to includ the vc14 setup insid the app and then when app start if this depend is not installed, run the setup process?

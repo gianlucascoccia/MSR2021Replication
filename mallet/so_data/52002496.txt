@@ -1,1 +1,1 @@
-How to convert Electron files from 'require' to 'import' for use with TypeScript? Angular2+
+i have follow the offici electron tutori along with a few other onlin and creat the file associ within my directories. however, the file shown in the tutori are javascript rather than typescript as i am use this within angular.i there ani way in which the file i have creat can be convert from use

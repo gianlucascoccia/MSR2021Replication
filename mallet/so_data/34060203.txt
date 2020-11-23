@@ -1,1 +1,1 @@
-nedb with electron and angularjs
+i am work with the electron and nedb, but i am face some error here is my code

@@ -1,1 +1,1 @@
-"Range out of order in character class" regex error in electron but not chrome
+so this is a somewhat exploratori question, and mayb just a bug. our bundl includ a packag call autolink (https://www.npmjs.com/package/autolinker) which make some complex regex to turn raw string into string with mayb browserwindow could be configur differ and i'm miss something? mayb an electron bug. anyway just throw it out there for ani lead / opinion / advice.

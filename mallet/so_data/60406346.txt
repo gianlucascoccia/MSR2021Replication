@@ -1,1 +1,1 @@
-Unable to access new set value out of ipcRenderer scope - electron javascript
+i am tri to updat the valu of a variabl in my ipcrenderer.on('send profil back',function(..)..)cal but my variabl is not updat to the new valu when i call it outsid of the scope. in my consol i get undefin for profilechosen variabl but insid the ipcrender function i get the correct profilechosen values. profilechosen is a profil class.main processor

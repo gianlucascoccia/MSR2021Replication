@@ -1,1 +1,1 @@
-Notarizing Electron apps throws - "You must first sign the relevant contracts online. (1048)" error
+i am tri to notar an electron app to make it run on maco catalina. the packag was success but the it is throw you must first sign the relev contract online. (1048) error. i am unabl to proceed with the app signing. help!ps: electron-notar packag is throw the same error.

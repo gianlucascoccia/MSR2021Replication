@@ -1,1 +1,1 @@
-In Electron app how do you reference the temp path?
+learn electron i'd like to do some file process after a drag and drop. on a mac the equival for tmp is a .

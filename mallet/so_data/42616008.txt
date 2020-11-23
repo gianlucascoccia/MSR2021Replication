@@ -1,1 +1,1 @@
-node module version conflict when installing modules for electron
+i'm tri to make an electron applic (https://electron.atom.io/) that read data from my serial port. i'm new to web technolog in general, i know some javascript, but i'm a c++ guy. so i pull in their quick-start from github, ran

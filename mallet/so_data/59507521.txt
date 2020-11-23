@@ -1,1 +1,1 @@
-How to set ElectronJs default margin when printing
+i have a receipt printer connect to electron app, when print it show big margin on print receipt.what i have done so far:thank you in advanc

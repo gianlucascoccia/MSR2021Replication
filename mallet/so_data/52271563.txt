@@ -1,1 +1,1 @@
-setting global variable in ipcRenderer.on eventhandler running ionic on electron does not work
+this is my code in home.t to receiv valu from main-process

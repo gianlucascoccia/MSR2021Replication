@@ -1,1 +1,1 @@
-How to use Electron's <webview> within Angular2 app?
+i tri to use electon webview tag insid my angular2 app, but when i add the src attribut bind to an angular2 variable, the follow error occurs:how can i introduc the webview element to angular2?

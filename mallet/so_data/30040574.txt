@@ -1,1 +1,1 @@
-Can Polymer extend Electron's webview component?
+in electron (atom-shell), i'm tri to use polym 0.5 to extend electron webview tag (to add some custom attribut while retain all of webview methods). but i'm get a notsupportederror when i tri to use my custom component. is there a way to make this work?her how i'm extend the webview: doesn't realiz it a custom element.i there ani way to work around this and convinc polym that webview need to be extend through inheritance, like other custom elements?

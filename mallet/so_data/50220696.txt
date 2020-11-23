@@ -1,1 +1,1 @@
-electron blank screen on raspberry pi 3b
+i want to use electron js in order to build a desktop app, which will run on a raspberri pi 3b. i'm develop the app on my macbook. there, i can use the command line, so actual the chromium dev tool should start, but they don't...thank for your help.

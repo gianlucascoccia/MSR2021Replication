@@ -1,1 +1,1 @@
-find only matching elements from a JSON array in Ne DB/react native-local-mongo/mongo db
+i am tri to read onli match key from a json with a nest array.her is my json.can someon help me where i am do it wrong and what need to be changed?i am use this librari which is a clone of mongodb call ne db.

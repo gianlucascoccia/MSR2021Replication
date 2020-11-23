@@ -1,1 +1,1 @@
-Cannot read property 'send' of undefined Electronjs Error
+im tri to send some data back to my main page within electron but im have some troubl as im current get the error shown in the title. i'v tri some solut that are on stackoverflow but none seem to be work for me or i did not implement them correctly. ani suggestions/help would be appreciated.main.js:

@@ -1,1 +1,1 @@
-Problem with Electron , Creating screenshot application
+i'm creat a tray applic use electron to take screenshot when i press a given shortcut. as of right now, i'm abl to get a print when i click my test button on the window i created, but when i remov the window from the code and tri to call the print method use a shortcut, i get the follow error: "cannot read properti getsourc of undefined"do you guy know how to help me ?

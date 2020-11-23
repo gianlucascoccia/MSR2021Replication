@@ -1,1 +1,1 @@
-Angular 4 + Material - Unexpected directive 'MdHorizontalStepper
+i'm tri to use angular materi horizont stepper in my app. i found it here https://material.angular.io/components/stepper/overview.but when i import it i get this error.

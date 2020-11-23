@@ -1,1 +1,1 @@
-How to change Electron processes' names in development?
+i'm use vscode debugg to run the app. i want to chang the name of the electron process to be the same as the packag app (packag with electron-builder). is this possible?thi is what mine look like now:thank in advance!

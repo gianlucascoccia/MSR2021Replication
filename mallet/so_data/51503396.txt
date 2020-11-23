@@ -1,1 +1,1 @@
-How does Google Analytics detect browser/version?
+we'v built an electron app, and are run a webapp with googl analyt insid one of a webview tag. however, all traffic is show up as from chrome, not from our app name (and we want to differentiate)we'v tri sever differ user agents, and traffic keep show up from chrome. user agent we'v tried:default electron: is there a way to set the browser and browser version detect as our custom app name in googl analyt via the js api? are we do someth wrong with the user agent?

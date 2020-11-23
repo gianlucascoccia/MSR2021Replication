@@ -1,1 +1,1 @@
-Correct way to return exception information from main process to renderer process
+in electronjs, what is the recommend way to return except inform from main process to render process? eg: instead of throw an except in the main process below, how should i chang the code to handl the except and pass this inform to the render process? in my exampl below, the user will input a youtub url that might be invalid. i would like to handl the except and provid the user a messag to check the input youtub url. main.js:

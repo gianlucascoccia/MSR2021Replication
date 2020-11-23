@@ -1,1 +1,1 @@
-Share cookies between electron and chrome?
+is it possibl to share cooki between an electron app and chrome?when run an exampl electron app with example.com i'm set a cooki using:i was expect that when i navig to example.com in chrome to see that my cooki was set. again, is it possibl to share cooki between electron and chrome?

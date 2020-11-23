@@ -1,1 +1,1 @@
-How to disconect listen port ( http ) in Nodejs
+for example, it is a tunnel, and i want to shut down for 10 minut and then after the timeout would listen in on again. this socket has my packet to the node-webkit. i'v tri sever time but still fail and error.how do i total stop the listen port without have to shut down the node-webkit ?

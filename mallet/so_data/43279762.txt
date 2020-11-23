@@ -1,1 +1,1 @@
-Electron win.setMaximizable(true) not working
+i am work on an electron where i allow user to enabl or disabl window full screen. i am use i have no idea whi this error is come although win object is defined. or is there ani way to set window properti from a render process. help is required.

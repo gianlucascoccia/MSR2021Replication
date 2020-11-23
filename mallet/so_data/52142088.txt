@@ -1,1 +1,1 @@
-Cannot Find Module 'blueBird-lst' in Electron.js
+everytim that i close my app, it is still run but hidden (i see it when i open the task manag and see the process is still running), and when i doubl click to open the app again, that when the error show and close the app."uncaught exception:error: cannot find modul bluebird-lst'"

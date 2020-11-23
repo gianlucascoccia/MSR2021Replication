@@ -1,1 +1,1 @@
-Run react app in electron but not on localhost
+is there ani way to prevent access the app through localhost?it should onli be seen insid the electron app so if you navig to localhost:3000 it should display "can't reach website".at the moment npm start call , which doesn't open a new browser window on localhost:3000, but if you do that manual it still show the same content as it doe in the electron app.

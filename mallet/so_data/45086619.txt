@@ -1,1 +1,1 @@
-Using "os" module from native nodejs (electron) C++ code
+i wonder if it is possibl to use the "os" modul intern in nativ module, without pass it over as a param from javascript.it one of the core nodejs/electron modul so i assum it should be avail in nativ modul intern some way or another.

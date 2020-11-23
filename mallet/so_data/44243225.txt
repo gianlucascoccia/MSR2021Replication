@@ -1,1 +1,1 @@
-Electron global variable does not persist between route/URL changes on React page
+i'm current develop an electron applic that is wrap a client websit (which is written in react).i'm use a preload script, and i'm defin a global variabl like so:when i import and call dofoo from the land page, everyth work fine.when react chang route/url, i get uncaught referenceerror: foo is not defined.how do i make sure the global variabl is truli global and persist between rout changes?

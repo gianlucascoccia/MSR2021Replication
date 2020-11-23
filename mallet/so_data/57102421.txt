@@ -1,1 +1,1 @@
-How to make desktop application remeber user input?
+alright, so i'm work on a new project of mine. it basic a launcher/hub for .ex programs. so i want each user to be abl to add their desir .ex program to the launcher. but how do i make it so that the launcher rememb each user input for the next time they open the launcher? do i need to setup and connect to a databas for this? i am write this softwar in html/css/javasript through electron forg + nodejs. thank for time and help.

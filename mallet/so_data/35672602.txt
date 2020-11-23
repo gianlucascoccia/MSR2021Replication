@@ -1,1 +1,1 @@
-How to set electron UserAgent
+i need to set the userag in electron to includ the flag sinc i am write the applic for touch screen and it doesn't seem to auto detect that it is run on a touch screen.ani help would be nice, i alreadi tri set it in the browserwindow.loadurl option param.

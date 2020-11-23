@@ -1,1 +1,1 @@
-How to set different icon for different file extension types in electronJS?
+os: windowstech stack: electronj with electron-build npm packagei am use the configuration?for example, icon a.ico for file extens abc and b.ico for file extens xyz that my applic is the default for?

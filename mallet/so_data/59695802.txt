@@ -1,1 +1,1 @@
-How to postMessage from Electron to Web (opener)?
+i alreadi open a electron app from a web use deeplink (window.open('appschema://`)),but i want take action when app is not installed,mi idea is do some like window.opener.postmessag from electron to see send a messageto chrome web. but i dont know if is possible.cod in my web:thank !

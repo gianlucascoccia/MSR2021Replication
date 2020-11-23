@@ -1,1 +1,1 @@
-Strange multi-threaded behavior in electron's renderer process
+consid the follow code.) and observ a node-n effects. all other combin (browser -> node, node -> node, browser -> browser) paus all execution, as expected.how is this possible? it almost like electron has two javascript run loop that are kind of weld togeth and the debugg onli affect the "browser's" run loop.if this is the case, are there thread implic of this behavior? do i have to add lock to the code that is share between node and browser-bas callbacks?

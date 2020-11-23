@@ -1,1 +1,1 @@
-Package APPX in APPXBUNDLE
+i current have one uwp app submit in the window store, now i want to publish an update. this updat is base on electron, so it not an uwp app anymore.i just want to submit the electron applic to the window store, but i am get this error message: file and then submit the app to the window store?thank

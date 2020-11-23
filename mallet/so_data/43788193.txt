@@ -1,1 +1,1 @@
-Spectron test sequential actions
+i am test electron applic with spectron. i have found in document exampl on how to get number of window and it is quit trivial. but what i am look is how to check the state of one element after i have click on anoth element. here i am tri to check if applic is visibl after i have minim it. but this test alway pass, for true and for false.i am use mocha with chai asserts. pleas advis on how can i check if applic ( or particular element is visibl ) after i have click on anoth element.

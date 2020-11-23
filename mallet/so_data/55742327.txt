@@ -1,1 +1,1 @@
-How to send data between electron ipcMain and angular ipcRenderer asynchronously with observables
+i have an ipcmain and ipcrender processes(electron and angular side). how can i rewrit my code in order to receiv data from main process asynchronously? connect to the databas is done use typeormth render side (data.service.ts):

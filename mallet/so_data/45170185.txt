@@ -1,1 +1,1 @@
-Setting Default Keyboard Layout for Electron Application on Windows (Unable to copy UTF-8 text propely)
+we have this problem where a farsi utf-8 text that is programmat copi from an electron application, lose encod when past into one specif applic and is display as a set of .

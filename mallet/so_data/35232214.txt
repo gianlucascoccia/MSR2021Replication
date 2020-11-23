@@ -1,1 +1,1 @@
-Electron Node.js node localstorage osx mkdir permission denied
+i am work with electron and node.js. we have develop an applic that work fine on window and as a requir had to packag it for mac os. i packag the applic use electron-packager, the packag process complet and packag is generated. doubl click it throw an error that permiss deni for mkdir, as i am use node localstorag to maintain some set on the user local machine. somehow mac doesn't local storag to creat folder in the root of the application. ani help in this matter will be great. thank

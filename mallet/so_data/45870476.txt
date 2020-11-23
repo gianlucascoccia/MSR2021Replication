@@ -1,1 +1,1 @@
-Travis CI deploy build file not in git repo
+hi i need a bit of help with set up my travi ci deployment.i think the sourc of the issu is that in the github repo i do not have the build file i want to deploy. as in

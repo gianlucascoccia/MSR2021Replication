@@ -1,1 +1,1 @@
-Cannot load bcrypt on Windows 8.1 64-bit
+i make a sampl (electron-template) to use bcrypt. i instal bcrypt without error by to make it) everi time:p.s: this sampl work fine on mac 10.11mi environment: node 4.2.2 npm 2.14.7 bcrypt 0.8.5 window 8.1 64-bit

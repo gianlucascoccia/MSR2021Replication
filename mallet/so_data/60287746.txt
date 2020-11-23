@@ -1,1 +1,1 @@
-How to package a compiled binary with electron-builder on Mac?
+i have a mac electron app that call a compil binari that i wrote when a button is pressed. the way i have it set up is:th binari (let call it creat a folder contain the app and it files, but on mac, everyth seem to be condens into one application. i'v tri follow this exampl but it seem specif to ffmpeg/i couldn't get it to work.clear i must be miss something--do anyon have ani ideas? thank you!

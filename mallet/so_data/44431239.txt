@@ -1,1 +1,1 @@
-Electron window handler didn't work with Unity on win10
+i tri to launch an uniti exe in an electron window. for that: i get my window handler id with from uniti doc.on win7 and win8 my window display the uniti application, but with win10 i get a blink window who sometim display my uniti exe.if i launch my uniti exe on anoth window, firefox for example, it works. but not on slack or atom (electron apps).do you got an idea ?

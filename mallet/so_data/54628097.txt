@@ -1,1 +1,1 @@
-Send some data from front end window to electron browser window
+i want to send an object from front end window to electron end. i tri this: html: and didn't see anyth in console. what can be wrong? thanks!

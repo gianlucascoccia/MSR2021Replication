@@ -1,1 +1,1 @@
-Facing problem while running Electron+React Application
+i have creat electron+ react desktop application. i am face issu when i tri to load with "index.html" becaus it is load onli simpl js and not jsx(react code).pleas guid me through this.thi is in main.jsmainwindow.loadurl();thi is my index.html load index.j which has react coderequire("../src/index.html") thank

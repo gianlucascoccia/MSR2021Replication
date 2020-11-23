@@ -1,1 +1,1 @@
-How to use electron-print in axios then function
+i want to use electron-print in axio then function. how to access printer object in then function ?

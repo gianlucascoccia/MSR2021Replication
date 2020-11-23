@@ -1,1 +1,1 @@
-Convert node js module in to NW JS module
+i an use nw js to creat a desktop applic ,and i don't want to instal node js . i need to convert https://github.com/sciencevikings/iconextractorthi node modul into node webkit modul .what all are the step should i follow to do this?

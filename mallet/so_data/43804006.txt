@@ -1,1 +1,1 @@
-Intergrate pdfmake library with angularjs running with nodejs inside electron client
+i need to intergr pdfmake librari where i instal the pdfmake usingnpm instal pdfmake --savei got the modul insid node_modul and i have includ the librari to the app.j but in runtim im get an error with the pdfmake font js (vfs_fonts.js) seem like the app hasnt includ the font js file. is there ani solut on how to includ the font js file. this librari solv all my requir on pdf make includ export, preview and print features.

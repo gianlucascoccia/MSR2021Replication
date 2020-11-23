@@ -1,1 +1,1 @@
-How to integrate Nedb with electron
+i'm make an app in electron and i want to use nedb as it database.i'v tri for a coupl of day to get this to work all in vain unfortunately.i'm use electron with vuejsani help is great appreciated.

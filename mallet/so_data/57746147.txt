@@ -1,1 +1,1 @@
-javascript electron function shell.openExternal(url) take time to open link
+i have a problem with a javascipt function use on electron.when i click on my call button i need to wait 2 min to see my link open on the default maco browser.when the page is open from the first click two min ago, when i click again on button it now intant to open the link i can open it 10 time in 10 sec.whi i need to wait 2 real minut for the first apparit of the link on my chrome browser. note that i'm actual on maco

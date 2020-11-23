@@ -1,1 +1,1 @@
-Electron Hiccup on heavy calculation in the Main Process
+i am build an electron app. i am wonder whether the render process and main process are realli separ processes. sometim when i do heavi calcul in the main process, it caus the render process (the window and it content) to becom unrespons for a split second; some css anim get stalled.i it normal? is there ani workaround to avoid this hiccup'?

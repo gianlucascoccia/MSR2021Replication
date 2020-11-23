@@ -1,1 +1,1 @@
-Electron, Closing "sub-window" from main window
+i have a is not defin here. how can i do this?.i know that i can merg both file into one, but is that a better practic and i'm do it wrong? thank in advance. i know is quit a long question but i just want to make everyth as clear as possible.

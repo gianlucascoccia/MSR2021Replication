@@ -1,1 +1,1 @@
-electron browser javascript error
+i am veri new to node, javascript, and electron. i am just tri to write a simpl app that open a local html file in a browser window. the local file has some complex embed javascript (tiddlywiki). here is some sampl code (i did not use local file in this one, but the result is the same):i assum this is becaus of some integr of the node.j object model? sorri for the lack of understanding. thank in advanc for the help.

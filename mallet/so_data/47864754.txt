@@ -1,1 +1,1 @@
-Angular 2 component not navigating to another component
+i am new to angular, design a cross platform desktop examin applic in electron. while the exam is submit the compon doesn't navig to result component, but when i click somewher els on the view, then it navig to anoth component.her is my submit code:

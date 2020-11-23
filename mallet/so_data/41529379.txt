@@ -1,1 +1,1 @@
-node-webkit not minimizing to tray if window.location.href is set
+window 7 x64, nwjs 0.19.4minim to tray work fine without set window.location.href, but when set nwjs will not minim to tray.revis code per request:index.html

@@ -1,1 +1,1 @@
-Cannot create a virtual environment for python by using node.js command line , terminal libraries from electron
+im tri to creat a graphic user interfac use electron to creat virtual environ for pythoni tri out follow librari node packag as well, and it say it doe not support shell.exec for electron library.how may i use nodej to creat a virtual environ for python?

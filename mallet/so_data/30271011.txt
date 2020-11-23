@@ -1,1 +1,1 @@
-Electron - jQuery Errors
+i'm work on an electron project, and when attempt to includ jquery, i get this error:i'v attempt to use the way that was recommend in the electron issu page (window.$ = window.jqueri = require('./../js/jquery.min.js');). it alway throw this error though.ani ideas?

@@ -1,1 +1,1 @@
-Electron block using shortcut CTRL + minus button
+i need block in my app in electron shortcut is block correctly.

@@ -1,1 +1,1 @@
-How to unpack an .asar file?
+i have pack my electron applic use follwo commandnow, i need to unpack it and get the whole code back. is there anyway to do so?

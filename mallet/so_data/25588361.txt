@@ -1,1 +1,1 @@
-Why is the output always [object Object]?
+i am attempt to creat a function to run an adb shell command, and return the output to the console, but the onli return i am ever get is [object object]

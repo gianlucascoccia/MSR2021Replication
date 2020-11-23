@@ -1,1 +1,1 @@
-Using Material-ui with Electron
+i am build out an electron app with react and tri to use material-ui for the ui elements. i ad a datepick and timepick to a compon and the input show up in the electron app, howev when you click on it, noth happens. not sure what i'm miss in order to get this to work correct compon :

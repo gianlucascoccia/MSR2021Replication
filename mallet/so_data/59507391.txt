@@ -1,1 +1,1 @@
-"Windows cannot access the specified..." .Exe's made by electron-packager nor electron-forge
+i'm on a win 8.1 x64 machine. when i tri to run the generat window binaries, i get a window error message. window cannot access the specifi device, path, or file. you may not have the appropri permiss to access the item. what i'v tried:i'v check permissions, my uac account alreadi had full control.i switch from use

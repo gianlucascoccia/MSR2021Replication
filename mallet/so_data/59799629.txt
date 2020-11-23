@@ -1,1 +1,1 @@
-Input fields dead after clearing them
+in my electron app i have a function to clear my input field on a button press, but after use it i can't click and type into input anymore. however, if i open up the inspector window, they work again.whi doe this happen and how do i fix it?electron app main.js:

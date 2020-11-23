@@ -1,1 +1,1 @@
-Webpack/electron require dynamic module
+i'd like to requir a modul on a folder, as a plugin. so i want the user to be abl to add javascript file into an alreadi compil electron/webpack applic and have my applic load and execut it. so it would be like a plugin system. i have tri requir everi file insid the plugins/ folder but it turn out that it just get bundl into bundle.j when compiled, and i want to be abl to chang it after compiled, like a plugin. how can i accomplish this?

@@ -1,1 +1,1 @@
-Enabling Accessibility
+how can add this code to electron applic from mac os?i'm confus by the instructions: https://github.com/electron/electron/blob/v2.0.0-beta.6/docs/tutorial/accessibility.md#enabling-accessibilityy i am beginner, i just want to learn about this electron feature. thank .

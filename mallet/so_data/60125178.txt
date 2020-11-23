@@ -1,1 +1,1 @@
-Electron: How do I populate a menu from a render process?
+i would like to creat a menu of favourit or recent open document for an electron application. i can easili track these document onc they have been opened, but how can i dynam add them to a menu?what i have learn so far:creat an menu in the main process: menu above.

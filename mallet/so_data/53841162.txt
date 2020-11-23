@@ -1,1 +1,1 @@
-How do you check if a file exist locally with an electron app
+i am tri to see if a file exist local like this:however, i get exist in the consol whether the file exist or not

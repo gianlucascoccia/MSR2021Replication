@@ -1,1 +1,1 @@
-createReadStream pipe not working in electron 1.6
+createreadstream pipe not work in electron 1.6. it was work for 1.3 version. but now when i updat the version of electron, it not working. pleas refer the code below.what i am miss in the new version?

@@ -1,1 +1,1 @@
-electron frameless window auto maximize when drag to the top (windows 7)
+a normal program, when mous click and drag window topbar to the top of screen, this program will auto fullscreen in window 7+ systembut when i use electron without the frame, and use electron-drag packag to control move it, then, what can i do, to let it auto fullscreen when drag to top, and drag left side cover left screen, drag right side...thank

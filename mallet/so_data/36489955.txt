@@ -1,1 +1,1 @@
-Combine multiple atom/electron apps
+is there a way to load an electron app insid anoth electron app?i would like to have the effect of an host electron app and multipl electron app insid iframes.th concept is to have multipl electron app as widget instal through a main electron app. for exampl i want to have one window whereyou can see a twitter client app and facebook messeng app as tab of a main window. it doesn't matter if size of the app get big.

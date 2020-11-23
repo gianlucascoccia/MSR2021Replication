@@ -1,1 +1,1 @@
-change protocol in electron main.js
+when tri to use firebas ui for login in electron app, i come across this issue: this oper is not support in the environ this applic is run on. "location.protocol" must be http, https or chrome-extens and web storag must be enabledbut i cannot chang the protocol in loadurl in main.js, do you have ani idea how can i make the firebas ui think that the protocol is http?

@@ -1,1 +1,1 @@
-Why electron application after building package and installation on Windows OS removes aria-attributes
+i build the electron app use the packag electron-builder, after that, i instal the app to window os. and tri screen reader to read the login page but not abl to read, after inspect the element i found that aria-attribut are not there even "for" attribut is also. see below imag of html code in chrome devtool -but when i run the app from visual studio code use command "npm start" then the area attribut are there and screen reader can read and speak perfectly.

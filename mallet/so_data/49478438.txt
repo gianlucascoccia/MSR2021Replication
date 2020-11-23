@@ -1,1 +1,1 @@
-fs.writeFile is not a function in angular2+electron
+i have electron + angular2 project.i need to creat file and save it local after user registers.in my register.component.t file i'm tri to use to webpack.common.j file.now i'm get error typeerror: fs.writefil is not a functionani idea what might caus that?

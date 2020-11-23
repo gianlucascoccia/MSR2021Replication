@@ -1,1 +1,1 @@
-Click the button using Electron and Nightmare
+that is my code. i want to click the button and get the html of the next page. but i want to use nightmar and electron. i don't know how to do this. mayb about the async and form submit and action.

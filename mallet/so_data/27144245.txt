@@ -1,1 +1,1 @@
-How to use Google Analytics in Node Webkit desktop apps
+i am build a desktop app with node-webkit, howev i can't seem to get googl analyt to work. i have tri the generat javascript method, i'v tri the npm googl analyt module. i can't seem to get pageview event to my analyt account. what are the method for track views/usag in a node-webkit desktop app? cheer

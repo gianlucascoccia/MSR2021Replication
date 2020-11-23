@@ -1,1 +1,1 @@
-Why Electron-Angular project gives the GL ERROR while build
+my project is built on angular-7 &amp; electron-6. the os of my pc is ubuntu-18.04. when i build the project it show the error bellow. the code snippet is bellow:main.js:th error are:gl error :gl_invalid_oper : glbufferdata: &lt;- error from previous gl commandfail to load modul script: the server respond with a non-javascript mime type of "". strict mime type check is enforc for modul script per html spec.

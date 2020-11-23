@@ -1,1 +1,1 @@
-How to import Nightmarejs into angular-cli component
+i'm go to make gui scrapper with electron &amp; nightmare.howev when i use just plain html/js as describ in electron quickstart, all work well.but i'd like to make electron app nice by use anugular2(angular-c webpack).i creat project it is possibl to interact with angular2/nightmar insid electron app?

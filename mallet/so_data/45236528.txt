@@ -1,1 +1,1 @@
-Angular 2 electron project compiling is having problems
+i am come back to a project i have not dealt with in a while, on a new machin and i am have problem compil and run it.thi is my configuration:nod version v6.11.1npm version 3.10.10this is my package.json file:

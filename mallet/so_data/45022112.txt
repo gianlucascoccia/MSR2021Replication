@@ -1,1 +1,1 @@
-Electron Builder: Not allowed to load local resource: app.asar/build/index.html
+i have an issu when use electron builder i got blank page and error in console:

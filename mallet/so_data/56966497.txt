@@ -1,1 +1,1 @@
-binding.gyp: How to use "copies" section to copy files in multiple location
+i am write code to load c++ dll from electron. i am use node-gyp. in my binding.gyp file i use "copies" tag to copi dlls to releas folder. howev i want to copi few more file to be copi to a differ location. i tri hit and trial method to do it but was unsuccessful. here is how my binding.gyp looks:

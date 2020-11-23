@@ -1,1 +1,1 @@
-How to drag a modal window's parent window
+so in electron i have a parent window, and on a ipc event it open up a child window, how would i open up the child window (which is set to a modal window) but still be abl to drag the parent window? so i want the parent window of the child modal window, to still be abl to be drag even though the child window is a modal one

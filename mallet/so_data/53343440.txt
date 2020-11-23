@@ -1,1 +1,1 @@
-Electron - Messages from Main to Renderer result in empty object
+i have an electron applic that send file metadata as an object from the main process to the render process via ipc (use electron built in .

@@ -1,1 +1,1 @@
-Change cache path for electron js application
+by default electron store the cach in the follow path,c:\users\\appdata\roaming\\cach for some reason, i want to chang this path, is it possible?

@@ -1,1 +1,1 @@
-How to control electron.js app?
+i'm new to electron.js.i creat a game use html,css and javascript. right now the app is run offlin on the client side.but i want to access,analys and chang that app.on way this can be possibl is to load game resourc from a server,so i can have complet access and control over app.but i don't want to put heavi duti on server.bas i want app resourc load from the user computer,also i want to control app.th electron.j app should be abl to work offlin also.how can i achiev this?thanks.

@@ -1,1 +1,1 @@
-Electron,Spectron: how to write test cases in seperate javascript file
+i am test electron applic use these technologies, spectron, chai, chai as promis i want to write my test case in separ file, except all in one file.her what i'v tried, simpli i want to write case 1 and case 2 into seper file, from test initi file.

@@ -1,1 +1,1 @@
-Sorting both directions in vuejs
+i have a basic applic (as i am a complet beginner) in electron + vuej 2.x and i am look to have a sort function for v-for list. i have got it semi work in that i can sort but i would like to sort in revers if a second click is applied. i am not sure the best way to go about this and mayb my current path i am head down need refinement. pleas let me know how i can achiev this.i was use selectedcategori to track the current categori and if it came up twice would run &#xd;&#xd;&#xd;thank

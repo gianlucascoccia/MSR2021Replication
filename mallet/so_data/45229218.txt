@@ -1,1 +1,1 @@
-Unable to build with electron-packager within electron-forge
+i have creat a default project with electron-forge. when i tri to packag my project with the command thank you for your time.

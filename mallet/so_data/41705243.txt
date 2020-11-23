@@ -1,1 +1,1 @@
-Is it possible to receive Web Pushes in an electron app?
+is it possibl to receiv web push in an electron app?i don't need to display the notification, onli data is important.mayb someon use onesignal, success with electron?thanks!

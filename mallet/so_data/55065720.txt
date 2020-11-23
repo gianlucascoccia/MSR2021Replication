@@ -1,1 +1,1 @@
-Electron: how to print all html content in pdf
+i'm use electron for my first project, i have to print a pdf file from my html.what in my code now:how can i fix that?[1]: https://i.stack.imgur.com/dj6tt.png

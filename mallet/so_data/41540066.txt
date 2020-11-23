@@ -1,1 +1,1 @@
-How to distinguish between electron and google chrome environment
+for exampl the follow code:i hope to debug in chrome and run in electron, how to distinguish between the two at runtime?

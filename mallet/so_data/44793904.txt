@@ -1,1 +1,1 @@
-Polymorphed UI elements
+i am build the follow app use javascript and electron.js. there video play at the top, and correspond data are display at the bottom. when the video plays, a marker move along in the charts.when the use press the add data button, new data could be imported. depend on the type of data, differ ui chart will be shown.which design pattern/architectur should be use to implement this feature? i know that the question is quit vague, but i'm at the design and plan phase and ani advic are appreciated.

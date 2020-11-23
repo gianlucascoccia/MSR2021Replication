@@ -1,1 +1,1 @@
-SyntaxError: Unexpected token ... in serialport in node_modules
+i hav been tri to run the vue-electron app. but the follow error comes.i use follow toolsnod 8.16.0npm 6.4.1electron 1.8.2it doesn't work in windows. but it work in mac os.ani idea..?

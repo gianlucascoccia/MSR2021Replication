@@ -1,1 +1,1 @@
-Can't write/append to JSON file in Node Webkit
+i want to have persist memori (store the user progress) in a .json file in %appdata%. i tri do this accord to this post, but it doesn't work. for test purpos i'm onli work with store one object.th code below doesn't work at all. if i use if anyon has ani idea where i'm mess this up, i'd be grateful..edit:solved, thank to kailniris.i was simpli tri to pars an empti file

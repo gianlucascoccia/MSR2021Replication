@@ -1,1 +1,1 @@
-Ava babel-register not transpiling
+i'm tri to includ ava (migrat from mocha) as my test runner for a react / electron app. i'v got this config in my package.json isn't be requir properly.

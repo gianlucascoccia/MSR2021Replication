@@ -1,1 +1,1 @@
-Can not package electron app EPERM ERROR
+i am use electron-packag module. previous it was work fine , cant find where this is occur

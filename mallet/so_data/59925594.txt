@@ -1,1 +1,1 @@
-Attach Knex as global object in Vue.js Electron
+i'm use simulatedgreg/electron-vu as boiler-pl for electron application. the applic is primarili base on databas operation. i want to use the sqlite3 node nativ modul with knex wrapper. how do i use knex with vue? as the vue is frontend librari and doesn't have access to nativ apis, is it possible? or i must have to use the ipc communic between windows? i have a way to attach the knex object global in vue, as given,i use jqueri global as given above, but not sure for knex.

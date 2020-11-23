@@ -1,1 +1,1 @@
-Using electron, how to take HTML input and use it to create a python variable?
+i have a html base gui with multipl form and buttons. when a user type someth into the input field and click the submit button, it should updat a python variabl in a python script. below is the from from my index.html file. what would my other code (js and python) need to look like in order to make this work? i am use electron and node.js.index.html

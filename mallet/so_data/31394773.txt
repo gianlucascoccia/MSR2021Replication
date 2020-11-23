@@ -1,1 +1,1 @@
-iojs/electron - Output all in console to file
+i'm current build an applic in electron which is at the moment use ioj 2.3.1, and what i'd like to do is output anyth and everyth that print out in the dev tool consol to file.in the earlier version of node this use to be avail by pipe from stdout/stderr, this is no longer possibl and i can't for the life of me find a solut that work and doesn't involv chang larg amount of code.do anyon have a work solut for this? thanks!

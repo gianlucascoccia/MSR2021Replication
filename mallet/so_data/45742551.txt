@@ -1,1 +1,1 @@
-Can't open subdirectory in File Explorer? - Node.js
+i can't figur out whi i can't open a subdirectori of "mi documents" in node.js.mi current code:what am i missing? forgiv me if someth is wrong with what i'm asking, i have a design orient brain and am more familiar with html, css and some javascript.

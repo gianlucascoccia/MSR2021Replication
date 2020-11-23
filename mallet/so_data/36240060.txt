@@ -1,1 +1,1 @@
-electron installer for windows
+i have start to write a hybrid desktop app with electron use the prebuilt package. now i want to creat an instal for the app in windows, i read the packag and distribut document on atom document but it seem realli difficult to understand the process. can anybodi help with this issu ?

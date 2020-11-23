@@ -1,1 +1,1 @@
-How to implement a dock icon notification indicator with Electron in OS X?
+i don't actual know the thing name, i am talk about the red dot on the right top corner of app icon.

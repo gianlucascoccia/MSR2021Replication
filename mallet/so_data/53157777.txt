@@ -1,1 +1,1 @@
-Node module works for electron but not for Mocha
+i have a small develop environ for electron with mocha tests. i instal the image-thumbnail librari and i recompil it for electron: ani help?thank in advance.

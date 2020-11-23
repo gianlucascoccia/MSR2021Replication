@@ -1,1 +1,1 @@
-Javascript wait for condition to be true using promises
+i am struggl to make a simpl wait function in my program. i want to use promis and async await if possible. what i have so far:

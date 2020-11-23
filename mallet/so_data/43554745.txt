@@ -1,1 +1,1 @@
-Do I need to check for localStorage support when using Electron
+i have start make desktop app with support befor do something.do i need to do the same in electron apps?

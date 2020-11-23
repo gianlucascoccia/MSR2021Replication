@@ -1,1 +1,1 @@
-Electron Builder NSIS Create a shortcut in startup
+i am use electron builder to generat an nsis instal for windows. i need the instal to creat a shortcut in the startup menu. how can i do that? this is electron builder document about nsis scripts. https://www.electron.build/configuration/nsis#custom-nsis-script where should i put code to be execut after instal the application?

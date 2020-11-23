@@ -1,1 +1,1 @@
-How to run an electron app(using HTML Canvas and Webgl) on a webserver without a display
+i want to use an electron app for headless rendering. the goal is to run webgl and html canva code on a webserver. the app work fine on my local system. when tri to run it in a headless server, i am face difficulti with regard to canva and webgl - the canva height, width cant be set to anyth beyond 0. i am abl to run the electron app and use function which dont use html canva or webgl. i have alreadi instal x11 and xvfb.

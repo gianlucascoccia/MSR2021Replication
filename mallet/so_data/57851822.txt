@@ -1,1 +1,1 @@
-electronize build does not produce output in \bin\desktop folder
+i tri to build my electron app use the command "electron build /target win" but no output is produc in the \bin\desktop folderi tri to use differ build targets. but onli output is produc in obj/desktop. there is no electron execut in that folderth output of electron build is:what is go wrong?

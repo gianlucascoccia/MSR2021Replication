@@ -1,1 +1,1 @@
-Rendering math with KaTex
+i download the latest katex build releas here. i'm tri to integr it into my electron project. as a beginn developer, i'm have troubl achiev what i want.th follow code render (one line of code) the string

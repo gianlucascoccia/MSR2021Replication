@@ -1,1 +1,1 @@
-How do i disable the horizontal scroll bar in Electron BrowserWindow?
+how do i disabl the horizont scroll bar in a fix width and height browser window in electron?thank you.

@@ -1,1 +1,1 @@
-How to achive group call using easyrtc
+i am new in easyrtc.how can we achiev group call use easyrtc?i know there are the createroom ,joinroom functions, but how exact do they work?

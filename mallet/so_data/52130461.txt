@@ -1,1 +1,1 @@
-python zerorpc and multiprocessing issue
+i'm implement a bi-direct ping-pong demo app between an electron app and a python backend.thi is the code for the python part which caus the problems: i can see that the pong request is receiv by the nodej script so the server on the javascript side work ok.what happen with zerorpc client when i creat a new process and it doesn't manag to send the request ?thank you.editit seem it get stuck in c.pong()

@@ -1,1 +1,1 @@
-In electron are fs operations done in ipcRenderer or ipcMain
+at the moment i read file within the operations, is there a need to go back and forth on these?

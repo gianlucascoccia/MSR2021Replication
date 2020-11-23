@@ -1,1 +1,1 @@
-./node_modules/node-pty/build/Release/pty.node Module parse failed: Unexpected character ''
+i am tri to use the librari node-pti in a project scaffold with vue-cli. when i launch the program i get the follow error:thi doe not resolv the issue.

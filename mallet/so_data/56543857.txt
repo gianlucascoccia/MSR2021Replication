@@ -1,1 +1,1 @@
-How To Read Python For Loop Outputs in Electron
+i am develop an electronj applic which need to call a python code. i need to read the output of each iter of a loop in python and display it in electron.how can i do this?i have tri the child_process way but that onli print the output when the whole script has ended. i some thing to be display at the end of each iter in the python script.example:python:desir output:1aaa2aaa3aaa4aaa5aaa

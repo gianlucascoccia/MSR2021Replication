@@ -1,1 +1,1 @@
-Get a return value from Electron's webContents.executeJavaScript with NodeIntegration disabled - Possible?
+i know when nodeintegr is on, you can potenti use ipcrenderer. is there anyth at all you can do to get a return valu without nodeintegration?

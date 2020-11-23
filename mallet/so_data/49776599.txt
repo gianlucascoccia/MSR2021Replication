@@ -1,1 +1,1 @@
-How can I open a page by clicking on notification using electron
+i was develop an applic that creat alert/notif through a socket server. so i have made follow compon for implement the same.socket server with node-notifi electron applicationher i am get notif without ani issue. but when i am click on notif it is not go insid follow code part. so i am not abl to handl event such as click,clos and so on.&#xd;&#xd;&#xd;pleas help me to handl notif event for my window desktop notif in electron framework.

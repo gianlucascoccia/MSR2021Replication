@@ -1,1 +1,1 @@
-How to write a file synchronously in Node Webkit?
+i am develop a node webkit desktop applic and i need to write a file synchronously, i.e. execut the code line onli when the file has been complet written on the disk.so, i tri two way :but none of them are synchron : they immedi return even though the node js doc indic this is the way to do that : https://nodejs.org/api/fs.html#fs_fs_close_fd_callbackwhat am i do wrong ?thank

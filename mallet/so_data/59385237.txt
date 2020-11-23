@@ -1,1 +1,1 @@
-Electron window dimensions vs screen resolution
+i'v just start play around with electron and i'm not quit sure i understand the dimens of the what exact is happen and how can i have match resolutions?

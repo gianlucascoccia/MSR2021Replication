@@ -1,1 +1,1 @@
-Electron-forge Wix Desktop Shortcut
+i can't find ani inform on how to get a desktop shortcut creat with a if anyon know how to make the app start after instal that would be also great.

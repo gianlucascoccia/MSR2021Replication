@@ -1,1 +1,1 @@
-Native code crashing electron
+electron version: 0.37.5.oper system: osx 10.11.4i'm use the x509 (https://www.npmjs.com/package/x509) modul which work fine outsid of electron. i suspect it could be due to the under depend on openssl. i follow the instruct here https://github.com/electron/electron/blob/master/docs/tutorial/using-native-node-modules.md to but the modul is still crash electron.

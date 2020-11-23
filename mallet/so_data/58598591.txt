@@ -1,1 +1,1 @@
-How to test external browser pages on electron application using testcafe
+i'm current do e2e test use testcaf on an electron-vu application. in my authentif phase, i connect to anoth extern applic :enter usernam and password to authenticate. the problem is that i cannot appli test case on the extern browser nor recuper input from the extern browser. ani suggestions( the extern page is trigger via a vue compon button use open method)

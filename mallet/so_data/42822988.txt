@@ -1,1 +1,1 @@
-Saving image in HTML canvas locally from electron?
+i'm tri to figur out how to save a imag (a png) local on a machin from an electron app.i pull the imag from a canva using: but i'm not sure how to then save that file local to the user machine.alternatively, is there a way for me to just display the imag so that they can right-click to save it (like within a normal browser), becaus i couldn't get that to work.

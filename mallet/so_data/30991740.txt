@@ -1,1 +1,1 @@
-Access Node-Webkit App from other Application
+is it possibl to call a function in nodewebkit from an extern application? for example. i would like to decid whether the window is hidden or show through a extern applic or with applescript.

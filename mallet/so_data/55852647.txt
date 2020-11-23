@@ -1,1 +1,1 @@
-How to treat an error inside the try using only one catch?
+i'm use i'm not sure that use try-catch insid anoth is the best solution.so how can i treat ani error insid the tri use onli one catch?

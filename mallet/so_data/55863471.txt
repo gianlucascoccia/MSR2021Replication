@@ -1,1 +1,1 @@
-How to print only the requested part of a database?
+i want to print out onli the countri name and their population.i have assort them in ascend order and would like to print out onli their name and popul in that order. when i tri to do that i get "undefined".when i print my function, i get the whole list but in an array.i want to see someth like:name: micronesia, feder state of, population: nullname: montserrat, population: 11000

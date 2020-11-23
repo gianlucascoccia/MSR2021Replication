@@ -1,1 +1,1 @@
-How to get GUI-selected folder's absolute path in electron, node.js, or html/javascript
+i need the user to be abl to open a file selector from within the app, select a directory, and then i need the full path of that directory. i am build an electron app in node.js, run on windows, and jqueri is welcom if that helps. i don't care if the solut is node-specif or if it just some html and javascript. i know how to get the name of a directory, but i need the full path of the directory.

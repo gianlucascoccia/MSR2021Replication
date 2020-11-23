@@ -1,1 +1,1 @@
-Electron: How Remove "DefaultProtocolClient" during uninstall?
+we have an electron app that regist it self for a custom protocol:thi work great. however, is there a way to remov this when someon uninstal the app? need to work for both mac and window

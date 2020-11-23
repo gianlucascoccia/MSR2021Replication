@@ -1,1 +1,1 @@
-Electron framework window management for refresh not working
+i'v creat a program in electron where:when i a button in one window send a ipc to the main window and check if the window exist and refresh the window, but it not working.mayb i miss someth in the document but i don't find anyth about how to check if a window is null or undefin (alreadi tri to check if is null and other none values).thank for the attention.codeerror

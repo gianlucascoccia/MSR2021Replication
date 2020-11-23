@@ -1,1 +1,1 @@
-Bundling MSI installers using Electron Build
+i'm current use electron builder to distribut a desktop applic we are use in-house. for it to work i need to instal imagemagick and ghostscript on the window system where i'm go to instal this app. i would like to make the instal seamless by have these program instal on the background somehow (or at least i want their msi instal to popup dure installation).i this current feasibl ?

@@ -1,1 +1,1 @@
-Create folder with outputted files with Wraith in packaged Electron App
+i'v built an app use electron. it a regress tool that use wraith to compar webpag visual layout and then spit out a galleri highlight the differences: https://github.com/bbc-news/wraithmi electron app work just as i expect with thank allmo

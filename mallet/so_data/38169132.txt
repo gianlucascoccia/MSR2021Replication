@@ -1,1 +1,1 @@
-Download game with electron / detect game version with electron
+i have to build a game launcher with electron. i have two question : - wich way to download file from client (angularjs) ? ftp ? http ? - how can i detect the game version to updat it ? thank

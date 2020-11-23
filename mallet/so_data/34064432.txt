@@ -1,1 +1,1 @@
-Converting raw images with Electron js
+i'd like to build an electron app that batch convert raw (cr2 in specific) imag to jpg and than resiz them. but all the imag process librari i'v seen use some extern imag process librari such as imagemagick. is there a way to ship these librari along the electron app, or work around them?

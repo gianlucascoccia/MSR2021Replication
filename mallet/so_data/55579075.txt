@@ -1,1 +1,1 @@
-How can I get Chrome's remote debug URL when using the "remote-debugging-port" in Electron?
+i'v set the but i would like to get this url from insid the main process. the url is differ everi time. how can i get it from insid the electron main process?can i somehow read my electron main process output, from within my main process javascript code?

@@ -1,1 +1,1 @@
-Electron window corners without radius?
+i have an electron window with these properties:when i start it, everyth work fine. but becaus my titlebar onli show on hover, i have an ugli edg on top and round edg on the bottom. i now want all of my corner to have a 0px radius. accord to other resourc on the internet, it should automat be 0px radius when the window is frameless and transparent. this doe not work for me. how can i make my edg sharp with no radius on the whole window?if you need my code, here is my css, here my main.j and here my html.

@@ -1,1 +1,1 @@
-in node-webkit application the alert messages cutting off
+i am use node-webkit for hybrid application.in that the alert messag are cut off.cant abl to see the ok buttons..thi happen for confirm and prompt also.so anyon pleas help me to short out this.

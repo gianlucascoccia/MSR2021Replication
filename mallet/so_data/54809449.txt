@@ -1,1 +1,1 @@
-npm '[...] ' is not recognized as an internal or external command, operable program or batch file
+recent got this error messag everi time i type in npm into cmd.npm still seem to work but i get a lot of error when tri to instal electron and i thought it might be related.i'v alreadi complet reinstal node.j and npm twice...ani idea how to fix this?

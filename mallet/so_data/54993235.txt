@@ -1,1 +1,1 @@
-How to go from .msi installer to electron-builder (nsis)
+i current have an applic out in the field that was distribut as a .msi instal (built with wix). i'v just finish port this applic over to electron to take advantag of all of the latest and greatest featur includ use electron builder and auto updates. ani wix/msi gurus know the best way i could uninstal the old msi and run the new installer? the solut i have found involv search through the window registri to find the msi uuid then use msiexec.i it possibl to just creat a new version of the .msi that clean up everything?

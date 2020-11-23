@@ -1,1 +1,1 @@
-node-webkit: unexpected "undefined is not a function" on String.prototype.includes()
+alternatives, the same "undefin is not a function" js error is thrown.

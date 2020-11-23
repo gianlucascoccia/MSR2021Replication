@@ -1,1 +1,1 @@
-How can I build and run the byteball desktop app?
+i know we should run the bytebal app with nw.js framework for desktop.so i did like below.1. git clone2. bower install3. npm install4. gruntaft these, i start the app with button and can't debug this.how can i run this app in desktop?

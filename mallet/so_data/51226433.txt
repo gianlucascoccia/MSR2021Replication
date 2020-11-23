@@ -1,1 +1,1 @@
-onDragEnd & onDrag values seem off in React?
+i have the follow functions:can anyon explain this to me?

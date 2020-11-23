@@ -1,1 +1,1 @@
-Bundle error using webpack for Electron application `Cannot resolve module 'electron'`
+i am tri to creat an electron applic with react. i use webpack to compil the react jsx syntax, but when i tri to compil with command, i got this error: error in ./app.jsx modul not found: error: cannot resolv modul electron in /users/mastert/downloads/gist @ ./app.jsx 6:18-37here is the applic code.i am do someth wrong?thanks!

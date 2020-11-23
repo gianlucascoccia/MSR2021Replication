@@ -1,1 +1,1 @@
-how does electron access lower level system capacities?
+i have instal the electron-quick-start packag and npm start it, it worked! now i am wonder how it actual get access to system capacities. by require("electron")', node read electron/index.j which read asynchron path.txt file that point to the binari electron.app/contens/macos/electron, then, node know the path, node_modules/electron/dist/electron.app/contents/macos/electron, which is a binari execut file, and, afterwards, how doe electron get start and provid mayb to node, system level capacities?

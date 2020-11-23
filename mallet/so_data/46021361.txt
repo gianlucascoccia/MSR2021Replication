@@ -1,1 +1,1 @@
-Blank regions on electron(node.js) window
+i'v use electron 1.6.11 with node 8.4 to develop a desktop application.thi is how my main window normal look like: but sometim some part of window will overlay with blank region for no appar reason. like this: this blank region will go away if i click one of button or resiz the form, or anyth that make it render again(i guss).also, this blank region onli appear on that left side of form.im use css grid to arrang my components, could it be becaus of that?ani suggest is appreci

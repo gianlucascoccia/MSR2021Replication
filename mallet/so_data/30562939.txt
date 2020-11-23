@@ -1,1 +1,1 @@
-How to change the gray-ish default toolbar/taskbar color of an app in node-webkit (NW.js) (I'm on a mac)?
+i want to chang the default toolbar color of my app. i would like to chang it to this color: #16171a.her is a link to an app built in nw.js with the toolbar color changed. this is the package.json of my apppackage.json

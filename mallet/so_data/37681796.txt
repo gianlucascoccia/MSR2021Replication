@@ -1,1 +1,1 @@
-Electron freezes when sending large object synchronously over ipc
+when tri to send large(ish) object synchron over ipc, electron freezes: the view goe blank and i get a messag say "devtool was disconnect from the page". is there a sensibl way of send larg object sync'd, or do i have to go async?just for reference, the length of the json stringifi form of the object is 72760484 characters.

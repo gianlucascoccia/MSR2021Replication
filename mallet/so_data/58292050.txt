@@ -1,1 +1,1 @@
-How to create a database for electron app from python
+i want to creat a databas with python and then use this databas in an electron app.ther are a few requir that i have:th databas share should be in a file formatideally, the databas creat by python can be use direct in node without much troubleth databas is in some form of jsoni'v learn about

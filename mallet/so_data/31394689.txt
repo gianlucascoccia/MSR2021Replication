@@ -1,1 +1,1 @@
-Capturing an element of a page and saving to file
+is there a way to use in node-webkit to captur just a specif element of the page?

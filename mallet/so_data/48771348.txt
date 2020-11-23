@@ -1,1 +1,1 @@
-What is an alternative to HTML5 geolocation that I can use with Electron.js?
+my problem is that this code:outpust undefin becaus geoloc requir https context but electron use the file context.i there ani alternatives?

@@ -1,1 +1,1 @@
-ipcRenderer send vs sendSync
+i am develop a crud angular/electron applic and i would like to use electron-stor to persist my data. angular will not use direct electron-store. instead it will send command to the ipcmain process and the main process will save/edit/delet the data. should i use doe not seem to do thing asynchronously.

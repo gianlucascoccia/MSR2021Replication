@@ -1,1 +1,1 @@
-Loading web-page with moment in electron
+i am tri to load a web-pag in an electron application, it is my first tri to use electron so i am not familiar with it at all. the app is realli simple:th page is use moment (it is a call to moment.langdata(...) that fails), but get the error message: uncaught referenceerror: moment is not defined.mi web page work in chrome, and internet explorer.ani idea on how to make this work, if possibl i would like to avoid chang in the web-page.

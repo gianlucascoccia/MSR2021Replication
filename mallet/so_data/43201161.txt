@@ -1,1 +1,1 @@
-ionic2 electron and local assets
+i am use ionic 2 to creat a desktop app. everyth work fine. i have an issu tri to access the resourc from assets. for my asset i have :i am not abl to find a clear solut for this problem. ani clues?

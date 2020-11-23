@@ -1,1 +1,1 @@
-Electron Method Callback
+i'm new to electron and tri to build an applic to control smarthome-compon from my mac. to do this, i need mani and electron crashes.would be realli thank if someon could help me with this.greetings,luka

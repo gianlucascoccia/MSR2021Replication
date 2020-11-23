@@ -1,1 +1,1 @@
-Detect Available Memory in Electron / Failover to pagefile?
+i am write an electron.j applic and have been test it on a window 10 comput with veri low memori (1gb).the applic crash to desktop in a non-grac manner when the system inevit run out of memory.how can i detect the installed/avail system memori in an electron application? (windows, mac and linux?)i there a hook to catch the crash, so that i can handl it gracefully?can i make electron.j applic use the pagefil instead of crash to desktop when run out of memory?

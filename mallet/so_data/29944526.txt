@@ -1,1 +1,1 @@
-How do you correctly import react into a node-webkit app?
+i'm tri to creat a node-webkit app, and i want to use react.j as my framework. after tri react and creat some components, i tri to use it as follow in a node-webkit app:so i can't realli figur out whi it doesn't work.

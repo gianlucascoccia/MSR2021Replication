@@ -1,1 +1,1 @@
-How can I solve this error of Sqlite3 with Electron?
+i'v been tri to instal and it return the error on the image. how can i solv this?

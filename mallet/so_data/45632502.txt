@@ -1,1 +1,1 @@
-Getting error while executing `npm install --save-dev electron-prebuilt`
+i'm tri to creat an electron app with auto-launch functionality. when i'm execut ani idea how to address this error?

@@ -1,1 +1,1 @@
-Routing Reactjs in Electron app
+i creat applic electron , the browser is ok but the environ electron disagre rout rout . in annex i send the whole screen . pleas advice.

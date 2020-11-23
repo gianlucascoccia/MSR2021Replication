@@ -1,1 +1,1 @@
-How do you force an electron app to have a single instance?
+i'm tri to keep my electron app from be abl to start more than one window at a time. i'v alreadi tri this, but it make the first window open close itself instead of the second window opened, and it complet stop work for the third window: also throw an error sinc it deprecated. what should i do instead?

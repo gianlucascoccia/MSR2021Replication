@@ -1,1 +1,1 @@
-Can't find Application entry file './main.js' in electron build
+i have an electron app and i got this error when run

@@ -1,1 +1,1 @@
-how should i eliminate : while pulling the folder using adb
+how should i elimin : while pull the folder use adb some of the folder contain special characters? it not support in window platform.

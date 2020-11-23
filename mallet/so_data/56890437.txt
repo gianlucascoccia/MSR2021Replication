@@ -1,1 +1,1 @@
-How can I load mysql data into jquery datatable in electon app
+i make an electron app use a localhost server with mysql databas and jqueri screenshot of what i'm get nowscreenshot of what i want to achiev

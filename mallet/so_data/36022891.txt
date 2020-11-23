@@ -1,1 +1,1 @@
-Is it possible to distribute a NWJS app as a single exe-file?
+i export a game out of construct 2 use their nwjs exporter. i need to distribut this game to a client who is not veri technic adept to put it nicely. i think he would be abl to run an exe-fil by double-click it, but for exampl extract a zip-fil is probabl too much to ask.i it possibl to somehow distribut the result as a singl execut file?her what the folder that construct made contains:

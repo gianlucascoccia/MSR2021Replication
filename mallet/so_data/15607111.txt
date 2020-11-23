@@ -1,1 +1,1 @@
-Using require() in a remotely-hosted node-webkit application
+i have a package.json file that look like:noth happens, ad alert for gui and win show they are both set to null. when i run the same code from an index.html file within the same .zip as package.json it work as expected. it appear to be fail with the initi call to require().i there some way to get this work in a remot host application?

@@ -1,1 +1,1 @@
-Electron-react logic
+i'm new to web develop and tri to develop an applic that use electron and react-redux framework. i'm a littl confus on how thing work logically.in particular, i'm not sure of what process are render process when we run an electron app which use react components. for example, if i have a file name with ipcmain and ipcrender? p.s: i might have use poor term to describ the question, but ani repli would be appreciated.

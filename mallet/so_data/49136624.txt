@@ -1,1 +1,1 @@
-require is not defined in Electron?
+i am tri to build a web-desktop applic use electronj and angularjs, so i wrote my code and everyth work fine when i start my desktop application, but in the browser, i have a problem - i have an undefin method.her is the line where i am have a problem :

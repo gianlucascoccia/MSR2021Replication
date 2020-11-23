@@ -1,1 +1,1 @@
-How to distinguish keypress Jquery event between on-screen keyboard and physical keyboard in NW.exe?
+i am develop an app run in nodewebkit. basically, i want to support the on screen keyboard(tabtip.exe) for touch screen. while, if the user has use a physic keyboard, i want to hind the on-screen keyboard. but now i cannot distinguish the physic keyboard and on screen keyboard keypress event, everi time the user press a key from on screen keyboard, it will also trigger the keypress event and hide the on screen keyboard as well.

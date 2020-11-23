@@ -1,1 +1,1 @@
-Electron : Mac Icon is not working
+i tri to creat the mac .dmg for my applic with the follow command : for me, there is noth anorm and the path is ok and the icon too.when, i'm launch the dmg file generated, i still have the default mac applic icon and the desir icon is visibl in a small file call .volumeicon.icnsso, am i do someth wrong ? becaus i want to display my icons, not the default mac one. (i alreadi check : node packag are all up to date)

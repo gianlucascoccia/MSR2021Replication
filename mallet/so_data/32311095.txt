@@ -1,1 +1,1 @@
-I can't update electron with npm
+i cannot updat electron-prebuilt.i execut

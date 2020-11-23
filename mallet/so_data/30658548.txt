@@ -1,1 +1,1 @@
-how to insert data into database in electron SQl as database And React as front end
+i am new at electron.i am tri to build a small app use electron. what i am tri to do is to insert the data which is taken from front end.i am use sql has databas and react as front end can ani give suggestions. how to insert data? can ani one pleas give me the solut for it?pleas help me.i tri like this: this is my index .html and i need to post the data which is taken from here. and in zipcode.j mysql code will be there.index.html

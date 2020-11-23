@@ -1,1 +1,1 @@
-Execute an external application from Electron ASAR package
+i have built an electon app which includ an execut within the electron package.when i am on develop mode, i just access the file through /assets/executable, however, this doesn't seem to work when i built the packag with asar.how can i unpack and have the path to my resourc within my electron packag ?

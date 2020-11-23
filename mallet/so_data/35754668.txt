@@ -1,1 +1,1 @@
-Cookies module not working in Electron app
+i am tri to return the cooki from the browser header but i cannot even get the modul to work. i can run the app but i am get error message: error alert. i'm use node.j with electron + webpack + react. this is my code:&#xd;&#xd;&#xd;&#xd;&#xd;

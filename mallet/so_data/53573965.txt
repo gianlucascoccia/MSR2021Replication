@@ -1,1 +1,1 @@
-Electron auto updater error when running in dev mode
+when i run an electron app with auto-upd integrated, in dev mode. i get this error:i have read a littl about it, and from what i understand, appl auto-upd electron applic must have a code signatur on the app.mi question is: shouldn't i be abl to run my applic in dev mode, without the code signature?

@@ -1,1 +1,1 @@
-Electron Error Launching app Unable to find electron app
+i have read through so mani post about this problem but for me it still remain. i'm build react web applic and want to show that in desktop app.her are my enviro version : to open electron app but got the error : unabl to find electron app.

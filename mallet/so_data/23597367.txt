@@ -1,1 +1,1 @@
-Embed DirectX Hwnd into NodeJS?
+i would like to emb a directx hwnd into a nodej , my main idea is creat the world editor in html + js + node-webkit, becaus of the flexibl html provid i would like to have someth like a html tag, , mayb possibl in conjunct with angularjsi came across i guy who was abl to do it, but not idea how, can you guy point me in the right direction, if is possibl ani example? http://n2liquid.wordpress.com/2011/05/17/direct3d-9-bindings-for-nodejs-%e2%80%94-sonettojss-baby-step

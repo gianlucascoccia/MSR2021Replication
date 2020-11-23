@@ -1,1 +1,1 @@
-Write stdout to a div as program executes with Node-Webkit?
+in my node-webkit app, i use exec() to execut a child application. the applic print out some debug inform to the shell. the problem is stdout onli send the text after the child applic has exited. is there a way to updat a div element with the stdout info as the child applic is running?

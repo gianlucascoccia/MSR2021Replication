@@ -1,1 +1,1 @@
-I have error for install electron on fedora 30
+hello i have this error if i tri to instal electron on my fedora 30the log in this link: https://pastebin.com/q3dscqvg

@@ -1,1 +1,1 @@
-Local Electron solution for basic CRUD operations
+i'm main a ror developer, i'v never realli got into js, but recent i'v been need to creat a desktop applic so i'v been look at electron. i'v been tri to go over how i can keep this complet local, even have the program write to a text file, or someth like a json file. can anyon suggest how i go about this, i'v look at a few tutori in how to get electron started, but all i need is a simpl lookup app with the abil to create, delet and edit.thank

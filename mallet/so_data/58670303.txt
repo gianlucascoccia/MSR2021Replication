@@ -1,1 +1,1 @@
-Electron open-url event percent escape decodes deep links
+i have an electron app that open deep links. i would like to pass in an extern url, e.g.i have no way of know if the paramet are for my app url, or for the locat url!i guess i could forc locat to be the final paramet in this case, but it doesn't sit quit right!i there a way to stop this happening, or suggest an algorithm to re encod what need re-encoding?

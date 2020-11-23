@@ -1,1 +1,1 @@
-How can I get the right position of the scrollbar-thumbnail?
+i'm tri to detect the right posit of a scrollbar-thumb. can somebodi pleas explain if this is possible. the scrollbar thumbnail doe not have fix width. i'm use nw.js, es6 and jqueri library.th follow is a simplifi extract of my code. is the nw.js wrapper of the dom window, see here (initi is not shown here, as it is not relev for the question).

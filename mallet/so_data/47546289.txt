@@ -1,1 +1,1 @@
-Electron-packager does not package node modules which names are started from "@"
+i creat desktop applic by use electron, and tri electron-packager.but electron-packag doesn't packag node modul which name are start from "@" (example: @turf, @mapbox)in node_modul folder of develop folder, i can find "@turf" and "@mapbox".but after runninghow can i packag such @-start modul into applic package?

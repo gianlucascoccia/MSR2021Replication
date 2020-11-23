@@ -1,1 +1,1 @@
-ipcRenderer.send and sendSync are not working from preload to main
+i am do my first electron app - use electron-quick-start code from git.i am not abl to send event from preload.j to main.jsi manag to send messag from main.j to preload.j success - use mainwindow.webcontents.send in main.j and ipcrenderer.on in preload.js.i am have troubl do it the other way round.not that resiz event work fine and receiv normal in main.j

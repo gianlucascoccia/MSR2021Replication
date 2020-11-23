@@ -1,1 +1,1 @@
-React - Can't access refs in stateful component event handler
+i have a class compon that has a editfigur it out see my answer below.

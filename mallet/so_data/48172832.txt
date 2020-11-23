@@ -1,1 +1,1 @@
-Electron render glitch
+i'm make an electron app, in which i scroll insid a div-element, i have two type of element in this div (both have

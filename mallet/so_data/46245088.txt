@@ -1,1 +1,1 @@
-Electron.js / jQuery UI - Uncaught ReferenceError: jQuery is not defined
+when i start my program i get this message: uncaught referenceerror: jqueri is not defin at jquery-ui.min.js:6 at jquery-ui.min.js:6i am not sure what i am do wrong, i am not use jqueri or jqueri ui in my index.js. this is my html file:edit: this is an electron.j app. i have answer my own question.

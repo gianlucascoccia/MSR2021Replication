@@ -1,1 +1,1 @@
-Why are my values not updating on init (Angular + Electron)?
+setting.component.tsmi "primaryserver" and "secondaryserver" valu do not show up when the page loads. however, when i click on the input or a random button for it, it show up. how do i get them to show up on init?

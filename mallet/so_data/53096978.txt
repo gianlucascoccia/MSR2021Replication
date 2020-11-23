@@ -1,1 +1,1 @@
-Listener for "accent color override" for system tray on windows on Electron
+on windows, the electron systemprefer api let us listen for appreci all input, thanks.

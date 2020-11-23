@@ -1,1 +1,1 @@
-ember-electron: Different assets compiled for ember and electron apps
+i'm tri to turn an exist ember app to electron app use ember-electron addon. when i run .what is wrong configur here? pleas help!

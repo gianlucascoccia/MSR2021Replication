@@ -1,1 +1,1 @@
-RangeError: "port" argument must be >= 0 and < 65536
+i have an applic written in electron and nodej that i am tri to run. it use the modul portscann to check for an open port in a particular range:even though the rang i have is clear less than 65536 and greater than 0.look online, it seem to be an error in node v6 (i have v6.5.0). i am new to nodejs, and would great appreci ani help regard how to fix this. thanks.

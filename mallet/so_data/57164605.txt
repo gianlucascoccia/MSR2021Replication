@@ -1,1 +1,1 @@
-How to play ogg audio in electron with node addon?
+i have an atom electron applic that play ogg audio with html5 audio api. i'm face perform issu when run this program in veri slow and old comput with window os. i'm tri to fork a new process in electron and play the audio with a modul or a node addon. but i'm not find a modul or a node addon to do this. is there ani modul or node addon to play ogg file and work with electron?

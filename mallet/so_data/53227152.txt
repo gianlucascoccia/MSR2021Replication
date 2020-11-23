@@ -1,1 +1,1 @@
-Electron require modules: due to diffrent working directory while runtime intellisense is not working
+im write an electron-app with vs-code. first i had some problem with requir local file as modules, but i manag to fix them. the onli problem now ist that i'v lost intellisen for these local modules.project structure:i there ani way that the applic run and i get intellisens in vs-code? i am grate for ani help i can get.

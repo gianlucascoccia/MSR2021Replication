@@ -1,1 +1,1 @@
-Electron: can't access main.js from another .js file
+i have all my html handler in a second file (b.js). they look like this:. look at this post: cannot read properti &#39;on&#39; of undefin in electron javascript it say the app is start twice. how can i resolv this?

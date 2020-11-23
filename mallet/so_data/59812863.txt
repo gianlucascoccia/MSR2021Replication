@@ -1,1 +1,1 @@
-How can I change my system audio output / input device through Node JS (or command line)
+i'm attempt to build a littl dashboard for my comput in electron and someth that would be realli use for me is have the abil to chang my audio output at the click of a button (on the electron app). is there ani way this is possibl through the node api or a command through command prompt/powershell? i'm open to ani option that would allow this outsid of node/electron/cmd as well

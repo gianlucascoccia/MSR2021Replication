@@ -1,1 +1,1 @@
-How can I access the sqlite3 database file in production with electron?
+i have a electron app, and i use it togeth with the how can i target the databas file in production?

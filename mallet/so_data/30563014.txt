@@ -1,1 +1,1 @@
-Using Node without global install
+i'm work on a few node &amp; electron (atom shell) project and i'm curious how i could get them to work without the user have to instal node globally. i'v seen a few applic do this by includ a node directori in their project that contain the node.ex binary. how would you go about set up a node project to use this binary?edit: thought i should add, i'v search everywher for the answer to this, but onli get unrel results.

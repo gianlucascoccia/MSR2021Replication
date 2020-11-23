@@ -1,1 +1,1 @@
-How can I upgrade my Electron app that uses lit-element to Electron v7.0.0?
+run my applic in electron v5.0.11 work fine but when i tri to upgrad to ani newer version (i.e electron v7.0.0) my lit-el web compon doe not render and i get this error in the chromium console:

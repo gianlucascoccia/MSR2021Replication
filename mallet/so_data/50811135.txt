@@ -1,1 +1,1 @@
-Start electron app with admin privileges as default
+i creat an electron app which can onli be start as admin, becaus it need it for various command executions. now it prompt that it must be start as admin.thi question was veri helpful. now i want to start it with admin privileg right away so window ask for the acception. it shouldn't be abl to start the app without admin privileges. i tire ad , but then it write an error on startup (always): the applic has fail to start becaus the side by side configur is incorrect.how can i achiv this with the electron packager?

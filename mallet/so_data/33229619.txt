@@ -1,1 +1,1 @@
-Atom Electron does not load local storage
+i'm use electron to build a desktop applic and need to store data.in the browser script i write. it appear the browser not load that file and will overwrit it on exist.chang userdata path to applic directori doe not help with this problem either.i'm use electron 0.34.0 on osx 10.11doe someon have ani suggest to solv this?

@@ -1,1 +1,1 @@
-Error: Module version mismatch. when trying to launch in electron shell
+when i tri to launch my app in electron shell i get the below error:i'm use node v0.12.3i have instal electron-prebuilt

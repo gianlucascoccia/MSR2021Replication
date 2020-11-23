@@ -1,1 +1,1 @@
-How to launch Electron JS build on Linux?
+i am tri to launch my electronj app on linux but imposs to get there.thi is my build process :on windows, i build the app for linux with electron-packager, for amd64 arch.i copi the folder generat on my ubuntu machin and i creat a .deb with electron-installer-debian package.i instal the applic with dpkg -i my-app.deb.in ubuntu navigation, i found my application. but when i click on it for launch, noth is happening...idea ?

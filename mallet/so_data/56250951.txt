@@ -1,1 +1,1 @@
-invert reqular expression for excluding folders/files (used for Electron Packager)
+i'm get mad, can't get it to work and can't find a solution.so how can i invers the follow regular expression?al test string should match - except those includ "dist" or "node_modules". it need this regex for electron packag build command to ignor all folders/fil except those have the string in path name.regular express to be inversed:

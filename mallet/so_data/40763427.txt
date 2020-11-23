@@ -1,1 +1,1 @@
-Electron does not listen keydown event
+i am a backend develop who got a littl project to fix it.so my boss give me an electron project which run on touch devices.i know that i can listen ani key event in javascript if i use the but this code is not work to me. i have no idea how i can listen the f12 button is pressed.unfortun i cannot render out button to the ui which can show the devtools. becaus of the custom mustn't press it.sometim i need to see the realtim consol tab in devtool on the device.

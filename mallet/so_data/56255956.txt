@@ -1,1 +1,1 @@
-How to make Electron automatically open downloaded files in external application?
+i am build an electron app with html and javascript. i want the app to open download file e.g. pdfs, docx etc. automat in the extern standard applic like adob reader and word. is there a simpl javascript function to achiev this or mayb a better way? right now electron open the download dialog, like in chrome. i unfortun don't have a lot of experi with javascript, so i apolog if this is a too simpl question for you to pay attent to.

@@ -1,1 +1,1 @@
-how to load the navbar and the page content correctly?
+i have my how can i load the navbar and the content of the page togeth without mess up the page content?

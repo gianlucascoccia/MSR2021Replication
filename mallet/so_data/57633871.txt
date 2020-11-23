@@ -1,1 +1,1 @@
-Size problems with html2canvas after updating electron to 6.0.0
+i am use html2canva to creat imag and export them to pdf in electron use jspdf.with electron 2.0 everyth work fine, but when updat to electron 6.0 the canva object that return html2canva of an element of the dom has larger proport (width and height).now i have to modifi by test the size of the pdf when i generat it (when creat the jspdf object).ani idea how to solv this?

@@ -1,1 +1,1 @@
-TS2304 Cannot find name 'Set' in electron-builder
+i want to use the appupdat in electron-build in my electron application.when import the updat in my main.t file:}

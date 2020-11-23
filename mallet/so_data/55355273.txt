@@ -1,1 +1,1 @@
-nw.Window.open function is opening new blank window
+on a button click a .js file run where this code is written:but it open a new blank window.what mistak am i doing.

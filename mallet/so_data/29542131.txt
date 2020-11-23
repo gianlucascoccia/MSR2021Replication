@@ -1,1 +1,1 @@
-Need ffmpegsumo.dll from a very specific Chrome version
+for an nw.js (former known as node-webkit) app, i need ?...apart from build it myself.

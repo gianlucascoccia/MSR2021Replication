@@ -1,1 +1,1 @@
-set color of windows titlebar - electron.js
+i would like to chang the color of the titlebar for the window version of my electron app. current it is white, how do i chang it to, for example, blue?

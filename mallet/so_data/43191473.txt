@@ -1,1 +1,1 @@
-How to add electron to angular project made with angular/cli?
+my project structur look like this:and i am tri to add electron to project made via angular/c with it specif structure. howev i get "unabl to find electron app" when i tri to run npm start'. should i modifi the main.t from the src? current it look like:and it standard one without modifications.

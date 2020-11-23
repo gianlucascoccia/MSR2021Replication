@@ -1,1 +1,1 @@
-electron Failed to load resource: net::ERR_FILE_NOT_FOUND
+i have simpl problem but i can't seem to get the correct path right. everyth seem to be ok, follow tutori from herei have file structur like here.how do i load the local resources?thank to electron 1.0 btw. i want to tri it out fast though..

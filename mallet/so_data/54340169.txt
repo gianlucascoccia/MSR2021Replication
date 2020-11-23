@@ -1,1 +1,1 @@
-"var opn = require('opn');" not working when package installed on linux mint
+i'm tri to carri out some simpl step in an applic i'v written. i'm tri to open a text file in a specifi folder. i'm use linux mint-19.1-cinnamon-64bit.th below work when i run the packag use npm start'. however, when i packag the code and instal it, the command doe not work.

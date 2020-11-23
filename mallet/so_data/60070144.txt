@@ -1,1 +1,1 @@
-"Operation not permitted" issue in node webkit mac app in Mac Catalina
+i am work on creat an app use node webkit(nwjs). the node js applic is launch when launch through the termin by use the follow command the applic is abl to access the ~/library/containers/com.apple.safari/data/librari pathbut when we ran the applic by double-click the .app, the abov path is not access throw oper not permitted.for run the applic in doubl click, modifi the info.plist of nwjs execut name to a shell script, in which i call the command

@@ -1,1 +1,1 @@
-Electron: electron-builder config
+can somebodi explain to me how electron-build config work? i can't understand 95% of the things. everyth bellow api is somehow confusing. there are 0 exampl of actual how someth should be ad to the ? i red this, but can't understand it from plain text.ani recommend for a video guid for "how to creat an instal for window with electron/electron-builder?" or "how to creat packag for linux and upload it onlin so peopl with linux can download it with electron/electron-builder?" i couldn't find any.

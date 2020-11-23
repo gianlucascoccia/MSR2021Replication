@@ -1,1 +1,1 @@
-Multiple pages pdf using jspdf
+i'm a javascript beginn and for a desktop applic (use electron) i'm tri to gather the content of sever div (on imag jpeg) to creat a pdf when the user click on the "download" button.i'v got this html code :thank for your help!

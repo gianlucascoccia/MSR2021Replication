@@ -1,1 +1,1 @@
-How can I add DevTools extensions to the Atom editor?
+i would like to be abl to use devtool extens like react develop tool to atom in dev mode. how can i do that?th offici electron document mention a way to load devtool extens in an electron window, but i haven't been abl to appli it to atom.i'v tri variat of the follow code in the .

@@ -1,1 +1,1 @@
-The access token is from the wrong issuer 'https://sts.windows.net'
+i am use azure-arm-resourc for get all resourc in azur for my node js project.https://www.npmjs.com/package/azure-arm-resourcebut use this i get some error,devic token credenti undefin in azur interact login

@@ -1,1 +1,1 @@
-Custom Desktop Web App vs Node Framework
+what are the benefit of use a nodej base web app framework (electron, nwjs) over a custom web applic run locally, like python and bottle? a lot of peopl seem to be concern with protect their "server" side js code, but whi not just use a compil web framework (go, java, cpp) run local and launch the browser on startup, then serv up the content locally?

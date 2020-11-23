@@ -1,1 +1,1 @@
-Can I use classes in native Node.js?
+i want to develop my first electron app, and somehow the book that i'm read gave me the impress that i can't use class in a nativ node.j setting, and i must use transpil for that. is it true?

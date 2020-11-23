@@ -1,1 +1,1 @@
-How do i communicate between electron rendered process and webview express app?
+i'm run express app in electron webview. i need to communic between electron render process and webview express app. becaus electron has full hardwar control so i want to send all printer list to express web app through webview tag. so how can i send this data to express app?

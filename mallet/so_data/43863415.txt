@@ -1,1 +1,1 @@
-How to use ui-router in nw js
+i am build desktop applic use nw js with angular js, i want to use ui-rout for routing. i have written function handler for api call i dont want http request. when i start applic with nw js onli index.html is load templat url are not loading. i found applic work with ngrout but i want to includ state in my routes. how to do this?

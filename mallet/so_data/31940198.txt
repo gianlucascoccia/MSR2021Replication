@@ -1,1 +1,1 @@
-File nodeWebkit on click on <input type="file"> going to back ground
+screen shot link i am use angularj in front end nodewebkit 10.5 to run it like a desktop app. when i click on the file browser pop up but goe to background. i am also abl to click the input button multipl times. when i click multipl time and then close the file-brows the file-brows open again.bi default in chrome and nodewebkit one cannot access the app when the file browser is opened.>a u can see in screenshot the file browser goe to background .thank in advanc

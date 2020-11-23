@@ -1,1 +1,1 @@
-javascript import issues with import vs require
+i am build a desktop applic use electorn and angular 8. i am tri to import a javascript file in

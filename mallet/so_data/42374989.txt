@@ -1,1 +1,1 @@
-Electron JS, start application with Express backend and with separate html front
+i have an applic which has separ expressj backend and separ html front.mi expressj backend is locat in this script launch onli my html front. what do i need to add, in order to pack express backend among with html front?

@@ -1,1 +1,1 @@
-Electron - Why is there a big delay when loading the main window through localhost compared to an HTML file?
+when load my main window by pass the html file direct through electron, everyth work as expected.electron app:i'v tri this with multipl port and they all give the same result.

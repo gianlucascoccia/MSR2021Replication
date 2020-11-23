@@ -1,1 +1,1 @@
-Certificate error was raised when installing oracledb in Electron app
+i am run window 7 with oracledb v1.10.0, electron-prebuilt v1.2.2, electron-rebuild v1.1.5, node v0.12.7, and npm v2.11.3. when i execut how can i get this command to success execute?

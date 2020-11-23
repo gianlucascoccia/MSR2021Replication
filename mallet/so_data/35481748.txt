@@ -1,1 +1,1 @@
-Electron Error: Requires constructor call
+while tri the electron use their quick start here. i encount a weird problem. search on googl yield no results.follow is my directori tree.├── index.html├── main.js├── node_modules│ └── electron-prebuilt└── package.json content of i get the follow error:

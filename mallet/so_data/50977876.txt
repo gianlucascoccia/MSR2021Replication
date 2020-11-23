@@ -1,1 +1,1 @@
-println converting strings to integers, not compiling ints over 10 digits
+i'm tri to work with electron to send valu to googl cloud. however, i'v been run into issu regard some string chang and tri to use serial to print the valu and locat where the problem is. however, the electron/particl document say that it could print ani string, but this is clear not the case. ani help would be appreciated. thank in advanc

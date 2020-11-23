@@ -1,1 +1,1 @@
-Check if nw.js application is running on built version (prod) or development
+i am use grunt to build my application, i want to use differ configur when the applic is be run from built version and when i run it as a develop use simpli nw. is there ani such option which help distinguish this behaviour?

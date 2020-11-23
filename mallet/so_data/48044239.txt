@@ -1,1 +1,1 @@
-Can't use sqlite in electron renderer process: "Cannot read property '_handle' of undefined"
+i'm tri to use node-sqlite3 in an electron app, but in the app window, i'm get the follow error in the chrome console:i use: node 7.9.0, chrome 58.0.3029.110, electron 1.7.10.i creat an issu on github here.

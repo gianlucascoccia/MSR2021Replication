@@ -1,1 +1,1 @@
-ElectronJS - webcontents.on 'did-finish-load' vs 'dom-ready' vs 'ready-to-show'
+it seem like if you call . whi is that?i'v read the docs, and it didn't seem too helpful.

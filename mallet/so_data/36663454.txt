@@ -1,1 +1,1 @@
-Electron, Angular2, "fs"
+i am veri new to the topic of angular, javascript etc.i tri to write a (typescript) angular2-electron applic which should access the file-system. everyon just say to requir the "fs" modul and all is fine, but that doesn't work for me... .if i do someth like: &#xd;&#xd;&#xd;and therefor i think they could be found, but "fs" belong to node.j which is present in electron? or have i made some big mistak in my thoughts?thank a lot,chri

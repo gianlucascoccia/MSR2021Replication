@@ -1,1 +1,1 @@
-javascript, electron, ipc doesn't give error or output
+i'm new to js and electron, i keep get no output or error when run this code. ani help would be appreciated.

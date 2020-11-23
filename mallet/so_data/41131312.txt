@@ -1,1 +1,1 @@
-electron-rebuild building wrong version of node-sqlite3
+i am tri to get an electron app up and run on a window 10 dev machine. i run . how do i forc a build of 1.2, rather than 1.4 of the bindings? alternatively, how do i get my electron app to use v1.4?

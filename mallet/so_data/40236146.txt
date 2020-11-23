@@ -1,1 +1,1 @@
-How to import Electron in angular 2 using angular cli
+i'm tri to prototyp an electron app use angular 2 (configur with the latest webpack-bas angular cli) for the gui, but i'm stuck sinc i don't get how to import electron api in my angular2 components. specif i want to be abl to open a new browserwindow at the click on a button in the ui... so: import the app is work proper

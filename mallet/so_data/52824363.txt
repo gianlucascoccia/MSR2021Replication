@@ -1,1 +1,1 @@
-How to properly configure the application in electron for compatibility with windows 7, through the command prompt?
+i am creat an applic in electron, but i can onli send notif if the applic is in compat mode with windown 7i found a way to perform compat mode configur through the command prompt ( the applic doe not behav in the same way, although it is observ in the properties, the mode is appar configur the same way.i need to know if there is a need to put ani more inform on my command, or if i happen to be do it total wrong. would you help me?

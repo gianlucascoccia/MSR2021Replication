@@ -1,1 +1,1 @@
-Cannot find module XYZ
+i know this problem has been submit endless time but even after brows through x question and possibl solut this error still remains.i have a file call what am i missing?edit: i'm use node v6.4.0 and electron v1.4.15

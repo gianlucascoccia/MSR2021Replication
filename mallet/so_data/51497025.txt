@@ -1,1 +1,1 @@
-Nightmare - I can't catch which line of code gives me an error with two or more .wait()
+i use nightmar + electron. i can't catch which line of code give me an error with two or more .wait(). here is exampl of my code:can anyon help me with this?

@@ -1,1 +1,1 @@
-Wait input end before executing next code?
+i'm use this piec of code to to tri trigger an input and then read the file path, so i can load it as text in a problem is, it seem that the jqueri part is async, so the follow code doesn't wait for it to finish, and that generat problems.how can i make the code wait for the input to close befor executing?

@@ -1,1 +1,1 @@
-Destructuring assignments are not supported by current JavaScript version
+i follow the step here to configur code complet and other stuff in webstorm but i'm still get the follow syntax errors.how can i resolv this?

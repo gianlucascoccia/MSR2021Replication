@@ -1,1 +1,1 @@
-Empty No such file or directory
+i'm tri to run an electron app and i keep get the error "no file or directory" but with no name of directori or file afterward. i'm even more confus when i look at the javascript mention as the line seem ton onli contain a constant definitioni'm even more confus as there is no requir here or abov and below (two const declaration). and i can't seem to find ani other question where the error "no such file or directory" has no filename.

@@ -1,1 +1,1 @@
-mobx - Leading decorators must be attached to a class declaration
+i want to use the mobx decorators, but when i tri to run my code, i get the follow error message:also all devdepenend and depend are ad to my package.json. is there ani error in my "start"-command or ani misunderstand in the concept of observ here?

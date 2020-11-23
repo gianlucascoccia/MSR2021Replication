@@ -1,1 +1,1 @@
-Cannot use require in a separate js file in Electron
+i have a veri simpl electron app, use version 5.0.1.here is my i simpli want to use requir in anoth js file. whi is node.j or electron not pick this up ?

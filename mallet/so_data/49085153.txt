@@ -1,1 +1,1 @@
-How can I remove title from transparent, frameless window
+i'm develop an electron+vu app on window 10 (gener though vue-c and this template).at the moment i'v manag to display a transpar window. as soon as the frame loos focus, a titl at the top of the page appears.what i'v figur out is that the titl is the one set in

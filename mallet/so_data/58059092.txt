@@ -1,1 +1,1 @@
-fs.existsSync is not a function when importing electron
+i'm current use vue and electron and would like to restart the applic use

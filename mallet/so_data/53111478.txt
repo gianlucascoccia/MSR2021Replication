@@ -1,1 +1,1 @@
-Add comma Separated Words in textbox and perform an function
+i have here my program that take an word from #mytextarea0 and then give an output to an other textarea, everyth is work but what i want now is to add as mani word as i want comma , separ word1,word2,word3 so it will take first word run the code give output and then go to the next word after comma when there are no word anymor stop the process. ani idea how do do this? here my js code &amp; html:

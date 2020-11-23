@@ -1,1 +1,1 @@
-App installation request in osx
+i have a nwjs app that was built use nwjs-builder to creat mac applic (myapp.app) and then pack into dmg imag with node-appdmg.if i don't have ani version of my app in applic folder yet, i get this dialog when i doubl click on the app in mount dmg image:and when i click instal i get this:now my question is - can i control this behaviour somehow? disabl that instal offer, or find out how doe it tri to instal and whi doe it fail? could not find ani clue insid generat build or in nwjs-builder or in node-appdmg.

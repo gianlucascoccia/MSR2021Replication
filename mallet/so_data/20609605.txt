@@ -1,1 +1,1 @@
-node webkit: export data to csv and prompt the user to save the file
+i could implement the export data to csv on node webkit with node fs modules. but now i want to prompt the user to save the file in his/her desir location. like the download pop-up in case of html. i tri do on the line of this code and even this file dialog. could someon help me find a way out of this. here my code.

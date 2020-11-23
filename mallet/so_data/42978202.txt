@@ -1,1 +1,1 @@
-Electron - Update label in menu
+i tri to updat label on menu item when i click this menu item. it should work like click->'show label, click->'hid label. this is my code:

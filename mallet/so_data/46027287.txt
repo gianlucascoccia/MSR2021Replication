@@ -1,1 +1,1 @@
-Electron - Open Folder Dialog
+i want the user to be abl to pick a folder from the folder dialog box.so far, i'v tri follow this tutori unsuccessfully.i got stuck on the part ofwhat do i need to do in order to retriev the full path of the select folder?thanks!

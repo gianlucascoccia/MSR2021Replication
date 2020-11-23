@@ -1,1 +1,1 @@
-<script> require('renderer.js') </script> - does not connect the js file
+use electron, i'm tri to organ ipc between main and renderer. as instruct say i should add the script (see the title) to the index.html. but it doesn't look like it is loaded. noth in the rendeder.j get executed.it in this tutori https://www.brainbell.com/javascript/ipc-communication.html which is the most detail one on the topic in the internet. other just skip so much info in their articl that a learner simpli can't reproduc it in the app.i tried:etc similar.

@@ -1,1 +1,1 @@
-TiddlyWiki on node-webkit not displaying content
+i follow the tutori (in the "get started" section) on how to use tiddlywiki with node-webkit. when i then run nw.ex it doesn't display anything.im on window (64bit) and have instal the 32bit version for windows. not sure what im do wrong or if it just a bug.i have also tri ad index.html and package.json to an archiv (call app.nw) and run it with nw.exe, but still no luck.

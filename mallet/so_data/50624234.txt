@@ -1,1 +1,1 @@
-Can we integrate gstreamer in electron application?How?
+i am do java-script base desktop application. the problem is, i have to stream rtsp videos. is it possibl to use g-streamer plugin with electron? or is some other plugin avail rtsp for desktop application?i am complet new to the stream rtsp concept and desktop application.

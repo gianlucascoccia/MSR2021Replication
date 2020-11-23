@@ -1,1 +1,1 @@
-How to use electron's app.getPath() to store data?
+i want to store imag on the user computer, so i figur it should be store in user data folder, as describ here. but i get "getpath is not a function". i am not sure where to put it. it doe not work from my html file or the render file, and i'm not sure how to use it from the main file becaus that not link to the web page.

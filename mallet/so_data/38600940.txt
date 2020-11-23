@@ -1,1 +1,1 @@
-Packaged Electron App cannot find module sqlite3
+backgroundwithin an electron app, sqlite3 doesn't work right after when i open the app by double-click the creat (appname).app, the consol complains: `uncaught error: cannot find modulequestionhow can i get sqlite3 to be found in the final packag product? even "hacks" or workaround are welcome, as i tri various fix to no avail.

@@ -1,1 +1,1 @@
-Is it possible to generate a software package that runs in RHEL , CentOS and SuSE without any need for .rpm or .deb
+i am new to linux systems, first of all is it possibl to run one softwar packag across linux distribut (rhel,cento and suse). i am now clear awar of concept like rpm, deb etc.next, i have built an electron app for linux machine, it file type is just file i guess i need to convert this file to rpm, deb in order to run it in their respect distribution. am i right?

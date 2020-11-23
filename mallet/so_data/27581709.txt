@@ -1,1 +1,1 @@
-Angular route with parameters not working
+i'd like to have an object as a paramet for my rout but i'm start with a number to test the rout and it not working.her are my rout :

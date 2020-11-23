@@ -1,1 +1,1 @@
-Accessing sqlite databases on remote machine with static adress (Electron / Nodejs / fs)
+i am tri to access an sqlite file on a local area network machin locat in "sqlite" folder, on window file explor i access it use the ip address "192.168.5.15/sqlite/db.sqlite", howev when the electron aplic tri to access it, the path is convert to the local machin path "c:/applic ....../192.168 ....".pleas how can i just point the file direct use the static ip adress without convert it to local machin path?her is the code:&#xd;&#xd;&#xd;&#xd;&#xd;

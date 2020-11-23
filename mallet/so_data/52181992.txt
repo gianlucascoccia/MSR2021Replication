@@ -1,1 +1,1 @@
-Electron zoom level changed event
+is there ani event fire when the webcont zoom level is in/decreas or reset?when i do a zoom resize, use the default view menu items, the content is resized, but not the window size. and some of the content is no longer visible.so i'm tri to manual adjust the window size when the content is resized.thank

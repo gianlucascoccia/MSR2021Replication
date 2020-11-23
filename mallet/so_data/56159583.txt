@@ -1,1 +1,1 @@
-How to remove devtools Performance and ect tab in Electron?
+how to remov devtool perform and ect tab in electron??i want to remov some tab in electron devtools.ent imag descript here

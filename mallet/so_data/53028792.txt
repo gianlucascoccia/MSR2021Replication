@@ -1,1 +1,1 @@
-Restarting nodejs server on crashing in an electronjs app
+i am build an electron app and use nodej as the backend server within the app.how can i auto-restart the nodej server if it encount a crash?i am current use pm2 and use the follow code in electron main.j filehow do you guy handl this?thank

@@ -1,1 +1,1 @@
-Node-run-cmd Error after electron application is packaged
+so i'm have a issu when after i packag an electron applic this node function is unabl to run, but in develop the function work perfect well. this is the error that is suppli when the command is call like this:

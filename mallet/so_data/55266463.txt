@@ -1,1 +1,1 @@
-Why is my ipcMain not sending to ipcRenderer in Electron?
+new to electron i'v figur out how to send from render to main but i'm tri to learn how to go from main to renderer. in my research i'v read:ipc send from main process to render and tried:main.js:

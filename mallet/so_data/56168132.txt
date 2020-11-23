@@ -1,1 +1,1 @@
-create function in javascript with electronjs?
+i wrote a function in my main.j file which would generat some result onclick of button in a span of paragraph. but it is not possibl with paragraph rather it work with input type textbox?i tri differ id for same but it not workingapp threw an error dure loadtypeerror: cannot read properti on of undefin

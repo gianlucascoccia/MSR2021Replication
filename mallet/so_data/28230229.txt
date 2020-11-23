@@ -1,1 +1,1 @@
-Installing nw.js in debian returns error "version `GLIBC_2.14' not found"
+i'm tri to instal . how can i get rid of this ?

@@ -1,1 +1,1 @@
-Programmatically get list of all open tabs across all browsers using NodeJS
+is there a way to obtain a list of all current open tab across all browsers? for context, i'm work on an electron applic and i want to know when a user has certain tab open. for simplic sake let assum i'm onli go to run this on ubuntu and the browser are all chrome (although ideal it should work for ani combin of os and browsers)

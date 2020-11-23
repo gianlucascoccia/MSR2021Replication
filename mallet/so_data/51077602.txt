@@ -1,1 +1,1 @@
-Bootstrap "tabs" and "navbar" is not working in electron
+i am load bootstrap bybut my navbar is not work

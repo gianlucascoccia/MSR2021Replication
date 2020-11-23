@@ -1,1 +1,1 @@
-checking if certain row exist in nedb
+i have look all around tri to find a solut for this but i cant seem to find iti am tri to see if a certain row exist in my nedb databas and if it doesnt exist insert someth but if it doe exist then just move along here is what i have triednow i might be do someth stupid but im new to nedb so i have no idea what to use

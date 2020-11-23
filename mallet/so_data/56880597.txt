@@ -1,1 +1,1 @@
-Hot reloading is disabled after put webpack-externals in webpack.config.js
+i'm use webpack in my doe not refresh the page after hot reloading. i mean hot reload is work but the screen doesn't refresh after it.

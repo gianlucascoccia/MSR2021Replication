@@ -1,1 +1,1 @@
-How to embed Electron in a Windows window with a HWND
+have the hwnd of window in microsoft windows, how can i start a browserwindow embed in it effect embed my app?i'm write a screen saver for window and for configur and preview i get pass the hwnd of the parent window to emb my program in it.

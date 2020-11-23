@@ -1,1 +1,1 @@
-Electron Forge with SASS
+i use electron forg for an electron app. i also make use of react and typescript, and i would also like to use sass, but my current attempt fail. appar sass alreadi work without ad ani new depend to the but none of them work. what must i do to make use of sass file within electron forge?

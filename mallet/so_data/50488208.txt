@@ -1,1 +1,1 @@
-Electron sqlite3 package app module not found
+when i run the packag electron app for windows(which includ sqlite3), i get the follow error:if i packag the app for linux it work fine.ps: sqlite3 is includ as a normal depend and if i execut the app by npm start it work fine. and i took care of the rebuild processthank you :-)

@@ -1,1 +1,1 @@
-Where does electrify acquire node from?
+when i use "electrify" and "electrifi package", mongo and node are acquir from somewher and pack into the electrifi app. where do they come from? are these the mongo and node from meteor? or the one instal on the system? do both the abov command use the same mongo and node?

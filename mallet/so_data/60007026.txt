@@ -1,1 +1,1 @@
-Node Webkit open folder by path of shell windows
+good afternoon. pleas tell me how you can open a simpl folder on the path in the oper system itself (windows/linux) programmatically?al the solut i'v tri are veri crutchy. for example:

@@ -1,1 +1,1 @@
-local database with encryption to use in Electron app
+:)i'm build an electron app which is basic a search.i have a bunch of document convert to json - over 1000000 documents.i'v tri doesn't work well with electron.mayb there some simpler(mayb custom) solut for search such larg amount of data? they must be store encrypt while not need for search(when app is closed).

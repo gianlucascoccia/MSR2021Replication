@@ -1,1 +1,1 @@
-How do I retarget poorly targeted build files in a React + Electron app?
+i'm tri to build a desktop app use react &amp; electron. i can build the project with

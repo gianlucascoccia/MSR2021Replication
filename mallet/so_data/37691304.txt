@@ -1,1 +1,1 @@
-Electron not using updated css file
+i am use electron for make an app . till now i was abl to load my css file (updat version) . but sudden i have found that if i make ani chang in my css file , the chang are no longer reflect in electron . similar thing was happen in case wjen i use to run same thing in chrome browser but i got it work by clear cach . i think clear cach in electron might help me as well but i dont know how can i do that . i got this piec of code from somewher , but i dont know how to use this :(

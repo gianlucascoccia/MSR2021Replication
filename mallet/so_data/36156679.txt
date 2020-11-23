@@ -1,1 +1,1 @@
-Atom/Electron dynamic HTML paths
+i'm veri new to electron so it might be a stupid question, however: my applic use multipl windows, so natur i want to implement a (very) basic templat engin to avoid recreat page header and footer on everi page. so i did this:i didn't list the content of "node_modules" folder, as it would take a few pages, becaus it instal local via npm install.

@@ -1,1 +1,1 @@
-how to install sqlite3 in electron?
+so here is what i did, i instal electron and sqlite3 insid my project directorymi node version is 10.16.3 and i'm run ubuntu.

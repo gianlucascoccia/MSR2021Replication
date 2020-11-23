@@ -1,1 +1,1 @@
-Zero download progress when using electron-dl on ubuntu?
+i am tri to use electron-dl to download a zip file. the applic is cross platform and the download work fine in case of mac and windows. onli in case of a debian package, there is no progress on the download. the download even work when run local in ubuntu via code but not when packaged. ani help would be appreciated. thanks.

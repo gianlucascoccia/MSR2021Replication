@@ -1,1 +1,1 @@
-Detect when the user unlocks the workstation
+i'm tri to detect when a user unlock their workstation. the follow code attempt to regist the window to receiv session chang messag use wtsregistersessionnotification(). suppos after this i can listen for wm_wtssession_chang which can contain wts_session_unlock as a param.issue: current wtsregistersessionnotification() alway return false.anyon know how i can achiev this? i'm on window 10 btw.iinspect recommend getlasterror().thi is not someth support by node-ffi unfortunately.https://github.com/node-ffi/node-ffi/issues/261

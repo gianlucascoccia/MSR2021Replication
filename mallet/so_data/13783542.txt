@@ -1,1 +1,1 @@
-Get the path to the current application in node-webkit
+in node-webkit, is there ani way to find the path to the current application? in node.js, you can use what is the correct way to find the path to the current applic in node-webkit?

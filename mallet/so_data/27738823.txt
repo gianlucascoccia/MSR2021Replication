@@ -1,1 +1,1 @@
-loadHtml instead of loadUrl in atom-shell? (trying to use jade)
+atom-shel onli has a method to load html from a url?i suppos i could run an express server that serv compil html but that would be rather inefficient..

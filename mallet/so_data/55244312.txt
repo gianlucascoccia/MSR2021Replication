@@ -1,1 +1,1 @@
-Electron External Content/npm
+i know from the electron doc that external/remot content is not to be trust and a good way of mitig the risk associ with use this content is to turn nodeintegr off, load into a webview, etc. do the warn about extern content appli to modul includ in the app via npm, i.e., if i use ani code i did not write i should enabl the abov controls? or are these warn more about load a remot file via a script tag or dump a web page to the app via a call to loadurl?

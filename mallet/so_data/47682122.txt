@@ -1,1 +1,1 @@
-Unable to install electron using npm
+i am tri to instal electron but it stuck on > node install.js. i have tri mani time and left my laptop on for 2 hour but no success. then i tri npm instal --verbos electron --save-dev so that i could see stat and what is happen in background. and i realiz that it be download with onli 10kbps or less speed and after sometim it stucks. can someon pleas help me? i have search mani time on internet but didn't find ani use answer that whi i am ask a question here. thank

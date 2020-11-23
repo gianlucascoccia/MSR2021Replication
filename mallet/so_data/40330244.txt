@@ -1,1 +1,1 @@
-nwjs Menu and MenuItem - making context sensitive
+i have a context menu defin din my nwjs app. it has 4 items, includ cut, paste, copy, and select all.i would like to make the menu more awar of context. for instance, i would like to disabl past if there is noth in the clipboard.i am at a loss on how to tackl this. don't even know where to start. doe anyon have ideas?

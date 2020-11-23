@@ -1,1 +1,1 @@
-In electron, how to set callback at dialog.showMessageBox for 6.0.0 version?
+i upgrad the electron version of develop program, from 5.0.0. to 6.0.0. but i found that the argument of dialog.showmessagebox for 6.0.0 was changed. previous i put callback info as one of argument, but i upgrad to 6.0.0, i do not know how to set callback info.can you tell me how to set up it?

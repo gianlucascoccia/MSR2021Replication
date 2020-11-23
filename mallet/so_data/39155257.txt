@@ -1,1 +1,1 @@
-WebRTC not working for VPN and non-VPN client
+recent i wrote some screen-shar application, which use peer.j librari (which use webrtc) to share media content. generally, after applic start it get uniq id from peerjsserv to current client. if both of client into the vpn network, or both of client is not in vpn network - all work perfectly. but if one client is into the vpn, and anoth client is not - connect doesn't established.who know - how can i fix this?i will happi to get ani help from you.

@@ -1,1 +1,1 @@
-Using webpack on a electron app
+i'm new in electron. i have seen some tutori and video where they use webpack or someth call electron-webpack. i have use webpack for angular and vuej app bu those are web base technoligy. my question is what is/ar the benefit of use webpack when work with electron?

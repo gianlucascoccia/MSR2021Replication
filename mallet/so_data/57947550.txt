@@ -1,1 +1,1 @@
-How to use GPIO of raspberry pi in electron App?
+i am tri to build an app for raspberri pi 3 (b) use electronjs. i am not abl to use "onoff" modul of nodej to communic with gpio of raspberri pi. when i import it in main process and tri to run the app use command, the command exit with no error info. can anyon pleas suggest how to use gpio of raspberri pi3 in electron app.also if it not possibl with electronj then pleas suggest how can i implement a gui app for raspberri pi which can use gpio.sampl repo of same https://github.com/akshaykanchan/electron_gpio

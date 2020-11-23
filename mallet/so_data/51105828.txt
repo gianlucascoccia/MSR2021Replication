@@ -1,1 +1,1 @@
-How to run ElectronJs without a UI?
+as well as a ui, i'd like user to have the option of pass in command line option to my tool and for it to output the respons to the command line (eg manual or in cron).even without creat a window, the ui get go (eg taskbar on the mac), and on a linux back-end server with no ui librari it crash completely.i there a way i can avoid have to ship two app separately, and also more annoy use electron to packag up one exe, and someth like pkg for the other?thanks!

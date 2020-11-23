@@ -1,1 +1,1 @@
-How can I use DataTables in an Electron application?
+i tri ad this code to my app and it doesn't seem to load the datatables. i includ the latest datat cdn link into the head.i basic want this: http://jsfiddle.net/bbljzspf/3245/ on one of my screen in my electron app, so i got the sourc and attempt to see if it render but noth show up.i need to clean it up a bit but i still don't understand whi it doesn't work

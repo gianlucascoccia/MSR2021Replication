@@ -1,1 +1,1 @@
-How to hook a target URL with my own resources in electron?
+i'm play around with electron and want to do the following:us how can i implement my requir use electron?

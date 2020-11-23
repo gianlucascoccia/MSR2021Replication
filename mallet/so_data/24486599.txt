@@ -1,1 +1,1 @@
-Angular JS Auto-update view from events
+i have a list that is be fed to the view, it is shown correct but when an event fire that event could add an item to the list and i want angular to updat the view with that new item on the list.so the idea is:

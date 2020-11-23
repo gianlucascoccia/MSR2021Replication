@@ -1,1 +1,1 @@
-Dockable tabs in Electron
+i'm creat a document edit tool in electron and i'd realli like to split the function view into dockabl window within the program. i like the function of atom dockabl windows, and how it rememb where they are on next load.i'm wonder if there are ani compon librari or project out there which are a barebon exampl of this working? i'v tri pick apart atom to work out how it works, but i'm not sure if i'm go to be abl to clean extract their code.

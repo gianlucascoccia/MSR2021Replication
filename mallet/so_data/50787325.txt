@@ -1,1 +1,1 @@
-Make webpack ignore a certain import
+i'm tri to creat a desktop app use electronj and reactjs.th render process is bundl use webpack, sinc i'm use jsx in it.when i tri to import anyth from electron (e.g. (the capit e is becaus vs code recogn that as a namespac even though electron isn't imported, and thus i still get code completion)but that realli ugli and i was hope there was anoth solution.

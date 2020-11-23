@@ -1,1 +1,1 @@
-How to detect when chromium/ electron is done zooming?
+i'm work in electron and tri to detect when electron is done execut control + 0 function which bring the zoom of the window back to 100%. i have a menu like the 3 dot menu in the top right of chrome and want to have the zoom number updat when i use control + 0. howev from what i'v tri i'v gather that if i just add a keyboardev listen like i did below the function i run to updat the menus zoom will finish befor electron/ chromium is done.so how would i detect when this is done so i can execut my function accordingly?

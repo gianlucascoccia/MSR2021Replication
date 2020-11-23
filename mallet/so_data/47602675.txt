@@ -1,1 +1,1 @@
-Play 2.6 with Electron App - CORS
+i'm have the invalid cor problem with play framework., but made no difference.thank in advance!

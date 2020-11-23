@@ -1,1 +1,1 @@
-Unable to import class from typescript
+first and foremost, it may be worth mention that i am write an electron applic and would like to use typescript for a number of reasons. unfortunately, i am run into some issu and have been spin my wheel on this for sever hour at this point, so i would great appreci ani insight as i'm veri new to typescript.tsconfig.jsoni have tri a number of variat of the abov to get past this error but have been unsuccess in find a solution. perhap someon with more experi in this space can provid some guidance?

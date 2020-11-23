@@ -1,1 +1,1 @@
-Style system tray with node-webkit application
+i'm build a background window applic use node-webkit that has a system-tray menu. i'd like to be abl to build a system tray menu that is more complex than a dropdown with checkboxes; someth more akin to dropbox:ther is no mention of style the system tray in nw.js docs. how can i do this with nw.js?if not nw.js, what other languages/framework would be a good fit to do someth like this?

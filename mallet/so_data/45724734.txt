@@ -1,1 +1,1 @@
-electron - incremental updating?
+i am use electron-vu &amp; electron-packager.i am wonder whether i can do someth like increment updating, that is, after run an electron build command, i don't need to copi the whole have been changed. if i just copi these file to the dist machine, it seem that the machin updat well. but i am not sure whether some hidden file are chang too. i would appreci it if anyon could help me!

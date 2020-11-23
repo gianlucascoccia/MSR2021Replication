@@ -1,1 +1,1 @@
-How to close fs.watch listener for a folder
+i have an applic that allow a user to continu upload the content of a local folder to a folder in the cloud. the applic is built with it did not work. i don't know what i need to do.

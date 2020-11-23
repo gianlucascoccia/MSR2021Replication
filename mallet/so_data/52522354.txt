@@ -1,1 +1,1 @@
-electron - window.postMessage to talk between preload and renderer with specific target origin
+i would like to validate/differenti the origin of a messag use the .doe someon know how to acheiv what i'm tri to acheive?thank you

@@ -1,1 +1,1 @@
-Use Sqlite & Knex with Node Module
+im build a desktop app with electron and use for that js and jquery. all of them are instal as modul and use with "require" . it work perfect. now i want my databas with sqlite and knex and tri to start the node server with the knex and sqlite db togeth with the app. but the problem is, that knex cant find the sqlite module. can someon help me?

@@ -1,1 +1,1 @@
-node webkit - Support for mnemonics in menus
+is there ani way to creat menus with submenus and parent menu have mnemonics?for exampl parent menu = option (alt+o)submenus - save (ctrl+s), open (ctrl+o), exit (ctrl+x)on hit alt+o - submenu should show up

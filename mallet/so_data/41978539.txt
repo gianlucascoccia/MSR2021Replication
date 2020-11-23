@@ -1,1 +1,1 @@
-javascript - Capturing console with line number
+how do i captur the line number of log when captur the console?(chrom onli - other browser not relev for me)i have the below to captur all logs;when the consol is return the line number for all consol is 123 as expect - this isn't important. what i want is to be abl to push the origin consol log number to my array.it is a nw.js app so a chrome api / nw api would be great [if it exists]

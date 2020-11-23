@@ -1,1 +1,1 @@
-Electron Application Cannot find Squirrel
+i am write an electron applic for window with auto updat capabilities, use the autoupdat api. am i suppos to instal some squirrel package? i cant find anyth in the document about instal extra packag for squirrel.thi is in electron v0.36.0

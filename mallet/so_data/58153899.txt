@@ -1,1 +1,1 @@
-How to minify typescript source code in electron app?
+i built an electron app with electron-forg use react and typescript, but i found out it contain my whole typescript sourc code in the distribution. after dug around, it seem that there no way to get rid of the source, even hook provid by electron-packager, but don't know how exact i should do it, ani suggestions?

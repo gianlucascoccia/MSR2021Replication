@@ -1,1 +1,1 @@
-How to keep my Electron app in foreground when I use getUserMedia(... chromeMediaSource: 'desktop')?
+like in this desktop captur example, i use getusermedia() (or webkitgetusermedia()) to screenshar a desktop app open on my computer:when i use this function, the window select is focus and go to the foreground. how to avoid this behaviour and keep my electron in the foreground?i need to stay focus on my electron application.

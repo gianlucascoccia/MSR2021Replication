@@ -1,1 +1,1 @@
-Is there any API in express to stop http server in code?
+i'm set up a express server in electron.how can i stop it in a button handler?can't find a express api for this.

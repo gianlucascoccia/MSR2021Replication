@@ -1,1 +1,1 @@
-Spectron test leaves window open
+i am use just the basic spectron test file (in typescript) to open my app, get the window count, and presum exit. however, spectron

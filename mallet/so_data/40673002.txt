@@ -1,1 +1,1 @@
-Electron : Module version mismatch. Expected 50, got 48
+so i am tri to bridg object c and node.j use nodobjc :after ad this, i am get this except : modul version mismatch. expect 50, got 48.i am use node v7.1.0 &amp; npm 3.10.9.i check this to see if anyth is out of date, but there noth with a node_module_vers of 50. what is go on here?

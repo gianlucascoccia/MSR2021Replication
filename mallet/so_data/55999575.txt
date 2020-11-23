@@ -1,1 +1,1 @@
-Create log file by date wise in electron
+i want to save log by date wise in electron app for windows. log contain user feedback that are submit from feedback screen [angular].i check electron-log but it seem it more relat to debug logs.can anyon help to get ride of this problem ?

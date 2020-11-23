@@ -1,1 +1,1 @@
-Uncaught TypeError: PouchDB is not a constructor
+i'm struggl to understand this error: uncaught typeerror: pouchdb is not a constructorth code is as follows:to my package.json should help, but it isn't. i'v test on anoth simpl .js file and works, but on my main app it isn't. still, i don't understand whi it wouldn't work. the pouch document is quit clear https://pouchdb.com/api.html#create_document.i should mention i'm run this on the context of an electron app, not in the browser.i'm baffl at this point, ani help would be great appreciated. cheers!

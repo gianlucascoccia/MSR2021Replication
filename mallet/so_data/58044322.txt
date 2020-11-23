@@ -1,1 +1,1 @@
-How do i make a separate menu for a specific window in electron?
+i am work on an about this app window on window and i want to make a custom menu bar for my about window. sinc i alreadi have a custom menu is there a way i can creat anoth one and appli it onli to that specif window?sid note:her is my code for the new window that is suppos to stop it from be adjust and go into full screen, but for some reason the minim and enlarg button still work.

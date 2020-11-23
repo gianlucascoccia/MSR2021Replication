@@ -1,1 +1,1 @@
-Node-Webkit Menubar Add New Item Inside createMacBuiltin List
+i'm work on make a menubar for a node-webkit mac app.i am tri to append a "replace" menu item to the second/root menu(edit > undo, redo, etc).i know how to append to the default menubar

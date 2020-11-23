@@ -1,1 +1,1 @@
-Wamp server and electron io
+i'v been tri to develop a desktop applic use electron,i'm use php as server side languag with wamp server,how we can packag the applic with a server and the databas in an .ex file???

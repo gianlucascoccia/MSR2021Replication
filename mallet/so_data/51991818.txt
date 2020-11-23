@@ -1,1 +1,1 @@
-angular-electron app not launching and automatically exiting
+am tri to set up angular 6 and electron 2.0 project app. after all depend were instal and run npm run electron-build the app is build success and the dist folder was generat but the app is automat exit without launching.her is the package.json file

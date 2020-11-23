@@ -1,1 +1,1 @@
-jquery "in" selector when affect css inside an iframe
+i'm tri to manipul font size insid of an ifram by use keycod in a node webkit container.i'v got some code that work on a td element in the iframe, but when i tri to remov the td part of the selector, i get this error:but i need to be abl to affect more than just element insid a td. how would i be abl to make it so i can affect the font-siz in the whole iframe?

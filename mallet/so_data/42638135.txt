@@ -1,1 +1,1 @@
-Executable run from electron project isn't loading resources
+i am make a electron applic that launch an execut store on my comput when run. if i run the exe by itself, it work correct and load all of the fonts. however, when run by the electron app, it opens, but non of the font file can be loaded. the exe is a compil releas project made in visual studio.i tri put the res folder into the same directori as index.html to no avail.cod for index.html:thanks!

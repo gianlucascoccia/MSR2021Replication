@@ -1,1 +1,1 @@
-Clicking button but doesn't open window or link Electron
+im write a program to monitor price on the steam market and im build a ui in electron, the issu is that when i click a button it doesn't register. i have tri with log it to consol or send to a new window or open a link but it doesn't work. i tire use an .on('click', .... as well index.js:&#xd;&#xd;&#xd;&#xd;&#xd;if the button was to work it should open a new instanc of the window with the text chang to text.ani help is appreciated.
