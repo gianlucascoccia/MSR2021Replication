@@ -3,6 +3,10 @@
 import pandas as pd
 import numpy as np
 import re
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+#nltk.download('stopwords')
 
 # %% Load questions 
 
@@ -16,6 +20,10 @@ so_questions.Body = so_questions.Body.apply(lambda x: re.sub('\<code(.*)code>', 
 
 so_questions.Body = so_questions.Body.apply(lambda x: re.sub('<[^<]+?>', '', x))
 so_questions.Body = so_questions.Body.apply(lambda x: re.sub('&#xA;', '', x))
+
+# %% Remove stopwords from body 
+
+so_questions.Body = so_questions.Body.apply(lambda x: ' '.join([w for w in word_tokenize(x) if not w in stopwords.words('english')]))
 
 # %% Store cleaned and processed data
 
