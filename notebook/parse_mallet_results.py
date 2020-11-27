@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 
 # %% params
 
-IN_FOLDER = '../mallet/so_results/'
-OUT_FILE = 'topics_report.txt'
+IN_FOLDER = '../mallet/git_results/'
+OUT_FILE = 'topics_report_git.txt'
 
 # %% List files in folder
 
@@ -63,11 +63,12 @@ with open(OUT_FILE, 'w') as output:
     for m in metrics:
 
         # Print metric name
-        output.write("\n{s:{c}^{n}}\n".format(s=m, c='-', n=padding_width))
+        output.write("\n {s:{c}^{n}} \n".format(s=m, c='-', n=padding_width - 2))
 
         # Print header
-        output.write('{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18} \n'.format(*['num_topics'] + [i for i in list(item[1].keys())]))
+        output.write('{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18} \n'.format(*['num_topics'] + [i for i in list(metrics_list[1][1].keys())]))
         output.write("-" * padding_width + "\n")
+
 
         # Print body
         for item in metrics_list:     
@@ -76,8 +77,6 @@ with open(OUT_FILE, 'w') as output:
             num_topics = item[0][36:-4]
             
             output.write('{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18}{:^18} \n'.format(*[num_topics] + [i[m] for i in list(item[1].values())]))
-
-            print(item)
 
         output.write('\n')
     # %%

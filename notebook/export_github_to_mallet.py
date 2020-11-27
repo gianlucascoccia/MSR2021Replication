@@ -6,7 +6,7 @@ import nltk
 
 # %% params
 
-OUT_FOLDER = '../mallet/issues_data/'
+OUT_FOLDER = '../mallet/git_data/'
 STEMMING =  False
 LEMMING =  True
 
