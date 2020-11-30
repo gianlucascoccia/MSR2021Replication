@@ -21,10 +21,10 @@ lemmatizer = nltk.stem.WordNetLemmatizer()
 stemmer = nltk.stem.snowball.SnowballStemmer("english")
 
 def lemmatize_text(text):
-    return [stemmer.stem(w) for w in w_tokenizer.tokenize(text)]
+    return [lemmatizer.lemmatize(w) for w in w_tokenizer.tokenize(text)]
 
 def stem_text(text):
-    return [lemmatizer.lemmatize(w) for w in w_tokenizer.tokenize(text)]
+    return [stemmer.stem(w) for w in w_tokenizer.tokenize(text)]
 
 def df_to_file(_index, _row, _fieldname):
     issue_name = str(int(_row['Id']))
