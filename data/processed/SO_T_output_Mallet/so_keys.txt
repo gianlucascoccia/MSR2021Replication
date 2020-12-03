@@ -1,0 +1,14 @@
+0	0,0984	file build packag creat electron-build folder window mac webpack product electron-packag set includ differ project exe open version issu instal 
+1	0,12837	load page react html webview work angular script file insid compon javascript content chang url reload can't css dom print 
+2	0,09998	modul error requir find node import nativ typescript defin webpack angular uncaught compil node.j can't project path librari found work 
+3	0,02757	access api check differ detect invalid devic usb user connect error port javascript fail oper key nodejs serial node.js format 
+4	0,1117	desktop server request web api connect work test angular client node http run googl nodej make express proxi framework browser 
+5	0,08143	data variabl nedb databas object access store sqlite pass angular javascript valu set global array share creat multipl updat compon 
+6	0,05064	process render main window child ipc send access communic call close messag spawn parent function block browserwindow data thread object 
+7	0,09772	file save video html imag download local read path node.j open node javascript data directori write upload audio play system 
+8	0,03939	undefin properti function read return typeerror error type object uncaught valu angular option undefined javascript unknown whi null promis string 
+9	0,14268	window open show menu click browser screen make close button event chang browserwindow work set icon disabl bar default creat 
+10	0,06725	node run webkit command execut start script packag error python line npm shell instal pass window argument atom node.j program 
+11	0,07652	error instal build npm fail window run packag updat electron-build sign start mac code work doe unabl version sqlite ubuntu 
+12	0,05	code debug chrome sourc visual doe studio test run tool extens vscode consol log devtool work spectron whi show dev 
+13	0,06176	event call function work javascript node.j ipcrender method callback send data angular time ipcmain insid wait receiv memori react listen 

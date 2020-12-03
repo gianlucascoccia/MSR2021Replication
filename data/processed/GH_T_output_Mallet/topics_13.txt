@@ -1,0 +1,13 @@
+ACCOUNT 	0	0,04924	connect error account password key server login user set email can't messag unabl sign fail work log add support devic 
+ERROR 	1	0,01633	uncaught error read properti typeerror undefin modul enoent file find object spawn directory null undefinedtypeerror objec open lstat appdata\local\atom\app found 
+MESSAGING 	2	0,06056	room messag user show list notif group invit button set chat doesn't click event unread avatar don't join send read 
+SUGGESTION 	3	0,06829	add page support link improv implement updat search design creat imag compon app export file translat url data broken content 
+CRYPTO 	4	0,02311	wallet ethereum mist account transact sync show send contract eth ether node connect balanc address can't block creat display transfer 
+INSTALL/PLATFORM 	5	0,0558	instal build packag updat fail version error window linux releas break run npm ubuntu broken depend in-rang electron game latest 
+FILES	6	0,06243	file open folder window project save crash chang editor delet directori download tab drag multipl creat imag note can't view 
+TEXT	7	0,08819	text line work select search editor doesn't theme highlight code mode dark charact bug input scroll cursor color markdown chang 
+SUGGESTION2 	8	0,05247	request featur add support option note abil suggestion list tag feature search task set disabl folder import view file playlist 
+TESTING 	9	0,05531	test error cypress run fail branch command repositori commit file git set repo chang log github clone doe element code 
+ERROR2	10	0,00954	function uncaught error call exception render window close provid attempt released miss object remot process command occur getposit failed javascript 
+UI 	11	0,07131	window menu icon button work bar tab add play show close click open doesn't shortcut app tray option set keyboard 
+CRASH 12	0,06712	desktop app window work open crash start updat doesn't doe version screen signal launch error instal mac android can't linux 

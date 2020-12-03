@@ -1,0 +1,14 @@
+RELASE/PACKAGING	0	0,09855	file build packag creat electron-build window folder mac product electron-packag webpack set issu exe differ includ project icon bundl electron-forg 
+PAGE CONTENT/ LOADING	1	0,12733	load page work react html webview angular javascript script file compon insid url content chang can't reload local dom element 
+DEPENDENCIES	2	0,10134	modul error find requir node import webpack nativ defin typescript uncaught angular compil can't node.j work found project version librari 
+DEVICES	3	0,02741	access api differ usb check devic error invalid connect detect port user oper key javascript serial call nodejs fail uri 
+HTTP REQUESTS	4	0,11467	desktop server request web api connect test work angular client node http make run browser googl nodej express proxi possibl 
+DATABASES 	5	0,08281	data variabl nedb databas object pass access store sqlite angular set javascript global valu share array updat multipl creat chang 
+INTERPROCESS COMM	6	0,05182	process render main window child ipc send messag access communic call parent spawn function close block object thread data fork 
+FILE HANDLING 	7	0,10016	file save video html imag local node download path node.j open read javascript json upload write data audio play system 
+EXCEPTIONS	8	0,0403	undefin properti read function error typeerror return type valu uncaught undefined object javascript whi unknown option string angular null array 
+UI	9	0,14327	window open show menu click browser screen close make event browserwindow chang button set disabl icon work default bar context 
+DEV TOOLS?	10	0,06706	node run webkit command start script execut packag line window shell python npm instal node.j argument atom error nodej program 
+INSTALL/UPDATES 	11	0,07791	error instal build npm fail packag run window updat mac sign electron-build code doe work start version sqlite unabl whi 
+DEBUGGING	12	0,05123	code debug chrome sourc visual doe studio test run vscode tool extens log consol devtool work whi typescript add dev 
+CALLBACKS	13	0,06358	event function call work javascript node.j ipcrender method send data callback time angular ipcmain execut nodej receiv doesn't wait insid 
