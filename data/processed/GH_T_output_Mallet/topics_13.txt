@@ -1,13 +1,13 @@
-0	0,05158	instal packag build fail updat version error linux window break releas broken npm run game depend in-rang ubuntu modul load 
-1	0,07559	window app open work desktop icon updat crash doesn't start doe close linux version notif screen mac maco launch tray 
-2	0,05681	window bar theme scroll dark menu mode text screen size chang icon font tab button set editor color view display 
-3	0,05891	room messag user show invit notif list set button doesn't group chat click join email event send devic avatar don't 
-4	0,06463	branch account github page user repositori add password desktop implement login chang commit creat updat error key publish repo set 
-5	0,05895	file open folder window project save chang directori crash delet note path editor view can't drag creat work tab multipl 
-6	0,05562	request featur add support option note set abil feature tag custom suggestion api variabl list disabl search creat data bug 
-7	0,03963	add page video play track link download show imag load support channel url button feature preview bug call song work 
-8	0,048	line code highlight text markdown render syntax charact bug file html support block work export editor type error tag display 
-9	0,05787	test error cypress run fail command set log doe browser chrome work spec element pass server add report code electron 
-10	0,02109	error uncaught read properti typeerror undefin object enoent function modul call file spawn find directory miss null undefinedtypeerror objec remot 
-11	0,03328	wallet sync connect mist ethereum account error can't send contract eth ether node show transact cpu problem issu usag memori 
-12	0,04867	work shortcut search keyboard doesn't menu key text tab select doe click input ctrl add button focus copi past type 
+BUILD & RELASES 0	0,05158	instal packag build fail updat version error linux window break releas broken npm run game depend in-rang ubuntu modul load 
+PLATFORM INTEGRATION 1	0,07559	window app open work desktop icon updat crash doesn't start doe close linux version notif screen mac maco launch tray 
+USER INTERFACE 2	0,05681	window bar theme scroll dark menu mode text screen size chang icon font tab button set editor color view display 
+MESSAGING 3	0,05891	room messag user show invit notif list set button doesn't group chat click join email event send devic avatar don't 
+ACCOUNT 4	0,06463	branch account github page user repositori add password desktop implement login chang commit creat updat error key publish repo set 
+FILE MANIPULATION 5	0,05895	file open folder window project save chang directori crash delet note path editor view can't drag creat work tab multipl 
+FEATURE REQUEST & SUGGESTIONS 6	0,05562	request featur add support option note set abil feature tag custom suggestion api variabl list disabl search creat data bug 
+FEATURE REQUEST & SUGGESTIONS2 7	0,03963	add page video play track link download show imag load support channel url button feature preview bug call song work 
+TEXT MANIPULATION 8	0,048	line code highlight text markdown render syntax charact bug file html support block work export editor type error tag display 
+TESTING 9	0,05787	test error cypress run fail command set log doe browser chrome work spec element pass server add report code electron 
+ERROR 10	0,02109	error uncaught read properti typeerror undefin object enoent function modul call file spawn find directory miss null undefinedtypeerror objec remot 
+CRYPTOS 11	0,03328	wallet sync connect mist ethereum account error can't send contract eth ether node show transact cpu problem issu usag memori 
+INPUT 12	0,04867	work shortcut search keyboard doesn't menu key text tab select doe click input ctrl add button focus copi past type 

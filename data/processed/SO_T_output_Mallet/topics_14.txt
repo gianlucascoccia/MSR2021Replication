@@ -1,0 +1,14 @@
+PLATFORM INTEGRATION 0	0,06846	run error command script start npm node.js running doe line execute python node code packaged shell argument work doesn't atom 
+USER INTERFACE 1	0,12461	window open menu browser event click button icon windows show change close set make browserwindow create system disable bar showing 
+TESTING 2	0,07186	desktop test apps web browser chrome spectron testing run angular google electronjs framework windows build selenium based api nodejs working 
+DEPENDENCIES 3	0,10473	module error node find require defined native webpack import typescript angular uncaught react version nodejs can't found project file library 
+BUILD & RELEASES 4	0,11884	build electron-builder package windows file mac install electron-packager error folder project packaging window exe builder building linux production sqlite create 
+CLIENT-SERVER 5	0,06591	server request http node.js data error web client proxy angular connect express mysql node response post api nodejs send url 
+PLATFORM INTEGRATION2 6	0,05218	node webkit working chrome dev mode print tool detect device memory make version webrtc printer screen enable support built development 
+ERROR 7	0,03904	undefined property function read error typeerror return type javascript uncaught object string empty variable null array returning typescript class result 
+DEBUGGING 8	0,04524	code variable javascript global function set node.js visual studio source debug vscode access typescript environment object debugging inside doe run 
+ASYNC COMM 9	0,09494	react angular work component function event working doesn't inside call ipcrenderer doe vue data change callback method javascript click ipcmain 
+FILE MANIPULATION 10	0,1107	file local load image html javascript save path node.js nodejs directory open angular json read download resource system node data 
+DATABASES 11	0,05983	data database nedb sqlite object store user create desktop query offline update session input api end pouchdb multiple local backend 
+PAGE CONTENTS 12	0,09722	page webview html content loading element script screen window dom browserwindow javascript tag video change access electronjs load iframe inside 
+IPC 13	0,05643	process main renderer window child ipc access message multiple render browserwindow call event instance parent communication object function send share 
