@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 
 # %% params
 
-IN_FOLDER = '../mallet/git_results/'
-OUT_FILE = 'topics_report_git.txt'
+IN_FOLDER = '../mallet/so_results/'
+OUT_FILE = '../mallet/so_results/topics_report_so.txt'
 
 # %% List files in folder
 

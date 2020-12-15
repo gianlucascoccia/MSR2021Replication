@@ -7,7 +7,7 @@ import nltk
 # %% params
 
 OUT_FOLDER = '../mallet/so_data/'
-STEMMING =  False
+STEMMING = False 
 LEMMING =  True
 
 # %%  load stack overflow questions
@@ -39,11 +39,11 @@ def df_to_file(_index, _row, _fieldname):
 
 # %% output comments one question per file as mallet requires (body only)
 
-for index, row in so.iterrows():
-    df_to_file(index, row, 'Body')
+#for index, row in so.iterrows():
+#    df_to_file(index, row, 'Body')
 
 # %% output one question per file as mallet requires (title only)
 
-#for index, row in so.iterrows():
-#    df_to_file(index, row, 'Title')
+for index, row in so.iterrows():
+    df_to_file(index, row, 'Title')
 
