@@ -38,9 +38,9 @@ stats = ['Score', 'ViewCount', 'AnswerCount', 'CommentCount', 'FavoriteCount']
 for s in stats:
     print('\n--------- {} ---------'.format(s))
     print('\n##### NW ####### ') 
-    print('Min {} Max {} Median {} SD {} IQR {}'.format(np.min(nw[s]), np.max(nw[s]), np.nanmedian(nw[s]), np.std(nw[s]), np.nanquantile(nw[s], 0.75) - np.nanquantile(nw[s], 0.25)))
+    print('Min {} Max {} Median {} Mean {} SD {} IQR {}'.format(np.min(nw[s]), np.max(nw[s]), np.nanmedian(nw[s]), np.nanmean(nw[s]), np.std(nw[s]), np.nanquantile(nw[s], 0.75) - np.nanquantile(nw[s], 0.25)))
 
     print('\n##### EL ####### ') 
-    print('Min {} Max {} Median {} SD {} IQR {}'.format(np.min(el[s]), np.max(el[s]), np.nanmedian(el[s]), np.std(el[s]), np.nanquantile(el[s], 0.75) - np.nanquantile(el[s], 0.25)))
+    print('Min {} Max {} Median {} Mean {} SD {} IQR {}'.format(np.min(el[s]), np.max(el[s]), np.nanmedian(el[s]), np.nanmean(el[s]), np.std(el[s]), np.nanquantile(el[s], 0.75) - np.nanquantile(el[s], 0.25)))
 
 # %%
