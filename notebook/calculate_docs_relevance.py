@@ -3,6 +3,9 @@
 import pandas as pd
 import numpy as np
 import datetime
+import scipy.stats as stats
+import matplotlib.pyplot as plt 
+import scikit_posthocs as sp
 
 # %% Params
 
@@ -72,6 +75,19 @@ so_data['Id']= so_data['Id'].astype(str)
 
 so_data = so_data.merge(comp_data, left_on = 'Id', right_on = 'filename')
 
+# %% Merge probabilities of topics that were manually merged (topics 1 & 7)
+
+so_data['topic_1'] = so_data['topic_1'].astype(np.float64) + so_data['topic_7'].astype(np.float64)
+
+so_data = so_data.drop('topic_7', axis=1)
+
+# %% Remove probabilities < 0.05 in SO --- CURRENTLY NOT USED 
+
+#cols = [1,2,3,4,5,6,8,9,10,11,12,13,14]
+
+#for c in cols:
+#    so_data['topic_' + str(c)] = so_data['topic_' + str(c)].astype(np.float64).apply(lambda x: x if x > 0.05 else np.nan)
+
 # %% multiplicate probs for the time
 
 so_data['time_topic_1'] = so_data['topic_1'].astype(np.float64) * so_data['AliveTime'] 
@@ -80,7 +96,7 @@ so_data['time_topic_3'] = so_data['topic_3'].astype(np.float64) * so_data['Alive
 so_data['time_topic_4'] = so_data['topic_4'].astype(np.float64) * so_data['AliveTime'] 
 so_data['time_topic_5'] = so_data['topic_5'].astype(np.float64) * so_data['AliveTime'] 
 so_data['time_topic_6'] = so_data['topic_6'].astype(np.float64) * so_data['AliveTime'] 
-so_data['time_topic_7'] = so_data['topic_7'].astype(np.float64) * so_data['AliveTime'] 
+#so_data['time_topic_7'] = so_data['topic_7'].astype(np.float64) * so_data['AliveTime'] 
 so_data['time_topic_8'] = so_data['topic_8'].astype(np.float64) * so_data['AliveTime'] 
 so_data['time_topic_9'] = so_data['topic_9'].astype(np.float64) * so_data['AliveTime'] 
 so_data['time_topic_10'] = so_data['topic_10'].astype(np.float64) * so_data['AliveTime'] 
@@ -114,6 +130,20 @@ gh_data['filename']= gh_data['folderName'] + '_' + gh_data['id'].astype(int).ast
 
 gh_data = gh_data.merge(comp_data, left_on = 'filename', right_on = 'filename')
 
+# %% Remove probabilities < 0.05 in GH --- CURRENTLY NOT USED 
+
+#cols = [1,2,3,4,5,6,7,9,10,11,12,13]
+
+#for c in cols:
+#    gh_data['topic_' + str(c)] = gh_data['topic_' + str(c)].astype(np.float64).apply(lambda x: x if x > 0.05 else np.nan)
+
+# %% Merge probabilities of topics that were manually merged (topics 7 & 8)
+
+gh_data['topic_7'] = gh_data['topic_7'].astype(np.float64) + gh_data['topic_8'].astype(np.float64)
+
+gh_data = gh_data.drop('topic_8', axis=1)
+
+
 # %% multiplicate probs for the time
 
 gh_data['time_topic_1'] = gh_data['topic_1'].astype(np.float64) * gh_data['aliveTIme'] 
@@ -123,7 +153,7 @@ gh_data['time_topic_4'] = gh_data['topic_4'].astype(np.float64) * gh_data['alive
 gh_data['time_topic_5'] = gh_data['topic_5'].astype(np.float64) * gh_data['aliveTIme'] 
 gh_data['time_topic_6'] = gh_data['topic_6'].astype(np.float64) * gh_data['aliveTIme'] 
 gh_data['time_topic_7'] = gh_data['topic_7'].astype(np.float64) * gh_data['aliveTIme'] 
-gh_data['time_topic_8'] = gh_data['topic_8'].astype(np.float64) * gh_data['aliveTIme'] 
+#gh_data['time_topic_8'] = gh_data['topic_8'].astype(np.float64) * gh_data['aliveTIme'] 
 gh_data['time_topic_9'] = gh_data['topic_9'].astype(np.float64) * gh_data['aliveTIme'] 
 gh_data['time_topic_10'] = gh_data['topic_10'].astype(np.float64) * gh_data['aliveTIme'] 
 gh_data['time_topic_11'] = gh_data['topic_11'].astype(np.float64) * gh_data['aliveTIme'] 
@@ -136,6 +166,7 @@ gh_data['time_topic_13'] = gh_data['topic_13'].astype(np.float64) * gh_data['ali
 #with open('../data/raw/accepted_answers_id.txt','a') as ID_FILE:
 #    np.savetxt(ID_FILE, so_data.AcceptedAnswerId, fmt='OR ID = %d')
 
-# %% Merge topics
+# %% Export data
 
-
+so_data.to_csv('so_test_data.csv')
+gh_data.to_csv('gh_test_data.csv')
