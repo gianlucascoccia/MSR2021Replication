@@ -15,7 +15,7 @@ The online appendix with the complete discussion of all topics mentioned in the 
 
 # Replication package
 
-Data used in the study is available in the folder (data/processed).
+Data used in the study is available in the folder [data/processed](data/processed).
 
 Below, we describe in a step-by-step fashion how this data was collected and processed.
 
