@@ -22,8 +22,11 @@ Below, we describe in a step-by-step fashion how this data was collected and pro
 Quick links:
 
 [Stack Overflow dataset](##stack-overflow-dataset)
+
 [GitHub dataset](##github-dataset)
+
 [Topic modeling](##topic-modeling)
+
 [Statistical analysis](##statistical-analysis)
 
 
