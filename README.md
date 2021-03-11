@@ -15,4 +15,14 @@ The online appendix with the complete discussion of all topics mentioned in the 
 
 # Replication package
 
-## 
+## Stack Overflow data
+
+The 
+
+## Selection of relevant Stack Overflow questions
+
+The queries used to select relevant Stack Overflow questions are available in the file: [so_torrent_queries](so_torrent_queries.txt)
+
+First query selects 
+
+Second query was used to collect accepted answers for the questions returned by the first query.
