@@ -17,12 +17,14 @@ The online appendix with the complete discussion of all topics mentioned in the 
 
 ## Stack Overflow data
 
-The 
+The Stack Oveflow data was collected by means of the [SOTorrent](https://empirical-software.engineering/sotorrent/) dataset.
+
+## Tags
 
 ## Selection of relevant Stack Overflow questions
 
-The queries used to select relevant Stack Overflow questions are available in the file: [so_torrent_queries](so_torrent_queries.txt)
+The queries used to select relevant Stack Overflow questions from SOTorrent are available in the file: [so_torrent_queries.txt](so_torrent_queries.txt)
 
-First query selects 
+First query selects relevant questions (based on their tags).
 
 Second query was used to collect accepted answers for the questions returned by the first query.
