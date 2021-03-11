@@ -22,8 +22,9 @@ Below, we describe in a step-by-step fashion how this data was collected and pro
 Quick links:
 
 [Stack Overflow dataset](##stack-overflow-dataset)
-
+[GitHub dataset](##github-dataset)
 [Topic modeling](##topic-modeling)
+[Statistical analysis](##statistical-analysis)
 
 
 ## Stack Overflow dataset
@@ -42,8 +43,14 @@ First query selects relevant questions (based on their tags).
 
 Second query was used to collect accepted answers for the questions returned by the first query.
 
+## GitHub dataset
+
+
 ## Topic modeling
 
 Topic modeling was executed by means of the [Mallet tool](http://mallet.cs.umass.edu).
 
 The commands used to execute the tool from the command line is provided in the [mallet_instructions.txt](mallet_instructions.txt) file. 
+
+## Statistical analysis
+
