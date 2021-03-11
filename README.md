@@ -20,7 +20,11 @@ Data used in the study is available in the folder [data/processed](data/processe
 Below, we describe in a step-by-step fashion how this data was collected and processed.
 
 Quick links:
+
 [Stack Overflow dataset](##stack-overflow-dataset)
+
+[Topic modeling](##topic-modeling)
+
 
 ## Stack Overflow dataset
 
