@@ -1,1 +1,1 @@
-i cant understand where doe squirel instal get the valu of
+electron winstaller creates shortcut in wrong group

@@ -1,1 +1,1 @@
-i want to identifi if node-webkit is in sdk or normal version.i there a way to do this at code level?
+Programmatically identify SDK and normal version

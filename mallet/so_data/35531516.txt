@@ -1,1 +1,1 @@
-i'm think of make a text expand app with electron. is it even possibl to make an electron app that can do that? for instance, if the electron app is open and i enter an abbrevi into sublim text and hit tab will it expand?
+Can Electron affect other OS apps?

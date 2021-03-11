@@ -1,1 +1,1 @@
-i'm use this modul in my electron app to convert some databas data into html string and then convert it to a pdf file. but i want to show the user a save as dialog instead of save it to a specif folder. i couldn't find a way to do that use filesaver.js. can ani bodi help me with this?i tri this use electron dialog api but it didn't work.
+Using node-html-pdf with FileSaver.js

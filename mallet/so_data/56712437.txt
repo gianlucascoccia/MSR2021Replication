@@ -1,1 +1,1 @@
-i'm have a hard time configur vs code to debug an electron app.what i'm tri to do is to build the project with the this doesn't work. the program start but everi breakpoint get "unverified" and it is not hit. probabl because, as far as i know, quasar use babel to transpil file or someth like that. i think i'm miss some configs. ani idea how can i debug it?
+How to debug Quasar Electron App with VS Code

@@ -1,1 +1,1 @@
-i use the mysql node modul and i have loop where i will get some stuff from my db. when all file are flage as used=1 i will run into this error becaus no more stuff to get :)pleas notic that i use electron and i see the console.log onli in the inspector like you have in everi website. i onli get red error code!
+Electron & Node.js MySQL how to write a console.log before an Error?

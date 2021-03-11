@@ -1,1 +1,1 @@
-hello i am fair new to electron but have been develop web app use express. i am build a desktop app and i have an index.html page with a simpl login form. i understand in express i can do valid and redirect to the correct router depend on the result of the validation. how can i have the same function in electron? anoth thing is i don't want to creat anoth browser window, i just want the path to redirect and render html page in the same browser window. thank
+How to validate form and redirect to a specific path in Electron

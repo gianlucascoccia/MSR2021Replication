@@ -1,1 +1,1 @@
-i'm work on a jhipster applic that i'm tri to get function in electron. i have golden layout for window/pan manag and cross-pan communication. i am have sever problem with the combin of technologies, including:i can't pop out more than one pane at the same time into their own electron windows. i instead get an ani help or insight into these issu would be appreciated. thank in advance!
+Is there a way to get Golden Layout pop-outs working in conjunction with Electron windows?

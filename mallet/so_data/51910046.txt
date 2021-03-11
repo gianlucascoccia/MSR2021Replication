@@ -1,1 +1,1 @@
-i'm current copi my node_modul folder into my final (mac) app. this avoid the need to run on the user computer—it work out of the box. however, node_modul is a huge folder (400mb+), so it would be better to distribut someth smaller.i there a way (for an nw.js app) to distribute/packag the node_modul folder at a smaller size? (i.e. onli the dist file for each module, compressed, etc.)would this be a good use-cas for webpack?
+Best way to distribute node_modules folder in NW.js build?

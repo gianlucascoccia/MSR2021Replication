@@ -1,1 +1,1 @@
-the document show how to share data between pages:but with typescript version, we get this error: error ts2339: properti sharedobject doe not exist on type global'.
+Sharing global object with typescript version

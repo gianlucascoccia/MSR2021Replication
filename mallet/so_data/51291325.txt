@@ -1,1 +1,1 @@
-i have an electron desktop applic which open 2 new window when i load it, the code to open the new window is this:now when i'm test my application, i use the reload command a lot (ctrl+r on windows). my problem is that when i do it, the window remain open and it open more window on top of it. how can i make reload close all windows?
+Close all window on Reload on an Electron Application

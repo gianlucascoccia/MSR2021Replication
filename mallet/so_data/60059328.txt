@@ -1,1 +1,1 @@
-i'am tri to compil a node.j packag (github action) into singl file use .when run my github action it fail to find electron executable.
+Compiling a Node.js (github action) into a single file using `@zeit/ncc`

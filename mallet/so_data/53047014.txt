@@ -1,1 +1,1 @@
-i have creat an electron application. post window 8, set an applic as a default mail client need the registri valu at the follow locat to be changed:computer\hkey_current_user\software\microsoft\windows\shell\associations\urlassociations\mailto\userchoicesinc i am use electron-build to build my applic and use s if it is possible?
+How can I set ProgId for an electron application?

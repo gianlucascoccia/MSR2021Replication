@@ -1,1 +1,1 @@
-i am attempt to global instal the electron modul with npm on os x sierra. when i runth problem seem to be a permiss deni when npm run mkdir... but i'm run this with sudo, so whi is this a problem?thank in advanc
+NPM cannot install module, permission denied with mkdir

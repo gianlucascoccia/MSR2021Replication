@@ -1,1 +1,1 @@
-i am look to have multipl window (100 if possible) w/o scale the applic itself.
+Is there a way to create multiple electron browserwindow instance from on browserwindow object (diff cooky and all)

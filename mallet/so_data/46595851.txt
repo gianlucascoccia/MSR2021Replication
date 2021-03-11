@@ -1,1 +1,1 @@
-i'm develop an electron application, from which i need to instal a dependency.th packag sudo-prompt end up part working.mi code:and the depend never get installed.how to solv it?thanks!
+Install a dependency using Electron on Linux

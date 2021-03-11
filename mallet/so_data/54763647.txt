@@ -1,1 +1,1 @@
-use the transpar argument and set it to true when creat a new browserwindow in electron usual give the window a transpar background... but on linux that isn't the case for my knowledgenow i heard you can set some command line arguments... but that isn't working... it just display black or white no matter what...now i have heard this is no problem with electron rather a problem with hardware... but i just need to make sure therefor creat this question!
+Transparent Windows on Linux (Electron)

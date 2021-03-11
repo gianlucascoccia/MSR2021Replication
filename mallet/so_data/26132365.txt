@@ -1,1 +1,1 @@
-i'm new to node-webkit and have the tray creat as suchwhen the tray icon is click i want the window to be pull up if it minim and open index.html.right now i get the log statement to print.
+Node-Webkit Tray on click bring window to front

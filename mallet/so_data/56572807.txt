@@ -1,1 +1,1 @@
-is there an event i can listen for when the page is not found in a browser window? example:
+Event on BrowserWindow when page is not found in Electron?

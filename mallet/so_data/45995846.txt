@@ -1,1 +1,1 @@
-i make a simpl "hello world" type electron app. after doubl click the exe file it not open ani window at all. just a thread show in window task manager. i tri to debug main thread js. but it show no error. and if i run develop mode it works(cli: electron main.js).env: window 7, x64build command: electron-build
+Electron app not showing anything

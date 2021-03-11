@@ -1,1 +1,1 @@
-i want to insert few html tag into electron webview while loading.i tri below code in preload.j but that doesn't have ani effect.preload.jsexpect result :page has to load with translat tag on topcurr result :no translat tag is appear
+Electron-Insert HTML content into webview while loading

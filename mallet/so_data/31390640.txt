@@ -1,1 +1,1 @@
-i am build an app use node webkit. in the index.html file i have ad the follow piec of code to ensur that i get the devtool/set icon in my node app toolbar : ..while with the abov code i am abl to bring up the devtools/set icon in mac as well as in linux-ubuntu, the same is not work for win 7 and no settings/devtool icon is appear when the same app is open in win 7. ani fix which will make sure that the devtool icon appear in the toolbar of my node app irrespect of the os(mac,win or linux)?
+Devtools icon not showing up in node webkit app - window 7

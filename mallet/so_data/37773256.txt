@@ -1,1 +1,1 @@
-today i have just start to learn electron.i don't understand more about it but i think:electron is a languag like c#.atom is a text editor like notepad++.insid atom.io i have creat a folder call demo which has 3 file as follows:now, i want to know that how can i run this project? do i need to instal anyth els to run it?i am use window 8.1
+How to run electron project

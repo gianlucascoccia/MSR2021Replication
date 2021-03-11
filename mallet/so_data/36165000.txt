@@ -1,1 +1,1 @@
-i'v been play around with a nodewebkit applic i'm build and i'd like to know if there ani way of make the app run on top of everything.i know you can set alway on top to true within the file (or call the method on the window object) but the applic doesn't go abov fullscreen applic such as games.sinc what i'm build is suppos to be a game overlay (think: steam overlay, uplay overlay) i desper need this functionality, is it possible? is it possibl with nodewebkit?
+NodeWebkit "always on top" on top of fullscreen applications?

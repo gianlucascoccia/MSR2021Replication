@@ -1,1 +1,1 @@
-i am begin to experi with pouchdb and electron. i was success abl to creat an input that store my data. i can then retriev my data and display in my view.i would like to know where my data is be stored. i tri delet all my histori includ automat and manual delet my indexeddb data from my browser but my data remains. i have also tri remov all localstorag from the browser. i am total unawar of where my data is be store if it is not be handl by the browser indexeddb. ani pointers?? thanks!!!
+Where is my data? Using PouchDb and Electron...nowhere to be found

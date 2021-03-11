@@ -1,1 +1,1 @@
-new to electron i'v seen a few depend instal with bower. after referenc the bower document it show an instal of bower global with: so when the the project is clone it will instal everyth includ the bower packages? i'v been unabl to find if this has been ask befor from my searches.
+Can bower.json be chained to npm install in package.json?

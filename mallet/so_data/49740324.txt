@@ -1,1 +1,1 @@
-when an electron app is creat in node.j (with the cli), a lot of directori and file are creat in the project directory, but a lot of these file are auto-gener and i don't see the point to save them in my git repository.what is usual done in this case ? which directori must be absolut save ? is there a simpl way to recov all these generat file without have them in my git repo ?
+Javascript Electron app: Which directory should be saved in git repository

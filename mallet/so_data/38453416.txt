@@ -1,1 +1,1 @@
-tri to find out how to refer my tray object. it has been created, but for some reason, i cannot seem to find out how to call it for reference. tri via dev console... i do not know how to refer it correctly. here is the tray document my ultim goal is to use some of the instanc method (locat in the tray documentation) thanks!
+Tray in Electron

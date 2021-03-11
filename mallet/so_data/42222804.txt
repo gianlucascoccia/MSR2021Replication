@@ -1,1 +1,1 @@
-i use electron-vu to creat an app,when run ,when open the index.html,i got the error in console: uncaught referenceerror: modul is not defin at renderer.js:1anyon know why?thank you!
+electron-vue: 'module is not defined'

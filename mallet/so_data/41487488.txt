@@ -1,1 +1,1 @@
-i am work on a serverless app with it administr built on electron/angularjs, all de databas is be administ from there, and work perfect.now i need to add some admin function provid by the firebas admin api now, i understand that there is a way to load node modul on electron.can pleas anyon point me on the right direction, documentation, ideas, etc.or you think it a better idea to build amazon aw lambda to work this requirements?if i find a solut i will be post it here.
+Is it possible to use nodejs dependency on an Electron App?

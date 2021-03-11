@@ -1,1 +1,1 @@
-i cant execut a second request insid the request callback.
+Unable to send request from request callback

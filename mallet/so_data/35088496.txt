@@ -1,1 +1,1 @@
-i know nw.js is general meant to load html on the client, but can it also point to a websit and show that? when i set the "main" valu in package.json to someth like google.com it doesn't work.i'm look at make a game launcher app that display a websit for my game and has a logon abil as well from the launcher and then have it shell out to the game exe. becaus of this i'd like to have part of the nw.js actual connect to the web and show a website.
+Can I load a website with nw.js

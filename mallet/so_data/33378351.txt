@@ -1,1 +1,1 @@
-i have a node.j app (electron, specifically) and want to debug it earliest js code. i'm tri to use the switch.i there anoth way?
+How to pause node.js app till debugger is attached

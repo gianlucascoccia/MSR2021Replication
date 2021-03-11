@@ -1,1 +1,1 @@
-i am tri to access the amazon market place api. i get the follow error, fail to load http://completion.amazon.com/search/complete?search-alias=digital-text&amp;client=amazon-search-ui&amp;fb=1&amp;mkt=1&amp;q=trump: respons to preflight request doesn't pass access control check: no access-control-allow-origin header is present on the request resource.but i have pass the header in aw rest api also i have enabl cores.
+Response to preflight request doesn't pas access control check even though core is enabled

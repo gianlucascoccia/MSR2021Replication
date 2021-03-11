@@ -1,1 +1,1 @@
-so i am creat an applic with:react file of electron. whi doe this result in undefin and what should i change?
+Electron main.js NODE_ENV is not available

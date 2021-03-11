@@ -1,1 +1,1 @@
-is there a way you can think of search for instal games? i'm tri to figur out how to do this with js but i can't.thanks!
+Searching for installed game with Node Webkit

@@ -1,1 +1,1 @@
-been look through the nyla doc but didn't see a way to creat a plugin that open a websit in a new nyla window. i'd like to creat a plugin that simpli is a nyla window point to a url, ani thought on how to accomplish this?
+Nylas N1 plugin that open a web page in a Nylas Window

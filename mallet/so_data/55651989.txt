@@ -1,1 +1,1 @@
-i have creat an api use express in nodej which is use nedb for it database.i have examin the document and i can see that there is a way to filter result use regular express in order to carri out oper similar to "like" in sql.i am abl to get the regular express to work when creat a hardcod json object to use as the filter but when a filter is pass via my api, nedb report the follow error: method and have it filter successfully?i am use postman for my api testing.
+Passing regex expression via API result in an error

@@ -1,1 +1,1 @@
-i am tri to set focus on a text input without explicit mous events, just javascript base events. after run my script i would expect the input to be highlight and the cursor bar to be present. click on the button which run the same code will produc the desir result.th question is how can i do this with pure events?update: i am recreat a situat where i am not in control of the html be published. apolog for leav that part out.&#xd;&#xd;&#xd;&#xd;&#xd;a per this fiddl
+Setting focus on input with script only

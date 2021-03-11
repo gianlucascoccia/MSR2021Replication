@@ -1,1 +1,1 @@
-when i tri to instal electron on ubuntu 15.04 use as suggest herewith no luck.couldn't find anyth more on other forums.so pleas help.thank in advance.
+Install electron on ubuntu

@@ -1,1 +1,1 @@
-i'm port some code from c# to a node.j electron app. one of the compon i'm work on reli on the environment.specialfold enum. specif
+Using .NET System.SpecialFolders or similar enum in node.js

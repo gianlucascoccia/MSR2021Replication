@@ -1,1 +1,1 @@
-i run spectron test in window pc. i want to test my applic in docker. i am not sure where i can get docker imag for spectron.
+How can i run Spectron test in docker?

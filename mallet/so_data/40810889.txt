@@ -1,1 +1,1 @@
-i am write code for a simpl electron base application, while work with a list of directori array it start act weird!tak a look at this picture:at first when i also return 0 array elements!am i miss someth here?
+JavaScript array return length 0

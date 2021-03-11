@@ -1,1 +1,1 @@
-i'm build a electron app. ani request i make with angular run on the electron app return with unauthorized.i alreadi check for the poilici from sails, disabl all policies. if i make a request for the same url from postman or even chrome it work ok.
+AngularJS Http Request return 401 from a SailsJS server with Electron

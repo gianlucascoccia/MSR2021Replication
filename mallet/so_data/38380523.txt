@@ -1,1 +1,1 @@
-i'm work with a custom that want to migrat an exist nativ window app to electron in stages. we'd like to be abl to emb the nativ window insid electron and switch between them and the browser as necessary. i know that electron includ a modul for show nativ platform menus. is it possibl to write a nativ modul that can do this for window as well?
+Can native window be shown in Electron?

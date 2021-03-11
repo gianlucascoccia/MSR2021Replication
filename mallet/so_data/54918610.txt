@@ -1,1 +1,1 @@
-i am face an issue.i need my electron app alway place at the top with full-width and other window should be place under it.how can i do this?anyon can help me to solv this issue?
+electron app always placed at the top with full-width and other window should be placed under it

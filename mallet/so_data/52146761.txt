@@ -1,1 +1,1 @@
-make a aw cognito user session persist in electronaw cognito store the current user session in the , when i pass the node-localstorag to it. tldr; how can i make the aw cognito user session persist in electron? if possible, can i replac localstorag with node-localstorag globally, so that aw cognito will use it?
+Persistent user session using AWS Cognito in Electron

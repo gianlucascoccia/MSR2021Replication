@@ -1,1 +1,1 @@
-i want to execut electron app in cento 6.7+ but i wont abl to sinc it rais an error which says, glibc_2.14 not found,glibc_2.15 not found... i gone through mani article.. it say updat glib was not a good method will affect other ui in os level sinc linux is self destructive...i test with virtual machin updat .how to instal glibc specif version along with exisiting?
+How to install new glibc version in centos along with existing glib in centos 6.7

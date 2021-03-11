@@ -1,1 +1,1 @@
-i am use librari for my electron app call electron-storeit has a featur to valid config data.i want the valu to be store in config file is a string. i can achiv that by defin schema like this:i think i can use "patternproperties" when defin schema to achiv it but i don't know how. help me please.
+(electron-store) How can I use "patternProperties" when define schema

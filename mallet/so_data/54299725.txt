@@ -1,1 +1,1 @@
-so im work with electron and in my file "ipcrendererevent.js" i wrote the follow code:
+insertAdjacentHTML is not a function

@@ -1,1 +1,1 @@
-i'm updat the messag of a compon after 3 seconds, yet it doesn't updat in the template. i'v tri instal angular2-polyfil (some peopl said to tri that), i'v tri
+Angular2 Template Not updating

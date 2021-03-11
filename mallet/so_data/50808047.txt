@@ -1,1 +1,1 @@
-after load text from insid a file use how do i place it insid a div (wich has contenteditable="true") in my nwjs app break line accord to how it was in the file?becaus a direct load place everyth in the same line of that div
+Break line after loading text from file and placing it in div nwjs

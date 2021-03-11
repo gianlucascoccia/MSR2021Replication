@@ -1,1 +1,1 @@
-i start to have a look at the atom-shel and as document there is a possibl to access nativ node modules: https://github.com/atom/electron/blob/master/docs/tutorial/using-native-node-modules.mdso is there ani possibl to use those node modul from the javascript code which is execut insid the atom shell, for exampl to execut sql statements.
+Using node.js module with atom-shell

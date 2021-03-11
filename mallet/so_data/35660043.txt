@@ -1,1 +1,1 @@
-i'm get start work with electron to build a desktop app. how can i custom the window titl bar (which contain the close, minimize, and full screen buttons) to add custom views? safari is an exampl that i am think of:
+How to customize the window title bar of an Electron app?

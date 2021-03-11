@@ -1,1 +1,1 @@
-i got the problem with electron applic that use openssl library. applic is build by electron-build (version 19.55.2). applic work use
+Application builded by electron-builder problem with openssl

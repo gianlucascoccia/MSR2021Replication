@@ -1,1 +1,1 @@
-i'm creat an electronj app with my own browser integr within the app. in order to do this, i'm use a .
+How can I get an exact copy of Chrome's iframe.contentWindow.chrome object?

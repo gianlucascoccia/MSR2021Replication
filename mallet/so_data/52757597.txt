@@ -1,1 +1,1 @@
-i am build an electron app. the app run without ani error but doe not open. i am run window 7 on a 32 bit machine. my main.j file look like this:
+Electron app run without any error however the window doe not open or show in task manager

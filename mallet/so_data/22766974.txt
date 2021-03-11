@@ -1,1 +1,1 @@
-can someon confirm that webgl work with node-webkit on linux distros?i can make webgl run on googl chrome after enabl the flag , but i'm get error regard three.j when tri to execut the same applic on node-webkit.
+node-webkit and WebGL on Linux

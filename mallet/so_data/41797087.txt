@@ -1,1 +1,1 @@
-i'm load a remot resourc in a webview, but i want to inject some local content such as imag (use preload script) into it. i guess the onli way is to use the file protocol, but it won't work without disablewebsecur set to true. would that make my applic vulnerable?edit: i manag to do what i want without disabl secur by use a custom protocol, for some reason it is allowed. https://github.com/electron/electron/blob/master/docs/api/protocol.md
+Electron - what are the risk of disableWebSecurity in WebView?

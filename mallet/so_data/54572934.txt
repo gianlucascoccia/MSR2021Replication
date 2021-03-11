@@ -1,1 +1,1 @@
-so, i'm build and packag a softwar with electron. now that i'v made the softwar and got a file direct and i don't know how to packag the app so that i can upload it to ppa. there are few question relat to this but none of them has the complet guide. so, how do i do this?
+Electron package an app and upload to launchpad ppa

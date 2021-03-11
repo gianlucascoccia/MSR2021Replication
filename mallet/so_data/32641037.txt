@@ -1,1 +1,1 @@
-i have a small nw.js app that alter the div section of the index.html page:
+node-webkit: doesn't show active content?

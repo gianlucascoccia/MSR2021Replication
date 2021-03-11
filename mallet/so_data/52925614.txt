@@ -1,1 +1,1 @@
-i know i can disassembl electron app that have an file which seem to have all the stuff that the applic need to run by itself. how to disassembl this kind of app (electron w/o asar)?
+How to disassemble an electron app without having access to it asar file

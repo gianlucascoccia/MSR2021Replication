@@ -1,1 +1,1 @@
-this is the code i am run with mobx: despit clone differ boilerpl for react electron, i was unabl to get pass this error.how can i avoid them ?
+Mobx Uncaught SyntaxError in Electron

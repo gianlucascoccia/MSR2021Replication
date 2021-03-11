@@ -1,1 +1,1 @@
-i get a path from app.getpath()thi path end in the insal version with ...\resurces\app.asarhow can i cut that \app.asar away?i tri it with .replace(/app.asar/,'') but that dosnet work
+How to cut a part from a path

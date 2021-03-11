@@ -1,1 +1,1 @@
-i am use nightmarej which is use electron.i want to chang the path of where the electron modul of electron but still i can't find a way to chang the directori path.or is it even possibl to chang the electron path?
+Custom Electron Session Path

@@ -1,1 +1,1 @@
-in electron, is it possibl to intercept request against file:/// and redirect them to http?i have check the electron protocol page, but it not obvious if this is support or not.
+How can I intercept request against file and change them to http protocol?

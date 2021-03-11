@@ -1,1 +1,1 @@
-i'm new to electron. i'm read the document and the tutorial.accord to the document of browserwindow, to creat a window :?
+What is the difference between require('electron') and require('electron').remote to get BrowserWindow?

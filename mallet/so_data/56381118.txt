@@ -1,1 +1,1 @@
-my goal is simpli to display data (use react) from a file store local with my electron app. i'v gotten halfway there in actual read and process the data, i just can't figur out how to display it.her what i have for my file read:. what it doe instead is display nothing. it also give no errors.i have a feel this has to do with some odd server/cli relationship between the react frontend and the node.j "backend" read the file. i'm not sure how to creat a simpl interfac between these two compon to get them to work.
+How to display data read from a file using Electron and React?

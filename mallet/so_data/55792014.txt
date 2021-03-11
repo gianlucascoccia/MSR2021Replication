@@ -1,1 +1,1 @@
-i am tri to generat a exe file with so i guess the program is stuck in 7za compression.i search and there is no exampl of use electron-build with portabl onli few with nsis. i will appreci some help here. (i have anoth question but first i would like to run the basic)
+How to use electron-builder with target portable?

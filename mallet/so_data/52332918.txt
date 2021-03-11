@@ -1,1 +1,1 @@
-in my company, we have a problem with softwar that we are plan to distribut use usb sticks. we test on various system and everyth work fine, so we gave it to production. after product we test the stick again just to make sure, and none of the stick work on macos.also, none of the old test stick (befor production) are work anymore, but also onli on macos.w keep get this error message. can somebodi help?
+Error message: "Electron Framework: file too short" on USB stick

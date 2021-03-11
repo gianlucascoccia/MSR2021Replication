@@ -1,1 +1,1 @@
-i'm current work on an electronj app where i creat a file to attach button and style it. is this possible?
+How can I access BrowserView object in html or css?

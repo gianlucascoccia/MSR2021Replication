@@ -1,1 +1,1 @@
-i need to add the valu of a callback into my setattribute. how do i do that? this valu is necessari to get data out of a tabl at a later moment.thi is the code:
+How do I add a value from a callback into a new element with setAttribute?

@@ -1,1 +1,1 @@
-documentationif you check this electron instal manual, you can read that you should instal electron this way:, i have tri taht as well, even this is in the main process.
+Is there any difference between Electron built-in module and the one installed with npm? How to access to the electron object from other modules?

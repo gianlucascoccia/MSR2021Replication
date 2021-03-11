@@ -1,1 +1,1 @@
-in the main process, i have a simpl uint8array and i want to send it to the render process.sender.send is convert everyth to json, so it cannot be use for binari data.i there a simpl solut for this?
+Electron: send buffer from main to renderer

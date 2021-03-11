@@ -1,1 +1,1 @@
-i have a imag upload function in angular 6 base electron application. like below event is not firing. pleas note that the event fire from angular (when we user ng serv and browser) , but not work in electron.
+File input change event is not firing from electron app but from angular

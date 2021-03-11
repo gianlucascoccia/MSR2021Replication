@@ -1,1 +1,1 @@
-i am not familiar with electron but am look to rebuild an electron app so it can be includ in my server side code and serv up so it will work in a general web browser. i was wonder if this is possibl use webpack or rollup, or if there is someth fundament i am missing, this is an open sourc electron app that we need embed and the nativ dev team said they do not have resourc to help, so no worri on licens and such has anyon done this before?
+Building electron app for web browser

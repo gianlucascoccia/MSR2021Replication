@@ -1,1 +1,1 @@
-i'm creat a simpl desktop app with electron js and python. i tri a tutori which indic that it more simpl to communic with python back end with python-shel module. i cannot run the app without error relat to that module.first i start with follow code:. it doesn't work, and pop up error messag "uncaught exception: error: spawn py enoent". none of exampl provid by internet work for me... where is the problem?
+Running python-shell from ElectronJS script

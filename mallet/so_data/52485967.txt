@@ -1,1 +1,1 @@
-i am have some troubl proper use the spawn child process function in a node.j electron application.when i type the follow command into my terminal, everyth work as expected:th result mp4 file has the string $(cat /tmp/xmlmovi.txt) instead of the content of the file. am i do someth incorrectly?thanks!
+Using the content of a file while using Spawn Child Process

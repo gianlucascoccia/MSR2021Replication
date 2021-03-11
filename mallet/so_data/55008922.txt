@@ -1,1 +1,1 @@
-i'm use electron and it seem that if my script ever have ani error it will give me the problem but not provid ani more context as to what file it in. for exampl it will let me know i'm miss a ")" but i have no clue what line or file it in. this is the onli error i'm get back:thi was caus by an automat merg between anoth team member code and mine so i have no idea where this error is take place.
+How to get better error from Electron JS

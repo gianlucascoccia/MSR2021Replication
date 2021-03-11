@@ -1,1 +1,1 @@
-i am tri to get start with electron to build desktop apps, and i ran into the follow error while tri to start the application.
+error while loading shared libraries: libgtk-x11-2.0.so.0:

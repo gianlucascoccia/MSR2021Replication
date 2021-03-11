@@ -1,1 +1,1 @@
-i'm creat an electron app for my own purpose. my problem is when i'm use node function insid my html page it throw an error of: require() is not defined.i there ani way to use node function in all my html pages? if it is possibl pleas give me an exampl of how to do this or provid a link. here are the variabl i'm tri to use in my html page:and these are the valu i'm use in all my html window within electron.
+Electron require() is not defined

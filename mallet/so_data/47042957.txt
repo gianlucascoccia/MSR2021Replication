@@ -1,1 +1,1 @@
-i'm get the follow error:but insid my program, when i run code to check what version i'm run it give me 7.9.how can i upgrad my project so it can run a newer version of nodejs?
+Node version of my program is different than node installation

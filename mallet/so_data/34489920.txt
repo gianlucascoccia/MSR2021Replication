@@ -1,1 +1,1 @@
-i'm new comer for js program, pleas excus me if some not clear but let me know the problem.pleas see my code first:but how to get the return from function foo when i call function dosomething?
+JavaScript: custom callBack function

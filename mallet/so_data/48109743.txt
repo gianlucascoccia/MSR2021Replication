@@ -1,1 +1,1 @@
-attention: i did it on mac platform!
+When I install electron on mac i have got permission denied message

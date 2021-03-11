@@ -1,1 +1,1 @@
-sinc the current vs code doesn't support electron v1.6, so i have to downgrad my electron version. however, i found that i can not instal the old version of electron by give the version number in the file which caus this problem. and if so, how can i fix it.
+Can not install older version of Electron through package.json

@@ -1,1 +1,1 @@
-i have setup an angular2 / electron app similar to the explan in this video : https://www.youtube.com/watch?v=plpcuffekoui have a compon call menucomponent, in the app/menu folder. when i put the templat into it own html file and load my electron app it fail with error:thi is the build directori :
+Angular2 / Electron application component cannot find template HTML file

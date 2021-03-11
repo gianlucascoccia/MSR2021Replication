@@ -1,1 +1,1 @@
-i'm tri to includ extern addthi widget in electron. but it not veri clear how to revert thing back.kind help.ad js direct to the app is not an option, sinc addthi modifi remot script(s) too often.
+”//…” in <script> tag is interpreted a “file://” in electron

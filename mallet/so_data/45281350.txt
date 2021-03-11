@@ -1,1 +1,1 @@
-i am tri to have two separ instanc of the same applic run in a spectron test. for example:i am a newbi and cannot find an answer. can anybodi help on this?
+Multiple instance of the same application to test using Spectron

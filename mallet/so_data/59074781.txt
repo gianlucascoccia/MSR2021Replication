@@ -1,1 +1,1 @@
-the problem seem to be network-specific, the consol log point to two possibl error caus the slowdown: nw_resolver_create_dns_service_lock [c150094] dnsservicecreatedelegateconnect failed: nomemory(-65539)or nw_socket_handle_socket_ev socket so_error [61: connect refused]i tri two network configurations:th develop mac and the iphon on the same subnet (wifi) of a larger corpor network - js bundl load slowli or not at alldirect connect between the develop mac (wifi hotspot) and the iphon - js bundl load veri fast
+React Native bundle loading slowly or not at all

@@ -1,1 +1,1 @@
-when a user chang the theme, i use to be chang when the applic load to the one in the store.
+Electron: Using mainWindow.webContents.send when mainWindow load

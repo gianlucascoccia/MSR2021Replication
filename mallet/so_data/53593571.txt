@@ -1,1 +1,1 @@
-i want to just pack my electron applic to an asar archive, but without the to the archive.how to do it correctly?
+How to pack app using Asar but exclude Electron

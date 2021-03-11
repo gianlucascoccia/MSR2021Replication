@@ -1,1 +1,1 @@
-i am use node-webkit to develop app for my students, and to provid one stop solut i would need to updat node-webkit archiv onc in a month. is there a way i can accomplish that? basic i need to replac just one html file everi month, say "page1.html".i googl but have no idea where to start.
+Node-webkit app- how to update it?

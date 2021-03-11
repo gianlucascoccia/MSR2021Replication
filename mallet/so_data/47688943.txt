@@ -1,1 +1,1 @@
-i am attempt to run doe not seem correct?--updatei have to enter the username/password combin about 2 dozen time for all framework items. there has to be a way to alway allow?
+Electron-builder repeatedly asks for macOS keychain permission

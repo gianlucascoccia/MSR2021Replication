@@ -1,1 +1,1 @@
-hi i can't get serialport to work in electron.and im not shure if it is an webpack typescript oder electrin error.i tri some differ set in webpack but never got it to work ant alway with te same error.mi webpack.config.j
+Electron Webpack Typescript SerialPort

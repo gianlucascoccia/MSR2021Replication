@@ -1,1 +1,1 @@
-i am make my first electron application. i am tri to save a text file to the appdata folder (exampl c:\users\user\appdata\roaming). i know i need to add import { app } from "electron"; some where but i am unsur where to place it. in my index.j javascript i am write the databas set that the user submit in his form to a text file. this is where i need to have the appdata directori address.
+Write to file in "appData" in Electron. Where to add import { app } from "electron";?

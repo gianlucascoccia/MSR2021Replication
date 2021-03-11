@@ -1,1 +1,1 @@
-i have an electron app that need to read a file store in
+Webpack import from %appdata%

@@ -1,1 +1,1 @@
-im work at the moment on a desktp client for a project im workin as webdevelop / sysadmin. so my great idea was to build the desktp client simpl as easi use electron :dbut it isnt work :ci use the but the result is pretti uncool ... https://i.gyazo.com/fc71a28e608da9aaf272ef1de08cdeb3.png [imag link use gyazo]th sourcecod is aviabl @ [https://github.com/mineasiamc/desktop-clients]
+electron <webview> isnt getting fullscreen?

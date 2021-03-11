@@ -1,1 +1,1 @@
-if i creat a window use window.open on my nwjs application, it seem that this window cannot acess ani nodej or nwjs modul at all. how to i work around it?i use document.writ to write the content of the page, becaus it will be differ accord to the context in which the code is running.i there a way to enabl node/nwj modul in that window? and if not, how do i open a new window in my applic which has acess to node/nwj modul and onc open, execut code in it?
+New window not able to ace NWJS modules?

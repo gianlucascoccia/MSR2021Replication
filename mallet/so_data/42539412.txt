@@ -1,1 +1,1 @@
-i'am evalu the use of nedb for one proyect. but it seem that nativ it don't support user/password protection. there is ani way to protect an nedb databas with user and password?
+Protect nedb database with user/password.

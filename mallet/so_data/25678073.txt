@@ -1,1 +1,1 @@
-i am use node webkit to creat an app. i would like to be abl to drop file in a target element - just so i may get the filenam and not trigger an upload. is this possible? how do i do this?i am current use https://github.com/weixiyen/jquery-filedrop.
+HTML file drop for local use

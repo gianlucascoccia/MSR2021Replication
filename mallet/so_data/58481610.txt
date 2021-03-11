@@ -1,1 +1,1 @@
-i build an app with electron that save text to file in a user select directory. on app startup the user select the directori where his data should be stored. i save that directori with
+Proper entitlement to automatically open directory on macOS

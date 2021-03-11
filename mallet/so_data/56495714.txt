@@ -1,1 +1,1 @@
-there is an async function (
+Promise return with 'undefined' or babel compiled code doesn't wait for return (async/await)

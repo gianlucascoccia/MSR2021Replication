@@ -1,1 +1,1 @@
-i want the user to be abl to control what happen upon
+Electron autoUpdater: User initiated download on 'update-available'

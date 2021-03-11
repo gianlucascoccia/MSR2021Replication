@@ -1,1 +1,1 @@
-this is the first time i'm tri to creat autom test for an electron app use spectron. it might be my rusti knowledg of async program but i don't know whi the code below is misbehaving:th test seem to get as far as the first click(), then it should wait for the app to request a new page, eventu display a "creat account" button. however, for some reason, the app itself seem to block at this point. i know the click is occurring. when i tri it manually, the app behav properly.mark
+Why doe this Spectron code block my Electron app after the first click?

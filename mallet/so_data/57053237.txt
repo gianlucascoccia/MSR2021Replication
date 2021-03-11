@@ -1,1 +1,1 @@
-when i am tring to debug electron5.0.6, the consol panel echo the follow errors:
+p/Contents/MacOS/Electron Helper[5250]: ../../third_party/electron_node/src/inspector_agent.cc:746:bool node::inspector::Agent::Star

@@ -1,1 +1,1 @@
-how can i send messag from render process (web page) to main process (node) in nightmare? there ipc in electron and nightmar is built on the top of electron so i suppos that it possible, but i can't figur out how.someth like that:http://example.com
+Send message from renderer process to node process with Nightmare

@@ -1,1 +1,1 @@
-there is a code that display a small gif anim in a tabl cell when clicked. anim is unlooped. it is just an anim check mark.html:at the first click it is load and anim normally. the next click on the other tabl cell show the alreadi un-anim .gif. how can i overcom this?if it is becaus of cach then how can i clear the .gif file from it?
+Loading unlooped gif-animation several time

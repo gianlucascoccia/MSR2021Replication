@@ -1,1 +1,1 @@
-i'm structur my app like this:and it never seem to find the file. i also notic that the requir function object doesn't seem to be the same one in the node documentation, as it has no resolv method attach to it.i there someth fundament i'm miss about node-webkit?
+How to require j file with node webkit

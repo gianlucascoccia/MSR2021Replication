@@ -1,1 +1,1 @@
-i am use vscode as my primari js ide and current work on a nwjs(node-webkit) app. i want use the debugg avail in vscode. can anyon guid me through how the launchj should look like.
+Debugging nwjs app in VSCode

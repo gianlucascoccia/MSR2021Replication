@@ -1,1 +1,1 @@
-i'm creat a web app for ticket reservation. the onli problem is the database. i don't want to tell my client to instal xampp or set a database, etc. is there ani way to packag the app with the database?
+Electron app with database

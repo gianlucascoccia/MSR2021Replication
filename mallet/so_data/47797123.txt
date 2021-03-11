@@ -1,1 +1,1 @@
-in my electron app, i have a new browser window that is open as a sort of "notification" to the user that someth happen in my (unfocused) app. this new window has a button to "ignore" the notification.th problem is that when they click ignore, the main browser window come into focus, even though the code mere close the window.i there a way to make it so that interact with a new browser window doesn't also focus the main browser window?thi is how i am spawn the window:al of this code works, but the focus return to the main window.
+Electron window focus

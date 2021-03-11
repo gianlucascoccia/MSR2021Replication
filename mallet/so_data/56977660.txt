@@ -1,1 +1,1 @@
-we have a react webapp, which reli on the html5 histori api for manag the state.th app manipul the histori with in these apps, they would go blank, becaus the locat doe not exist on the local file system.can i somehow alway serv the default index.html on these apps? e.g. with some kind of interceptor?i need a solut for both electron and wkwebview, but i assum there is no general solut and of cours i would alreadi be veri thank for ani solut on one of the two platforms.
+HTML5 History routing fallback for Hybrid Apps

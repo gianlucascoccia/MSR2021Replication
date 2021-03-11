@@ -1,1 +1,1 @@
-i am build my app on windows.i am tri to do some path manipul use the path module.i have done this:
+Node path module on Windows is giving me bad info (using webpack)

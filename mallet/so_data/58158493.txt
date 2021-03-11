@@ -1,1 +1,1 @@
-after i packag an electron app with electron-packag use this command from npm script :
+Uncaught Error: Please install sqlite3 package manually error after packaging the app

@@ -1,1 +1,1 @@
-question as title. for some reason require('electron') is undefined. howev requir other node modul works.
+How to access the electron app object within my angular controller

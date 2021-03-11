@@ -1,1 +1,1 @@
-as the titl states, current im tri to publish an electron app to either github or my nucleus server and am unabl to and have been plagu by error for the last 8 hours. current the error im get is "could not find a publish target with the name: @electron-forge/publisher-github"i get the same thing except with "publisher-nucleus" when i attempt to use my nucleus server. i have attempt reinstal electron and electron-forge, creat a new project with init and no progress has been made. ani help is appreciated.
+Electron-Forge unable to publish to nucleus or github

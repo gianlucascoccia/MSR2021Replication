@@ -1,1 +1,1 @@
-hey i am web develop and i want to make app for desktop. i discov program name electron i download it from this page: electron.atom.ionext i creat file that are need for run this app:index.html now when i type in cmd electron . i get the error electron is not recogn as an intern or extern command, oper program or batch file.i there ani way to run this program from app instal without cmd or how can i fix this?
+Converting Web app into Desktop app with Electron

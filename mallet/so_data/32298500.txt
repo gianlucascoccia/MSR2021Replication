@@ -1,1 +1,1 @@
-back with anoth polym question, i have a polymer/electron app that i'm tri to style.i want to creat a is definit be request but has no affect on the modul style.i there anyway to have a theme like this for polymer, i realli don't want to have a build step.
+Polymer @import theme file with :host in style ha no affect

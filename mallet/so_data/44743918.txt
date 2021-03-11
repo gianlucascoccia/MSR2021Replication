@@ -1,1 +1,1 @@
-recently, i have been read about electron and i got curious about it potenti when compar to someth alreadi establish in the market of build has to offer.note: pleas do not mark this question as inappropriate. it is specif enough and well documented, and it might help other face the same decision.edit 1. pleas provid argument for downvoting/ flag the question for closing. perhaps, if you offer some construct feedback the question can be improved.
+Performance-wise: Is a WPF application better than an Electron one coded wisely?

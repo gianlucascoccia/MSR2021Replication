@@ -1,1 +1,1 @@
-it the first time i do electron app,thi app need to do api call to let say:i need to chang this "baseurl" on build somehow. (can be anything...) and cant use system.env when app is build.i am use electron builderi am think about creat a script and ad it to "package.json",ani thing more simple? thanks!
+Setting variable per environment electron-react app

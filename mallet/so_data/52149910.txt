@@ -1,1 +1,1 @@
-&#xd;&#xd;&#xd;&#xd;&#xd;tenho ess package.json queria executar oqu estiv dentro de script automaticament ao abrir o nw.js ou electron ou até mesmo ao iniciar o servidor
+Tag script no pakage.json

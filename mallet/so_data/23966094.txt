@@ -1,1 +1,1 @@
-i have develop an app base on nodejs.it is a command line app without guican this be pack to binari execut file use node-webkit?your comment welcom
+pack nodejs app without GUI

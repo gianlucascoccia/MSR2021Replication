@@ -1,1 +1,1 @@
-i have develop a simpl nw.js (ex node-webkit) application.it open a fullscreen ifram with attribut nwfaketopinsid this ifram ( logic in differ domain) i need to call a parent nodej function.how can i do?her code of my index.html main nw.js app:a you see i need to call function copy_do();from parent main file.how can i do?thank in advanc
+Node-webkit iframe access to parent nw function

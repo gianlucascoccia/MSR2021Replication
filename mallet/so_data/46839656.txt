@@ -1,1 +1,1 @@
-i'd appreci an exampl on how to work with .thanks!
+Electron-compile how to use sc or at least cs with react?

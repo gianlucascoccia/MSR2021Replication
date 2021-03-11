@@ -1,1 +1,1 @@
-i am tri to compil node.j my app into a desktop application. i am use electron. when i tri to run my application, an error occurs. (see screenshot below)
+Compiling node.js application to desktop app

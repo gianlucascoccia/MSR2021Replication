@@ -1,1 +1,1 @@
-i was wonder how an http server can be ad to an electron desktop application. the server should start when the app start and serv files, which are store locally. if a file from insid a zip archiv is request like so the server should extract it and serv it. i'm most interest in how to bundl the server.
+Add HTTP server to Electron application

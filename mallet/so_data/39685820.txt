@@ -1,1 +1,1 @@
-so i have the follow in an electron+angular2 app: but i'm not been abl to get to refresh the current imag value.
+Loading async image in Angular2+Electron app after selecting directory from dialog

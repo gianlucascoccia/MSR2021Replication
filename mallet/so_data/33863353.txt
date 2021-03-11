@@ -1,1 +1,1 @@
-i'm current tri to use phantomj insid node.j &amp; nwjs use os x. however, i'm wonder if i deploy the app to window users, will they be abl to run the app as well?i there a way to detect what os the user has and use the right binari for it?
+Detecting OS version and using the right PhantomJS binary

@@ -1,1 +1,1 @@
-i want to creat a browserwindow that support an ifram with an angular/electron app. i saw that a solut that was post onlin was however, it doesn't seem to affect ifram in ani way. whi doe this occur, and is there a way around it?
+Angular Electron NodeIntegrations: "iframes" doe not work (Angular 7)

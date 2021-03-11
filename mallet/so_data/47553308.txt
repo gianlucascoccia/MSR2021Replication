@@ -1,1 +1,1 @@
-as a toy project for electron, i'm tri to rewrit a wpf media manag applic and would like to get up to speed on what would be the best mean of load media (name images, but later video) through node ), what would be the general approach to follow?to clarify, i'm not ask so much about async/process block as i am the data transfer itself.
+Efficient medium transfer in Node and Electron

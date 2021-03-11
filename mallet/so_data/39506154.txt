@@ -1,1 +1,1 @@
-i am plan to realiz a music player with electron. it will list music from the user hard drive.i it possibl to defin a drag'n'drop behavior so that i can drag a html element, e.g. .
+Drag html element outside electron window to copy local file?

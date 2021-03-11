@@ -1,1 +1,1 @@
-i have develop an applic with node.js. sinc i'm plan on sell this application, i have implement an account system with the help of firebase. however, the user should not login everytim it close the app. is there ani way to secur safe a (boolean) value, to check if the user is log in (without internet)? in the past i'v use node-json-db but it can be easili read and manipulated.thank in advance!ps: let me know if you have ani other approach for that problem.
+Electron: Storing a value securely

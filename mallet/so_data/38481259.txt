@@ -1,1 +1,1 @@
-update: while i was press enter in stackoverflow is accident got submitted! updat the post at the momentupd 2: complet post finishedi current have a problem combin javascript with jqueri in electron. i am run javascript most of the time, but to give the app a more nativ feel i discov so, if there is a possibl can i combin the use of smoothstate.js, jqueri and normal js without break one another?\edit: you can also use this gist for reference: https://gist.github.com/subject4s/c1b2c79db929c73ca3876ef4b59f90f
+Using jQuery in combination with javascript electron

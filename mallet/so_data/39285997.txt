@@ -1,1 +1,1 @@
-i am use the electron-quick-start app with a window machine. i have ad log statement in the main.j as follows:.wher is my mistake? how can i enabl log under windows?
+Enable logging in electron app for window

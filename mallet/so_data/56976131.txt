@@ -1,1 +1,1 @@
-i have an electron app that load the url of the web version of the app.howev i cannot close the applic by click in the x button and i dont have access to the webapp.i have tri this:return an array that doe not have ani beforeunload event
+How to force the closing of an Electron app?

@@ -1,1 +1,1 @@
-i have an electron app with in-app purchas integrated.th in-app purchas themselv are work - i can pull down the price and display it - and the user can buy the iap. however, i'm have troubl valid the appl receipt.i'm use this apple-store-receipt-validator-in-php php script to valid the appl receipt. and this work fine if i use the default encod receipt data ("ewojinnpz25hdhvyzsigpsaiqx..." - line 18 on the php script) where i get this response:
+Electron - In-App Purchase - how to validate apple receipt using PHP?

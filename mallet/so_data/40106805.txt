@@ -1,1 +1,1 @@
-i am use (a slight modifi version of) mmap in electron to share memori between two differ processes. then i use this memory, in the form of a buffer to upload a webgl textur and i use it to draw stuff:th problem is that do it this way i am repeat copi all the data everi frame, which kind of defeat the purpos of use a mmap.i there a way of updat the webgl textur with buffer data without copi it content to a new array everi time?
+Forcing WebGL texture reload from buffer

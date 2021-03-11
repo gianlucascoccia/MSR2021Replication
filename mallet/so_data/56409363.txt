@@ -1,1 +1,1 @@
-i want to execut anoth program while run electron app. how can i do this?mi code
+How can I execute another program with Electron JS

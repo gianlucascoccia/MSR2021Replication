@@ -1,1 +1,1 @@
-i am tri to write a backend for some bitcoin framework in javascript. i am fair new to the language. but i have done a coupl of project with it.i am look at https://coinb.in/ atm. if you have a look at the sourc @ index file, they includ script like so: also works, and that is how i mang to make it work, but this make the code extrem cluttered)
+How to include all the content of a module in a different one (in Electron JS)

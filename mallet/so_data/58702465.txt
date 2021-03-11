@@ -1,1 +1,1 @@
-i know this has been ask but previous answer aren't working. this is my first electron app. here is my main.j
+how do I remove menu bar from electron app

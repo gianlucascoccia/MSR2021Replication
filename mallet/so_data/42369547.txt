@@ -1,1 +1,1 @@
-i am tri to creat a simpl electron app, that open googl offic file from googl drive, read the link file and creat a new window contain that googl doc page. i can make it work, if i edit info.plist after build with electron-build to make the app accept the file extens .gdoc, .gsheet and .gslides'. is there a smarter way that doesn't involv manual edit info.plist?
+Define file association in Mac with Electron

@@ -1,1 +1,1 @@
-i am tri to use typescript in an exist nw.js + js project.sinc i am new to nw.js, i naiv assum it work out of the box after instal the nw.gui typings.it doesn't (as typescript doe not recogn the global give me cannot find modul nw.gui'how do i setup my code to work proper with nw.js?
+NW.js + TypeScript: Cannot find module 'nw.gui'

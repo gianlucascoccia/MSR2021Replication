@@ -1,1 +1,1 @@
-i want to pass the paramet valu in style for calcul my width. my code isbut the width doe not working. i am new to react. pleas help.
+calculation of increment value in react j

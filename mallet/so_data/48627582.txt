@@ -1,1 +1,1 @@
-when i run my electron app without build it work fine. anyon know why? i'm use angular 5 with electron.
+Error when running electron app after building

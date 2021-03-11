@@ -1,1 +1,1 @@
-i need to disabl the print dialog for a node-webkit pos app (in kiosk mode).i this possible?ani help is appreciated!
+Disable print dialog in Windows

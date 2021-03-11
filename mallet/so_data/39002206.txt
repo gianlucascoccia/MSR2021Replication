@@ -1,1 +1,1 @@
-environmentmac osx 10.11.5 run vagrant 1.8.4 run cent os 7node v6.4.0npm v3.10.3electron-prebuilt ^1.2.0electron-packag ^7.6.0spectron v3.3.0run test headless, with
+Spectron Headless Testing on CentOS 7 not working

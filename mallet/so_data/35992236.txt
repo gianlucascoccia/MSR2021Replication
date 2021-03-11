@@ -1,1 +1,1 @@
-i have an app built in github electron. i need to regist a global keyboard shortcut that open a menu of some kind when pressed.i'd like to regist ctrl+alt+v. a shell menu where the cursor focus is would be ideal.i this possible?
+How can I register a keyboard shortcut that can be used outside of focus using electron?

@@ -1,1 +1,1 @@
-i got problem with intel xdk: i can't launch debugg at emulator. it interest becaus debugg in test and debug panel are alright. i tri to reinstal node-webkit,upd node.js, reinstal xdk-noth worked. i use ubuntu 14.04. may be anyon can help with this. thanks.
+Can't launch Intel XDK's debugger in emulator

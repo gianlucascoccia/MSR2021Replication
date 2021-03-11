@@ -1,1 +1,1 @@
-i'm current work on an electron app which use a third parti software. at some point i'm check if that softwar is instal on the user comput (it has to be in path), and if it not there i just run the installation. as i said, the instal will append a directori to the path variable. after this happens, i need to restart the app in order to have access to the updat variables.i alreadi tri to use if i restart the app manually, then everyth work ok.do anyon have some idea ? thanks.
+Electron - restart app / refresh environment variable

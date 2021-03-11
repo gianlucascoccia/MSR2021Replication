@@ -1,1 +1,1 @@
-i'm creat desktop applic use electron.j with firebas database. i don't know how to retriev multimedia data from firebase. pleas help me
+How to retrieve images, video and PDF's in Firebase (Web)?

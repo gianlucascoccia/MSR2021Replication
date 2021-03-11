@@ -1,1 +1,1 @@
-in atom electron desktop application, is there ani way to get the log in user email address in mac os x, so that i can use that email address in the filei have search in stackoverflow and other resources, but didn't find a way to do that.
+Get Mac logged in user email in Electron Application

@@ -1,1 +1,1 @@
-i'm tri to check whether a path in a parent directori is a file or a directory.mi file system look like this:files/html/index.htmljavascript/index.jstest/test.jpgelectron is start from the parent directori of files/.mi code in the index.j file:and then the same path in singl quotat mark ('').i use to have the index.j and the index.html file in the same path from which electron is start from (parent folder of files/) and it worked, so i guess that it has problem acces a parent folder.how can i solv this?
+Error when trying to acces parent folder in Electron/Node.js

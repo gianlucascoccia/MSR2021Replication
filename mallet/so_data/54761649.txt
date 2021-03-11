@@ -1,1 +1,1 @@
-i'm build some socketio-rel app with electron and react.th user need to fill in an address to connect to:for some reason, the autocomplet suggest do not show up when i run this with electron, but do work when i run it with a "normal" chrome browser.ani suggest as to what can be done? doe electron put some limit on purpose?
+HTML input autocomplete not working in Electron

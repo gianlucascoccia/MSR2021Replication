@@ -1,1 +1,1 @@
-i have a problem with firebase, react and electron. when i use my app in dev, i use the localhost to load with how i can resolv this ?mi hypothesi it becaus i don't write the url of my app in author domain in firebas sign in method, but there is no url for my app, it local. doe i need to load a server to employ firebas ?i see a similar post but without answer
+Firebase can't authenticate after building electron app

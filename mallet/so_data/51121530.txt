@@ -1,1 +1,1 @@
-i'm hope to get some help configur data that has to be sent from my electron applic through an nginx web server.our dev team current need requir us to log crash and except that occur in the electron app use a servic call sentry.io but we must first rout these crash and except through our nginx server befor make it through to the sentry.io service.do anybodi know an effect way to send this except data to nginx from electron? ani help would be appreciated. thanks.
+How to send data to Nginx server?

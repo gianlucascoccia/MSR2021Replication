@@ -1,1 +1,1 @@
-i am tri to pack my applic made in electron. befor continuing, i alreadi check &#39;electron-packager&#39; is not recogn as an intern or extern command . i'v tri instal it the follow ways.non of them work. they all end in the same result. i'v tri restart cmd, becaus sometim you have to. nothing. still get the error. is there anyth i'm do wrong? i'm run node v11.11.0. also, i'm not get ani error until i run it.right at runtim of command.tri to run after installation.
+'electron-packager' is not recognized a an internal or external command, operable program, or batch file

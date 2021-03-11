@@ -1,1 +1,1 @@
-i have a button call "setting", and i want this button to look like a gear.i found this: https://www.toptal.com/designers/htmlarrows/symbols/gear/and this: https://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-gearbut they dont work on my angular/electron project.thi is the current button (a normal one):thank you veri much!
+HTML different button style - like a gear

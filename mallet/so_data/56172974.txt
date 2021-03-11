@@ -1,1 +1,1 @@
-i am new to angular. i have ad electron with the angular together. is there a way to connect an exist mysql databas or creat my own and display of the data into the app.component.html?
+How do connect mysql to Angular and display data in html

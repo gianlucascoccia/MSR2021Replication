@@ -1,1 +1,1 @@
-i want to print out log from folder watcher to broswer-window use electron.i can print out log in termin but do not know print log to browserwindow.i want to print out log from folder watcher to broswer-window use electron.i can print out log in termin but do not know print log to browserwindow.se this imag for my goalher is my source. how can i implement it?index.html&#xd;&#xd;&#xd;&#xd;&#xd;
+Print output log from folder watcher to browser window using Electron

@@ -1,1 +1,1 @@
-i regist a global shortcut when user copi someth but couldn't get the data from the clipboard object in both render or mainmain.j
+How to copy the clipboard content/data with shortcut from keyboard cmd + c/ctrl + c in main or renderer process in electron

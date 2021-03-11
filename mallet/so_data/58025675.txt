@@ -1,1 +1,1 @@
-tl;dr: i have a bundl js file in electron?
+Electron: How to execute bundled file?

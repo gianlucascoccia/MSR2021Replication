@@ -1,1 +1,1 @@
-we are write an electron app(w are use vuej for ui) which load a c++ dll. the c++ dll mount a network drive. here is the issue: in some of the window machin the network drive mount and then immedi unmounts. this issu doe not occur when the same dll is use in a c++ app. the issu onli occur in some machines. it is someth relat to electron but we are not abl to figur it out.
+Network drive mount issue with Electron

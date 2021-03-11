@@ -1,1 +1,1 @@
-i have some problem with electron app, respond wiht knexj and sqlite. i use knex and sqlite db file on node script, which is also respons for electron bootstraping. when i run app from "electron" command, from consol everyth is ok, app work and db is ok. but when i packag app with electron-packag app crash on start (without ani error). when i remov part in knex handl respons for connect with sqlite file app works... knex bootstrap look like that: do you have ani idea what can be wrong?
+Electron knex sqlite handling

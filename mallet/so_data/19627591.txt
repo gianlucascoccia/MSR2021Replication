@@ -1,1 +1,1 @@
-in node-webkit, call from ifram javascript to parent javascript doesnt work for me.i am tri to launch a link in the ifram on the default browser as a resulti want to call a function in the parent window so as to call:ani help is appreciated. thank in advance.
+call parent javascript function from iframe

@@ -1,1 +1,1 @@
-i am use mysql with electron. here is my code to connect to database. i am in a problem of variabl scope. i do googl for a long time but found no solution.what i want to do is describ within the uppercas comment insid the code. pleas look at the code and give me suggest if any.
+Electron MySQL Variable Scope

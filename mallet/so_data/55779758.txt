@@ -1,1 +1,1 @@
-i have creat new angular project with electron.i do need to set up the electron.i have got below errors.error in ./node_modules/electron/index.jsmodul not found: error: can't resolv fs in d:\path\desktop\node_modules\electron'mi package.json file
+How to solve this error Module not found: Error: Can't resolve 'fs'

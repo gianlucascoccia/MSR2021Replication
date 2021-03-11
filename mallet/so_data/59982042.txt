@@ -1,1 +1,1 @@
-some of my friend are share some demo projects, so that i can learn
+yarn command exit code 0 - electron

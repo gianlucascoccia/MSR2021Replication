@@ -1,1 +1,1 @@
-i'v got a standard electron app (base off of electron-prebuilt) that ought to be write to std out with the follow command: (in my project main.js) be direct to window stdout stream.
+How to capture the stdout stream of an electron application in windows?

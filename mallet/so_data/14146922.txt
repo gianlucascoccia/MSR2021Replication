@@ -1,1 +1,1 @@
-i have two html file in a prototype. if i open ani of them, a close button doe the job.aft i navig to anoth html, the same code sampl stop working. and doesn't work even if i come back to the previous page via browser` "back" button. how could that be? i'm new to js, so is there some concept i don't understand? as the code is scatter among sever files, i upload a stripped-down app - for observ this behaviour.
+window.close() stop working in node-webkit after navigating away from the main html

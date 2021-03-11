@@ -1,1 +1,1 @@
-i'm write an electron applic use es6 and chartjs. i have babel fulli set up and work fine. so far the onli way i have gotten chartj to work is by stick the (cdn) javascript into my head tag. when i tri to import it the es6 way (not sure how to do so properly), or simpli use tag in the head.
+How to import an npm module with ES6 in an Electron application

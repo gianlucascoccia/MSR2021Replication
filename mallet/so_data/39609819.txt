@@ -1,1 +1,1 @@
-i want to build a simpl read-on app which should run on android, ios, windows, osx and linux.do electron support mobil platform?i couldn't figur out which one should i go for.
+Difference between React-native and Electron

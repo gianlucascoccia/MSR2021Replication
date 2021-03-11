@@ -1,1 +1,1 @@
-i am have an issu pack my applic into a singl mymodulebas is in the application-cor moduleon other point which may be relevant: the applic is be packag with web-pack use the webpack-stream module. update: i'v solv the problem, howev i would still like to know whi the .asar version would fail and extract the file would work.
+Packaging Electron app into ASAR cause module not found error

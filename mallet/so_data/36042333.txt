@@ -1,1 +1,1 @@
-is there some sort of restriction? the consol doesn't show ani errors.i am attempt to display a pdf use basic emb tags:but my electron applic shows:
+Github's electron doesn't allow embed tags?

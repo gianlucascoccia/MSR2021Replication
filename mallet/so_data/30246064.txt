@@ -1,1 +1,1 @@
-i'm wonder if there is a way to access the browser context api in electron without creat a browserwindow. is this feasibl somehow?
+Using the browser context APIs without creating a BrowserWindow in electron

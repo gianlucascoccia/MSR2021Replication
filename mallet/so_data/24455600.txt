@@ -1,1 +1,1 @@
-i'm write cross-platform client for file host servic (someth like dropbox). i'm use node-webkit for this. so the question is: what is the best way to realiz cross-platform watch of file chang and how dropbox do it? (mayb someon know?). the node fs.watch method cannot watch over directori recursively. i found chokidar library, but i doubt that it will accept handl more than 100k files. mayb someon can help me?
+NodeJS: Best way to watch over file recusively?

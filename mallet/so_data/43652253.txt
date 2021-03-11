@@ -1,1 +1,1 @@
-how to set electron browser window devtool width?i know how to set width and height of the mainwindow and open devtools:but i would like to set devtool width somehow, is it possible?or set "body" width so it leav space for devtools, set width style doe not help.
+How to set Electron Browser Window DevTools width?

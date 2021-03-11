@@ -1,1 +1,1 @@
-while instal the appx now i am abl to see logo on launcher/instal popup screen.thi work when i made below changes:1)downgrad electron-build version to: 20.39.02)chang the directori entri in package.json as :i tri ad all relat resourc as mention in : https://www.electron.build/configuration/appx but it start give error of invalid manifest when creat a appx.so can anyon pleas help me to resolv this issue?
+After installing appx created with electron-builder setting default electron icon to my installed app

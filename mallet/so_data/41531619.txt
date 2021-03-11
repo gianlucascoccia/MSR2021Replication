@@ -1,1 +1,1 @@
-i'm look for a persist databas -- prefer a document databas like mongodb -- for an electron applic i'm work on. i look at nedb, but found out that it keep a copi of the databas in memori at all time -- and this won't work for me becaus i'm expect an extrem larg number of records, and as far as i know it not realli possibl to simpli bundl mongodb with an electron application.do you have ani suggest for me?
+Looking for a persistent database for an Electron app that's NOT in-memory

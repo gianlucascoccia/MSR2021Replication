@@ -1,1 +1,1 @@
-i don't know how it use to be before, but at the moment only?
+Is it possible to use electron-updater with electron-forge?

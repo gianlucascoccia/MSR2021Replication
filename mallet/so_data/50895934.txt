@@ -1,1 +1,1 @@
-so, here the thing.w have main process and render and they`r is isol from each other and onli bridg is ipc messages(to main process) or browserwindow webcont send(to main process).i'm handl my event in .
+Electron.js + React/Redux - best practice

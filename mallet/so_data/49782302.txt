@@ -1,1 +1,1 @@
-i'm use this packag angular-electronwhich give me access to fs on the angular side.i have this function to travers the folderi get back the right file path to the videos, however, when i use it as the src for the video player, i get file not found.mayb i'm miss someth basic, but my intent is to iter through the file in a folder in the userpath and return a list of the video in there to use as the media for a video player.
+electron/angular app get access to video in a folder.

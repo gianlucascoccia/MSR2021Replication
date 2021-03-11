@@ -1,1 +1,1 @@
-i want to check that if user put wrong id show error.i tri like this, but didn't work.when i put wrong is, it show notting, no error, no log, didn't go to next page.i'm use sqlite3 in electron if (err) { return console.error(err.message); alert("no id exist"); }
+How can I check in SQLite whether a user id exists?

@@ -1,1 +1,1 @@
-i am tri to connect to a remot server that i deploy on heroku from a desktop application.at the moment i keep get a 503 fail to connect servic unavail
+Is there a way for a desktop application to connect to a remote sever with socket.io

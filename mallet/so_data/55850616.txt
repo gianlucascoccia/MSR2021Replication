@@ -1,1 +1,1 @@
-i instal electron simple-samples. when i updat electron to latest 5.0.0, i got this error what is this line suppos to do? whi is it no more work in 5.0.0 ?it is work fine with electron 3.0.2 until 4.1.5.
+Uncaught ReferenceError: module is not defined on 'delete module.exports'

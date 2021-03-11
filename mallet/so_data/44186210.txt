@@ -1,1 +1,1 @@
-i just instal electron-forg follow the it homepag instruct but when i tri to creat a new project from angular2 template, it creat the default vanilla template.thes command i used:
+electron-forge --template argument doe not work

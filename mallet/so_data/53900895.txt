@@ -1,1 +1,1 @@
-i'm current work on wrap a webpag use electron but i'm rather new to electron. i found code that has the exact function i was look for: minim to system tray =>ater ad it, i notic that when i restor the applic from the tray and tri to resiz the window, the frame resiz but the content insid doe not. befor minimizing, the content resiz perfectly. not sure where this is break window resize, but i appreci ani help in advanced. thanks!
+Window resize doesn't work after minimizing electron application to system tray

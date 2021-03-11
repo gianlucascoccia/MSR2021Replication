@@ -1,1 +1,1 @@
-i'm a recent refuge from the flex/actionscript/air world and am love work with electron, node and begin to understand some of the convent of work with javascript.question: i'v been use the method below to refer modul which i have instal in a project. it work but i have the suspicion that i am "do it wrong" – most becaus after the simplic of the "npm instal ..." method, i then have to dig through the content of
+Referencing node module in Electron?

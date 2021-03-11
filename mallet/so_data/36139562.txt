@@ -1,1 +1,1 @@
-accord to the acceler documentation, i should be abl to send key command like , i would expect a newlin to be ad to the textarea.from the electron document (emphasi mine): keycod string (required) - the charact that will be sent as the keyboard event. should onli use the valid key code in accelerator.it would seem by that documentation, the newlin should get added.i that expect correct? if so, what am i do wrong?
+Accelerators and sendInputEvent

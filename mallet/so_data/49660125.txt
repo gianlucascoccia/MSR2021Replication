@@ -1,1 +1,1 @@
-i have a electron app that work with
+Cannot find module(s) NodeJs with Electron after building

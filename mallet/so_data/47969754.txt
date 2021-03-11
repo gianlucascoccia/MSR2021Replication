@@ -1,1 +1,1 @@
-i am make an electron application, i have made a node applic work on localhost:3000 use express. i want that applic to work in electron.how will i do that?now i want a sort of a build for this in a folder, where i can navig the url of mainwindow in electron. i don't know how to do that.
+Running NodeJS Application in Electron

@@ -1,1 +1,1 @@
-we have a webrtc applic that allow user to do video calls. the applic open up a new browserwindow when we get a notif that anoth user is call them and it play a rington like on a phone. the problem is that the user hasn't interact with the new browserwindow yet but we want to play the ringtone. how do i ensur that chrome new autoplay polici doesn't block the audio play?
+Play a sound on a web page without user interaction in Electron Application

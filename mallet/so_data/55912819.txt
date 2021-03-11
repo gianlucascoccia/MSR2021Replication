@@ -1,1 +1,1 @@
-how can i get branch code like electron v3.1.6 and depend chromium code？thi is about electron offici give get code.but it get latest code.mkdir electron-gn &amp;&amp; cd electron-gngcli config \ --name "src/electron" \ --unmanag \ https://github.com/electron/electrongcli sync --with_branch_head --with_tag
+How can I get electron branch code use gclient?

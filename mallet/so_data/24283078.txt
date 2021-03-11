@@ -1,1 +1,1 @@
-i'm at the tail end of develop of a desktop applic and i'm wonder how i go about ship the requir librari with the app.i'm use node-webkit as my ui framework and in the wiki it state that i should ship the mit license, the lgpl, the bsd, the ms-pl and an mpl/gpl/lgpl tri-license. how exactly? packag them insid the executable? provid them alongside?
+How do I correctly ship license with my desktop app?

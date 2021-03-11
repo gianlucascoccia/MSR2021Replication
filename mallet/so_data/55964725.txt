@@ -1,1 +1,1 @@
-i am load electron from c# via process object. i want to pass data from c# to electron(nodejs) via process object(int process communication). i have pass data in c# via standard input. but i am unabl to get the data in node via standard output.c# code to load electron and pass data via standard input.
+Pass data from c# to electron

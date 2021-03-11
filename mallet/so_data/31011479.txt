@@ -1,1 +1,1 @@
-is it possibl to merg the zip app.nw file into the nw.js execut on mac platform.certain is possibl on linux and window but doesn't seem to be the case of mac.
+Nw.js merge the zipped app.nw file into the NW.js executable

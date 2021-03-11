@@ -1,1 +1,1 @@
-i'm work with angular and electron to tri few things. i'v setup everyth and the standard project generat with cli and launch with electron work fine. then i ad few things, and here what i have so far.script &amp; style from angular.clithi solv my problem i can now wrap my app with electron perfect and use it with a ng serve.
+Electron Angular Library error

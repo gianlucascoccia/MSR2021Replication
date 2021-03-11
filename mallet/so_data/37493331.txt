@@ -1,1 +1,1 @@
-i am tri to publish a packag on .update: electron seem to be the main problem here and it is not even my librari but a depend that throw this error (on in electron)
+Making a library importable using webpack and babel

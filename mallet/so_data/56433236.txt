@@ -1,1 +1,1 @@
-electron packag has packag my app.but it doesn't have all the node modul as present in my app befor packaging. i am forc to manual run npm instal insid my packag folder.so, the app is not abl to perform as expected.i tri insid package.json
+Electron doesn't install all package inside package.json

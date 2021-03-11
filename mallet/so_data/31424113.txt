@@ -1,1 +1,1 @@
-i have use electron(form atom shell) to creat desktop app use nodejs. i am use follow code to open an url into browser, this is a regular browser window.i want to perform an action when user close this browser window. how do i detect close event of this spawn browser?
+How to detect browser close event in node js?

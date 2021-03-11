@@ -1,1 +1,1 @@
-i have an electron applic where i is not a function.am i correct to assum that this not possible, and all i can do send regular object onli between child and parent processes?
+Share ipc object between child and parent process

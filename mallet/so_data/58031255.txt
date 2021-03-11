@@ -1,1 +1,1 @@
-at my compani i'm respons for maintain a cordova and electron project and recent i'v tri to port everyth to cordova. but appar use electron within cordova there no access to the electron main process.i just wonder if there ani workaround for this?i'v seen on the document they suggest to edit some generat file but it be incred frustrat to work with. thanks!
+Access Electron main process using Cordova

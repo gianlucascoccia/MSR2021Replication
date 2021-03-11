@@ -1,1 +1,1 @@
-pleas tell me, is it possibl to configur webpack-dev-serv and node-webkit for development? i want to use nw modul and node modul for my application. if i build applic (app.js, vendors.js, styles.css, index.html), then all is well, but but it is inconveni for the development.thanks!
+webpack-dev-server and node-webkit

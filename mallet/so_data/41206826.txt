@@ -1,1 +1,1 @@
-i want to run my electron.atom app as a local server via the jsp engin (apach tomcat etc). it is possibl to includ the engin in the electron application?
+How to run tomcat jsp engine in electron.atom app?

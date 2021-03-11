@@ -1,1 +1,1 @@
-i'm tri to build an electron app and i can't seem to get fs (file-system) to work without crash electron.i'm not get ani inform error messages, and i could not find anyth onlin about this.th code is super-simple, electron is set up and execut properly, and load the follow script file:devtool disconnect instantly, which appar mean an oper was so expens that it crash electron.th path to the .json file is correct, none of the packag are modified, and electron main.j use the standard set up.
+Node - Electron - FS (save/read) Crashes electron

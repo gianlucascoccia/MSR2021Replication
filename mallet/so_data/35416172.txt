@@ -1,1 +1,1 @@
-i'm tri to use visual studio (not vscode) to creat a simpl electron app. i'm do so via the node.j tool for visual studio (v1.1) extension. i'm use the basic quick start app which work fine if i launch via npm start, but if i launch via visual studio, i get the follow error on start up: cannot find modul electron on the first line: can i tell visual studio to launch the electron app first befor start it node.j debugger? has anyon els gotten this set up to work at all?
+Creating an Electron app using Visual Studio (not VSCode) w/ Node.js tool

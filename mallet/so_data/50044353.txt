@@ -1,1 +1,1 @@
-i am start to play around with electron, and i was wonder how i can access a variabl that live in my main.j script from within a requir script in the head of the main.j file.her is my dumb down example: main.j : i manag to do what i want with getter and setter in main.js, but i feel this is not the best way to do this.ani thoughts? is there a way to includ a script so that it has access to all variabl and function declar in the script includ it?
+How can I access a variable from my main.js file from within a required module?

@@ -1,1 +1,1 @@
-i'm current have a nightmare...i have been run this code:
+NodeError: The "file" argument must be of type string. Received type object when using nightmare

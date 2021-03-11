@@ -1,1 +1,1 @@
-i'm look for a method to launch chrome app from microsoft win pe.i it chrome support that feature.
+How to launch chrome/chromium browser from win PE?

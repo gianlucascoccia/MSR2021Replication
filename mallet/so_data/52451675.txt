@@ -1,1 +1,1 @@
-i load extern content into my electron app, which has the potenti to be insecure. i want to expos an api to this unload content, in the form of a class. this api class should have access to
+Electron, how to access node API without nodeIntegration

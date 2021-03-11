@@ -1,1 +1,1 @@
-i am tri to implement firebas phone number authent but there is a problem with environ such as i am use electron js.here is my code are there ani solut for this problem or workaround?
+Firebase phone number authentication in Electron js, Angular 5

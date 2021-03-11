@@ -1,1 +1,1 @@
-i want to do basic auth with the github api from an electron application. i'm tri to send an ajax request from the electron applic to the github author api to creat an access token. the request work when i do it through curl but i can't translat it to the ajax request. it work when i use curl: . what the differ between the first curl command and the subsequ ajax request? could this an electron issue?thank - let me know if you need ani other information.
+Github API POST /authorizations return 401

@@ -1,1 +1,1 @@
-i am use of some of the npm modul which are make get request behind the scene to pull some data from websites. but there is no option or set to set proxi for those requests, so i want to know how to set proxi for entir electron app so that all the request go through that proxy?
+Setting Proxy for Electron App

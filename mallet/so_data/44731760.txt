@@ -1,1 +1,1 @@
-i ran into a frustrat problem today. i'm work with within the c++ it work as expected. so somehow the ffi callback refer is screw up the multithread environment. would love to get some thought on this. thanks!
+Node FFI Callback from C++ thread

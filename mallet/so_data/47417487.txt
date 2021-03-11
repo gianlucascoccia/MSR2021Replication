@@ -1,1 +1,1 @@
-by now i'm iter over all row like this:thx
+Javascript / Electron / SQLITE: Iterate over all column of row

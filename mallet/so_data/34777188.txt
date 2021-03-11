@@ -1,1 +1,1 @@
-with nw i have follow code. which is execut java or other scripts. but not abl to run ani locat path for exampl the follow is failing.
+Javascript - How to execute the executable file located in C:\?

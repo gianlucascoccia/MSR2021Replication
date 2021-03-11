@@ -1,1 +1,1 @@
-it is work fine on maco but on window upon launch it loop itself quit &amp; restart with no error or stop. i can see the ui for a second or two.
+Electron App Loops Restaring Itself on Windows

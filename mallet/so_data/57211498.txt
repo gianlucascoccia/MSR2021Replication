@@ -1,1 +1,1 @@
-in my project, there is an extra dll file which is a direct show filter that need to be regist to the system (windows).i tri but it requir admin privileges.i it possibl to program electron-build to regist a .dll file after installation?
+How to register a .dll with electron-builder

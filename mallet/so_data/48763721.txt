@@ -1,1 +1,1 @@
-i am use https://github.com/maximegris/angular-electron boilerpl to start electron app. after clone this, i have made onli below two chang in effort to start set up autoupdater:instal electron-updater: ani idea how to fix this,
+error TS2305: Module '"http"' ha no exported member 'OutgoingHttpHeaders'. when trying to add electron-updater into electron project

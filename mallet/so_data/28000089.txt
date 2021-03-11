@@ -1,1 +1,1 @@
-i am get a 401 even though all my consol log are printing...her is my server code:
+I am getting a 401 Unauthorized from Node.js, Restify and Passport

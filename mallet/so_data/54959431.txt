@@ -1,1 +1,1 @@
-i have creat a portabl video player use html5 video and some javascript and i pack it as portabl applic use electron-player.dur my tast i realiz that the player provid bad user experi while the select video is interlac due to bad imag presentation.i'd made some research but i could not find ani satisfi solution.do you have ani suggest that may solv my problem?
+Is there any way to play interlace video on browser?

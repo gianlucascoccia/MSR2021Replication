@@ -1,1 +1,1 @@
-i am work with an electron app where i use sqlite3. becaus of i am use sqlite3, i rebuilt the project use "electron-rebuild" follow the command:
+Electron Packager Script Error using Electron Rebuilt

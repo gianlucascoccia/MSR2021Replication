@@ -1,1 +1,1 @@
-in a node-webkit applic run on the latest stabl releas (v0.18.8), i have these three lines:plac these two file in a folder and run with node-webkit with internet and without. press f12 to open the develop tools. there should be no error when run with internet, and an error when run without.
+Why doe require('child-process') not work in Node Webkit without an Internet connection?

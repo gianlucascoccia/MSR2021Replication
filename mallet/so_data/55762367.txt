@@ -1,1 +1,1 @@
-i'm current do a python project where i want to display my result in an electron application. i have seen a demo video on youtub on how to set up electron on a mac. the video show 3 simpl step to be execut in the terminal:i don't know what it means? but i just want to open the electron application.
+Cannot start Electron application - missing package.json

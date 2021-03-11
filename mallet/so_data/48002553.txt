@@ -1,1 +1,1 @@
-i have a window servic poll period whether my app in run or not. when it is, the servic check for an updat on a server. if there is an update, i need a way for the servic to let the app know it is avail so the user can be notified.i this possible?
+Is there a way for an Windows service to communicate with an Electron App?

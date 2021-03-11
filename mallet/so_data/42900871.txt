@@ -1,1 +1,1 @@
-this is my current project structure: exist in render process?
+How to create a modal window and load HTML from render process?

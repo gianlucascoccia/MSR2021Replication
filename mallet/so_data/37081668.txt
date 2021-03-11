@@ -1,1 +1,1 @@
-i want to creat a cross-platform app in desktop and web browser with electron and each of these have a separ database, sqlite for desktop and mysql for web. is logic possibl to code onc for both of them?
+Using Electron Code in Browser

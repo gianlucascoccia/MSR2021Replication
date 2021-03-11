@@ -1,1 +1,1 @@
-i am tri to get select the list of files(path) from directori and display it on the dom,but in order to display data i have to first assign in vuej data object. mainrender
+How to append array into data from ipcRenderer

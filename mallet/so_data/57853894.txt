@@ -1,1 +1,1 @@
-i'm build an electron app for window use sqlite to store data. everyth work fine but whenev the user sesion is suspend or the app is abrupt (like close by the task manag or "kill" on linux) the databas file turn into a text file with 0bytes. if i tri to access through a db browser, all the tabl and data are gone. is this commom? should i start make automat backups?it also happen whenev i tri to browser the file while the app is run
+Why my SQLite file is turning to a empty text file when main window is closed?

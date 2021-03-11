@@ -1,1 +1,1 @@
-after instal a nativ modul via npm for use with electron (atom shell) i'm tri to run electron-rebuild:which i believ are all the latest. at one time, perhap befor some version upgrades, this worked.can anyon explain and suggest a fix? thanks.
+electron-rebuild "Unable to find Electron app ..."

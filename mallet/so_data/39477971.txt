@@ -1,1 +1,1 @@
-i'm develop a node.j electron desktop application. is it possibl to run this applic (without consider for my sourc code) on tablet with window 10, android, or an simliar os?if this isn't the case, are there os for tablet that are abl to run these kind of applications?i am thank for all help and information.
+Run Nodejs Electron application on tablet

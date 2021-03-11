@@ -1,1 +1,1 @@
-i know how to send event from render process to main process use but got stuck on how can i send event from main process to all render process, more like a broadcast.
+Broadcasting event from main process to all renderer process electron

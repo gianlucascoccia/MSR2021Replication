@@ -1,1 +1,1 @@
-i am in a uniqu situat where i can run send out which tell the server which oper system i am running?
+How do I force the download of Windows module

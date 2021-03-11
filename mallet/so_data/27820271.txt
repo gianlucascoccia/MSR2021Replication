@@ -1,1 +1,1 @@
-abov code report success in both develop (npm start) and distribut (zip to app.nw and put it in node-webkit.app resourc dir), but onli the file in develop changed. i dont know why. have tri utf8 and base64 encoding, both of them are the same.or is there a way to get around it? like put the setting.json file somewher else?
+node-webkit can not write file in app.nw

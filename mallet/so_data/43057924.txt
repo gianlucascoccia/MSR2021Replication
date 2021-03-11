@@ -1,1 +1,1 @@
-i would like to access the submenu element in my menu.mi menu is organ like:th consol output is show all the menu again and not the sub-el to workflow.what is the proper queri to get the sub elements?
+Accessing Submenu Items in Electron

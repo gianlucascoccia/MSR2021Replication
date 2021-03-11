@@ -1,1 +1,1 @@
-i know there are mani known solut to this. but not a singl one works. i keep get this error:i start this project with the electron quick start at https://github.com/electron/electron-quick-start .thank in advance.edit: interestingly, the oauth librari was interf with jqueri as well. but even after remov oauth, it still is broken.
+$ is not defined - using jQuery with electron.js

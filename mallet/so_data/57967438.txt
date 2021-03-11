@@ -1,1 +1,1 @@
-i built an electron applic use edit: issu persist for electron 6.0.9 and electron-packag 14.0.5
+child_process method are slow on Electron

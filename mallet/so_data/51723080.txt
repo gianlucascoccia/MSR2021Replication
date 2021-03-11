@@ -1,1 +1,1 @@
-i'd like to make my own desktop application, in which i could input, organize, group and rate some data. for instance, someth like ratebeer.com does. i don't know which program languag would be the best for such app (it suppos to be databas with pleasant gui, onli for desktop). i read about javafx and electron, but can't decid which one is the best, or mayb there someth even better. what do you think?
+Database with pleasant gui desktop application

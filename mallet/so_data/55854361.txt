@@ -1,1 +1,1 @@
-use cordova-electron: how can i have cordova - electron bundl all requir node_modul into the applic (so that a user doesn't need node and it modul installed)?do i need to instal electron-packag on top of cordova-electron?do i need to run hooks?and how would i do this, if i need to requir some stuff in the (renderer)?i there some best practic or a demo-project to see how that works?
+How do I include or bundle node_modules in a cordova-electron application?

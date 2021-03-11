@@ -1,1 +1,1 @@
-alright, so what i'm tri to achiev is a function, that return a button with a differ label depend on wether a file exists, or not. so far so good, the code itself seem to be working, but in the wrong order. what i did is print out file doe exist or doe not exist in the part of the function that doe the actual checking, save a this is what get return in the dev consol
+React - variable is undefined instead of true/false - component get rendered first?

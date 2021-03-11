@@ -1,1 +1,1 @@
-right now i'm just tri to add electron to the basic hello world app (well, i did tweak some option in the aurelia cli, but still it just at hello world webpack+typescript).mi current attempt is to use webpack-electron, what i'm get is a white screen of death. i can also get a black screen of death, if i exclud the renderer, it can't find ani of the resourc file in that case, it look for them at the wrong path.her my
+How do I get webpack working with electron using aurelia?

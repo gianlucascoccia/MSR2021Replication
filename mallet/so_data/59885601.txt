@@ -1,1 +1,1 @@
-i want to creat an electron app through which i can manag the wifi connect of the device. how to approach it? is there ani librari avail which give me access to wifi api of the device?
+electron app to manage wifi connection of the device

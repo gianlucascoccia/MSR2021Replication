@@ -1,1 +1,1 @@
-i just check electron to creat desktop applications. it is look impressive. i want to know that where to store data in electron. is there ani portabl mysql avail for electron? so that it will be easi to creat app and distribut it which requir a databas like mysql.
+Portable Mysql with Electron

@@ -1,1 +1,1 @@
-im new to use electron and also kinda new to use the webview tag, so i pre-apolog for mayb not know someth realli obvious.im tri to dynamiclli creat web view and add the follow event to them.did-start-loadingdid-stop-loadingdid-finish-loadpage-title-updateddom-readyim use a mix of jqueri and pure javascript to do this but current im not have much luck. i have attach my code below so you can tri find anyth obvious there. im not get ani javascript error in the debug menu but at the same time none of it seem to be working.
+Dynamically adding multiple event to multiple webviews

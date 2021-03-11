@@ -1,1 +1,1 @@
-i have an electron app with some data which i want to protect from be copied. i'm awar that there can't be 100% safeti but the user will be not be techies, so a simpl solut will do it.what i have alreadi done:- disabl select via css. is undefin
+How to limit copying from electron app to certain word length?

@@ -1,1 +1,1 @@
-i have an electron/emb app that allow user to store a video offlin and play it later. the ember app use a but as soon as a i sign and packag it for releas it no longer works. the video player itself load but is just blank. is there some limit with use local file in releas mode for electron?
+Cannot play offline video in production electron app

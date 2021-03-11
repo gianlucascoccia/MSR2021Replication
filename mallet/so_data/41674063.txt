@@ -1,1 +1,1 @@
-is it possibl to creat a tcp client with electron?or can we access the chrome socket api with doe that?https://developer.chrome.com/apps/sockets_tcp
+Is it possible to create a tcp client with electron

@@ -1,1 +1,1 @@
-i'm use event.am i do anyth wrong in this?
+How to handle custom protocol in linux using Electron?

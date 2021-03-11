@@ -1,1 +1,1 @@
-i have a server which run nodej with nedb, everyth is fine until the db file reach 256mb, nodej go down and give me a .i do know 256mb is the limit for string in v8, but i dont suppos nedb wont handl it at all. so what should i do if a db file over 256mb, and how can i repair my db files?
+if nodejs datebase over 256MB, buffer toSting failed

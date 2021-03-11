@@ -1,1 +1,1 @@
-i am develop a node.j applic with express and i would also like to make an electron applic for it as well. i found this link here: nodej electron with express, and use the code in the answer. but that exampl make a server on the user comput and then access that server, so is there a way to use the javascript command "fetch" but with a paramet that is a way of identifi that you have the proper identification, so that nobodi can access my express applic without the proper identification? thank you.
+FETCH j command with access token parameter

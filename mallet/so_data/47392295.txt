@@ -1,1 +1,1 @@
-i want to trigger an action on doubl of mous when electron app is run in the background. i read the document and seem like there are no globalshortcut for mous events.ani other way to achiev this? perhap some node modul compat with electron app?
+How to set mouse click a global shortcut in electron app

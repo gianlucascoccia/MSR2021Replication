@@ -1,1 +1,1 @@
-i have creat the app use node-webkit . but when i click on gte.ex it give nw.js empti scree.mi json file is:}i chang my folder into zip and chang to .nw extension. after that i ran d:\nw>copi /b nw.exe+app.nw gte.ex .pleas ani one help me out
+node-webkit app package creates nw.js empty screen

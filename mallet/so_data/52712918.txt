@@ -1,1 +1,1 @@
-i'm have a problem with mongo and node. i have a file call db.js where i put the
+Node require mongo error - 'require is not defined'

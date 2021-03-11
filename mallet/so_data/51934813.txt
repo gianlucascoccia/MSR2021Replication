@@ -1,1 +1,1 @@
-i'd like to write unit test for some of my network logic in an electron app, and need to mock out the network endpoints.in the past, i'v use module), and nock doesn't intercept these requests.what is the best way to mock electron network requests?
+Electron: mocking out network request for test

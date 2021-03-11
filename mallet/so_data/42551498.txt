@@ -1,1 +1,1 @@
-we are make a desktop app with electron use angularjs, we want to make end-to-end test use protractor, the problem is that we got issu on run it, we don't realli know what is the problem but look like there is some synchron problems, like it not wait for the page to load, not close the app after the test is finished.her is the protractor configur file:
+Electron: Run end to end test with protractor

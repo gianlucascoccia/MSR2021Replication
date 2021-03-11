@@ -1,1 +1,1 @@
-current work on an applic with electron and react. tri to have an onclick event for a button that will open a new browser window which will render a react component.i this possible?
+Opening a new BrowserWindow in electron that render a new react component

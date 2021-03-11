@@ -1,1 +1,1 @@
-i would like to retriev the directori where the .app file is launch for exampl if i run my nwjs.app from /users/thomas/desktop/nwjs.app i would like that in my program i can retriev it.process.cwd() return the correct directori when i run from ./nwjs but not when i put the app.nw archiv it return me: /private/var/folders/xl/mm8951l946xbc0rxd91mmr_00000gn/t/.io .nwjs.nwjs.9p38hjthank you for your help.
+Get path node j (nw)

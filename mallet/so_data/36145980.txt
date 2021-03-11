@@ -1,1 +1,1 @@
-my electron app is show the full screen on my first screen. now how do i move it to my extern screen also in full screen? i have tri the windows+shift+left/right use the keyboard but it doesn't work in full screen.and i want the electron to open perman in the second screen, so, what are the set i have to make?
+How do we move our electron app to show in second/external screen?

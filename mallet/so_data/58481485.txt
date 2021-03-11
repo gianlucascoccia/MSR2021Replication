@@ -1,1 +1,1 @@
-when run our c++ node addon in electron high dpi settings/flag are not respected. the node addon on it own work fine until it packag with electron.our node addon separately, in anoth process but call from within electron, creat a new window with sdl that attempt to be dpi enabl via how do make this success work when packaged?
+Electron overriding High DPI support on macOS with SDL

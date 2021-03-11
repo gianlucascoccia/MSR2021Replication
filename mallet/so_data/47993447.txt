@@ -1,1 +1,1 @@
-i'm new to "angular", "typescript" and "electron". i creat a "server.js" file with the basic exampl of express. what is the correct way to creat a local server for the local network? i want to creat an "angular" "electron" app with a button to run the express server, but i don't know what to code in order to execut the "server.js" file.thank for your help.
+How to run require("express"); from a TypeScript Angular Component in Electron App

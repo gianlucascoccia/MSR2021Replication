@@ -1,1 +1,1 @@
-in this react code i am tri to set the data to current state,aft set the data to state i need to use it in fix data table.to achiev it, i wrote as below.th main issu is that the statement next to "this.setstate" in componentdidmount is not be executed/reach where i need to call data tabl function there.her is my code:st is success updat but after that statement is not reached, in componentdidmount,ani help much appreciated.
+Statement is not being reached after setting State in react ES-6

@@ -1,1 +1,1 @@
-i am develop an app use node-webkit and for test i use https://github.com/mllrsohn/grunt-node-webkit-builderhowever, it requir the presenc of an environ variabl name direct insid the karma.conf.j file on the first line, it look like it might just work.
+node-webkit karma temporary environment variable

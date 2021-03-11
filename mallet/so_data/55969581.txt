@@ -1,1 +1,1 @@
-issue:i'm tri to reopen my main window after network reconnect. but it not work properly. it just show a white blank page.what i found:i have enabl develop tool for the main window. and i found url is not right.consol tab window.location.href
+re-creation of main window show blank page in electronjs

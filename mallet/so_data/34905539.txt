@@ -1,1 +1,1 @@
-in node electron browserwindow constructor, you can specifi to zoom the web content of the window. is there a way to modifi this when the browserwindow has alreadi been created? and is there a way to specifi that the content is not smooth when zoom but rather magnifi with nearest neighbor?
+Electron's BrowserWindow zoomFactor can be changed after construction? and how to choose nearest neighbor instead of smoothing?

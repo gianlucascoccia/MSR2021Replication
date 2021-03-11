@@ -1,1 +1,1 @@
-i am spawn a child process with root privileg in my electron app for macos. thing are work fine but app is ask for root password on command line instead of user interface. i want a dialogu box for ask password from user instead. i found cocoasudo that can be help and it seem that it can be use with electron from this thread. but i could not figur out how...ther is anoth question with similar problem, but it is not help in my case. also a npm packag exist but not working.
+Is there a way to use cocoasudo (graphical “sudo” for Mac OS X) in Electron/Node app?

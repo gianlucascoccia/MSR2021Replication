@@ -1,1 +1,1 @@
-i have a bootstrap not clickable.
+Bootstrap `nav` element is not clickable

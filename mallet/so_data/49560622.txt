@@ -1,1 +1,1 @@
-i want to catch mous move event from the main process (not render) with electron.now, i'm do a setinterv loop to catch the mous position, but this is not veri clean (and from the render process)... it look like this:so... how can i catch the event from the main process ?i want to know the posit of the mouse, when the mous is outsid the window
+Catch mouse move event from main process (Electron)

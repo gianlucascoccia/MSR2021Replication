@@ -1,1 +1,1 @@
-i want to get the height of a window in electron.actually, i use :but the height i get includ the titlebar height...how to get this window height without the titlebar height?
+How to get height of Electron window without titlebar height?

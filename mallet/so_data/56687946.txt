@@ -1,1 +1,1 @@
-error build my electron app for window on maco mojavewhen build im get this error:
+MacOS error building squirrel installer for Windows

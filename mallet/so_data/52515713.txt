@@ -1,1 +1,1 @@
-hi i'm veri new to &#xd;&#xd;&#xd;
+How do i pas javascript variable to electron and manipulate it

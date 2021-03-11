@@ -1,1 +1,1 @@
-i am tri to use electron-build and when i do npm run dist i can get the exe file i want in the dist folderhowever, after this, the dist folderi lock and cannot be eras or it name changed. when tri to do this the messag that a program is use the folder appears.anybodi has had the same problem??
+After running npm run dist the dist folder get locked

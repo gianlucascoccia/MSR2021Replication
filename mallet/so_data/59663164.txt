@@ -1,1 +1,1 @@
-i understand that to send inform you do which will return an array of the form data.
+With Ipc Main and Ipc Render how do you send a whole form?

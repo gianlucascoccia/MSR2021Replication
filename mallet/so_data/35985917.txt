@@ -1,1 +1,1 @@
-i'm work on an app in electron, react and redux. at the program start, i'm make a few asynchron ipc call between the render process and the main process and save the result in the store.
+Waiting for multiple ipc call to complete before continuing in electron/redux

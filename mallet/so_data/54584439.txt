@@ -1,1 +1,1 @@
-in electron, i'm tri to creat a custom menu and load it into the main window, like so: bound of the view (to someth lower in the window), then i see the menu item just fine.i there a way to make the main window content overlap/overlay the browserview content?
+Electron - when loading content in the main window and a BrowserVIew(), can main window content overlap the view?

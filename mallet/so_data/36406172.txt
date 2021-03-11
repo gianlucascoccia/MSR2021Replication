@@ -1,1 +1,1 @@
-so my app just open a new window of a local html file with a webview tag of some webpage. but when i tri to get the cookies, i cannot get anything.i think the reason is the cooki is bound to the url of the webview tag but now my local file but when i can onli get the window of the local file.how can i solv this problem?
+How can I get and set cooky inside webview tag of nwjs?

@@ -1,1 +1,1 @@
-in the main process of my electron app, i'm tri to handl an except thrown when creat a file that alreadi exists. however, my catch claus is never entered, and the except is spam to the user. what am i do wrong?
+Can't catch exception from fs.createWriteStream()

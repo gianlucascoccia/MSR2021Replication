@@ -1,1 +1,1 @@
-i'm build up a new react app on electron , i want to access electron api from react compon to close the app with a button.i tri to import electron but it give me modul not found
+Access Electron Api from React

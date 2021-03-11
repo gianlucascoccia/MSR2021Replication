@@ -1,1 +1,1 @@
-i am implement drag &amp; drop function in electron + react application.her is my drop event listen but i am get wrong file size or 0 for some files. how can i get origin file size in drag and drop ondrop event??
+Drag and Drop file size is wrong

@@ -1,1 +1,1 @@
-i'm write a simpl browser, use electron.i use but it for chrome app development, so it doesn't work in electroni'm curious about how doe chrome handl this ?
+how to set `window.opener` for a webview

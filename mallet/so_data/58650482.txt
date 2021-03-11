@@ -1,1 +1,1 @@
-i'm work in a desktop app use angular and electron, all is good until the moment i want to use electron-packager, it alway fail with the follow messag . i tri to work with the regular express and i haven't been abl to make it work.th result i want, is to ignor the node_modul folder, except for the base64topdf filesthank in advance.
+/).*/ wa unexpected at this time. When using electron-packager with ignore

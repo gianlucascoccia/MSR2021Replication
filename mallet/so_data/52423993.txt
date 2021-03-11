@@ -1,1 +1,1 @@
-we'v been develop an electron app use angular in the render and we have some background task servic in main. we recent chang from load .
+Security issue in Electron using http:// protocol instead of file://?

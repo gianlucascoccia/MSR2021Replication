@@ -1,1 +1,1 @@
-this question is specif to electron-quick-start, so it not a duplicate.i'm in the veri first step of js desktop app with https://github.com/electron/electron-quick-start, i have the code and i can run the app on my mac(hine).i'v note it possibl to zoon in/out the text on the app, which is a featur common to web. not so common to desktop apps.how do i disabl that behavior?
+Is it possible to disable zoom in/out functionality in a Electron electron-quick-start JS app?

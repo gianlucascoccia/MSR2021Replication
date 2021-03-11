@@ -1,1 +1,1 @@
-we have an electron app that use imagemagick on osx, we have pre-instal that with brew install. it work fine in development, but when we packag the app - it cant find imagemagick.can we brew instal imagemagick befor set up the app? how would we go about do this?
+How to install imagemagick inside of electron app

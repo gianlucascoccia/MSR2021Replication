@@ -1,1 +1,1 @@
-i build my applic (nsis) in window with this instruction:?
+How to change the "Start in" path in a shortcut for an application created by Electron Builder?

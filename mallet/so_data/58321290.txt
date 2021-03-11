@@ -1,1 +1,1 @@
-from maco catalina, it is compulsori to notar maco apps. there are mani guid avaiabl but all are use electron-builder. have anyon did this use electron-installer-dmg? i don't want to chang my configur but no luck till now use electron-installer-dmg. i could not figur out how to use electron-notar packag with electron-installer-dmg.
+Notarizing electron app with electron-installer-dmg ( without electron-builder )

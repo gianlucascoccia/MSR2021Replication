@@ -1,1 +1,1 @@
-i have a html radio button, but i want to know how can i get a valu from it. (i'm work on electron)her is my radio code
+How to get a value from a Html radio button

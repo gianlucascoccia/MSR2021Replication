@@ -1,1 +1,1 @@
-i have a collect exampl below. this data is pull from an endpoint everi twenti minut on a cron job. can i do this at the in a mongodb query? or am i better off with a javascript filter function?
+How can I reduce a collection by keeping only change points?

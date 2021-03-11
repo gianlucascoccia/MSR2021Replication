@@ -1,1 +1,1 @@
-i am write a simpl markdown app in electron. currently, i just have a textarea, and a div, and some javascript code that get the text in the textarea, feed it into mark (a handi npm module) and set the content of the div with jquery. i have alreadi done overflow: auto; in my css document, and tri all of the obvious solut i have come across, and none of them work. my textarea scroll fine, but the div doe not. it simpli cut off the text at the bottom. here is my code : https://codepen.io/anon/pen/jzprnlhtml: // edit ad codepen
+How to make a div in Electron scrollable

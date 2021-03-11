@@ -1,1 +1,1 @@
-is there current ani api (public/private) that will allow a 3rd parti maco app to mirror the mac desktop to a select airplay receiver?app store distribut is off the table, so i'm open to privat api at this point.th stori read like so, "as a user, i want to click a button, connect to an airplay receiver, mirror my desktop without use the airplay button at the top of the screen."
+AirPlay API for macOS

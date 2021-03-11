@@ -1,1 +1,1 @@
-i have the follow in my render process: it doe exist and print out.how can i send the object to the main process then get it back and access the methods?
+Methods no longer exist when sending to/from ipcRenderer

@@ -1,1 +1,1 @@
-i have creat an angular 6 project use the angular-cli.follow that that i have instal electron and done this:chang src/index.html base to instal electron locally:npm instal electron --save-devcr a main.j file on the root of my projectconst { app, browserwindow } = require('electron')let win;funct createwindow () { win = new browserwindow({ width: 600, height: 600, })win.loadurl(how can i do this?
+Angular / Electron using the renderer.js with angular component

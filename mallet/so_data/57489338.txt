@@ -1,1 +1,1 @@
-there is a small problem in the electron applic for macos: emoji with gender differenti are display with two icons: the pictur itself and the gender icon. is there ani possibl at the code level to display such emoji with a singl icon?
+Gender emojis in electron application for macOS

@@ -1,1 +1,1 @@
-i'm look for a solut to creat a new mail object in outlook app with node.js/electron for some automation. i can't use the office365 api (due to compani security, veri special) - so my last method is a programmat access.i search a few day in googl to find a tutorial/answer, but i had no luck. :(doe anyon have a good idea? i need rli help.greetz clairesunenote:activexobject is not possibl with electron (chromium v8)
+How I create a outlook object - new email - with electron?

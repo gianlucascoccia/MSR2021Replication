@@ -1,1 +1,1 @@
-i am build an electron app use vue bundl via webpack which use kubernetes-cli library.th kubernetes-cli librari intern read few (.json.gz) file use how can one bundl the kubernetes-cli node_modul ?as i am use require('kubernetes-client') in renderer, the requir statement is transform by webpack but the fs.readfilesync file are not bundled.
+Webpack bundle file refered by node_module library

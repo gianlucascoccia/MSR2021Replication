@@ -1,1 +1,1 @@
-i am use the follow code in my render process and it work fine.but i would like to print direct to a particular printer to be set programetically. i also want to set the paper size manually.i also want a list of avail printer in the system.ar there ani print api in electron or node that i can use?i would like someth like printdocu in c#thank you in advance.
+How do I print from Electron app directly to a particular printer?

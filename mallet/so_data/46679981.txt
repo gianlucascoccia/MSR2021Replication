@@ -1,1 +1,1 @@
-i'm creat web autom softwar use nightmarejs. i would like to creat a gui for my softwar but i can't figur out how to have an electron window and a headless nightmarej process go at the same time. the goal is to be abl to control the nightmarej thread via the gui electron thread. here what use nightmar look like for me:
+How can I use 2 Electron window (Nightmare + Electron) at the same time?

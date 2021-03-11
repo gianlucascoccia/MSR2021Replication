@@ -1,1 +1,1 @@
-i have an array contain the url of an imag and want to chang the src of an on button click. (as a side note, this abov is happen in a render process of an electron app).
+Skip to next iteration in a (Typescript) .forEach loop with setTimeout

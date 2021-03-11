@@ -1,1 +1,1 @@
-i need to store a refresh token from oauth securely, but i need it to be access by my applic for all user on the machine. from what i can tell onli support credenti be store on a per user account basis. is there a way to secur store the refresh token?for what it worth, this is for an electron app.
+node-keytar, machine wide credential

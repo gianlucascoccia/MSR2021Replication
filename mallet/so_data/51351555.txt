@@ -1,1 +1,1 @@
-for whatev reason my button color are strip through, and i have not been abl to find out why. i search through the comput result but the border color are set as one with no sign of weird settings. what am i do wrong? is this a maco issue?just notic it happen to my hr tag too!her is the code for my hr and button tags:
+Electron button ha strange styling

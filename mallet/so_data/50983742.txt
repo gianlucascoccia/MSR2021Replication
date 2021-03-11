@@ -1,1 +1,1 @@
-i'm look into electron and one thing stump me. sinc i know that you cannot access local file system from the browser in normal circumst - extensions, etc. notwithstand - how can electron do that when it use the chromium browser? what am i missing? doe it not browserifi the app?
+Electron v Chromium: why one can access file system while the other can't?

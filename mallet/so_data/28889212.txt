@@ -1,1 +1,1 @@
-is it possibl for node-webkit to run a js file, and not a .html file?i have a small app that is suppos to open a extern url (and captur it to image), and i don't see the point of creat a html file with my script. i just want the script to run
+Node-webkit run .js file only?

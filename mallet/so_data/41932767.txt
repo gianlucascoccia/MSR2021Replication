@@ -1,1 +1,1 @@
-i am use ui router for angular routing. everytim $state.go() is call a new instanc of the control is be created. i have $rootscop event here. so everytim i want to print ani log (use console.log()) or trigger the event from outsid the control it is execut multipl time i.e. the same number of time as the instanc of the controller. how can i resolv this issue? i want the execut onli one time. ani kind of help is appreciated. thank for answer in advance.cod snippet.
+How to stop angular from creating multiple instance of a controller every time we use $state.go

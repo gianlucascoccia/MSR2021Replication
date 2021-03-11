@@ -1,1 +1,1 @@
-i have an electron project that render an html page with a button that when click call a node js script (via ipc) which use selenium to scrape webpages.her my project structure:, the build version doe not reach step 3. no permiss window pop up and no browser opens. selenium just doesn't work there.i am sure the ipc is work from index.j to main.j in the build version so the issu is not with that. what am i miss here?
+Selenium webdriver not working in Electron build

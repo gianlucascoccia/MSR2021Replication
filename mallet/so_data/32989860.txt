@@ -1,1 +1,1 @@
-i am pretti new with electron.can anyon suggest me how to creat a local folder use the electron. i see javascript doe not have that capability.
+How to create a local directory using Electron

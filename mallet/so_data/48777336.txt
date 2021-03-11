@@ -1,1 +1,1 @@
-i want my electron app to display local images: on the main window doesn't sound safei that realli the onli way an electron app can display user local imag locat outsid the app directoryp.s. it an electron-vu project. it use webpack.
+Is disabling webSecurity on the Electron window the only way to display local images?

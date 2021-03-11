@@ -1,1 +1,1 @@
-i'm go off the tray window issu on electron github, which show how to make a window center on the tray. some of the screenshot over there show peopl with a tray window and a top arrow indic the tray, like so. but i'm onli get someth like this. here the code (main.js):
+How to make a top arrow on an Electron window?

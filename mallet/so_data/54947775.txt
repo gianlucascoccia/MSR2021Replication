@@ -1,1 +1,1 @@
-how can i print the current web page view render by vue when use electron? the normal js-function print empty. so what the electron way? is there a possibl to silent print without convert to .pdf?
+Print current vue-view with electron.js

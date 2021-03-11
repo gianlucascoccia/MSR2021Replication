@@ -1,1 +1,1 @@
-i am new in nw.js and current i am develop and sampl app in nw.js. i download nw.js 64bit and creat an small login page and it work perfect. but when i login onc it save my login detail and never remov even i restart my app mani time but my detail are still there.can ani one tell me how i can prevent nw.js chromium to save my login details. mycode:
+how to disable remember form data in nw.js

@@ -1,1 +1,1 @@
-i have kiosk application, where i have alreadi kiosk applic run but on top of that window i need to put one of my window which is forev avail no matter who ever is on top, that window has to be on top of the top of the veri top window as alway on top.i tri sever way but still it fail to stay on top of the window out all top of the windowwhi is my applic still unabl to stay to the veri top of the top?
+Impossible to set the window on top of the top of the top window?

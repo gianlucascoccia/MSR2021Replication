@@ -1,1 +1,1 @@
-i'm tri to build my electron app with electron-packager. the problem is my electron app use node-notifi module. when the packaging, i'm use this command:but it wasn't work.
+Electron how to add only few modules?

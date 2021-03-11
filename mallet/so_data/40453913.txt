@@ -1,1 +1,1 @@
-if i run my program in nw.js i want to test whether it is sdk version or not, sinc i'll want differ code to run depend on whether it is sdk or not.i'v been search for an answer but haven't been abl to find anything. the onli thing that pop up is how to check the version of nw.js, not whether it is a sdk build.
+nwjs is there way to check if useing the sdk version?

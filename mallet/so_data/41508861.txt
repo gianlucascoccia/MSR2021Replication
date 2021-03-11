@@ -1,1 +1,1 @@
-i am have problem to play widevin content in electron. i am tri to convert ember-app to electron app. except widevin content everyth work great, version info are:shaka 2.02electron 1.4.13(chromium 53)electron packag 8.4.0widevin v1.4.8.903i use http://electron.atom.io/docs/tutorial/using-widevine-cdm-plugin/ docs. in order to check my player i load shaka-demo app. i includ widevin like this still can not play widevin content
+How to implement widevine in electron app

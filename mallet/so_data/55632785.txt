@@ -1,1 +1,1 @@
-im tri to compil a node.j electron applic to executables. if i manag to do this, would the person run the app need node.j instal to run it?
+if I were to compile a node.js electron app to an .exe file, would I need Node installed to run it?

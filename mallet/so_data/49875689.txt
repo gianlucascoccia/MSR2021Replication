@@ -1,1 +1,1 @@
-i have download the electron-webpack-quick-start from github and tri to replac the default code with an index.html file.to my package.json
+not allowed to load local resource index.html

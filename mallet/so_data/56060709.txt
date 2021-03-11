@@ -1,1 +1,1 @@
-i have creat a electron applic that requir microsoft login. i have regist my applic in aad and the electron applic is work fine in dev mode as there the redirect uri is localhost:3000 but face problem for the packag applic as there it use file protocol to load the index.html and aad doe not support file protocol as a redirect uri. how to solv this issue?
+How to use msal in a electron application

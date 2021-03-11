@@ -1,1 +1,1 @@
-i am work on electron app with angular 5 for the render process,i there is a way to export the consol programmatically?i need a way to synchron the log data to file so, i can review it anytimewithout open electron devtool and save as option, i need it programmaticallyi save my own logs, but what if there is a modul that log an error i need to get whole consol log histori and export it to log file
+Save the log in electron devtools to a file

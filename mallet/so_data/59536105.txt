@@ -1,1 +1,1 @@
-i am use vue, electron and sequelize, when i i can see the fetchdata() is be call but noth show after .then( ... unless page is save and refreshed.
+Set data propert value from sequelize promise vue

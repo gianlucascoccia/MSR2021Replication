@@ -1,1 +1,1 @@
-i have just start look at capacitor as a possibl solut to packag my hybrid app in an electron shell. this is the first time i have use electron, so realli know veri littl about it details.i ran through the follow steps.. appear to indic we want a 32 bit. so that may be my problem.do anyon know how to make it build to 32bit?
+Windows support for Electron application created via Capacitor

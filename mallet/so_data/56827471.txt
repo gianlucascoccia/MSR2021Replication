@@ -1,1 +1,1 @@
-i am tri to be abl to start and stop anoth node.j applic from insid of my electron app. i have done the follow so far which is work to start the node at from bot.j when i run now if i want to stop the applic at bot.j from insid the electron app (or start it again), from someth like a button click, i'm not sure how to do that.
+Starting and stopping node app from inside Electron app

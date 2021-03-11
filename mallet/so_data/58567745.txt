@@ -1,1 +1,1 @@
-i want to enabl cach of certain or all html and css file on my electron app. i'v tri ad the follow meta tag to my html file and it doesn't seem to do much of anything:(** i use "public/private" to indic i'v tri both valu separately)i'm simpli wonder if electron has a built-in method for cach file or if the meta tag should be working. i tri search for cach document on electron websit to no avail.i read somewher that cach is enabl by default on electron but it doesn't appear to be work too well.thank you.
+How can I enable caching of HTML and CSS file on an Electron App?

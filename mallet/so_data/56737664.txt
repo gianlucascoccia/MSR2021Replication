@@ -1,1 +1,1 @@
-i am use request() in a for loop to post data to a server. will it fail to post all data. is there ani limit of data post rate in electron js. here, request() mathod is of request npm module.th 1000 request is done asynchron in for loop. will it be block by ani maximum simultan request limit?.
+Is there any maximum reqest() call limit per second in electron js?

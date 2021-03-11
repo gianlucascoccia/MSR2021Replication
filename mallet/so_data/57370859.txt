@@ -1,1 +1,1 @@
-i m new to electron and not abl to find sampl app to print the esc/po command in "electron"
+I want to build a desktop app which take ESC/POS command to print in electron.js app

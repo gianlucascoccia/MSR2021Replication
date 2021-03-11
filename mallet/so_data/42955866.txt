@@ -1,1 +1,1 @@
-i had integr opentok.j librari for video call in my electron app, for which i want to use logitech devic and to use it i need node-hid librari use which my app can detect device.i had done all the need mention for use node-hid in electron projects, packag did get installedbut when i requir it in my js file use :-and run my app , it give an error error: modul version mismatch. expect 50, got 51. so pleas help me with this issu .thank
+Cannot use node-hid library in electron app

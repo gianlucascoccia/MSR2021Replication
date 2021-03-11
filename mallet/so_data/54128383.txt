@@ -1,1 +1,1 @@
-i am develop desktop app(windows/mac) use electronjs. i was tri to implement auto-upd featur use electron-updat sinc i am use electron-build for the building.i am abl to generat .ex file for my app but when tri to install, it throw an error: "can not find modul debug'". pleas find attach screenshot.without electron-updat implementation, my app is run fine. when i am import autoupd in my index.js, start get that error. i am use autoupd as below:
+electron-updater: Can not find module 'debug'

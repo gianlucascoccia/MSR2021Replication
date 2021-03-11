@@ -1,1 +1,1 @@
-i have a desktop application, which is built use electron.let say, this application, run offlin most of the time. and i want to sync the data with the cloud databas ( couchbase).i would like to know, which nosql databas will be suitabl for this application.
+List of NoSQL DB available for electron app which are easy to sync with couchbase?

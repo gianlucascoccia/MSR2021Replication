@@ -1,1 +1,1 @@
-i'v got a node webkit (nw v0.12.3) app which open in kiosk modethi work fine except that when the mous hover to the top of the screen in osx the mac menu bar slide down. is there ani way to prevent this?thank
+prevent OSX menu bar from showing in node webkit kiosk mode

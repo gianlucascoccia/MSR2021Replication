@@ -1,1 +1,1 @@
-i'v creat a veri simpl app.nw packag with the minim hello world setup, accord to nw.js/readme.md. it consist of onli two files:index.html as per nwjs packag documentation, howev this integr our custom code into the veri larg nwjs.app distribut (93.8mb). this is an unaccept size to ask our user to download each time. how can i enabl my node webkit packag (which contain onli our specif applic code and assets) to be open direct from osx finder?
+Node webkit package not opening properly from double click in OSX Finder

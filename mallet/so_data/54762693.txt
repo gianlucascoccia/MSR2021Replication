@@ -1,1 +1,1 @@
-i'm work with electron and im use three pages.
+How to wait for a process to terminate before it sends response

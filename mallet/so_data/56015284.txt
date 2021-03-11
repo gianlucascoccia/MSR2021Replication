@@ -1,1 +1,1 @@
-all the react error and warn in my electron project look like this:what would be caus this? is someth misconfigured? i'm not sure what to change. tag this four way becaus i'm not sure where the issu lies.
+Seeing `%s` instead of specific property in react error message in electron project?

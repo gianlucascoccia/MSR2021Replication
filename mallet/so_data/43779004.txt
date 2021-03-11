@@ -1,1 +1,1 @@
-i'm tri to sign my electron app use electron-osx-sign:anyon can help?thanks.
+electron-osx-sign is not working

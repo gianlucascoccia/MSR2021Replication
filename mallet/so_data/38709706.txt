@@ -1,1 +1,1 @@
-i am tri to creat two window from the main process. the second window should alway be shown on top of the first window. on the electron websit i have read that i have to creat a parent and a child window to do this.thi is my code:when i start the program it creat two window but the child window is not alway on top. when i close the parent window (win) both window are closed.how do i make the child window alway be shown on top?i'm use fedora 24 with gnome.
+Child window in Electron doe not always show on top

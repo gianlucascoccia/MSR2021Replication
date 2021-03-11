@@ -1,1 +1,1 @@
-i want to make an updat for my electron application, and i stuck on the github access token.i have generat a token from my github account, and after that, i tri to set that token in my window environment variables.when i go to my applic and i run this file publish.shpublish.sh, but i get a return code of 0.
+How do I set an environment variable on Windows 10, which wa generated from GitHub?

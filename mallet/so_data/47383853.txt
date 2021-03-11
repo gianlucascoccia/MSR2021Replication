@@ -1,1 +1,1 @@
-i have seen some post about the topic,yes,it run veri well when i use electron command in console.but it couldn't work when i packaged(electron-builder) the electron app,and appear a problem when i start the app: it was start creat new process constantly,therefor there were a lot of process in task manag we can see and cpu usag came to 100%.i don't know how dose this happened, could you help me? please!her is my test code:master.js(main):os： window 10electron: 1.8.1update: i have creat a repo for demonstration: https://github.com/xzycn/el_test
+Spawn a process in electron

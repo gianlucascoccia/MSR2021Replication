@@ -1,1 +1,1 @@
-i have creat desktop app into linux app with support files,now i want to make into singl file (executable),so that it can be share to anyone.i there way to make it into execut file
+how to convert the electron app into single packager installer(only executable) in linux?

@@ -1,1 +1,1 @@
-hi i have an app use nw.js and angularjs. but the problem is, i want to open a new window (that load a new page from within the app) without inherit the menubar from the main window menu. is this possibl in nwjs? also everi time i click the menu item from main window menubar that trigger the open of new window it alway open new window. how can i prevent this? i mean, when i alreadi open the new window, the app should refrain from open it again unless it was alreadi closed.in my index.html
+Open new Window in NW.js without menubar

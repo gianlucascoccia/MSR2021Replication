@@ -1,1 +1,1 @@
-yesterday, i was develop on electron perfect fine. then i hop onto my comput to realiz electron isn't work at all now.i remov
+require("electron").app is undefined. I npm installed fresh modules. Unsure what to do

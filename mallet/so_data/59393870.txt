@@ -1,1 +1,1 @@
-we are use pdf.js to show the document within an electron application.could you pleas help on implement the print preview featur in it.
+Does electron application support Print Preview feature using PDF.JS?

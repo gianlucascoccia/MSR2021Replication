@@ -1,1 +1,1 @@
-i want to use electron and js to creat a desktop soft,but my soft don't need atom like [whose window is a larg box],so is it possibl to creat a irregular window use electron？larg box demoirregular window demo1irregular window demo3
+is it possible to create a irregular window using electron?

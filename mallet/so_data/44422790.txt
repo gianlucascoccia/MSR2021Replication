@@ -1,1 +1,1 @@
-i'm tri to manag the "mode" prop on material-ui linear progress compon through redux store. the store is get the updat proper between "determinate" and "indeterminate" thrown manual by button click on anoth child component.i have the bar at the highest level of the app, specifically: between mode="(in)determinate" as shown.th bar, however, show no sign of anim on change. if i manual set mode="indeterminate" and remov the connect to the store it anim as expected.hav i miss someth fundamental?
+Electron Material-ui Linear Progress Bar "mode" prop from redux store

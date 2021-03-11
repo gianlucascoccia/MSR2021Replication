@@ -1,1 +1,1 @@
-i have a electron.net app run on .net core 3. all work fine and i am abl to generat a window .ex installer. now i want to do the same for mac. my question are:how do you build a instal packag for mac os using"electron build /target osx"?do you need to run this on a mac or can this be generat on windows?
+How to generate a installer package for electronNET for Mac OS?

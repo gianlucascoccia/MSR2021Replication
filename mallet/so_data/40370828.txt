@@ -1,1 +1,1 @@
-i put a webapp into electronj framework. in the webapp (actual webpage) there are some link . howev when i click the link, it will open anoth electron browser window. expect i want the link to be shown in default web browser. what i can think about is to trap such navig event and then send a messag to the main browser window and let it spawn a default browser instanc to show the link. i think this is a bit complicated. i'm seek an easier way to do this.
+Force open link in external browser in ElectronJS application

@@ -1,1 +1,1 @@
-is there a way to ember embed/packag mongodb instal with electron builder. i have tri npm/github repos, and find none.
+Embed/package mongodb with electron builder

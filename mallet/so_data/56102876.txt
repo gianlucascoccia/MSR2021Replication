@@ -1,1 +1,1 @@
-i am use node.j (an electron app) to process a number of zip archiv and i am use node-7zip and 7zip-bin libraries. to do the process of one file after another, requir for the logic of the app, i have written the follow recurs function:th issu i have is that i get ".then is not a function" when i tri to run the code.googl and stackoverflow search have not reveal a solution.
+How to resolve ".then is not a function" with node-7zip

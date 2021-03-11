@@ -1,1 +1,1 @@
-in electronjs, i can use the follow to open a .
+How can I open a puppeteer Page in an Electron BrowserWindow

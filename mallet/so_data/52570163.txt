@@ -1,1 +1,1 @@
-as the titl states, i have a variabl which is a javascript object, i'm compar it with anoth js object by stringifi them. the problem is that the variabl is complet access without call the keys, so these
+object key are undefined in if conditional, but inside the if statement I can access it

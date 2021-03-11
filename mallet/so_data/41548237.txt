@@ -1,1 +1,1 @@
-i am use it work fine.
+electron remote global value undefined

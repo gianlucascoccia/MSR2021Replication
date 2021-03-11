@@ -1,1 +1,1 @@
-i have to be abl to record an incom video call into a file. the record must be done on the desktop application, built with electron. i'm use openvidu as a stream platform. is there ani way to do that?
+Video recording with OpenVidu and electron

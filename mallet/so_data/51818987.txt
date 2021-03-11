@@ -1,1 +1,1 @@
-i want to show the progress of updat download and i have write the follow lines.})i am use nsis for update. now when it is about to download the update, it throw an error below!you can see the error in the image!pleas tell me what i am do wrong?
+Error While showing the progress of electron auto updater

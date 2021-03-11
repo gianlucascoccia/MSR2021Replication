@@ -1,1 +1,1 @@
-i am use the electron framework to open a webpag with browserwindow.i am use code like:however, the open webpag can detect my real screen resolution. what method can i use to spoof a webpage, give it a fake screen resolution?
+How can I spoof screen resolution on electron app?

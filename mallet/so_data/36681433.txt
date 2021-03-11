@@ -1,1 +1,1 @@
-i am have an issu with evalu a page with chrome-remote-interfac + nwjs.now if i dont redirect my page to a differ url, then evalu doesn't throw an error, but when i navig to a differ url with page.navigate({ url: url }) and then after call evalute, i am get an error saying, that the page is not opened.ani suggestions?issuehttps://github.com/cyrus-and/chrome-remote-interface/issues/23.
+Evaluate page with chrome-remote-interface + nwjs (node-webkit)

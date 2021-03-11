@@ -1,1 +1,1 @@
-i recent set up a new project base on https://electron-react-boilerplate.js.org. this work fine for a littl bit, then i decid to start over again and re-clon the electron-react-boilerpl git repo to a new directori and delet the old one.now when i run but that didn't help either.wher could it possibl be get the old project directori from?i'm on maco mojav with node 11.4.0.
+Reading /Users/myuser/Code/OLD_PROJECT_NAME/node_modules/devtron/manifest.json failed

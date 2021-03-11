@@ -1,1 +1,1 @@
-i have to implement a web scrap tool and i choos to do with electron js with react and python. i could abl to integr python and react use python shell in electron as follow, react code});i there ani way to get the result in real time while execut the python code?
+Exchanging data between Python and React in real time with Electron JS

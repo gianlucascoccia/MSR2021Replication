@@ -1,1 +1,1 @@
-from point to another:but caus call javascript of the second window in the main?
+Call javascript from another window to main [node-webkit]

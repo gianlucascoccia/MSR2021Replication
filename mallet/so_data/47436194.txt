@@ -1,1 +1,1 @@
-i have a render process open a modal window back to it parent?
+Sending a message to the parent window in Electron

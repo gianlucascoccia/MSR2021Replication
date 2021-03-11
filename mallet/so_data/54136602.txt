@@ -1,1 +1,1 @@
-is there a way to get
+webFrame Context in electronjs

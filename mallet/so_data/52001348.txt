@@ -1,1 +1,1 @@
-in an app that me and my team are developing, we'r util html5 video compon to display is not fired. it there some other way to troubleshoot this? ani help would be appreciated!
+HTML5 video "ended" event sometimes not firing when video end

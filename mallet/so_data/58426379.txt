@@ -1,1 +1,1 @@
-i have certain href which need to be process in anoth browserwindow. the problem is that insid the mainwindow i am navig insid an ifram and certain download link are not support by iframes. thus i want to pass those download link into anoth browserwindow, which doesn't contain an iframe.mi approch so far
+Is it possible to send certain clicked hrefs to another BrowserWindow?

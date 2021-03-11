@@ -1,1 +1,1 @@
-i'm tri to develop a desktop applic that will simplifi some of the process of steamcmd, so the user will just use a gui to interact with steamcmd.except, i ran into a strang problem:if i'm use steamcmd directly, i can download the file of app id 740 (counter-strike: global offens dedic server).if i'm use steamcmd indirectly, on the other hand, i.e. my applic will spawn a process .googl doe provid some information, as some user encount the error as well when they tri to do differ stuff, but the solut didn't appli to me.
+SteamCMD - App state is 0x602 after update job

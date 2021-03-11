@@ -1,1 +1,1 @@
-i am tri to make an app with electron and vue.js, in this one i want to make a dropzon for file and just get the path of this file. my problem is that electron is open my file like a file viewer. how can i disabl it with vue.j ?
+Drag and drop file electron/vue.js

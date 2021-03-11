@@ -1,1 +1,1 @@
-spectron is a node.j framework for autom electron apps. i'm use spectron along with ava and typescript to do autom integr testing. i'm use ava suggest method for make the test context typesaf but i'm not abl to figur out how to get typesafeti on the spectron client properti which is a webdriverio client. i'm onli abl to see a few properti which the spectron typescript definit file has provid and this is caus typescript transpil errors.thes are the error i'm getting:
+How do I implement Typescript webdriverio for the SpectronClient?

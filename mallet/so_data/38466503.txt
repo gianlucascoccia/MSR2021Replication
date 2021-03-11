@@ -1,1 +1,1 @@
-i'm attempt my first electron app. doe anyon know whi i get this error ? it doesn't seem to effect anyth yet. i'v gotten it right from the begin of my instal use the quick start guide. will it effect me down the road?mac pro late 20132.7 ghz 12-core intel xeon e5128 gb 800 mhz ddr3 eccamd firepro d700 6144 mb
+electron error AVDCreateGPUAccelerator: Error loading GPU renderer

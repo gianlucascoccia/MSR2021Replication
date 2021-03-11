@@ -1,1 +1,1 @@
-i have a problem with web audio api and an usb audio interfac on linux;i wrote some audio player code on web audio api.everyth is alright when i connect my 7.1 usb audio interfac (tascam 16x08 - there are 8 output channels) and start my app on window machine. what can be the problem?
+Web Audio Api destination maxChannelCount always is 2 on Linux

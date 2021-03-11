@@ -1,1 +1,1 @@
-i am tri to use my codebas for an alreadi built ionic project but when i run i would realli appreci ani help on how i could get my imag to start display
+Electron cant find image when using with Ionic

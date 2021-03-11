@@ -1,1 +1,1 @@
-when retriev cooki from an electron webview use cookies.get, i get an array of cooki objects. so far so good. but when i tri to set them back with cookie.set, it is expect an url:which is not export by get. this is on top of domain and path. how am i suppos to set the cooki again? whi is it even ask for a url, aren't cooki associ by domain and path instead of a url?when i tri to set them i get the veri use error of "error: set cooki failed" and i'm just guess it the miss non-opt url attribute.
+How to set cooky in an electron webview?

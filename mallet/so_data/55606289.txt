@@ -1,1 +1,1 @@
-i'm use sweetalert2 for modal in my vuejs/electron app. i can copy/past text in to input textbox on develop mode. but it doesn't work on product build. i cannot figur out what the issu is?follow is the code of modal popup:
+Cannot paste text into modal popup in production build Sweetalert2

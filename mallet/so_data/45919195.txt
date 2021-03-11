@@ -1,1 +1,1 @@
-i'm build an electron app that must reload the render process window if a crash happens.curr i can restart the app from the main process and send via ipc to the main process a messag when the crash is detected, but this seem not to work as well.
+Electron recovery after crash on render process

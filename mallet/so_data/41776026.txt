@@ -1,1 +1,1 @@
-per the document on electron website, you have to wait until the webview element is avail to actual use the method that belong to it. most method work just fine, but i'm have some issu understand the workflow of how the webview event) itself produc a bucl of reloads, caus the url to load uncount times.i see no further clarif of this issu on the offici website, and certain there is noth on google. ani help would be great appreciated.
+Electron's WebView.loadURL trigger a reloading

@@ -1,1 +1,1 @@
-i am use selenium with a chrome webdriv to drive my integr test in a node-web kit.mi app start up and i can test the dom, but i want to confirm some action - is there a way to get a refer to the angular modul that is instanti so i can test some of that code in the context of a run application?i don't want to creat a new angular module, i want to access the one the app creat on start-up.
+Access existing angular module in Selenium WebDriver

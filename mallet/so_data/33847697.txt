@@ -1,1 +1,1 @@
-from an electron application, is it possibl to output text to wherev the cursor is current locat at, i.e. even if that is somewher outsid of the actual electron app?so far the best solut i'v come up with is to write the text on to the clipboard, and notifi the user that the text is readi to be pasted. i'd like to get rid of that extra step.
+Paste, or otherwise output text outside of an Electron app?

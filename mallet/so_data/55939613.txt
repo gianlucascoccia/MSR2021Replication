@@ -1,1 +1,1 @@
-develop an electron applic on window 10 pro version 1809. our applic has a browser window the render when the user hit a hotkey combination. the browser window call renderer.js'our code is basic a direct copy/past from the exampl includ in the electron docs. what are we miss that we are get this error? i know there is a limit on maco that you have to creat a stream in a differ what (rather than navigator.mediadevices.getusermedia), but i don't think that limit has anyth to do with this error we'r facing.
+Electron desktopCapturer.getSources().then is not a function

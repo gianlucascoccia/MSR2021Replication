@@ -1,1 +1,1 @@
-is there a way to do a hard browser refresh when run an app with nwjs, on mac? nwjs right click simul browser restart seem to start the app at it entrypoint again. is there a way to simul the behavior of simpli click the shift reload button in chrome?
+Hard browser refresh using nwjs on Mac

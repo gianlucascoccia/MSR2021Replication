@@ -1,1 +1,1 @@
-i am tri to import fs of nodej in electron, in which i am tri to use requir function. however, i am get error requir is not defined. how to fix this? do we need to add special configur for electron and nodej integration? i am write below script in my
+How to use require function inside a Javascript?

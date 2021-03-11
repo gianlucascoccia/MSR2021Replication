@@ -1,1 +1,1 @@
-i tri few plugin to implement azur ad auto-login function to an electron app, but each of them had login issu describ here if i choos file system url(file:///). this is becaus electron app run on file system url and azur ad doesn't accept a file system url.a much as i know, ms team is build on electron. how have they achiev it? do i need to run a local server like electron-with-express?
+How MS Teams auto log into Azure AD

@@ -1,1 +1,1 @@
-i am tri to call a function by use and it works.thank guys.
+setInterval function doe not work in Vue template

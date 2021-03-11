@@ -1,1 +1,1 @@
-i want to use ipcmain / ipcrender on my project to communic from angular to electron and back.th electron side is pretti clear:but i have no idea how to integr that electron modul into my angular 2 app. i use systemj as modul loader, but i'm a rooki with it.ani help appreciated. thanks.--- mario
+How to integrate Electron ipcRenderer into Angular 2 app based on TypeScript?

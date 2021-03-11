@@ -1,1 +1,1 @@
-if you want to increas the memori limit in node, the option to be pass will be: is not recognized.thank for helping.
+Increase node memory using npm package.json script

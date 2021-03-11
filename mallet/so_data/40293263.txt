@@ -1,1 +1,1 @@
-i am tri to use the auto updat feature, doe anyon have a tutori or someth about how to do it? i'v read the document but they onli provid the avail methods, not how to use them.thank
+Auto Updates on window

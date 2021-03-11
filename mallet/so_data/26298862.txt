@@ -1,1 +1,1 @@
-i am current write a node-webkit application. the applic support certain modul which lie in the modul folder insid the application.i would like to dynam instal and remov those modul from insid the application. for that i would need to dynam write insid the application.nw file. is there a best practic solut to my problem?
+How to write a node-webkit application with custom modules?

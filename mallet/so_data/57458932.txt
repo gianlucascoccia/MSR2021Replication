@@ -1,1 +1,1 @@
-error below when run electron, i'v tri remov node_modul and reinstalling. i'v tri
+Electron - Better-sqlite3 wa wa compiled against a different Node.js

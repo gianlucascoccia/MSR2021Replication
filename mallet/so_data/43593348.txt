@@ -1,1 +1,1 @@
-i have an electron app that trigger the except becaus run through an electron app doesn't provid ani stdin.ani hint would be appreciated! thank in advance!
+WinError 6: The handle is invalid from python check_output spawn in Electron app

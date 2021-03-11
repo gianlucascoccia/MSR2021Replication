@@ -1,1 +1,1 @@
-current i have this code, but it doe not draw a shape at
+HTML5 Canvas shape using class (Node.js require)

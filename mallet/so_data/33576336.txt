@@ -1,1 +1,1 @@
-what would a good workflow look like to creat an html5 desktop app with nw.js and ember.js? comprehens research on this topic has not shown suffici inform on this specif applic stack.
+How to create an HTML5 desktop app with nw.js and Ember.js in combination?

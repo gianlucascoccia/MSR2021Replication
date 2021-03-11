@@ -1,1 +1,1 @@
-i'v recent upgrad electron to v0.37, and upon tri to start my app, i'm get an error of the following. . i'v tri uninstal ffmpeg and reinstalling, but haven't had ani luck.i'v notic in more recent version of electron, sinc v0.36.8 they'v link with ffmpeg dynam accord to the changelog.i should note, i'm use ffmpeg in my electron app, and specifically, im util the fluent ffmpeg node librari (https://www.npmjs.com/package/fluent-ffmpeg).ha anyon come across this same issue? ani idea on a fix?
+Electron App & FFMpeg - Library not loaded

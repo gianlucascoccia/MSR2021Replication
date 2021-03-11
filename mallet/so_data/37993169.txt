@@ -1,1 +1,1 @@
-i'm develop a cross-platform applic (windows/linux/macos), which:should be abl to run local as a desktop applicationshould be abl to run on a remot machine, prefer with the same ui as on local. so far electron look good enough for the first bullet. the question is about the second one. i'd like to reus both the logic and the ui from the local scenario for the remot scenario. in other words, i'd like to use electron base applic as a web server and connect to it via browser.i there ani way to do that?
+Using Electron based app a a web server

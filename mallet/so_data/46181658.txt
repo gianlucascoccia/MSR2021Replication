@@ -1,1 +1,1 @@
-i have a div that i expand by 10% each time i scroll with the mous scrollwheel. the problem i that it expand from the to left corner. how can i expand it from the middl instead?i have search for a solution, but the answer i found was relat with animation.html&#xd;&#xd;&#xd;
+expand <div> from middle

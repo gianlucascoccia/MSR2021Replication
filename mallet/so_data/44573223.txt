@@ -1,1 +1,1 @@
-i have a local sql file, not a server, which i need to queri inform from. how should i do this?i have tri to instal , howev i need to first instal microsoft visual studio to compil it:wil visual studio communiti edit 2017 (free) be abl to compil this? the cli error ask for version 2005.is there an x86 flag for npm when build this instead ofus x64 from my system?or, are there other options? for example, localforag and websql?i would like an easi to instal and use way, which is cross-platform compatible.
+Electron & Node: How to read an SQL file?

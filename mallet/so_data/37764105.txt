@@ -1,1 +1,1 @@
-here is what i am tri to accomplish. build an api on the server machine.thi way you can basic the same code base to instal server and client versions.i this possible?
+Electron API accessible from client apps (other client electron apps in a network)

@@ -1,1 +1,1 @@
-i have two conditions, one is electron is abl to fetch file befor electron has packaged. but i am not abl to fetch the same file after electron has packaged. for example, i use path.resolv to .ini file present in parent directory. when i build electron packag it is built two directori below. and i want the built packag to still use the same .ini file.pleas not i build with asar enabled, sinc the path are differ between pre and post, file are not fetch
+Not able to resolve path in electron between pre and post packaging

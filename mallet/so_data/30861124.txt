@@ -1,1 +1,1 @@
-i am get the follow messag when i am tri to to run one desktop applic use node-webkit.pleas help me to run this app successfully.
+Getting error Cannot extract package using Node-webkit

@@ -1,1 +1,1 @@
-nan
+deleting a object from NEDB database file doesnt work

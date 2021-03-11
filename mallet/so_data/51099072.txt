@@ -1,1 +1,1 @@
-i have design applic use not download automatically. kind tell me whi this is happen and altern solut is appreciable.
+Download JSON Object a a file from Desktop Application (ElectronJS)

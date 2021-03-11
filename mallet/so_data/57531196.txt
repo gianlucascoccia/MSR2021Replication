@@ -1,1 +1,1 @@
-i am creat a simpl program in electron. the program has the option of run sever separ function base on what the user needs. all function requir a file to be input and a save locat for the result output file. this is done use a form. i would like to have it that onc the user input the locat it is display in a div besid the input buttons. is there a way to do this within electron?code:her is photo of what i am build
+Electron Get file path from form and display a text

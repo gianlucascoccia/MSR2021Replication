@@ -1,1 +1,1 @@
-i am load a background script in nwjs with the follow manifest file:but that give the follow error: uncaught cannot get current window; are you in background page/nod context?how can i find the window from a background script? my goal is to listen to event in the current window.
+How reach window from NWJS background script?

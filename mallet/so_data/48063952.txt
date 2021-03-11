@@ -1,1 +1,1 @@
-pleas help me,i want to make my script to access to multipl url in the same time to get some resource. this script is run normally,but the problem is that it leak memori and server will down. plea anyon help to give me better solution. thank you!pleas help to check sourc code below:
+long loop in node.js leak memory

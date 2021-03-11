@@ -1,1 +1,1 @@
-i'm tri to port a chrome app to a nw.js one. this is my first time do anyth with nw.js, but i read this: http://nwjs.io/blog/chrome-apps-support/ and i'm follow the step tri to convert this analyt app. my problem is that in the nw.js app. ani ideas?
+get chrome.runtime in NW.js

@@ -1,1 +1,1 @@
-i'v success built node.j addon, which work well with node on windows. now, i want to creat a window app use electron. when load the modul in html file, i got the error:someth wrong with atom_shell_asar.js.th issu onli occur on windows. on linux and mac, it work well.how can i fix it? thanks!
+Electron Uncaught Error: A dynamic link library (DLL) initialization routine failed

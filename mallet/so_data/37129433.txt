@@ -1,1 +1,1 @@
-yes, i have a perform problem, down to (or otherwis prevent) network error due to too mani requests? additionally, note the intend behaviour is that all the photo in the list load as fast as possibl - the user should be abl to jump to the last thumbnail in the list as soon as possible.
+How can I prevent net::ERR_INSUFICIENT_RESOURCES error caused by ng-repeat?

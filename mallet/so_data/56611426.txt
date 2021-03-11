@@ -1,1 +1,1 @@
-how i can sort this array list to be sure all file start with sorri if my english are poor guys.
+Sort array string which begin with a letter

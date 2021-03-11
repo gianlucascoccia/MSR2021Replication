@@ -1,1 +1,1 @@
-my electron app use to communic with rest api endpoints, caus the follow error to be thrown: xhr.js:120 refus to set unsaf header "user-agent"thi result in the js consol to be flood with such error messages. is there a known fix for this issue?us node 12.6.0, electron 6.0.1, axio 0.19.0 on mac os x mojav
+Axios + Electron.js Error: `xhr.js:120 Refused to set unsafe header "user-agent"`

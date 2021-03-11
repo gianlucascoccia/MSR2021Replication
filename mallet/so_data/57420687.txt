@@ -1,1 +1,1 @@
-i am have troubl chang the icon for my electron app. whenev i get rid of the cli --icon=./path/to/icon.icns, i get the default electron icon. when i run that cli script, i get a broken image.i have tri packag withi expect the electron icon to chang to my custom icon.
+Electron icon not being set? (Mac OS)

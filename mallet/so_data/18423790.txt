@@ -1,1 +1,1 @@
-i don't want a fullscreen application, but i would like to start a node-webkit applic maximized. can this be done? i am guess it someth to do with package.json, but can't seem to find what need to be done.
+Node-Webkit - Starting Maximized

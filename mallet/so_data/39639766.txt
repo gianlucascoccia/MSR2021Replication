@@ -1,1 +1,1 @@
-i have an issu where as i navig around my html angular app, when the page render it render with everyth on the page "selected".i am use the latest angular 1.x version, along with angular materi (latest). i should add that i am run this in nwjs 0.12, which could be a factori have yet to identifi the exact behavior pattern that make this occur, but it often enough to be annoy to users.
+HTML Page Select All Angular issue or NWJS issue?

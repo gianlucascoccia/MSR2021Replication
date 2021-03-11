@@ -1,1 +1,1 @@
-i have a node-webkit applic on osx and minim it to tray. when the tray icon is clicked, the window restores.th problem is, when the icon on osx taskbar instead of the tray icon is clicked, noth happens. however, the expect respons is to restor the window too.i there ani way to know if the taskbar icon is clicked? thank in advance.
+How do I know if the OSX taskbar icon of a Node-Webkit application is clicked?

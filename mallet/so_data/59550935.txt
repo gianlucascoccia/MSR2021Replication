@@ -1,1 +1,1 @@
-i am basic scrape some content off of a websit and the html look someth like this: drive.it might also help to know that i am do this on an electron app use nodejs.
+Getting the href attribute from html give unwanted result

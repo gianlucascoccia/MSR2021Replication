@@ -1,1 +1,1 @@
-i ran into an issu with the print load time. when i tri to print someth with normal print api. it took a long time may be around ~ 20 second to finish load a webkit print page.do anyon have a solut into this?thank you in advance.
+nwjs - print taking a long time to load

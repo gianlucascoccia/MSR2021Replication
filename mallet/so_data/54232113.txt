@@ -1,1 +1,1 @@
-in my electron project, i'm tri to make a modul singleton by set it as a global. sinc i use . they are also behav in the same way. i did a workaround by use onli the entiti as global and pass them to all of the function as arguments. however, it not a good way in sens of code readability.
+Electron - IPC change the object

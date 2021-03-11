@@ -1,1 +1,1 @@
-i'm creat a desktop app with electron use a privat api. when i make request i got the set-cooki in res.head but i don't know how to store it locally.first i was store everi cooki in one variabl so the last set-cooki is overwrit the old one but with further research i found that cooki are not work like that and i need to merg the old and the new cooki respons but i don't know how to do that.everyth i find is onli to set a new cooki serversid but never like the browser do.
+How to store cooky client-side from request module response

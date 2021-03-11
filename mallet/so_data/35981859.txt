@@ -1,1 +1,1 @@
-i'm use electron to build a desktop app that use the youtub data api to get information. the problem is that, when my page loads, i am met with four . these were not load by me and were put there when the api loaded.
+Google API file not found on local document from script created by the API on page load

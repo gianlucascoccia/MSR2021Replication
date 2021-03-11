@@ -1,1 +1,1 @@
-in gmail, the shortcut of none of them work, why?
+Can't understand `sendInputEvent ` in webContents in ElectronJS

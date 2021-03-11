@@ -1,1 +1,1 @@
-so i'v got an electron app that i'v got react/redux wire up, and it work great. however, there are some filesystem thing i'm do in a regular js class(es6). how can i get access to my store and dispatch action so that my react compon will pick up the changes?
+Using dispatch outside react

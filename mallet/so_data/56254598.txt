@@ -1,1 +1,1 @@
-how do i ensur that all the spec file run without the browser reloading?
+Why doe the Electron browser reload after running each spec when using cypress run?

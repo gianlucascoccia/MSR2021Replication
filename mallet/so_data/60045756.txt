@@ -1,1 +1,1 @@
-i have copi the sampl call "excel style definit example" into a .js file in my react application. i have the enterpris version of ag-grid. the first line of the sampl code call function: getbooleanvalue() as follows:pleas advise. thank you.victor reinhart
+Export to Excel from React & Electron - "Excel Style Definition Example"

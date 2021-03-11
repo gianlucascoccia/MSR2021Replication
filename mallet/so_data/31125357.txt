@@ -1,1 +1,1 @@
-i recent start develop desktop app use nw.js and i need to download a file from a url (http://someurl.org/file.zip) and i manag to save the file but it seem corrupt or malform and i can't open the zip or unzip it.i'm use jqueri to download the file and the fs modul from node.j to save it.her is the ajax request:someth is clear missing, and the .zip file is 3.8 mb but when i fs.writefile() the file end up be 7.3 mbi'm fair new to nw.js, ani advice?
+NW JS - Download and Save a File from URL

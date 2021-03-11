@@ -1,1 +1,1 @@
-i want to catch uncaught except in an electron app. i read that i could use i am wonder if the process object is the general process of the app, or if it is the process of the function it was call in (if it can even be use that way)?for exampl if i want to do process.exit or someth similar, will it kill the app or shut down the function?thank for your time !
+Electron process object linked to function or global app?

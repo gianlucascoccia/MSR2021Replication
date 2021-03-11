@@ -1,1 +1,1 @@
-how do i print(printer) a div in my app compon in react ? i have a div=(badgecontainer) insid which i have ad a few shapes, text and images, now i would like to print the element insid the div=(badgecontainer). is there a packag which would help me do this in react ? ani help is much appreciated.
+Printing in ReactJS

@@ -1,1 +1,1 @@
-i have a lot of modul in the node_modul folder of my nwjs app. i want to know which one are not use (anymore) by my app so i can uninstal them.i suspect i haven't alway ad --save or --save-dev to the npm instal command. how can i find out which one are use by nwjs and which one i ad without use --save?
+which node module is my nwjs app using?

@@ -1,1 +1,1 @@
-use an electron app to control instanc of other apps, but sometim an instanc will freeze. it show up as in activ monitor, but how can i tell that it not respond from either bash or node.j so i can kill and restart the process? thanks!
+Identify if Process is Not Responding in Bash or Node.js

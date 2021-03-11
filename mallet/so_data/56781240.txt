@@ -1,1 +1,1 @@
-i'v been look for over an hour and can't find an answer on this, not even on doc and the one i have found are just too confusing. i want to know befor start to use electron if the built app with electron-bundl or ani other bundler can bundl vue &amp; mongodb, so that when a user instal the electron app - he doesn't need those librari instal on his computer, but can use the app straight ahead.i know it a noob question, sorry, but i'm just too confus about all of this.
+Can Electron apps bundle VueJS, MongoDB, etc. or do they need to be installed on user PCs for the app to run?

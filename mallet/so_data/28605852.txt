@@ -1,1 +1,1 @@
-i am work on a angularj nodewebkit applic and ad imag src as follow &#xd;&#xd;&#xd;&#xd;&#xd;
+Angularjs change image src to “unsafe:” in node webkit application

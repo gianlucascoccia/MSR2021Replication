@@ -1,1 +1,1 @@
-new to electron and build menus i'm tri to see if i can separ a but i get an error: typeerror: invalid templat for menuitem: must have at least one of label, role or typecan a menu item in electron be isol into it own modul and if so how to do it? i didn't see this mention when search [electron] menuitem or under the document
+How can a MenuItem be separated into it own module in Electron?

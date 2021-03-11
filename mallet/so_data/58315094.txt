@@ -1,1 +1,1 @@
-what do i want to do when the mous enter the window with
+How can i know that the mouse ha entered window in electron project?

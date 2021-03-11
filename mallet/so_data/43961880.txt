@@ -1,1 +1,1 @@
-i have tri devtron (it give lot of tool to inspect but doe not let you step by step debug the electron app.) also i have tri electron-inspector along with electron-inspector. with the releas of new version electron. electron-inspector rebuild is breaking. i have rais the bug here
+How to debug an electron app main process step by step?

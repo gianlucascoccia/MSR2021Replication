@@ -1,1 +1,1 @@
-i'm build some sort of and the file where i manag the process and spawn them is this:https://github.com/ivanseidel/tournamenterapp/blob/master/controllers/serverrunner.js#l41-l86
+Spawn detached electron/node process within built Electron App

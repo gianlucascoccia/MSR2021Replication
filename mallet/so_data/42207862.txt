@@ -1,1 +1,1 @@
-my main.j code is:.thank you.
+Electron app.makeSingleInstance is allowing unlimited instance

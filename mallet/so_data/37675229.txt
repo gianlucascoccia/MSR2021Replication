@@ -1,1 +1,1 @@
-i need to captur the content of an ifram in nw.js. the page is locat on a differ domain. i tri to access it normal (
+How to access the content of an iframe in nw.js?

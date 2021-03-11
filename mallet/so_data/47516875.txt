@@ -1,1 +1,1 @@
-my trivial first electron app is just embed a remot webapp: command in the web app, as it is standard and doesn't load electron.
+Open a standard link in electron from a remote web app

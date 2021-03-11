@@ -1,1 +1,1 @@
-i am work on an app for windows, with node webkit version: 0.17.4'. i just figur out that the transpar was disabl after each hibern wake up + app restor fromm system tray. ani idea ?thank
+NW.js loosing transparent after OS hibernation

@@ -1,1 +1,1 @@
-i'm learn electron and everyth i'm see is use the file:// protocol to load pages, and so far this is work fine. i also see some refer to use express within electron.mi question is - is there ani reason to use a web server such as express within an electron app? what doe it get you?thanks.
+Any reason to use web server (Express) within Electron app?

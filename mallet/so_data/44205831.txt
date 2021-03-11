@@ -1,1 +1,1 @@
-i have a list on sharepoint where i am track tasks.i am tri to creat an electron app that will ping (http get request) this list everi minut or so and display a littl window with all the task the current user has assign and highlight new tasks. i am use the fetch api to access the list as follows:ani help is appreci here.i will be realli surpris if this is not possibl so hope i am be dumb!edit: respons when queri from restlet client on chrome
+Using electron to access cross-origin-resources

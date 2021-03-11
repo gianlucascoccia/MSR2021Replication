@@ -1,1 +1,1 @@
-i'm use instanc to privat properti and then inject it into my desir class use di, but to be honest i'm not sure if this is a wise idea!!
+How to reference ElectronNET.API.BrowserWindow from another class?

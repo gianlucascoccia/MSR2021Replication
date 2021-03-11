@@ -1,1 +1,1 @@
-i would like to run a function base of the version of my node-webkit app from the package.json file. how do i get this version number? i'm not talk about:which just show the node-webkit version.
+Function based off of app version in package.json

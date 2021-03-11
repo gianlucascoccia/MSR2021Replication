@@ -1,1 +1,1 @@
-i would like to develop an applic use node-webkit, make use of the possibl to use node modul on the front-end.i find it somewhat annoy to rebuild the applic after everi coupl of chang and would rather test in a browser with conveni stuff like livereload etc. however, i would have to util browserifi in order to do so, which would lead to a bulk of file i would have no use for in the actual application.how do you test your nw apps? is there a common workflow?
+How do you conveniently (manually) test your node-webkit applications?

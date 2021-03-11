@@ -1,1 +1,1 @@
-i am build a node webkit applic and i would like my window titl to be same as that of the titl of the iframe. my ifram titl keep chang regular (on receiv a notification). i would like my main window titl also to keep track of that chang and updat it own title. i extract the titl of the ifram with this command with jquery: where #app is the id of the ifram
+Change main window title to that of iframe title

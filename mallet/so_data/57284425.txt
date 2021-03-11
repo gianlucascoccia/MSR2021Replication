@@ -1,1 +1,1 @@
-i have a react.j code base in which i am use universal-cooki for store some data in cooki and it work fine then i creat a .ex with electron and electron-build use same code base and start that .ex and when cooki part came in that .ex stop working.i figur out where i am use
+How React's 'universal-cookies' work in Electron app?

@@ -1,1 +1,1 @@
-i'm tri to build an electron app use azur devops. it fail with the follow error:a local build on win10 work without ani problem.thi is my pipelin yaml: https://github.com/mu88/blazorfotomanager/blob/master/azure-pipelines.ymla you can see, i'm instal wine, as recommend here.ani idea how to solv that?
+Building an Electron app fails using Azure DevOps

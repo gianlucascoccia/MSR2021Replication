@@ -1,1 +1,1 @@
-i am tri to download a file, but it keep get interrupted, and i have no idea why. i can not find ani inform on how to debug the reason it got interrupt either.her is where i am save the file: c:\users\rnaddy\appdata\roaming\tachyon\games\murware\super-chain-reaction\web.zipwhen i tri to access the path http://api.gamesmart.com/v2/download/murware/super-chain-react in chrome, the file download just fine into my download folder. so, what is caus this?
+Electron will-download keep getting interrupted

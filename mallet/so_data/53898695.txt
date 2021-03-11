@@ -1,1 +1,1 @@
-i'v instal nodej with nvm and current use version 11.5.0 on ubuntu 18.04i just want to start learn to programm with electron so i use it code exampl on github and i got this error after run again and again and again to chang and check access permiss on node_modul and other things.do you have also this problem or do you know how to fix it?
+electron: permission denied code ELIFECYCLE errno 126

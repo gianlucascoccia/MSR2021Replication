@@ -1,1 +1,1 @@
-ps: i have gone through location.protocol&quot; must be http or httpsbut no one seem to suggest ani work around for electron.update:tri implicit email auth, it work as suggest here but firebaseui still doesn't work as electron in not offici supported, explain here . even though it is not offici support but i am sure there will be workarounds, keep the question open for peopl to suggest workarounds.
+Firebase Google Auth in Electron App give "location.protocol" must be http, http

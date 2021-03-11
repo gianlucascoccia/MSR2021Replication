@@ -1,1 +1,1 @@
-i have not chang anyth from earlier today till now and all of the sudden i see scroll bar in my electron app. i check in chromium sinc that is what electron use and i have the sam issue. usual when you scroll the bar show up but then goe away. it is perman there in electron, chromium, and chrome. what could have chang from earlier till now?thi make the style in the app look ugli with perman scroll bar if someth can scroll
+Chromium showing scroll bar in electron app permanently?

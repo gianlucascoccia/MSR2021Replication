@@ -1,1 +1,1 @@
-i am abl to built the desktop app in electronjs. i am tri to implement the function to disabl the click event on window when there is no internet connect similar to the slack.i found the api to detect the internet in electron but not abl to find the way to disabl the click events.
+How to disable the click event in electron app

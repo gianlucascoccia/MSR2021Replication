@@ -1,1 +1,1 @@
-i'm build a tray app that should hide, if the user click on someth outsid the app. that an easi task:but what happen in my app is, that user can select file from there filesystem. if the dialog opens, the blur event from my mainwindow is emitted. what is the electron way of prevent this event when a dialog is opened?
+Prevent BrowserWindow hide on blur if user open a dialog

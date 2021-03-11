@@ -1,1 +1,1 @@
-i have test electron project with two windows.now window are group in the taskbar (see the actual part on screenshot).i want each window to be in a separ icon in the taskbar (see the expect part on screenshot).can i do this programmatically?i tri this for window (window 10).not tri for mac.i want it to work on both window and mac.
+How can i show child electron BrowserWindow a separate taskbar icon?

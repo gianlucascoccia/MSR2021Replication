@@ -1,1 +1,1 @@
-in my electron app, link to a filenam work:i.e. tag are be use for the links.i have read the electron document and search stack overflow look for a way to set a default page (i.e. index.html) so that the browserwindow will attempt to navig to that when encount a folder link. i was unabl to find a way to do this. it wasn't exact clear how to catch an error either. my electron app run on windows, sinc that is relevantth electron version be use is 1.6.11
+How to set Electron.js default page

@@ -1,1 +1,1 @@
-i have a basic electron app where i am tri to retriev data from the the html document form. i basic want ot retriv data like in a ordinari html document with someth like
+Retrievin a class from an html in electron

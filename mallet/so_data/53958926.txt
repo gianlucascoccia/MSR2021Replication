@@ -1,1 +1,1 @@
-i tri to use how can i fix this?
+electron.clipboard.readText() return empty string

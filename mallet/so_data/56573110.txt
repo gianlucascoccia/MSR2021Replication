@@ -1,1 +1,1 @@
-i was tri to print a browserwindow in electron (silently) and i do not want ani user interaction. but even when i keep the option as true, it show the printer dialog. i am use a window 10 machin and i want the electron app to use my default printer and print without user consent.
+Printer select window is shown even if silent option is true in webContents.print()

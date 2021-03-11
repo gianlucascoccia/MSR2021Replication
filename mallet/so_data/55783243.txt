@@ -1,1 +1,1 @@
-i have render two method on it. is this possible?
+Clicking with Spectron

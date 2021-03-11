@@ -1,1 +1,1 @@
-i have been look for electron
+Are there event for when an Electron app is shown and hidden?

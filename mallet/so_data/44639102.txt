@@ -1,1 +1,1 @@
-first of all i am new to whole react and electron thing so i am not sure if the thing i am do is correct. i am tri to separ my compon into differ jsx file and import them and render them into div tag in my index page for my electron app. however, i am a bit confus becaus it "partially" works. i am tri to separ my tab pages. i have one contain file which look like thiswhat is the correct way to achiev this - to render my compon into a singl div at once?cheers.
+React / Electron Rendering Components Is Failing

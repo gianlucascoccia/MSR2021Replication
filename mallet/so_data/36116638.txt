@@ -1,1 +1,1 @@
-i have an electron applic for which i use electron-packag to compil and grunt-electron-instal to generat the window instal package.upon instal i handl the squirrel event like so:
+Creating Shortcuts for an Installed Electron Application

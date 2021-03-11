@@ -1,1 +1,1 @@
-i have clone this repo for reactj develop with hot reload enabled. it work fine, problem is that, i want to run this app insid electron with hot reloading. so in my main.j file i point reactsj index.html file. it show blank page. though i can see tag content "welcom to react" on electron window, that mean it point properly, but no content are get displayed.i found out that electron is throw error
+Reactjs hot reloading with electron

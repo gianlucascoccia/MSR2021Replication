@@ -1,1 +1,1 @@
-i use electron packag to build my applic which has some initi data in a nedb. but then the packag generat the db file alright without the data after i ran the .ex file that was created.
+Electron Packager Not Loading Default Data In My NeDB

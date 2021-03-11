@@ -1,1 +1,1 @@
-i'm build an electron applic base on react and redux. i'm start with the electron-react-boilerplate, which is pretti minimalist and easi to understand.i want the user to open a file on the electron menu, and as a result, i want to call a reduc and chang the redux applic state. pretti simpl concept.th problem is that i don't know how to chang the redux state from outsid my root component. the electron menu is defin in the main.j file. the root compon is defin in the index.j file, togeth with the ani idea?
+How to change the Redux state based on an Electron menu click?

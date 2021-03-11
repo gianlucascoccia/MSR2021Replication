@@ -1,1 +1,1 @@
-i am practis this tutori which is relat to use electron for asp.net. i am follow all the step until minut 5:00, everyth is work fine but i observ that the middl of the screen not moving(javascript of the default project not working. i dig into the part by press f12 and i found below errors.. i found one more issue. you can see it in the second image.pleas help me what is wrong and how i can solv it?
+How to solve blocking problem for Asp.net Electron

@@ -1,1 +1,1 @@
-i'm creat a desktop applic that make use of python as the backend application. in a simpl scenario i would like to display random number continu (for e.g. in consol window)i came upon this articl https://www.fyears.org/2017/02/electron-as-gui-of-python-apps-updated.html which make use of the input to calcul the number dynamically.may i ask how do i implement the script abov without use ani button? i'm stuck with what to put in the renderer.j to render the abov logic.
+Displaying random number in Electron using Python Script

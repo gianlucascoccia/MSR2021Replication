@@ -1,1 +1,1 @@
-how do i remov this menu-bar from my electron apps:also it say "hello world"(i this becaus i download electron pre-built, and will go away onc i packag the application?). i didn't code these into the html, so i don't know how to get it out!-
+Remove menubar from Electron app

@@ -1,1 +1,1 @@
-i am tri to use electron is not present there so i understand whi i am get the error. but the electron doc (here) mention that this method is available. i am a littl confus by this. am i use it in the wrong location? can this not be use insid a webview preload?
+electron webFrame.executeJavaScriptInIsolatedWorld is not a function

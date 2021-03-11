@@ -1,1 +1,1 @@
-i'm build an electron applic and i would like to inspect specif ui elements. i have the chrome dev tool open for development, but what i want is to be abl to right-click a ui element and choos "inspect element" like i can in googl chrome. currently, right-click doesn't do anyth in my boilerpl electron app. how can i enabl this?
+How to add a right-click menu in Electron that ha "Inspect Element" option like Chrome?

@@ -1,1 +1,1 @@
-nan
+Electron dialog.showOpenDialog() returning undefined

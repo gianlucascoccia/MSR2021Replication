@@ -1,1 +1,1 @@
-i have an electron app which use react for ui rendering, am tri to use react-desktop librari to build a macosx like applic in electron. in my listview compon there is a state which is an array of json objects. i am tri to loop through the array and render list items, but there is a render problem. the detail would not show up in my view onc state is updated. the consol log output work just fine. i suspect this has to do someth with the list view, if i tri to render individu item use
+ListView Component of React Desktop : Issue rendering List Items from an Array

@@ -1,1 +1,1 @@
-i'm use electron-tab to build a tab view.expectationi expect to have exact one html shown for each tab separately. observationhowever, run a modifi demo program that come with the package, contrari to my expectation, i found a singl tab actual show the content from all tabs.codeher is my i'v got rid of the extra content in the tab, but it seem that the load page block the tab buttons.
+Electron-tabs unexpectedly load all tab source into the same tab

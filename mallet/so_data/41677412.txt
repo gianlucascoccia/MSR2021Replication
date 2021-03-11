@@ -1,1 +1,1 @@
-i'm current work in a project use electron (basic nodej with chromium) plus angular2i there ani way to save a typescript object in a file?currently, i'm save object in a json file. the problem is that all object method are lostshould i tri to save the __proto__ variable?should i use a framework or a special databas engine?today i'm read the object from a the json file and pars it use json.parse. then i reassign all the properti in a new object, which is not scalableani suggest is welcomethank in advance. josé
+Persistence using Typescript

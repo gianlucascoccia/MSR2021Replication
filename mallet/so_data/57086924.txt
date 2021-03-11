@@ -1,1 +1,1 @@
-have tri to send data from ipc render to main ipc renderer. the data would have differ languag content(eg: thai). do encod and decod use utf8 while pass data. still,get wrong data in main ipc. need help to pass multilingu data between ipc to main ipc.
+Electron Send data ipc renderer to main process - Thai Language wrong data coming

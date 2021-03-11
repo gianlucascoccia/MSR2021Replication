@@ -1,1 +1,1 @@
-i am use electron with angular2. when i open the app for the first time (), it open a blank page. it seem like no dom loaded. but if i resize/mov the window, the dom sudden appears. the dom won't appear till i resize/mov the window. to overcom this issu i am manual increas the width of window by electron, and this is not the ultim solution. ani idea, whi this is happen and how to fix this?update: here is the snapshot of my index.html
+Electron showing blank page when open

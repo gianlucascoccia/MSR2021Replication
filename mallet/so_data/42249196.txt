@@ -1,1 +1,1 @@
-i am creat a desktop applic with angular2 and electron which take screenshot of the entir desktop and save it in my pc to a given path.th code for take screenshot are written in the app.component.t but i have to do this task as a background process in electron.i have read about the background process but i am not sure how to actual implement this in electron as a background process.can someon pleas help me with this? here is my code:}
+How can I create a background process in electron that take screenshot of the entire desktop?

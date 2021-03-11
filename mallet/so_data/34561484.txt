@@ -1,1 +1,1 @@
-i have an electron applic that reli on ui autom to play, pause, and skip from global-shortcut. on the website, i can use the jqueri
+How to programmatically click on element in Electron?

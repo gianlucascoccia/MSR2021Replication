@@ -1,1 +1,1 @@
-what i want to achiev is the same real-tim transcript process as web speech api but use googl cloud speech api.th main goal is to transcrib live record through an electron app with speech api use grpc protocol.thi is a simplifi version of what i implemented:th error respons from speech api is that the audio stream is too slow and we are not send it in real-time.i feel that the reason is that i pass the stream without ani format or object initi so the stream recognit cannot be performed.
+Real-time transcription Google Cloud Speech API with gRPC from Electron

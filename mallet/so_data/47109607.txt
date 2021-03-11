@@ -1,1 +1,1 @@
-i'm convert an applic from c# to electron and i have some problem when i tri to make a request to upload an imag on a server (not my server).for c# i use restsharp librari and all work fine.us the code abov i get status code 200 and the bodi respons is tell me that no imag was select. so the request is working, but send the imag doesn't.
+Upload image using Node j and electron. (convert from c# code)

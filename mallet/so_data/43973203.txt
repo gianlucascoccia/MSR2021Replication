@@ -1,1 +1,1 @@
-the follow code produc an error on a fresh checkout.
+Electron ipcMain undefined

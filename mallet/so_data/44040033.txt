@@ -1,1 +1,1 @@
-i have an element in the html of the electron window and i don't know how wide the element will be. how can i set the minimum width of the electron my guess is that my screen pixel are not the same size as the css pixels, but i'm not realli sure. is there just a better way to do this altogeth or am i miss something?
+How do I size an electron window's width based on the width of an HTML element inside it?

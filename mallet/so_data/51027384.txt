@@ -1,1 +1,1 @@
-in my electron app i have a list of server address that i need to sort by shortest respons time. i have a function that need the sort list:i'v thought about let the callback updat a global list but then i need some way of signal onc all the server have been tested. ani guidanc is appreciated. thanks!
+Sort a list of server by fastest ping time with Javascript

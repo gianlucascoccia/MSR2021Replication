@@ -1,1 +1,1 @@
-i'm tri to consum youtub data api v3 from a desktop node.j applic built with nw.js, but i'm get an access deni error even though i have enabl the api on googl consol and creat a client id (for nativ application).can you help me?
+Use API on a nw.js application

@@ -1,1 +1,1 @@
-i use the electronj function or ani other nativ functions?
+How use the returned "buffer" of Electronjs function "getNativeWindowHandle()" in native functions?

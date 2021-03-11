@@ -1,1 +1,1 @@
-it seem like if you call . whi is that?i'v read the docs, and it didn't seem too helpful.
+ElectronJS - webcontents.on 'did-finish-load' v 'dom-ready' v 'ready-to-show'

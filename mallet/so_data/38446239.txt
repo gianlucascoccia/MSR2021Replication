@@ -1,1 +1,1 @@
-i'm tri to solv this problem is alreadi more than 6-8 hours. i think one of the problem is my english. =)i use atom editor, electron, typescript, reacttsconfig.jsonproject on github
+typescript import doesn't work

@@ -1,1 +1,1 @@
-it there anyway to check link whatev is a download link like http://ipv4.download.thinkbroadband.com/5mb.zipor normal web like open https://www.google.comcurr i am use electron and want to check if link is download link it will download and not open new browser but if not it will open in browser window
+Javascript Check whatever link is download link or webpage link

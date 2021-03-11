@@ -1,1 +1,1 @@
-i have an electron app where i want to introduc parallel releas channels: branch should use the right name, icons, id and updat without risk of it go to the wrong channel.i there a way to do this with electron or electron-builder?
+How to create release channel with electron/electron-builder?

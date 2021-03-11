@@ -1,1 +1,1 @@
-databas issuei'm use vue cli plugin electron builder to build my own application, and i'm stuck at connect to the database, no matter which databas i use(mysql2/sqlite3) with or without sequelize, i got timeout for mysql(abort connection) and can't open file for sqlite, this onli happen under develop mode, after built the project, it work perfect.
+Electron builder - mysql or sqlite connection failed

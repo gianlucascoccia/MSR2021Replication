@@ -1,1 +1,1 @@
-i'm get an error tri to use applic loader to upload a packag electron app.i use electron-packag to packag the app with the mas (mac app store) platform. i then zip up the output directory. when i tri i to select this .zip file with applic loader, it give me this error.
+Info.plist indicates an iOS app, but submitting .pkg

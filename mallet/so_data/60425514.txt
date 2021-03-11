@@ -1,1 +1,1 @@
-question:i am tri to use couchbas in an electron application, but fail to run the electron applic as soon as i includ the couchbas module. how can i use couchbas with electron?error message: similar questions:couchbas node compil against differ node version: after i have ad a comment i discov that it is a unix specif question.nod - was compil against a differ node.j version use node_module_vers 51: i went through near all of the suggestions, but none of them seem to work for me.
+Electron and couchbase: the module wa compiled against a different node.js version (win)

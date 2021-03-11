@@ -1,1 +1,1 @@
-i want to build distribut packag of my app use electron framework for linux. i tri the follow in package.json1) for name attribut in package.json it show warning"message": "string doe not match the pattern of \"^(?:@[a-z0-9-~][a-z0-9-.~]*/)?[a-z0-9-~][a-z0-9-.~]*$\".",when i run npm run dist:linux, i see error as shown in picnot : i am run this packag on window machin
+Failure to build electron package for linux on window machine

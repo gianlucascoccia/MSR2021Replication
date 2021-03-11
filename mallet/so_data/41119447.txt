@@ -1,1 +1,1 @@
-hi ani one know in node js how to get a child process from a process id?someth like thisthank you
+Nodejs how to get child process from process Id

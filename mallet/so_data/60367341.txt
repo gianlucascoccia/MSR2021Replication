@@ -1,1 +1,1 @@
-hello i am follow a youtub video on how to make btc price tracker with electron and i have run into an issue. i found the solut to make it work but i would just like to be point in the right direct to further understand whi this is the solution. i will provid my origin attempt below and the correct solution. i am abl to reach the data and it display correct in the console, but it doe not updat proper in within the applic window. again i am just look for some clarif on whi the second code is work proper thank you!
+How to display data with Axios data requests?

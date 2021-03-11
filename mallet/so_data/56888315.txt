@@ -1,1 +1,1 @@
-i'v been tri to creat a window instal for my electron applic with the ani suggest will be great appreciated.
+Cannot create an installer with electron-winstaller: "Stream wa too long"

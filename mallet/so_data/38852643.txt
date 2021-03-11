@@ -1,1 +1,1 @@
-i'm tri to creat an instal out of a packag electron app (packag use electron-packager). however, i keep get the follow error
+Electron-installer-windows: Invalid URI: The format of the URI could not be determined

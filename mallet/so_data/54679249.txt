@@ -1,1 +1,1 @@
-i'm tri to build an execut file for window from my linux but so far i have not been abl to do it.accord to the documentation, it tell me that here i could configure, for example, the output folder.but by default it build for linux
+Build executable for window with Vue CLI Plugin Electron Builder in linux

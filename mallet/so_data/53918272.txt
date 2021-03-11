@@ -1,1 +1,1 @@
-i cannot seem to requir it proper from the render process.thi is not working:
+Check if folder exists in renderer process using Electron, React

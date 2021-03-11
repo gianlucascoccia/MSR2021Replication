@@ -1,1 +1,1 @@
-i am veri new to write in electron, and am muddl my way through my first app.i have a obviously, i'm not do it correctly.what should i be doing?
+Electron with CodeMirror: Error calling setValue

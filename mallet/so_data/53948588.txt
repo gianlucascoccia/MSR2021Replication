@@ -1,1 +1,1 @@
-hello comput enthusiasts,i tri to run my electron app on window pe.when i tri to start the app trough the "startnet.cmd" noth happens.if i want to start it over "procex64.exe" (window process explorer, from sysinternals) i get the error that some ddl are missingmsdmo.dlldxgi.dlld3d9.dl (directx ?)dxva2.dllanyon know what this is, how i can fix that problem ?thank for ani advice.
+WindowsPE - How to run electron app, missing dll

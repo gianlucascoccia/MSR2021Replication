@@ -1,1 +1,1 @@
-i am tri to use johnny-f with node-webkit, so i have to rebuild it use node-pre-gyp. i have node-pre-gyp and nw-gyp instal globally. i am run on window 7 64 bit and have the 32 bit version of node 0.10.32 and the 32 bit version of python 2.7.3 instal along with visual studio 2012; they are both in the system path.when i run but that had no effect. i have also tri this on 64 bit node and python with no change. i would realli appreci ani help!
+Cannot rebuild serialport with node-pre-gyp: 404 status code downloading 64-bit nw.lib

@@ -1,1 +1,1 @@
-i have creat the package.json, main.j and index.html files, store them all in the folder, but when i tri to run the applic the follow error are displayed.
+How to run basic hello world app using electron framework , node.js on window platform

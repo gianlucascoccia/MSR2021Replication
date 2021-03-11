@@ -1,1 +1,1 @@
-i'v built an electron app that requir to run a shell script, ani suggest on how to achiev this? i believ i'll have to spawn a child process from electron and then find the path to the shell script, but i don't realli have a clear idea or exampl on how to do it. thank in advance!
+How to run a shell script from an Electron app

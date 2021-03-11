@@ -1,1 +1,1 @@
-how can we assert that a javascript-vari embed in html has some expect valu within an applic built with electron? the current test framework is spectron, mocha, chai, chai.should(), and chai.use(chaiaspromised).i want to assert that the global variabl
+Can Spectron, mocha, and chai assert that variable have expected value in an Electron-app?

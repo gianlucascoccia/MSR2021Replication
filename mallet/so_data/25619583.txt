@@ -1,1 +1,1 @@
-i have been success abl to make a node-webkit app and creat and exe to distribute, i am do so use so i then have a folder with the app.ex and various other file (.dll, .pax and .bat).mi question is two fold:1: can i packag all of the file into the .ex (so i onli have one file)2: can i have this as a .scr (screensaver)ani help or pointer would be realli appreciated.
+node-webkit screensaver (.scr)

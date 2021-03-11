@@ -1,1 +1,1 @@
-i have a simpl electron applic use react base on the electron-react-boilerplate.in my application, i want to open a new window and go to a url like while this doe open the window, it will not go to the appropri location, becaus it will just bootstrap the app again, obvious lead to a problem where it will re-open anoth window continuously.i there a way to open a window at a particular rout in electron with react?
+Electron + React: open a given route in a new window

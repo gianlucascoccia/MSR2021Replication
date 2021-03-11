@@ -1,1 +1,1 @@
-i'm tri to make notif like googl chrome in electron. i'v tri set but get the same effects.i'v done quit a bit of research and i can't find anyth on this. is there no way to do this besid ask the develop to implement such a feature? thank for ani ideas.
+Show window in Electron without taking focus?

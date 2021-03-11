@@ -1,1 +1,1 @@
-i have to make the local run web server communic with the local run window electron app in order to send some messag which the electron app would show it up as notif . i have seen peopl recommend socket.io for real time communic between the client and the server but i am find it hard to wrap my head around it as there are no exampl which i can look into to see how it actual work . ani sourc and explan for this topic are welcom .
+Implement socket.io in electron app which communicates to a local webserver

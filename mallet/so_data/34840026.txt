@@ -1,1 +1,1 @@
-the electron app open with the same default menu that appear in the electron-quick-start exampl app and how to chang it?also tri the menu exampl on the doc but noth changes.when i hide the menu with
+How to change native menu of electron-quick-start example app

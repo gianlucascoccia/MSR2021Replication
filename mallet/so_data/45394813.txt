@@ -1,1 +1,1 @@
-i am build onli support semant version. what version can i use for night build which doesn't break semant version rules?
+what version can I use for nightly build in electron app?

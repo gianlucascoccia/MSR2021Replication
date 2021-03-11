@@ -1,1 +1,1 @@
-i use
+How to enable debugging of Electron Main and Renderer with VSCode when I use npm-run-all?

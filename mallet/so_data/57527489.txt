@@ -1,1 +1,1 @@
-i´d like to show a progressbar insid my electron app while an updat get downloaded. so, i´v adjust the exampl code from the electron-build updat doc to my needs.th follow is an excerpt from my main.ts:i there anyth i´m do wrong?
+Electron Updater download-progress Event no getting called

@@ -1,1 +1,1 @@
-hello i have alreadi read and attempt the thread: save desktopcaptur to video file in electronthi is what i have so far:i just want to save the record video to a file.th file end up be empti when it saves. i have been stuck at this awhil and would appreci ani advice. thank you
+Saving DesktopCapturer to file in Electron since Buffer() deprecated

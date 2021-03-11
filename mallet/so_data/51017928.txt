@@ -1,1 +1,1 @@
-i have creat a custom browser with a webview tag.when i navig in google.it (or google.com), sometim appear a messag with say that chrome is obsolete.mi app version are :node.j 8.9.3 chromium 61.0.3163.100 electron 2.0.2 attach an imag of the alert (sorri but it is in italian)i it possibl to remov this warning?thanksjempisth warninged found a workaround for remov the warning:i set the option and the warn doesn't appear
+Electron - WebView - chrome is obsolete

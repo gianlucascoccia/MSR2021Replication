@@ -1,1 +1,1 @@
-is there a way to return valu upon close a browserwindow in electron?at best i'd wish for a way to get the variabl from the close event:
+Electron BrowserWindow return on close

@@ -1,1 +1,1 @@
-i am tri to learn electron and build a simpl application. in the html part, i have tabl with some rows.i have creat the context menu use "electron-context-menu" npm package. now i want that when i right click on ani row of the tabl then some menu will popup, like remov row.for example, i have a row like below:&#xd;&#xd; which will remov the row.for dynam ad and delet rows, i am use code from:her is jsfiddleani help? also, how can i get the id of element in row?
+How to show electron context menu upon right click on table row

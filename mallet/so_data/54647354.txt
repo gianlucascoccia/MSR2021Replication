@@ -1,1 +1,1 @@
-i have tri to make desktop exe for window use electron. i have run below command to generat sign version of exe:how we resolv this error??ani help realli appriciated.
+electron-windows-store return error: unknown option `--flatten'

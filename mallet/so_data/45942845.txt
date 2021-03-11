@@ -1,1 +1,1 @@
-is there ani way that i can get the follow code to open the file dialogu to a folder call “projects” that exist insid of the nw.js application? i have tri the doc here... https://github.com/nwjs/nw.js/wiki/file-dialog but haven't found what i am look for
+How to get the file dialogue in NW.JS to open to a folder inside of the application

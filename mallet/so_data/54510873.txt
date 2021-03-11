@@ -1,1 +1,1 @@
-how can i pass data from datat use hyperlink. i want to pass it by id. here is my code.mi controllermi modelindexi want to pass the data here when i click user id. thank you.stud profil
+CodeIgniter DataTable with hyperlink

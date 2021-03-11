@@ -1,1 +1,1 @@
-sinc nw 0.13 i cannot open the devtool anymore.accord to offic documentation, it should be possibl to open the devtool in linux by press but none of them is working. is it a bug or am i do wrong?i'm on gnome shell 3.20.2 and nw is 0.13.4
+Can't open DevTools on NW 0.13 in Linux

@@ -1,1 +1,1 @@
-i am write an applic in electron where if a user has a unsav file open i want to prompt the user befor save it. i found this exampl code online:thi code strang work if the dialog yes, cancel or x button is press within a few second of appear but if you let the dialog rest on screen for a littl and then click a button the applic will close no matter what is pressed.thi code is locat in the my main script file call by index.html
+Electron prevent main window from closing

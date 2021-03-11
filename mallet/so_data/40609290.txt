@@ -1,1 +1,1 @@
-i'm tri to instal electron recent version and encount this error. i tri instal
+electron install error : Failed at the electron@1.4.6 postinstall script 'node install.js'

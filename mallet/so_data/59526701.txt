@@ -1,1 +1,1 @@
-i'm tri to packag my electron app for macos, howev when i tri to packag it use window i get this error: i'm use electron 4.2.6 and electron-packagerth sourc is avail at: https://github.com/cozy-penguin/client/i'm new to work with electron so ani help is appreciated.
+Error when packaging Electron app to macOS

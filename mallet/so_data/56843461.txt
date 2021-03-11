@@ -1,1 +1,1 @@
-i'm use spectron to test an electron app that is base on react. i'd like to select a react compon and i'm tri to access webdriverio browser for that and call ani ideas?
+How to select a React component with Spectron?

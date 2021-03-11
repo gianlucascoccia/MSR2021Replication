@@ -1,1 +1,1 @@
-i want to have n (for now onli two, but i will need more) mostbottom window but prevent them to be cover by other mostbottom window which were creat before.so, let suppos we have 3 window like this, creat in this order:abc.or is there ani other known solut for this case?
+How do I create a topbottom window that is never covered by other topbottom windows?

@@ -1,1 +1,1 @@
-i am develop spectron ui test use mocha for applic that run on electron. the main issu that i have is that javascript doe not threat text input by tool equal to real input from the keyboard.a workaround for that i want to appli blur event on particular field after valu for it is set. the problem here is that element method of webdriverio is return json object and not the dom element, so .on("blur") cannot be chain to it.ani suggest how this can be achieved?thank in advance.
+How to apply blur event with Javascript using WebdriverIO and Spectron

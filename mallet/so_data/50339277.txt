@@ -1,1 +1,1 @@
-i'm use vue.j + nuxt.j + electroni'm instal nuxt.j and electron.j fullyaft creat new project with help command i'm use win7. how to solv my problem?
+Electron.js not working

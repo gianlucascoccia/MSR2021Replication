@@ -1,1 +1,1 @@
-i am tri to implement this in a react electron app. i'v tri use the css properti as list above, but it is not work yet. the other solut with the browser window doesn't quit work either as my applic is in react with the app wrap in a context.provider. here is the code i have:in app.tsxanyon know if there is a better strategi for solv this in a react electron app?
+Make react electron app draggable with transparent frame

@@ -1,1 +1,1 @@
-i'v been look at put togeth a simpl electron app use purescript and purescript-thermit but i'v run into a snag with requir not find the react librari which was instal through bower. here is the error messag that i get:th react librari is locat in bower_components/react/... but that doesn't seem to be on the search path. is there some way that i can add it to the search path?thank you.
+Electron + Purescript + thermite

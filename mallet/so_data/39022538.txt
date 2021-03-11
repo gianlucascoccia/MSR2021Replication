@@ -1,1 +1,1 @@
-given an electron-webview like on tag. remov these prop from the element. for details, see https://facebook.github.io/react/warnings/unknown-prop.htmlhint: i use the latest https://github.com/chentsulin/electron-react-boilerplateani ideas?
+Can't use electron's webview attribute in React component

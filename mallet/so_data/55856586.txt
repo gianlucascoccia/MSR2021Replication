@@ -1,1 +1,1 @@
-i'm use electron builder for packag my app and handl auto-updating. is it possibl to have my applic auto-upd from a zip file in a static directory? it say onli nsis is support for auto-updating, which i think mean that use nsis or nsis-web will alway requir an execut for updating.mi compani vpn doesn't allow execut file to be host on the network, so i'm just tri to find out if it possibl to updat my electron app use a zip file with electron builder (without have to resort to squirrel)
+Can I update my Electron app with a zip file using Electron Builder?

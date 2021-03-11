@@ -1,1 +1,1 @@
-i'm tri to get an electron app to reopen at the same posit on the screen as it was when close for the last time.to do this i have a config file that record the boundari of the window when it is closed. .doe anyon know how to get the os window posit in electron?if it help at all, i am on wayland (gnome 3.32).
+How do I get the OS window position in electron?

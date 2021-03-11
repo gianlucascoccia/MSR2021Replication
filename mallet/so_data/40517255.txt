@@ -1,1 +1,1 @@
-i saw this question: how to use electron&#39; &lt;webview&gt; within angular2 app?and it got me past my initi error but now i'm seeingani clue what i'm do wrong here? will this even work onc i have this templat problem work out?ani direct at all is appreciated. i'm follow what instruct i can find but it still not working. thank in advance!
+How can I use Electron's webview html element inside an angular2 template?

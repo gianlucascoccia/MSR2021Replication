@@ -1,1 +1,1 @@
-i am tri to get opencv.j run insid of electron. the problem it seem is that webpack is give up on the size of the library, it just get stuck and doe not finish.unfortun i could not find ani exampl demonstr of these technolog (electron, webpack and opencv).ani help to make this work is great appreci
+How to run OpenCv in electron via emscripten / wasm

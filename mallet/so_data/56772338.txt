@@ -1,1 +1,1 @@
-i have a angular electron app which work as expect when packag for osx use electron-packag but when it packag for window it crash when i do a http post request. there are no error i just end up with a blank white page and a warn a devtool was disconnect from the page.in my auth servic i have
+http post in angular electron app packaged for window cause app to crash

@@ -1,1 +1,1 @@
-how can i make an electron that mous event pass through entir to whatev is underneath?th window will just be for display things. when ctrl is press the window should becom enabled.
+How to make mouse pas through window in Electron

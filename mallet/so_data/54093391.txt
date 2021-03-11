@@ -1,1 +1,1 @@
-i don't know what happen exactly, but i am not get console.log statement shown in my log anymore. it say "xx hidden", but doe not mention whi doe statement are hidden. see screenshot. ani ideas?thi is an electron application, howev i am not sure if it relat to electron or if i accident press some standard chrome shortcut for hide those items.or look at this screen. so strange- all item invisible:
+console log doe not show info log anymore

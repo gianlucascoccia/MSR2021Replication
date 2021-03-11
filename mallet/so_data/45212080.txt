@@ -1,1 +1,1 @@
-i'm attempt to use socket.io within an electron applic and i'v been use electron-forg to build and package.th below output is the result of run electron-forg start from a vanilla electron-init applic name tester, with socket.io instal via npm.i had the same issu on ubuntu, but after instal libssl-dev, the issu were rectified.i it like to be node-gyp issu + python + some openssl problems?
+socket.io native dependency issue with electron-forge and mac os-x

@@ -1,1 +1,1 @@
-i have recent built a desktop app use electron and express.js, and i also use python-shel in node.j to call a python module. specifically, the express server will call the python modul which send sql queri to impala, and get the queri result from it, then transmit it to the front-end.it work well, but i wonder how to distribut this app? obvious the python-shel modul is not applic without python environment. ani suggestions? thank you all!
+How to distribute a desktop app built with Electron, Node.js and Python

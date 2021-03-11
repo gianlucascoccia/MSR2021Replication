@@ -1,1 +1,1 @@
-i'm not sure how to ask, but i'd like run the bash command on window 10 so that some linux command run later. i'm use the framework electron and the child process.th code snippet give "error: command failed: bash". doe anyon know why? and can you help me? i hope you understood my question.
+How to run linux terminal command on windows?

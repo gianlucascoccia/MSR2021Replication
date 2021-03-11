@@ -1,1 +1,1 @@
-i'm tri to use firebas js sdk with electron in webstorm, however, when i import the firebas sdk, instal it with npm and tri to launch the app, i get an error:what should i do at this point?
+Pre-built binary not found for grpc@1.24.2 and electron@7.1.2

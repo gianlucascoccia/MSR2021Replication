@@ -1,1 +1,1 @@
-i am have this strang problem, where i am tri to creat button then assign a onclick event to them. the onclick function start as soon as the page is loaded, then doe noth when i click it.
+Onclick activates on start then doe nothing

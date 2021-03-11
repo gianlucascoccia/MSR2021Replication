@@ -1,1 +1,1 @@
-i am tri to use execfil and log the stdout that give the percentag done on the task, but the callback function:
+get execFile stdOut on chunk

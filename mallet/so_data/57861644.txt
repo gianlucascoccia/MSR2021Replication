@@ -1,1 +1,1 @@
-so, my code technic works. the ifram doe chang the parent url. problem is, the parent is an electron applic and not a real website. so i need to chang it url like this:
+iframes - Change parent's URL without specifying the domain name

@@ -1,1 +1,1 @@
-problemi'm tri to use a pure-j databas call nedb in an electron render process. it use the in it webpack config.i there a solut to this problem, perhap by webpack configuration?
+Persist nedb to disk in Electron renderer process (Webpack/Electron/nedb configuration problem)

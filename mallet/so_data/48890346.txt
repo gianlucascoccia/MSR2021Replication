@@ -1,1 +1,1 @@
-the function i get the element in the console:
+.scroll() work on codepen but doesn't in my Electron Vue app

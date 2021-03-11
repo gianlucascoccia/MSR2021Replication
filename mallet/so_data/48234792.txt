@@ -1,1 +1,1 @@
-i'm build an applic use electron. my file structur look like this, all folder are in the same directory. my problem is that, when i subscrib to calls?ps: i'm quit new to node.j world, so i'm sure it someth trivial..
+Subscribe to Observable returning wrong value

@@ -1,1 +1,1 @@
-i'm read some inform to becom my angular app as a desktop application. i start to read some inform about electron.http://electron.atom.io/her in the main page i read that i can creat a window instal but after a deeper research i found https://www.npmjs.com/package/electron-windows-installeri don't know which is the main differ or final in essenc is the same librari or process? sorri if it duplic but i search and didn't find anyth and i'm a bit lost.thank you
+Windows installer from angular app

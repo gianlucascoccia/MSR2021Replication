@@ -1,1 +1,1 @@
-is it possbibl to use node with admin or sudo privileg within electron?i found sudo-prompt, but from my understanding, this could onli be use to execut a shell command and not to use node function (code from within the -file for example). is this possible? if so, could you give me ani advic on that?ani help would be realli appreciated, mayb i am just look for the wrong things.thank in advance!
+Is it possbible to use node with admin or sudo privilege within electron?

@@ -1,1 +1,1 @@
-i want to write an app via ?
+How to use `electron` based app update file which requires `sudo` permission

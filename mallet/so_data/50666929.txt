@@ -1,1 +1,1 @@
-in my electron app, i have code that read a json file and insert menu items: show the correct differ paramet for each item.
+contextMenu click handler is executing the command for the wrong menu item

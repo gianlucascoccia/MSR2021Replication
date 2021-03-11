@@ -1,1 +1,1 @@
-i have creat an electron app(say myapp). i have use electron version : "^5.0.7"electron packager: "^12.2.0"os: windowsthank in advanc
+How to debug Electron main process after packaging?

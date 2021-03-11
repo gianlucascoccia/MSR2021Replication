@@ -1,1 +1,1 @@
-after call the window resizes, but is not posit in the center of the screen. is there a way to adjust the offset of the window relat to the screen?
+How do I re-center an electron window after dynamically resizing?

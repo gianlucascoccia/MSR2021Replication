@@ -1,1 +1,1 @@
-my first electron app: it an admin app intend to run onli on my machinei want to add the @google-cloud/datastor modul to it, but electron won't start onc i import the package.i add the packag use yarn add', then rebuild for electron use electron-rebuild as instruct here: https://electronjs.org/docs/tutorial/using-native-node-modulesth first error is: i'm not sure if/what i'm do wrong, or if googl datastor is somehow not compat with electron?
+How to add google datastore package to electron app

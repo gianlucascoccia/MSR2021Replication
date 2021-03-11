@@ -1,1 +1,1 @@
-we are tri to download the log from chrome://webrtc-internals, the approach is open chrome://webrtc-intern in electron background when the call is accept and download stat file when call is end in electron app. what the approach?
+How to enable chrome:webrtc-internals in electron to download webrtc getstats file

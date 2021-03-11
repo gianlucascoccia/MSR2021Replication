@@ -1,1 +1,1 @@
-i have tri everything, can't get it to work. i get this error:ani idea how to make this work?
+How to make electron work with sqlite3?

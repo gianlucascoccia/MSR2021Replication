@@ -1,1 +1,1 @@
-i have a project in angularj and electron, and i would like to run it on window 8, 8.1 or 10, i need to build a msi to instal my app on programfil folder, and creat a desktop link.when i instal a new version on this app, i need to uninstal the old version in programfil and instal the new one.i tri electron-packag with electron-winstal but the msi file generat an instal on programfil which instal on appdata.screenshot with programfil and appdata folderswhat solut would you suggest ?thank for your help !
+How to build a msi with electron?

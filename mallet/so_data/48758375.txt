@@ -1,1 +1,1 @@
-a few day ago i start to learn about electron and i start to make a small project to download youtub video to test the thing around. here is the codemain.js:
+error running simple electron program

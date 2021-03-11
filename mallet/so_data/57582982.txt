@@ -1,1 +1,1 @@
-thank for take the time to read this. i have been at this now for a few hour and near got it right except now, im get a "typeerror: render is not a function" error and can not figur it out, use context api and reactj pleas helpi have chang around state and prop and back again this is the closest i got it to workthi is my parent file where i pass the userproviderthi is repeat like 180 time anyon got ani idea's?thank in advanc
+Getting a Render not Function Error, when I run this Code Context API and Reactjs

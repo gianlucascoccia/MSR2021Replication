@@ -1,1 +1,1 @@
-i'm use electron in webpag ( is closed...how can i achiev that ?
+Electron / Linux : Give fullscreen back to previous application

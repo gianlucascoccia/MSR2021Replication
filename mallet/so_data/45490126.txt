@@ -1,1 +1,1 @@
-my goal is to retriev a click on a .so, how i can resolv this problem ?thank for helping.
+SVG Ionic Angular and external script

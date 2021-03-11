@@ -1,1 +1,1 @@
-just like in the title, anyon know how to distinguish prod and dev environ in nw.js?i tri someth with but it doesnt work.
+How to distinguish prod and dev environment in NW.JS?

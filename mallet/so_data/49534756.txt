@@ -1,1 +1,1 @@
-when i run the application, window pop but display blank.how to load remot site in electron?how to send http request to rest api of server and process response?
+can't load remote webpage from loadURL() in electron

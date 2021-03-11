@@ -1,1 +1,1 @@
-i'm work on a reactj electron applic which has an menu in the top bar doe not automat exhibit this sort of behavior.i there a built in way of do this in electron, or doe one have to "hand do it" for each possibl control that can appear? in other words, do i have to add an event to each control on each form?
+Electron: how to make the Edit menu automatically enable/disable based on context

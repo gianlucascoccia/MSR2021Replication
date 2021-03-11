@@ -1,1 +1,1 @@
-i have an electronj app to play music and i was work on a "remote" that i can use to control my app through other devic via a browser.i use expressj and socket.io, but whatev i do, play, pause, next-track or previous-track, everyth doe work but onli 6 times, i.e if i press the play-paus button 6 times, it stop work for the 7th time. here the code i use on the client(remote)i'm new to expressj and server side stuff, what am i do wrong? how can i fix this issue?? thanks!
+ExpressJS only accepts POST 6 times?

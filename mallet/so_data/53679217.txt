@@ -1,1 +1,1 @@
-i recent began to experi with electron and serialport and hit a littl snag when ad angular (7+) in the mix.so here the problem:i run the typic angular cli command to generat to the app. i add electron and electron-rebuild as dev dependencies. then add serialport as a dependency.insid my app.component.t - is there some other way that i should be import it?
+Using SerialPort in Electron with Angular fails at build

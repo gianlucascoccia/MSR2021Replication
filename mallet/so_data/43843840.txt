@@ -1,1 +1,1 @@
-i'm use spectron webdriverio which is at version 4.7.1 in node_modules. i'm tri to gettext from an element but select it gradual is give me trouble.i can "copi -> selector" in dev tool to give me a veri specif path. this work if i ani idea whi i can't chain as shown in the exampl here: http://webdriver.io/v4.7/api/utility/$.htmlmani thanks.
+Not managing to chain selector with $ and $$ a documented in Webdriver-IO doc

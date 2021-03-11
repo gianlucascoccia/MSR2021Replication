@@ -1,1 +1,1 @@
-i want to know the date format that is use the current device, for example, is i call this function, this function will return me the current formatanyon know how to archiv that?
+How to get the Date format in electron - javascript

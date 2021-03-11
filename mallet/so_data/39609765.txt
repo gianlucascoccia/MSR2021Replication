@@ -1,1 +1,1 @@
-i am tri to download one of the pdf from my server use the nightmarejs. i have instal it via node modul as:-i mean how and where do i configur the electron set in nightmar js script file.
+How to disable showing printer prompt in NightmareJs

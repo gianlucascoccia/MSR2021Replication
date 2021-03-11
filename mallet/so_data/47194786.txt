@@ -1,1 +1,1 @@
-i am new to nodejs.. to run shellscript file from electron app i have use child_process packag from nodejs.when we give absolut path to exec then it work fine. but if we store absolut path in some variabl and pass that variabl to exec it show "no such file or directory" error.
+exec in nodejs not getting string shellscript path

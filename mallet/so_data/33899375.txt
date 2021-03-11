@@ -1,1 +1,1 @@
-is there a way to make reactj render custom attribut on an html element?i am develop this app with node webkit use react, and i need to add webkitdirectori and mozdirectori attribut to an file type input element to be abl to select directories.thank
+render custom attribute on HTML element with reactjs

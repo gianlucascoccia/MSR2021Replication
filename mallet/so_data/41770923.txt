@@ -1,1 +1,1 @@
-i have creat an app with angular 2 and i have creat io and apk file after some modif with ionic i want to creat desktop app file with same projecti have gone through mani resourc for electron but i could not get ani clear idea abouthow i can creat an exe file from electron app file for window or mac app file or linux execut fileif ani one know ani clear refer about how i can creat an execut file for window or mac or linux by electorn pleas answer bellowthi will be veri help for me to learn electron
+How to Release Electron app for Windows or Mac or Linux system?

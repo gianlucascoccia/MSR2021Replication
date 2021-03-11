@@ -1,1 +1,1 @@
-in my nwjs applic i am use react to build my ui. currently, react is be load via a (clientsid rendering).if you need ani more context or inform then pleas ask.
+nwjs reactjs, confused about my context. Document is undefined

@@ -1,1 +1,1 @@
-in our electron app i'd like to use the dev tool to inspect an element that onli exist if a parent element experi a mouseov action. whenev i go to interact with the dev tool my mous has to move and the element disappears. i know that the chrome dev tool usual paus script execut with f8. this doe not seem to work in electron. i have also tri forc the parent element into :hover and :focus in the dev tools, but this doe nothing.ani idea pleas on how to paus execut or forc a parent into :hover?
+Pause Electron with a hotkey or similar

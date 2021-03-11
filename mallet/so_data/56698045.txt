@@ -1,1 +1,1 @@
-the scenario is the following:an angular app deploy in an extern serverdesktop electron app run local serv a remot url (the one where the angular is serv from)i there ani way to use electron api to interact with the os from the angular app? i do believ ipc will not work sinc they are not run on the same instance, but i want to know if someon can come up with anoth solution.thanks, javi
+Communication between remote Angular app and Electron desktop app

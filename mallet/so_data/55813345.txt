@@ -1,1 +1,1 @@
-i want to start index.tsx on desktop application.i set the work folder as follow use create-react-app.how do i write package.json? i do not want to "npm run eject".
+How to write package.json to use Electron with TypeScript, React

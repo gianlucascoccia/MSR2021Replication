@@ -1,1 +1,1 @@
-i am check for updat within a certain time interval. whenev the updat fail, i am display a window with an error notification. problem is that everi time a new window is created.i alreadi tri
+How to prevent multiple instance of a window in Electron?

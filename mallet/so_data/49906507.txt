@@ -1,1 +1,1 @@
-i'm tri to make a websocket server that will run from a nice tray icon with a few option for stopping/start etc in the context menu. i'm use the npm modul ws for the server.if i start my ws server from electron main process it work absolut fine but if i start it from the click callback of electron tray menuitem the server start callback never fires, as far as i can tell.
+Is it possible make a tray based Electron app for handling a node w server?

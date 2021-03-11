@@ -1,1 +1,1 @@
-the first imag which is have fix height and widthth second imag i want to set the height of the electron window on click of detail button onli if the messag is too big. how can i do this?
+Increase/Expand height of the electron window on button click

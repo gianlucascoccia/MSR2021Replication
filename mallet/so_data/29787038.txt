@@ -1,1 +1,1 @@
-i'm use edit: i saw that microsoft has this issu with rtf and txt document open in wordpad (which is what mine was be open in), so i thought it might have been that process hang up and not die properly. befor i call it quit for the night, i chang the default program to open in libr offic and had better result (it didn't happen as often), but if i tri to fire the function quick in sequence, i would still get the error.
+Using exec throw process error after save in node webkit

@@ -1,1 +1,1 @@
-i'm bang my head against the wall on this one. i'm tri to overrid the name of a demo electron app to give it a custom name instead of just :i'v been compar the code to a differ app i creat where i was abl to overrid the default name and i can't spot what keep the overrid from work in this case. ani ideas?
+Unable to override app name on mac o electron menu

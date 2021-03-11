@@ -1,1 +1,1 @@
-i am open a child process in node.j to start an rtsp stream use vlc. i then want to kill the process onc a command has been sent from the electron application.her is the code i have written. is there anyth i am do wrong becaus the child process doesn't get kill even though the code is run through. i have check that cam is not undefined, it actual enter that code block.
+Killing child process in node.js/electron

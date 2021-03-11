@@ -1,1 +1,1 @@
-i am tri to set up session cooki in my node server, which is the backend for an electron app. i am tri to follow this guide.https://firebase.google.com/docs/auth/admin/manage-cookiesth first thing i am confus about is where this function come from in the "sign in" section: ? doe this impli that one is not suppos to be set req.cooki in their client-sid code?
+Managing Session Cookies with Firebase and Electron

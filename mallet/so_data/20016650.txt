@@ -1,1 +1,1 @@
-i am creat a desktop app use node-webkit.th app scan a directori and upload all the file from that directori to my server. i have the upload work ok(i couldn't get stream to work on the server side so just use post).her is the code at the moment, i am use the request library:mi issu is that the "data" event on upload isn't the upload progress but is the read file from disk progress. i tri ad a "data" event to the form but that was the same result.bas how do i upload a file to my server and report the progress back to the user.
+NodeJS and Node-webkit file upload with progress

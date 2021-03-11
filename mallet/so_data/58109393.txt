@@ -1,1 +1,1 @@
-i'm use electron-webpack and am not abl to import an image. i have it locat at what am i do wrong?
+Importing an image is importing a base64 encoded string (electron-webpack)

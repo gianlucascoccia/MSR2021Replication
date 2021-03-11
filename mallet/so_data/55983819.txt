@@ -1,1 +1,1 @@
-i'm develop an applic with method.i it possible?
+Electron window fit content width and height

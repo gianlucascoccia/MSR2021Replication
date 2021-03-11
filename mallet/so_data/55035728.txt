@@ -1,1 +1,1 @@
-i configur the node integr to fals in my window because, as describ in the documentation, disabl is a good practice.i want to access the jqueri of my render process in my preload script, but i don't know how i can do this.i it possibl to activ a modal (for example) after some event occur in the preload script?link to my exampl code in github: https://github.com/jhonatanrsantos/sampl
+How to access jquery from the render process inside the preload script on Electron

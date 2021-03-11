@@ -1,1 +1,1 @@
-i'm use but i'm unsur how to combin them as i can't work out the syntax!
+Add NSIS script with electron builder to run DPInst.exe during install

@@ -1,1 +1,1 @@
-i want to creat an commerci applic which can creat socket and accept connect differ devic use local network,access nativ function like file system,clipboard,start an app etc...i good to use electron or angular for this requirement? and then how was the documentation?
+Is good to use electron or angular 2 to build PC cross platform application?

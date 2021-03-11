@@ -1,1 +1,1 @@
-tri to build atom/electron on window 7, but failed.o environment: window 7vs 2013 updat 5python 2.7node.j 4.2.3git 2.6.4atom/electron - latest pull (2015.12.17)it fail when run the bootstrap script "$ python bootstrap.pi -v", the screenshot is here:tri to find a way through, ani help will be appreciated.-- dean
+Fail to build atom/electron on Windows 7

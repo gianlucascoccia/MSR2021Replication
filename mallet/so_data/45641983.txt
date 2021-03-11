@@ -1,1 +1,1 @@
-i'm have an issu use the nedb thank in advanc
+NEDB Query returning false positive with $nin on array

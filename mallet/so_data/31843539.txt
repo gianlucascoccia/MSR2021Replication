@@ -1,1 +1,1 @@
-i am look for a odm modul that can be use with nedb in nodejs-express. is it somehow possibl to use mongoos or waterlin schema in combin with nedb for validation? mongoos and waterlin do not provid an offici adapt for nedb.at the moment have veri low requir for perform and i am work on a project for the raspberri pi therefor i would like to stick with nedb (or similar file-bas nosql database).
+How to build model (ODM) in nodejs to use with nedb

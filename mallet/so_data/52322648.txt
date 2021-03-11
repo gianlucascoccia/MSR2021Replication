@@ -1,1 +1,1 @@
-i spent the last week tri some of recip to glue electron + react, but, each of them has it cons.today, thought to do it by:, which fix the conflict.but, that would be almost imposs to do by hand for all the link in app! so, please, how can this done automatically.
+Electron Fetches Resources of React From Root Dir

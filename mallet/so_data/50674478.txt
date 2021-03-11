@@ -1,1 +1,1 @@
-i am a novic on javascript and start to learn object and array i just want to know whi my array look like it empti but when you click it has a value? see below code, i am use output see below image, ani suggest would be great.
+Javascript Array look like it empty but ha a value

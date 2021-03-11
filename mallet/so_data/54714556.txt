@@ -1,1 +1,1 @@
-my main problem is that i can't figur out a way to inject jqueri into a extern web load in electron browserwindowso far i have been abl to inject a local script into the page by use "preload" properti of webprefer in browserwindowthat on my "myscript.js" file**also tri jsdom with no success, again mayb i was do someth wrong, or out of place.what i'm do wrong here. i'm lost and dunno what to do.
+How to inject jQuery into Electron BrowserWindow with external content

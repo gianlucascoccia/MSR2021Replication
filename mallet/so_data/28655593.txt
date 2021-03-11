@@ -1,1 +1,1 @@
-i want to use nw.js as a standalon socket client and server. i am tri to put the sampl socket.io chat applic from socket.io websit into a nw.js application. but when i start nw.js i got the follow error:mi nwjs version: v0.12.0-alpha3-osx-x64
+EADDRINUSE when using expressjs with node-webkit

@@ -1,1 +1,1 @@
-i have been tri for day to familiar myself with the suppos simpl electron framework with react library. however, i have to give up now and offer you to help me.her is my simpl project:index.htm can build the applic and start it, but the html page (dashboard) is not displayed.i would be happi about ani help.
+Electron - React component is not rendered

@@ -1,1 +1,1 @@
-i'm unabl to start my electron app use show up yet noth appear on my screen, also show no sign of chang in mem/cpu usage. unlik start it in vs code debugger, it show up instantly.p.p. if i miss up some inform regard the question, just comment it out, i'll tri to includ it as fast as i can.
+Unable to start electron through npm

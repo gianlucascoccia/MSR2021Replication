@@ -1,1 +1,1 @@
-i have a problem, i am tri to get the weight from a scale with nodej and the npm modul "serialport" on windows.th problem that i have is that it doesn't matter the command that i sent to the scale, it is not return ani data.i alreadi compil the modul serialport for the project that i am make on nwjs, and i have the follow code:note:th parser w\n is the string that the scale need to sent the weight. i test that with anoth applic name cooltermthank for ani help.
+how can I get the result of a weight with nodeJS

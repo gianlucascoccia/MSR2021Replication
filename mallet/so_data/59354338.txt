@@ -1,1 +1,1 @@
-im run a normal electron application, but when i run "npm start" it give me the follow error: error: cannot find modul d:\general\projects\electron\cli.js'but the app folder is and there it is the node_modules... and all the requir folder in my test project.i'v also tri instal global and locally, updat npm and electron... but no results.a far as i can see, the error is that electron is not look at the correct path but, how could i chang the path where it look for the cli?
+Electron cannot find module because of wrong path

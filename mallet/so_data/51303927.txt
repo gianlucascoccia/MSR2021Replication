@@ -1,1 +1,1 @@
-i'm build and sign an electron app and i'm tri to contain my certif locat and sha pass to an environ variable.i this how i pass the env variabl to an npm script? worth mention that i'm use create-react-app
+How to I use env variable in npm script

@@ -1,1 +1,1 @@
-i am tri to declar a variabl in electron use typescript:but how can i call jqueri in typescript? declar the jqueri variabl to be used?i someth wrong with the first code above?
+Call jQuery library using TypeScript in Electron

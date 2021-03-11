@@ -1,1 +1,1 @@
-i have alreadi use this servic with angular2, but now i can't even achiev the expect behavior when everyth is correct.
+How to handle HTTPS secure connection error in angular2?

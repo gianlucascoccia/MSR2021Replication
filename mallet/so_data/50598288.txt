@@ -1,1 +1,1 @@
-i know that run a bin file with spawn doesn't work when packag an electron app with asar on a mac.to go around that i run electron-packag with -no--asar and the app spawn process just fine. everyth die after run the installer?th child_spawn.('./bin') is dead... i hate macs... of cours everyth work on linuxthanks!
+After packaging an electron app (installed with -no--asar) child_process.spawn not working

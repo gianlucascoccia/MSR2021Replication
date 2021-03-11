@@ -1,1 +1,1 @@
-how can i creat a save file without a temporari file?when i click on my "export" button, i get a window that give me the choic for a destin of my save file, but i have a temporari file : becaus there is a temporari file.how can i don't use a temporari file when i click on "export" button, call my function?
+How can I create save file without temporary file with AngularJS / Electron?

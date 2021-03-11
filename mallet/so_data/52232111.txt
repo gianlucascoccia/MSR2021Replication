@@ -1,1 +1,1 @@
-at the moment i read file within the operations, is there a need to go back and forth on these?
+In electron are f operation done in ipcRenderer or ipcMain

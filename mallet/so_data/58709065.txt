@@ -1,1 +1,1 @@
-these are the onli four attribut mention in docs.(1)
+How to disable fullscreen on electron window (linux)

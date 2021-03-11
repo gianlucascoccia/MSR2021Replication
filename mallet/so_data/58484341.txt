@@ -1,1 +1,1 @@
-i just finish my first electron packag but i can't find ani tutori or exampl on how to set the "about" pop up on mac os x - darwin.what i have so far isi assum that someth has to be set after role:'about but not sure what :)
+electron: how to set text on about for Darwin/OS X

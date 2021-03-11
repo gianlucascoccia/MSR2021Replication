@@ -1,1 +1,1 @@
-this is my first project with angular 4 and electron for a desktop application.i have overrid the electron menu but i don't know how to redirect to a compon when click on a submenu item.thi is a part of my menu.can you help me ?
+Electron : Menu redirect to component (with Angular 4)

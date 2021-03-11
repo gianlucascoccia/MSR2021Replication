@@ -1,1 +1,1 @@
-i'm work on set up my first node-webkit app and i'm run into issu launch it. i'm on a mac and the app file structur look the same as below.i then ran zip data *' in the termin to zip the app and renam the zip file to app.nw'.when i drag the nw file or the origin folder onto node-webkit, it doesn't open my app correctly, instead it display the default screen.
+How do I get my node-webkit app to open correctly?

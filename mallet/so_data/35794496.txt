@@ -1,1 +1,1 @@
-are there way to make node_modul more compact for client side usage? for exampl with nodewebkit?i think about remov unecessari file and minification.thanks!
+Prepare node_modules for distribution?

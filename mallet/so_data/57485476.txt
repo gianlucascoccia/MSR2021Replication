@@ -1,1 +1,1 @@
-when creat custom titl bar button like close, min/max, restor i came across the issu that i may need to use the remot in the renderer. render - with nodeintegrationobvi this requir node but i want to keep nodeintegr off and out of the render as i heard that was best. is it possibl to creat custom button for the titl bar without use nodeintegration?if this can't be done without nodeintegration, what is a safe way?
+Is there a way to create custom menu button in electron without node?

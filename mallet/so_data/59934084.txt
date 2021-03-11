@@ -1,1 +1,1 @@
-hi i have develop a project use electron and react,i have a form in react side which on submit call the the error i am get is typeerror: cannot read properti on of undefined.
+How to write unit test for ipcRenderer.on and ipcRenderer.send in Jest?

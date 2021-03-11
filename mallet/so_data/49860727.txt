@@ -1,1 +1,1 @@
-i don't know how i can use the the "dist" is the sourcefil and "electron" is the targetfile.how can i do that?
+How use copyfiles from electron

@@ -1,1 +1,1 @@
-i have two browser window open, on one window i want to intercept the https request and replac the page content. current i'm do this use use protocol.interceptbufferprotocol and it is work how i want it, but the https request are be intercept on the second window and it seem to be caus issu with the page loading.i there a way to onli intercept request on a specif window or a way to return the default behavior of the request?thank
+Intercept http request for a single browser window only

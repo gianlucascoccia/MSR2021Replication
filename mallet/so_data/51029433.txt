@@ -1,1 +1,1 @@
-how can i resolv a situat where jest want nativ depend built for node, but i build them for electron (use &#xd;&#xd;&#xd;
+Jest expects a native dependency built for Node, but mine are built for Electron - What can I do?

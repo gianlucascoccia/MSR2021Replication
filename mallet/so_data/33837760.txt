@@ -1,1 +1,1 @@
-doe the electron applic framework have built-in text search?th quick-start applic doesn't provid ani appar search function (e.g. use or from the menu options). i would have expect this to be a browserwindow option (or an option of it webcontents), but i don't see anyth help in the docs.
+Full text search in Electron BrowserWindow

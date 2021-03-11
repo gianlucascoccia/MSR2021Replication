@@ -1,1 +1,1 @@
-i packag my app with nw.js v0.12.3 and i'm use dns node.j module. when i start my app with nw .' all work fine. but when i packag my app with nw-packag i have an error uncaught error: no modul dns'.
+NW.JS Uncaught error: no module_name

@@ -1,1 +1,1 @@
-when i am run the react server , it onli monitor chang to the src/file.t file and reflect those chang in the react compon but if my file is present in other folder than file chang and put the electron.j file in the public folder . but react-script doesn't reload the compon and the environ when the electron.t file updat . how to do this ?
+How to monitor for public/file.js change when using create-react-app?

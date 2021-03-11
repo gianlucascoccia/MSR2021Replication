@@ -1,1 +1,1 @@
-i have problem with set valu in
+localStorage value doesn't want to be set

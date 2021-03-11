@@ -1,1 +1,1 @@
-this question was ask befor and got no answer.i am creat an applic which need continu flow of data from python to electron ui. the problem here is, it wait for the entir program to finish befor display all the “print” command of python. is there a way where i can display all the print command the moment it call on python… here is the exampl of python code:thi display last line of python script i want to display all the line of the script insid electron.thank you in advance.
+How to display all the output from the python script inside electron

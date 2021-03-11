@@ -1,1 +1,1 @@
-i'm tri to build a simpl desktop app with nw.js. inspir by some post includ this one, i want to tri a pure
+Loading Bootstrap in NW.js (node-webkit) app with pure npm build

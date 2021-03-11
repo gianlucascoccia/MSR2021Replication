@@ -1,1 +1,1 @@
-in an electron app, i'm open a local help file with: would fail to load script the first time?
+Electron: window.open doesn't load script

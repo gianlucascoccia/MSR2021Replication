@@ -1,1 +1,1 @@
-here is my reducer:i have two windows. a mainwindow and anoth one createuserform.jsto handl multipl window i'm use react-router-dom.when i submit the a new user in the form window the the state updat is reflect in that window but not the main window. is there a way to fix this?
+Electron React redux. Updating the state in a form window is not reflected in the main window

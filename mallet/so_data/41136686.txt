@@ -1,1 +1,1 @@
-i want to develop an electron app with angular 2.i manag to creat a "hello world" angular 2 app with angular cli (1.0.0-beta.21) and it run fine with .how can i improv this work flow?can i still forc angular cli to dump everi chang in the dist folder?or is there anoth way to see the chang immedi in the electron app?
+How to automate work-flow of Electron app with Angular 2

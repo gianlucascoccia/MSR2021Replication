@@ -1,1 +1,1 @@
-let say i have a websit that i want to turn into a desktop applic use either an ifram or webview within an electron app. let also assum that this websit has a lot of imag on it that i would like to cach in the electron app so that they onli have to download those imag once.i there a way to access those local file (that are bundl in the electron app) from the remot site that has been load in the iframe/webview?
+Load local image from external site in iframe within Electron app

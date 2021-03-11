@@ -1,1 +1,1 @@
-i am tri to creat a ui for an electron app, this is go to be music player.mi idea is to have the right hand side list music file and the major part of the window display the detail of the song be played, like it album art, track name, artist and so on. i have got the initi part done but the center the current song detail is not just work for me here is the jsfiddlei need the part where it show a preview of the album along with the track name and other detail be in the area
+Center the div in the body

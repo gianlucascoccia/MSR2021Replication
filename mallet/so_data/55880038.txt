@@ -1,1 +1,1 @@
-i'm new to electron and node.j and now i learn electron from video tutorials. in the tutori the guy instal axio with doesn't work in it. how do use that copi axio in my current project?
+use copied library in another project

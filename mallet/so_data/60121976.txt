@@ -1,1 +1,1 @@
-if you need to do some kind of an author mechan to an electron application, what libraries/framework would you use for it?bas requir would be that the user enter either a key or some identif inform about himself and their right to use the applic can be remot allowed/block as necessary.kind of like a licens key, but a bit more flexibl in term of defin when their right of use ends.
+How can I authorise an installation of an Electron application?

@@ -1,1 +1,1 @@
-i'm tri to creat a remot desktop app. everyth is work great except i can't find a way to captur the window lock screen to allow login from remote.i'm use electron and getusermedia which will show the lock screen on maco but just hang with a still imag on window until the screen is unlocked.i there ani way to captur the lock screen on window use the built in getusermedia or ffmpeg?if not do you have ani other suggest of way to capture? i don't need high framer on the lock screen.
+Is there anyway to capture lock screen with ffmpeg or electron getUserMedia

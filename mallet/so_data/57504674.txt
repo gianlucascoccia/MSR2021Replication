@@ -1,1 +1,1 @@
-i am tri to add src to an img tag in electron and it just return an error: fail to load resource: the server respond with a status of 503 ()run the same img tag in a browser show the src imag correctly.th src is : https://novelplanet.com/uploads/i-might-be-a-fake-cultivator848.jpgth img tag:
+How to scrape an image that's stored in an html page

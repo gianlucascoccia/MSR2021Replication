@@ -1,1 +1,1 @@
-_____ project overview _____ i am build an electron application, use react and typescript, in which i read a plain html string to memori to then adjust some element in it and final convert it to a pdf._____ problem descript _____ becaus the html is never realli render (it is just in memory), i am uncertain on how to convert the html (with style) to a pdf without render the html first. _____ what i'v tri _____ i have tri use a combin of
+Converting HTML string, including style, to PDF (Electron - React - Typescript)

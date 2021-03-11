@@ -1,1 +1,1 @@
-as node.j still lack import function which exist in java, i would like to use java instead of node.js, and creat the client use a web languag (html, js, css..). electron is cross platform and so doe java so it seem fit to have a solut get the best of both worlds.do someon know of a way to integr electron with java or have a differ solut to the problem?
+Can Electron apps be integrated with java code?

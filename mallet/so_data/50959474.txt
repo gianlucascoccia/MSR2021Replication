@@ -1,1 +1,1 @@
-i am new to electron so pleas bear with my limit knowledge. i am tri to save html file from the save option in templat menu in main.js. the applic load fine but when i go into the menu and click save - or open - the error show up.1 i'v tri it mani differ way but i can't get rid of the aforement error. here my code:
+Electron js: cannot read property 'showSaveDialog' of undefined

@@ -1,1 +1,1 @@
-we have an desktop app built with angular &amp; electron. in one scenario the respons is pdf and i want to open the respons in adob or system default viewer for pdf. anyon face this scenario before, if so pleas let me know how to achiev this.
+How to open pdf in adobe from Electron + angular

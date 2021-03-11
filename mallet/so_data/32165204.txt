@@ -1,1 +1,1 @@
-i am write cross-platform applic with electron.i want to be enabl es6 arrow-funct featur in main process use like .electron alreadi instal success on io.j 3.1.0 .how i can do it with io.js?
+Using ES6 on Electron app with io.js

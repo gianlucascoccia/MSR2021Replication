@@ -1,1 +1,1 @@
-so i was work on a project wich includ youtube-dl (npm) so i download it, and all the depend required, here is the error&#xd;&#xd;&#xd;
+I'm getting an error when launching electron after installation of youtube-dl npm

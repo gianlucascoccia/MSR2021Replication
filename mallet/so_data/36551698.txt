@@ -1,1 +1,1 @@
-i want to write a simpl app use electron and angular 2.i follow some tutori to setup a hello world app and creat an execut with electron-packager. everyth work fine, but the problem is, that the folder, wich contain the execut and it components, is about 230 megabytes. is there a way to minim the size of it? i know i could creat a zip-fil and a setup, but that is not what i want to do, the goal is to reduc the size of the instal folder.th package.json i used:
+Executable is too big

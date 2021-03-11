@@ -1,1 +1,1 @@
-use vsts to build an electron app but i keep have issu with my npm tasks:i am not the dev, i'm devop tri to get this to build in vsts run the npm instal vsts task and that seem fine, but then i run the npm custom task where my command is
+Trying to build Electron app with VSTS fails saying "error Please try running this command again a root/Administrator."

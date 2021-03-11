@@ -1,1 +1,1 @@
-i am tri to implement i/o oper on this tutori app i am building. everyth els is work correctly, the onli problem i am have is that the applic doe not console.log() the desir result, which is suppos to be the locat of the select file in the dialog box.her is a screenshot
+Electron dialog object not return anything, say Promise { <pending> }

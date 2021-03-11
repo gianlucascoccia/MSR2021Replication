@@ -1,1 +1,1 @@
-descriptionin my program i am read a json file, pars it into an object and then i tri to "cast" it into an object of the class
+Object.create() say parameter is not an object

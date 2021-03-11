@@ -1,1 +1,1 @@
-i'm run a function which i'v written in javascript insid a nodejs/electron client.thi function is meant to copi a file from the user flash drive to their this should copi a file, then when it complet it should copi anoth file, onc that is complete, it should run a powershel script.each copyfil check for an error befor move on, but it never throw an error, and the file is never copied.
+copyFileSync not copying file and not throwing error

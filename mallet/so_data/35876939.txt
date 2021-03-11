@@ -1,1 +1,1 @@
-i want my app to have no titl bar but still be closeable, draggable, minimizable, maximiz and resiz like a regular window. i can do this in os x sinc there is a that i can use but unfortun it not avail for windows, which is the platform that i'm develop for. how would i go about do someth like this in windows?her an exampl of what i'm talk about.
+Frameless window with control in electron (Windows)

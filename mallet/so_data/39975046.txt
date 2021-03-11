@@ -1,1 +1,1 @@
-assum there is a notepad like app that has edit function .code mirror librari is use for this purpose. now as the app is nwjs so i don't know how to open ani text file in my app directly. just like in other nativ app we can select the option in context menu e.g "open with sublim text" .and the file open in text editor. how can i do that in nwjs app ? ani modul there ? pleas help me . thank
+How to open file in NWJS or Electron app?

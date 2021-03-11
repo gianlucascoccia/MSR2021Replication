@@ -1,1 +1,1 @@
-i am experienc differ behaviour when use chromium the log file is generat as expect and no extra window are spawn on launch. whi is there a differ when i specifi the argument on the command line vs. in the chromium-arg section of the package.json file? and secondly, how can i get the desir behaviour by specifi everyth in the package?us nw.js version 0.16.1
+NW.js Chromium logging flag behave differently when specified in package.json

@@ -1,1 +1,1 @@
-how to make a spa applic use both? simpl and direct.join the two applic seem possibl but it is veri complicated.i need a tutori to do it in a simpl way.
+How to make Electron + Angular

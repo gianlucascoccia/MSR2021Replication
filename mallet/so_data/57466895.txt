@@ -1,1 +1,1 @@
-some user report that my app cannot open in maco catalina, with the error message: myapp can't be open becaus it integr cannot be verified. is this becaus of notarization? the app seem to be work on other maco versions.
+App 'can’t be opened because it integrity cannot be verified' on macOS Catalina

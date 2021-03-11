@@ -1,1 +1,1 @@
-i am work on a stopwatch app use reactj and electron. i have a timer component, which keep track of the time and display the clock &amp; controls.th control will be made up of three buttons: play, pause, and stop. these button compon are complet unrel to the timer component. my question is: if i have a
+Calling one component's function from another, unrelated component in React

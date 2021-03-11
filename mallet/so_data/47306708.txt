@@ -1,1 +1,1 @@
-here is the situation.th databas is direct access with nodej (node-adodb) in main.js. my angular app send the request and receiv the sql result from the db.service. this part is work just fine, but if i have a function like getinfo(), the first return promis would be the valu of the second request. how would you suggest me to handl that situat to avoid that conflicts?yes, i could wait for the first call to return and then do the next one, but do you think it could be done differently?thank in advanceher is the codemain.j
+How to handle 2 ipcRenderer.send call to 1 ipcMain.on

@@ -1,1 +1,1 @@
-i am build an electron desktop app which is of cours base on node.js. igot my toolchain readi and the dummi app building, but start with the specif design of the app i am ask myself how to split up the content in differ file to reus them:imagin have some kind of header and footer bar that is suppos to be on everi "page" of the electron app. the main content is of cours suppos to change. how can i organ my app to make the code for header and footer reusable?node.j respect
+Make electron app component reusable

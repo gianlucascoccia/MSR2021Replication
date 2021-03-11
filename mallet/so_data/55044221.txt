@@ -1,1 +1,1 @@
-i am work with an app use electron-vue. in windows, i alreadi check the file and noth is missing. is there someth i did wrong?thanks!
+Module not found: can't resolve '../file'

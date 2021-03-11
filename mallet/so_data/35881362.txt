@@ -1,1 +1,1 @@
-i'm tri to load a url (http://twitch.tv/directory/following) to be display on a but to no avail, as it still block the images. ani ideas? thanks.
+Electron webview is blocking http image

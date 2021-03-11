@@ -1,1 +1,1 @@
-i have creat an app use create-nw-react-app. this basic creat a system app which use reactjs.so, i have creat a rout / which render a particular component. is get render at start. then, click ani of those link is print "your file was not found" as output.
+BrowserRouter not working in create-nw-react-app

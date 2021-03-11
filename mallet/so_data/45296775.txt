@@ -1,1 +1,1 @@
-i am make an applic with electron.j and i have reach a point where i need to make an http request to call a php. respons time at the begin was low and the applic fail befor receiv data. then i put a timeout to the http path so that the wait time for the server respons increased. the problem esqu is as if the timeout was not, doe not wait for the indic one.do you know ani way to solv this problem?
+response timeout on http request

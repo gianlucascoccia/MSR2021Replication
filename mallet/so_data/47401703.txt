@@ -1,1 +1,1 @@
-i'm tri to do the following.
+Callback inside of method in an ES6 class calling another method

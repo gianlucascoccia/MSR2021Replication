@@ -1,1 +1,1 @@
-this is a veri basic question but i'v been struggl with it for a while.i'm tri to ignor the build and dist folder at the top level of my project. i'v read the littl help?
+regEx to ignore build and dist directory at top level of project?

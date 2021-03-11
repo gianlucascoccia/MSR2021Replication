@@ -1,1 +1,1 @@
-i'm attempt to access a sql server databas in an applic use vue + electron. is best practic to use ipcmain/ipcrend data from electron to vue?stack: electron, vue, vuex, vue router sql package:https://www.npmjs.com/package/mssqlstore/modules/sqlmodule.js:
+Correct way to access SQL Server data in Electron + Vue application?

@@ -1,1 +1,1 @@
-build for os x, host on github.a few version back i chang i'm guess the old app name is cach somewhere, but not sure where, and how to update. search the codebas for the old name return nothing.
+Electron Builder; changed name of app, auto update failing

@@ -1,1 +1,1 @@
-i am find imposs to move a larg object full of data with there no error messag but i don't get the again log.if i build the data piec by piece, it work with simpl data, but when i copi a larg portion it doesn't. i cannot reproduc it sinc the amount of item i have in the object-to-pass is veri larg (see image), but i json-seri it without problems.i there ani altern to pass this variabl from a render to anoth render in electron?
+Electron fails when sending a large object with BrowserWindow.webContents.send between renderers

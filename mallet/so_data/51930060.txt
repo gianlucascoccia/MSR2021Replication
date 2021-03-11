@@ -1,1 +1,1 @@
-i have an electron app.it use bootstrap v4, electron v2 amongst some other node modules. i have a button which open an electron dialog, the user select a folder, and at this point, my applic browserwindow appear to refresh.i don't want this refresh to occur. i have creat a test case which show this behaviour. no doubt i have made a simpl error, pleas can take a look at this repo to show the test case which reproduc my problem.https://bitbucket.org/renegadeandy/electron-dialog-problem/src/master/
+Electron Dialog closing refreshes my current page

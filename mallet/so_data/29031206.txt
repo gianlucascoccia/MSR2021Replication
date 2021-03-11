@@ -1,1 +1,1 @@
-i am use node.j (node-webkit) app, that i should deploy on usb stick. it depend on redi server run in background. (windows).how to achiev this? so that user doe not need to instal redis, just plug-and-play?should be enough? then how to wait until it is fulli loaded?how to avoid antivirus/firewal issues?
+Zero installation Node.js app with Redis backend

@@ -1,1 +1,1 @@
-i'm tri to run an easel.j base script use node webkit. the error i get though is document not defined'. the script in question doe work in a normal browser attach to a html file i should add.i have use window.docu to attach a event listen for keyboard input and i think this is what caus the problem(?)
+Node Webkit brings up 'document not defined' error

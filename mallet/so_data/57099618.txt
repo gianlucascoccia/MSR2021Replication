@@ -1,1 +1,1 @@
-for my electron app project (use boilerplate), i want to execut a few selenium node command use selenium-webdriv and chromedriver.th problem is, when i ad the modul
+Electron webpack issue with selenium-webdriver [bazel-genfiles]

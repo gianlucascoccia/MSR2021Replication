@@ -1,1 +1,1 @@
-i am make a cryptocurr portofolio and i am load the coin data from the cryptocompar api.i there a way to save the imag on local storage?edit: i am use electron
+Angular 6 + Electron save image from api for better performance

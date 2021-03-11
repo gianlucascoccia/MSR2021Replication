@@ -1,1 +1,1 @@
-i'm use the khan academi api in an electron application, i notic that the login page (/api/auth2/authorize) has the option to login with facebook or googl but not with khan academi account.ther that error in the devtoolshow can i get the page to load normal like it doe in a browser?
+oauth authorize page when using Electron - LABJS error: jQuery is not defined

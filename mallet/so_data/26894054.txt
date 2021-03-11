@@ -1,1 +1,1 @@
-is it possibl to use node-webkit with mean.j (or mean.io) ? i want to develop simpl applic use node-webkit and mean.js. can i have some recommend for that use-case.editto creat api with mean.j and then use it insid of angular.j factori (on node-webkit) ?is it possibl to use vertx.io as backend and node-webkit + angularj as technolog for client side ?p.s. whi mean.j (i have background in use mean.j full-stack for develop web-app's. i want to know how to integr it with node-webkit. i love mean folder structure.
+node-webkit with MEAN.js

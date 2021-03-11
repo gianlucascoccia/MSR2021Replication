@@ -1,1 +1,1 @@
-i'm tri to pass argument into an already-run electron app start via the command line (howev i am not sure how to pass them into an already-run electron instance.i know i can packag the app into an .ex and test it that way, howev have to packag each time i want to test is cumbersome. is there a better way?
+Passing command line argument to running Electron app without packaging

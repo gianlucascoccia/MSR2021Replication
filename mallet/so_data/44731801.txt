@@ -1,1 +1,1 @@
-i'm new to electron and have made my first electron application, it run normal run doe anyon know what i am do wrong, thank you for your help.
+Electron Cannot find module /resources/app/index.js

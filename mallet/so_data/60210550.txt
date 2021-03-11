@@ -1,1 +1,1 @@
-i did extens research befor post this issu and feel i have exhaust the onlin document and stack overflow.mi issue:i'm use the npm version of bootstrap with the tempus dominus date time picker script and get the error $(...).modal is not a function even though jqueri is import befor bootstrap and then use to actual import bootstrap in the backend like so:
+I get the error $(...).modal is not a function even though bootstrap is imported after jQuery how can i fix this (using npm versions)?

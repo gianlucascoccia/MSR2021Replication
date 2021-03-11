@@ -1,1 +1,1 @@
-i am tri to use bootstrap in my electron app i search for solut but all answer are call jqueri script befor ani other scriptand in the code abov i call it first and the problem still existspleas help mei am use jqueri 1.10.2 and this bootstrap style
+Electron adding JQuery

@@ -1,1 +1,1 @@
-i am tri to open a new browser window for angular 6 spa.first of all, i tri to use but it is redirect to index.html despit of specifi url for the window.somewher i found that use electron modul can be use for the same.ref: https://github.com/maximegris/angular-electron/issues/58us that i am face the below error:i have tri a lot solut to solv this error but i couldn't."i there ani altern option to open a new browser window in angular 6 use rout ?"
+Open new browser window in Angular 6 using routing

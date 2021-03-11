@@ -1,1 +1,1 @@
-i find that the myapp.ex file generat use electron-build is near about 500m. i am not sure what i did becaus previously, just for ia32 or x64, it would be around 196m. i also look at this link and it mention onli about 55mb-60mb. so the question is, whi am i get such larg size for my exe files? my app itself is veri small and if electron is onli around 33mb, what all that extra space there?her are my package.json entries:i this the expect size of an electron app? ani way to make this smaller?regards,arun
+electron builder app size is too large

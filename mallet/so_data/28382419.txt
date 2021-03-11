@@ -1,1 +1,1 @@
-i'm use nodej and node webkit for a window app (node-webkit is now nwjs).i instal the and if i tri to add the file as the node-main in the package.json, noth happens.i need a littl help. what am i do wrong?
+node ODBC install for NWjs on Windows fails

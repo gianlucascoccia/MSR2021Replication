@@ -1,1 +1,1 @@
-i have been tri to send a messag from the main to the render when the app close use webcont but it doesn't seem to have an event where it check if the app closed.on the main
+How to send a message from main to render when the electron app close

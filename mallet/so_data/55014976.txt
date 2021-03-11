@@ -1,1 +1,1 @@
-i am just get start with electron and follow the get start guide. after run the script to launch an app with custom menu, the app menu still show electron rather than my custom name file'. i tri the suggest in similar question in particular put ani idea what i am missing?
+Custom Menu Not Showing in Electron - MacOS

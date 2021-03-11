@@ -1,1 +1,1 @@
-i am tri to set focus on a control in electron when the initi browserwindow loads.i know there are altern way to do this through jquery, javascript, etc, but is there someth specif provid by the electron framework?i tri to focus the control use jquery/javascript, but they do not seem to work in electron.her is my code to set up electron in the entri js file app.j :-
+How can I set focus on an html control in electron framework?

@@ -1,1 +1,1 @@
-i am use qztray to print receipt through my nodej app. i have to creat a json array that look like this
+Reading and parsing raw data from JSON file

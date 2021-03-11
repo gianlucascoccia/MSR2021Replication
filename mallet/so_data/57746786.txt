@@ -1,1 +1,1 @@
-i want to make a desktop app use electron.j and express.jswhen it was first load i got a warn like this: syntaxerror: unexpect token &lt; in json at posit 0", source: devtools://devtools/bundled/shell.jsi there someth wrong with my code ?and in develop consol has a warn like this:server.j
+SyntaxError: Unexpected token < in JSON at position 0", source: devtools://devtools/bundled/shell.js

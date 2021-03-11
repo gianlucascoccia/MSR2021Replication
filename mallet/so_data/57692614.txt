@@ -1,1 +1,1 @@
-i am tri to integr git clone command to ui built use electron.js. when username/pwd is requir for cloning, it silent ask in the command line for usernam follow by pwd. my clone api (use simple-git node library) doe not return anyth at this point. how do i detect if user has to go to command line and enter the username/pwd. i am look for some mechan to either throw an error or provid a way to enter username/pwd from the ui itself.thank in advance!
+How to detect if git clone command (run from a UI - built using electron.js) is asking for username in the command line

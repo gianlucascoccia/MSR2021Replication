@@ -1,1 +1,1 @@
-i'm make an electron app and i would like to display a python output in the page.what is the easi (and correct) way to do it?i want to the output display on a textarea,imag
+Display python output in html (Electron js)

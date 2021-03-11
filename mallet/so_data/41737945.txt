@@ -1,1 +1,1 @@
-i'm creat electron app right now. the applic which i'm use angilar singl page app in the renderer. it was use in chrome applic in the past. now my task is port it to the electron. but the chrome applic is still supported. as result i'm got a one code base for two applications. there is someth like this in my angular control (coffescript code):it is becom more place with a code like this... it frighten me((prob i can wrap this in more abstract api or someth else...do you have ani idea to make my code more beauti and modularity?
+Angular + Electron + Chrome App

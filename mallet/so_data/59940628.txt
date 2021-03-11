@@ -1,1 +1,1 @@
-basic i have a custom built quasar desktop app that i would like to run in sync with pro tools. i would like to be abl to trigger a button press in my app when the play button is trigger in pro tools.i this even possible, or if not, could i do this with hot key mapping, and on macos?
+Is it possible to trigger a function from another application using hotkeys or something similar on Mac?

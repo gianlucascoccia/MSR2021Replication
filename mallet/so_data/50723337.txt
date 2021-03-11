@@ -1,1 +1,1 @@
-this is my code, the issu is in the ldimg(); and the img(); ldimg(); creat the imag element, and img(); get it, but my alert() debug test say cannot read sourc of null.
+Can You Dynamically Create A IMG element, and access it with document.GetElementById(name);

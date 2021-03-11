@@ -1,1 +1,1 @@
-i'm new to electron. i'm writ an applic that use sever client-sid ui library, such as jquery, mask-plugin and d3.js.consid perfomance, i would like to know if there is ani differ between requir a js librari in the render process instead of direct refer in a script src tag. precisely, are requir call more cost than simpl script src tag in the render process?for instanc (a veri minim and simpl example), which one is faster?
+Require v refer to JS script in Electron's render process

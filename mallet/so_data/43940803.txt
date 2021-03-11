@@ -1,1 +1,1 @@
-this are the snap of the app and the snap of the compil node file
+My sqlite3 rebuild generates the electron-v1.4-win32-x64 and require asks for electron-v1.4-win32-ia32 . Does any have idea?

@@ -1,1 +1,1 @@
-here is an exampl datastore:but when i tri to use "find" in a queri in featherj liter noth happens. no error, nothing. i feel like i must be miss someth super simple.i would post code but liter all of it is just desper test and wouldn't be helpful. i spent hour on this and realli be grate if someon could help me.
+In Featherjs NeDB cant query document to check if array contains element

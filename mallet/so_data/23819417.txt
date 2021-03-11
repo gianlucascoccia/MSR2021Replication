@@ -1,1 +1,1 @@
-i'm work on a node-webkit app that perform filesystem operations. i need to be abl to check if the file is be use by anoth process befor delet (unlinking).if i onli use the fs.unlink method, the system will wait until the file stop be use befor remov it completely. what i want is that if the file is be used, don't wait until it released, but cancel the whole oper and don't delet it.thanks.
+Node j check if file is being used by another process

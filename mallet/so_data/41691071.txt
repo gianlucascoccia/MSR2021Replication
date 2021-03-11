@@ -1,1 +1,1 @@
-i have some troubl with use xhr in electron. in my macos, it work perfectly, but test from anoth macos, fetch fail with: net::err_insecure_responsetest with window 10 work fine, but it onli happen with other maco laptops. i goggl that error but noth use found.get data via xhr with chrome on anoth maco was worked, but onli electron fail with same error. i test with just type fetch direct in console:it still fails. look like it onli happen on electron and i'm stuck here. ani advic will veri help to me. thanks!
+Failed to Fetch from Electron: net::ERR_INSECURE_RESPONSE

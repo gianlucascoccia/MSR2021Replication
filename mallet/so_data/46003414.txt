@@ -1,1 +1,1 @@
-i am tri to use robot-j with electron, but when i tri to start my app i get the follow error:http://imgur.com/a/w1eiscannot find modul "./win32-x64-54"without robot-j my app run fine. i am use robot-j version 1.0.2 and have the windows-build-tool installed.edit: this problem onli occur with electron, in a standard node-project the robot-j run fine.
+electron build error when using robot-js on window

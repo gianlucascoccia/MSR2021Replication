@@ -1,1 +1,1 @@
-after research i made on the web, i found two frameworks: for desktop develop - electron and for mobil develop - ionicar abov platform recommend choic for mobil and desktop develop with web technologies? if not which framework should we use for this purpose?
+How can i develop mobile and desktop application using html, cs and javascript?

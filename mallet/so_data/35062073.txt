@@ -1,1 +1,1 @@
-i have this weird problem, i'm tri to make the websit work offlin (elearn cours made with adapt), so i'v creat the electron app wrapper:and it work but it is an ugli patch, ani thought on that anyone?
+Packaging app With Electron and Asar

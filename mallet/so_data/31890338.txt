@@ -1,1 +1,1 @@
-where is a detail list of oper system support by github s electron? research but cannot find anything. can someon point me to some docs? a user report he can not instal on freebsd. so it seem there are limit when use electron-prebuilt.
+Where is a detailed list of operating system supported by GitHub' s Electron?

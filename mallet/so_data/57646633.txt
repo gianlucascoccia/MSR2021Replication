@@ -1,1 +1,1 @@
-i'm build a simpl applic use electron. i want to access node.j i'v read this thread (https://github.com/electron/electron/issues/7300#issuecomment-248773783) and tri to appli the fix but it did not help and threw anoth error, so i'm back to start.i'd be glad if you had some hint on how to get it working.
+Electron TypeError: Cannot read property 'normalizePath' of undefined

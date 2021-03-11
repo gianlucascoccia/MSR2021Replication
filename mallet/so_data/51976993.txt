@@ -1,1 +1,1 @@
-am work with angular version 6.1.0 and electron 2.0,on run the app in browser it but on run npm run electron-build was success but the app could not launch. thus, no browser window is displayed.her is the
+Electron app not launching

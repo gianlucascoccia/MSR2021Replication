@@ -1,1 +1,1 @@
-i'm run fedora linux 31 and gnome 3.34. i'v slack and skype instal and both are electron apps.when both are running, sometim a desktop notif from slack will crash gnome. the mous will work but i can't type anyth anywhere. not even ctrl-alt-f2 work to go to the console.however, without skype run concurrently, this never happens. i'v been test this for over a month. i'm realli puzzl about what exact is share between these two apps.i'v disabl hardwar acceler on both but the issu persists.
+Do two Electron apps share any OS-level resources?

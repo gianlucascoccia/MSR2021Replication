@@ -1,1 +1,1 @@
-i have this kind of a big java swing applic contain 70,000+ line of code that i want to migrat to electron. i have a critic requir for print with epson dot matrix printer (esc/p2). to be more specif epson lq-310. current i'm use rtextprint for this task which work perfect but i can't seem to find a javascript altern for this. i found this and this but pretti sure those won't work with lq-310.
+Dot matrix printing module for Node.js/Electron?

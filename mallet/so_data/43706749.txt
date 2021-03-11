@@ -1,1 +1,1 @@
-hi i am tri to instal electron in my window system use this follow commands.i also tri updat node and npm but still i am get this error. can someon pleas help me ? . thank in advance.
+could not install electron in window 10

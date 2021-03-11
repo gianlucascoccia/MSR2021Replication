@@ -1,1 +1,1 @@
-i am use react with electron. run the react project work after build the react project and compil it with electron when i use the router like this in a button:how do i navig in respons to a ajax success in react combin with electron? i suspect that electron is handl the path incorrect when not use the withrouter.
+React Router with Electron Blank Page

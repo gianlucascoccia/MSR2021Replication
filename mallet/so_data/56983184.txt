@@ -1,1 +1,1 @@
-i have an electron applic built use angular + ionic 4. there is a simpl screen which contain three has no effect. sinc i'm tri to avoid set height to exact value, i'm struggl to find the solution. ani idea what should i try?import thing to mention is, that it onli happen within electron. both chrome and firefox don't have this issue.
+Electron + Ionic - ion-row height doe not adjust to it content

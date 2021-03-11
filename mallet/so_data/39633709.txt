@@ -1,1 +1,1 @@
-updateok so i work it out. when use highland.j i need a .done() to finish the stream.
+Chaining HTTP request in Electron using request-promise

@@ -1,1 +1,1 @@
-i'v success run expressj server alongsid electron as describ on here:run node.j server file automat after launch electron appth problem now, there is no output from command line relat to server activity. i simpli run ??
+Debuging expressjs server alongside electron

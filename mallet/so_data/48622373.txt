@@ -1,1 +1,1 @@
-i just start to make a new app by electron and find out after ad a new featur in my app, a veri hard to notic white(or mayb transparent) gap ad in veri right side of the window. more explanation: i made an applic that fetch someth from server and after some manipulation, will display them in main window. the applic just has 1 window (it quit simpl app) and this is configur for window that i ad into main js "before" gap show up:?electron v1.7.11window 10 64bit
+Small gap in very right side of window (window oversize)

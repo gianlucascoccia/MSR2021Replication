@@ -1,1 +1,1 @@
-i'm tri to get a screen to stream to my angular 5 electron app. i'm use the desktopcaptur provid by electron. this is my code:
+TypeScript prevents me from passing the correct constraint to getUserMedia

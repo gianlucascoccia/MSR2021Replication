@@ -1,1 +1,1 @@
-i am tri to set up an angularc project which can be run in the browser and via electron.i'v found some good tutori for do so, such as this article: http://www.blog.bdauria.com/?p=806howev i cannot find or figur out a setup which allow for live reload and debug in the electron project.
+How to set up an Electron project based on AngularCLI, with debugging/live reload?

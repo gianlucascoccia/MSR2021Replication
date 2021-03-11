@@ -1,1 +1,1 @@
-i found a big, huge problem with
+Offline-first database instead of sqlite

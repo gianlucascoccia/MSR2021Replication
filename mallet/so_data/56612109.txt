@@ -1,1 +1,1 @@
-i am creat an electron app and packag for distribut with electron-build for window and mac. this app creat a folder and some pdfs insid vari base on user input. the pdfs also use an image, which as a node app i was keep in the root folder of the app.i manag to write to the desktop use an absolut path.
+How to path to an image file in an electron app?

@@ -1,1 +1,1 @@
-i'm get this error while tri to build my electron app use electron-build on mac with code signing. ident is proper set on keychain.howev the build smooth goe on the same app when packag without code signing.i'm on a mac with osx el captain (10.11.6) and xcode is updat to the latest version.ani help is great appreciated.
+Electron builder code signing: bundle format unrecognized, invalid, or unsuitable

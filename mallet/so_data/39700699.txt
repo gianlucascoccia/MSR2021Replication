@@ -1,1 +1,1 @@
-when run my app direct with electronani help??
+electron-packager Not allowed to load local resource

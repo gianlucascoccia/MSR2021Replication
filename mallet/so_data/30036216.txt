@@ -1,1 +1,1 @@
-i'm attempt to call a function set in an iframe, from the parent document. here what i mean..index.htmlthat what i'v got right now. as you can tell, the index should be call a function defin within the ifram - but it not. it just tell me it undefined.hop this make sens to you. also, i am use nw.js (node-webkit) to make ifram complet controlled. thank for ani help!
+Run Function within iframe | NW.js (node-webkit)

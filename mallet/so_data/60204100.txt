@@ -1,1 +1,1 @@
-i have a menu in an electron application, and the item look someth like this:i want to be abl to check something, and save that state so that if i re-open the application, it load the previous state of the check menu item (check vs unchecked).how can i do this in electron? i tri local storage, but becaus it the main process, it doesn't have access to that.thank in advance!
+How can I save/load the checked state of a Menu Item in Electron?

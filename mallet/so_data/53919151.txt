@@ -1,1 +1,1 @@
-accord to this guideline, electron app can be publish to mac app store. electron itself is base on chromium and node.js, and they are both base on v8 js engin which enabl jit. but jit compil is not allow by mac app store as far as i know. so how can it bypass this limitation?
+Why can electron app be published on MAC App Store?

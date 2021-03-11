@@ -1,1 +1,1 @@
-i am work on an instal for the applic written use , without luck.
+access application name inside custom script

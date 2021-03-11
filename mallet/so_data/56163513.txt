@@ -1,1 +1,1 @@
-i am use electron with i guess it the problem occur on the session, it should be close after the download is done, or someth else.ar there anyon meet the problem also :(
+<Electron> session.will-download event fired over one time

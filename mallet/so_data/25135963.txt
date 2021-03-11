@@ -1,1 +1,1 @@
-i am use node-webkit for creat desktop applic use nodejs.in this i need to get data from mysql database. for this am use node-mysql modul and the follow code is use to connect mysql server use node-mysql.kind suggest me solut to establish the mysql connect through node-webkit.
+node-webkit MySQL connection Error - ER_HANDSHAKE_ERROR: Bad handshake

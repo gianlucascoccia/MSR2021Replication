@@ -1,1 +1,1 @@
-i have a page with an far too mani time in this post.
+Setting Javascript Context to iFrame in an iFrame

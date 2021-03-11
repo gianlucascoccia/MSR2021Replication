@@ -1,1 +1,1 @@
-i have an electron app that work perfect fine befor bundl it with ani idea what is wrong? thank in advance!
+Electron index.html not loading after building the app

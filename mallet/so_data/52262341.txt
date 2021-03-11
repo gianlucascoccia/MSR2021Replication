@@ -1,1 +1,1 @@
-** edit, i believ this is an issu with the initi boilerpl i start with (one use parcel) and is miss some part caus this issue. this seem to work just fine with electron-quick-start boilerpl **i have search around and can't find a solution. there is a youtub video tutori show how to read from the file system: https://www.youtube.com/watch?time_continue=292&amp;v=pqzeymiwfh8but i implement the same but get this error is throw the not a function error. anyon know a solut to this as it work in that tutori video?
+Electron reading file from file system

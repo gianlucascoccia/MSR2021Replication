@@ -1,1 +1,1 @@
-i am current build an electron app in electron version 5.0.0i am use electron power monitor function but this can onli beaccess from the main electron js file but i need to let a vue compon know. i tri use event busbut it look like evenbus onli work within vue components. anyon got ani idea on how i can just send an even from the electron main js file into a vue compon
+Emit an event from electron main j into a vue component

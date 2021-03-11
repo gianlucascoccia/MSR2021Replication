@@ -1,1 +1,1 @@
-i have an atyp internet connection, sometim i have it, but sometim i do not and i need to save it use.i need to use the usb librari for node, i alreadi have it instal in anoth node_modul (same oper system / same pc), but when i copi it from one node_modul to anoth it give the error:i it possibl to do someth like this?thank in advanc
+Reuse usb package installed with npm in electron app

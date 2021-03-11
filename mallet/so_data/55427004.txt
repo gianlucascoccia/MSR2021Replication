@@ -1,1 +1,1 @@
-so i have an electron app that hold an angular spa. the state of the app is handl use ngrx redux.i'm look to be abl to creat a new but i can't seem to find anyth similar for angular. is this possibl with angular?
+Singleton redux store for Angular Electron app

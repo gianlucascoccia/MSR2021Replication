@@ -1,1 +1,1 @@
-when i run ani idea why?
+get user home directory with electron

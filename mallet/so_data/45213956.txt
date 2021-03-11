@@ -1,1 +1,1 @@
-i have built an electron app. the folder structur is as follows,upd 2:i use devtool to find the error. it say nedb modul not found.everyth will work fine when i run use npm start. but after build, function in script.j not work.how to resolv this issue?
+Why doe Electron Application not build sometimes?

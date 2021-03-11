@@ -1,1 +1,1 @@
-i'm work on an electron-vu desktop app and i use metron admin template.i'm call js file in the index.ejsit work perfect in dev mode but js file where not found after run the product version of my appi there a way to make these file appear in the product version asset ?pleas help me
+How to call Admin Template javascript file in electron-vue

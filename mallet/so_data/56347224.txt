@@ -1,1 +1,1 @@
-what the best way to upgrad to the latest version of electron?should i be concern about ani problem caus by upgrading?i'm play around with “electron”: “^1.7.9”, and “react”: “^16.1.1”, on linux.i'm use yarn, not npm;the app i'm play around with has never been ejected, so the assum config is intact.th codebas i'm use is here:https://github.com/csepulv/electron-with-create-react-app
+How to upgrade electron to latest version?

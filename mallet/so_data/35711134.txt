@@ -1,1 +1,1 @@
-i have some data in the localstorag that has to be delet on but it seem to go onli in the wrong direction.
+Electron: Call renderer function from main

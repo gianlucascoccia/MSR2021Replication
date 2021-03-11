@@ -1,1 +1,1 @@
-in my electron app i need to do a recurs copi of a directori to a new location, for this i am use "ncp". the code look like this:th input and output directori both exist and are fulli qualifi path (windows), howev noth is copi and the call return without call the callback function.ani suggest where i am go wrong?i also tri the"recursive-copy" modul with similar results, make me think i am miss something.sid
+Using ncp with Node, no file or folder are copied

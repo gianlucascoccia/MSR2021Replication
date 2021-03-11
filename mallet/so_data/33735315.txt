@@ -1,1 +1,1 @@
-i'm creat a desktop manag for wiremock. wiremock is a standalon execut , it doesn't. i have chang all the permiss of wiremock path to be all public and still not working.
+Exec command line in Node-Webkit

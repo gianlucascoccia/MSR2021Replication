@@ -1,1 +1,1 @@
-i would like to have a dev environ for . the big fat obstacl in my case is that both sourc (main and renderer) have to be transpil and minifi for the production.what are the options?
+Have electron auto-reload for the change in the main or renderer source?

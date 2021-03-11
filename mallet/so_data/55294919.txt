@@ -1,1 +1,1 @@
-my question is if there are ani kind of diagram i could draw in order to visualis and electron / javascript application?i would need altern for the differ uml diagrams, like class or packag diagram but sinc js is prototype-bas and it not like java or c# i don't know what i could do.th onli one i might be abl to make is a sequenc diagram, but i should (probabl must) make other diagram as well.
+Uml / sequence / package / ... diagram alternative for JavaScript and Electron application?

@@ -1,1 +1,1 @@
-i am tri to open an eelectron app from the browser via uri ("openfoobar://paratmers")i did regist the protocol via .
+Handle and register protocol in electronjs

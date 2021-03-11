@@ -1,1 +1,1 @@
-i´m tri run three.j demo http://jsfiddle.net/hfj7gm6t/ into my polym app but the app show an error: com-model-viewer.html:33 uncaught typeerror: cannot read properti myview of undefin
+Polymer and three.js

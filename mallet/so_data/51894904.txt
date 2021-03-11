@@ -1,1 +1,1 @@
-what do i need: someth like react nativ image.querycache(), but work with browser cach (i'm work with electron, so chrome in this case).how doe this css properti i provid an url to and i'm wonder how it could be appli here.if it turn out a satisfactori solut doesn't exist, this kind of inform might be use as well :)
+How to get a quick answer whether an image is prefetched before attempting to download it

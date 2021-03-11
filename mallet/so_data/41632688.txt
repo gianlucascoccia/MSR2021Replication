@@ -1,1 +1,1 @@
-i'm use an electron boilerplate, from here: https://github.com/szwacz/electron-boilerplate/it use gulp-rollup to bundl the assets, and a dev server can be run with is?
+Errors with importing Select2 into Electron project

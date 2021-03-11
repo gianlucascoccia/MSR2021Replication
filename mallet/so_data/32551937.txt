@@ -1,1 +1,1 @@
-if window a in when i start, there have a alert window says: window1. how can let is call funcat in test2.j which is includ in index2.html, make the alert window say:window2?
+In nw.js(node-webkit), how node-main : node.js access any windows?

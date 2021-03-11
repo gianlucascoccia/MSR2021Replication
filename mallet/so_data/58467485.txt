@@ -1,1 +1,1 @@
-is there a way to chain event handler in react/javassript to creat more functionality?in the code below, in the div
+React and Electron, Chaining event handler

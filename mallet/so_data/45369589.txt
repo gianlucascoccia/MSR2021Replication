@@ -1,1 +1,1 @@
-i'v got a minim electron app setup on osx which work fine when run via command line but i'm unabl to use visual studio code to run in debug mode:ani help would be much appreciated.
+Electron/VSCode : Cannot connect to runtime process, timeout after 10000 m - (ECONNREFUSED)

@@ -1,1 +1,1 @@
-i'm work on a node.j app that use the "0.34.3" version of electron.th problem that i'm have is that when i tri to includ the electron modul in a render process as follow ani idea what up?thanks!
+Cannot find module 'electron'

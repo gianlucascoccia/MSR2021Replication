@@ -1,1 +1,1 @@
-i am build a set of e2e test with spectron and webdriverio for an electron app. i would like to access the browser menu bar. even just be abl to have spectron click on file and then new file would be great. thank for ani help!
+How do you access menu item in webdriverio (Spectron)?

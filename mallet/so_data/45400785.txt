@@ -1,1 +1,1 @@
-i am run this code, which should compar save webpag with the current live versions, but it seem to onli do so for the last entry:it seem to me that the code skip a part of the code while the for loop is running. i don't understand whi it is behav as such.
+For loop seems to skip some code

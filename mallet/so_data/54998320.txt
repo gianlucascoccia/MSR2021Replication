@@ -1,1 +1,1 @@
-in nwjs, i would like to print the second window which show up. i tri do this :&#xd;&#xd;&#xd;&#xd;&#xd;the script run normallly, until i click link insid nwjs frame, which open a new window (the second window).i want to print those second window, but the print preview alway show the first window.could someon help me?
+how to print child window in nwjs

@@ -1,1 +1,1 @@
-i am build a react / electron desktop applic with manual facebook login ( method the login dialog, but i need to detect this redirect and then read the access token out of the uri. i don't know how to do that (react newbe here).which should be the best approach?thank in advance.
+How to detect redirect from external URI opened from Electron desktop application

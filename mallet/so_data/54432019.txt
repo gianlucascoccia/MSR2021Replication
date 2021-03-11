@@ -1,1 +1,1 @@
-i'm look for a way to after instal my electron app instal also this "local database" but i don't want to use xampp... have anoth way ?
+Have any way to use MySQL a a installable process in PC?

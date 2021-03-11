@@ -1,1 +1,1 @@
-referenc this question i am use this bit of code to find the line number of the caller to my custom log function: line number. how can i generat this properly?
+How to get actual line # within source (for custom logging) in TypeScript

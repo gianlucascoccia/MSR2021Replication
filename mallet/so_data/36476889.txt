@@ -1,1 +1,1 @@
-i am work on an applic that need to save a configur file. the applic is go to be instal for all user so store the config in "/users/someuser/library/appl support/myapp/config.file" is not an option. logic would dictat that i should store it in the global "/library/appl support/" directory, but i don't have permiss to write to that directory. what is the standard convent for store file on the mac?
+Nodejs and Electron - Where to save file on OS X El Capitan

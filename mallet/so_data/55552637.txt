@@ -1,1 +1,1 @@
-i'm tri to generat a sprite-sheet dynam in easelj after trigger a event from the ipcmain to a window.th problem i'm have is that preloadjs/easelj trigger this error in the console:cannot read properti "getcontext" of undefinedit onli happen after i packag the app, not in dev mode, where everythingwork as expected.her my code from the windowthanks!
+Cannot read property "getContext" of undefined - electron

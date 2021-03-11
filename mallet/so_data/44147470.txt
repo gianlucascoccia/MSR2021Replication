@@ -1,1 +1,1 @@
-i am tri to packag my app with would be to implement the configur for this in a way that make my initi configur from abov work, becaus i think this is an intuit way to configur these parameters, use the command line to overrid them could still be an option, i guess.
+Electron Forge packaging configuration not working

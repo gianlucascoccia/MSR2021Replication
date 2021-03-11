@@ -1,1 +1,1 @@
-i'm have problem with get the first name and last name with electron and node js, i have the username, but i need first name and last name.imag examplei tried:note: this app is onli for windows.thanks!
+Get first and last name on Windows with Electron

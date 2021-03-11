@@ -1,1 +1,1 @@
-i'm use electron to develop a desktop app that must discov an app run on android devic use bonjour.i have it work with the packag bonjour download with:it is working, and it is save the ip of the devic in the array.now the problem is i have to wait until it find all the ip and work on that array. i'm not use to develop in this asynchron way in javascript, i have been tri with the npm q package, introduc the concept of promise, but i haven't been abl to make it work.how can i resolv this?
+electron: javascript wait for asynchronous

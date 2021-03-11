@@ -1,1 +1,1 @@
-i'd like to intercept certain http request and replac them with files. so i thought i could use to continu work as normal?
+How can we use electron.protocol.interceptFileProtocol with only certain paths, leaving other request untouched?

@@ -1,1 +1,1 @@
-i am look to spawn some child process in the background of an electron app to handl certain tasks. while i'm work on this, i'd like to see how it affect perform of the front end. is there a function i can run that would simul semi-heavi process for a node process? the end goal here is to make sure that i am build an app that has a snappi ui even when there are some background process that are under heavi load. i'v mess this up in the past and want to get a head start on make sure i don't repeat mistakes.
+Simulating heavy load in node/electron application

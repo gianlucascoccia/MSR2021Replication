@@ -1,1 +1,1 @@
-so i am build an electron and react app. i am use ghost-script to creat img of certain pdf file and i want to know how i would tell node.j to wait for the img to be creat befor bring up the window and chang the state in the app. these img are be use as src for a compon and when the compon tri to load the img it somewhat retain a broken state becaus the img src doesn't exist when the state updates.&#xd;&#xd;&#xd;&#xd;&#xd;
+How would I go about waiting for a child process to finish before telling Node.js to continue executing code?

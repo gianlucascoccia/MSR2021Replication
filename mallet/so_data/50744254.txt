@@ -1,1 +1,1 @@
-i am use
+Electron auto updater downloading multiple build

@@ -1,1 +1,1 @@
-i am face a problem when i want to read the valu of an input that have suggest from datalist, the valu that i get from the input is onli what i type with the keyboard not the select value, i'll give an exampl to explain better, for the html bellow, if i type on than i select the suggest which is 111 when i tri to read the valu of the input (document.getelementbyid(“num”).value) i get on instead of 111', ani suggest to fix it??&#xd;&#xd;&#xd;&#xd;&#xd;
+Electron input with datalist

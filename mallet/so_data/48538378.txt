@@ -1,1 +1,1 @@
-in develop env, gkm modul is work great. it can track my keypress event. but, when i build the app. gkm is not worked. what should i do? here my code.
+Electron with gkm module. After built gkm is not working

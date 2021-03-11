@@ -1,1 +1,1 @@
-i'v built express app with express-handlebar templat engin and it all work fine, but when i tri to run that app in electron.io, i get onli the content of the index.hb file, which is element.
+Node.js app with express-handlebars in Electron.io

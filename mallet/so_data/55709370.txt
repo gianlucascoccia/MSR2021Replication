@@ -1,1 +1,1 @@
-i'm use the "electron-printer" packag to raw print from my electron app. the document make it to the printer quee but it goe to error and the system show a "the printer couldn't print node print job" message. i'm attach my code for reference.
+The printer couldn't print node print job

@@ -1,1 +1,1 @@
-i have creat an electron desktop applic i need to make backend to insert data into the databas and retriev from databas actual some crud oper but i know java well. how can i configur java with electron js ?
+How to Use Java Backend for Electron Js with Mysql Database(any) or Firebase?

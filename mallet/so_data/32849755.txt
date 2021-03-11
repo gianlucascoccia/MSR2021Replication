@@ -1,1 +1,1 @@
-is it possibl to have bittorrent-like, central-server-less and from-and-to multi peer (other sever user that send or receiv file part from you) p2p file transfer in a modern web browser via webrtc api, especi in chromium, with not onli regard to electron atom apps, that packag with that web browser?can a popcorntim app be built with this api in electron platform and in ani of the modern web browsers?
+P2P file sharing with WebRTC API in browser and Electron Platform

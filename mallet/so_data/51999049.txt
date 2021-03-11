@@ -1,1 +1,1 @@
-i'm have a canva on which i have creat dynam some rectangl and when you hover over them i need to show an usernam that stored, i tri to do it like this but i didn't got the result that i desired. the rectangl are not html element so i can't use class or ids. this is the code that i tried:
+Canvas mouseover

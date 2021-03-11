@@ -1,1 +1,1 @@
-i have a button which onclick execut a javascript function. i want the function to execut as it get some valu like the usenam log in and redirect to his profile. but after execut the function and get the valu and befor redirect to the url of the profil i want to stop it and add some parameters. onc the paramet are added, the redirect can be allowed. how to do this with jquery?sampl code:onc this url is readi to redirect, i want to set some valu as querystr and then redirect to it destination.
+button onClick execute javascript function and stop before redirecting

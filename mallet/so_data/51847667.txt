@@ -1,1 +1,1 @@
-we'r look to develop an electronj app for particular websit autom at our desk job, which includ common task like login, form filling, report download etc.we'v tri basic tutori of electronjs, spectron, nightmarejs, puppet etc and all of them work fine separately, but veri less document (although open github issues) are avail on integr of each other.w want to achiev following:login state ( etc event in consol to perform action?
+How to automate ElectronJS app

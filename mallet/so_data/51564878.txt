@@ -1,1 +1,1 @@
-i use jqueri to get the path of out an html img element like this:
+How to convert string path with \ to \\?

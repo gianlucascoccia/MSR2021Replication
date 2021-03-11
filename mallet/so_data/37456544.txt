@@ -1,1 +1,1 @@
-i am creat a cooki in app.jsi need to access the data of cooki into render process. how to do it?
+ElectronJs: How to get the data of cookie in BrowserWindow that made in main process

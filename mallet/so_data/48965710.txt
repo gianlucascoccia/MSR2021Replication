@@ -1,1 +1,1 @@
-i'm tri to open pdf in electron app with electron-pdf-window. it work fine befor build but when i build app as instal .ex file for window and instal exe file on window 8.1 , it not show pdf window, i am use it through render process on click of anchor. ani ideas?her is my codeand i am call this function on click of anchor tag
+electron pdf window doesnt work after build

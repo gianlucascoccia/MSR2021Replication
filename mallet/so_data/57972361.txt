@@ -1,1 +1,1 @@
-how do i run this command on a window machine:
+How do i reference user root directory path on window machine

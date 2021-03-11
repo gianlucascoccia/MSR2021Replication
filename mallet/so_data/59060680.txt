@@ -1,1 +1,1 @@
-i'm tri to build an electron app with vuej use the electron-vu boilerplate. i have a mutat which updat part of the state base on the payload it receives. however, somewher between the action call and the mutation, the properti . i use strict mode, so there is no other function chang the valu outsid of the mutation.ed updat the console.logs() to display the properti direct instead of the object reference.
+Mutation payload change value by itself in vuex store mutation

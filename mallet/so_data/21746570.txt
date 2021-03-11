@@ -1,1 +1,1 @@
-suppos i have the follow app structure:, from a packag node-webkit app?
+Requiring/running JavaScript outside of node-webkit application

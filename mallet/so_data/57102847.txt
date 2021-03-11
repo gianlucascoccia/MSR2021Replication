@@ -1,1 +1,1 @@
-i'm build an applic with electron and angular that manipul excel files, but to do that, i'd like the user to be abl to drag and drop excel file into the app.i have a current implement that i got from here: nativ file drag &amp; dropanytim i tri to drag a file into the app, it show a cancel sign where the mous is at, and doesn't do ani of the consol log that i ad for the drag method (through angular).her the github page: exceleryth compon html look like this:
+How doe native drag and drop work on Electron + Angular 8?

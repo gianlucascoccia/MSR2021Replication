@@ -1,1 +1,1 @@
-i recent creat an electron/angular app which run the follow insid and the folder contain all the correct file (i.e. index.html, main.js, etc). has anyon seen someth similar with electron before? if so, ani clue as to what is happening?
+Electron loading html inside pre tag

@@ -1,1 +1,1 @@
-i have a browserwindow object that point to a website.now i want to execut script on this website, so i'm look for a method like window.ev in node-webkit, but i have not found. anyon know?thank in advance!
+How to execute script using BrowserWindow object in Electron?

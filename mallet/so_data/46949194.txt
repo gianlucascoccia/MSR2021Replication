@@ -1,1 +1,1 @@
-i need to know how to open new window which is offset a littl by the current window posit (first window will be open in the center)mi code are as follows:th code work fine, except that everi window is posit the same, in the center. i would like each new window to be offset a little.what the best way to achiev this?
+New Window Positioning in Electron

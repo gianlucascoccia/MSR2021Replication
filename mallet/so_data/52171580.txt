@@ -1,1 +1,1 @@
-i'd like to allow electron to start a second &#xd;&#xd;&#xd;
+Allow exactly two instance of Electron Main Process, but not more?

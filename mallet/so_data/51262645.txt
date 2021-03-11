@@ -1,1 +1,1 @@
-i am current tri to get round corner on an electron applic i'm making.i have tri near everi solut avail on-lin at the moment, but none of them make ani difference.how can i round the corner of my electron app?
+How to get rounded corner on an Electron app?

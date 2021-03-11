@@ -1,1 +1,1 @@
-in my current sinc it is my first time write code in pure javascript.thank you veri much!
+Equivalent of File.ReadLines(filepath) C# in Javascript

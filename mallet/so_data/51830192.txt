@@ -1,1 +1,1 @@
-i'm new to keycloak and have a hard time authent a desktop app written on electron. i look at the document that discuss the openid connect endpoint and then found a blog that walk through keycloak and postman and i was abl to get token from keycloak via this method.i'm pretti sure this is incorrect for a few reasons.how can i authent my electron app without run a client side web server to handl the redirects? there is an exampl for authent a web app, but doe anyon have a simpl exampl of how to authent an electron app against keycloak?
+Securing Electron app with Keycloak

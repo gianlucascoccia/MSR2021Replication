@@ -1,1 +1,1 @@
-i'm work on an electron app that heavili use the nodej request module. howev i need to add support for proxies. this look to be built into electron name in it net module.net look similar to the request module. is it possibl to substitut it with request? i.e. to replac request complet by net?
+Is it possible to substitute the requestjs module with electron's net module

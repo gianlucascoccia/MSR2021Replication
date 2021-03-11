@@ -1,1 +1,1 @@
-i'm tri out the basic tutori for node-webkit.th manifest includ option to make your app go fullscreen or even in kiosk mode, which is exact what i need.sadly, the app doe not open in fullscreen or kiosk mode no matter what i put in the manifest file.i'm on mac os, i download "node-webkit.app". i am compress my manifest.json and index.html into a "app.nw" zipfile, and then open that with the mac app. is there anyth i'm overlooking?mi manifest file:
+Kiosk mode in Node-webkit not working?

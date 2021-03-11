@@ -1,1 +1,1 @@
-i'm tri to sign the stock electron app. below is the script that i'm using. the issu is that gatekeep complain that the app ("electron") can't be open becaus the ident of the develop cannot be confirmed. whi is that?
+Why electron-osx-sign fails to produce a signed app recognised by Gatekeeper?

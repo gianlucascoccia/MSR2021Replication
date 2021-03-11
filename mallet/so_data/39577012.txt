@@ -1,1 +1,1 @@
-i am creat an electron desktop app, and i have code use spawn() with option detached: true. my purpos is to let the child process keep run even when the parent process terminated. (the parent process may termin before/dur child process run), it can onli run commands, ani code insid it (like fs function) doesn't work ani more.mi have a question is: despit of squirrel event, can the logic code like fs insid child process work after the node parent process terminate?
+Node.js child process with detached option

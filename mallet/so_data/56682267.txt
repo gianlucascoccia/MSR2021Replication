@@ -1,1 +1,1 @@
-after run is this a bug (becaus i am read similar error on github but these are close now)? or is there a way to repair or further forc the installation? i am pretti new to npm/ electron so it could just be that that how it normal and i lack experience, but it work fine on my window machine, so i was wondering. thank you for your help!
+MacOS Electron JS Installation Missing Path Link

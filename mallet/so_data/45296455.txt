@@ -1,1 +1,1 @@
-i am build an ? instead of have to reload it everi time becaus reus the same code in everi singl page doesn't seem to be the right way.i there a better practice? or ani advice?
+ElectronJS - How can I have a consistent navbar across all my electron pages?

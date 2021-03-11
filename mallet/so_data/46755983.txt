@@ -1,1 +1,1 @@
-i have set the window width and height at the time of it creation and now again i want to chang the width and height of the same window when i call the ipc main process.her is my code
+How to set the width and height of the current window in electron

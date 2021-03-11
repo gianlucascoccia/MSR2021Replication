@@ -1,1 +1,1 @@
-i'v spent about an hour read gist after repo after blog post, but can't seem to figur out how to do do this.i have a paradigms.th data i want to send is veri larg (eg. file upload between 50kb and 10mb).what the best way to do this? ani ani examples/tutori you may know about would be helpful. thanks!
+Electron: Communicate between BrowserWindow and rendered URL (nodeIntegration: false)

@@ -1,1 +1,1 @@
-i have api that has been built use express.js. i want to build a similar app use electron.js. is there ani way to use express api in electron without the need of rewrit everything?
+REST API inside electron

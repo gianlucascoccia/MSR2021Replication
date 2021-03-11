@@ -1,1 +1,1 @@
-i'm use electron-build to generat a .ex instal file to tri and view a reactj app. it not a creat react app generat react site, i'v just use parcelj to bundl and generat a build. the problem is that when i instal the electron app, i get a blank screen like the react app hasn't been bundl up with it. ani ideas?i'm build the react dist into file structure:
+How to load react app in electron-builder generated installer?

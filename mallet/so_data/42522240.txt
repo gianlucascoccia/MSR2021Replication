@@ -1,1 +1,1 @@
-if i use a node nativ addon in an electron app that will be use on mac and windows, do i need to do anyth special to ensur that the correct flavor of the add-on (mac or windows) is use in each build? i'm develop on windows, but user will also be run on mac. i'll build the output with electron-builder.thanks.
+Node Native AddOn in Electron Cross-Platform Use

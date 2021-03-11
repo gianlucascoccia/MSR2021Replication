@@ -1,1 +1,1 @@
-current i am develop a project which reli heavili on or whatev to use this option?
+Set keep_fnames in Electron + React Native project

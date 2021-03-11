@@ -1,1 +1,1 @@
-i current creat a cross platform desktop applic use electron. i wish to add analyt to view user metrics. when i tri to find for exist packag that provid metric info, i found electron-ga. the packag use ga to track user metric and to set it up i need to includ ga track id in my app. my question is, if i includ the track id in an electron app and distribut my app, everyon can look at the track id and steal it right?i would like to know if use this method is right?thank you.
+Is sharing Google Analytics tracking id safe?

@@ -1,1 +1,1 @@
-i want to test a websit on firefox and internet explor use nightmarejs. is there ani way that we can make nightmar work to test the app on firefox or ie? or is there a way by which we can emul electron browser with firefox or ie so that nightmar in turn can test on emul browsers?
+Testing application with NightmareJS on Internet Explorer & Firefox

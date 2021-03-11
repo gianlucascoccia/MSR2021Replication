@@ -1,1 +1,1 @@
-i am tri to run a check within a folder that will display onli one alert if there is ani other file than extens - .txt'here is my code:th issu that i am have is that say there were 10 ".txt" file in the folder, if i renam one of them to ".test" i would receiv 10 alerts. is there a way to as soon as the "dialog.showerrorbox" has been call prevent to for loop for continuing. i receiv the same amount of error no matter which file i chang the extens for.
+for loop continues to run even when "break" is used

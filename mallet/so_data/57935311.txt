@@ -1,1 +1,1 @@
-i am current tri to packag my node applic index.j and run it from the terminal, likeani idea on how to onli packag my app for execut in cli ?thank and greetings!
+Electron Package a command line application

@@ -1,1 +1,1 @@
-i want to execut the electron applic by .
+How to execute locally installed Node.js application by child_process.spawn()?

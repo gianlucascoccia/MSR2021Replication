@@ -1,1 +1,1 @@
-i want to build veri simpl electron app with screen share featur use webrtc (new stuff for me).how it works:w have two devic - a and b devic a is share it screendevic b can see the screen that devic a is sharingmi question is: do i need to setup ani backend service?becaus i can't find ani inform about it. which is weird becaus somehow the connect between devic must be established.
+electron screen sharing via WebRTC - how to establish connection?

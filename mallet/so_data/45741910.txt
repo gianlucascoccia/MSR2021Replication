@@ -1,1 +1,1 @@
-i have creat 2 window in main.jsani idea? thanks!
+Accesing one of the opened window from a controller

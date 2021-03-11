@@ -1,1 +1,1 @@
-i am use electron (node.j 7.4, chromium 51) with the chrome dev tool (with react and redux extensions)i can see the react code in the react tab, but when i set breakpoint in the jsx source, and (hit them) they are not proper mapped.i am use babel with inlin sourc maps, so i can see the output js (es2015 preset and react presets).i am not use a bundler (sinc this is an electron project)ha anyon els come across this?package.json
+react jsx debug in chrome dev tool

@@ -1,1 +1,1 @@
-in my electron app, i have ad menus and appcommand to allow for a lot of things. one being, that you can on osx?
+ElectronJS: Select app icon from Alt+Tab selection, what event fires?

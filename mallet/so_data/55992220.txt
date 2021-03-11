@@ -1,1 +1,1 @@
-i am creat an electron app and i have buffer data from an imag in the form:th imag is in buffer onli and doe not need to be display anywhere. the imag is fetch from a png file.
+Javascript how to binarize image data from buffer

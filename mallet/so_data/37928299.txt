@@ -1,1 +1,1 @@
-i have an electron app which control some devic over the network. i was wonder if there is a way to run this app on a ubuntu core comput and use the all as the gui so there is no window manag or anyth involved. on boot it would just start the app. is this possible? how would i go about do someth like that?
+Ubuntu Core and Electron

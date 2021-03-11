@@ -1,1 +1,1 @@
-i tri load and pass from a json file the x,i posit and width, height. here is my code work fine.settings.json{ "x" : "50", "y" : "50", "width" : "1200", "height" : "200", "maximized": "false"}
+Electron, new BrowserWindow load value

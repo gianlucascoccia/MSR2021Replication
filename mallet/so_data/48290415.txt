@@ -1,1 +1,1 @@
-so basic i wrote a simpl api where you can perform http post and http get on a nedb.mi problem howev is, that after post an entri (customer), the entri appear in the nedb file but when i use the get method it isn't returned.howev after restart the api it work as expect and the expect data is returned. but whi doe it have to restart in order to "refresh" the data?get-function:
+nedb post data appears only after restart

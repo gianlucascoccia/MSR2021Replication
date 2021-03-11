@@ -1,1 +1,1 @@
-so i'v built a window instal for my electron app use https://github.com/electron/grunt-electron-installer. i'm not sure how to launch my app on system start up, like when the user reboot their computer. i suspect it someth i need to do on but i can't find ani document on how to do so.id i would provid a menu option for the user to enable/dis this behaviour.
+Launching an Electron app on Windows restart

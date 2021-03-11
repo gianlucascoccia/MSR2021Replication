@@ -1,1 +1,1 @@
-i'm develop a desktop app on electron + vue 2 + webpack 2 + bootstrap 3. currently, all js code is bundl by webpack and is includ in the html as a singl file.index.html
+Webpack: How to separate UI from business logic in Electron app?

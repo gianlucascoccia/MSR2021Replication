@@ -1,1 +1,1 @@
-webdriverio suppli a doe not pick this up. it alway doubl click the center of a component.also there is no command like elementiddoubleclick`. and, action have not been implement yet.do anyon have an idea how i can doubl click on specif x y co-ordin within a component?
+Double click x y co-ordinate WebdriverIO

@@ -1,1 +1,1 @@
-i made an electron app that use the node.j packag pm2, a process manager. it all work as expect until the applic is packag use electron-packager. then, each instanc of the applic start a new instance. if i remov the instruction, everyth work as expect again. what go on?can pm2 not be use in packag applic on os x?
+Electron app with pm2 packaged for Mac respawns itself

@@ -1,1 +1,1 @@
-window 10, electron app use to work great, use node-canva lib. today, at long last updated:npm -> 2.15.9node -> 4.5.0electron-prebuilt -> 1.4.1then follow instruct to updat and rebuild the canva lib. all depend updated, instal canvas@1.5.0 and go back and forth for last few hours, i alway end up with the same error. am i do someth stupid?thank
+node-canvas fail after updating node.js and Electron

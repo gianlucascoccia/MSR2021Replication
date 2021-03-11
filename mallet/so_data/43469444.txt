@@ -1,1 +1,1 @@
-accord to the document (https://github.com/electron/electron/blob/master/docs/api/dialog.md) , i should be abl to chang the text on the confirm button use the confirm button is still shown as open instead of save'i'm in maco 10.12.4.can anyon help?thanks.
+buttonLabel option of electron dialog seems not working

@@ -1,1 +1,1 @@
-i want to authent user with custom url schema in which the link look like thisani help?
+Electron desktop app - load url by passing parameter - javascript

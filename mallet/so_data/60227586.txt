@@ -1,1 +1,1 @@
-i can see the "hello from renderer" alert, but not the "goodby from renderer" alert.run in window 10.and i can't see the "received!" alert, which i should see it the ipcrenderer.on(...) worked.index.j
+ipcRenderer not receiving message from main process

@@ -1,1 +1,1 @@
-i am use the electron framework and i notic that i can use require() on the client side without ad anyth like require.j or head.js.exampl front-end code:thank in advance.
+Electron - Why can I use require() on the client side

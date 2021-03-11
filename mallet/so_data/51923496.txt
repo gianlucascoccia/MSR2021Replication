@@ -1,1 +1,1 @@
-i am write an inventori manag applic use html, css, and javascript with electron. i have run into a bit of a roadblock. when i open a json file contain the data i want to use to popul the html tabl in my app, the file is open and handl process in the main.j which is the main process of my app. what i need to do is send the process javascript object to index.j (mi render process) to be abl to popul the html table.main.js:
+Send JavaScript Object from main process to renderer process to populate HTML Table Electron

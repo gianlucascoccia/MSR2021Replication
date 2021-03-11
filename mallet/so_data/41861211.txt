@@ -1,1 +1,1 @@
-i made a comput app use html, css and js but when i tri to convert that app to exe file use electron-packag it show me error cannot find modul electron-prebuilt from c://myapp/helloworld/'i am use windows.thi is the codeindex.html
+Electron-packager missing module 'electron-prebuilt'

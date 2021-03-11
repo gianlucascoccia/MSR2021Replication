@@ -1,1 +1,1 @@
-i have a record in databas like:how can i extract the id of this record and store it in a variable?
+How do I get the id of a particular record in database using NeDB?

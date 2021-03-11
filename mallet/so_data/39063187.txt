@@ -1,1 +1,1 @@
-i have an electron exampl applic that minim and maxim the applic window, and i would like to do the same in a react application. but how do i get the refer to the main applic window in my react component?mi main.j program contains:mi questions:how do i refer the "remote" from insid a react component?i there anoth way of referenc the main applic window?
+How to call minimize() and focus() in a React component?

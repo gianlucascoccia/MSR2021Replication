@@ -1,1 +1,1 @@
-my electron app need facebook login. howev there are 2 issu i am facing:facebook requir an oauth redirect uri, which doe not exist in the context of the desktop app.facebook login requir cookies.for the first issue, in dev mode i serv the html via a dev-serv (webpack), so i can kinda cheat by use the as redirect uri. however, i have no idea how i can ship this app in production.for the second issue, i tri to instal this [electron-cooki module[(https://www.npmjs.com/package/electron-cookies), but the issu is not resolved.
+Electron app with Facebook SDK

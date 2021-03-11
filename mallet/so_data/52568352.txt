@@ -1,1 +1,1 @@
-i am tri to grab json data from a pastebin link and serv it as a popup in my electron app, but when tri to return a axio request data, it come up undefined, also the console.log get execut earlier than the .then for some reason, i think this has someth to do with the request be async, but i haven't found a way to wait for the .then.code:
+Returning axios data is undefined

@@ -1,1 +1,1 @@
-i am test an electron app. i want it to grab imag from this website. that websit has a json file that has this code.how can i get those imag and put them in an img tag?so far i have this code:th problem is, that code doesn't do anything! so how can i grab an imag from the json file abov and put it into and img tag? (use nodej or vanilla javascript)
+Grab image from JSON file with NodeJS

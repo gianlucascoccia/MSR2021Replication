@@ -1,1 +1,1 @@
-everyonei am work on some sort of imag view applic use node-webkit. i made a function to read dir insid the given locat and search for the imag files(*.jpg and *.png). code i use is as follows: app.jsher i tri to load data use loadgun function. it hang the node webkit window. if i could know when the readdir function termin then i could do load the requir datas.if there is anoth way pleas do say.thank in advance.
+How to find out if reading dir is completed

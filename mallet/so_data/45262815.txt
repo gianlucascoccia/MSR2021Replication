@@ -1,1 +1,1 @@
-usual when i use
+Electron frame: false not working on Raspberry Pi 3 model B

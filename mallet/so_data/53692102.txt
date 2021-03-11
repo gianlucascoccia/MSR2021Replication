@@ -1,1 +1,1 @@
-i am work on chrome extens in an electron application. as per the documentation, i want to run each content script in a separ isol context use electron is there ani way to access node and electron modul in isol world other than 999?
+Access node and electron module in the isolated world

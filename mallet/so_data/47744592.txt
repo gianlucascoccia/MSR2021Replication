@@ -1,1 +1,1 @@
-the follow code can use the f11 hot key, so that the browser window full screen, how to achiev the second press the f11 hot key, restor the origin window size?&#xd;&#xd;&#xd;&#xd;&#xd;
+NW.js How to make F11 hot key to switch between full screen window and standard window?

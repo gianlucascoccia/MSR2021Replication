@@ -1,1 +1,1 @@
-i'm current run into a problem tri to get a smooth animation.i'm use vue + electron, with the main process send data to the render process at about 16-33ms (30-60fps). when i receiv the data in my component, i updat the data properti and it is bound to the style properti of the element. this doe work, but there quit a bit of jitter. i'm curious if there a better way to handl this. is there someth similar to requestanimationframe()? thank you.simplifi example:
+Best way to animate a constant (unknown) data flow with Vue.js?

@@ -1,1 +1,1 @@
-i have an angular applic and now a desktop version of it is also needed. i manag it to run the applic in electron and everyth work as expected.but the local doe not work. in the electron- applic i onli see the localization- key which point to the actual translat in the local files.i main translat the text in angular like this:and the translat as json-fil are base in assets/i18n/do someon has an idea how to get the local work?
+Angular + Electron with ngx-translate

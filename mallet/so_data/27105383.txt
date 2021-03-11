@@ -1,1 +1,1 @@
-i am work on a node-webkit app and am wonder the best way to push updat content to it.for exampl say i have files:index.html 200mbmovie.mp4 image1.jpg image2.jpg.now assum i want to push new content to the node-webkit my initi thought is, send a zip file over, unzip etc. this most like isn't the best solut becaus i dont want to send a 200mbmovie.mp4 over in a zip packag everytim (on if it been updated).i am look for a simpl practic solution. ani guidanc would be great appreciated!cheers,
+Best method to update node-webkit content

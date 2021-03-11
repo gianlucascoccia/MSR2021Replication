@@ -1,1 +1,1 @@
-i creat my project with
+Electron reactjs app show empty page after reloading if user navigate to other route

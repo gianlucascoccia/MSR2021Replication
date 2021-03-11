@@ -1,1 +1,1 @@
-i am creat a nodej desktop applic use node-webkit and right now use mongodb as a database.i want to distribut it as an execut where user will be abl to use the applic without instal the databas by util their own copi of local db.is there a way i can make a local copi for their db dure the installation.if it is not possibl in mongodb, what other db should i use?
+Distributable database with my application

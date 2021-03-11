@@ -1,1 +1,1 @@
-i have my express app readi but i need to run it as an electron app.mi app.j file is someth like this:how can i run this code in electron?
+How to use express in electron app

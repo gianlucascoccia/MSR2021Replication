@@ -1,1 +1,1 @@
-is there ani specif folder where i can store my file so that the app can use it later after building? like meteor has a privat folder, is there ani folder for node webkit?
+Where can I Store json file for use after building the app in node-webkit?

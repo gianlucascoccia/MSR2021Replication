@@ -1,1 +1,1 @@
-in my electron app i have a button that say "upload contract".when click it look from the store contract filenam ie. i can't use form upload in the app (just the button to upload without open a dialog to select file) i onli have the filenam to the file.thanks.
+In electron, how to upload a file from it's full filename

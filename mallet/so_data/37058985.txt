@@ -1,1 +1,1 @@
-i'm write a local music stream app use node and nodewebkit. in my app i scan the music folder for ani directories, load the album art, and then display the art in html. however, the logic to detect the end of
+Optimal way for stacking asynchronous callback event in Nodejs

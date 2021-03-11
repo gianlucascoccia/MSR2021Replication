@@ -1,1 +1,1 @@
-i am use nobl bluetooth librari and it accept onli buffer type while write to write characteristics, whenev i tri to creat buffer use hexadecim but it automat get convert to decim valu and henc my bluetooth devic is not understand the packet sent.convert hexadecim to string is not an option as my bluetooth devic expect onli hexadecim valu
+Buffer automatically converting hexadecimal to decimal

@@ -1,1 +1,1 @@
-first of i have a class of drug declared:
+Array of instance becomes inaccessible out of scope

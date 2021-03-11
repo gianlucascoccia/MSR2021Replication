@@ -1,1 +1,1 @@
-i have creat an , which is solv my issue, but i cant find ani solut for mac
+Remove app data on uninstall on mac in Electron j

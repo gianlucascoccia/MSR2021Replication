@@ -1,1 +1,1 @@
-i have an angular 7 app which get input (phone number and message) from user to send sms use electron serialport.i want to encod phone number and messag in ucs2. how can i convert it in angular 7. i am not abl to find ani guid about convert to ucs2i have tri https://maketips.net/tip/239/convert-to-ucs2-and-from-ucs2-in-javascriptbut i am not abl to includ it proper as i am newbee.
+How to convert input from user to UCS2 in angular 7 and Send Msg through Usb Gsm Modem)

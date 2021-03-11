@@ -1,1 +1,1 @@
-i read the docs, and i have enabl node integration:how do we make it work?
+How to get node integration working in an Electron Web Worker?

@@ -1,1 +1,1 @@
-build a first app with
+Run nw app after node-webkit-builder

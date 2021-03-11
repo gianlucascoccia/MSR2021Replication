@@ -1,1 +1,1 @@
-i am open some messag box with electron for example, i would like to close last messag box when a new one opens, or just not allow open next messag box if one is alreadi open.ani form help would be appreciated.
+How to prevent multiple dialog box in electron

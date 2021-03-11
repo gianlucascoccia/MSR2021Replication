@@ -1,1 +1,1 @@
-i am new to electron and i am tri to build a simpl app that includ threejs, bootstrap, and jquery.i am have all kind of issues.her is my i get back jquery.noth els works. bootstrap is not render css at all, threej is not defin in the console.
+Simple Electron ThreeJS/Bootstrap/JQuery App not woking

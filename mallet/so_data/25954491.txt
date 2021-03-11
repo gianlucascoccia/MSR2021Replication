@@ -1,1 +1,1 @@
-i'm work with
+node-webkit Error: please install sqlite3 package manually

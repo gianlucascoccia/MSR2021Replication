@@ -1,1 +1,1 @@
-cocossd load function is not load api from googl on nodej electron base applicationpath = "https://storage.googleapis.com/tfjs-models/savedmodel/ssd_mobilenet_v1/model.json", requestinit = {}typeerror: fail to execut fetch on window': illeg invoc
+TypeError: Failed to execute 'fetch' on 'Window': Illegal invocation on Tensorflow model API

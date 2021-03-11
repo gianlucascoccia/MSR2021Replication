@@ -1,1 +1,1 @@
-edit: i need to do this live. i can't wait until the stream ends.i get ?
+Faster MediaStream ImageCapture (read medium stream a buffer in nodejs)

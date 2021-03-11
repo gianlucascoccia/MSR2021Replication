@@ -1,1 +1,1 @@
-i am search for hour now, on how to pass a variabl to a newli open window use node-webkit.th task is pretti simpl (like http post), but there is no word about this, in the nwj (node-webkit) documentation.cod i use to open new windows:thanks!
+Passing variable to a newly opened window - nwj (node-webkit)

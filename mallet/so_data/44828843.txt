@@ -1,1 +1,1 @@
-perhap i'm be stupid but i can't seem to find ani document on how to get the startup argument for an electron app. my scenario is someth like this:right-click file in window exploreropen with -> my electron appelectron app open and can work with the filei can get the electron app to open, but how do i work with the file that was right-clicked?
+How to get the argument for opening file with electron app

@@ -1,1 +1,1 @@
-i am current use csv-write-stream to write someth to a csv file:i like how easi this is. however, this alway creat a new file. how could i append someth to this file? could i even use the same library?
+Append to a csv file in nodejs (using csv-write-stream)

@@ -1,1 +1,1 @@
-i want to open a second window onclick with content from a div within the html from the first window. i got following: main.j | second window&#xd;&#xd;&#xd;&#xd;&#xd;it works, howev the whole html content get shown. is there a way so it load onli the content from the #category-add-cont div?
+Electron - How to display a child window with content from a div?

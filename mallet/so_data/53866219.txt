@@ -1,1 +1,1 @@
-i am tri to get javascript i have written into my electron app. at the moment i am struggl to get anyth to work.i want the button to just chang the page to show the date. this is in the html.i just can't get the javascript to run. i have tri use it as extern file as well as tri to write the function outsid of the boot function.i have also tri the requir js thing but i think i implement it wrong.
+Where to put the code in Electron Apps to make JavaScript work?

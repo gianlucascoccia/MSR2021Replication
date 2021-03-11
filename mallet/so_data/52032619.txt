@@ -1,1 +1,1 @@
-i am tri to instal electron global , but i am face this annoy error messag i have tri sever thing includ run this with sudo and chang npm configur accredit to this question on stackoverflowbut noth work for meif anybodi need the log for this problem you can find it here hereps: my os is ubuntu 18.04
+can't install electron globally

@@ -1,1 +1,1 @@
-curio regard product method. my python file success in root electron under develop mode.cod to call the pythonmi electron(production) stuck there without give ani output. in develop perfect.
+nodejs - python file not exported in production?

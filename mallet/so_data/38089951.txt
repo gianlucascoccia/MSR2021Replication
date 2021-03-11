@@ -1,1 +1,1 @@
-i tri to open a new window in node webkit but in the background consol it throw the follow error: deprecationwarning: root is deprecated, use global'i am use nwjs v0.15.3 but this problem is not mention in their known issues.below is my sampl code:
+How to fix DeprecationWarning: 'root' is deprecated, use 'global'

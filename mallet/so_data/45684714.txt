@@ -1,1 +1,1 @@
-i am use ani idea whi this is happening?
+Electron app won't install if name is different than product name

@@ -1,1 +1,1 @@
-i want to use activex in electron.i instal
+How to use x86 dll file with ActiveXObject of winax in Electron

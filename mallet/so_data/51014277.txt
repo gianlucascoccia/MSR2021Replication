@@ -1,1 +1,1 @@
-i'd like to creat an imag (say a nativeimage) from a js array contain raw pixel rgb values.i tri creat a nativeimag like this: call expect the buffer to contain png encod data (i couldn't realli tell from the api ref).i there a way to go direct from pixel valu to an image?
+Programmatically creating an image in Electron

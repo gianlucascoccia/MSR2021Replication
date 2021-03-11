@@ -1,1 +1,1 @@
-i have electron applic with a hundr of test on c# by use selenium and webdriver. webdriv start exe file and connect to the application. but now develop has ad load screen in new window that show befor main window and webdriv connect onli to first one. how to setup webdriv to connect to the second window? is it possibl or develop should add new configur for autotest that won't show load screen?
+How to test multi-window Electron application with Selenium WebDriver

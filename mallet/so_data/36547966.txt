@@ -1,1 +1,1 @@
-i'm new in electron and tri to load new page from i don't what i'm do wrong but i'm total stuck over here. so ani kind of help will be appreciated.
+load page from controller in electron j

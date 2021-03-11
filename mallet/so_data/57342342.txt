@@ -1,1 +1,1 @@
-use vue-grid-layout to popul grid-items/til which will each be a step that our system will run. i am abl to dynam add new steps', howev i have onli been abl to success remov step by use pop() to remov the last item from the array in which grid-item are. i want to place aif anyon could be of help, i would appreci it! i have been learn js on the go with this project, so if anyon has some tip pleas let me know! thank
+How to dynamically remove grid-items using Vue-Grid-Layout - Need to achieve similar result to Vue-Dynamic-Grid

@@ -1,1 +1,1 @@
-how can i creat canva in the main process?i want to do https://github.com/electron/electron/issues/3148#issuecomment-153507703 but have the error on document is not defin (13 line)
+Create canvas on main process electron

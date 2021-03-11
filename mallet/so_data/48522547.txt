@@ -1,1 +1,1 @@
-i recent tri to organ my code by export function into differ files, so my main file stay clean. to do so i import the other js file in my main file with, so i can call the function in my main file. is it is possibl to call a function, that is defin in the main file, from the "request.js" file? unfortun i can't just return the inform back to the main file, becaus i am use callbacks.
+Node.js | Call function from original file in imported file

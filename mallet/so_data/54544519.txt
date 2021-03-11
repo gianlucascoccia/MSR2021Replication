@@ -1,1 +1,1 @@
-i'm make an applic which i need to give access to the file system (fs) module, howev even with is enabled.
+Electron "require is not defined"

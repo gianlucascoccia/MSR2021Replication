@@ -1,1 +1,1 @@
-i want to creat a desktop applic use electron framework.appl will be have a front-end use react and back-end use express and mysql .so my basic queri iswhat is better approach both back-end and front-end in oneappl or as a differ application.how to run back-end express server in cluster if both front-endback-end in one application.
+Electron express server in cluster mode

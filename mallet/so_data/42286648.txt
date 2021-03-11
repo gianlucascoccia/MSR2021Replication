@@ -1,1 +1,1 @@
-i made an electron app and want to setup auto-upd on window and macos. the problem is that electron-updat requir a certificate, and i don't have the money to get a certificate. is there a way to set up electron-updat without a certificate?
+Is it possible to auto-update Electron apps without a certificate?

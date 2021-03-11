@@ -1,1 +1,1 @@
-i use nedb in my nodej app , first of my code is :everyth is ok with local host , and databas will save everi thick in my db file . (databas save after server restarting)but in heroku server , databas is empti !!!i think databas save as in-memori ! (not in my db file !!) whi ?!i want keep my databas in my db file in heroku server !
+NedB on heroku dont keep db file

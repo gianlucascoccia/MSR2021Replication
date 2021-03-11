@@ -1,1 +1,1 @@
-i know that from javascript it is not possibl to get or set window environ variables. i have deploy a electron app as a execut (as suggest here), is it possibl now to get or modifi a window enviro variable. if it is can someon point me in the right direct ?
+Electron get or set Environment variable in Windows?

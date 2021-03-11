@@ -1,1 +1,1 @@
-i have look everywher to tri and fix this but i have been stuck for the last hour. thank you
+Electron Require is Not Defined

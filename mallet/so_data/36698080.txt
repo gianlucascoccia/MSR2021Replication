@@ -1,1 +1,1 @@
-i am tri to requir a modul in a guest page (angular controller). when the applic use an older version of node (0.30.5) it work perfect well. howev i'v had to upgrad electron to the latest version (0.37.6), and ive updat all use of . so if anyon know whi it doesn't pass on the valu or what i need to do to set it, i would appreci ani information.
+Parent view not setting global variable on <webview> in Electron after updating

@@ -1,1 +1,1 @@
-is there a way to interact with the browser consol to read the consol messages?and the second question is, is there a way to get the html code of the page in webview, at the right time.not interaction, but simpli load the code to read, then to count the number of element with a certain class.it need to be done some time after the applic start or by press the button.i will be veri grate if you can help!
+Some with Webview in Electron

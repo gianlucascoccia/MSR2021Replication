@@ -1,1 +1,1 @@
-i am tri to instal electron in my project, but it seem that there is a conflict with sqlite3 and i have not been abl to solv it. here is the log. i tri this:"scripts": { "postinstall": "install-app-deps" ...}npm instal --save-dev electron-buildernpm instal --save sqlite3npm run postinstal
+PROBLEM WITH ELECTRON AND SQLITE3 INSTALL

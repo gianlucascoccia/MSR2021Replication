@@ -1,1 +1,1 @@
-i'v set my electron app to auto-start on windows: but, still when i uninstal my app the entri is left in the registry. how to remov this entry?
+nsis uninstaller not deleting registry for electron app - nsh script

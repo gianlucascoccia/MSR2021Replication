@@ -1,1 +1,1 @@
-i'm work on an electron app and within the app, i execut shell command use command run success with no errors.what could be the issue?
+npm: command not found when executing command in Electron app

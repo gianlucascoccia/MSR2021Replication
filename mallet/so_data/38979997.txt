@@ -1,1 +1,1 @@
-i have my api with dingo/laravel. normal work without problem for mobil (android). my authcontroller@token in dingo/laravel:it request normal return valid token. it ok. how about expir token? what should i do?maybe, kind of like ajaxsetup for all request before.i need to automat refresh token when token expires. what do you recommend?
+How to use token refresh in ranm8/requestify?

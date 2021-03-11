@@ -1,1 +1,1 @@
-i want to post the version of my app but instead i got this weird error. doe someon see what wrong, becaus i can't see it. (node.j is included)error: unexpect token &lt;
+How do I post App version with JS electron

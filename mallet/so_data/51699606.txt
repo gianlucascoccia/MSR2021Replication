@@ -1,1 +1,1 @@
-i am use the node js request modul to send a post request to a website. after look at the websit request it is use "form data" as a payload. the content type for the page is "application/x-www-form-urlencoded". my script is be run on a button click in an electron app. a sampl of my code is as follows:
+How do I get around the error TypeError: self._form.on is not a function?

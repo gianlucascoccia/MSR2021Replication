@@ -1,1 +1,1 @@
-i'm tri to packag an angular 5 cli app use electron-packager.th app build and open with the '}
+Angular 5 Electron-Packager fails at 'npm prune --production'

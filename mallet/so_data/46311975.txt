@@ -1,1 +1,1 @@
-use electron/chromium getmediastream api result in a black captur when program like webex and gotomeet have screen/appl captur running. ani idea how to get around this?
+getMediaStream interference from WebConferencing tool (Webex, GotoMeeting, etc.)

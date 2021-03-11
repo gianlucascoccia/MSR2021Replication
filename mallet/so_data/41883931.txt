@@ -1,1 +1,1 @@
-i notic that atom is build with electron and it has a shell command apm within the app package.i want to borrow this idea. howev there is no document about how to do this.anybodi can help?
+How to release a shell command within an Electron package

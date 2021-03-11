@@ -1,1 +1,1 @@
-node-webkit seem to support debug in a veri conveni way, as you can easili open the devtool by click on the toolbar.us that approach i can easili debug ani javascript that is insid my html page, and even though i have not test it, i assum i can also debug other script load via the tradit browser way, i.e. , with the same results.do you know whether debug modul is support by node-webkit? if so, how? otherwise, is there some use workaround that i can use while still be abl to make use of modules?
+Can I debug module in node-webkit loaded via require?

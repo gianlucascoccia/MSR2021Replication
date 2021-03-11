@@ -1,1 +1,1 @@
-i am tri to make an electron app which open the user document in the default browser. i would like to open the document with the is there someway i can fix this? or am i use the packag wrong and if so how can i use it or is there an alternative?
+Uncaught EvalError when using NPM live-server within Electron app

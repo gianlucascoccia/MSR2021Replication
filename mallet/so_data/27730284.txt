@@ -1,1 +1,1 @@
-is there ani way to show a frame less splash screen in node-webkit application? my current package.json look like below
+Use a frame le splash screen (no tittlebar and menubar ) in AngularJS node-webkit application

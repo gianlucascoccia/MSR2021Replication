@@ -1,1 +1,1 @@
-i'm attempt to packag my angular app on window 10, but i receiv the error and i'm not sure how to go about fix it:i am run the command:thi is my file structure:
+Cannot find module './installers/setupEvents' with Electron-Winstaller

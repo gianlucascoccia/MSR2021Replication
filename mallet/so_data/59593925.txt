@@ -1,1 +1,1 @@
-i am current creat a multi-brows emul software. this softwar serv as a way to emul multipl user through a singl machine.i want to be abl to use electron browser window function to spawn chromium web browser instances. is there support for this? i am awar that i could simpli spawn sub processes, but nativ support would be much more convenient. thanks!
+Is there a way to spawn electron Browser Windows that are just chromium browsers?

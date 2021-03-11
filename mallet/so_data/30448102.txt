@@ -1,1 +1,1 @@
-i have written a node webkit applic that also work as a window manager.i want to achiev the follow on ubuntu on boot:bypass ubuntu load screen (skip it or custom it)start and display my app instead of and befor anyth elsei that possible? and if yes how can it be achieved? thanks.
+Node webkit window manager on boot

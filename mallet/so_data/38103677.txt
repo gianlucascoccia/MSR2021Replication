@@ -1,1 +1,1 @@
-i'm creat an app with electron (the github instrument to creat app with html and node.js).thi app will be use by some comput that they aren't connect to internet.i need to show a map and colloc marker on it (i found leaflet), but all map servic requir internet.with open street map i can export an osm file but i can't find a way to render it into leaflet, becaus the onli librari for node (mapbox-gl-native-master) who do it requir c++11 and it give me error in installation:
+Leaflet map offline

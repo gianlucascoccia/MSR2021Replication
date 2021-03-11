@@ -1,1 +1,1 @@
-i'm use electron w/ webpack and tri to add (inflex indexeddb store) as altern for sqlite3.
+Electron.remote.require('sqlite3') query performance 5x slower, callback 500x slower

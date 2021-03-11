@@ -1,1 +1,1 @@
-i'm tri to set my electron app as a default protocol client for magnet: in ubuntu linux. but the default protocol handler, for now, is
+Override default protocol client for Electron App in Linux

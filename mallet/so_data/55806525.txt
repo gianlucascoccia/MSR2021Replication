@@ -1,1 +1,1 @@
-i'm use electron 4.0.0 version. maco hight sierra 10.13.3.while is work fine on windows, when run on mac the app get stuck.no error is be thrown / print to consol - just stuck (on app manual termin can shut down electron in this case).didn't see anyth spacial in electron api doc and noth in the web about this kind of issu on mac.what could be the reason ?did i miss a limit regard support oss ?
+Electron 4.0.0 win.setEnabled on mac - doesn’t work

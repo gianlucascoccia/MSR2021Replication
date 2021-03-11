@@ -1,1 +1,1 @@
-i'm use various es6 syntax (such as ani reason whi a packaged/distribut version of my applic doe not support es6/react features?
+ES6 is not supported after Electron packaging

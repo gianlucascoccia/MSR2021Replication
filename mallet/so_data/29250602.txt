@@ -1,1 +1,1 @@
-im build a app/sit use nw.js (known as node-webkit) the doc say that under linux notifik
+NW.js Notification onclick dont execute on window

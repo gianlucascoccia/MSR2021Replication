@@ -1,1 +1,1 @@
-below code work fine in browser. but when use in electron the event sourc not closing.
+HTML EventSource not closing in electron app

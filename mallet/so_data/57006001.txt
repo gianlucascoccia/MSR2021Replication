@@ -1,1 +1,1 @@
-i'v an electron applic with "electron": "^5.0.6","electron-builder": "^21.0.15"i build it on my mac, it work and i can launch app file.i send it to an other mac. when i launch the applic i'v an error, applic can't launch becaus appl can't see if there are malwar inside, need updat application.but electron and electron builder is up to date and applic is signin. i'v done npm updat and yarn upgrade.wher is the problem ? i can't see same error on web (origin error is in french si i hav'nt exact wording).thank a lot !
+Application can't launch on mac o

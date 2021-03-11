@@ -1,1 +1,1 @@
-i am tri to find a way of make my comput (a mac) sleep programmat from an electron / angular application. ani idea ?
+Forcing your mac or pc to sleep

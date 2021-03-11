@@ -1,1 +1,1 @@
-i got the follow error when i was tri to run electron.i look through some similar report cases, it seem like i need to use node version prior to 10.but i tri 3 node versions: v8.16.1 (npm v6.4.1), v10.17.0 (npm v6.11.3), v13.2.0 (npm v6.13.1).all return me the same error.ha anyon face this before?ani help would be appreciated.
+"ReferenceError: primordials is not defined" when trying to run electron

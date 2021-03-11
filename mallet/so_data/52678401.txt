@@ -1,1 +1,1 @@
-i'v been tri to convert a small webapp into an electron application. it work perfectly, except i need to load a bunch of file (.html) into the main dom. in the webapp, i just use kind regard
+Easy way to load local html file in electron

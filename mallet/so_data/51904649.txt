@@ -1,1 +1,1 @@
-this is similar to this electron uncaught error: a dynam link librari (dll) initi routin failedi'v tri everyth suggest in this post and anyth els i can findi'v instal electron-rebuild and ad "rebuild": "electron-rebuild -f -w sqlite3 -v 1.7"this is run without errors. i tri "postinstall": "install-app-deps",thi isn't helping..anyth els to try? the file are in there..th
+Electron running SQLlite 3 on Windows - A dynamic link library (DLL) initialization routine failed

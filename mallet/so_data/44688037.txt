@@ -1,1 +1,1 @@
-current i have an instal built with squirrel.windows. on uninstall, the applic directori under: i know the nsis instal provid by electron-build proper clean up the app data directory, but i cannot use it as i need a msi to support machin wide instal via group polici management. ani help is appreciated!
+Electron Squirrel.Windows: How can I remove local app data on uninstall?

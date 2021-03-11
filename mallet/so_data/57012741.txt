@@ -1,1 +1,1 @@
-i'm develop electron app and use firebas database. i creat databas user by user but save data for everyone. i want to save data also separ for the user id.i can creat a user under their user id but cannot write their data under their user ids.thi part cannot creat data under it user id.th error is user is not defined.
+Saving data for only one user with using Firebase

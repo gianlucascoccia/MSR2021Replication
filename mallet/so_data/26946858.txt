@@ -1,1 +1,1 @@
-fair new to node-webkit, so i'm still figur out how everyth works...i have some log in my app:th numer output within the bracket might be useful, but i don't know how to interpret it. the sourc info is fine. but i'd realli like the print string to be printf-styl formatted, rather than shown as individu arguments.so, is there a way to get stdout to be format either differently, or to call a custom output function of some sort so i can output the inform i want?
+Trying to get node-webkit console output formatted on terminal

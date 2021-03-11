@@ -1,1 +1,1 @@
-i would like to say is first i am not good at programming, but i want to get better, so i start a fun project. to shorten this i have read that electron allow user to modifi file locally, which is all my app will be doing. replac strings.so i gave electron a shot. i have a file save on my desktop. i want to replac the triangle=2 to triangle=3myfile.txt
+How can I modify a local file?

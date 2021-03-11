@@ -1,1 +1,1 @@
-so it common knowledg that if you load like 100 font from, say, googl fonts, then it will probabl caus some load perform issu on your site. but it not total clear to me if almost all of that perform hit is just from download from google, or if it partial due to just have to pars through the various fonts.i'm current build an electron app meant to be run locally. if i packag font within the app and load them, will i have to worri about ani load time from parsing/load the font files?
+In a locally run web app, is there any performance hit from loading fonts?

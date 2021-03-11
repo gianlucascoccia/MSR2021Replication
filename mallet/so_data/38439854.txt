@@ -1,1 +1,1 @@
-i am have a huge headach from tri to get the zmq node bind work with electron, especi on windows. i am work on window 7 and ubuntu 16.04 and both of them have two separ issues.on windows, i get an error when i tri to do has anyon els been abl to get electron + zmq working? if so, what is your develop enviro like? thanks.
+Is ZeroMQ for Node.js compatible with Electron?

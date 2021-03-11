@@ -1,1 +1,1 @@
-i want to build a chess game with electron, but it seem doesn't work.consol return noth and noth is drawn on the canva after i run the function refresh.gc is the context of canva file tree:-asset ---images-----chess-xxx.svg-script---controller.js---view-----chess.js-----renderer.jsher the code:chess.j
+Can't draw SVG on canvas

@@ -1,1 +1,1 @@
-i'm tri to make a twitch bot use electron and the tmi.j repositori and i want the program to save the data (e.g. username, oauth token etc.) in a .json file. when i reopen my app it read the file instant and creat an option object with all the set (for the everyth is work fine so i assum the client on chat event at the bottom is somehow call earlier than the .json file is read and the variabl are set.ani idea how i could fix that?
+variable not global or file system readfile is too slow

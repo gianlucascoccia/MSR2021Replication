@@ -1,1 +1,1 @@
-the setuplook at the browserwindow event docs, the );this window requir differ handling, depend on whether i am close the window programmatically, or manual close it (quit the app entir if use the "x", or do some stuff otherwise).so, how do i...how can i differenti between the two?
+Electron - Catch when window is closed using the "x" button

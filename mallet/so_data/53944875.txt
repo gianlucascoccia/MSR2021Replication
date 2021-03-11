@@ -1,1 +1,1 @@
-i am work on a rail project and i am tri to figur out if i can use electron to creat a desktop app or if there is anoth way to turn a rail app into a desktop app.
+Can I build an electron app from rail app?

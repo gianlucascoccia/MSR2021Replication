@@ -1,1 +1,1 @@
-so i want to develop a desktop applic use electron. as i want to practic bootstrap-vu too, i chose the electron-vu boilerpl which seem realli simpl to use and cool. to creat a new project with electron-vue, i ran to "refresh" the webpack configur after the modification, but this doesn't chang anything. i don't know what to do, really. i would be glad if someon could help me on this one, becaus i don't understand at all what is happening.thank in advanc !
+Electron-Bootstrap-Vue doesn't want to show my toast, and throw me error I don't understand

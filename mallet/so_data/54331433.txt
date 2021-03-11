@@ -1,1 +1,1 @@
-let me prefac this question with the current setup i have:index.html element in the dom, and therefor no text is ad on line 3.i don't understand this behavior, whi am i not abl to access all the dom api within the render process?
+Unable to access some DOM method in Electron renderer process

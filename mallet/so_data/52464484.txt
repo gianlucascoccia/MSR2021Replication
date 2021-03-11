@@ -1,1 +1,1 @@
-i have the follow simpl html:&#xd;&#xd;‌so you can see the line number is still be copi to the clipboard except the first line number. ani idea on what go on? thank you!
+user-select:'none' Not working on electron

@@ -1,1 +1,1 @@
-i'm wondering, how can we creat a background process which notifi user (even after termin the app)?i'v tri creat a window with , but it can't be initi without user gesture.
+Creating a Background Process?

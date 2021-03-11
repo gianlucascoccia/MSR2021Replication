@@ -1,1 +1,1 @@
-i'm not familiar with backbone.js. current develop a nw.js app where i have to emb an exist app that was built via backbone.i do not want to run a local webserv just to use .fetch method if there are alternatives. i can easili read the file with node fs package.her is the code; chromium arg but fetch still doesn't work.
+Load model from JSON on backbone

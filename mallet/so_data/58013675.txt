@@ -1,1 +1,1 @@
-i have a electron + react app that is work on port 3000. when i call the app.quit method from electron start.j file, it exit from the electron but i can still see that 0.0.0.0:3000 is in listen state from netstat -ao.i am work on window 10 and i tri app.exit(0) from electron file, howev react app is still reachabl from browser and netstat -ao show 0.0.0.0:3000 in listen state.
+How to Close React App on Electron App Quit

@@ -1,1 +1,1 @@
-how can i get a datastor with nedb use typescrip class syntax?wher should i creat and instanti my datastore?
+NeDB + Typescript

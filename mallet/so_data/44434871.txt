@@ -1,1 +1,1 @@
-i tri index.j with follow lines:but the window which get pop is not show hello in it:
+Window is not showing any text

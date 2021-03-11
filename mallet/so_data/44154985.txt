@@ -1,1 +1,1 @@
-in the document for electron it states: in web pages, call nativ gui relat api is not allowedi don't understand what is meant by "nativ gui relat apis". if i creat a web page in electron and add jqueri and then manipul some element on the page, this works. i don't have to call back to the main process to perform ui updates. doe "nativ gui relat apis" refer to someth much more lower level (such as some api that is not base on javascript)?
+Calling native APIs in Electron

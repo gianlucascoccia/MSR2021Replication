@@ -1,1 +1,1 @@
-current scratch my head on a tough one. i'm just start with electron and so far so good. however, when the window get hidden (it a popup show with a shortcut, that goe away when you press enter), i'd like to give the focus back to the previous window.i'm use mac, and the menu bar show my previous app name so it look like the focus is given back to the app, but not entir sinc the window is not selected.ani idea how to fix that?thanks!
+Previous Window Focus / Electron

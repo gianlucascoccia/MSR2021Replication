@@ -1,1 +1,1 @@
-i have my html templat with a bunch of script at the bottom of one of the render files:a soon as i set nodeintegr to true in this render process, i get the error:uncaught typeerror: cannot read properti fn of undefin at bootstrap-material-design.min.js:1and i get a bunch of similar error to that one. as soon as i switch back to nodeintegr to false, the page work perfectly. i can't figur out whi this is happening.
+Can't load JS script after setting nodeIntegration to True

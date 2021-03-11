@@ -1,1 +1,1 @@
-i am build an applic in which i need to detect the ani chang in connect wireless network ie when a user transfer from one network to anoth and log the change.i am use electron js and wireless-tool for nodejs.so is there a way to do this or i have to use setinterval() to check everi few seconds.ani suggestions/solut are appreciated.thanks.
+Is where a way to listen to wireless network change in node js?

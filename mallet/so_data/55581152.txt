@@ -1,1 +1,1 @@
-(clone the repo &amp; tri it)i'm work on a desktop app use node, create-react-app, and electron. the follow line, recommend here to true in my electron main process, to no avail.
+How do I use use dialog in an electron + react environment?

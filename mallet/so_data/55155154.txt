@@ -1,1 +1,1 @@
-i have an electron app which get system proxi set use the method avail here.i also need to get the ignor host or proxybypass system rule use ses.resolveproxy() (if possible). how can i achiev this?
+Getting proxy bypass rule from electron

@@ -1,1 +1,1 @@
-i have a fulli function electron app that use node.j fs modul to look at local files. i need to compar these file to file held on dropbox. i have the dropbox modul all set up and run and have retriev the content-hash for each file use the in my console. i'v play with a few attempt at get the right path but the error look like it still look in the node_modul folder and i'v no idea how to chang this. ani help appreciated?!
+Implementing dropbox-content-hasher in electron node.js app

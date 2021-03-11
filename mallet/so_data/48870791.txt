@@ -1,1 +1,1 @@
-we have an applic in html, js, css compil by electron and we use firebas to store data, and render it on frontend but we store the data in localstorag and then display it in frontend, the problem is that in some laptop the data from local storag is not recogn and throw an error that it is not defined.
+my app electron doesn't recognize data from localstorage

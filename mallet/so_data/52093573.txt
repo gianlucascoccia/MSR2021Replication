@@ -1,1 +1,1 @@
-i have creat a simpl app use create-react-app and made the follow chang to package.jsonwhat could be the possibl issue?react-script version: 1.1.5electron-build version: 20.28.2
+Using create-react-app with electron-builder

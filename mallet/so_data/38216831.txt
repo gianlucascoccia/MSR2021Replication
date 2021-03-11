@@ -1,1 +1,1 @@
-i am stuck at some point work with angular 2 with node js. below is my code. it couldn't set rows(variable) to
+Uncaught TypeError: Cannot set property 'rowsdata' of undefined

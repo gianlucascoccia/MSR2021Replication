@@ -1,1 +1,1 @@
-soon i'll need to use angularj again so i decid to rewrit my old electron + angularj applic to remind freamwork. i updat electron from 1.8 to 6.0.2 and someth that use to work stopped.in render process i have angularj app. in one control i'm tri to send event to main process via ipcrender module.. but they chang it default valu on purpos so doe chang it have some impact on secur vulnerabilities?
+Requiring in renderer process of electron application

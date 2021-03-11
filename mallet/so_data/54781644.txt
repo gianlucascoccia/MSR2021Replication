@@ -1,1 +1,1 @@
-my applic use asp.net core mvc + electronnet error cannot file modul jqueri come when i electron start (open web site to window app). i tri to write "jquery": "2.2.1" in package.json (dir: application/application/obj/host) then npm instal but it doesn't working. how to solv this problem.thi is error in inspector
+How to install jquery in asp.net core mvc + electronNET?

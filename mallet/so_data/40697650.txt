@@ -1,1 +1,1 @@
-i am also use angular and electron, but everyth work fine previously. this is the error:and the scanner is not work after reconnect.
+Node smartcard throw SCardConnect error while scanning the card and SCardListReaders error after disconnect

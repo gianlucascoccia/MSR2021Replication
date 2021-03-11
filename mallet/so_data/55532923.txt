@@ -1,1 +1,1 @@
-i want someon to help me out in this problem. i want to know a method which hide my applic from the taskbar. i want to make an app that work in the background.i am new to the electron, therefor i hadn't known anyth about it. so, i hadn't actual tri anyth out.
+I want a method in electron module to hide it in taskbar

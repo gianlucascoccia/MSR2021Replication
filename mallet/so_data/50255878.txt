@@ -1,1 +1,1 @@
-i have an electron applic use bower to resolv vendor dep and yarn for electron depend (node add-ons).becaus bower is deprec i have migrat to yarn follow this guid how-to-migrate-away-from-bow that use bower-awayapp launch fine but when i tri to build with electron-build i got a problem with node modul resolution.
+Unable to build with electron-builder after migration from bower to yarn

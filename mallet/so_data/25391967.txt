@@ -1,1 +1,1 @@
-i'm creat an app for mac, windows, linux use node-webkit and i want to have the app auto launch on start. i have googl feroci but to no avail. doe anybodi know how to add the app to the "login items" use node-webkit?her is a print screen of where it would go on mac. thank in advanc for your help.
+Add node-webkit app to launch on OS login?

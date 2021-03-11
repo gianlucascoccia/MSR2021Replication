@@ -1,1 +1,1 @@
-i would make a async call in main.j on electron.i tri to do with jqueri but return error but $.ajax is not a function.how can i includ correct jquery?
+$.ajax is not a function in main.js electron

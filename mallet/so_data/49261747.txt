@@ -1,1 +1,1 @@
-i have ad an electron configur to an exist spa application. when i click a link in the navbar, i get the follow error: file. ani help is much appreciated!
+How to handle route with Angular and Electron

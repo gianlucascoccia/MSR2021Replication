@@ -1,1 +1,1 @@
-i am develop an applic use nw.js. i'd like to sync the local environ (all json objects, arrays, etc) with the back-end so that the state can be resum if the browser is close and resum re-opened. ideally, i'd like to bind object so that i don't have to manual and period write to local storage. is there a librari that doe this for me?i am agnost about the back-end model as long as it can handl json objects/arrays. (i know localstorag is onli key-value, though there solut to this such as storedb.)
+Auto-sync JS environment with LocalStorage or IndexedDB?

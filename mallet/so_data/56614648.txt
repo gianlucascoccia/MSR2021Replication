@@ -1,1 +1,1 @@
-i switch the chrome/electron devtool theme to dark (in the devtool settings, under preferences), so that it doesn't glare late at night.but the consol text is render black still, which is difficult to read on the dark background for error or warnings:i there a set for the devtool themselv that i should look into, or is this an issu i should rais in vs code? or electron?
+VS Code DevTools Dark Theme ha black console text on dark background

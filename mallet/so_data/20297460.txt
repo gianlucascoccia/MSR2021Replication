@@ -1,1 +1,1 @@
-i'v been think about learn how to make simpl mac os x applic base on web-technolog and i came across node-webkit which seem compelling. however, i'v recent invest in learn the basic of sinatra/rubi and i want to stay on that course.i there a "node-webkit equivalent" for develop who use sinatra? or, is there a recommend way to use the sinatra framework (or ruby) to build os x app that are essenti web wrappers?
+node-webkit equivalent for sinatra?

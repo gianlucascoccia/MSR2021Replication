@@ -1,1 +1,1 @@
-i have nw execut file...th node-webkit applic binary.i am run ubuntu 14.04lts i tri to open nw with ./nw. i doesn't open.aft that i type in the abov command. it start working.i am too curious to know what that command did to my executable.i know sed is for match file patter with regular expression. how can it oper on .ex (application/x-executable) file.pleas anyon explain.
+What doe this command do

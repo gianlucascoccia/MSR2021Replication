@@ -1,1 +1,1 @@
-i am tri to convert my googl closur librari use web app to electron. i'v use
+Electron default app doesn't change

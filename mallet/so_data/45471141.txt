@@ -1,1 +1,1 @@
-electron version: 1.7.2oper system: window 10expect behaviormous control return to the parent window.actu behaviormous input to the parent window becom perman blocked.how to reproducesampl code for dialog manag in the main applic render process: when close but befor i'v actual set it.
+Why is the Electron parent window still blocked after closing a modal window?

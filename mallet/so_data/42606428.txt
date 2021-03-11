@@ -1,1 +1,1 @@
-i'm make my first electron app. i have the initi layout. what i want is when user resiz window:r part should chang both width and heightblu part should chang onli height, but not widthgreen part should chang onli width, but not heightin .net winform it would be a trivial task:set red anchor to left, top, right, bottomset blue anchor to top, right, bottomand green anchor to left, right, bottom how can i achiev the same effect with html + css?i think i can use tabl element, but i'v read that tabl are discourag to use in page layout.
+Proportional positioning of element

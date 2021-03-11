@@ -1,1 +1,1 @@
-i have electron app and want to build execut file(deb-ex and so on) from it. my os is also ubuntu 18:04.versions:what should i do?
+Error: ENOENT, dist/electron/ubuntu_connection.json not found

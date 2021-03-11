@@ -1,1 +1,1 @@
-i am work on a project to my make my mac book air pretti unique, current it can modifi display and theme on the mac, as well as the appl menu bar is complet differ and customized. though i also want to tweak with the , now i don't know how to make my node.j app run when the mac wake up. note i want my applic to replac appl login window app.th app itself is finished, everyth i need to do is to replac appl loginscreen with mine, but i don't know how to tweak loginwindow.app. anyon knows? thank in advice!
+Mac OSX | Tweak loginwindow.app/Contents/MacOS/loginwindow

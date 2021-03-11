@@ -1,1 +1,1 @@
-i'm use session.setproxi to rout everi request through my basic express server.i want to load a webpag and replac the page content with my own content.if i load a http url the content from the express server is load but if i use https the app is just blank.her the main.j of my electron app: the electron app is just white.i there someth miss from my server or is what i'm tri to do no possible?
+Using express server a electron app proxy for HTTPS request

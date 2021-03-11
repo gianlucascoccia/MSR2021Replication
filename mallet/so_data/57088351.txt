@@ -1,1 +1,1 @@
-i am get the follow error:
+symbol lookup error while starting a electron script using serialport

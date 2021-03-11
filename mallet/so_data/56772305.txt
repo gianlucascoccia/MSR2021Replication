@@ -1,1 +1,1 @@
-i have a web app built use nextjs. my goal is to creat an electron app that serv that web app remot use into an minim electron application, without touch my web app node_modul at all?
+Minimal package using electron-builder

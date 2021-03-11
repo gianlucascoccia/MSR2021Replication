@@ -1,1 +1,1 @@
-currently, electron 5.0 remov the abil to use also doesn't work for obvious reason (nodeintegr is alway disabled)
+Get window, document and body in Electron 5+ remote.BrowserWindow

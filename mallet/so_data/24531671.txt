@@ -1,1 +1,1 @@
-i am work on an app with node-webkit to get some data of a tiff-image. becaus of tiff-imag are not support by webkit, i want to creat a temporari png version to show it in the app. how could i do this? is there a way or place for temporari file in node-webkit like app.datapath? or should i use anoth node modul node-temp?i'm look veri forward to get your answer soon. thank you.
+How to create a temporary image file with node-webkit?

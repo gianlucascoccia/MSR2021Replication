@@ -1,1 +1,1 @@
-scrape with nightmar has been a breez until recent , i start encount error with no detail and the titl "navig error"and the error code 118 as shown below.if anyon could provid more info regard this error , it would be great . the program work some time but most time i get the "navigation-error"
+Nightmare / Electron : Navigation Error (code - 118)

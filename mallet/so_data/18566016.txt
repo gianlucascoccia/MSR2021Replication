@@ -1,1 +1,1 @@
-i am creat node-webkit directori and creat a .gclient file as shown here. i also did all the set for depot_tool and others. run .also depot_tool are at the last in my path system variabl path.what should i do ?
+Unable to get node-webkit code

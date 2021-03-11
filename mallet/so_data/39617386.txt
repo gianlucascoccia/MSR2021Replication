@@ -1,1 +1,1 @@
-i am work on a desktop app, and i need to disabl the autolauch if year is 2018 for exp. you have ani idea ? :)thank
+node webkit disable autolauncher in year +1

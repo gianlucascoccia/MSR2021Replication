@@ -1,1 +1,1 @@
-i want to instal electron.j on linux os. need help to resolv the error below:command to instal sudo npm i electrontermin output
+How to install electron.js on linux?

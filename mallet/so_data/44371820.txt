@@ -1,1 +1,1 @@
-if i click the button manually, or if i run
+Nightmare JS will not open file dialog

@@ -1,1 +1,1 @@
-use a electron, react (es6 / jsx), sass, pouchdb and webpack 2 setup. i fail to import or requir ipcrender to make communic between main and render process possible. my setup can be found here: https://github.com/wende60/timetrackerani hint how to get the ipcrender into a react component?cheers, jo
+How to import the electron ipcRenderer in a react / webpack 2 setup

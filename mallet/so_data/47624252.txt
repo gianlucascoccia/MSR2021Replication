@@ -1,1 +1,1 @@
-i am work on an electron app and as part of the interfac i want to increas the size of the window onc someth has happen (i have bound this to a button for now) so i can display addit data. i have attempt to do this with the follow code that is activ on a ani suggest on how i can fix this?
+Electron - Resize Window from renderer process

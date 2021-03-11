@@ -1,1 +1,1 @@
-i'm current work with electron and i need to get some data from a mysql database, what is work good.but there is a problem with send valu between functions. i'm kinda new to js and electron, so mayb i just miss something:it has data in itam i miss something?thank in advance!
+JS returning a value give "undefined"

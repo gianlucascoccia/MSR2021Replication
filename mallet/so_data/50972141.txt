@@ -1,1 +1,1 @@
-i have creat an electron app. now i want to sign code for both window and mac platform. but i have onli go daday pfx certificate.i success sign code use pfx certif from go daday in window platform. so,can i sign an electron app on maco platform use go daday certificate?
+Sign an electron app on macos using pfx certificate

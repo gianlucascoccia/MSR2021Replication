@@ -1,1 +1,1 @@
-i am not abl to connect to wss on localhost. i have the follow setup: i creat cert usinghow can i access the wss on localhost on an electron app?
+WebSocket opening handshake wa canceled for electron app on localhost

@@ -1,1 +1,1 @@
-i was wonder if it will be possibl to launch a custom shape independ window/el from an electron app. someth like the chat head that we have for facebook app in android. where should i start? if not in electron would it be possibl with ani other html framework for that matter.an exampl seen in android. howev am look at have this in mac/windows/linux
+Custom shaped standalone window app using Electron

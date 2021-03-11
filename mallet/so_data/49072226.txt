@@ -1,1 +1,1 @@
-i have an folder?should i rather be use a differ packag tool?mi aim is to packag the app so that doesn't nuke band width to distribute.
+Electron + Angular CLI how to package dist with electron-packager

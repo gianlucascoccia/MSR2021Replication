@@ -1,1 +1,1 @@
-this works: why?p.s. i'm run it on win10 and electron 1.8.1
+Electron tray.displayBalloon() not working from async call

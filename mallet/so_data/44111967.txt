@@ -1,1 +1,1 @@
-i'm work with nwjs and my applic have to creat file on the disk so i use fsjs to do that.problem is when i instal my app (after packaging) on a windows10 machin i can't creat file anymor and i got this problem : eperm: oper not permitted, open path/to/file.txt at object.fs.opensync (fs.js:558:18) at object.fs.writefilesync (fs.js:1223:33)when execut : , is there a way to fix that programmatically.thank a lot!
+Cannot create file with fsjs

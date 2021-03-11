@@ -1,1 +1,1 @@
-i want to run "hello world" electron app in linux (centos). i have this folder structur for my app when i run npm run start, in turn run electron . i see the follow error
+Running "Hello World" electron app in linux

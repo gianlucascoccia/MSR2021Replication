@@ -1,1 +1,1 @@
-i have creat an electron app with a tray icon.when i right click the tray icon i show a menu with 4 options:minimizemaximizerestartexither is the code that creat the tray icon:ani ideas?thank
+window.maximize() fails when window is minimized electron

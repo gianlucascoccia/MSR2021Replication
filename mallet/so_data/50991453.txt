@@ -1,1 +1,1 @@
-i'm make a small applic that gets/stor data use sqlite3. everyth was fine dure develop stage. but when i use electron-packag to pack my application, here is my repo in case anyon need further information.can anyon help me pleas ?thank you,
+electron-packager with sqlite3 and webpack

@@ -1,1 +1,1 @@
-at the moment, the applic onli has read function (playback video and list descript and such), but i'd like to implement upload and channel manag as a featur further in the develop process.i would not be oppos to put the api key in a document that is not push to the github repo, and just make those who compil it from sourc get their own key.edit: here the project if it helps: https://github.com/rittbys/youtubedesktop
+How to secure YouTube API key in an open-source Electron application?

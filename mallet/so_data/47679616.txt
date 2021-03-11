@@ -1,1 +1,1 @@
-i think i have a good understand of what asynchron mean in javascript.i am well awar that i can use someth like callback function to modifi variabl from asynchron functions.i am not, however, sure how to use this with the cooki in electron.what i mean is, i can get the cooki by doing:i can easili output the cooki to the console. however, sinc this is asynchronous, i don't know how to set ani variables.how can i achiev this? how do i set a variabl form insid the cookies.get method, sinc i can not use callbacks?
+Properly getting Electron cooky (asynchronous)

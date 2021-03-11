@@ -1,1 +1,1 @@
-when i run my angular 2 electron project with ng build or ng serv it work 100% all the router and everyth just work.it was when i start tri to packag up my app with electron-packag or builder where i get the rout no longer working. instead of load up the index.html then immedi navig to my home compon it stay at the index. not even my scss style sheet is working, which should load up immediately.index.html
+When packaging up my Angular 2 Electron App, route no longer work

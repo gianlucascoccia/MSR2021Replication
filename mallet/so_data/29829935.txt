@@ -1,1 +1,1 @@
-i have a nw.js app with this package.json: don't extend insid ifram child?thank in advance!
+NodeWebkit (nw.js) allow self signed SSL certificate inside iframe

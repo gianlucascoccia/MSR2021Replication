@@ -1,1 +1,1 @@
-i wrote an angular servic which queri a db and should return the categories: but iam not sure about that.how can i get acctual data back from this service?
+Returning a value in AngularJS

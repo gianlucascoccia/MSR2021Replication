@@ -1,1 +1,1 @@
-i have a dual monitor setup and i'm develop a desktop app (window os) and tri to resiz it to fill both screens, but with no success.ani idea or help would be veri appreciated.
+How to resize node-webkit window to fill dual monitor

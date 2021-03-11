@@ -1,1 +1,1 @@
-i am work on an electron project which use monaco editor.to load a file i use this code:thi issu is that i alreadi know the locat of the file and the filenam that i need to load.so my question is...how do i load the file without have the dialog pop up ask for the file?
+Javascript Electron / Monaco Editor Load file without dialog

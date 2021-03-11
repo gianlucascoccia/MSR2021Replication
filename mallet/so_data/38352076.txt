@@ -1,1 +1,1 @@
-i am have issu test my nw.js app use karma. test that use to work now don't after updat ??? (i'm not sure which updat kill me)a you can see i am use karma-nodewebkit-launch as my browser. my understand was that nwjs global got link to the window.
+nwjs and karma-mocha not playing nice

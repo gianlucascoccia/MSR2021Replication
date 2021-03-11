@@ -1,1 +1,1 @@
-i am tri to creat a websocket server that listen to an extern websocket clinet. the point is i am laod a web base applic insid my browser window in electron.for exampl : win.loadurl(www.something.com); so the websocket call come from this url mean if i getinto this url in browser in my network tab i see websocket call is keep call but there is no server. so i want to implement the server insid my electron app main.js. and here is my code: so far i did not get ani success. ani help would appriciate.
+creating websocket server in electron node for external client request

@@ -1,1 +1,1 @@
-i'm make an electron js app which connect to sql server 2000 use msnodesqlv8. everyth is work fine use localhost but i want to connect to it use a tunnel. i'm tri to use ngrok.thi is my connect string:it work when i pass localhost to server in connect string but when i pass it with a port(1433) it doesn't work.mayb i'm do someth wrong. can anyon pleas guid a littl bit. thank
+Connect to SQL server via ssh tunnel (ngrok)

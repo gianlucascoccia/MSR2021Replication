@@ -1,1 +1,1 @@
-i generat a new angular 2 project use the new angular cli.now i don't want to use angular in browser but in an electron app.therefor i creat a file for the main process of electron and after build my angular app with protocol.but i realli want to use electron in conjunct with angular 2; so my question is if this is possibl and if so how i need to modifi the generat angular templat from the cli utility.
+Use Angular 2 with Electron (Angular CLI)

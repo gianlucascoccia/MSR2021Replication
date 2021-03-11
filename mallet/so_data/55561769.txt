@@ -1,1 +1,1 @@
-i tri to make music player with electron and jquery. what i want to do as a first step is open menu, click file and then music titl to be changed. i succeed file open menu but cannot go forward to next step. main.jshow should i read the file name from file open menu and chang h1 musictitl tag?
+How do I read the file name and process my html tag?

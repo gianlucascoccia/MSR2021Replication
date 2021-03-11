@@ -1,1 +1,1 @@
-until start up my comput this morn the follow worked:and the problem persists.
+npm start and other script do nothing

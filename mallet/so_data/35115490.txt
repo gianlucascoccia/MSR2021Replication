@@ -1,1 +1,1 @@
-i am tri to write a simpl extens in visual studio code, the extens will simpli take the current file and launch it in extern application. how can we do that?
+Visual studio Code, open current file in External Application

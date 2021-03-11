@@ -1,1 +1,1 @@
-but what i tri to do is save a video url without have a video element in page. is it possibl to do.it would be nice if i could do this in a background on the main process of electron application.
+save to offline without creating player object using shaka player

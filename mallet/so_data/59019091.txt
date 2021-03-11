@@ -1,1 +1,1 @@
-i'm use the npm packag https://github.com/sindresorhus/electron-is-dev for some reason, as i'm use to.
+Electron run in production mode

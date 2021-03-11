@@ -1,1 +1,1 @@
-i'm new to react, i'm build an electron app.in the code below, i check to see if there a sign in user, and if so, i render thanks!
+How do I go to a new path after signing up in React

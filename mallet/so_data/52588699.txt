@@ -1,1 +1,1 @@
-how would i creat a folder outsid the electron exe. i'm plan to build the app as a portabl window exe so i'm not sure how to get the path of the exe.edit #1:i have tri to use
+Creating a folder outside the exe in Electron

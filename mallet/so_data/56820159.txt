@@ -1,1 +1,1 @@
-i am get undefin as data from an input in my index.html file in my index.j node file and wonder how i should do to get the text i enter in the input element in html to my databasei am new to the whole backend thing so dont know what to tri but i have been follow the code train video and it have helpt me to some extend
+getting undefined from html input to backend nedb database

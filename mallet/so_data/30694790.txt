@@ -1,1 +1,1 @@
-how can i get access to local resourc from node webkit.i would like to execut this code :but i get error: not allow to load local resource: app://index.html/src/js/test.j
+How can I get access local file form node webkit

@@ -1,1 +1,1 @@
-i have an angular app run in electron and i want to setup a proxi to the backend. angular servic are design in such way, that they don't contain an exact url rather it is concaten to address from which it is served.th issu is, when serv local web/electorn, the url for servic look like this: but i get no error in log regard the proxi or some electron settings? ani idea what i'm do wrong?edit:electron ^6.0.7, @angular/* ^8.2.5 (@angular/http ^7.2.15)
+Electron - how to correctly set PAC proxy

@@ -1,1 +1,1 @@
-oppon of electron often argu that it "eat up memory" becaus there is a separ instanc of the googl chrome v8 engin run for each app. if this is the case, whi has there not been an attempt to tri to share one instanc of the v8 engin between multipl electron applications? is this not a current standard becaus app isol a priority?
+Reason why Electron application do not share one Google Chrome V8 engine instance

@@ -1,1 +1,1 @@
-in electron version 1.x, how can i emit an event from one browserwindow and consum it in anoth browserwindow?i am use electron version 1.2.1.
+In Electron version 1.X, how can I emit an event from one BrowserWindow and consume it in another BrowserWindow?

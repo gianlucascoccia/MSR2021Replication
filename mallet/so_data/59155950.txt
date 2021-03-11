@@ -1,1 +1,1 @@
-i am use electron framework to publish packag in releas mode for window and linux os. i see the file size to be 450 mb for linux and 200 mb for windows. my requir is to reduc the file size to less than 100 mb, i have ensur i am packag onli need packag by differenti between depend and devdependencies.i suspect this the packag are publish in debug mode, how to chang this to releas mode.her is the npm script that is run for window and linux
+How to specify in electron packager to publish package in release mode and not in debug mode

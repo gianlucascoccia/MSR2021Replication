@@ -1,1 +1,1 @@
-i read this postsecur the sourc code in a node-webkit desktop applicationi would like to secur my font file and i was think this snapshot approach might be a way. so instead of run thisor would there be an altern mechan to refer the binari font? would it be possibl to convert the css file referenc the font into binary? can anyth els other than javascript be convert to binary?
+Can I secure resource other than javascript in Nodewebkit?

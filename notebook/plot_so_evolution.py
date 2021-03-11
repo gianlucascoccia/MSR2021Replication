@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from datetime import datetime
+from matplotlib.ticker import MultipleLocator
 
 # %% params
 
@@ -49,9 +50,11 @@ plt.plot(nw.Date, nw.counts, label='NW.js')
 plt.plot(el.Date, el.counts, label='Electron')
 plt.plot(nw.Date, nw.counts + el_padded, label='Combined')
 plt.xticks(np.arange(2, len(nw.Date)+1, 12.0), labels=nw.Year[2::12])
+plt.axes().xaxis.set_minor_locator(MultipleLocator(1))
 plt.xlabel('Year', fontsize=12)
-plt.ylabel('# Questions', fontsize=12)
-plt.grid()
+plt.ylabel('# Monthly questions', fontsize=12)
+plt.grid(which='both')
+plt.grid(which='minor', alpha=0.2)
 plt.legend()
 plt.tight_layout()
 plt.savefig(OUT_FILE)

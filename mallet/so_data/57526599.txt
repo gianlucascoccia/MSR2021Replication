@@ -1,1 +1,1 @@
-i want to read the innerhtml from element on a webpag i load into my electron window with . how can i get the innerhtml of an element with the id "name" or the class ".name"?
+How to read innerHTML of element while using electron in node,js?

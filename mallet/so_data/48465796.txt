@@ -1,1 +1,1 @@
-i am current work on an electron base app and i have a class that extend electron browserwindow in an "imports.js" file that look like this:i alreadi tri import electron in the test befor my class but it didn't chang anyth and i don't see how i could have a circular import in this situation.also when i tri to import it in my main.j file it work just fine.i may be overlook someth obvious but i am lost here.
+Getting "Class extends value undefined" when importing Electron app for unit testing using Mocha

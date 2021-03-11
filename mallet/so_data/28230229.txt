@@ -1,1 +1,1 @@
-i'm tri to instal . how can i get rid of this ?
+Installing nw.js in debian return error "version `GLIBC_2.14' not found"

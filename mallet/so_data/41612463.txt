@@ -1,1 +1,1 @@
-i want just move the mous to a specif locat relat to my app window.i don't find a way to achiev this behavior, is that even possible?
+Can I control mouse in Electron?

@@ -1,1 +1,1 @@
-which is the best solut for implement signalr client in electron?should i use signalr-cli or signalrj with a hack as describ here?it ok to use onli websockets.
+Which is the best solution for using SignalR in electron?

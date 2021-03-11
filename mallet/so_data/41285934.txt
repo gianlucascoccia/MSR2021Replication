@@ -1,1 +1,1 @@
-from attach timelin record from an electron app, is it possibl that the async request block/impact ui thread? is there ani solut for this?quest updated.
+Does async request impact UI thread performance

@@ -1,1 +1,1 @@
-i am tri to make an electron applic with bootstrap. i get this error message: most of the solut i have found tell me to import jqueri befor bootstrap, but that is alreadi what i am doing.thank for the help!
+Bootstrap: Uncaught TypeError: Cannot read property 'fn' of undefined

@@ -1,1 +1,1 @@
-i want to run test with mocha with two reportersmocha-junit-reportermocha-simple-html-reporterhow could i achiev that
+Mocha multiple reporter junit and html

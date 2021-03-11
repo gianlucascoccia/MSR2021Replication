@@ -1,1 +1,1 @@
-i have an electron app that need to monitor an input text field on a form. the html look like this:al i see in the consol is "undefined."i would appreci ani input, i have search and search without find an answer.sid
+Javascript "input" event value is undefined

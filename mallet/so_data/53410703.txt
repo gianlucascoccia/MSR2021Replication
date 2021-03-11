@@ -1,1 +1,1 @@
-i'm tri to bundl a gatsbyj applic insid electron start from the gatsbi default starter (boilerpl repository). after creat the main.j file for electron use this code:i there ani way to fix it in electron or gatsbyjs?
+GatsbyJS in Electron, how to solve issue with file://

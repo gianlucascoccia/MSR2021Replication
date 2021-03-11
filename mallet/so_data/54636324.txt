@@ -1,1 +1,1 @@
-i use firebase-auth for my web applic i'm develop with electron framework. i creat an api key use project settings, and copi it into my html bodi as it is suggest in firebas guide. however, when i open the html page on the browser, consol show the follow error.note: i obfusc the real key by chang 20 digit of it by x.
+Firebase invalid api key error in console

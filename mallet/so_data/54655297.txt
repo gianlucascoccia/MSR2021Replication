@@ -1,1 +1,1 @@
-i have creat the log display on the built in terminal. i want the log to be display on debug console. how can i fix it?
+console.log is not printing to Debug Console in Visual Studio Code

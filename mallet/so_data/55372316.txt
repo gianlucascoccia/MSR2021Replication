@@ -1,1 +1,1 @@
-in my electron app, i have an index.html page. i have a .js file in which can onli be run if you go into termin and say "node index.js". my issu is when i link a button on the html page for the index.js, the script won't start. i need to find anoth way to initi that node script to start.
+Running Node, within another node instance

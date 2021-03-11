@@ -1,1 +1,1 @@
-i am tri to write an electron launcher for the test runner testem. testem print to the termin the test result from each of it launcher (fork process where test get executed, tradit browser but in this case electron). testem want to set the tti to raw mode so it can make a faux-tab view that appear to updat live, and let the user navig between tab to see result from differ launchers. i'm see this error in my termin after testem tri to call is. testem is not expect it to be null, but for some reason it is. can anyon help me out with this?
+node tty ReadStream _handle is null

@@ -1,1 +1,1 @@
-i am tri to upload csv file in remot ftp use easy-ftp packag but sometim upload &amp; sometim show error like below imag here is my code i can't find ani help resourc to overcom this issue, what can i do now?thank
+File upload error in easy-ftp with electron & node.js app

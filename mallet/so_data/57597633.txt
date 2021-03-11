@@ -1,1 +1,1 @@
-i have a simpl build script to build/packag theit was not happen until i refus to access my keychain, after that it start throw error. ani idea to get out of the rid?
+`electron-builder` failed with code signing error in mac

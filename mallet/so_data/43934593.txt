@@ -1,1 +1,1 @@
-so i'm work on a new project and we would like to creat a desktop applic for our user use electron.th problem is that i need custom contextmenus on the webview elements.mi progress so far that i can creat contextmenus over the webview, but i cannot access the content under the click. :)index.html: attribut when a right click happens, so i can creat a new tab for the user.th tab are work great, creat new webviews, select the activ one etc. i just need to get the urls, from the link ...: d
+Atom Electron webview contextmenu, get click target

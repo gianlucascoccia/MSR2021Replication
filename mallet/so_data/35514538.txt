@@ -1,1 +1,1 @@
-i am tri to use angularj insid electron. what i'm confus about is, the electron doc here suggest on use someth like: to get the ipcrenderer.how would one overcom with this problem.
+Electron + angularjs IPC mechanism

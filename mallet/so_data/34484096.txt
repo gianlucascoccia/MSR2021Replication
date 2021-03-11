@@ -1,1 +1,1 @@
-hope i can get some help with this. i am use electron (atom shell) with react and webpack to build the ui. when i run ..... still get the same error. thank you in advance.
+ERROR in multi common Module not found: Error: Cannot resolve module 'react-router' in /path-to-project/app-name @ multi common

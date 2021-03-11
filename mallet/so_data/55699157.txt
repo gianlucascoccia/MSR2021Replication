@@ -1,1 +1,1 @@
-so this is a bit of an odd one. i have an electron app packag use (from dock, spotlight, terminal, whatever), the icon pop up in the dock but noth happens, even after 10 minut left alone.i'm assum this is becaus there an error spawn the process (and sinc we'r not run the execut we don't get the termin output to say so.. grr).what would be the best way to tri and debug this? i can't work out whi it'd work one way and not the other unless it a permiss issue?
+Packaged Electron app doe not launch when run from Dock but work fine when run from Terminal

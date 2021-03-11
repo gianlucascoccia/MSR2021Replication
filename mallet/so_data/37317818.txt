@@ -1,1 +1,1 @@
-i'm tri to use aurelia and systemj within an electron app; i have a fair basic ?
+How to require('electron') when script is loaded by system.js

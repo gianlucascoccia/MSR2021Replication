@@ -1,1 +1,1 @@
-this question is pretti short and self explanatory. i'm wonder how i can run my chrome extens in nw.js.i know you can run an app in nw.js and i think you can run extens as well?i can't find much on the topic. back in 2013 the way to do it seem to be:ani idea are appreciated!
+How can I run a Chrome extension in NW.js?

@@ -1,1 +1,1 @@
-when i use the context menu command "open with..." within window 7, the os open a new instanc of my electron application. i would prefer, that if the applic is alreadi running, the file to be open will be open within the alreadi open instanc and not in a new one.how can i achiev that?
+On Windows: How to open file with “Open with…” command in context menu correctly?

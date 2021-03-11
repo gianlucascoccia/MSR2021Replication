@@ -1,1 +1,1 @@
-i would like to pass element id to the new menuitem through javascript event.i it possible?if even possibl how can i?thank you!
+nw.js pas element ID to menuitem

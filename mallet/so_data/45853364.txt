@@ -1,1 +1,1 @@
-i am use express for routing. here is the code insid base on the router implementation, "dynam link works!!" should be print to the consol but noth happens.what am i do wrong here?
+The dynamic route doesn't work a expected

@@ -1,1 +1,1 @@
-i am learn to highlight code?thanks.
+electron use highlight.js to highlight

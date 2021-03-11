@@ -1,1 +1,1 @@
-i'v got a simpl program that can be run from command line.thi program is for live preview of markdown files.when i'm packag the app with was called.
+How to get working directory in node-webkit

@@ -1,1 +1,1 @@
-i'd like to make a gui in electron for a desktop applic written in go (current it a command line tool).what the convent for communic between the electron and go processes? would simpli use the go binari as an api work? some sort of websocket communication?
+Electron UI for Golang Program?

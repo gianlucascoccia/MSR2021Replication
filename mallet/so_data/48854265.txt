@@ -1,1 +1,1 @@
-i'v creat electron-vuejs-vuetifi project from this vuetifi boilerplatei'm see this warn in the console:question:what can possibl caus that - node, vue.js, webpack localhost config? what should i do?
+Why do I see an "Electron Security Warning" after updating my Electron project to the latest version?

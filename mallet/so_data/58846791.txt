@@ -1,1 +1,1 @@
-i'm use a veri simpl electron app to load a url in a frameless window. here the here but can't figur out how it work for the life of me. it has one snippet it say to past in the render process, what section is that of this code?i apolog if this is a veri basic question, i'm still veri new to electron develop and would be veri grate for help on this.
+How to install a spellchecker in Electron for an external URL

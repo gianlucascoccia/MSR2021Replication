@@ -1,1 +1,1 @@
-i have use the below two problem to creat a electron-react app.1. https://github.com/rgfindl/electron-cra-boilerplate2. https://github.com/kitze/react-electron-example?source=post_pagebut after instal packag and run the app it give the below error./src/index.jsmodul build failed: error: cannot find modul prelude-ls'it would be great if anyon can help me with this. thanks.
+I am getting the following error while starting and Electron-React App. "./src/index.js Module build failed: Error: Cannot find module 'prelude-ls'"

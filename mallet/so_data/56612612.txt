@@ -1,1 +1,1 @@
-i'm tri to open a new window use vue/electron but the new window is open on default rount instead the need route.*th rout on navigation-draw is work well.file: router/index.j
+Problem with open new browser using router in Vue/Electron. Redirecting to default route

@@ -1,1 +1,1 @@
-as the titl say i'm have troubl chang the background-imag of a div css to point to a local file use js or jqueri in an electron app that i'm creating. the app is a imag viewer that allow you to upload file to the applic appdata directori on window and then display those files. howev i can't seem to chang the background-imag to point to the imag in that directori correctly.for below the messag variabl is set elsewher in the code basic by use the path function in nodejs. the code i have is like this:
+Electron: Trouble changing background-image to local file system image

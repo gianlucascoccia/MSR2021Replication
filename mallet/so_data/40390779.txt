@@ -1,1 +1,1 @@
-i ran electron-quick-start app on my pc with window 10 viait works, but the app respond to click and text type (e.g. in the consol of devtool, text inputs) too slow.what is the problem? googl chrome and other browser work fine on my pc.
+Why doe an Electron.js app respond slow to user inputs?

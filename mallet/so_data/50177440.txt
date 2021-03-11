@@ -1,1 +1,1 @@
-how can i defin the for defin librari locations. this is how the question came up for me.
+How to define @rpath while running an electron application in mac

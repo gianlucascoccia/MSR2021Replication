@@ -1,1 +1,1 @@
-we have built mac and window desktop version of our app use electron framework, but it hang and becom unrespons realli often. use chrome nativ it doe not happen. is there ani flag that need to be added/remov when use electron framework, and what could be the difference? the biggest problem that i don't have knowledg how to debug these kind of problems, becaus log doe not return anyth befor hanging, and profil becom unrespons too. ani suggestions?thanks!
+Electron app hang often

@@ -1,1 +1,1 @@
-i'm search a way to open the develop tool window (use a ) onc the app is compil in exe, when i cannot use shortcut as i do in develop mode.
+Button to open developer Tools in compiled app

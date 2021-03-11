@@ -1,1 +1,1 @@
-in electron, the render process pid was expos by which, however, is no longer valid in recent releas (1.4.x, 1.5.x, 1.6.x).is there ani other way to get the pid of the render process, i.e. the pid for the window ?
+Acquire renderer process id in Electron

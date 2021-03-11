@@ -1,1 +1,1 @@
-i thought i had a nice and work delay function but it seem to stop work after i pass anyth more than 5000 ms into it. im use electron but that shouldn't be an issu with this.&#xd;&#xd; log onli when i pass 0 - 5000. what could be caus this? is the promis somehow get garbag collected?
+Javascript wait/delay function doesn't work when more than 5 sec

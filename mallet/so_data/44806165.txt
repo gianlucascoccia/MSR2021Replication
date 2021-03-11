@@ -1,1 +1,1 @@
-i have nodej x86 on window 10 x64 and i instal electron with npm use this but it did not work.i donot have dll sourc file so i cannot rebuild it for ani specif architecture.how can i use electron 32bit version with ffi 32bit? is there ani way to download ffi prebuild version and attach it to project?i want to use ani version of electron (x64 and x86) and use my same 32bit dll.
+nodejs - using electron with ffi

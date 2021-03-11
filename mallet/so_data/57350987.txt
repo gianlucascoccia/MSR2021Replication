@@ -1,1 +1,1 @@
-the module-scop variabl "output" refus to be overwritten by the async function "retrievetextwrapper", and i cannot figur out why. my object is to output the text on stackoverflow homepage. retrievetextwrapp success scrape this information, but i can't seem to assign this content to the output variable. what am i do wrong? how can i print the scrape inform from the main() function? note: i am use electron version 3.0.4 becaus bypass cor is less of a pain on that version.
+Module-scope variable refuse to be overwritten by an async function. Why?

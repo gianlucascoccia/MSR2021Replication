@@ -1,1 +1,1 @@
-i understand my jqueri code is wrong. i need to perform cascad select between two select menus. if my select me a select with an option the select b menu should show some data from second tabl with the refer of the select a menu value.
+How to show the JSON data from Node API to jQuery AJAX in multiple select menu

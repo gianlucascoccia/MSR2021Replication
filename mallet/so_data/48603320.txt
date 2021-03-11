@@ -1,1 +1,1 @@
-i have been stuck in this question about 3 days.simplifi the exampl like this.when i ad "custom" action type and got the error "uncaught typeerror: action.custom must be a string"sam code work well on creat-react-app with react-redux.i can skip annot of action to run the app, but this question/warn so bother me:( &#xd;&#xd;&#xd;&#xd;&#xd;
+redux error in electron-react-boilerplate (Uncaught TypeError: action)

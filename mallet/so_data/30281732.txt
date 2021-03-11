@@ -1,1 +1,1 @@
-i have set up github electron with reactjs. so i got a ? ani idea or better approaches?
+Electron & ReactJS, Use BrowserWindow for GitHub oAuth authentication

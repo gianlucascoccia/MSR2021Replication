@@ -1,1 +1,1 @@
-doe anyon have an exampl of test a app built with atom-shell.thanks.
+How to test an app built with atom-shell

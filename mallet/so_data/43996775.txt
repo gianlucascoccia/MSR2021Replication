@@ -1,1 +1,1 @@
-i'm make a simpl hello world applic on electron use nativ c++, but get this i have configur and build the project sever time but that doesn't seem to be help in this case.
+Uncaught Error : error 1114 in electron

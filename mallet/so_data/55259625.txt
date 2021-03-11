@@ -1,1 +1,1 @@
-i want to make a simpl video player which play video automat (use electron and videogular2). the main problem is when i defin the src from html work fine:
+electron videogular2 src problem loading video and autostart problem

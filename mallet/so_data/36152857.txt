@@ -1,1 +1,1 @@
-i am veri new to the electron. can anyon suggest me how to get a local folder relat path use the electron? javascript doe not have that capability.i have a choos file button(se snapshot), so my question is that when i select a folder and click on the open button then it should return a whole directori path.
+How to get folder path using electron

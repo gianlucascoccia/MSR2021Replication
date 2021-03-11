@@ -1,1 +1,1 @@
-i was work on a electron-react project for proper under react-electron environment? or this api will not work well for text content which is generat by react dangerouslysetinnerhtml?
+How doe document.getSelection work under reactjs environment?

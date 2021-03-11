@@ -1,1 +1,1 @@
-i am notic a signific differ in speed between plain node.j vs node-webkital i'm do is connect to a localhost couchdb use the http module.th same code take ~520ms to establish a connect and return a respons in node-webkit wherea it take ~10ms in plain node.jscan someon with more in-depth knowledg of node-webkit help explain what is caus this? the code is belowthank youslim
+Odd speed difference (~10ms VS ~520ms) between Node and Node-Webkit

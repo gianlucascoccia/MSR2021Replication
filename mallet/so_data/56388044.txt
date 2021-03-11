@@ -1,1 +1,1 @@
-https://github.com/simulatedgreg/electron-vuei use this templat to make electron.and i am use this library.https://www.npmjs.com/package/fs-extrahttps://nodejs.org/docs/latest-v11.x/api/fs.htmlbi this document, i can write like this.i like below.it promise.but i don't know whi i can do this in electron@2.0.4.
+I can await fs.readdir but I don't know why

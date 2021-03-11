@@ -1,1 +1,1 @@
-i am use nedb, and to creat new datastor i am use javascript closure. as i want my file path to be updat dynamically.but after do so, basic queri is not work neither show ani error.pleas find below code,what i am do wrong here?
+Nedb Not working with javascript closure

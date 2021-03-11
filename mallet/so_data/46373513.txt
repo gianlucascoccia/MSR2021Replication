@@ -1,1 +1,1 @@
-i'm write electron app with clojurescript and get this weird behavior:a you can see, __dirnam is resolv fine in -main function, but it return nil in my electron "ready" callback. whi is it not work insid the callback?
+ClojureScript Electron app __dirname return nil

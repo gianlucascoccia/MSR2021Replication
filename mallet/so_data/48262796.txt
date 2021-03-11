@@ -1,1 +1,1 @@
-if i build an angular app and feed run it use electron, will it work exact like a web-appl ?
+Can Webapp work exactly same a a desktop app using electron?

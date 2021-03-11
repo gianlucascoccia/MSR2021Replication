@@ -1,1 +1,1 @@
-i have just instal maco mojave... and when i open visual studio code... surprise! the text it kind of dim with less contrast, special on the extern display. the result is that the code it hard to read. it seem relat to the mode, but not! it happen both in light and dark modes.ha anyon found a solut to that problem?
+After update to MacOs Mojave Visual Studio Code text is almost unreadable

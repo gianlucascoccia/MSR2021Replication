@@ -1,1 +1,1 @@
-i use the electron-quick-start to creat an electron app, and i want the onli nativ menu to show to be the edit menu, with the usual suspect inside.however, after search and exhaust all relev googl result for electron menu not working', i'm at a loss.mi current main.j file:
+Native Menus not showing OS X Electron

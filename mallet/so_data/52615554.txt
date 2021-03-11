@@ -1,1 +1,1 @@
-i'm new to electron and i have the follow problem:"electron-log": "^2.2.17","electron-updater": "^3.1.2","electron-builder": "20.14.7",but at the end of the download, the event update-download is not be triggered.
+When the new version is downloaded, the 'update-downloaded' event is not being triggered

@@ -1,1 +1,1 @@
-build web app in nwjs make unavail to access file that are locat in program directori (togeth with app.nw file) and it not good idea to add all file into nw packag becaus some file may need to chang by io at run time. structur will be as follow -app.nw -data.json how can i access file outsid of nw packag in nw.js
+how can I access local resource that are not zipped into nw package in nw.js

@@ -1,1 +1,1 @@
-i'm play with electron for the first time. tri to creat a text editorin render i'm send a messag to indic the content has chang and need saving:so that the user know the file has have. but that doesn't seem to work. is there ani other way to do this? i would have thought "save" would be a pre-creat role (sort of)
+How can we send message main process to renderer process in Electron

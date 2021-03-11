@@ -1,1 +1,1 @@
-i'm not a beginn but javascript still often confus me. can someon tell me if what i am do below is "ok"?in electron, the templat code to set up menus can be veri long. i have a number of menus in a multi-window app and i want to move the menu templat code from that didn't work – so now i am confused.
+Passing "this" a a context to a module?

@@ -1,1 +1,1 @@
-i'm download post from subreddit
+electron : Lodash not working in electron Main process

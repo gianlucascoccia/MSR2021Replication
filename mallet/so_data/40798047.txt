@@ -1,1 +1,1 @@
-i have a nodej app be run through electronhttps://github.com/frankhale/electron-with-expressaft packag the app as an execut use when i run the app use npm start it work fine, and no error is run. it when the app is run as an execut i see the error on console.
+Uncaught Error: spawn .\node.exe ENOENT

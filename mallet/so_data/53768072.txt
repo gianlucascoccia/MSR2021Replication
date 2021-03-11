@@ -1,1 +1,1 @@
-i am creat an app use go-astilectron (an electron framework for go). my app has a frameless and transpar window that should be resiz depend on it content. as far as i could tell, i am oblig to set the
+Auto Size Main Window

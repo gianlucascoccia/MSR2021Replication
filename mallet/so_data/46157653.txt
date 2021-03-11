@@ -1,1 +1,1 @@
-i have a blob object that i get from a canva contain image. i chang this blob to objecturl.&#xd;&#xd; folder in window 10 but no temporari file were found there. my guess is that the blob exist onli insid browser-memori and not actual save in the temporari root folder of electron.
+Save image blob-object to local filesystem Javascript

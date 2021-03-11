@@ -1,1 +1,1 @@
-i am make a program in nwjs, which will be use to read part of .json file and show it + give possibl to edit it.and i don't know how can i read, show and edit part of .json file.ani ideas?
+node-webkit - reading data stored in json editing and saving

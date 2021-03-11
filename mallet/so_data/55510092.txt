@@ -1,1 +1,1 @@
-i am use electron-react-boilerpl as a privat repo. my develop app is work fine. when i tri my log and packag
+Electron bulder Unhandled rejection HttpError: 404 Not Found on private repo

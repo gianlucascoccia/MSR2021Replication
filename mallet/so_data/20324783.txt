@@ -1,1 +1,1 @@
-i have set toolbar true and this is package.jsonand i have instal chromium too.package.json
+Toolbar is not visible on MAC OSx

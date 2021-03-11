@@ -1,1 +1,1 @@
-i am tri to make a resiz panel that is is 100% the height of the application, and resiz horizont when the user click and drag on the edg of the div.i this built into electron, or do i need to use some sort of librari to do this?editcss:
+Resizable panel that resizes horizontally

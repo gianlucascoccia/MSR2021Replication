@@ -1,1 +1,1 @@
-i want to keep my generat window app (trought angular code) to a specif folder.i alreadi read the document about the command, so i do:.
+Electron package, generated folder

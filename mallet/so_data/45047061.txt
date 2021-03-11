@@ -1,1 +1,1 @@
-i'm tri to send messag to my main window like show and hide, but it keep say that my main window is undefined. i'm not sure why. when i tri assign the result of open on the window manag the api say that it return the object, but that doesn't seem to work how i understand it. could you guy help me?
+Using Electron window object from window Manager

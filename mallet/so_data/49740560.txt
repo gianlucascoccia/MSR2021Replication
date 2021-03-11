@@ -1,1 +1,1 @@
-although the code may seem a littl heavi at first (it probabl is anyways), it is kinda simple. all i want to do is to read some data from a json file (which is in follow format:
+variable probably outside of scope

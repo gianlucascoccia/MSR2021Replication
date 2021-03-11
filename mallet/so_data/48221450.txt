@@ -1,1 +1,1 @@
-i'm design a page which is similar to the one in the link :https://support.skype.com/en/faq/fa1017/can-i-connect-to-skype-through-a-proxy-serverhow do i programat set system-wid proxi in my app, how to configur those manual when user want to opt manual. i'm new to js as well as electron, so pleas redirect for proper solut if i'm not ask a right question here.
+How do I get system wide proxy setting and apply the same for my electron app?

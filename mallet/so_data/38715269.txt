@@ -1,1 +1,1 @@
-the nightmar doc don't specifi how to set the browser details.i'm guess it like this, but it doesn't work. ani ideas?
+How to set Electron size in Nightmare.js?

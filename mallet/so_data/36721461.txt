@@ -1,1 +1,1 @@
-in my electron application, i have a button in which a user can click which trigger node child_process and run an extern .jar file in the background:am i to assum that everyth in the project folder get packag when use electron-packager? if not, what am i missing?
+Packaging Electron Apps with external file

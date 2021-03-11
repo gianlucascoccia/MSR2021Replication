@@ -1,1 +1,1 @@
-for some time i was tri to compil sqlite3 for nw.exe, so ican use it in my project.now i have found this article, that basic say that nw alreadi has a sql databas embed in it. doe this mean that i do not need to compil it anymore, and i can use it out of the box? what is disadvantag use it nativ sql capability? is sqlite3 faster?
+Node webkit ha built in SQL DB

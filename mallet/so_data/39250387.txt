@@ -1,1 +1,1 @@
-are there ani tool to live reload electron app when code is chang similar to browser-sync for web?whenev we chang code for electron app, i am termin exist run process and relaunch with electron .are they ani tool to reload electron app automat when code is changed.
+Sync code change in electron app while developing

@@ -1,1 +1,1 @@
-i want to call a function which is written in "c" dll from node.j javascript. i am use "ffi" modul in node.j and electron. the function which i want to call is "int fdcolor_getswversion(char* softwareversion)". i am use the below code:but i am get the error "dynam link error: win32 error 126". could anyon pleas help me out
+I want to call a function which is written in "C" DLL from node.js javascript?

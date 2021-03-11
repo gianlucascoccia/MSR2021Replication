@@ -1,1 +1,1 @@
-whenev i set the maximum size of the browserwindow, it reset the minimum size. likewise, whenev i set the minimum size, it reset the maximum size. i need both a maximum and minimum size for my browserwindow. am i do someth wrong? is there anoth way to set both the maximum and minimum size of a browserwindow?
+Setting maximum and minimum size in an Electron BrowserWindow

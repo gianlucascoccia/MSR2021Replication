@@ -1,1 +1,1 @@
-i'm tri to creat a simpl desktop applic use electronjs. my goal is open a
+Unable to showOpenDialog using electronjs and jquery

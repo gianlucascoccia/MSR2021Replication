@@ -1,1 +1,1 @@
-we have a custom tensorflow save model. we will build the app that use this model with electron.how we can use this model in an electron app?w can't convert it to a tensorflow.j model we need a not support feature.on of our solut idea is to use on maco the core-ml engin this work onli on maco and we don't have a solut idea for windows.thank for ani idea or helpupdate:w will use the model in the infer mode.
+Run a tensorflow saved model in electron app

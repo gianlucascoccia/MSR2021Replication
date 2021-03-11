@@ -1,1 +1,1 @@
-* version: ^10.6.1* target: linuxi'm ubuntu user &amp; and i could not set icon for my app.thi is the error:
+how i can set icon application in ubuntu with elctron builder

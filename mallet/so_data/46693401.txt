@@ -1,1 +1,1 @@
-i tri to find the solut on internet but i could not find anyth about this issue. i'v found :sentri (raven.js).node-logglybunyanwinstonmorganbut i couldn't find ani inform about save log error from logger to mysql or sqllite.i have just work for first time with log4net and i need someth like this.mi applic will not have connect to internet, for this reason i will packag it in electron atom.thank in advanc for your support.
+Logger in JavaScript (node.js+electron.atom) to MySQL

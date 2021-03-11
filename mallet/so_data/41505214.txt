@@ -1,1 +1,1 @@
-we need to test electron app.w are use spectron which is use chromedriv and webdriverio (selenium 2.0 bind for nodejs).problem: our applic start with open dev tool window than main applic window is shown. webdriv connect to dev tool window instead of the main window. we are unabl to switch to main window.exampl code:ani idea how to switch from dev tool to main window?
+Electron testing - WebdriverIO switch between the devtools window and main app window

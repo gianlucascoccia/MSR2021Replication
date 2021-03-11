@@ -1,1 +1,1 @@
-i'm use electron to build an applic that includ two windows. i'm tri to open a second window from insid render process do someth like:i'm get an error say browserwindow is not a constructor.mi other option is to use window.open, but that is not ideal sinc that return browserwindowproxi object, which has limit functionality.
+How to fix BrowserWindow is not a constructor error when creating child window in Electron renderer process

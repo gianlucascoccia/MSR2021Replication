@@ -1,1 +1,1 @@
-i build an angular app and then wrap it use electron.mi dir structur look like this :project|--electron---|-main.js-----|-index.html (and other file copi from webapp/dist)|--webapp (angular app)---|-src-----|-app-------|-servic i tri inter-process communic (.how do i call this function from electron main.j use webcont or ani other method?
+electron to angular communication

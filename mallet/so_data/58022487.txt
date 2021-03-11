@@ -1,1 +1,1 @@
-i have electron applic over bitbucket have build pipeline. it seem that the pipelin build the applic success but unabl to push updat on the repository. here is some use log from pipeline.log from bitbucket pipeline). what gone wrong here? i'm unabl to figur out the issue. note: project has a nativ depend sqlite3, need to be rebuild for everi platform.
+BitBucket Pipeline failed for electron application build error in image format

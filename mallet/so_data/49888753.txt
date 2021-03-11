@@ -1,1 +1,1 @@
-i have an electron app in which when user click on a button i want to open file explor (or finder on mac) for user to choos a path in their file system. then i want to use this path to save a file.th second part is quiet easi to achieve. i just need to use writefile() from node file system api.howev i have gone through the full list of node file system api and i have found noth allow me to do the first part.
+In Electron, how to allow user to pick a file path

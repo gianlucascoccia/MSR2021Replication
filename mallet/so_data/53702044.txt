@@ -1,1 +1,1 @@
-so for exampl let say the user has chrome open in full screen. then a popup come from the electron app, but it overlay on the chrome screen instead of switch screen to the electron app.lik the vpn app below;how would i go about do this?
+How do I bring a window to the front, without "switching" apps in electron?

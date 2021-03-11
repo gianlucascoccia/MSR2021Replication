@@ -1,1 +1,1 @@
-do flow type definit for electron exist? as far as i know, electron has offici typescript type definitions, but not flow type definitions. i spend some time search and couldn't find anyth useful. i'll probabl just end up migrat the typedef from typescript to flow, sinc both are veri similar syntactically.
+Flow typedefs for Electron

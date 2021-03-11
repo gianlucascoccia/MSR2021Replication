@@ -1,1 +1,1 @@
-i am current tri to make a chat desktop applic use nodejs, angularjs, and nodewebkit.for notifi the user, in the icon in the taskbar, i use setbadgelabel().how can i chang the color of the default badg label by the function setbadgelabel()?thank in advance.
+Change color for setBadgelabel Node Webkit

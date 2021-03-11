@@ -1,1 +1,1 @@
-i have a react compon which i use in my electron application.however, i do not know how i can make this work. i do not know how to give my react compon access to function which is in a nodej file, or how els i would connect the two. i am use electron, so it should be possibl for me to use nodej (somewher somehow). but i just have no clue how to put these thing together. i would be glad if someon could help me out.
+Using nodejs & react together (in electron)

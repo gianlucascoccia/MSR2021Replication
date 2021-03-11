@@ -1,1 +1,1 @@
-in my nw.js app i have a menubar with a parent menuitem. parent has both a click event and a submenu. i notic the click event on parent doe not trigger when there is a submenu. is there ani way to captur the click event on the parent menuitem of the submenu? or is this simpli expect behavior?
+Click event not firing on MenuItem with submenu

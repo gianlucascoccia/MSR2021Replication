@@ -1,1 +1,1 @@
-i want to set proxi befor make a request to url. i look into the doc and found https://nwjs.readthedocs.io/en/latest/references/app/#appsetproxyconfigconfig-pac_urlbut i do not know how to get refer to "app". pleas see the code below and ani help will be high appreciated. i tri [var nw = require('nw');] but no luck.
+Cannot get handler to "nw" to add code in nw.js

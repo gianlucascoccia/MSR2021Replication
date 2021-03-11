@@ -1,1 +1,1 @@
-i have an electron app that use
+Missing typing when using window.require with Electron and TypeScript with create-react-app

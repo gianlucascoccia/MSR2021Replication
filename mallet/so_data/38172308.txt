@@ -1,1 +1,1 @@
-i'm use node v6.2.2 and electron v1.2.5.i have a small applic that i'v built on top of electron and now i need to mayb i'm do it wrong but i don't think so becaus when i'm use nodej it seem to work just fine.i'v tri mani exampl but none of them seem to work, anoth possibl is that i need to do someth special in electron for it to work but i don't know.
+Spawn a child process in Electron

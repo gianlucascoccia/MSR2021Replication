@@ -1,1 +1,1 @@
-i tri to includ lokij (locla json database) to my vue-electron app from a vue-cli-plugin-electron-builder!. src/db/db.jsif i work in dev mode all work fine but when i build electron product app is import db from ./db/db not include. thank you!
+why electron builder dont include file

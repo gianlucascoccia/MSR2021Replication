@@ -1,1 +1,1 @@
-i'm look for a way to pars a bunch of xml file in the follow directori structure:&#xd;&#xd;&#xd;i there a similar way to do the abov but recursively? thank in advance!
+Parse all xml file in a directory

@@ -1,1 +1,1 @@
-i'v build my electronj applic with electron-packag and after the build finished, when i launch it, everi data was gone. and i got an error that i'v never got befor on the dev app. (c.f screenshot)path are right becaus it work on my dev app with the same configuration.how can i fix this quick please.i'v tri to chang the directori to full path, chang insid of the config.j file.c.f : https://imgur.com/gallery/vn17hnfget all my data and my applic work correctly. (get all data, add data, display data)
+Application problem after build - ElectronJS

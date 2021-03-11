@@ -1,1 +1,1 @@
-nan
+electron-packager not installing all module from node_modules

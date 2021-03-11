@@ -1,1 +1,1 @@
-use electron in combin with angular2, typescript and electron i am tri to find out how to use a node modul packag instal via npm.the current problem is that i have to specifi the locat of the modul like
+How to use node_modules within Electron?

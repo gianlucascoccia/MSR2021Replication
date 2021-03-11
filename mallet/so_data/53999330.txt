@@ -1,1 +1,1 @@
-i'm develop an electron app and i need to creat a custom titlebar. the design is done and theoret it work (test use element.click() in js) but neither the :hover in css nor the js onclick event work.
+Why doesn't CSS :hover and JS onclick work?

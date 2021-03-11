@@ -1,1 +1,1 @@
-so im run an electron app that has some nativ modul of one them be a packag call
+Unable to build native package for node

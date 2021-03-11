@@ -1,1 +1,1 @@
-i am tri to import i tri to use es5 syntax in the react component, but still got the same error.
+import BrowserWindow in React Component

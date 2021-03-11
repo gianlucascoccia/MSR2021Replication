@@ -1,1 +1,1 @@
-i am work on a project use electron and nodegit, and i recent updat my dependencies. after solv the compat issues, i found two version of nodegit and electron that work. but upon test it, i found that async nodegit oper fail, while the synchron one work fine. here a code exampl that doe not work:&#xd;&#xd;.
+Async operation with nodegit on electron not working

@@ -1,1 +1,1 @@
-so, i am work on a small app built with electron that crawl a websit and take screenshot use webshot.i am use the dialog modul so the user can chose a folder to save the screenshot to.th variabl "filename" in the webshot callback is the path chosen by the user. the expect behavior is : take a screenshotcr a folder at the chosen path if it doesn't existsav screenshother is a simplifi portion of the code:edit: i am use node : 6.5.0, chrome : 53.0.2785.113, electron : 1.4.3
+Electron app with webshot

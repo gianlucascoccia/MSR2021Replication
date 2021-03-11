@@ -1,1 +1,1 @@
-in my electron app i have a webview. if i click a link (e.g. on google) and then move back, the link turn not purple, like in normal browsers.can i activ this behaviour in electron too? or do it programmatically, if i would store the brows histori by myself?i guess it is somehow connect that the histori support in electron is not yet the best?would this mayb possibl with muon fork of electron?
+Trigger :visited state (make link purple) when browsing in Electron

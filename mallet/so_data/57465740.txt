@@ -1,1 +1,1 @@
-for example, suppos i havewil the under implement in on the nativ side of the browser be use some zero-copi approach to get the video onto the screen?if not, what may be the most effici way to get the camera onto the screen if i'm in an electron app?
+Most efficient way to stream video in Electron application? (getUserMedia?)

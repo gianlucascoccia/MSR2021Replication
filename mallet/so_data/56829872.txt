@@ -1,1 +1,1 @@
-i'm quit new to use vue-electron but i'm make a test app with spotifi api. to use their api you must redirect to an extern url for exampl along with these errors:https://i.gyazo.com/22b56fd907c20eceb6dcbbe16cfda643.pngif you need ani code just comment as i'm not sure what i could give you which could help you understand my issue, thank
+Error when redirecting back to vue router from external url

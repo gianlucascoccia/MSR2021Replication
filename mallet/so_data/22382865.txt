@@ -1,1 +1,1 @@
-i want to packag a krakenj app for node-webkit but i can achiev that especi for the "main" key manifest.can someon provid me a basic templat base on kraken ?thank
+KrakenJS & Node-Webkit - Sample Project

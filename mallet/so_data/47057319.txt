@@ -1,1 +1,1 @@
-i have a web applic written in react that i want to also encapsul into electron. the authent part is done use firebas method.when tri to authent electron open a popup but noth happen and it remain blank. i can't seem to catch ani error in the consol of the main app or the popup. i'm suspect it may be an issu with the author domain insid firebas but i'm not sure and i was wonder if it even possible.
+Electron with Firebase authentication

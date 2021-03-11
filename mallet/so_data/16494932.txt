@@ -1,1 +1,1 @@
-edge.j connect node.j and .net. node-webkit is an app runtim base on chromium and node.js. has anybodi put these two together? is it possible?explanation: i would like to write app with front-end in html + typescript and back-end in f# (heavi comput etc.).
+Connect edge.js + node-webkit

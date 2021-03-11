@@ -1,1 +1,1 @@
-i'd like to achiev the same opening/clos anim as maco notif center, basic have it slide from a side.i it possibl to do this use electron?
+Electron, how to make a window slide from offscreen? (like the notification center)

@@ -1,1 +1,1 @@
-similar to how to get the argument for open file with electron app but the solut there is not work for me.using:o - window 10electron - https://github.com/castlabs/electron-releases.git#v1.8.7-vmp1010electron-build - v20.28.3i have a an electron app build with electron-builder, and use the latter i have specifi a custom file association,
+How can I get information about the file that launched my app?

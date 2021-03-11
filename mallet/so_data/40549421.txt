@@ -1,1 +1,1 @@
-i am work with electron-build programmat to generat instal packages. so far i have this as my util to creat the instal packag for the current os type:. so far so go. but how do i actual control that final file name? or at least retriev that file name programmat so i can read it in and respond to the client in some way? obviously, i could piec it togeth from the json file set but it i would rather it be more definitive.
+Retrieve or Specify output file name in electron-builder

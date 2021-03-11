@@ -1,1 +1,1 @@
-i tri is to includ this error occur in the file electron_asar.jsclick here to see itwhat did i do wrong? i assum i have to somehow configur the modul therewith it work with electron but i don't know how.
+Using electron-usb with electron

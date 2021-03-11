@@ -1,1 +1,1 @@
-i ran into the follow error while tri to run my electron app that contain my express app.
+Error: Could not locate the binding file. Tried:

@@ -1,1 +1,1 @@
-i am new to electron and about to build a mini application.in electron,i have no idea about this situation: main process need to send messag to render process a when main process got signal from anoth render process.i tried:});but it turn out to say sendsync is not a function.
+How can I implement process synchronization in Electron?

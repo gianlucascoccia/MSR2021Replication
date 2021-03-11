@@ -1,1 +1,1 @@
-help to make the same window, as with skype when we call, we see window with call info, via electron. the point is that this window is alway on top of all window on your computer, includ games.th parameter: true set the window in front of all other windows, but the game cover it in full-screen mode.i it possibl and how it can be implement in the electron or in what way it can be done?
+How to make Electron in a window on top of all other Windows a an indicator of Skype

@@ -1,1 +1,1 @@
-i have an exist node script that i run from cli like from my app folder it is. in either case, sinc electron run on nodej is there an easi way to run a node script from an electron app?
+Spawn child node process from Electron

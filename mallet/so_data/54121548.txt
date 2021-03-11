@@ -1,1 +1,1 @@
-i'm work with my first electron app. i have a compon that link to anoth compon in anoth route.i'm just not sure how to do it.her my code:when the user click the link, the new compon is loaded, but how do i get the valu for id?
+passing data between component via Link

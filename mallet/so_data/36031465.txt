@@ -1,1 +1,1 @@
-i have an electron app that use should i be tri to get it in a differ way?
+Electron kill child_process.exec

@@ -1,1 +1,1 @@
-i have a php webpag where i'm use reactj 15.6.2 with react-js-search. (two simpl includ .js files) it is work well in ani browser, but as soon as i open this page with my electron app (i'm use are in the same file. is it possibl to have both ? can i just ask to integr electron without mess up my reactj setup ?
+Solve conflict between Electron and Reactjs

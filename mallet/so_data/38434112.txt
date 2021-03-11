@@ -1,1 +1,1 @@
-hello is there a way to put chrome in devic mode use javascript (or electron configuration) for desktop browser? we have an app that we need touch event on a electron desktop app which have a touchscreen connected, howev the os doe not treat the devic as a touch panel but rather just a mous with pointer. so we want to forc our web app (through javascript or electron configuration) here is my electron code:
+How to put chrome in Device Mode (to enable Touch events) using Javascript (or Electron)

@@ -1,1 +1,1 @@
-i'm learn electron by write the app that should pars and analyz .csv files. as a frontend part of it i'm use vue.js. initi function should be next: user select a file, main process pars it, file summari display at the client as a part of a vue component. code below: pleas tell me the right way to wait the async part of loaddatacsv() to be complet befor send answer to ipcrenderer.
+Sending response to ipcRenderer from ipcMain after asynchronous operation completes

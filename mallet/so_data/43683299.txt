@@ -1,1 +1,1 @@
-my issu is hard to explain, but i'll tri - i'v got electron error is there a workaround? mayb i can use express to get my files?
+Electron + Angular = no local files?

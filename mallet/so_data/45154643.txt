@@ -1,1 +1,1 @@
-so basic a have a node.j modul that is requir using:th problem is that when my project is built with electron-build and nsis, the modul cannot be found. like due to the file path be complet differ after the project is packag and build.list it as a depend doesn't help.what the best way to solv this issue?
+How to include a Node.js module using a relative path with Electron-builder

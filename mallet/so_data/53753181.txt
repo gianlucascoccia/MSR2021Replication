@@ -1,1 +1,1 @@
-i'm pretti new to nodejs, but i do have quit a bit of experi with vanilla js.in the follow code, what exact am i do wrong here?it doesn't within anoth function for it to work properly?
+webContents.send and ipcRenderer.on Not Working

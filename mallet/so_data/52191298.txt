@@ -1,1 +1,1 @@
-i'v tri set on window
+Accept stdin in Electron-Main process on Windows?

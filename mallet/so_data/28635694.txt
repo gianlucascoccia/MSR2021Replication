@@ -1,1 +1,1 @@
-i am tri to creat a menu for a mac node-webkit app. i am tri to append a prefer menu item to the first/root menu(app name > about, preferences, etc). i have not been abl to figur out how to access the menus that the .createmacbuiltin(); function creates. i have onli been abl to creat a new custom menu. has anyon figur out how to do this. see slack mac app for an example. here is my code so far. thank for the help.
+Mac Node-webkit menu

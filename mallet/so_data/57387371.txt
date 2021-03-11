@@ -1,1 +1,1 @@
-i have an electron app that need to be publish to a public github repo as a mac os x releas use
+electron-builder Not Publishing to GitHub on Mac OS X

@@ -1,1 +1,1 @@
-i am creat an electron desktop app and i am struggl with what might be a veri simpl concept. let say i have two html page (we'll call this . i am confus on how to approach this problem. essenti how do i pass back a valu to an html page which has alreadi been rendered? ani help would be appreciated. thank you
+How to pas a variable from one HTML window to another in Electron?

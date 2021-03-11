@@ -1,1 +1,1 @@
-i have an issue, i have creat an elctron app and connect it to an sqlite3 database, creat some crud oper and everyth work perfect fine as far as i am on develop mode (acces from npm).but after packag and build it, make as an exe file, i cant retriev those same data that work in dev mode.hop you can help
+Can't get data from Electron app (after deploying)

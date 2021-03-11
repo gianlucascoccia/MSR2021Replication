@@ -1,1 +1,1 @@
-im use a custom touchscreen and i want to activ by default the touch event in node-webkit, is that possible?thi one tell node-webkit how to open the app and control how the browser behaves.update:i'm use ubuntu like os, all function of touch event work like you are use a mouse(for exampl you need to scroll down with the scroll bar..). the question is how can i tell my os that i need to use the mobil touch events?thank you.
+Enable touch event in node webkit

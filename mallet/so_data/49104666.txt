@@ -1,1 +1,1 @@
-by use nodej i am execut a process, everythin is work fine onli problem is the process exe keep on run even if parent app is killed/closed.for exampl a code to kill a processbi this "finder.exe" get kill but if i observ task manger then "taskkill.exe" keep on running. what i suppos is after kill finder.ex taskkill.ex should get terminate, whi this is happen and how i can solv this?
+process executed by exec keep on running

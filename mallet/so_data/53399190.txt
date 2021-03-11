@@ -1,1 +1,1 @@
-i am tri to build a custom servic desk app use electron and node. i would like the app to be abl to scan for patch and then push said patch but i am have a tough time do so. i found the wua (window updat agent) but i can not figur out if that is what i need and how to integr it with javascript / node\thank
+How to scan for patch using node and electron?

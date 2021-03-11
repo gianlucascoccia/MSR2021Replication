@@ -1,1 +1,1 @@
-there is an electron framework that give you a strip down browser to build your user interfac for the desktop application. in my case, i am use then the handler exit befor the promis is resolv and no suggest are shown.how could i use the databas queri result in my event handler?
+Use sequelize query result inside a jquery event handler

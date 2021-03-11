@@ -1,1 +1,1 @@
-i develop electron for wrap angular application.al of good for start electron. but, i encount some issue.mi angular app login is oauth.so, some redirect path exist when oauth process.problem is electron url path redirect page.
+electron in angular get error "Uncaught ReferenceError: jQuery is not defined" in redirected page

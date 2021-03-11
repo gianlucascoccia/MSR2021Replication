@@ -1,1 +1,1 @@
-we are work on a custom face electron app which should run in kiosk mode. the applic run on a touch enabl devic with window 10.even when the app is in kiosk mode, user can easili get into the os by use the swipe gestur (swipe left and swipe right) of the os. what is the ideal way to lock down the app and prevent user from interact with the os?
+Electron JS kiosk mode with touch screen

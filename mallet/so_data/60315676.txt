@@ -1,1 +1,1 @@
-i would like to send a function from my main to render processi have an function which i export from the is deprecated. so a better solut will be doubli appreciated.
+Cannot send function to Electron Renderer process from Main Process

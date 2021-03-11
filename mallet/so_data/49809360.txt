@@ -1,1 +1,1 @@
-i am make a desktop applic use electron and react.j in which i have to encrypt and decrypt file (.txt, .pdf, .jpg, .png) use crypto library.i am use stream to do that.so i just get the file from fileapi and pass the file path to creat readstream.thi code work fine for onli for .txt files.ani help to make this work for other file formats?
+Encrypt and Decrypt file using Node.js Crypto Stream

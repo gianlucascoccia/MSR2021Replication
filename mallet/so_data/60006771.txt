@@ -1,1 +1,1 @@
-i'v start to learn electron and it immedi struck me with it unusu name convent for events. some of them are name with the etc? this is realli confusing.
+What is the 'did-' event prefix in electron's event about?

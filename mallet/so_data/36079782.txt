@@ -1,1 +1,1 @@
-i'm use github electron to open a small new window whenev a user hit a global shortcut.currently, that window open wherev the user cursor is, but this is a littl unintuit when a user is type in a text area, as i would prefer the box to open where the cursor focus is.from read the document there doesn't appear to be a way to grab the cursor locat (eg. the caret where the user is typing) rather than the pointer location. is it possible?
+Open a window wherever system focus is using Electron

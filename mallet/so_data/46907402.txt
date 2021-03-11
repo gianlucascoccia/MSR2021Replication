@@ -1,1 +1,1 @@
-i have call dialog with sampl messag and button field to popup but addit i need to includ two textfield in same dialog box but i couldn't make it. can anyon solv my problem by suitabl answer.her my sampl code in electron application:
+how to add two textfiled and one button in electron Dialog box

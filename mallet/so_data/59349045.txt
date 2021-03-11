@@ -1,1 +1,1 @@
-i have a messagebox that will open when the user click close on dashboardwindow (x button top right on window os) alreadi run even when there is no click on the buttons. how i can make the respons work (return index button on messagebox)?log on window close
+dialog.showMessageBox not returning button index in electron main.js

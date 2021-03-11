@@ -1,1 +1,1 @@
-i am creat web applic use node.j and nw.jsnow i am export the below modul admin.j but it say adm is not a constructor
+exporting module in node.js and nw.js but unable to call to constructor

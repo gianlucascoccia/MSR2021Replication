@@ -1,1 +1,1 @@
-i am use electron-build with privat github repositori to publish electron package. whenev i am publish it requir some version number base upon that it creat a tag and version in repositori too.her is feedurl structure:mi problem is revolv around how can i manag releas for differ environ dev, qa and prod as these all are point to same repositori to check updates.i there ani mechan to publish or check updat onli associ with specif branch? or ani other suggest ?
+How to manage electron package deployment for different environment?

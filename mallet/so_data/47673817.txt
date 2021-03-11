@@ -1,1 +1,1 @@
-i have 2 is activ but it should be disabl / inactive.ani suggestions?
+Electron browser window

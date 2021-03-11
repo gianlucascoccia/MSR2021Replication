@@ -1,1 +1,1 @@
-i need a the electron start with transpar window in linux, the document say i need put --enable-transparent-visu --disable-gpu in the command line. is there a way to pass the command line arg in the program not in the termin command line.lik this:th arg have set in the program.it mean i just doubl click the bin file and the arg are ok. don't need to pass them manually.
+how to set command line for electron

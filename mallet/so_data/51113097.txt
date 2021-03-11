@@ -1,1 +1,1 @@
-electron 3.0.0-beta.1nod 10.2.0chromium 66.0.3359.181the problem i'm have is import a module. i creat the follow protocol:but i keep get the error:app.js/:1 fail to load modul script: the server respond with a non-javascript mime type of "". strict mime type check is enforc for modul script per html spec.i'm done search but can't seem to find a solution. can anyon suggest a way i can make this work?thank
+Electron ES6 module import

@@ -1,1 +1,1 @@
-i have a simpl app which is base off electron-quick-start with almost no changes. i'm tri to use nedb and pass it in my userdata path. my package.json accord to console, userdata is c:\users\me\appdata\roaming\electronshouldn't it be this? c:\users\me\appdata\roaming\my-electron-app
+App.getPath("userData") seems to give the wrong path

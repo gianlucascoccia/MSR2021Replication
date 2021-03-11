@@ -1,1 +1,1 @@
-i am new in web develop and tri to use electron js to develop an application.i am tri to connect my electron app to mysql databas run on local machin but the issu is that electron is give insecur resourc warn and not display the data. i tri to turn off these secur featur but noth is working, i can verifi that my queri is fetch the data from database. pleas see the imag below:
+Electron j not displaying data from Mysql

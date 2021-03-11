@@ -1,1 +1,1 @@
-i have three separ electron apps. i want to merg them into a singl app. my use case is that the end user download the app, he should see three option on the screen base on the choic correspond app will be open. is it possibl to do? if yes, than pleas tell me the process.
+How can I bundle 3 electron app into a single app

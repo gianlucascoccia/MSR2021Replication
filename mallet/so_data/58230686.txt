@@ -1,1 +1,1 @@
-i'd like to stick all of my separ js script as file in anoth folder when develop locally. the onli way i'v been abl to do this is if i don't declar the statement. however, by not declar it, i of cours get a warning. electron secur warn (insecur content-security-policy) this render process has either no content secur polici set or a polici with "unsafe-eval" enabled. this expos user of this app to unnecessari secur risks.i there a way to do it local without either ignor or violat csp?
+Run non-inline JS locally in Electron

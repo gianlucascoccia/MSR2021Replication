@@ -1,1 +1,1 @@
-i have a midi devic (launchpad) that i want to use with an electron application. i was abl to read event on the midi devic use microsoft edg chromium use web midi api (https://github.com/djipco/webmidi). however, in order to start read the midi device, permiss need to be set, and display like so:when i run provid a way to request permissions, but for camera and microphone, not midi devic (https://electronjs.org/docs/api/system-preferences).thank you veri much, and ani help is appreci :)
+How can I request MIDI device permission on Electron?

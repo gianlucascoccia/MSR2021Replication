@@ -1,1 +1,1 @@
-i am use electron and am tri to open a file browser when a user click on button. from the render process i am tri to includ the elctron.dialog packag like this.thi is the consol is this incorrect?
+Requiring electron dialog from render process is undefined

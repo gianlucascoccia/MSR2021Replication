@@ -1,1 +1,1 @@
-use moodl offici ionic app repository, apk and appx creat but not open, onli spinner or load moodl icon onli in both moodl app and desktop app.moodl desktop imageaddit inform -window app - https://build.phonegap.com/apps/3543198/download/winphonelog - https://build.phonegap.com/apps/3543198/logs/winphone/build/repositori - https://github.com/akash-clideg/desktop-app-moodl
+electronjs moodle app loading only , not work properly

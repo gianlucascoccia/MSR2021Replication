@@ -1,1 +1,1 @@
-i am use electron version 5.5.1 on windows10.i open the web page in webview and ad the contextmenu event to the web element. and then i ad the event is also triggered?
+Electron:The bubbling event on webview

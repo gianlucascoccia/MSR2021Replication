@@ -1,1 +1,1 @@
-i want to instal homebrew depend for maco use electron js.i am unabl to do so becaus the command which is use to instal homebrew requir multipl interrupt from the user. i have tri use child_process of node js but i am unabl to provid sudo password to that command. how can i do sohomebrew instal command: pleas help me out in instal the homebrew depend for maco use electron js. i am stuck in it.
+Install Homebrew a a dependency in Electron through Child_Process

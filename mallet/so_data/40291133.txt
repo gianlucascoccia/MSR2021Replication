@@ -1,1 +1,1 @@
-i have creat a simpl websit and a correspond javascript file. when i open the site in ani browser, it work fine. the script get execut and there are no errors.then i tri to convert my websit to a web-app use electron. for now i didn't chang anything, and ad onli a package.json and a main.j file, as describ in electron get start guide.when open the app, i can see my websit just fine. but there is alsoan error pop up: referenceerror: $ is not definedthi come from my javascript file:
+Dollar is not defined

@@ -1,1 +1,1 @@
-i have begun develop an app use electron, github desktop applic framework. i am use the electron boilerplate.to run the app i run or is there anoth problem here?thank
+Why aren't my asset being moved when building an electron app?

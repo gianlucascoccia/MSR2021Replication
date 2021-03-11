@@ -1,1 +1,1 @@
-i am set the main window height like this:i can see that the width is all fine,howev the height is actual smaller for some reason:i.e. 680px instead of the specifi 702.how do i enforc the 702px height?
+Electron height in Browser Window is not propagated

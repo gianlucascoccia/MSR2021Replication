@@ -1,1 +1,1 @@
-i am use electron app with angular and node serialport librari to interact with my usbmodem device. the port is get creat but it is fail to open in window 10. it is work fine in mac os. main.tserror: error open port [error: open /dev/tty.usbmodem*****: unknown error code 3]could anyon help me fix this? thank
+Could not open serial port in Windows 10 using node serialport library

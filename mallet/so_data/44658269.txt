@@ -1,1 +1,1 @@
-load https://github.com work fine for exmaple.but load an insecur https, the page display empty.i'v done some research and tri the 3 flag (
+electron how to allow insecure http

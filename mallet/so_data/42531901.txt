@@ -1,1 +1,1 @@
-i have a electron applic which use react &amp; redux, so i have action creators, reduc etc. i also have a function in my render file (nodejs) which doe some async stuff. i want to call this function from within my action creator. i guess i will have to use redux-thunk for this or some other async library, however, i am not quit sure how to access this function in the render process and use it in my react.redux app?so e.g. for the action creator:
+Call renderer process from React-Redux action (Electron)

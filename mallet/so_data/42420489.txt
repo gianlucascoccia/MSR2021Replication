@@ -1,1 +1,1 @@
-in my electron-app i'v got just one singl window. while navig through the differ "forms" of my app, i use to call the but this will also fail (the background of the app will alway be white-color for a second or more while switch the url's.i there a way to avoid this?
+Electron: Avoiding flashing when switching URL's with 'loadURL'

@@ -1,1 +1,1 @@
-i have creat a softwar use nodej and express, i packag it and creat an execut use node-webkit. i will deliv the file to my client. but the problem is that if my client copi the file and put it on anoth computer, he can still use the app. how do i creat an exe file use node-webkit for onli one pc?
+node webkit installer for a single user

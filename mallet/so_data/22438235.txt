@@ -1,1 +1,1 @@
-is there ani simpl way to align window of node-webkit application? as far as i can see in document there is such metod as window.moveto(), as well as properti "position", which nevertheless could have onli 3 values: "center", "mouse" and null. so in order to align the app by the right side of monitor i need to move window manual from code on start, or are there ani other way?
+Node-Webkit (nwjs) How to align window to the right?

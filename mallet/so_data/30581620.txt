@@ -1,1 +1,1 @@
-i am tri to develop a web app use node webkit. whenev i receiv ani notification, i current display it to the user by use window system tray notification. howev current it use the current theme of window notif popup. is there a way to creat a custom ui to do the same? (like the pop up which come when a user come onlin on skype). is it possibl to do use node webkit?
+Custom UI for notification in node-webkit

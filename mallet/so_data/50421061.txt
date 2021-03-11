@@ -1,1 +1,1 @@
-i have a small node.j / express app deploy to heroku.i'd like to use a lightweight databas like nedb to persist some data. is it possibl to period backup / copi a file from heroku if i use this approach?
+Can I use a file based database on Heroku?

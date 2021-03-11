@@ -1,1 +1,1 @@
-there are configur and execut file in the "appdata\roaming\"aft bundl with electron-builder, those file can't be save for new installation.how can the file be includ in the instal packag so that it will be extract to the desir locat again.i'v tri with extraresources, but it limit to the instal app directori only. "appdata\local\" in this case.
+include userdata(appdata/roaming) in the installation

@@ -1,1 +1,1 @@
-i am abl to creat persist cooki from main process (app.js)code: is undefined.pleas suggest what should i do to save persist data in the browser.
+ElectronJS: how to manipulate cooky from rendered Process(browser window)?

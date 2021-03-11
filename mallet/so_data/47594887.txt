@@ -1,1 +1,1 @@
-in my electron - angular app which i creat use electron-forg i am tri to import jquery. i did follow steps:instal jqueri
+electron-forge: add jquery

@@ -1,1 +1,1 @@
-i am run electron app use nodejs. i want to print build date in my app. this date indic when i ran my last build for app. i look at js date method and use it in my code as shown below. but this pick up current date.but my purpos as i told earlier, date should not change, when user run the app i want them to see last build date of my app. i don't want to manual pass arg to date method i want js to pick it automatically.how to achiev this via js?
+Javascript : Build date remains constant till next build

@@ -1,1 +1,1 @@
-is there a way in node-webkit to show the status bar - the strip at the bottom of the screen which display the url you are about to visit when hover a link? can it be set to a custom valu like the olden day with ? i natur thought this would be a valu in package.json but i can't find ani inform on it.
+Show status bar in node-webkit

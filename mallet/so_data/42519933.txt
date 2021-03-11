@@ -1,1 +1,1 @@
-i'm tri to write an applic that allow the user to select a region of the screen (like select to take a screen shot).i that even possible?
+select a region of desktop screen with Electron

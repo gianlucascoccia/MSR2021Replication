@@ -1,1 +1,1 @@
-i was wonder if there is a way to immedi halt (exit) a function while it execut when i receiv a signal.curr the signal is sent via is a seri of sequenti (async) requests.
+Halt function execution based on stop signal

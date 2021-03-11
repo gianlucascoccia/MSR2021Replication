@@ -1,1 +1,1 @@
-i have a simpl applic that need to run a background process to get some data. i would like to show a load indic while the data is be retriev and i am have troubl with get that done.i am use function. neither appear to work.ani insight would be much appreciated. thank you.
+Why doe it look like IPC message from one menu item in Electron reach my window, but not when sent from another menu iteam?

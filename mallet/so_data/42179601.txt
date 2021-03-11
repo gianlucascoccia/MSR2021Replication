@@ -1,1 +1,1 @@
-i am build an app with the electron framework use pouchdb. some valu in my databas are chang over time and i want to see them without creat new document with each new update. that way i want to use revis as they are be creat from new everi time i updat a doc. the question is how can i fetch a document just use it revision.thank for your help in advance.
+How to get document with the revision attribute in pouchdb?

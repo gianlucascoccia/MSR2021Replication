@@ -1,1 +1,1 @@
-i am tri to fetch the refer of the webview that i have made avail insid a webpag which is remot host and i load this webpag insid my electron app.a i need webcont instanc to print silent , i want the webcont which refer to the webview insid the page. constraint here is , print should be main process driven and not handl by the web page on it own .how can this be done ?
+Electron : How to access webview inside a webpage which is rendered in the render process from the main process (toPrint , etc)?

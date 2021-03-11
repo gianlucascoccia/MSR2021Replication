@@ -1,1 +1,1 @@
-is it possibl to show the dev tool within a built electron app? the execut that i built use at the command line, and i have no way to see what kind of except are be thrown.
+How to get dev tool in built electron app?

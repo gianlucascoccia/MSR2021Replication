@@ -1,1 +1,1 @@
-im make a local electron app. the ifram get content from a local server which i have access to and can edit the php page that is show in the iframe.mi issu is i cant seem to get the url of the iframe. is there anyway i can at least get the url. or can i send function across to my electron app use ani help would be great appreciated.
+Electron. Getting Url of Iframe Cross-Origin

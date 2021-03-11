@@ -1,1 +1,1 @@
-note: i'm a beginn to webpack.i'm tri to get webpack to load my .htmls file (index.html and login.html) as they will serv as window for my electron application. this is what i have tri so far with no results: directory) are not included.
+get webpack to include html file

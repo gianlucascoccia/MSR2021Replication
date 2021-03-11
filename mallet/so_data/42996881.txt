@@ -1,1 +1,1 @@
-i'm tri to integr c++ with html use electron and node js.but i'm confus by the node_module_version.i have a binding.gyp like examples.but when i combin it with electron,ther is someth wrong.i have read the api of both electron and nodejs.som told me to instal nvm to chang nodej version,and other advic me to instal electron-build.i tried,but they don't work.(i think it will be strang if they work).i think what the matter is the version of nodejs.but my node is v7.7.4!so,how can i updat the version of modules...thanks~
+Node Addons (C++) in Electron

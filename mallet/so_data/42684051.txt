@@ -1,1 +1,1 @@
-i'v got my electron build file for a win .ex and instal but the icon aren't mine. in my main.j file, i have code to attach the icon but i can onli make it work insid of the createwindow function. outsid the function, i get an error message. the .ex will run and i get my icon, though it i get an error in do so; the instal won't work at all. i'v tri go through sever tutori but none of them solv this problem.main.jsi'm not sure what to do from here.
+How to add an icon to electron application

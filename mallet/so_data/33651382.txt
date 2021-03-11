@@ -1,1 +1,1 @@
-i have a node webkit applic where i essenti do this:it appear to be a common issue- https://github.com/nwjs/nw.js/issues/1440 - and it doesn't look like a problem specif to node-webkit:java swing fullscreen with keyboard input on mac os xfullscreen swing compon fail to receiv keyboard input on java 7 on mac os x mountain lionha anyon els encount the problem?i am, of course, veri interest in a node-webkit work around, but would be interest in hear about solut in other languages.
+Node-Webkit: Kiosk mode blur the window and detaches keyboard event handler on OSX

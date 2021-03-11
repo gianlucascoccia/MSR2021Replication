@@ -1,1 +1,1 @@
-accord to the tutorial, there are two part of an electron app - the entri as a script in the html filehow do i trigger event in the view html file to affect the state of the js app and vice versa ? how do they both communic basic ?
+Passing information between j and html part in electron (atom-shell)

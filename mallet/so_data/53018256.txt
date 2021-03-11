@@ -1,1 +1,1 @@
-in my electron application, i need to send a request which includ a modifi electron v3.0.6
+electron - sending GET request with modified Referer header

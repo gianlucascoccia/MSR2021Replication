@@ -1,1 +1,1 @@
-use electron net module, the aim is to fetch a resourc and, onc the respons is received, to pipe it to a writeabl stream like so:th respons end up be an instanc of incomingmessage, which implement a readabl stream interfac accord to the node docs, so it should be abl to be pipe to a write stream.th primari issu is there end up be no data in the stream that get pipe through
+No data after piping response stream

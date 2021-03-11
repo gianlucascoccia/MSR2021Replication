@@ -1,1 +1,1 @@
-i'm tri to captur the click even on a tray icon click with a context menu on osx, but accord to the doc this is disabl in osx for some reason:
+Context menu click/open event with Atom Shell/Electron?

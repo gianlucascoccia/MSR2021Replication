@@ -1,1 +1,1 @@
-i have a problem that is relat between control in electron of node.j and hwnd type in windows. i need to direct connect with the input method editor in window os. there are some function that can chang ime such as: immreleasecontext() and immgetcontext(hwnd).th paramet of these abov function is the type of hwnd. in electron, i can not get the hwnd of this "input text control of electron"?or can you leav me some hint to solv this problem?thank for your helps.
+Get handle HWND of input text control in electron

@@ -1,1 +1,1 @@
-so i'm tri to perform some action on the parent compon of the child compon when a click event is fire in the child component. current i have a dynam loader which is abl to load differ child components. the problem i have is that the @output() is be emit but the parent compon doesn't seem to have ani knowledg when this event is fired. is there someth i am missing? child2.component.t
+Perform action in parent on child event click

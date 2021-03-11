@@ -1,1 +1,1 @@
-i'm use version . though i'm not sure. what am i do do wrong and how to i achiev my goal?
+Electron - How to change the default .icns that Electron add

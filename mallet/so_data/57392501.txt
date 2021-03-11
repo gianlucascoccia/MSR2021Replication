@@ -1,1 +1,1 @@
-use npm start, my app is abl to creat a folder (in my dev folder) use this:aft use npm run dist (run electron-builder), and then after run the installer, my app is instal to : c:\users\myusername\appdata\local\programs\myappnow run the instal app, it is unabl to creat my folder log in this new directory, whi ? (noth happen)
+App can't create folder after using electron-builder

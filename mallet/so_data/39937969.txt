@@ -1,1 +1,1 @@
-i tri use chorome.ident to auth my app but it seem nwjs can not load login page that provid by chrome at chrome://chrome-signin/?access_point=6&amp;reason=0.i have my package.json just like this:i there ani wrong code i'v written?
+Chrome App Identity Login Not Working

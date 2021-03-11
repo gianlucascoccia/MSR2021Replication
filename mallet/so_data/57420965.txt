@@ -1,1 +1,1 @@
-i'm build an electron app with parcel, use babel 7. basic a modifi version of this tutorial.i'm use a basic .babelrc: and reinstalling. error is in my render where i'm use es6 import. if i switch just the render to es5 imports, it works.
+'Unexpected Identifier' when using Electron with Parcel and Babel 7

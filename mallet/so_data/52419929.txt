@@ -1,1 +1,1 @@
-i am tri to run an electron exampl on theia. get follow exception. ani help ?
+Example on Electron of theia doesn't run

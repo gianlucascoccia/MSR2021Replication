@@ -1,1 +1,1 @@
-is it possibl to open angular 2 applic in node webkit and explain how?i instal angular 2 by using:it wont start the angular app.how to handl this?
+is it possible to open angular 2 application in node webkit and explain how?

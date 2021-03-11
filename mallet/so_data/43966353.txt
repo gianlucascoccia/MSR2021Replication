@@ -1,1 +1,1 @@
-i'v creat a new electron-project with angular. i build my app with the angular cli. now, i want to communic from renderer-process to main-process and get an error in dev-tools:without that line, the app run without ani problems. due to electron i have to refer the ipcrender that way... https://github.com/electron/electron/blob/master/docs/api/ipc-main.mdi have no idea what i am do wrong and hope, you can help me.
+Electron & Angular: fs.existsSync is not a function

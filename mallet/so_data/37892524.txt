@@ -1,1 +1,1 @@
-atom expos some global api that you can access from how doe this function work? atom packag don't explicit have atom as a dependency, yet they can still do this. moreover, how can i do this in my own electron applic with my own global package?
+How doe require('atom') work?

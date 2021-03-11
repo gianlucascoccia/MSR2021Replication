@@ -1,1 +1,1 @@
-i am get the filenam from a folder use the follow code:th problem is that it also pick up unwant file like: .ds_store.how can i fix this?
+Javascript Electron remove/ignore a certain item from a list

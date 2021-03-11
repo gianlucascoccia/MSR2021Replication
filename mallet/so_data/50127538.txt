@@ -1,1 +1,1 @@
-i'm tri to make it so when a field in the configur documentation. the issu i'm have is that it doesn't seem to be document what function this call in the application.i'v gone through all the document and tri implement icpmain event listen but couldn't find the name of the listen i was look for.
+Opening File with Extension in Electron

@@ -1,1 +1,1 @@
-i have creat a basic imag compress app use electron and imagemin which is work fine when run usin is there anyth i am miss while packag the app?
+How to fix below file error while compress image by electron app using imagemin?

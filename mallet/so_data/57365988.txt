@@ -1,1 +1,1 @@
-i'm attempt to set up an e2e test suit for an electron applic run on electron@5.0.2. i'v tri use spectron, but am continu run into problem with . what is caus this error and how do i resolv it?
+TypeError on Electron's example using Webdriver's client.init()

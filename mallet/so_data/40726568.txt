@@ -1,1 +1,1 @@
-i am tri to retriev the comput name from my comput so i can use it in comparison in my mysql query. i would like to defin . this applic is be run via electron for windows.ani help would be great appreciated.
+How to grab the computer name with NodeJs / Electron?

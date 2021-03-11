@@ -1,1 +1,1 @@
-i'm work on an ide as a side project use nw.js and i need to detect if there ani chang to my project tree when focused.i'm use jqueri .each check if the file in the project folder have chang sinc be focused.her what i have for window focus function.
+NW.js: If both array are equal not working

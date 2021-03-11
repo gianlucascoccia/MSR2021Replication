@@ -1,1 +1,1 @@
-can someon help me with the follow queries.what the differ between the two? pleas help/guidethank you !!
+Create App installer for window - Electron (electron-packager, electron-builder)

@@ -1,1 +1,1 @@
-there is featur of screen record with audio so,i have to ask microphon permission.in that, if permiss is not enabl then i show a dialog box with warn app can not access your microphon but issu is like i am current activ on a primari display (macbook) and dialog show on connect display (lg ip fullhd display) and my app has freezed.i can not do anyth until action on the dialog.provid me a better solut to show a dialog.
+Change position of Electron showMessageBox (Dialog box) and show on selected screen

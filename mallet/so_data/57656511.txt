@@ -1,1 +1,1 @@
-i am tri to connect to howev i can't see request in electron devtools, so can't verifi tls version
+How to debug 'unable to verify the first certificate' from electron app?

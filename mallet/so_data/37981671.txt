@@ -1,1 +1,1 @@
-i wrote some code for send an async request via ipc in electron, but i wanna know that how can i abort or cancel the ipc request which i alreadi sent out.so, is there ani way to abort an ipc async request send in electron? i think it better than remov all of listen to solv this question.
+Is there any way to abort an ipc async request sending in electron?

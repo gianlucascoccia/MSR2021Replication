@@ -1,1 +1,1 @@
-i want to get an array list of all my mac contact in the contact app without use the node packag "osa-contacts" becaus it doe not work like i want it to and it is not that fast. is there a way to do that? current i am use osx el capitan 10.11.4.it is an electron.atom.io app.
+node.js get all mac contact

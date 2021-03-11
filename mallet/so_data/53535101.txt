@@ -1,1 +1,1 @@
-i alreadi ad the follow snippet to my but i could not find a singl example, how to archiev the registri write part.
+How to associate a file extension to an electron app (multiplatform)

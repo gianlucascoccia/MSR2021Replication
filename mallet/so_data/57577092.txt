@@ -1,1 +1,1 @@
-i am tri to develop an app which play audio and includ the function to chang audio devices. my onli problem is when i tri to use the when i setup the browser window but this doesn't make and difference.
+setSinkId() function throw error in Electron App

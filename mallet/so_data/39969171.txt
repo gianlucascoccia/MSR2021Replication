@@ -1,1 +1,1 @@
-i think i am miss someth with the way electron app are built but i am use the frame-less option in my error that make no sens to me. i believ it becaus i'm tri to execut a node-on modul on the angular app.i think i am miss something.do anybodi know what go on?
+Close application through the website

@@ -1,1 +1,1 @@
-i was import a sqlite3 file with electron and come up with this problem
+SQLITE IMPORTING PROBLEMS

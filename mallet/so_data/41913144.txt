@@ -1,1 +1,1 @@
-im current learn electron, i creat a simpl app in angular with webpack to livereload. howev on hot reload the app load a blank view, *see screenshot below, and i have to restart electron to get it back. i have done a similar app in react, and it work fine. i put the code up on a repo https://github.com/graemec23/favourite-places-ng1i would be grate for ani advice.
+webpack-dev-server electron angular 1.6.1 hot reload blank screen

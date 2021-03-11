@@ -1,1 +1,1 @@
-i'm tri to creat a web app use electron written in typescript. i'm have problem when build my application. specifically, i am not sure on how to combine: file and then run electron. can anyon comment on what would be the best approach to achiev this?
+Electron-Typescript: Bundling everything

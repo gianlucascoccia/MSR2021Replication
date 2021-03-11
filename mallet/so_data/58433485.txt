@@ -1,1 +1,1 @@
-new to electron and js,i current have electron launch a window and i'm edit index.html to tri to put my js code insid of the window. i was tri to use a script to run my local file: parse.j (which run fine use node parse.js) but electron requir parse.worker.js. i'v look into worker sinc then, but i can't understand what my worker should do vs what parse.j should do. parse.js:ad nodeintegrationinworker: true correct this and allow me to display my console.log.ani reason whi this was the case?
+Electron requires x.worker.js for index.html script

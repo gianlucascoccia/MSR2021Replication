@@ -1,1 +1,1 @@
-i am newbi in node.j and electron. i succeed to build electron framework follow electron build instruction.i want use electron build output like node.j module. but i didn't find instruct for electron as node.j module. my goal is custom build electron instal like "npm instal file:custom-build-electron" command.i it possible? if it is possibl how can i do that?
+How to make electron a local node.js module

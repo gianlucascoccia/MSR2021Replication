@@ -1,1 +1,1 @@
-i am use cypress to test my web site. everyth work great but there is one page that open fine when i am run the test use chrome but if i tri to run that against headless or regular electron the lhes simpli don't open. i am assum that there must be someth on my code that is not work on the chromium version that electron use (61) that do work the version that chrome use (75).is there a way to debug or check some log on what is not be abl to execute? the consol for electron doe not display anything. ani ideas?
+Is there a way to see in cypress electron browser some logging?

@@ -1,1 +1,1 @@
-i had problem to get an electron project use webpack to get pack as an msi installer. i came around electron-wix-msi package. it a wrapper for the great wix toolkit. the advantag is, that it is more window like.however, the doc are unclear and not suffici to get it immedi running. final i got it and want to share the step here.
+I cannot get electron-wix-msi running

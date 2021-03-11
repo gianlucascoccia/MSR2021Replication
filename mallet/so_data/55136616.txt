@@ -1,1 +1,1 @@
-i'm work on electron project in which i want to combin 3 featur with singl command strokes. copi the select text, open the file and past in the textbox. but currently, i'm onli abl to do it with 2 key presses, ctrl+c for copi and custom shortcut for open the file and past it. i search onlin and found some tool like browserifi but they are not use becaus i want this to work in pdfs, text file or web browser. ani help from you guy would be of huge help
+How can I copy & paste the text in Electron with single keyboard shortcut?

@@ -1,1 +1,1 @@
-i'v just start to work with node-webkit, and think it great.i'v setup a db use the "web sql database" option, mention here, and it seem to work well. much like sqlite, which i'm a bit familiar with.from the docs, this is implement use sqlite, so i'd like to be abl to find the actual db file this creat on disk and look at it with a sqlite editor, like sqliteman.wher is the db file save to?i couldn't find it in the docs, or by googl it ;-)
+Where are node-webkit database file stored?

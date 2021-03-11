@@ -1,1 +1,1 @@
-creat a electron-nextj applic for game. applic need to show a overlay window(lik steam-overlay) and main electron applic must be in background onli overlay window must be shown at the top of game window.i there ani way to achiev this featur in electron
+How to create a overlay window with electron j

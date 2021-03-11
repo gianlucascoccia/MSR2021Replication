@@ -1,1 +1,1 @@
-i have an issu regard the electron-build module.i need to add a custom url protocol to the mac os applic i'm current work on, and i don't understand where is the info.plist of the app to modifi it and add the cfbundleurlschemes.i tri creat the entitlements.mac.plist in the build folder, but after i run npm run dist it is still use the default info.plist.if you can help me with some refer to where is the info.plist file i should modifi it would be great, thanks.
+electron-builder Info.plist

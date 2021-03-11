@@ -1,1 +1,1 @@
-i'm tri to set file to no avail.
+Using NODE_PATH in electron to map folder inside src/ a module

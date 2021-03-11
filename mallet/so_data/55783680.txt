@@ -1,1 +1,1 @@
-this is littl bit confus i think it will be easier if ani one cloud just see my code on the github page. i will be veri helpful,and i'm veri appreciate.https://github.com/tonysmark/movie-dash branch 1.0.2 is the latest branch i'm occur this problem.
+Some data from VUEX can't show up on the page

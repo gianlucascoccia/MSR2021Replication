@@ -1,1 +1,1 @@
-tri to get an electron project go use react and it .jsx files. i'v gone through various tutorials, github issues, so answers, and the like, but i have not found a clear guid to set up an electron project for use with react and it files.what steps, dependencies, and configur are need to get this working?
+Using React and .jsx with Electron

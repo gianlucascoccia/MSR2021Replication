@@ -1,1 +1,1 @@
-i wanna creat an applic where you can load and save a list. now if i wanna save the current list, i select the "save list" from the tip-tool and it should open the window explor where i can save the file to a .json file (other applic have this save too). is it possibl to do it in html with ?i search but didnt find anyth that could help me.html code
+How to open the File explorer to select a file with a input HTML

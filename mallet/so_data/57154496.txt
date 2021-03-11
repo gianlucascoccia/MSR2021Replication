@@ -1,1 +1,1 @@
-i'm make a desktop app with electron which use an html file and a main.j file to do the actual program. i know i'm unfamiliar but i'm at a loss for whi what i wrote isn't working. i'v done plenti of research on make html input valu assign to js variabl but i still can't get it working.her is what i'm do in my html:
+HTML input not translating into variable in Electron app

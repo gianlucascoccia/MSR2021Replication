@@ -1,1 +1,1 @@
-i am creat the popup browser window for push notifications. when the last popup window is closed, mainwindow is automat come to foreground with focus. this is happen in maco only. window platform work fine. is there a way to keep mainwindow in as-it-i state when other browserwindow are close ? i tri to check the mainwindow.isvis to control autofocus and hide it forc but isvis is also give true even if the mainwindow is not actual visibl to the user.
+mainWindow is automatically focusing when i close the last open browserWindow

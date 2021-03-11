@@ -1,1 +1,1 @@
-i'v just start use node-webkit and came up with a serous question.i want to wrap a websit that has been build on extern domain in my nw app.therefor on my app index.html file load, i'm redirect to my website:how i can overcom this obstacl (ifram is an idea, but his window context is differ than my websit window context)?
+Node-Webkit Window Context

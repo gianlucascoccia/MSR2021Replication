@@ -1,1 +1,1 @@
-i'm tri to capture, modifi and final output audio in node with electron (mac osx). these are the steps:captur the audio befor it output, possibl via coreaudio.modifi the audio stream/buff via the web audio api.output the modifi buffer to the sound device.i'v tri node-core-audio. however, the most i can achiev is a rapid glitch sound. other than this a i haven't been abl to find a good solut i/o of audio.how can i achiev this without sacrif sound quality?
+Capture, modify and then output audio in electron

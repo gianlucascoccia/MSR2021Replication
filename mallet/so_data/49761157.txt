@@ -1,1 +1,1 @@
-i instal the hdf5 node library, and it look like it is in place. i am abl to type in command line, but when i run the electron wrapper, it give me the error: cannot find modul ./build/release/hdf5'.what could be the problem?even though the modul is in my local directory, when i run the code with electron, there is not such modul under node_module.screenshot
+Cannot find module './build/Release/hdf5' in Electron

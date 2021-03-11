@@ -1,1 +1,1 @@
-how can i add node addon (which is use in render process!) into asar archiv with electron-packager? webpack generat files:i don't have addon.nod in asar archive.
+How package node addon into asar archive with electron-packager?

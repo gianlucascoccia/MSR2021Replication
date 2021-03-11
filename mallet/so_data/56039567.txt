@@ -1,1 +1,1 @@
-i'm build a desktop app use electron and vue, thing went normal run the app in dev mode and build it until the last build by run npm err! exit status 1 npm err! npm err! fail at the keyboard-managment@0.1.0 electron:build script. npm err! this is probabl not a problem with npm. there is like addit log output above.
+Octal escape sequence are not allowed in template string

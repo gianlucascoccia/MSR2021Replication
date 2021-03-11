@@ -1,1 +1,1 @@
-i'm tie to test double-click event on a electron applic use spectron. "click" work fine, however, i could not find a command for double-click. i search and tri sever syntax for double-click: neither worked.pleas help me on this, thank
+Is there a way to double-click an element in electron app

@@ -1,1 +1,1 @@
-i was tri to open up a dialog which is provid by am i miss something?
+electron-react-boilerplate calling electron api

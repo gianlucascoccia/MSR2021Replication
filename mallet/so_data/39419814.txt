@@ -1,1 +1,1 @@
-i am a beginn tri to use electron (former atom) and reactj bundl with webpack. everyth was work fine until i tri to use electron remot modul to access the mainwindow in my react components. tri to import this module, i get the infam error:i suspect that it may have someth to do with the start script in package.json as the path.txt is not in the same directori as node_modules/.bin/electron. however, i haven't figur out how to solv this.
+Electron and Webpack ENOENT: no such file or directory, open '/path.txt'

@@ -1,1 +1,1 @@
-im tri to show a websit in electron, but it appear the error that , x-frame-opt is in sameorigin, i have read a lot of code about how bypass it, but i have not idea where put it, if in the main, or in what pass, someon can help me a littl here? the link is this onehttps://mobile.bet365.com
+Electron - Bypass X-Frame-options in sameorigin

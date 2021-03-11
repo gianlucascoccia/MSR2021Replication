@@ -1,1 +1,1 @@
-i am tri to creat an electron applic which can share the desktop with the system audio use webrtc and if i set the constraint :i got this issu mac os audio:error:adm_helpers.cc(73)] fail to queri stereo recording. and then " notfounderror: request devic not found "
+Screen Sharing and video/audio calling using WebRTC and Electron on Mac OS

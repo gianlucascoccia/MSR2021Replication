@@ -1,1 +1,1 @@
-i packag my electron app. when i start my electron app, i want my mongodb servic to start automat on the system instal locally. how can i achiev this through my node code?
+How to start mongodb service when my electron app start

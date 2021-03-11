@@ -1,1 +1,1 @@
-when run window 10, on appveyor and as a virtualbox, i'm get the same, error when run jest test for my electron app.th appveyor config file is here.ani pointers/ideas/th to check super appreciated. if more code clarif could be needed, just let me know.thank in advance!
+Windows 10, existing binding.node file cannot be found when running jest

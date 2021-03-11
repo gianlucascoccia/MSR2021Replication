@@ -1,1 +1,1 @@
-nwjs version : 0.28.0oper system : maco 10.13.3here is a fragment of bash script that i use for codesign:
+Trouble with codesigning NW.js app for MacOS

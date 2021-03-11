@@ -1,1 +1,1 @@
-when i tri to use net.request, it return an error "cannot read properti request of undefin in electron".thi is my code for main.jsi couldn't find what went wrong. can ani suggest a solut for this? ani help will be appreci
+cannot read property 'request' of undefined in electron

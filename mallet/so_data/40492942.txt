@@ -1,1 +1,1 @@
-i have a websit and i have some user that i have to instal to them a node-webkit instal to view the websote.i just have a package.json with main point to my url.thi is my code:when i launch with nw start , this link don't open a new window just launch a download of the file.thank everybodi for your help
+Open new window with pdf with node-webkit

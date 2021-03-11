@@ -1,1 +1,1 @@
-i'm tri to use webpack 4 for my electron app. is undefined. here is screenshot:https://i.imgur.com/msjhk4y.png
+New BrowserWindow loadFile not defined when webpacked

@@ -1,1 +1,1 @@
-as this post : electron auto updat fail silent when instal updat on windowsi can't instal my new updat :( check update, download is good but dure instal of the update, the progress bar fill up halfway, then disappears.th app remain close and doe not automat relaunch after the progress bar disappears.i don't have error with log... i use the v4.2.0 of electron-updater.[update]wait the real solut i have make this code for auto-upd on window :
+function quitAndInstall of electron-updater

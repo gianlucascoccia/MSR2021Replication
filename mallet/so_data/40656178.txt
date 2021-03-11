@@ -1,1 +1,1 @@
-i'm current build an applic use electron which is fantast so far.i'm use state.hop this isn't too confus if you need clarif just ask. thanks.
+Vuex and Electron carrying state over into new window

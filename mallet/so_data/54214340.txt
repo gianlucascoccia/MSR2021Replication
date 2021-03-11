@@ -1,1 +1,1 @@
-node.j in window system can be set environment befor the server is started, like this:.
+electron-builder, how to set node environmental variable

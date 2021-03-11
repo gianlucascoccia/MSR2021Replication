@@ -1,1 +1,1 @@
-i am pass url to webview to display content dynamically. i have some content that need path and fs. previous i had in code i have also enabl webviewtag in main.j to true, ani suggestions, you are welcom
+Webview for electron app doesn't display that ha requires for f or path

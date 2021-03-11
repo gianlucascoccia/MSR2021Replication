@@ -1,1 +1,1 @@
-my friend and i are build an electron app (a person project) that help you build react nativ apps. we would love to have a live preview of the react nativ app within the electron app. is there a way to do this?i tri see if expo would allow you to do this but seem like there is no documentation.
+Is there a way to embed a React Native simulator in an Electron app?

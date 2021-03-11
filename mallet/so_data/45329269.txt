@@ -1,1 +1,1 @@
-i'm creat desktop app use nw.js framework with angular. in my controllers, servic etc. i often use ?
+Good practice to use global object in angular

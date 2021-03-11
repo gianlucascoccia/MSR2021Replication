@@ -1,1 +1,1 @@
-i'v recent updat electron from v4 to v5 and found a new ~9mb folder in the instal electron packag at . what is this for?ther seem to be no consequ for delet this folder.i'm use electron-build to packag my app and it includ this folder in the packag app.i it safe to delete/exclud it from my packag app?packag used: electron@5.0.6 for 32-bit windowsthank in advance!
+Is it safe to delete “inspector” folder from Electron 5 package?

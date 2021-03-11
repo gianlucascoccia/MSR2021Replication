@@ -1,1 +1,1 @@
-is there ani way to set up a progress bar for download new updat of app in electron? i am develop app for window use squirrel and and my problem is that updat onli give out event when it start to download updat and when it finishes. my updat is kinda larg (around 80mb) and for user with slow isp it kinda sux :(
+Electron autoupdater progress bar

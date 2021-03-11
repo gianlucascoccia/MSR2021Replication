@@ -1,1 +1,1 @@
-i need to store data in a node-webkit applic use a database. how can i do that? and how can i make sure that onc be compil it work properly?i'm new to node-webkit. when i need to store data in node i usual use mongodb. but it work server-side, and mongodb need to be instal on the server machine. node-webkit work client-side. i need a databas work local and not instal by default in the client run the app.
+Node Webkit and local database

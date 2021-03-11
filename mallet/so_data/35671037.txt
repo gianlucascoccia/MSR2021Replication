@@ -1,1 +1,1 @@
-i have an electron app where the render process leverag webwork to do some calculations.it is work ok, but now i would like to send messag from the main process direct to the webworker.i tri to attach the but this is not working, ani idea?regard
+Use ipcRenderer in a webworker?

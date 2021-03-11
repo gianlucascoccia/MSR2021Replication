@@ -1,1 +1,1 @@
-i'm tri to creat a desktop applic (reactj + electron) with a veri simpl authent (form + person back-end).but i don't know how to make a correct and safe navig flow between my authent page and my app page and i can't find solut on the internet.i'm a beginn to reactj + electron but currently, i can navig between two form (sign-in &amp; sign-up) i need help to valid these form and to navig to my app page with anoth router flow.app.j (sign in class) : thank you for your help and patience.
+Easiest flow authentication with Reactjs + Electron (without any special services)

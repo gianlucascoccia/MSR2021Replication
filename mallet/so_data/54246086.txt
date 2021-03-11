@@ -1,1 +1,1 @@
-i am tri to make desktop applic use
+Using npm mysql with angular / electron

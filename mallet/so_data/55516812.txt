@@ -1,1 +1,1 @@
-i want to get the first name capit from a email (the email format is name.lastname@company.com). to do that, i pass the id paramet to get the email, then i call a function to captal the first name..
+How can I return a value from NeDB find query instead of undefined

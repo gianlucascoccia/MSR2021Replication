@@ -1,1 +1,1 @@
-i am write an electron applic and i want to use the opendirsync function of the fs modul in order to count the number of file in a directory. however, i get the follow error: i cannot understand what caus this error and how to fix it. i know that the path is correct and that i have access to the target directori (sinc i also use the fs modul to read a file from that directory).thank you for you help.
+TypeError: opendirSync is not a function

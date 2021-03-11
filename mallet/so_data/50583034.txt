@@ -1,1 +1,1 @@
-okay so i want the titlebar to not be insid the main window but rather a bar on top of it which goe transpar when not hover over the main window or said titlebar.i have an exampl from anoth electron app here.so doe anyon have ani idea how i could creat someth like this? i thought about creat a second window but i think that isn't go to work. but someon els has made it so it must be possibl
+Hide titlebar on window hover in electron?

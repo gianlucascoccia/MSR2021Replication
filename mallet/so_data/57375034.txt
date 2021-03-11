@@ -1,1 +1,1 @@
-i'm use electron. when i fire again from differ button. instead of bring alreadi open folder, it open folder ain new window.
+Electron openItem open new window of same path

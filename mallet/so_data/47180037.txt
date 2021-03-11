@@ -1,1 +1,1 @@
-i am use spectron to simul a test on slack as follows:1) open the application. 2) type in a valid domain. 3) click continue.i am use the follow script for that purpose:javascript:
+Unable to proceed after clicking a button

@@ -1,1 +1,1 @@
-there are a lot info about applic (node), and render(chromium) process in electron. about the communic between these process via data marshal through ipc and separ contexts.but there is no info about event-loop.so there is the question. how mani event loop are use in electron: sever event-loop (one for each process: app, renders) and then how doe libuv work with it?; or is there one event-loop which is share between these processes?
+Electron js, principle of workflow

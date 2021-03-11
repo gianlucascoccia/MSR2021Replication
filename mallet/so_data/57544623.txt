@@ -1,1 +1,1 @@
-i am new to electron and i want to develop a file explor (cross platform applic for desktop) use electron.i am unabl to read root folder.how can i read root folder in windows, linux and mac ?i tri the follow code but it result in an error:
+show or read all file and folder present in o or system using electron

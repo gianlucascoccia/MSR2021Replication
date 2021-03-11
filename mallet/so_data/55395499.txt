@@ -1,1 +1,1 @@
-i run an electron app by run .
+When load the electron renderer，What is the different about the require between http:// and file://?

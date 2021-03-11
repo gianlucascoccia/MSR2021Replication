@@ -1,1 +1,1 @@
-am work with angular 6 and electron 2. so i have a modal which work in browser but not work in electron ani idea on how i should go about this?
+Bootstrap 4 modal not working in electron

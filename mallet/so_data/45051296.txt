@@ -1,1 +1,1 @@
-i have a deploy electron app in windows.i'm tri to add a command line option on the .exe. "c:\program files\myapp.exe" -debughow i can read the debug flag insid my app? i tri with process.argv, but the debug variabl isn't there.
+Read Windows command line option in Electron renderer process

@@ -1,1 +1,1 @@
-i'm tri to recreat the previous/next exampl from:https://mozilla.github.io/pdf.js/examples/a an electron app. i'v copi the main part of the html into my electron index file. so the question are:what am i do wrong?bonus: is pdfjs-dist the best option? how in general would i link someth like .js to the npm install?bonus: how do i get the worker to not reli on the website?
+porting pdf.js example to electron

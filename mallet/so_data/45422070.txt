@@ -1,1 +1,1 @@
-im tri to set up an electron app with typescript.so in my app.t i have to follow statement to tell electron which file should be opened:when i had onli javascript it work fine.but now after compil electron just open an empti window.becaus im compil my typescript to a differ directory.i there a variabl for the root dir or someth dynam path resolut i could use?thank
+File not found after compile to j

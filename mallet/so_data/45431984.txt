@@ -1,1 +1,1 @@
-i have a window service, i need to instal it and manag it use my electron app. what is the best way to do this?thanks. updatecurr for instal a servic i need to usene to do this while instal my electron app.
+How to Install and manage a window service in a node j app.?

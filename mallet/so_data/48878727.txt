@@ -1,1 +1,1 @@
-now i'm develop a softwar from electron. it is a music player application. what i would to do is i have to extract audio featur from (an) incom song(s). this is not realtim extract becaus i would like to extract featur entir of a song.i use a librari call meyda and web audio api. i have notic that my implement consum amount of ram (about ~2,000 mb).here is my implementation:i there a way to reduc ram consuming? thanks!
+Is there a way to release OfflineAudioContext memory allocation?

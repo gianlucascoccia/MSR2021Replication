@@ -1,1 +1,1 @@
-i'm face an issu with opencv.j with my ionic capacitor app. i put my opencv.j into
+How to use opencv.js in capacitor's electron build ? ReferenceError: cv is not defined

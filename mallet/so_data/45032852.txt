@@ -1,1 +1,1 @@
-i can't build electron app use squirrel. though iconurl is valid.package.json:
+Invalid URI: The hostname could not be parsed. Electron Builder

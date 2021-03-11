@@ -1,1 +1,1 @@
-i am tri to use nw.js to packag a desktop application. the applic navig to page that are be serv from a xampp server on the same comput that the applic will be run on.when nw.js navig to the page via file:// the script load succesfully.when it navig via http:// the script do not load. the error in the consol is:how can i remedi this? i need it to load via http sinc the app use php for a sever essenti functions.
+How can I run script in served page in NW.js?

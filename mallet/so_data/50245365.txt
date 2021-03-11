@@ -1,1 +1,1 @@
-i am now write some test with electron-spectron.aft spectrum start my app, i want to check if my video is stop or notth code is like elementit seem that webdriverio doesn't have an api like getelementbyid that i can use to find my video tag source.do someon have ani good idea?
+electron-spectron webdriverIO how to get a video tag source?

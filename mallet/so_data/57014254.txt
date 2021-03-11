@@ -1,1 +1,1 @@
-run
+electron-forge make issue with knex post build

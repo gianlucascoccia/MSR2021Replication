@@ -1,1 +1,1 @@
-if both loadurl and location.href are silent fail to navig on certain site when use electron js, you may be run into the same issu that been kick me in the shin for the last 4 hour
+Electron failing to navigate

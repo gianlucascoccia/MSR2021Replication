@@ -1,1 +1,1 @@
-electron version: 4.0.1, oper system: maco mojavedeclar and use ani object prototyp will caus the follow error in electron.som close issu found in their git but no clue how to fix it.object.prototype.nam get clobber https://github.com/electron/electron/issues/6966menu.getmenuitembyid is not a function https://github.com/electron/electron/issues/11405ani suggest for this? ani help will be appreciated.
+Object.prototype break Electron?

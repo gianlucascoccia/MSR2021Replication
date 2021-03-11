@@ -1,1 +1,1 @@
-i have my board setup with two button (with pull-up resistors) and two leds. i want each button to turn on correspond led and turn the other off. code:consol show correct push states, but sometim correspond led wont turn on, and other one turn off. it realli sporadic. what did i miss? this occurr onli in nw.js evironment, standalon node app run fine. i have nwjs-j5-fix.
+Turning on/off led with johnny-five and arduino in NW.js

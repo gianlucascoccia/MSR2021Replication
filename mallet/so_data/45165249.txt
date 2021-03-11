@@ -1,1 +1,1 @@
-i would like to valid an xml file base upon it schema in an electron application.i have an angular2 servic which work befor the inclus of my libxml-xsd requir statement. as soon as i add this to the top of my servic file: could somebodi pleas help me get libxml-xsd run under my applic configuration? doe this have anyth to do with webpack? if so - how do i chang it config to bring in the appropri files?
+Using libxml-xsd in an electron app fails with binding error

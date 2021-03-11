@@ -1,1 +1,1 @@
-is there a way i can detect if my js code is run insid a real browser or insid a toolkit like cef or electron?
+Detecting if browser of CEF/Electron

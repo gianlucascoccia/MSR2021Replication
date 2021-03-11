@@ -1,1 +1,1 @@
-after success log in, from first screen i am request some data from web &amp; i want that data set to transfer to the next screen but my applic fail to load that data set onto the screen. from html file i requir renderer.j like below
+I failed to load data in same window second screen Electron j application

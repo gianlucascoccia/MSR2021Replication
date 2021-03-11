@@ -1,1 +1,1 @@
-i got this error when i tri to enabl the integr of node in electron:if i remov the node integration, it work again.
+NodeIntegration doesn't work [Electron/js]

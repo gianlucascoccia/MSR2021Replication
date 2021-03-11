@@ -1,1 +1,1 @@
-i recent start use fuse-box beta 4.0.0 in my electron project, i bundl everyth use fusebox and i get...bear in mind, this is bundl by fuse-box.th app should launch, howev it be stop by this.
+No native build wa found for platform=win32 arch=x64 runtime=electron abi=73 uv=1 libc=glibc

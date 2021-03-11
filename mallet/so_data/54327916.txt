@@ -1,1 +1,1 @@
-content.jsnoth is displayed.
+Why extension not active in app electron?

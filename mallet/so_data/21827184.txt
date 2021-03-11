@@ -1,1 +1,1 @@
-i'v search a bit but can't find an exist tool for this.how to packag node web-kit project for mac osx and what step to follow to distribut this app to mac app store.thank in advance.
+How do I package a node web-kit app for publishing in mac app store?

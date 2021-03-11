@@ -1,1 +1,1 @@
-i'm just use the code as a learn exercis regard javascript classes.th code produc a "typeerror: simplelogg is not a constructor". the class seem to be export ok but i can't instanti it in the main.j file.i'v reduc the code to just show the issue. i was wonder if anyon can spot the problem. thanks.th error is produc in the last line.
+TypeError: is not a constructor

@@ -1,1 +1,1 @@
-i'v tri 32x32, 64x64, and i'v tri use photoshop to edit anoth app icon into my icon to keep it size but it never work with me. it seem that my icon is double-s and i can't get the whole icon to be visible.her is the icon:
+How to get a perfect sized tray icon using electron？

@@ -1,1 +1,1 @@
-i am tri to read a file use whatwg url object support hereand i am get this error: uncaught typeerror: url is not a constructorher is my code:&#xd;&#xd;&#xd;&#xd;&#xd;
+Uncaught TypeError: URL is not a constructor using WHATWG URL object support for electron

@@ -1,1 +1,1 @@
-i am tri to connect to an onlin host mysql database, so no localhost. but everytim i tri to connect it give me this error:i there anyon who has an idea how i could fix this?
+How to handle Node.js MySql ETIMEDOUT error?

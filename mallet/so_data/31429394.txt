@@ -1,1 +1,1 @@
-doe electron run on visual studio code ?if yes, how to setup a simpl environ where i can write/webug atom electron script use visual studio code ?for exampl i with this test.j script; configur file but i don't say how to setup visual studio code readi for electron work.
+Debugging Electron-Atom script with Visual Studio Code

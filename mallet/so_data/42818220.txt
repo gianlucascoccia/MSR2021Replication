@@ -1,1 +1,1 @@
-i am tri to develop a sampl applic for learn electron js.but unfortun for me, the node debugg is not work for this particular project.but when i tri debug electron-quick-start app it works, we can see the call stack and all.lunch.json look like this pleas help me to resolv this.
+Cannot Debug Electron JS application in VSCode

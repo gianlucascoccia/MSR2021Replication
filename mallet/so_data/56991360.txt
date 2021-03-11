@@ -1,1 +1,1 @@
-i'v been tri to creat a product that save custom data and generat bill in electron by use html, css, java script and mongodb. while code it was okay for me to turn on the mongodb always.but how do i finish the product so that i just have to click the icon to do everyth from connect the databas and start the application.
+How to complete the application with electron using MongoDB?

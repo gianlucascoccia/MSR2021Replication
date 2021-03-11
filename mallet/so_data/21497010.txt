@@ -1,1 +1,1 @@
-i'm develop a multiscreen app where i need to detect how mani screen user have. also i need to creat that mani window and move those window to everi screen.so i basic need a way to know how mani screen the user have and also a way to move my window to a specif screen.do nodewebkit alreadi have solut for that? if not is there ani altern solution/hack i might be abl to use?
+node-webkit: How can I detect how many screen/monitor user have using?

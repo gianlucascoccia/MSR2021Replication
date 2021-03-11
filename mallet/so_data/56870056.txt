@@ -1,1 +1,1 @@
-i'm tri to setup servic worker in nwjs to cach icon from cdn.ngsw-config.jsonit look like servic worker is regist but cach icon do not work. doe anyon alreadi succeed with angular servic worker in nwjs
+Angular Service Worker: Request scheme 'chrome-extension' is unsupported

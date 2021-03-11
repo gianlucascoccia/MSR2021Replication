@@ -1,1 +1,1 @@
-the main process open a connect to a service, to which a render requir access. is this possible?i'v tri declar — where thing is a function or scalar — but no luck.
+Electron: renderer access to main process?

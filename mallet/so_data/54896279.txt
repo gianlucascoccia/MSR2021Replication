@@ -1,1 +1,1 @@
-is it possible? is there a guid somewhere? basic i'd like to do e2e test of an electron app, and will script user interactions, i.e. make a "bot" or "puppet" user that interact insid the electron app.
+How do we script/automate an Electron app with Puppeteer?

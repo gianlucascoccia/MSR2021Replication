@@ -1,1 +1,1 @@
-my code to save imag is: is not a functionerror.
+How to save an image drawn on the canvas in Electron.js

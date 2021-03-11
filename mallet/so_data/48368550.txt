@@ -1,1 +1,1 @@
-i chang my app icon and for some reason i can not updat the icon (current has the icon of an electron).relev modul i use:i tri sever order without success, doe anyon know what command i have to run?
+How to change app icon using electron-builder

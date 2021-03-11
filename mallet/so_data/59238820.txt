@@ -1,1 +1,1 @@
-this function is work and i'm get an error, but when i click ok i can't get the respons callback.
+Electronjs dialog.showMessageBox() Not Giving the call back response on clicking ok

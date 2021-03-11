@@ -1,1 +1,1 @@
-under os x, node 10.7.0.i creat the electron-forg app with: or hit the normal dev consol keys.i don't know enough to know what other inform might be required; just let me know.
+electron-forge app start up with blank screen

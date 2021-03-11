@@ -1,1 +1,1 @@
-i am work on a littl electron project to get start with that particular environment. right now i am test the clipboard and it seem like i can onli read and write text, html, rtf and a nativ imag from / to the clipboard. but is there a way to read in file via and then copi it to the clipboard to simpli past it somewher on the desktop etc. ?note: i have alreadi taken a look at a bunch of clipboard packag on npms.io but i didn't find one that has the desir capability.
+Is there a way to access file or folder in the clipboard via nodejs?

@@ -1,1 +1,1 @@
-i want to get all the cooki from a browserwindow object, includ httpon cookies.i'v read through the document that the follow code will output all the cooki be use in the browserwindow:thank for your help in advance!
+Session.cookies is empty while JavaScript document.cookie is not

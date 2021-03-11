@@ -1,1 +1,1 @@
-i intend to build a basic video editor desktop app. i have built a work prototyp in python ( use kivi ). in this prototyp i direct call the command line ffmpeg tool. how can i incorpor ffmpeg into my electron app?
+Use ffmpeg from an electron app

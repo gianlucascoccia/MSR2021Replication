@@ -1,1 +1,1 @@
-hello everybody! i want to implement socket io in an electron app, howev i have found no document and no exampl of how this could work. if someon could explain to me how 2 or more client could communic via the electron app, i would be veri grateful!
+How do I implement Socket IO in an electron app?

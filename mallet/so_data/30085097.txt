@@ -1,1 +1,1 @@
-how doe one get serialport to work with nw.js on windows? i have seen a bunch of articl on the web about compil with node-pre-gyp, but can't get that to work. also, the target seem to be conflict between serialport and nw.js. so i'm pretti confused.do anyon have step by step instruct on how to do this? i am a node rookie.window 7nw run nodej v1.2.0 (the latest nw.exe)
+Serialport.js in Node-webkit (nw.js) on Win 7

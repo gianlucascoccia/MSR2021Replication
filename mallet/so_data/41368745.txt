@@ -1,1 +1,1 @@
-hot reload seem to no longer be working. i am not sure what could of chang in my setup, in fact as far as i can tell, and git log show, noth was changed.regardless, im tri to get reload of css and react whenev i make a chang to this file, the hot reload is triggered. in addition, chang to file that are import here (like styles.css) are also reloaded. the issu is, all of my compon are obvious import in my router. ani chang to my compon therefor are not hot reloaded. how can i get this work properly?
+Hot reload in Electron/React application

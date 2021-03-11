@@ -1,1 +1,1 @@
-i want my main window to be 100% of screen not full screen as well as not resizable.
+How to create a non-resizable and 100% screen (not full screen) BrowserWindow

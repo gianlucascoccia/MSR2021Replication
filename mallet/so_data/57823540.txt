@@ -1,1 +1,1 @@
-i'm new to electron and i'm have problem with shortcuts, i would like to disabl global shortcut or acceler on some browser window that i have created.i have creat global menu like this, and i creat menu from templat
+How to disable 'shotcut' for specific Browser Window in Electron

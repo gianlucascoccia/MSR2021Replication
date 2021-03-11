@@ -1,1 +1,1 @@
-i am tri to build and sign my electron application. however, i keep receiv an error messag about code sign certificates. (sensit valu have been sanitized.)electron-builder.js, etc. to no avail.
+electron-builder: Identity name is specified, but no valid identity with this name in the keychain

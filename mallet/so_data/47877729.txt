@@ -1,1 +1,1 @@
-electron + angularjsi'm do some basic stuff: i'm tri to add header and footer which will be show on everi page.so i have app.j like this: of index.htmlto chang templateurl to path relat to index.html but i'm still look how to avoid so mani import insid .html
+Angular directive is not showing

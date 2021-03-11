@@ -1,1 +1,1 @@
-i tri to implement a simpl sampl use element-ui.ther are two switch () each one has the valu for activ state: 2 and 1. the switch valu are display in ?
+Electron-vue: 'compute:' doe not work

@@ -1,1 +1,1 @@
-well i am veri new to electron and develop web apps. i am not good at read docs. how to regist globalshort cut for electron.
+How to register global shortcut (accelerator) in electron

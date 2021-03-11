@@ -1,1 +1,1 @@
-i current have a web app (bootstrap/javascript/jqueri at the frontend and laravel at the backend). i'd like to build a electron desktop app that will basic just act like a browser. but the one electron featur i realli need is to be abl to write(directly) to usb pos( point of sale) receipt printer.how can i do that?
+How do I build an Electron wrapper for my existing web app?

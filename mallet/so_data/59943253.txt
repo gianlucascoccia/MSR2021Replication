@@ -1,1 +1,1 @@
-our compani made one applic which work on electron version 1.8.2. when someon open the applic on cento 6.x below error is occurso i chang this file to my old libc.so.6 file. after that i face below error. reloc error: libc.so.6: symbol _dl_starting_up, version glibc_priv not defin in file ld-linux-x86-64.so.2 with link time refer ./myscript.sh: line 14: 30656 segment fault (core dumped) $src_path/myappsorri for my poor english
+relocation error: libc.so.6: symbol _dl_starting_up, version GLIBC_PRIVATE not defined in file ld-linux-x86-64.so.2 with link time reference

@@ -1,1 +1,1 @@
-i want to get log if someth wrong happen to my electron app when in product mode i.e after give .ex file to a user wrt window platform.how to go about it, how can i basic write my error to a file which will be in cyclic in nature.
+Electron app - logging to file in production

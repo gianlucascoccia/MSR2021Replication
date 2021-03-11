@@ -1,1 +1,1 @@
-when i run the project by and other tab are empty. actual it dose not detect the project.how can i solv the problem?
+How to resolve Vue.js devtools not working in the Electron Vue project?

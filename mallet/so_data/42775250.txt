@@ -1,1 +1,1 @@
-i'm have a problem where i have an electron app, we'll say contain in file this did work when i use the script tag to includ myengin in the app, and no longer work when i includ myengin as a node module. that sort of the crux of my frustration.
+Avoiding circular dependency with Node require()?

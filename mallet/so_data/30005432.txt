@@ -1,1 +1,1 @@
-i current work on a particular sensit desktop application, written with nodewebkit.it appear that nw window come with some default web-brows keyboard shortcut (like backspac or f5). for safeti reason, i cannot allow that.i there a way to disabl all (includ tab or enter) that shortcut ?
+Disable all shortcut in NodeWebkit?

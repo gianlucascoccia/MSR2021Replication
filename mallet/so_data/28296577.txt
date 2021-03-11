@@ -1,1 +1,1 @@
-is there ani way to have console-only, guiless, windowless applic with nw.js?we have some intern util origin made with app.j and recent convert to nw.js (former node-webkit). this tool consist of gui app and console-on (integr to build process) counterpart. app.j was abl to execut ani *.js like nodejs, in console, but in nw.js it seem mandatori for applic to have some main *.html and window. even when with field to be present as well.
+Is it possible to build console application with nw.js?

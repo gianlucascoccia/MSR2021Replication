@@ -1,1 +1,1 @@
-project is to creat a desktop applic with electron and sqlite. i am use electron-packag to creat packag and app.asar is generat insid package. i cant access file insid it.electron-builder* version: 22.3.2 electron* version: 7.1.10cant load generat index.html insid dist foldercod use in main.j
+electron-builder & asar - Not allowed to load local resource: ...../project/resources/app.asar/dist/angular-electron/index.html

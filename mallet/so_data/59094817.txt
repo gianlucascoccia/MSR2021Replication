@@ -1,1 +1,1 @@
-i'm search some tutori to setup a vue-electron(i'm use the vue-electron plugin) app with sqlite3 and knex. depend sqlite in package.jsonher some config from my i got the sqlite part work but is not clear how would i deal to open a connection, migrat and execut queries.her is a structur what i tri establish as screenshot where do i initi the database, what would be an appropri structur in this case
+How to use knex with sqlite in a vue-electron app

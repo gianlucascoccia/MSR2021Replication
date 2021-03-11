@@ -1,1 +1,1 @@
-i am build a nw.js (node-webkit) dashboard app which i want to be abl to control with a game control (for example: xbox 360 control or logitech controller). i'm call the follow onreadi but when i debug it not recogn ani gamepads.but it doesn't show ani gamepad be detect either. has anyon success use gamepad with a nw.js app? i would great appreci some help get this to work.
+Can I use gamepads with Node-Webkit (NW.js)?

@@ -1,1 +1,1 @@
-i am set up a gui server applic use electron and socket.io. i cannot get the onclick button in
+JavaScript & HTML: onclick button to run javascript function?

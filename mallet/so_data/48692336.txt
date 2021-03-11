@@ -1,1 +1,1 @@
-i am use eletronj for an angular app.becaus of the app design, which is also run in browser, i don't need/want to have the default or ani electronj menu/menubar.how can i remov it?
+set no menu / menubar | remove default menu [electronjs]

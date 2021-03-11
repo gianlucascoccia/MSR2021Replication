@@ -1,1 +1,1 @@
-i am build an app use electron.thi app data is fetch from .ini file, when app built by electron ,it say path is missing. i tri ad path as dev depend and instal path global noth has worked. electron pakag must somehow instal all the packag that is present in my package.json befor it build app. how to do this? below is devdepend insid package.json.
+Not able to find path after electron package is generated

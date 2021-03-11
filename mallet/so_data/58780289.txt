@@ -1,1 +1,1 @@
-https://i.stack.imgur.com/cdqnv.jpgi had work with version 2.1 sdk at .net core, for instal electronnet.cli, but for some reason i had error that the version is not compat with netcoreapp2.2.how to fix it?in which version is recommend to work with electronnet?
+ElectronNet.CLI recognize version a 2.2 even though my version is 2.1

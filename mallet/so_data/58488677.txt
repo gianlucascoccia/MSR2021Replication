@@ -1,1 +1,1 @@
-i am tri a simpl ipc send test without success. in my index.html i have:
+What is wrong about this IPC code? It doe not emit an event

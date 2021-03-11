@@ -1,1 +1,1 @@
-i'm in the process of finish up my first app on electron, i'm a junior web developer, so pleas excus me if it a simpl mistak or you spot someth you think can be done better. but basically, i'm build a basic menu on maco so i can have copi / past function after packaging. now i'v follow the document from https://github.com/electron/electron/blob/master/docs/api/menu.md, made a few tweak to fit my need but seem to be have a problem when running, the error being:
+Undefined template constant in Electron

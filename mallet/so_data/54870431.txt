@@ -1,1 +1,1 @@
-im work on make a simpl file upload to upload jpeg file to a server. but i'v hit a snag.i cant seem to get the nativ file drag and drop to work. when ever i drag an imag or ani other file over to where the file upload is, it just show the stop cursor. like so:anyon have ani idea as to what i'v done wrong? ani help would be great appreciated, here is the repo of my projecteditful reinstal has work thank you.
+Native Drag and Drop File uploader using electron

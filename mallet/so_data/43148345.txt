@@ -1,1 +1,1 @@
-i'm ad a colour picker to my electron app use robotjs, when the user click the button a thanks!
+Function still running after return

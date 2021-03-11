@@ -1,1 +1,1 @@
-i have some javascript line in my electron app that doesn't work with window. they onli work on mac.when i make build with electron-packager, the window/pc version doesn't start becaus those line throw an error.se my code. i think that those line onli work for mac version :how could i say to electron that these line should onli be use in mac version? not window versionsorri for my bad english.
+How to use some code line only in the mac version of Electron app?

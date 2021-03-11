@@ -1,1 +1,1 @@
-i can't use relat path use :
+How to use relative path in Node Webkit

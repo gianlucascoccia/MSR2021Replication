@@ -1,1 +1,1 @@
-i was follow the electron menu exampl at http://electron.atom.io/docs/v0.36.5/api/menu/, howev i receiv the error return undefined.
+Electron cannot read property getName of undefined

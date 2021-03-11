@@ -1,1 +1,1 @@
-i am not abl to clear the cooki of a websit in webview.i tri to clear storag use - but getwebcontents() is not avail on consol when i tried. how to access the webview and then clear session so that next user can't login with the last user creds?
+ElectronJS Webview cooky not getting cleared

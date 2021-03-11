@@ -1,1 +1,1 @@
-i have an electron app that use an app.asar file. i want to be abl to open file (.xlsx) that are in the asar file in the default window applic (which is excel). i have triedbut i can't get the file to open in excel.
+using shell.openItem() to open a file in an asar archive

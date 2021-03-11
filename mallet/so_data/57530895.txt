@@ -1,1 +1,1 @@
-it keep give me this , and it dont load anyth on the main window electron secur warn (insecur content-security-policy) this render process has either no content secur polici set or a polici with "unsafe-eval" enabled. this expos user of this app to unnecessari secur risks.
+Load html in window , what the substitute for thus code ,it keep giving me security alert

@@ -1,1 +1,1 @@
-i am develop an applic that user can use their account on onli one computer. i decid to use the disk manufactur serial number to identifi the computers. after a while, i notic that the serial number of the devic use the intel optan memori were identical.how do i get the serial number on this condition?in window i access the serial number use "wmic diskdrive" and get a valu like this :
+Getting HDD Serial Number with Intel Optane Disk

@@ -1,1 +1,1 @@
-i have an electron applic that use angular (8) as a front end framework.i am tri to implement unit test but keep get the follow error when i start the test:thi is what caus the test to fail, the ipcrender is undefined. doe anyon know how i can unit test an angular compon that has electron ipc use insid of it ?the electronservic that is use in the compon has been ad to the provid insid the spec file.
+Electron-Angular: Running Karma error because of undefined ipcRenderer inside angular component

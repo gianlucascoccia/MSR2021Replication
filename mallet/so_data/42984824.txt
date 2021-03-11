@@ -1,1 +1,1 @@
-i'v alreadi packag the app correct and am now go through the whole parameter, it build the instal just fine. howev if i keep it there, i get an unabl to load file error from the console. i'v verifi that the path to the .ico file is in fact correct, and is a valid .ico file.what could possibl be happening?
+window installer error when specifying "setupIcon"

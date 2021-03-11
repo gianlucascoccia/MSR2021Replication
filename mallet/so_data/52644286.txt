@@ -1,1 +1,1 @@
-i am creat an applic where i need java jdk to be installed.so i want to creat a detect function for jdk in system and if not found then instal it by the setup which i will provid and also store it environ variabl -> system variabl as by default.i search through lot but not get exact idea how will i achiev this.
+Angular javascript to detect and install jdk

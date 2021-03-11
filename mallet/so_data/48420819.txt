@@ -1,1 +1,1 @@
-i have my electron app which i am packag with npm module. i want to execut an python applic onli by name from nodej modul call child_process. when the applic isn't packag it works, but when i packag it doe not work. i notic that the packag app doe not load path variabl so it work onli if i chang it to absolut path to the script. but i want to make it platform independent, so it is not a solut for me.i there ani way how can i "inject" path variabl to the packag applic or ani other solution?
+Cannot execute shell command from Electron packaged app

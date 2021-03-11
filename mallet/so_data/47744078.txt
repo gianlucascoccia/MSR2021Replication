@@ -1,1 +1,1 @@
-i'v packag my electron app and i can double-click a file to have it launch the app.however, i'm not be pass the url of the double-click file. it not in .is there a flag i should be provid when i build the app that allow for this behavior?th node.j page on process.argv was not veri helpful.
+Launch file with Electron app; get file's url (process variable)

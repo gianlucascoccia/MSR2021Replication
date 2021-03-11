@@ -1,1 +1,1 @@
-i need to run python script from my electron app. i have to set up a python virtual env post installation. someth like the follow (but hope platform agnostic).
+How can we run one time script after installation in electron?

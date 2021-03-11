@@ -1,1 +1,1 @@
-say i have a set and same applic paths, the second instanc will not be log in, despit be prop up to use the same user data and partition.shouldn't the second instanc be abl to use session inform from the first instanc without close the first instance? what am i do wrong?
+Reusing Electron session

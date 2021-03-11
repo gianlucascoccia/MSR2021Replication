@@ -1,1 +1,1 @@
-i am develop an electron desktop app with react. tri to setup test for the electron side of code.i have a launch.test.j file, where i am tri to test spectron with jest. when i run the test file it throw errors. have troubl fix the errors.mi file structur is like this
+Spectron with Jest to test basic window open not working

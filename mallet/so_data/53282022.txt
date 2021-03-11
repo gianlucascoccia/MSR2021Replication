@@ -1,1 +1,1 @@
-i have an input field call month.
+Angular convert date

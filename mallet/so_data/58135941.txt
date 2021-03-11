@@ -1,1 +1,1 @@
-i need to send inform to an angular compon in order to do an "automatic" login,i can send compon data to the electron process use theipcreder (on component) and ipcmain (on electron side), but i can'tus in the opposit way that would be from the electron to the component, could you help me?ps: i'v thought of a socket conversation, but i don't think it a good practice.angular:
+Is there a function to send electron 6 data to an angular 8 component?

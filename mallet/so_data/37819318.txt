@@ -1,1 +1,1 @@
-so i recent instal electron on my raspberri pi through npm. i ran the follow command and it ran without ani errors. the onli problem is that it just stay there and no window pop up. i thought that mayb my code was wrong but i ran the same code and the same command on a mac and linux comput and it work perfectly. i am not sure what the problem is and it start to drive me crazy. can anyon pleas help me???
+Atom Electron Doesn't work for Raspberry Pi

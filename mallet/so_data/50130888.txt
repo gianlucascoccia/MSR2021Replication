@@ -1,1 +1,1 @@
-i use the https://github.com/simulatedgreg/electron-vu templat to creat a
+Error when extending from BrowserWindow electron class

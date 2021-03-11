@@ -1,1 +1,1 @@
-i want to creat a "worker" script somehow.
+Accessing webContents from within preload script in BrowserWindow

@@ -1,1 +1,1 @@
-with electron, is there a way to distinguish between user click on the menu item and use the keyboard shortcut?i know that the expect behavior for both is general the same, but i'd like to track the usag of shortcut and menu click separately.
+With Electron, is there a way to distinguish between user clicking on the menu item and using the keyboard shortcut?

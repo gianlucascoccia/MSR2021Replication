@@ -1,1 +1,1 @@
-i'm tri to use your relaxed-json in my electron app. here is a simpl code, -relat issue, so the modul must be valid isn't ?
+Empty object after `require`

@@ -1,1 +1,1 @@
-in my case, cursor jump through one empti line. how fix this? thank in advance.in angular 5 + electron.html:
+How to remove indentation on new line in Codemirror

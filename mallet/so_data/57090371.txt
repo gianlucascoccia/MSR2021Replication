@@ -1,1 +1,1 @@
-i want to use touch gestur to go to the previous page or the next, as default in chromium. is there a switch to enabl this in electron? i have onli found tutori for enabl touch events. i instal "electron-touchscreen" with npm and load the new window as touchscreenwindow, but i still have no gestures.th chromium switch is call "--overscroll-history-navigation", but enabl it also chang nothing.do the electron-navig packag in npm mayb do this?
+How to enable Chromium touch gesture in Electron app?

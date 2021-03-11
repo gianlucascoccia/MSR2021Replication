@@ -1,1 +1,1 @@
-after review and unsuccess tri to understand the code structur behind hardchor timesheet's, i was hope if ani one could propos and explain a strucutr for a react-redux-electronj applicationth structur could be made to accomod process in the main and render process as well as a global store to interact with both processes.a beginn explan will be veri help
+How to create a simple strucutre for a React-Redux-ElectronJS application

@@ -1,1 +1,1 @@
-how to run electron with angular?i had some problem to run electron with angular, so i share my way of do it.
+How to run Electron with Angular?

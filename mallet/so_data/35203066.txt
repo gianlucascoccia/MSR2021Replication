@@ -1,1 +1,1 @@
-i'm tri out to do this with remote, but can't understand how it work =(what i need to do:1) ajax call to server (ok)2) server respons with issue123 (ok)3) add issue123 in os x standard menubar (how ?)i creat menuitem - issues, and it work correct on load app, but how i can push issue123 to this menu?
+How to add menuItem from renderer process (browser window)

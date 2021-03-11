@@ -1,1 +1,1 @@
-i am build an app use angularj which is then port to multipl platform use electron. the app need a db to store larg set of data so which storag option is better. i want to use sqlite but will it work or correct build in electron
+Best way to store data in a local Data Base in an application built using Angularjs and Electron

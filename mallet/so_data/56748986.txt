@@ -1,1 +1,1 @@
-i am use sqlite3 in my electron project.in order to achiev multi thread i refer from offici site, they tell "when compil with sqlite_threadsafe=2, sqlite can be use in a multithread program so long as no two thread attempt to use the same databas connection"i am creat databas like this so how to pass the multi thread config in my code ??
+How change node-Sqlite3 default option

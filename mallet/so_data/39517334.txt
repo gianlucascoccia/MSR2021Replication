@@ -1,1 +1,1 @@
-here is my build command. current folder has additiona file like settings.config, readme.md these file are not includ in the build output.
+Electron packaging with electron-packager - missing file in the build output

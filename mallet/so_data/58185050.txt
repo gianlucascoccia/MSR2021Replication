@@ -1,1 +1,1 @@
-i am creat an electron app use angular 7. the project is built fine. but problem aris while i tri to creat an instal for that. here packag version are bellow:
+Why getting error while creating window installer in Electron App

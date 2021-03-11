@@ -1,1 +1,1 @@
-i am use electron and react to display a stream video. i have a veri weird behavior while do it as text are be noisier and shadow darker. thing work fine with a plain react app. would you have ani clues? here is my code:
+Video Stream with Electron + React : very weird display

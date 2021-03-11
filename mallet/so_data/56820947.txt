@@ -1,1 +1,1 @@
-i am develop a desktop app in electron. i am new to it. i took gentelella bootstrap templat and start custom it. (should i make from scratch? would that be easy?)i tri ad datetim picker in navbar but i am unabl to do so. it is not show proper and that is whi i think css is not work for it. i am share what i did.i have ad script and css in the same order as mani have suggest on this forum.
+Datetimepicker not working properly in electron app

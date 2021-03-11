@@ -1,1 +1,1 @@
-i have a 4k logitech brio webcam and i can pull live video from it use webrtc/getusermedia. sad onli in hd 1920x1080 … is there ani way to use the 4k capabl of the camera in the browser/electron app?i'm work on a singl instanc media installation, so cross browser support is not an issue. i'm target toward whatev webkit electron-build will package.thanks!
+Using a 4k Logitech webcam with WebRTC/getUserMedia

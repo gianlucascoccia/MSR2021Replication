@@ -1,1 +1,1 @@
-i use nwjs (ver 0.18.8) and i made a request on mangafox.m to do a mangareader.it work with http://mangafox.me/directory/ when i tri to make a request on a manga imag like this one http://mangafox.me/manga/onepunch_man/vtbd/c066/1.html i get these weird symbols: ��{s�f��[��w#y�\�ai�(ty��dϯ���m%9���@�cw��~���i(v��ں�ʑ�y���t��k2z������o��y���.^~wɍ�e���ҳ�]?c�����kf�=v��0�3? y`y�_̘gy|fy���\�q2����� �m���nv�iz�g���b$w�_a���c�c5how can i fix this?
+Scraping website with node.js request and getting weird character

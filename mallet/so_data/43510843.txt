@@ -1,1 +1,1 @@
-i'm work on a visual studio code extens in which i hope to creat a termin which give access to a custom shell. i have a node.j script (how can i accomplish this? is there an execut that ship with code that i can point to which run node scripts? or is there anoth mechan which i'm missing?
+Creating a Visual Studio Code integrated terminal with a custom Node script a the shell

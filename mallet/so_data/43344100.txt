@@ -1,1 +1,1 @@
-i have a problem understand how angular and electron work togeth talk about routing.aft creat the main window with electron what i want to do is, use a route, open a new window with that rout but return error as the following:compon to open in new window is a simpl new and clean compon creat with ng g c test.can someon help me understand the error?thank
+Angular2 and electron route issue

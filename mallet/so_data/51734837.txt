@@ -1,1 +1,1 @@
-my problem is the follow:readdirsync() doesn't find ani file insid the folder even if they exist and it doesn't fire ani error.her the code, thank you veri much for your patience, i'm pretti new to electron js.
+readdirSync() doesn't find any file

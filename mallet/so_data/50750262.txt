@@ -1,1 +1,1 @@
-there is liter no document on how to use amazon s3 with electron-build - i am so lost.
+Use amazon s3 with electron-builder's auto updater

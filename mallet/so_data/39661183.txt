@@ -1,1 +1,1 @@
-is it possibl to have a preview page befor print on node webkit ?i can onli launch a silent print!or is it possibl to print a pdf file and open it ?thank
+preview before printing with node webkit

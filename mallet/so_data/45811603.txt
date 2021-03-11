@@ -1,1 +1,1 @@
-just start a simpl electron app use typescript and i'm tri to get my custom menu setup. i follow the exampl in js, but the line
+Create Electron Menu in TypeScript?

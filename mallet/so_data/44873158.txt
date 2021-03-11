@@ -1,1 +1,1 @@
-i'm not sure which of the platform / tool is the root of my problem so ask this question on so rather than the issu of one of the git-hub repositories. i'm tri to develop a project base on polyonic. polyon itself is a kind of seed mashup of electron and ionic2. my project also use node-serialport, which is a nativ module. my develop version are: - node 7.4.0 - electron 1.6.10... and run thing. where am i go wrong? ani help or suggest would be appreciated.
+Building Electron with Ionic2, serialport, and electron-builder

@@ -1,1 +1,1 @@
-thank to window electron-winstaller, i have creat an instal for an applic built with electron frameworki have follow this tutori step by step that use squirrelunfortun it doe not explain how make an update.ex and where place it and how to use itcould you help me to make an updater.ex that i could use local fo exemple?
+electron electron-winstaller and squirell : how make and use an update.exe?

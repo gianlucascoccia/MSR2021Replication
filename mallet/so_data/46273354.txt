@@ -1,1 +1,1 @@
-in my project i have a servic that load data from nedb. for this purpos i have a method method to a button, or call it 100 or so ms after the startup it return the queri as intended.
+Callback function working with promise but not observables

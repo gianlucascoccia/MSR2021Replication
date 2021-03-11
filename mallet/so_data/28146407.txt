@@ -1,1 +1,1 @@
-i develop an applic which use tabs, everi tab has an are veri big and realli need performance, my applic is block for a coupl seconds.mi question: is it possibl to let everi ifram on the page execut in it own thread?
+Thread for each iframe on the page

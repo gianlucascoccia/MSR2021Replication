@@ -1,1 +1,1 @@
-we need to send some data from my .net winform applic to electron application. as both applic are independ we need to open some tcp port in nodej project and send data on same port from my .net app but here i am stuck between how i can send the data from my .net app.can someon pleas provid an exampl or document which would help me to resolv my issue.i tri to achiev it use node-ipc packag but no luck.nod version: 8.11.1npm version: 5.6.0electron version: 1.7.10
+Send data from .net application to electron app

@@ -1,1 +1,1 @@
-i am just tri out electron and have a veri simpl app that should load a webpag when run
+Electron - TypeError: core.require is not a function

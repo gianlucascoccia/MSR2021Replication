@@ -1,1 +1,1 @@
-i'm tri to build a node-webkit app, current i'm experi on work?
+make node webkit app load full screen

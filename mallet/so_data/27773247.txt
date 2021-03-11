@@ -1,1 +1,1 @@
-you have to set javascript origin in the googl develop consol to allow certain origin to access the googl apis. the problem is that i'm make an app that run in the the node-webkit which use the file:// protocol and googl doesn't allow file:// to be a javascript origin.ani work-around for this? i tri run a local http-server within node-webkit but that didn't work.
+Using google APIs in the file system?

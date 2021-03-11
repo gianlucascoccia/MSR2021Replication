@@ -1,1 +1,1 @@
-i apolog if this is too trivial of a question, but i am new to electron and am have troubl get electron-reload or win.reload to work on my window browserview. they perfect work on the main bodi of the browser window, but the browser view that sit off to the left is not reloaded, even though it too is webcont in theory. code for electron-reload (in index.js)thank you!
+Electron App -- Electron reload not working

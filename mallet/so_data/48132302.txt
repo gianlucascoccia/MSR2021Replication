@@ -1,1 +1,1 @@
-good morning,i tri a veri simpl but i get no match version found for pinkie-promise@2.0.2i don't understand to don't find more inform on this problem that concern electron.i think i don't have the good pinki folder, if anyon have a version of electron can he send me pinki folder.thank for your help.
+npm install fail because of pinkie dependency

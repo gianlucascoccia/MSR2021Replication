@@ -1,1 +1,1 @@
-the problemi run these commands:
+electron-packager failing to build when run a root

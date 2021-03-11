@@ -1,1 +1,1 @@
-i want to build a project written in electron.j with electron-build when index.html file in the parent directory, a simpl app with structur like below: i don't know what to do ?!i'v found this issu https://github.com/electron-userland/electron-builder/issues/2693 but can't undestand it and don't know what should i do?
+How to build with Electron-Builder when index.html ha relative path

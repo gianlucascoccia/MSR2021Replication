@@ -1,1 +1,1 @@
-i am tri to initi an object of notif provid by electron. but i am get the error as:ani clue or ideas?
+Electron: Notification is not a constructor

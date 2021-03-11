@@ -1,1 +1,1 @@
-i am work on a desktop applic with electron and i am consid onlin storag to store data. i would like to get some idea on the approach as i couldn't find reliabl answer from googl search.approach 1. electron app (front end ) + php (like purchas a host packag from godaddi with a domain e.g: www.mysite.com) with this approach i am plan to creat api call in php to perform basic crud. is this is a good way? will this affect the speed/load time?ar there better way for this situation?thank you veri much in advanc for the help.
+Electron desktop app with online server and database?

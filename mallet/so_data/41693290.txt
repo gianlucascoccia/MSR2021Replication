@@ -1,1 +1,1 @@
-i am work on pos applicatoin use electron with reactjs. is there ani way to print a html layout silently(without show preview). tri with node-print modul but not abl to print html format. i have tri with below code: ani help would be high appreciable.
+Is there any way to print html formatted text using node-printer?

@@ -1,1 +1,1 @@
-i'm tri to emb in webview tag a pdf local file system. can we forc the access to local ressourc with javascript ?
+webview with local resource in Electron?

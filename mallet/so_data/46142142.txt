@@ -1,1 +1,1 @@
-index.j filebut it give me the error:"refer error :document is not defin "bi the way i am creat an electron app. just tri to display some data from my javascript page to html page.
+How to display value from a Javascript function onto an HTML page?

@@ -1,1 +1,1 @@
-i am current work on a the three imag sprite are 14.4mb, 14.9mb and 15.5mb size. each sprite contain 75 frames.whi could this be happen and how can i prevent it?
+NW/Node Webkit - Image decodes even if it is already visible

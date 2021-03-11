@@ -1,1 +1,1 @@
-im tri to make a desktop app with electron and react.im allerd get startet and the most compon are working, but in my react compon i need to make a new funktion like: the repo
+Electron React App

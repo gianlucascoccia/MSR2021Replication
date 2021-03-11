@@ -1,1 +1,1 @@
-i am packag my applic into exe file use electron-packag by use the follow command:but i am get the follow error when i run the generat exe file: error messagemay i know what caus the problem?
+Electron Packager creates error in the packaged file

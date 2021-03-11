@@ -1,1 +1,1 @@
-i am build a desktop applic in which i want to open extern applic from my app. i'm use electron it work properly!i got this solut here. but it is work with systemjs. but my project is not configur with systemjs.ani help would be appreciated. thank in advance!
+Ionic 3 - use electron's 'child_process'

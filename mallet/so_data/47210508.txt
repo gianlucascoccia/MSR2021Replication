@@ -1,1 +1,1 @@
-dure the instal of my app (ui creat with react), the user has the option to specifi some specif in a text field (how much memori to alloc to the vm, etc.). it is an option part of instal and can be skip (default valu will be used) like so: function (the size and mem arguments) and leav the default argument if they choos not to (if the user doesn't want to specify, they will not be taken to the page with the text field)?
+How to pas user input from one j file to another

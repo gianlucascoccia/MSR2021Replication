@@ -1,1 +1,1 @@
-i'm use a simpl electron react boilerpl from here:https://github.com/shekhargulati/electron-react-quick-startth boilerpl is left as-i except for not usabl in a render process?
+Using http.createServer in electron renderer

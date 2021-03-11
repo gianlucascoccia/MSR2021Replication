@@ -1,1 +1,1 @@
-i'm look for a way to creat an electron menu with the label find... &amp; perform a general search in the current browser window. i was abl to add the option, but i don't know how to access the browser to grab an element by id. my current code:.
+How to make electron menu to make a general search in the current window?

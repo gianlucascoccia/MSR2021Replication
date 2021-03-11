@@ -1,1 +1,1 @@
-i'm new to electron and i'd like to run a non electron execut insid my main window. is it possibl to do that?her is my code:thanks.
+Run a non electron executable inside electron window

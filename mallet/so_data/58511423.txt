@@ -1,1 +1,1 @@
-i'm use electron to develop an app for a websit and this websit has a popup but i want advertis to be block in some part of the website, the problem is that the websit is a blog and generat postnow what i want to achiev is that in the begin of the web if there are popup and in blog post not thereth web use blogger and verystream playersi am current use this code to block the open of windowsbut doe anyon have ani idea how to block pop-up in the post and start showing?sorri if i don't explain myself well
+how to prevent pop ups of a specific page

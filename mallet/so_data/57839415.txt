@@ -1,1 +1,1 @@
-i would like to show an open dialog box from within a render script.i am get conflict inform from differ sources, but, as far as i can tell, the document at https://electronjs.org/docs/api/dialog suggest i should be abl to use:
+Electron: dialog.showOpenDialog not returning a promise?

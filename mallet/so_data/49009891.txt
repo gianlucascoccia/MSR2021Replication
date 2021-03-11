@@ -1,1 +1,1 @@
-i'm tri to implement the tree view with zoom in d3 with no success.it display the tree but the zoom just won't work. it doesn't respond to ani mous wheel movement for some reason. no compil errors.i'm unsur what the problem is. ani help is appreciated. :)
+d3.zoom will not zoom

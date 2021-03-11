@@ -1,1 +1,1 @@
-my app allow the user to save video file wherev he/sh want so when use this video file insid the app i end up with someth like this and the subtitl doesn't showbut after think about it it would be better to play the video file with the nativ media player if i am not mistaken. how to do so? use node child_process spawn? or is there an electron way
+Set mime type OR run the native medium player

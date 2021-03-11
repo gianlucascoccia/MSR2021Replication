@@ -1,1 +1,1 @@
-i'm tri to use electron ipcrender insid my vue sigl file compon to popul some data. it easi enough to call out with a &#xd;&#xd;&#xd;
+electron ipcRenderer from Vue.js Single File Component

@@ -1,1 +1,1 @@
-i am tri to build a electron applic which will take a pixel color under mous position. i am tri to use robotj to get pixel color.but when i run the applic it show the follow error.
+Robotjs wa compile against a different Node.js version

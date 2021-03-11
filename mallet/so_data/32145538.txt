@@ -1,1 +1,1 @@
-i am creat a nativ applic use nw.js. here, is my code snippet:i am abl to get file path of the select files. is it possibl to access the file properties?
+Accessing file property in nw.js

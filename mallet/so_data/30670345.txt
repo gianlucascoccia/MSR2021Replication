@@ -1,1 +1,1 @@
-whi the below code alloc a lot of memory?poss answer: ani time a float point number is assign to a properti of an object or an element of an array, it must first be box (alloc on the heap). if your program perform a lot of float point math, box can be costly. you can't avoid box when work with object properties, but when oper on arrays, you can use type array to avoid boxing.from write effici javascript
+Why simple math in JS allocates a lot of memory

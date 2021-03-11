@@ -1,1 +1,1 @@
-on two laptops: window 7 and window xp.work (with escap back-slashes, as shown) on window 7 system, fail silent on window xp.i have seen issu post with osx and also with window 7, but not with xp. incidently,th other two shell methods, openitem() and openexternal() both work perfect on both laptops. doe anyon have ani experi with this?thank you,jonathan
+Node-webkit Shell.showItemInFolder() on Windows XP

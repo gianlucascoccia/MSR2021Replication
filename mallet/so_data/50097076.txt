@@ -1,1 +1,1 @@
-i'm build an app with electron where i need access to the current wifi password (keychain). but everi time the app prompt the password dialog to get access to the keychain. is there a way to grant the access onli once?
+Electron: grant access to sudo or keychain without prompt password every time

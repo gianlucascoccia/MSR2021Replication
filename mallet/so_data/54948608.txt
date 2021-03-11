@@ -1,1 +1,1 @@
-one of my electron browserwindow is use multipl browserview to emb webcont into window. and these browserview will be set accord to the tab select creat on window. i am abl to open dev tool of these browserviews(it will open in separ windows) but i cannot show up the dev tool of the window itself.it is visibl befor set the browserview on window. after set a browserview on window, it is lay behind the browserview. how can i show up this dev tool of window over the browserview?
+How can I show up Dev Tool on electron window on which have multiple BrowserViews?

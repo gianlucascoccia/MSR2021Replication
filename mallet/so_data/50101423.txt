@@ -1,1 +1,1 @@
-1 -i want to add a new record insid the excel which is alreadi contain some valu 2 - is there ani way to use excel as the databas for our projectso that client can use the excel effieciently//script file.js// what happen is valu is overwrit and the excel has the last insert valu i had even tri in the second function of remov the column but still work the same and show error on some time
+Add a new record to an existing record contained excel file in excel js( already the excel contains some value now trying to insert a new record )

@@ -1,1 +1,1 @@
-i am receiv one string from api as mention below: now the next step is i have to convert this time to browser(cli side) local-tim zone.i am use moment js but unabl to find the proper function to achiev this conversion.
+NodeJs/electron: Convert one timezone to the other in website /client side

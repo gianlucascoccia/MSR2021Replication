@@ -1,1 +1,1 @@
-is it possibl with electron/nod to find anoth third parti app window size and position?i want to write an overlay for a game, and posit my electron window abov it at a certain posit accord to the game window.
+Electron / Node.js find third party app window position - Overlay for another app

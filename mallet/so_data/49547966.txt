@@ -1,1 +1,1 @@
-so i creat a small electronj desktop application, and for the data storag i use nedb.in dev mode, it work perfect fine, but when i compil in product (i'm on mac), i can't write the databas file anymore.her is the code i use to declar my databas and creat my file if it doesn't exist alreadi :so in dev mode, the file is creat and everyth is okay.but after compiling, my app doesn't creat my "datafile.db"someon can help ?thank you !
+Electronjs : Saving a db file after compilation

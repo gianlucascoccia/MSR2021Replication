@@ -1,1 +1,1 @@
-jshint in vs code doe a fantast job at give electron.j relat hints:but in bracket (mi prefer editor) jshint doesn't give electron.j specif hints:i there a way to fix the lack of hint in brackets?
+Enabling jshint for Electron in Brackets

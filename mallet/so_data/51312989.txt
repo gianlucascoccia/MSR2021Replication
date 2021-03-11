@@ -1,1 +1,1 @@
-i am log the user in use anonym auth method in electron app and get the user id and creat a document on firestor which is connect to the previous user id. if somebodi has done some workaround for this pleas help me.i don't mind if the user lose all his data when he uninstal and reinstal the app again as he will know that, that is the expect behavior.
+How firebase auth state persistence work in electron apps?

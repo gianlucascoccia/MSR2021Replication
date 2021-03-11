@@ -1,1 +1,1 @@
-i ad a link insid my html page in my electron app that open a ssrs report.when i click the link, it tri to navig but noth renders. i click the develop tool and i am get jqueri errors. jqueri errori'v includ jqueri in my depend file as well as declar it in my reporting.j -- const {sql,$} = require('../dependencies'); im use webview within electron.. has anyon els tri or had this error and if so, can you help??
+electron will not load ssrs report

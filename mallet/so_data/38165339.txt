@@ -1,1 +1,1 @@
-note: i know about the fileread api howev i don't want to read the file unless it click on the app. let me explain.mi project tree file are locat at . i don't know if this is even possible.put anoth way, how can i copi one file from one location, to anoth locat via drag and drop; without read the file contents?
+Drop file into app and copy that file to a folder

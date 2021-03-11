@@ -1,1 +1,1 @@
-i am use node-webkit to autom some common tasks.i have an ifram which goe to a site address, then click save and i have a file save dialog pop out.i there ani way i can catch the event to save the file witout requir an extern action (like set the save folder and click on save)?
+Save file automatically from IFrame in Node Webkit

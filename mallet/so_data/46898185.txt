@@ -1,1 +1,1 @@
-i am contribut to a project which is built with react (with webpack) run in electron. when execut unit test with jest, it fail with the error
+Electron + Jest - ipcRenderer is undefined in unit test

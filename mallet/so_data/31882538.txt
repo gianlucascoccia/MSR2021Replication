@@ -1,1 +1,1 @@
-i'm experienc a weird bug with electon on window 7 64bits.everyth in the code is work just fine, but when i run the . but, it do the same thing no matter where my app is and no matter how i run it. there is no code anywher relev to this issu really... i just have the expect titl in the head of my html... the main is vanilla electron documentation, straight from github...her is an imag to better illustr the issue:
+Window title not showing correctly - electron

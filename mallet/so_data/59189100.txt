@@ -1,1 +1,1 @@
-i am use electronj to make an applic that generat an stl file from an imag and i am use opencv to access the valu of each pixel of the image. a worker is use to write the stl file. the complic that i am have is that i am not receiv the messag in either the file that the worker is creat (the same place that send a messag to the worker) or the main process.th follow is the creation of the worker:al other part of the code are functional, but i am not receiv ani respons in the console.
+Where doe a postmessage from a worker called from the render process go?

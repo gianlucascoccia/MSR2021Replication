@@ -1,1 +1,1 @@
-so i got a task to make an applic for windows, to generat a crossword and save it as a corel draw file (.cdr), as i use web technolog i don't know ani other way than electron. so my question is, is it possibl to achiev this goal with electron ? do i need ani exist node modul for this save it as a corel draw file? i would appreci ani kind of information.thank in advance.
+Electron save a part of dom a corel draw file

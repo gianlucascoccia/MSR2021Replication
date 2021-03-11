@@ -1,1 +1,1 @@
-i want to use ipcrender in the typescript of angular6 project and communic with electron app through ipcmain. to access ipcrender in typescript file:a lot of post mention that angular 6 can't use fs anymore. but i need to use electron and ipcrenderer, is there anyway to solv it? thank a lot
+Angular 6 cannot resolve 'fs' and 'path' for using electron

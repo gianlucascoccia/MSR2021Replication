@@ -1,1 +1,1 @@
-i have a piec of code that use the server with nodejs, in which there is a method that requir port run program then manual disconnect and reconnect to the same port. but my troubl and not get what method i use. sampl code snippet:i want to use the same port 9999.
+Disconnect http.createServer method in Node.js

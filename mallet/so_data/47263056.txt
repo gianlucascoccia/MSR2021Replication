@@ -1,1 +1,1 @@
-i would like set new favicon in my electron app and replac default electron icon when my app is build.i use
+Set Electron favicon with electron-builder

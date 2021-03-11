@@ -1,1 +1,1 @@
-i am display content dynam use web view pass url, when the content need has depend on fs or path. the content is not shown to the screen.main.j
+Webview in elctron doesn't show up on the screen

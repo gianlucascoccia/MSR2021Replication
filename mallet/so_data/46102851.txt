@@ -1,1 +1,1 @@
-i need to download a file to a specif locat in my electron program.i tri implement this api but failed.then i tri implement the offici api, but couldn't realiz how to actual start download the file.how can i download a file to a specif location, say ?thanks!
+Electron - Download a file to a specific location

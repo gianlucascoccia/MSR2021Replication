@@ -1,1 +1,1 @@
-use node-webkit, the follow page,https://github.com/rogerwang/node-webkit/wiki/file-dialogsdescrib that you can use [input type="file" nwsaveas="filename.txt" /]to open a file save dialog.howev it doe not explain how would you write the data to the filesystem.i expected/imagin someth simpl like,i there ani explan for this?
+How to Save As using Node-Webkit

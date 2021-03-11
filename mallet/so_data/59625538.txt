@@ -1,1 +1,1 @@
-termin output show how long my yarn instal is takingi'm make an electron / vue desktop app, and use yarn to manag dependencies. sinc i ad firebas and firebase-tool as dependencies, yarn instal is now unbeliev slow. i'm not sure if i should just ignor the postinstal script which is (electron-build install-app-deps) or if i need it. ani advic on what to do here would be great appreciated, thanks!
+Why is my yarn install / yarn add extremely slow?

@@ -1,1 +1,1 @@
-i have instal error. i tri googl it but found no solution. has anyon an idea what caus this?
+Require('jquery-ui') in node-webkit produce navigator not found error

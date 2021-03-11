@@ -1,1 +1,1 @@
-i'm get an error in my electron app: what wrong?
+Electron can't find fibers.node

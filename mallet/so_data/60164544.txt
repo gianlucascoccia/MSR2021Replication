@@ -1,1 +1,1 @@
-everyone!i'd like to run a react-electron app (which is an offlin app) insid docker imag on win10.i use to run the app on window by run ,but what i expect is to see the run electron desktop app.i there anyon who can help me with launch the app on docker?thanks!
+How to run electron app inside docker image?

@@ -1,1 +1,1 @@
-i'm use vue.j and electron. it work great and i can pass all my data to the mainrender with this works, but there is one problem: vue can onli do his magic work, when the dom is loaded. so sometim there is a small flickering, becaus the data on the page cannot be chang as fast as electron show the alreadi load dom (vue has to be load at the end of dom).so what is the best practic to do this? i thought about use express and a templat system, but run a webserv in electron isn't feel right.
+Using Electron and Vue.js

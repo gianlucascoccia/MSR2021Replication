@@ -1,1 +1,1 @@
-i'm attempt to use the folder anywher in it path. instead this point to the folder of my webpack bundle.
+npm package not being bundle correct with webpack

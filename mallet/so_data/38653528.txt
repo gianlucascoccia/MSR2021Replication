@@ -1,1 +1,1 @@
-my comput is mac, can not quit the electron app! why? what should i do?
+In Electron App,app.quit()&&ap.exit(0) can not teminate the process,how to deal with this?

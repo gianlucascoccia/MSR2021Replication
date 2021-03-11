@@ -1,1 +1,1 @@
-i'm new to electron and node. i'm tri to build an app that will includ a sqlite3 database, just for the experi of do it (this will not be my last stackoverflow post on this project).within the project folder i run:. if i go in and manual chang the path to be correct the applic runs, but it seem like there should be an easier way to do this.
+Attempt to install `sqlite3` for Electron app resulting in incorrect path

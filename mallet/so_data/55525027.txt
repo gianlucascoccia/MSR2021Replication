@@ -1,1 +1,1 @@
-i'm tri to build a desktop app use react &amp; electron. i can build the project with
+How do I retarget poorly targeted build file in a React + Electron app?

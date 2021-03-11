@@ -1,1 +1,1 @@
-i'm tri to run an electron applic on raspberri pi. when i use and where doe it come from?
+Errors after requiring npm package

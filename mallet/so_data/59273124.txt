@@ -1,1 +1,1 @@
-i can not run tensorflow.j with electron, pleas help. what i have: 1. window 10 version 1903 2. python 2.7 3. node 12.13.1 4. npm 6.13.1 5. node-pre-gyp 0.14.0, instal global what i did: 1. clone electron-quick-start from electron document (https://github.com/electron/electron-quick-start). 2. ran npm insntal and npm start to enshur everyth work fine. 3. instal @tensorflow/tfjs-node:
+How to run tensorflow.js with Electron?

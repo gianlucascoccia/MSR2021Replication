@@ -1,1 +1,1 @@
-i creat a multi window electron app with angular 6. when i send and ipc from one window to another, i can get angular to execut function and chang the data model, but i can't make it render the changes. this is even true when i use focus() on the former inact window befor i send the ipc and chang the data model.but i think there must be a way to forc angular to render inact windows. thank you for your help!
+How to render update in inactive window in electron-app with angular 6?

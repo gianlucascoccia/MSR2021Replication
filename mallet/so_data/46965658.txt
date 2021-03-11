@@ -1,1 +1,1 @@
-i'm wonder whi the modal look like this (dark background not fulli cover the top and bottom) when it insid a subsect of the overal code.mod code branch): https://github.com/funnyb0y/forgit-me-not
+electron/vuejs - uikit modal not covering entire screen when inside sub component

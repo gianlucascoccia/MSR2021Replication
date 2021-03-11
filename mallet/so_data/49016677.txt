@@ -1,1 +1,1 @@
-i'm develop an electron applic in typescript, and i'v run into a frustrat issue.i'm attempt to run a modul from a render process with the follow code: with typescript?
+Unable to use remote.require() with TypeScript

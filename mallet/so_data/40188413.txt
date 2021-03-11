@@ -1,1 +1,1 @@
-i am tri to creat a simpl electron base application, base on the instruct at http://electron.atom.io/docs/tutorial/quick-start/ , which provid the code below. when i do tri run it with electron 1.4.4 and nodej 6.7.0 i get:, so i am unsur how to check what is wrong?
+Issues trying to run electron based application?

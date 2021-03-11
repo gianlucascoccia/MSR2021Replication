@@ -1,1 +1,1 @@
-how to open 2 differ app with nw.js, if (http://docs.nwjs.io/en/latest/references/manifest%20format/#single-instance) is deprecated?
+Open 2 apps with nw.js

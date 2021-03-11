@@ -1,1 +1,1 @@
-how can i enabl the "press esc to exit full screen mode message" in electron while i'm in fullscreen in an iframe?observation: same ifram with same option in chrome show the message, but electron doesn't.
+how to enalbe "Press ESC to exit full screen mode" in electron

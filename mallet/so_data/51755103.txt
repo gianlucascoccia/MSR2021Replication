@@ -1,1 +1,1 @@
-i want to communic between electron app and open other brower. i have to send param from electron to other browser or from browser to electron app. but there is no way.pleas help me!
+How to communicate between electron app and opened other browser?

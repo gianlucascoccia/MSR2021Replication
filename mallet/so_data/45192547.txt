@@ -1,1 +1,1 @@
-i am tri to implement auth process in my electron app but after load the page i receiv amount of exceptions:mi code
+Electron app Uncaught ReferenceError: export is not defined

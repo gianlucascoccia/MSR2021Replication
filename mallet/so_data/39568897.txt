@@ -1,1 +1,1 @@
-my electron app show file insid their enclos folder use the standard command . works.now when two window user are sign in and they both use the app, the file is alway shown on the window desktop of the user open the app first.in real life, it look as if the function is broken, but actual the window explor is simpli open in the other window user session in the background.do anyon know how to get rid of this problem?
+Electron: How to handle open command with multiple Windows users?

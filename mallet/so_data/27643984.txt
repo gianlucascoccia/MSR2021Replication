@@ -1,1 +1,1 @@
-i'v got an angularj app with a movi array in my controllers.i'd like to simpli store these object on a database, and be abl to find them by their properties. i'm use node-webkit, and about data storage, the develop give the exampl of storedb (https://github.com/rogerwang/node-webkit/wiki/save-persistent-data-in-app - https://github.com/djyde/storedb/blob/master/readme_en.md).i find storedb realli simple, and it seem to fit my needs. but how can i bind it with angular ? have you got an equival made for angular ?thank you
+Angular JS and Store DB like persistance

@@ -1,1 +1,1 @@
-i'm explor build an electron desktop app that would be power by elasticsearch run on the client. is this possible, and if so, how can it be done?
+Can ElasticSearch be packaged locally with Electron?

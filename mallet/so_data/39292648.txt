@@ -1,1 +1,1 @@
-in electron js, i creat an app for window and regist my own protocol for deep linking. the app proper open when click on my link .could it be pass in a callback when the app starts? ani help on this would be great.
+Electron JS - Deep Linking - Example of how to use deep linking

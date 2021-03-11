@@ -1,1 +1,1 @@
-not sure what i'm do wrong with this but it doesn't seem to work. i want to remov a shape or symbol from an imag by it location, not by colour. as well but no result...th imag is display with no change.
+Javascript Canvas how to remove a shape or area from an image?

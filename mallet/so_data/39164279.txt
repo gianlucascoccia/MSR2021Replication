@@ -1,1 +1,1 @@
-i am tri to set auto-updat for my electron mac appin what is the issue? is sign requir for auto updating? if no, how can i set up auto updat without sign the app?
+autoUpdater for electron mac app

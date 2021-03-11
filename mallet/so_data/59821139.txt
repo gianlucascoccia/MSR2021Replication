@@ -1,1 +1,1 @@
-i am use electron and node.js.in electron i keep get the error.it happen when i do a ipcmain and ipcrend async (ajax) request. i can't seem to find ani inform on the error.
+Why do i keep getting "glBufferData: <- error from previous GL command" with electron?

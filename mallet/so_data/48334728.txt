@@ -1,1 +1,1 @@
-i am use electron version 1.7.9.i need to download a zip file in my app.follow code is use for the same.&#xd;&#xd;&#xd;&#xd;&#xd;i there anyth miss in the way i am code or is this a bug in electron/chrom etc.?th same code work perfect outsid of electron in a stand alon html.
+xmlHttpRequest GET for responseType arraybuffer get empty response in electron

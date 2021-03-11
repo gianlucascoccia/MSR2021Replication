@@ -1,1 +1,1 @@
-i'm tri to build pty.j for use in node-webkit (i.e. nw.js) v0.8.6: target "support nativ node.j modules"; perhap it doesn't yet support nativ addons?
+How to bundle node module with native addons using webpack in node-webkit?

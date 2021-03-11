@@ -1,1 +1,1 @@
-i am use the follow function code to get icon of an application, i am get same base64 imag data with all function call.
+Node Js exit from registered event emittier

@@ -1,1 +1,1 @@
-i just recent built an electron app and packag it use electron-packager. the .ex file is 55,000kb and the rest of the folder is quit bulki as well. is there ani way to take down the size of this applic at all?
+Make electron app smaller?

@@ -1,1 +1,1 @@
-when i write below code in electron in typescript,
+How to define `type` for `Electron` in typescript?

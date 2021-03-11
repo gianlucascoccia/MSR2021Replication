@@ -1,1 +1,1 @@
-i cannot seam to figur this out pleas help me run "run.cmd" onclick of button from my nwjs application.run.cmd is locat in the root dir of the nw application.
+Run a Batch File OnClick of Button from DOM in Node-Webkit App

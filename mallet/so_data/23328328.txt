@@ -1,1 +1,1 @@
-how to close window use angularj and node-webkit ? i don't want to use funcion of windows.close() when navigath through app.
+Close window in node-webkit using AngularJS

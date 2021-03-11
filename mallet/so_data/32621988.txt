@@ -1,1 +1,1 @@
-problem: while develop use electron, when you tri to use ani js plugin that requir jquery, the plugin doesn't find jquery, even if you load in the correct path use script tags.for example, or someth to that effect.
+Electron: jQuery is not defined

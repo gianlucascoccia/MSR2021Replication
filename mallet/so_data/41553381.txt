@@ -1,1 +1,1 @@
-i'm have error error: chromedriv did not start within 5000mson my specif gitlab ce runner, when tri to test electron app with spectron.error stack is: sinc that was one solut (but didn't work for me).what can i do to chang this?
+Error: ChromeDriver did not start within 5000ms

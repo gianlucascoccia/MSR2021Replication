@@ -1,1 +1,1 @@
-i use linux and am make an electron app that i want to distribut on windows, mac, and linux. all i want is that my app can updat itself - but this requir code signing.do this mean i need to buy certif for both window and mac and buy comput to do the sign on?or can i just buy the certifc and some how use them to sign on my linux laptop?
+Do you need access to the target OS's to code sign electron apps

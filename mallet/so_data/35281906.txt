@@ -1,1 +1,1 @@
-i'm use electron to design come applic on both my laptop and my desktop. to manag the code base between two differ machines, i'm use git. on my laptop, i'm abl to run in git bash on my desktop?
+Can't run "npm start" in git bash on one computer, but on another I can

@@ -1,1 +1,1 @@
-im work with electron, i need to return valu from executejavascript like below, anyway to get valu of body? thank for read
+how to get a return value from executeJavaScript

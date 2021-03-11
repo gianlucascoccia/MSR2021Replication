@@ -1,1 +1,1 @@
-doe anybodi now how to disabl scroll on node-webkit? i'm tri to use the zoom function from d3 and sometim it zooms, sometim it scroll the page. i don't need the page to be abl to scroll, so is there a way to disabl it overall?thank you
+node-webkit disable scrolling

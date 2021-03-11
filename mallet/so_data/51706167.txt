@@ -1,1 +1,1 @@
-i have develop a desktop applic use electron by wrap my webpag with electron.now how to make my webpag and electron interact i.e. catch ani click event insid the webpag and call a electron function in main.j etc. and pass some data from electron to webpage.note: my webpag is develop use angular 1.5
+Interaction between Electron and Angular JS

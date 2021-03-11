@@ -1,1 +1,1 @@
-i'm new at electronjs, when i tri to open . so when i move my page.html or css file to tmp-10260kle0xorffnk8 folder, problem solved.
+White and Blank Page Problem in ElectronJs

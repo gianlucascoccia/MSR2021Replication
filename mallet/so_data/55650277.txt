@@ -1,1 +1,1 @@
-i am tri to get the packag electron-dl working. for that, i use the standard electron-quick-start exampl project.unfortunately, appli the exampl code from electron-dl to the electon-quick-start exampl doe not work for me, mean noth is happen and no error in the browser-consol or the terminal. this is how i implement the minim example:main.j when press the download button.what am i do wrong?could someon pleas provid a simpl work exampl of the implenent of electron-dl use the electron-quick-start example?thank for your help!
+How to use electron-dl

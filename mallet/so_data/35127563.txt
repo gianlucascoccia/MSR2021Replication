@@ -1,1 +1,1 @@
-i'm work on an electron app which has to work behind a proxi server with simpl auth.cont in the mainwindow can communic through the proxi by use the "app.on('login')" way.i also have connet establish by the background.j file which fail when behind the proxy.i there a way to make connect in background.j also work with the proxi configuration?thanks!background.jsth mainwindow can connect to the server while connction from background.j can't.
+Electrons background.js when behind Proxy

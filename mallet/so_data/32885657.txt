@@ -1,1 +1,1 @@
-i wish to catch the event of click the app window close button in electron app.i'm tri to develop electron app for mac osx.i want to hide the app window, not to termin the app when a user click the window close button like other mac apps.however, i can not detect wether the system should be termin or it should be hidden, becaus in ani case, a is typed. however, when i tri to shut down the os, the shutdown event is prevented.
+How to catch the event of clicking the app window's close button in Electron app

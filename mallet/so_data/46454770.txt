@@ -1,1 +1,1 @@
-i have a rgba stream come from a redi callback insid an electron application:?
+WebRTC: Is it possible to create a VideoStreamTrack from RGBA ArrayBuffer?

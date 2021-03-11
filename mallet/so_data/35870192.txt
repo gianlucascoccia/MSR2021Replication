@@ -1,1 +1,1 @@
-in my html file, i includ a script like: folder.what is a solut to that? i can includ node.j modul like lodash for example.
+Cannot include j file in Electron

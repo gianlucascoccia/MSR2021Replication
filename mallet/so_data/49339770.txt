@@ -1,1 +1,1 @@
-i'm work on a react applic that need to work on nw.js and browser. that whi i have modifi my webpack config file as shown below.a you see most below of the config file i'm use
+Webpack config target:"node-webkit" fails with Uncaught ReferenceError: require is not defined

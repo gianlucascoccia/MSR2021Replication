@@ -1,1 +1,1 @@
-i have an exe file which is pack and run by electron. now i want to unpack the singl exe file (not asar) to studi the sourc code of this app. but how?i have tri to unpack this web desktop app (ex file pack by electron) by chang the extens of this file from exe to zip, 7z and tar. but all fail and indic that this file is in "pe" format.could you pleas show some way to unpack this electron app in a singl exe file? thank you.
+How to unpack a single EXE file produced by Electron pack?

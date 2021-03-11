@@ -1,1 +1,1 @@
-i wish to creat an array of modul to could fail. is this correct?pleas note this is a continu of my question: where/how should i requir multipl modul for performance?
+NodeJS & Electron: Async Multiple Required Files

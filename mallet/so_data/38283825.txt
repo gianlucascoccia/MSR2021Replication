@@ -1,1 +1,1 @@
-when i tri to access my angular 2 applic use the direct url to my how can i fix this issue?
+Go Back Behaviour of Angular 2 Router

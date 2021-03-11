@@ -1,1 +1,1 @@
-this is my first electron app, which is base on quick-start app. i want to add twitter bootstrap css. so i instal it like this: directory. is it the respons of the build tool to includ the css file, or should i includ it manually? if i have to take care of this, did i even need to instal bootstrap from npm?
+How to properly include twitter bootstrap in electron app?

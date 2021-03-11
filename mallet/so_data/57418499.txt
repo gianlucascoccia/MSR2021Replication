@@ -1,1 +1,1 @@
-in my host applic i have a button, that when clicked, send data over to my angular applic with data. like so:but the multipl alert still happen on a singl click.i cannot use the ipcrenderer.onc method, sinc i need the listen to remain open, just not have multipl listen of the same. how can i remov the ipcrenderer.on('data-bridge', ...) event listener, so that for everi click of the button, i will onli have one event listener?
+How to unregister from ipcRenderer.on event listener?

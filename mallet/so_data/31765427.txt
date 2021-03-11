@@ -1,1 +1,1 @@
-in an electron application, what is the standard way to navig to differ page / locat when a link is clicked?i tri creatingand an html file name profile.html, but click the link just take my app to a blank page. what is actual happen when the link is click &amp; what is the right way to do basic links?
+Navigate between page in Electron app

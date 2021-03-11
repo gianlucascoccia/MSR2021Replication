@@ -1,1 +1,1 @@
-i'm tri to instal client app, written in angular.j and in it read.m there are follow steps: npm installbow installcd electronnpm install./node_modules/.bin/electron-rebuildand it should creat vendor folder while do bower instal command. by run it, i get this message:illeg instruct (core dumped)i don't know what can caus this problemnod version: v8.10.0npm version: 3.5.2bi do sudo npm instal bower -g i'm get this output:
+Bower Install - Illegal instruction (core dumped)

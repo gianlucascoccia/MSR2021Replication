@@ -1,1 +1,1 @@
-i am work on an electron project and use electron-packag to packag my app.however, with my current folder structure, all css file locat in the parent folder of my electron project/package.json are not be copi to the packag application.thi is my structure:? i'm hope to keep this simpl and stay away from set webpack up unless i have no other choice.for reference, here is the question i post on the electron-packag github:https://github.com/electron/electron-packager/issues/1089thanks!
+Require a CSS file in an HTML file without using webpack

@@ -1,1 +1,1 @@
-when i load this site via my own browser it look quit nice and modern but when i load with the webview tag it in my electron applic it shown with an old theme.i alreadi chang the browser agent and tri chang the size but that doesn't help, do you know how this webit can know that it load from webiew and how i can bypass that?new version:https://ibb.co/rcbqh14old version:https://ibb.co/1jhzzgc
+Website change design when loaded with electron webview

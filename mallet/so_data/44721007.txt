@@ -1,1 +1,1 @@
-i am work on desktop applic use nw.js wherein requir to record select area of desktop screen. current use recordrtc node modul for record video. but this give me full screen video recording. pleas assist if there ani other packag to achiev this across platform (win/linux/mac).
+How to record desktop screen video using recordRTC node module of selected screen area?

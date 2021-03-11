@@ -1,1 +1,1 @@
-is there a way to retriev and execut pre-instal applic from the my app?lik if i want to execut photoshop from my app.what i am look for is to list down all the instal applic on the os and have them get open when i click on them. sort of like "start menu".
+get installed o application with NodeJS and Electron

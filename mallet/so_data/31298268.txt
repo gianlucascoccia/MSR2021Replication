@@ -1,1 +1,1 @@
-how to differenti between the main process and render process in electron (atom shell)?
+How to differentiate between the main process and renderer process in Electron (atom shell)?

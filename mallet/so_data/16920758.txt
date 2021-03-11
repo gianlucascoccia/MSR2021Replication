@@ -1,1 +1,1 @@
-i'm use node-webkit with an extern modul call edge.accord to the node-webkit doc modul that contain nativ code must be recompil use function. this is drive me crazi - and ani help would be realli appreciated.
+Node-Webkit with external module containing native code

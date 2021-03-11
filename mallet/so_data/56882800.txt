@@ -1,1 +1,1 @@
-i have tri to integr react admin page with electronj applic follow this linkintegr and render succes with sampl react admin pagesampl react admin page that is working.how to solv this?regards.
+Integrating React Admin with ElectronJS app

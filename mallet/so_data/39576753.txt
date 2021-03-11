@@ -1,1 +1,1 @@
-i have chrome packag app, and there i use gcm.nw.js said that they will continu to support chrome api in this article, but i can't get a registr id when use .ani news about this? is this api still supported?
+NW.js chrome.gcm. API doesn't work

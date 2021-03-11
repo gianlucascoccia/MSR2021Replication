@@ -1,1 +1,1 @@
-i'm use electron with angular cli and tri to get a relat path to my file. i'm tri to use path modul for it, sinc it is work in main.j where electron doe it magic.main.j function use in electron main.j is a littl more complic than load content of a singl folder in node_modules.so, my question is how do i import path method (and, possibly, other methods) in my components?
+Angular-CLI + Electron cannot find module 'path'

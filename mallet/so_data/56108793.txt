@@ -1,1 +1,1 @@
-im write an app use electron and face some small problem which i cannot solveim tri to open file in some specif folder but if the user cannot find it there, an alert would appear but it display at the layer beaneath the main application, so the user may not even recogn what happening. i was tri to find answer in the documentari but failed.
+How to display alert and exception window at the top layer?

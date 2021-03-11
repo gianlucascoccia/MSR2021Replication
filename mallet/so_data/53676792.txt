@@ -1,1 +1,1 @@
-i'm work on an electron 3+ applic in windows. i'd like to add a context menu to the window applic preview as seen in visual studio code. i'v alreadi look here and the jumplist describ right click the window icon in the tray and not the preview. and i'v had no luck find exact what this is call so i can't even find ani sort of documentation.do anyon know how i can add this into an electron 3+ application?
+Windows Application Preview Context menu in Electron

@@ -1,3 +1,6 @@
+app
+applic
+application
 electron
 node-webkit
 i've

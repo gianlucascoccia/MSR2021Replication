@@ -1,1 +1,1 @@
-i am tri to creat a chat applic that has chat head when the user is not chatting. on chat head click i want to open the list of chats.problemin order to make chat head draggable, i have set the is that if it is set then the mous click are not working.pleas suggest what should i do.
+NWjs: Chat head click not working if -webkit-app-region: drag is set

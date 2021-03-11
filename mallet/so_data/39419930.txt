@@ -1,1 +1,1 @@
-i have a react compon i'm write some test for. i'd like to test that when a function at the moment.
+simulate('scroll') on a div inside a React component return `AssertionError: expected false to be true`

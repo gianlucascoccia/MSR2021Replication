@@ -1,1 +1,1 @@
-i would like to find out which version of electron an electron desktop app like signal desktop or visual studio code is using. is there a simpl way - like enter a command in the develop console?thanks! johannes(why? i would like to see if it is affect by bug like https://www.trustwave.com/resources/spiderlabs-blog/cve-2018-1000136---electron-nodeintegration-bypass/)
+How to display version of Electron environment in an Electron app?

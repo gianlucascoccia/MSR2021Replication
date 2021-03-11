@@ -1,1 +1,1 @@
-i'm play around with the atom-shel and was wonder if anybodi has used/written a modul for make tubular browser windows?currently, it seems, atom-shel open a complet new window when instanti a browserwindow:i there a way of tabularis the window, like in the atom application? or will i have to write this function insid the current browserwindow in order to get it to work?
+Tabular Browser Windows for Atom-Shell?

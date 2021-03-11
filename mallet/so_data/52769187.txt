@@ -1,1 +1,1 @@
-i am use electron and i'm tri to disabl the abil for user to past into edit content. i'm also keep past and match style enabled. this work great on mac, but for some reason on windows, normal past is still possibl even when there is no key acceler that point to a past function. how can i disabl this?
+Electron: Disable Paste on Windows

@@ -1,1 +1,1 @@
-i'am tri to build a nodewebkit app that use the soundcloud api.but i fail alreadi at the connect/login process. in nodewebkit the user can instal the app anywher on his hard-driveso that the redirect_uri is never the same.and host the redirect page on a webserv will not work.{differ protocol "file://" and "https://")i tri the differ approach from the api doku herehttp://developers.soundcloud.com/docs#authenticationbut with no result.how i use the soundcloud api with nodewebkit ?thank in advance.
+Soundcloud API Authentication | NodeWebkit, redirect uri and local file system

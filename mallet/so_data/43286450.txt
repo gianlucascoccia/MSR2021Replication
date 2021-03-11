@@ -1,1 +1,1 @@
-i need your help. i'v been stuck with this problem for 2 days.i'm build an applic with electron (bi atom) and i use bootstrap-select. when i launch the app an error rise even if the function in question has not been call yet:do someon know how to fix that?
+Electron $(...).selectpicker is not a function

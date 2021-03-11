@@ -1,1 +1,1 @@
-i have declar an enum in a compon type script file and it fine and work well in that compon but now i want to use it in anoth component.bas on what i read i have tri some approach but with no results.wher can i declar a global enum so that i can use it in all my components? enum exampl : thank in advance.
+Angular 6 Global Enum?

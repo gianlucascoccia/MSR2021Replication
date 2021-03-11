@@ -1,1 +1,1 @@
-i am use electron-build take nsis as target for make window installer. electron version is 1.7.9electron-build version is 19.40.0 below are the package.json build config for window setup.}it will creat a win-packag and window installer, but instal will not work it show error messag error! can't initi plug-in directory.pleas tri again later.
+Ionic + Electron

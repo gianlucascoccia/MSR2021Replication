@@ -1,1 +1,1 @@
-i have a web applic (service). it have sever rout for auth:register: (post) . i am veri littl idea for authent flow for a desktop app. especi consid that authent for oauth provid must pass through my web application.i never didn't write a desktop apps. onli web.
+What should be the authentication flow for desktop apps (electronjs)?

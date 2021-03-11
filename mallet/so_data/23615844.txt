@@ -1,1 +1,1 @@
-is there ani refer implement on how to do this? the entir app has an ifram with third parti content that i cannot modify. i was abl to set a context menu in a blank app, but it doesn't appear when the ifram take over the entir window.(i use $(document).on("contextmenu", ..)how can i make it work in the ifram too?
+Node webkit: Cut/copy/paste right click context menu and iframe

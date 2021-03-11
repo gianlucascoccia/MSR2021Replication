@@ -1,1 +1,1 @@
-i have a react/electron app that i'm build on &amp; for window with
+"SyntaxError: Invalid regular expression flags" in React/Electron

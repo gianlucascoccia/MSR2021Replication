@@ -1,1 +1,1 @@
-i am tri to write a test with spectron for our electron app, but i am run into problem with the setup. i use the classic setup with chai. i have one file which contain setup code:so it look like the app doe not start. but that is not true. the app window opens, but it seem like the test doe not recogn that. i have alreadi tri chang the path use all kind of syntax. but noth worked. what am i missing?
+Spectron with mocha and chai doe not work

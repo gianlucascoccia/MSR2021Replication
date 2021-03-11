@@ -1,1 +1,1 @@
-i'v page with html, css and js in my exist electron-project and i'v vue project with electron-builder. i'v move the html to the templat in vue and move the css to the style but how to move the js?
+How to move one page that's composed of HTML, CSS and JS from Electron-Project to Vue Project?

@@ -1,1 +1,1 @@
-i am make a web browser in electron, and i have an issu where the page i open in my webview doesn't resiz to the window size and goe outsid of the bounds.her is a pictur of the issue:if someon know how to help me, i would realli appreci that.
+Set a webview view to window size

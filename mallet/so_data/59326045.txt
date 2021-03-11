@@ -1,1 +1,1 @@
-i am tri to run via electron the follow web app:i am retriev
+Electron doe not load index.html correctly, file from local folder are not loaded

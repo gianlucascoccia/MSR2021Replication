@@ -1,1 +1,1 @@
-i am current develop a desktop app use electron and i'm tri to figur the best practic of how to organ the code. in particular, from what i understood read the electron documentation, everi electron app is compos by a main process (that correspond to my ?also, how this affect the possibl of use angular? is an architectur that requir ipc inter-commun between process still compat with the modular architectur of angular?
+How should i organize my code in Electron?

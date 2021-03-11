@@ -1,1 +1,1 @@
-i am write an electron program and want to use some javascript class in the main process. i would prefer to have those class in differ file and includ them insid of the script.i usual did this by just ad both, the script and the class insid the html file but sinc it is the main process there is not html file.questioni it possibl to includ an extern javascript file in a differ javascript file?
+Adding external javascript file in javascript

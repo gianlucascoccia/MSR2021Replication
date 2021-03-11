@@ -1,1 +1,1 @@
-the document give an option to show the tab bar (). but for the life of me, i'm just not abl to make it work.th doc say "toggl the visibl of the tab bar if nativ tab are enabled". what are nativ tabs? how do i enabl them.i want to be abl to show the tab bar in electron.
+win.toggleTabBar() not working in electron

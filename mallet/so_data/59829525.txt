@@ -1,1 +1,1 @@
-i'v just clone this repo: https://github.com/electron-react-boilerplate/electron-react-boilerplateinstal it and tri run it as describ in the readm file.but when i run command anywher on the internet
+Electron-react-boilerplate start the main process, but nothing happens

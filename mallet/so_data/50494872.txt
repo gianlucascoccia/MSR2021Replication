@@ -1,1 +1,1 @@
-i'm new to electron, and i'm tri to do a function from a click on a menu. here is my example.th error is this: "referenceerror: document is not defined"edit: my english is bad, i use googl translate, sorry.
+How do I access the DOM element in Electron?

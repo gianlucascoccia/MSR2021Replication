@@ -1,1 +1,1 @@
-i am tri to write some code where i have the pagea.html and pageb.htmlon pageb.html i have a form:both page are on my localhost.i need to add some code on pagea.html that with hit the submit button on pageb.htm this possible? if yes, how can i do this?
+Javascript Submit from from pageA to pageB

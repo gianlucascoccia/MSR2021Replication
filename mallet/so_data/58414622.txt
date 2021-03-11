@@ -1,1 +1,1 @@
-i am use angular and ngxs as state manag solut in an electron application. now i would like to save the state in the user home directori (as simpl json file).do anybodi know how to do this. do i have to write my own ngxs plugin?
+How to implement storage for ngxs managed state in an electron app

@@ -1,1 +1,1 @@
-after search on the web on how to make an instal and updat for my electron app i find that instal and updat section is not soo easy, and i need extra help becaus this problem introduc more challenges.i have a simpl folder structur like this:insid this project with express.js, i have a folder name dist/wininsid dist/win, i have 1 more packag that has the 1.0.2 version how to get the file from that local server and updat my electron app source.how i can make a simpl instal with a simpl auto-upd mechanism?
+How to make a simple auto-updater for my electron app

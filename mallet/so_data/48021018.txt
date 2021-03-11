@@ -1,1 +1,1 @@
-chromium slow render canvasi record a screen use a record reader in the chromium browser electron app.i take an exampl - https://github.com/muaz-khan/recordrtc/blob/master/simple-demos/record-cropped-screen.htmlwith a render, everyth is slow down by fps - 3how to increas fps?
+Chromium slow render canvas

@@ -1,1 +1,1 @@
-how to add an instal step to the application? in order for the instal to read the term of use.i use - electron installerther is an event: --squirrel-installwhat to add?
+Add step installer electron app

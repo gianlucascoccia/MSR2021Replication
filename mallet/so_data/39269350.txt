@@ -1,1 +1,1 @@
-this is my first time use electron and im tri to run an express app, it give me this error updat codeani help is appreci
+electron cannot find module package.json

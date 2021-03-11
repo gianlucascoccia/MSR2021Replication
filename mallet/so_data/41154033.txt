@@ -1,1 +1,1 @@
-i'm tri to work on an electron app and have been have a problem with tri to requir a modul from anoth script run within the chromium browser window. no matter what i do to specifi the relat path, i'm alway come across the same error about be unabl to find a module.mi project is set up like this:am i make an incorrect assumpt about how requir relat path is done when execut from the chromium browser? ani help is appreciated!
+Electron -- requiring module in Chromium script

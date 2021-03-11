@@ -1,1 +1,1 @@
-i feel like i am miss someth simple. i'm develop a "tray" applic in nw.js. to do this i set , but i can't quit figur it out.
+"Uncaught ReferenceError: require is not defined" in nw.js window opened using nw.Window.open()

@@ -1,1 +1,1 @@
-i have a github auth link in my app which trigger the new-window listener'how do i store a refernc to this new window so i can later perform action on the instance?
+Electron store reference to new BrowserWindow

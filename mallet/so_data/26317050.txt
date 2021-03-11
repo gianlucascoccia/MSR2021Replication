@@ -1,1 +1,1 @@
-i want to build a file system explor app, and i want to list file with icons. i use node-webkit.and file can be executables, directori and normal files. in file list i want to diplay file icon and name.can i use node.j fs modul for get icons? or there a modul for read icons?how can i get icon of file?
+Node.js f get icon of file in directory

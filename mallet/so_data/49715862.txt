@@ -1,1 +1,1 @@
-renderer.j in this manner? secondly, is there a way to optim this so we wouldn't have to rewrit this process for everi global variabl (i.e. some way to do this with dynam variabl names)? i appreci ani idea or solutions, sorri if this is a common sens question.
+Using ipc in Electron to set global variable from renderer

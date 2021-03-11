@@ -1,1 +1,1 @@
-my main option is a remot page, so i need to work with node-remote. but i have some question about it.how to set multipl address?how to requir local node modules?
+node-remote require local node module

@@ -1,1 +1,1 @@
-i'm develop electron app for the first time. i use function in .js file to find all file in folder and to write all of them to console.thank you!
+How to pas js-variable from .js file to .html page in Electron?

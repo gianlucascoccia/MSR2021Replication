@@ -1,1 +1,1 @@
-the app that i'm work on is built on top of file.i'm ask for your opinion sinc i'm a beginn in all of the technolog used.wher do you think the problem is?
+electron-react-boilerplate could not load dll plugin on `npm run package-win`

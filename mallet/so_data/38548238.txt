@@ -1,1 +1,1 @@
-below is my requirement.mi applic will have mani modules. each modul go to serv as separ plugin.i am creat a main electron js applic which is go to hold each modules. like a pluggabl interface.each modul will run insid the main applic in a separ tabs. each tab repres each modules. so that i can have ani number of modul which can be easili scalabl and embed in the main application.how can i achiev this interfac architectur in electronj (javascript)? pleas suggest me some idea to implement such scenario.
+Creating plugins for electronjs application

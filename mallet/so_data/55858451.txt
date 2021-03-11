@@ -1,1 +1,1 @@
-i tri to build an exampl out of the box...ani other suggestions?
+vue 3 + electron simple example not working

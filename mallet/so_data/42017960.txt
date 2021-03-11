@@ -1,1 +1,1 @@
-i am tri to write a javascript loader for a project of mine for nw.js (node-webkit). i alreadi sort of know my way around peg.j and estool (esprima/escodegen), so pars the javascript modul into the various function and variabl declar is realli no problem, the problem i have is with instanti the differ text-express and declar into a separ context/object. after all?
+Create Classes from Text in JavaScript

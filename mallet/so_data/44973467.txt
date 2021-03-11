@@ -1,1 +1,1 @@
-i am use facebook authent in my electron desktop app. i am load the fb auth view into an electron browserwindow. when the browserwindow first loads, i get the error:ani help would be much appreciated!
+Electron BrowserWindow Facebook Login Failed to Set Cookies

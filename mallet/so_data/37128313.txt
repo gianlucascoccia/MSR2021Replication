@@ -1,1 +1,1 @@
-i am tri to autom a electron app which load it content on to an webview. i am use spectron and webdriverio for it.her is the code i am using.th abov code to ensur whether the webview window handl is correct. and it is. kind help. thank
+Accessing Elements on electron webview using spectron

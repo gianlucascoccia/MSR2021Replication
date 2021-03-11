@@ -1,1 +1,1 @@
-let see this piec of code for an electron menu template: for the find in page function.
+Electron.js multiple accelerator

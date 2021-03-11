@@ -1,1 +1,1 @@
-i have a dialog.showmessagebox that work well and do what i tell it to do. can be use in the callback function but i'd like to know how to make it global so that the question isn't ask anymore.
+"Never ask again" feature on Electron dialog.showMessageBox method

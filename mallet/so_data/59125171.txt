@@ -1,1 +1,1 @@
-i have develop an applic with electron js and when i instal it and i want to launch, it show me the follow error.first, i think it about the new version of macos, but i see this error in differ mac devic with differ version of macos. in some devic it ok but in some other devices, it show me the follow error.ha anyon known how ّi can to fix this error?
+ElectronJS this application cannot be opened mac

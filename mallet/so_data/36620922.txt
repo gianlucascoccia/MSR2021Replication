@@ -1,1 +1,1 @@
-i packag my app with nw.js v.0.14.0 and v.0.12.3. for win 10 i have this error: . when i start my app on linux or osx app start.
+Error with packagin app for win10 with nw.js

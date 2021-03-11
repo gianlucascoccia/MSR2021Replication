@@ -1,1 +1,1 @@
-one of the properti of the is use and reliabl return in unix or linux and maco environments?
+fs.stat birthtime/birthtimeMs in Linux and MacOS

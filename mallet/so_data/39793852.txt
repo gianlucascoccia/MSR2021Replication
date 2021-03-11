@@ -1,1 +1,1 @@
-i have an electron app which is not display the background imag in the dmg build. my package.json (top level) contains:mi "build" directori doe have a valid "background.png" as well. what els need to be configured?
+How do I add an Electron DMG background image?

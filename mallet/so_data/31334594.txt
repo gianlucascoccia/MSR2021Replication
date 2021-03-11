@@ -1,1 +1,1 @@
-i am tri to set up log in libvlc, and am run into some problems.th function i am use is libvlc_log_set_file, here are the docs:libvlc log docsher is the code i have now: just fine.i am use nw.js with webchimera.j compil to 32 bit with visual studio 2013 on a 64 bit window 7 machine.ani ideas?
+LibVLC Access Violation

@@ -1,1 +1,1 @@
-my problem is when i call ipcmain oper from the render processth render thread is stuck until the ipcmain oper is done(sync instead async)cod example:renderer.jsthank ahead.
+electron ipcRenderer sync with ipcMain

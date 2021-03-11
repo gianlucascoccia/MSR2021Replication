@@ -1,1 +1,1 @@
-i'm port this app to node-webkit and i want to make my own toolbar + close button. however, my knowledg of css/html is not that big, and i can't figur out how to make this work.th problem is that my toolbar overlap the close button thus make the button unusable.css: was also used.
+toolbar overlap my button

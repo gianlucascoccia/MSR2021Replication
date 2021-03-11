@@ -1,1 +1,1 @@
-i am use electron-dla per document download function
+Electron-dl use promise.all for multiple simultaneous downloads

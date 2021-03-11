@@ -1,1 +1,1 @@
-i have an electron app and within my index.html file, i import a number of html file in the , though i think this is part of the issuehttp://imgur.com/a/612c8i'v copi the html of the locker.html file into jsfiddle, and ran the javascript on document which work fine.a littl confus as to whi this isn't working.update: exampl to how this should work here under importshttps://www.html5rocks.com/en/tutorials/webcomponents/imports/
+querySelector not selecting class

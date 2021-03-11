@@ -1,1 +1,1 @@
-i'm tri to detect the insert of a usb stick in electron in window 10. (electron.atom.io)i'v to rebuild successfully. however, this has not fix the problem.)
+Installing node_usb_detection for Electron in Windows 10

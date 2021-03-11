@@ -1,1 +1,1 @@
-i develop a node webkit applic that need to display remot resources, like pictures, that way :but this command line paramet doesn't seem to be recogn by node-webkit.do you have an idea to bypass the problem in node-webkit ?
+Node webkit, access to "unsafe port"

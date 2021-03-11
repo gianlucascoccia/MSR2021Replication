@@ -1,1 +1,1 @@
-how to emb the emoji compon dynam in contentedit div while type some text insid the div. here is the extract of my code:&#xd;&#xd;&#xd;&#xd;&#xd;
+VueJS: How to embed the emoji component dynamically in contentEditable div

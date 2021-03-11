@@ -1,1 +1,1 @@
-i'm have troubl with electron-compile. the doc state how doe it work? (easiest way) chang your refer to appear to solv this problem.
+How do I use electron-compile?

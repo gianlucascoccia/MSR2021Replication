@@ -1,1 +1,1 @@
-i'm tri to make an updat app featur for an electron app i'm work on. i am abl to download the instal for the update, but when i tri to run the instal i get this message:i there someth that i need to do in order for the instal to not be flag as unsafe?sid note: when i download the instal use chrome, it work just fine. but when i download it use my electron app, it show that window defend popup.
+Electron downloading file - Windows Defender Popup

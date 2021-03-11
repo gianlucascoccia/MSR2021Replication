@@ -1,1 +1,1 @@
-i tri use this code, but it didn't work.i want to set how mani copi to print befor user click the print button in electronj app.
+How to set 'number of copies' to print in electronjs?

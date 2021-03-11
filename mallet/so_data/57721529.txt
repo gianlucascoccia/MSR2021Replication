@@ -1,1 +1,1 @@
-hi i'm tri to follow a tutori on electron howev i keep get this error when tri to open a file from the menu i'v made.uncaught exception:typeerror [err_invalid_arg_type]: the "path" argument must be one of type string, buffer, or url. receiv type undefined...her is my function.tri revert back to older version etc. to no avail.thank for ani advice.
+Strange error in Electron. Uncaught Exception: TypeError [ERR_INVALID_ARG_TYPE]: The "path"

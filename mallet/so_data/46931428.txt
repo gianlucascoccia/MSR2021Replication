@@ -1,1 +1,1 @@
-i have an electron app. i want to bundl it with webpack but i just can't seem to be abl to pars the css and html files.i'v ad the tag).ani idea as to what might be the issue?
+Electron-webpack: cs and html loader arent' working

@@ -1,1 +1,1 @@
-i'm look to packag all of my app into one file.ex that doesn't need other file and folder to run, so that my user can copi this file.ex and have everyth they need and can move it to anywher on their comput and still run it. how do i do this?
+Export Electron app to single exe with all dll and other file included

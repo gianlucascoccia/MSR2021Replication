@@ -1,1 +1,1 @@
-i have a angular 4 applic run on electron.in my main compon i run a servic which open a save file and set it paramet on an object call session'.mi readytostart method emit the readi event
+Angular 2 not updating *sometimes*

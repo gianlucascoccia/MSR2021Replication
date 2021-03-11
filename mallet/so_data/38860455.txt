@@ -1,1 +1,1 @@
-i am tri to packag an electron app use electron-packager. i am use the follow statement in package.json :but i still can't see the icon. i am use ubuntu 14.04!
+Setting Icon for electron-packager

@@ -1,1 +1,1 @@
-i am tri to run a new electron app with a simpl preload script and i'm see a syntax error in the develop tool even though typescript has no problem compiling. unfortun as electron onli log the error with (which show the error text and the line on which the error is log in the develop tools), there is no way that i can find to view the actual locat of the syntax issue. all i can see is this:i there ani way to view the entir stack trace?
+Retrieve more detailed error from Electron preload script

@@ -1,1 +1,1 @@
-i made an app that read file and display them.i read the doc that i should disabl node integr and enabl context isol for better secur and also i get a warn that electron will disabl node integr by default and enabl context isol in 5.0.0.edit: when node is disabl i get an error : requir is not defined. my file are all requir in html insid a .i also mention that i'm new to electron.how can i use my file with node integr disabled?
+How to use your j file that use node.js when node integration is disabled for better security?

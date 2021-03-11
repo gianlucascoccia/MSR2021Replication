@@ -1,1 +1,1 @@
-i'm use nedb and express / node.thi is my api:i'm tri to add my own key to the bodi dictionari (i want the key valu to be an int).th current ode give me an error say "typeerror: req.body.push is not a function".
+How to add a key-value pair to a req.body dictionary during a POST request

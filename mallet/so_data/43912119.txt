@@ -1,1 +1,1 @@
-i want to open app and pass paramet with deep link use electron (macos). project electron-deep-linking-mac-win is on github.edit )!
+Open app and pas parameter with deep linking using Electron (macOS)

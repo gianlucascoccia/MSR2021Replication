@@ -1,1 +1,1 @@
-i'm current work on an electron.j app and i'm stuck on an asynchroni problem. i have three function (downdloadfile()) insid three if statement to be execut in sequenc but they run asynchronously; i alreadi tri use async/await but it didn't worked.her my code:us the callback system creat so much cao and it is also redundant, i was hope for anoth solution.thank you for your time!
+Asynchrony issue on Electron

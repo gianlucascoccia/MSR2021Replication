@@ -1,1 +1,1 @@
-is there ani api provid by electron to let get the current open browserwindow count?i did not find the method via the app api. or can i get how mani renderprocess is run now?
+Hot to get opened window count in an Electron app?

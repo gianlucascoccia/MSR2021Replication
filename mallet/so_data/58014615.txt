@@ -1,1 +1,1 @@
-hello i am tri to use the serialport modul in electron, but when run this tri to find the modul anywher the onli place it doe not look is in the node_modul folder, alreadi run electron-rebuild and electron-build install-app-dep but noth .
+Electron with serialport native module

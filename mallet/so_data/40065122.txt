@@ -1,1 +1,1 @@
-is it possibl to export a tag/el in electron to a png file? how?in my particular case, i'm tri to webview, so, it not a simpl case, as it might have anyth in it.
+Export an element/tag to PNG in Electron

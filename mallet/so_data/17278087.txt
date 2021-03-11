@@ -1,1 +1,1 @@
-have a nodej app (node-webkit in fact), how can i launch a batch file in foreground in whatev folder it is in?so far i have succeed in run the batch file with the following: but i can't seem to make it work. ani hints?
+Execute batch file in foreground

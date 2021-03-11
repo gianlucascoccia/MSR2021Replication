@@ -1,1 +1,1 @@
-i'm work on a desktop applic use spotifi api. given that it a desktop application, what will happen if i do not have a callback uri.how to handl this situation?
+Desktop application using spotify api - No Callback URI

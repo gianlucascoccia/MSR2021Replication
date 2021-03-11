@@ -1,1 +1,1 @@
-i'm use gulp to develop a electron app. in my gulpfile.j i definedok, i see all my errors, but how can i see the normal console.log outputs?
+how cann I show console.log() with gulp

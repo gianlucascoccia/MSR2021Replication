@@ -1,1 +1,1 @@
-i'm use https://electronjs.org/docs/api/screen#screengetalldisplay method to get inform about monitors. then this inform goe to c++ applic where it tri to match monitor by . is the ani possibl way to match electron display to win api display?
+Can't get displayName in the Electron

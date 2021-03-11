@@ -1,1 +1,1 @@
-i am use linux (ubuntu 18.04) as os in development. how can i configur electron builder to pack my app (with jar of spring that contain my back-end api) into window execut machine.i use the configur below :
+Electron Builder with Angular and Spring

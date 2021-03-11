@@ -1,1 +1,1 @@
-i have an electron applic that run into a node.j server. and i also want to work with "nodemon" for live execut node server.thi 2 previous sentenc get up 3 differ execut possibl into start key in package.json file :electron .node server.jsnodemon server.jsi would like quick switch between those execut command. i can creat a run/config templat with phpstorm but all of those save command run with the same package.json file that wrote the start command.how can i use the same package.json for work with 3 execut environments?
+Define multi run config with same package.json file

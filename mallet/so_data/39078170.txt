@@ -1,1 +1,1 @@
-electron version: 1.3.3oper system: ubuntu 14.04i want to save a xml object into a .xml file with electron. i tri this:a new window is opening, i fill the name of the file but noth has been saving.
+Electron Dialog saving file not working

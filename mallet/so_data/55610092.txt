@@ -1,1 +1,1 @@
-i am creat electron window app for "onlin form registration". if someon hard close this app then auto-run the .ex file immediately. pleas help me with this. can we do this with javascript ? or electron have provid ani such option to do that.w have alreadi tri this below mention code but this function are not work at all.
+How to immediately auto-run electron window app when someone closed it?

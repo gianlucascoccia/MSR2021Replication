@@ -1,1 +1,1 @@
-my electron app built for window with electron-build is work fine on window 8 , but show white blank screen when the setup file instal on window 7
+Electron-Angular9 App showing blank white screen in Windows 7 , but working fine on Windows 8

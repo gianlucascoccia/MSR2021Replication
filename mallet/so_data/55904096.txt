@@ -1,1 +1,1 @@
-i am creat a nativ app in electron. for this i have creat a browserwindow and load url into it with nodeintegr false. in my websit everyth is work bine if open in browser. however, if i run same in electron, the screen share is not working. i tri to implement it use some onlin refer like use preload to load js file. but noth work i am use latest electron for this.main.j
+enable screen share in electron without using nodeIntegration true

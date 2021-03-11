@@ -1,1 +1,1 @@
-i'm work on an app built with electron, it should work with wavesurfer.j to display a waveform repres the audio file. however, i'm have troubl open the file use the
+Open local file in electron and render in wavesurfer.js

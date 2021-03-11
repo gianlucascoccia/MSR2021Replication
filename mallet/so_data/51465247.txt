@@ -1,1 +1,1 @@
-i'v start to use boilerpl from here.first launch and i get
+Electron: Cannot read property 'on' of undefined

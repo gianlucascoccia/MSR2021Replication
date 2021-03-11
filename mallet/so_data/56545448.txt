@@ -1,1 +1,1 @@
-i'm work on an applic that consist in an electron-angular frontend call some python task (use robotframework). the communic between the whole typescript code and the python one is handl by the node-modul
+Node Python-Shell doesn't get script output

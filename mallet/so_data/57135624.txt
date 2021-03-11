@@ -1,1 +1,1 @@
-eventlisten is not ad and test code is not execut when instead of standard html button
+How to add EventListener to an html link?

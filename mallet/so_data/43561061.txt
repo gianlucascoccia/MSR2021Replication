@@ -1,1 +1,1 @@
-i have a electron project but i need to point to a localhost file (a zeronet site) to be the main html file. can it work like a normal main html file, with all the apis/scripts?
+How to point to a external main html file?

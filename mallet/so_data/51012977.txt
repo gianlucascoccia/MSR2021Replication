@@ -1,1 +1,1 @@
-i am build an app with electron that search through a json object with elasticlunr and print to the html page. the json file is about 9 mb. the object need to be load onli onc the first time the app starts. how can i store and retriev this json object?i have tried:sav the object as the export of a js file and import into the window main javascript fileelectron-storag and electron-json-storag don't seem to be for such larg file
+How do I save large file in Electron?

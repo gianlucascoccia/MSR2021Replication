@@ -1,1 +1,1 @@
-i want to creat a realli basic crud (sort-of) exampl app, to see how thing work. i want to store item (item of a shopping-list) in an array, use function defin in my listservice.j such as so, to sum up, i want to do someth like : requir the module, use the function wherev the place and have onli one instanc of the object.
+Require module that us a singleton array

@@ -1,1 +1,1 @@
-we are use npm it throw error like this, error: problem save json file: eperm: oper not permitted, open c:\program files...........\product.json at c:\program files...........\node_modules\json-update\lib\json-update.js:92:23 at c:\program files...........\node_modules\lockfile\lockfile.js:61:41 at fsreqwrap.oncomplet (fs.js:123:15)ani help/suggest would be high appreciated.
+npm 'json-update' is not working a expected

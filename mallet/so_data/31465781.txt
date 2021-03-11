@@ -1,1 +1,1 @@
-i have a file i can see it run, so the file is get required, just that class is not avail or someth
+Require and extend class in Electron, how to?

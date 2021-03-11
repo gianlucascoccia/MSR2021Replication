@@ -1,1 +1,1 @@
-i'm work on an electron app for school. when i want to insert data in my sqlite databas with nodejs, it fill the databas with null values. i'm get the data from input value.databas image: https://i.imgur.com/n9dumbq.pngher is my code:i don't where the issu is from. thank for help :)
+"null" value when inserting data in a database

@@ -1,1 +1,1 @@
-when you open an e-book like use appl book app, you could select a portion of text, then you could choos to highlight it. the app will also be abl to remeb your notes.if you want to achiev the similar function in an electron-react application, how could you do it? and it should not chang the origin ebook content though.
+How to achieve a take-note functionality in an electron-react app?

@@ -1,1 +1,1 @@
-i have an app where i am tri to stream imag from a python app to the electron app. the stream of the data is work now but everi time i switch the imag src to the new one that come in, the whole window lag for a second or two befor the imag is updated. by lag i mean it freez and is non-interactable.th code when i chang the imag src lok like this: . also the imag size that is come in ~14mb
+Swapping image src to a very large base64 encoded image cause whole window to freeze for a second or 2 (electron)

@@ -1,1 +1,1 @@
-i have initi a databas in foo.j and save some data into it.i understand i can't call nedb more than onc for the same filename. so how do i access the db and do oper on it on differ modul like above?
+How to use nedb api from different module in nodejs?

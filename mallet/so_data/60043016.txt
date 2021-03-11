@@ -1,1 +1,1 @@
-i would like to add modul to the output bundl conditionally, dure build process. say for example, i have a share module, employe module, payrol module, admin module. i want to build these into differ bundl conditionally, i don't want lazi loading. i want onli those modul to be present in the build, which i configur dure build.non of these modul are interdependent, but part of the same application. pleas suggest option to solv my problem.
+Angular + Electron : Conditionally add module to the output bundle

@@ -1,1 +1,1 @@
-i am decid between option for build nativ desktop app.i do not find ani document for minimum system spec (os/hw) for runtim of electron apps.can you help me out?
+What is minimum system requirement to run electron apps?

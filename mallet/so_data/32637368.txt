@@ -1,1 +1,1 @@
-i purchas a new macbook and i am now work on get my app to run on a 64bit mac. howev i haven't been abl to remov the default menubar. is there anyway to chang my app name from electron to someth els within electron via app.j so i don't see electron in finder (revert to screenshot for better understanding)? is there ani way to remov the edit, view window, and help menus?package.json:
+Remove menubar from Finder in Electron on OSX

@@ -1,1 +1,1 @@
-i have a js file that i'm import into my electron "main" (or background process), .
+Correct way to export/define function in Electron's Renderer

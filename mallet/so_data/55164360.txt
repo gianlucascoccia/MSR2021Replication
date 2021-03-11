@@ -1,1 +1,1 @@
-here my setup:step 1. creat a preload.j file with the code:?
+With contextIsolation = true, is it possible to use ipcRenderer?

@@ -1,1 +1,1 @@
-i'm work on electron app and i'm aim to let peopl edit html content while view it in app. for exampl edit that header and button text. then all chang should be saved.applicationso in my opinion i should:giv special id or class name to that object and manipul with js to display edit window instead of button for example, chang text, press ok and it should save it. is there ani way to do that? mayb a librari or something?
+How to make html content editable while viewing it in Electron?

@@ -1,1 +1,1 @@
-i was wonder if and how i'm abl to read the temperatur of the gpu in javascript, for use in an electron app. i kinda doubt that it go to be doabl and i can't find anyth on the internet about it. also i might need to read the cpu temperature, although that less necessary.thanks!
+Get the temperature of the CPU/GPU using javascript?

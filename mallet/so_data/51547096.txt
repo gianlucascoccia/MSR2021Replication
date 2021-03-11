@@ -1,1 +1,1 @@
-i'm beggin in electron ecosystem and i need make one powerful desktop app.i choos the electron becaus i'm experi with javascript and i realli want make one softwar use react xd.i have mani question and the first of my list is:can i put my "powerful application" and the databas (relat or not relational) in a singl instal (for production) use the electron-builder?if it possible, may you have some tutori to share with me?thank you all.
+Electron App (for production) with any database in a single file

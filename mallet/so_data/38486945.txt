@@ -1,1 +1,1 @@
-i am build an electron app in vscode, and when i build it, it build out to that will move those files, or do i have to place the file there manually?
+tsc doesn't move html resource

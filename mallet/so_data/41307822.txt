@@ -1,1 +1,1 @@
-i'm tri to make some class that i can import for use in my project, but i'm have some troubl actual import the modul i'm making.mi file structur look like this: file.
+Can't require custom module from renderer in Electron

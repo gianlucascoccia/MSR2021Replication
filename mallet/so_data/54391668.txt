@@ -1,1 +1,1 @@
-i am calling:it work on windows, but not on linux - the navbar is still showing...why?
+Why doe setMenu(null) work on Windows but not on Linux?

@@ -1,1 +1,1 @@
-i have an electron app that i'm tri to instal node modul for. when i run appended.ani idea whi this is happening?
+Why do Node module go into .staging folder?

@@ -1,1 +1,1 @@
-in my electron app, i would like to do someth that is done veri often in other osx apps. that is... i would like to not close the app of the red x is click in the top right. but, if they right click the app icon in the dock, and say quit, then i would like to quit the app. how do i do this?i have tri use the event. and i can't tell the differ between the red x be click and the dock icon be right click and told to quit. ani help would be nice. has anyon els done this in electron for osx?
+Electron: Close w X v right click dock and quit

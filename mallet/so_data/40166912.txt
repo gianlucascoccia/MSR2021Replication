@@ -1,1 +1,1 @@
-i'm current develop a moba as a hobby. the interfac is made with angular-material, and i plan to move develop into an electron app at some point. i'v plan to someth like asm js in tandem with an html canva for game render from the beginning. but now i'm wonder if i can use node to hook up some intern c++ code to render to a canva in my electron app. is this possible?
+Hook up C++ code to an HTML canvas in an Electron app?

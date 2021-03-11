@@ -1,1 +1,1 @@
-i'v been use watir to autom chrome browser base ui test (load web pages, perform action on html element etc) and it been a great success.w are start some new project that use node-webkit (https://github.com/rogerwang/node-webkit), a chromium and node.j base app runtime. i haven't figur out how to use waitr to autom it.do anyon know how to do it? if not, is there ani other tool for this purpose? thank for the help.
+How to use Watir to automate apps written in node-webkit?

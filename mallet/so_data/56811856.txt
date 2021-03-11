@@ -1,1 +1,1 @@
-i am plane to build a softwar with with this approach i have to creat everi window in main.j (this will grow the main.js) and make sure i call a specif ipc method for the right window.th callback method need to call also a specif method for everi window.so i would need mani method and this construct doe not look veri flexible.i there ani best practic to prevent main.j to grow into the “infinite” and get more flexibl ipc method ?
+Electron multiple window IPC architecture

@@ -1,1 +1,1 @@
-i ad "single-instance":fals to my package.json file but still i am unabl to start multipl instanc of my node-webkit app. my package.json file:
+Unable to start multiple instance of node webkit app

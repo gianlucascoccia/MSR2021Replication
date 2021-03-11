@@ -1,1 +1,1 @@
-is there a way to captur the file be serv to the client, say with an electron app or perhap a browser extension?for example, say you visit a website, wherebi a font is serv to the client in order to be display on that website, is there ani way as a client or otherwis to captur that file?i came across this question that suggest obtain the network log may be possibl with browser extens technology, but it is a realli old question, and i am interest in obtain the file instead of the logs.ani ideas?
+Capture network file or client's network request

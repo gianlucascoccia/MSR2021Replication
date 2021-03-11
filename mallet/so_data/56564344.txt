@@ -1,1 +1,1 @@
-i'm work in electron 5.0.3 and i want to hide a browserview such that the browserview doesn't need to be re created. i don't have ani prefer on how this should be achieved. ani solut (js, css, etc.) would suffice. i'v look through the browserview document and there is noth in here that i see that could help, and move the browserview to somewher off screen isn't exact ideal.
+How to hide (not destroy) a BrowserView in Electron

@@ -1,1 +1,1 @@
-i am use , my app doe not start and hang up.ani suggest how to start my app and load all job into the queue?
+Schedule job into queue when starting electron

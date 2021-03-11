@@ -1,1 +1,1 @@
-accord to the electron docs, it is recommend to run the command (to make distributables). i ran a test on travi ci, hope that would do the trick, but it did not seem that way. can anyon point me to the right direction?
+Using electron-forge make on Travis CI

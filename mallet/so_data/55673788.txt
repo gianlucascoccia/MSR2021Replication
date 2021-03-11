@@ -1,1 +1,1 @@
-i'v just start mess around with electron and for my first project i tri to make a launcher/updat for a game. my problem is that, when use "('child_process').spawn", i receiv an error messag of the game say it cannot locat game files. start the execut without the launcher works, which mean that my launcher is somehow prevent the game execut from access the requir files.mi implementation:buttons.js:i'v tri use exec/fil + sync, which either gave the same error or didn't work at all.
+External executable can't load necessary file

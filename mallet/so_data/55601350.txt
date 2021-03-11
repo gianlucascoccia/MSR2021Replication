@@ -1,1 +1,1 @@
-i need to creat a select by hover (dwell) effect in my applic and it is crucial to be time and accurate. this need to trigger just onc for everi timeout call and must not loop. the dwell function is attach to an element (getelementbyid). my implement at the moment sometim work brilliant and sometim take a lot of time to complete. sometim the callback just doesn't trigger after the settimeout.th select callback function must execut exact after the dwelltim has elapsed. ani idea please?
+How to create an accurate setTimeout (not interval) in Javascript?

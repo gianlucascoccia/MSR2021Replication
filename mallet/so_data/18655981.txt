@@ -1,1 +1,1 @@
-current am creat applic use node-webkit.i can see the local databas in chrome browser.but i would like to connect the databas from mozilla sqllite add on..i this possible.previ the databas is creat insid user-directori of my app.i have anoth one doubt. for everi login am empti the databas that is also not working.
+how to connect Web sql in node-webkit app?

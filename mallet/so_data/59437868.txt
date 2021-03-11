@@ -1,1 +1,1 @@
-is there a way to link to open all file extens with default os program instead of intern to electron?mi file name are load from json file. (value.url is the file name pull in dynam dure a search)i modifi my code below to link the click event to the openbtnid, but now i'm receiv "electron is not defined". i have const shell = require('electron').shell; in my mainjs.
+Open all file type with Default OS program

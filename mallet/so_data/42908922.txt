@@ -1,1 +1,1 @@
-how do i go about make a http get request to localhost use electron? i have a databas that was creat use django and i just need to get inform from an api that hold the inform from this database? i am also use webstorm as an ide.thank for the help !
+Request to local host using Electron

@@ -1,1 +1,1 @@
-i am make a write application. user can open the app, write some text, save their work, etc.i am tri to make it so that click the is a function that just wrap the electron dialog box, make a pop up appear with two choic and respect function to call for each choice. the rest of the code is avail if i'm (probably) leav out necessari information. would be happi to clarifi if i'm not be veri clear.
+Prompt to save / quit before closing window

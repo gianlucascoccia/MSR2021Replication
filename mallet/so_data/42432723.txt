@@ -1,1 +1,1 @@
-i need to trigger this event from devtools. it get trigger when call from the main process (pleas help!
+Trigger ipcRenderer event from devtools in Electron BrowserWindow

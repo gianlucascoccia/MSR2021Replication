@@ -1,1 +1,1 @@
-i'v got kind of a strang bug that i'm have troubl figur out. first, here the code:&#xd;&#xd;"b" get stuck at {102, 570} even though "a" keep updating. it the same variable!
+Canvas stop tracking mouse after awhile

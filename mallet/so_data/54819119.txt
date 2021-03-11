@@ -1,1 +1,1 @@
-i follow these instruct for debug an electron app in vscode.https://github.com/microsoft/vscode-recipes/tree/master/electroni'm tri to debug the i'd like to be abl to essenti write new code while debugging. is this possible, either with vscode or with some altern setup? am i do someth wrong?
+create local variable debugging electron app in visual studio code

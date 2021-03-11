@@ -1,1 +1,1 @@
-i get stuck while set up a dev enviro for balea etcher for window as describ at https://github.com/balena-io/etcher/blob/master/docs/contributing.md. the "make etcher-develop" command in the gitbash fail with this error: has anybodi setup the dev enviro (there must be at least one, sice there is a binari for download ;) )?
+Was anybody able to setup the balea etcher build enviroment on windows?

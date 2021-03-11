@@ -1,1 +1,1 @@
-develop an app in electron, everyth is work fine with file path in develop mode. i creat the "documents" folder, in which document will be stored.thi code return all file in "documents" folder.but in product mode when i pack my app, a folder with mani file is created, the path becom like this.how to solv this problem?
+File path in production mode

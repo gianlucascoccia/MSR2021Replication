@@ -1,1 +1,1 @@
-my question is simple. i am creat an electron app use node js to watch a particular directory. i would like to know is there ani way, like a file watcher or someth els that could tell me if a file be open by the user?thank you.
+Is there any way to know if a file is being opened by the user?

@@ -1,1 +1,1 @@
-i have creat my first app with electron but i am down with the question how do you add the instal screen for your an electron app like atom, whatsapp and others?i have seen this in sever app built with electron and i just don't see in the document
+How do you add the installation screen for your an electron app like atom, WhatsApp and others?

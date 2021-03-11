@@ -1,1 +1,1 @@
-i'v been at this for hours, it time to ask for a littl help.i need to know the frame rate of a video on load in javascript/html and i'm tri to avoid vlc plug-in or ffmpeg.th browser read the video metadata to check the intend frame rate, so how can i do this as well? i read a lot of onlin thing and didn't find anyth use but i can't believ that this is unfeasible.i'm look for this but for videos. should be simple, right?note: i'm build a desktop app with electron so file access isn't a problem.
+JavaScript - Read metadata of video file

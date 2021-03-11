@@ -1,1 +1,1 @@
-i am keep mongodb sourc code insid electron sourc code and run mongodb use this command :abov command is work while develop but it not work after bundling. i am use electron builder to make bundle. mongodb sourc code is at root level.
+Embed Mongodb with Electron

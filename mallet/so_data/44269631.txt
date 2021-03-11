@@ -1,1 +1,1 @@
-i am tri to run a simpl electron app with webpack and react.so i set my webpack with can anyon help me?thank in advance.
+electron with react and webpack

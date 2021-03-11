@@ -1,1 +1,1 @@
-i am work on an electron applic which use react.j for build user interfaces. now, i have to make a prefer window which is differ from the main window. but, i am not sure how to tackl this becaus of multipl entri point dilemma. i read that use modal could be an altern but i want to do this the usual way by make differ window and communic between them through . ani advic on the matter is appreciated!
+How to handle multiple window in Electron application with React.JS?

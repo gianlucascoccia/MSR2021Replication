@@ -1,1 +1,1 @@
-in my electron application, i am abl to deni or allow a
+Electron - How do you revoke session permissions?

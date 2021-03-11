@@ -1,1 +1,1 @@
-i am have been abl to open a new window when i click a button, however, it a new pop up window. how can i have the new window open up in place of the main window?with the code above, a new window pop up. ive attach a screenshot to show what i mean.popup windowinstead of that popup window, i want pref to replac the main window (and other option to replac the main window onc added).
+how to open new window in place of current window in Electron

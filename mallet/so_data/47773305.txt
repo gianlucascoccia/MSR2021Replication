@@ -1,1 +1,1 @@
-when i click on a link, for exampl in index.html and i click "contact" which is extern "contact.html", the time need to load the page "contact.html" is to slow. and this leed to creat a blank page while the second page is loading. i am develop on a raspberri pi 3 with ubuntu as os .mi problem here is how can i remov the blank page creat dure the transit from index.html to contact.html in electron , ani suggestions?
+how can i remove the blank page created during the transition from index.html to contact.html in electron?

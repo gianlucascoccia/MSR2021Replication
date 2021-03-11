@@ -1,1 +1,1 @@
-i have an electron applic with main process as follows:
+Error importing a user j file using electron-builder

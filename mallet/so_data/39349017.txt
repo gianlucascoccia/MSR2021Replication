@@ -1,1 +1,1 @@
-my app is electron with a
+How to run an electron app with arguments?

@@ -1,1 +1,1 @@
-the menu stop work after i navig to anoth url.her now i ad the menu:aft the app launches, click on the googl menu item to surf the googl website.then click on the github menu item. it should surf github, but it doesn't.
+nwjs menu stop working after window.location.href changed

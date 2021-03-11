@@ -1,1 +1,1 @@
-when i tri to use this featur in both devtool (chrome:///inspect) and vscode, it doesn't paus at the locat of the error in my own code, but rather the main.j file insid the default app that is bundl with electron that tri to load my modules:source: https://github.com/electron/electron/blob/master/default_app/main.js#l291i'v also tri this with the quick-start app and found the same issue... is there a way i can paus on uncaught except in my own code?electron version: 1.8.2 (node 8.2.1)os: window 7command:
+Does Electron support pausing on uncaught exception during debugging?

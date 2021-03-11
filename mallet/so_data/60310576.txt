@@ -1,1 +1,1 @@
-i recent follow a project electron on geeksforgeeks: https://www.geeksforgeeks.org/create-a-geeksforgeeks-wrapper-application-using-electron/her is it code on github https://github.com/sayantanm19/geeksforgeeks-desktop/blob/master/index.jsth function appenitemtomenu doesn't work, which mean i could save page offlin but the savedpagelist on menu bar is alway empti ...could you tri it on your machin and point out the bug?
+Failed to add saved page to menu bar - wrapper application using electron

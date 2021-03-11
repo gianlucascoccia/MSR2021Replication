@@ -1,1 +1,1 @@
-im current get the error shown in the titl and i'v tri to fix the problem with numer solut found on stackoverflow but none have work as of yet, ani suggestions/help would be appreciated.
+getElementByID keep returning undefined

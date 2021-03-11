@@ -1,1 +1,1 @@
-let say i have two to anoth one)?
+Having two isolated (in term of history/cookies/localstorage) BrowserViews in the same BrowserWindow with Electron

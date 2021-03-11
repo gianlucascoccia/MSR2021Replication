@@ -1,1 +1,1 @@
-i'm make an electron desktop app tri to simul googl devic toolbar, if i use ifram i get the desir behaviour with web page fill the entir screen, (no horizont scrollbar), but then i can't emb websit that have same origin policy, on the other hand webview can display those websites, but i can't simul devic height and width, for smaller devic onli part of the web page is visible, and you have to scroll horizont to see the page. is there ani way around this ?
+electron webview simulate mobile phone screen

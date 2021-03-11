@@ -1,1 +1,1 @@
-is it possibl to invok and debug swift code in an electron app?for my particular case, i'd like to chang the background of my screen.
+Swift with Electron on macOS

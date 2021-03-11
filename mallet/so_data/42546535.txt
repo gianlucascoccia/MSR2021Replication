@@ -1,1 +1,1 @@
-how can i get the monitor refresh rate in my electron app?th electron.screen modul provid some info about the display, but not refresh rate. i couldn't find ani node packag that do this either.
+Electron - Get monitor's refresh rate

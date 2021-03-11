@@ -1,1 +1,1 @@
-i use but default event disabl now, can i add my event without disabl default event?
+Don't prevent default action in Electron using globalShortcut

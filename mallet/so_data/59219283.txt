@@ -1,1 +1,1 @@
-i have an angular applic built with electron-build on mac. insid there are two way in which i use images, for differ purposes.html:. the path is exact the same except the file name.screenshot of network from chromewhi doe electron-build renam the imag file dure bundling? and how doe it do it? can it be disabled?
+Image asset is renamed by Electron-Builder

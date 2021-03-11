@@ -1,1 +1,1 @@
-i have creat a databas to store detail of people. i have a record like:how do chang the password from earth to mars'??how do i use the db.update() in nedb to make this change??
+How to update a record in database using NeDB?

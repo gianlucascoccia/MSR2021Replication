@@ -1,1 +1,1 @@
-i'm test in electron use vscode (and this is all pretti new to me as a dev environment) and i can load electron-log in main.js, but in index.j insid the render i get this (with two folder renam for secur purposes--but it doesn't chang the issue):
+Why would Electron renderer look for module in AppData when launched from VSCode

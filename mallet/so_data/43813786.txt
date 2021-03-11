@@ -1,1 +1,1 @@
-i'm tri to creat an app with two browserwindow use the same vue app with vue-router, but the router aren't working. i'm alway receiv error cannot get /’ for the second route.main\index.jstest code: https://github.com/melquic/vue-two-windows.giterror print screen:thank you for help!best.
+VUE Router not working with two Electron BrowserWindows

@@ -1,1 +1,1 @@
-i'm work on an electron js app use electron-react-boilerpl and i'm use node-odbc to connect to a pervasivesql database. all was work as expect in term of be abl to crud on target pervas tabl until i packag it to a product build and proceed to test.th error i'm receiv on attempt to connect:
+unixODBC and Electron JS, ODBC work in development but not in production build

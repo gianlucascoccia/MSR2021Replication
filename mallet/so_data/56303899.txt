@@ -1,1 +1,1 @@
-i am have troubl with my electron app. i had it work about 9 month ago, but now the custom minimis and maximis button i made are not function properly.her is my file structur do not work. i go into a bit more detail in a github issu here: github.com/chrisknott/eel/issues/147
+Uncaught ReferenceError: require is not defined (electron)

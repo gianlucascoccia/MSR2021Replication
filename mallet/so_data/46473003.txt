@@ -1,1 +1,1 @@
-i am use webpack and electron and while i can refer my script file fine local (app/scripts/scriptname.sh), when it come to the product deploy, i get an error: i don't necessarili need the script to be in their own folder it would just be helpful.
+How to reference script file in webpack deploy?

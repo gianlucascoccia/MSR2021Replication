@@ -1,1 +1,1 @@
-i have an in-hous this code usual work flawlessly, but it sometim fail at veri inconveni times. what is the sourc of the problem, or how can i debug it myself?
+why doe javascript `for` loop rapidly mute/unmute video

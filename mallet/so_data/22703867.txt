@@ -1,1 +1,1 @@
-i'm tri to make a desktop applic use meteor. can i use demeteor to convert it to a standard node.j app, then use ndoe-webkit to turn it into a desktop app? my problem with this is, how would the mongodb databas still work? if this is not a valid option, is there ani other way to do this?
+Demeteorizer with node-webkit

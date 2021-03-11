@@ -1,1 +1,1 @@
-for peopl who work with desktop applications, how do they handl oauth2 flow for third parti servic that need a redirect url? i'd like to authent user through discord oauth2 login. but i'm work on a desktop app, with no webservic behind it. i'v read about the redirect scheme that look like, but discord say it a non match redirect url after log in through oauth2.
+How doe oauth2 redirect url work for desktop applications?

@@ -1,1 +1,1 @@
-i'm run a ng4-electron applic and now i want to start a local node js server (express) when the electron app starts. i have a local folder name as
+How to start node server locally in electron app

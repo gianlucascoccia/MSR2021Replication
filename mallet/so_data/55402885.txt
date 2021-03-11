@@ -1,1 +1,1 @@
-i want to construct a realli simpl find-queri use nedb in an electron application. in this applic the user can add new expens which consist of name, value, interval, type and category. the user can also add categori on runtime, which get save into a file name "categories.db", while everyth els get save into "finances.db"example:categories.db:
+How to pas an argument to a neDB find-Query?

@@ -1,1 +1,1 @@
-i use the electron-forg framework and tri to make an audio player. when i launch my app from
+App launched from npm work perfectly, but complied x64 app work incorrect

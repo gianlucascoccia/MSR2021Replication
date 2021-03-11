@@ -1,1 +1,1 @@
-i wrote a node-webkit app which doesn't creat subprocess. then i run
+Which one is the main process of node-webkit app?

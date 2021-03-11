@@ -1,1 +1,1 @@
-i have an electron/webpack project to which i am tri to add automat refresh on file change. per the documentation, i'v taken the follow steps:i ad
+Automatic Refresh With Webpack in Electron

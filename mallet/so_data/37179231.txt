@@ -1,1 +1,1 @@
-i need to show chromium tool bar as shown in the screen shot below:i there a way to achiev this in electronjs?
+ElectronJs: How to show chromium toolbar

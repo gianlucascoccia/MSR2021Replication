@@ -1,1 +1,1 @@
-i develop my app with electron. i open a dialog by dialog.showopendialog method, it didn't show the network dirver on my computer. but when i use atom(th text editor) to open a dialog, the network driver came out. am i do this wrong? how can i make it behav just like atom ? these are the screenshoots:th network dirveth dialog my app opensth dialog atom open
+dialog opened by electron dialog.showOpenDialog method doesn't show network driver

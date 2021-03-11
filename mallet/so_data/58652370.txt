@@ -1,1 +1,1 @@
-im tri to prevent my applic crash when and unhandl except occurs. i'v ad a to my main process file, although now i just get two dialogs, the first default electron one, show the stack track and error, then the one prompt by me, follow by the applic crashing.so it appear it hit the uncaught except handler, although it just pop up the dialog and continues.how can i prevent the app from crashing, and onli display the one dialog box from my handler?
+Electron Crashing On Exception, Even With uncaughtException Handled

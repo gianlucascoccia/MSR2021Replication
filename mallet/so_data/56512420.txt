@@ -1,1 +1,1 @@
-i'm creat a custom typescript class in my electron project and i'm have get error when i call a method. class:
+Error TypeError: roadHouse.isRunning is not a function when using custom TypeScript class

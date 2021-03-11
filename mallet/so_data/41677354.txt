@@ -1,1 +1,1 @@
-initi i would like to inform you that i am use ember 2.10.can anyon tell me how to make a login system without a token?i am develop an offlin applic with ember and electron and i need to make the login system without use extern apis.
+Ember j login without token

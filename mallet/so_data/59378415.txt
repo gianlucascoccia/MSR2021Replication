@@ -1,1 +1,1 @@
-i am creat an electron js applic and react js i have follow the best practic that suggest on this site: https://morioh.com/p/0222de07e2e2, but i found the problem of read css within the import of the compon sinc i am use two webpack to generate, when do an import ./style.css i do not read ani style load in it, i ad in the webpack the css extens but noth i can not understand becaus i do not read the styles.webpack.react.config.js&#xd;&#xd;&#xd;&#xd;&#xd;
+Problem reading cs file in a tsx component of react j

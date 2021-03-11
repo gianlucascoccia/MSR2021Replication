@@ -1,1 +1,1 @@
-i want to includ datatables.net insid my electron app. i did not find a way to includ the jqueri through a this is the code insid index.htm this achievable? what happen with javascript librari which are not provid as modules? how to use them insid electron?
+How to include jquery and datatables through <script> tag in electron app

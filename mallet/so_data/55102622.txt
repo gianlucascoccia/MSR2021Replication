@@ -1,1 +1,1 @@
-i want to build my own on-screen keyboard with electron. one of the function that i want to realiz is autohide, where the keyboard can be minim when not needed, and as an input field is touch or click the keyboard will be maximized. what i am miss is, doe linux output something, if an input field is be selected? like an event or someth similar, that i can use as a trigger to activ the keyboard.
+Linux API to trigger on screen keyboard

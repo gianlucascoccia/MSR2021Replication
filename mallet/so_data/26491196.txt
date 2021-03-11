@@ -1,1 +1,1 @@
-i'm sorri if this question doesn't belong here. has anyon some performance-wis data or comparison between these? app in node-webkit are signific faster or allow to use more system resourc than the same app run in the browser?
+Performance of apps in node-webkit v chrome browser

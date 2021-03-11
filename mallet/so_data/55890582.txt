@@ -1,1 +1,1 @@
-i want to connect a bokeh applic with electron. the electron window alreadi show the of the bokeh applic written in python 3. now i want to use the nativ user menu of electron to fire some action of the bokeh application. is there ani way to do this?
+How to trigger Bokeh action from the Electron menu?

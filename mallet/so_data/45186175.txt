@@ -1,1 +1,1 @@
-i am do an applic with electron and i have the follow problem:i need to make an http request to receiv data from a php but the timeout should be less than the respons time and therefor cancel the request befor deliv anyth to me.anyon know how to lengthen the wait time on http request?i leav you the code
+Extend the response time of http request in electron

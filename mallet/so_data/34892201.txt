@@ -1,1 +1,1 @@
-myself tri to build a hello world applic for linux use nw-builder. it run when i execut the run command files.how can i solv the same?also is it possibl to avoid the download of nw.js each time when i run or build the application? i tri it with give the version number but not succeeded.
+Unable to build nw.js hello world application

@@ -1,1 +1,1 @@
-i'm current strug to make a node-webkit app fit the height of the current window. below is an imag of what i'm tri to achieve.desir result :html :demo :jsfiddl
+How do I make a html element fit the remaining height?

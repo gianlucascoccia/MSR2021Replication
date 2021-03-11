@@ -1,1 +1,1 @@
-in my basically, instead of get json data log in the ui console, i get unit8array as shown below:
+Why am I unable to send JSON data to the ipcRenderer

@@ -1,1 +1,1 @@
-i'm test out the electron way of build apps, and i'm current stuck on a problem: i want to show a modal dialog, but onc it finish render it disappears. it work fine in a regular browser, but not in the electron (chromium) window. the modal is the bootstrap one found on w3schools:th abov method is call from a render process atm, but the same behaviour is seen when call it from main! what am i overlooking?
+Modal window disappearing on Electron

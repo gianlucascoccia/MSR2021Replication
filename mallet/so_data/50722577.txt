@@ -1,1 +1,1 @@
-i want to instal latest electron version in my exist angular application.so i follow npm command to instal it.command :
+electron install error : Generated checksum for "electron-v2.0.2-win32-x64.zip" did not match expected checksum

@@ -1,1 +1,1 @@
-in my package.json, i'm use to set the height of the window to 480.becaus of the titl bar, the window onli show about ~460 vertic pixel of the content.i can compens by rais the height to 500, but i would think that the titl bar height vari by oper system, so that not a good solut if i care about consistency.what can i do to make the window the exact height that i want?
+How can I set the height of the window without worrying about the title bar?

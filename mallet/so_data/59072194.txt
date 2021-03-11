@@ -1,1 +1,1 @@
-i need some explan about main and render processes. i though that i understood, but i'm in doubt now (and i also need help to debug the main process...)if i understood this :the main process is all js file that are
+split electron main process in multiple file : can't use same `global`

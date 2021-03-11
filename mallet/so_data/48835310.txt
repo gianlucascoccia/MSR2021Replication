@@ -1,1 +1,1 @@
-i'm creat an electron with javascript but when i tri to creat a new window it give me the error at the bottom of the page (click the link). i don't know what to do caus i cannot find the error.https://hastebin.com/amepavehux.jscan someon help with out with that?
+Error while trying to open a new window with JavaScript

@@ -1,1 +1,1 @@
-i have creat an applic with node webkit. i packag and distribut the first mac version of it. i am about to distribut the next version of the same. i want an instal or someth similar to inno setup for window which would help me uninstal the previous version of my applic and instal the newer version. ani help is appreciated.thank in advance.
+OSX - Uninstall older version of an existing application

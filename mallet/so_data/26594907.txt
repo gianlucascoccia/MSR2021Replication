@@ -1,1 +1,1 @@
-i'm work on github api and want to store return ?
+Handle OAuth callback in node-webkit

@@ -1,1 +1,1 @@
-i am use electron-build to build a dmg for mac version. current version i use is 7.14.2 . i add build/icon.icn file which is 1024x1024 size, but after the build i see default ebp icon. i also set dmg icon which is show on the top window panel when i have to move my app to applic folder, but not on applic icon itself.what i am do wrong, the icon size? or should i load icon through my browserwindow?thanks,tada
+Electron builder icon is not showing on MAC

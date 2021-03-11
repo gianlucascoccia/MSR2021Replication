@@ -1,1 +1,1 @@
-i want to make my electron app toggl develop tool in respons to f12.in the render page, i added: handler doe not get trigger when press key while focus on the devtools.do anybodi know whi that is?
+How to toggle devtools in an Electron app while focused on devtools?

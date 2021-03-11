@@ -1,1 +1,1 @@
-is it possibl to attach a window to desktop, i have seen some literatur on it in googl but it wasn't too sure. i know you can on mac but not sure on linux/windows.i am build a custom desktop applic if you want to know the use case.
+(electron) how to attach a browser window to desktop

@@ -1,1 +1,1 @@
-i am not abl to access variabl dps declar in index.j within index.html , use npm start(for start electron app)i am abl to access my sql and get data in index.j and i want to show that on index.html (use nodej and electron)'dp refer to js object which has mysql data//mi index.j file has
+I am not able to access variable 'dps' declare in index.js within index.html , using npm start

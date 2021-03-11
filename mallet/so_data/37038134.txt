@@ -1,1 +1,1 @@
-i am follow the quick installt guid on electron :http://electron.atom.io/script:clon the quick start repositori is do in the backend to workout whi it stuck?
+Install electron on node for window hang

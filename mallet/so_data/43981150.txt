@@ -1,1 +1,1 @@
-in electron packag app, i am tri to execut a server file from a node_modul dependency.from the main process, i'm tri someth like:.
+Execute a node.js script in packaged electron app

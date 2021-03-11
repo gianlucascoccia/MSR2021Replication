@@ -1,1 +1,1 @@
-given a variabl foo='somefunc', i'd like to be abl to then call somefunc().ther is a relev write-up about pure javascript do exact this here.i can't seem to get there with react.i'm current do lookup issu involv in the electron bifurc of the main and render thread they aren't terribl helpful.
+ReactJS & Electron - Execute Function passed by variable: string

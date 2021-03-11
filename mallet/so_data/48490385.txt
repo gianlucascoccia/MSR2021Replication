@@ -1,1 +1,1 @@
-i have an electron project i'm work on, but i'm face an inconveni when attempt to use jqueri and materialize-css globally. is there a way to include/import/requir them (they are alreadi instal via for the javascript files) but as my project has lot of child windows, which load differ html files, i would like to use those modul globally.
+How to use CSS and JS npm module globally in Electron Project?

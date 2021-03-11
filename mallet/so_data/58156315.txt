@@ -1,1 +1,1 @@
-i have a problem when i tri to instal electron for my project, my termin is frozen on this messag i uninstal node 10.16.3 and instal node 12.11.0 and it is still doesn't work
+Terminal is frozen when I install electronjs

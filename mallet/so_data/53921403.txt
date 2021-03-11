@@ -1,1 +1,1 @@
-accord to this it is not possibl to set flag within an electron app with environ variables. i still need to build differ version of the app for dev, staging, pilot and prod.intern i would like to use howev i'm realli not sure how to set the entri file for electron builder config. how do i specifi an entri file?
+How to build different version with environment variable

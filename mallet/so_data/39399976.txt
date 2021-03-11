@@ -1,1 +1,1 @@
-i'm build an applic with electron + angular 2 and the applic need to load the node-serialport but i'm have some problem when i'll to load these modul together. for example, when i run my app with electron + angular 2 and without node-serialport, it work normally, but if i load with node-serialport whole applic doe not work correctly, my angular 2 simpli stop his featur as binding.thank you.
+Electron + Angular 2 + node-serialport

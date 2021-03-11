@@ -1,1 +1,1 @@
-i have an applic in electron vue. it build on nodejs. i am ad izimod in my applic and it work and show properly. but i can't use &#xd;&#xd;&#xd;
+How to get button event from iziModal in vuejs

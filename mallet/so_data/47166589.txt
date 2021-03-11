@@ -1,1 +1,1 @@
-i'm go through an electron course, and the instructor keep use this syntax:what doe the underscor refer to?
+What doe the underscore character mean in this Javascript code sample?

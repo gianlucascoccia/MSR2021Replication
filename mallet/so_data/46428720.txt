@@ -1,1 +1,1 @@
-i am on a mac but want to build my applic on a window image. is this possibl with docker? if so what imag do i need to use?th reason i need to build the applic on window is for the code sign and binari build of electron. if this is not possibl pleas let me know.
+Does docker have a window container to build window application on?

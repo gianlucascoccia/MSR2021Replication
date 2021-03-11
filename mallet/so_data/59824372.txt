@@ -1,1 +1,1 @@
-i am tri to build an applic use a local electron checkout as dependency. the applic build fine when set the depend in the standard way thanks.
+How To Build App with Local Electron Dependency

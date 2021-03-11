@@ -1,1 +1,1 @@
-i have recent knew about electron npm modul and i'v found out it realli use for creat a desktop app use node.js. i alreadi know how to setup the mongo db on the local machin and get connect to it but, i was wonder if there is a way to integr mongo db within the offlin desktop applic itself?
+Is there a way to integrate mongo db in an offline desktop app?

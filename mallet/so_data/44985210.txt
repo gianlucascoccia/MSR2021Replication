@@ -1,1 +1,1 @@
-i have a setup with webpack,electron, and angular 4. i search and tri sever approaches, howev as i could not solv it, i am go to ask here.when i run webpack, it compil without errors, howev in the browser consol i get
+Webpack Externals require not defined with Electron and Angular 4

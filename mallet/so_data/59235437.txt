@@ -1,1 +1,1 @@
-i get an in electron app after releas final build when i test it everyth is work fine but after releas a final build i get an error like this i don't know how to solv this i also put in index.j file but it doesn't work i test same code on ubuntu with linux build and on ubuntu everyth is work fine. how i can solv this problem
+i get and error after release build in electron

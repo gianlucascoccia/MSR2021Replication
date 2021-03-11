@@ -1,1 +1,1 @@
-titl pretti much cover it. is there ani way to run a game "through" electron? the idea is to have the uniti game somewher on the comput and open the .ex fil through electron. is this even doable?
+Unity game Within ElectronJS?

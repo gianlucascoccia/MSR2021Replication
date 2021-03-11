@@ -1,1 +1,1 @@
-i'm tri to creat a simpl electron applic for window with react.js. everyth was fine, suddenly, i'm encount some error, which doesn't let me run the applic :error : https://pastebin.com/awmi4ubm (
+react-scripts start error code-134, not starting application

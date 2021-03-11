@@ -1,1 +1,1 @@
-i'v been scour the electron document to tri and figur out how to persist data in an electron app. for example, in io or os x, you could use nsuserdefault to store user set and preferences. i would like to do someth similar. how can i persist data in an electron app?
+How to persist data in an Electron app?

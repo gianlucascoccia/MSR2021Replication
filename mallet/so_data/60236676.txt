@@ -1,1 +1,1 @@
-i have an android 9 app recent convert to electron app.for datatable, i have enabl print and excel options. excel upload is fine and export data.but print is not working.it give the follow errorani pointer on this will be help
+DataTable: Print Not working in Angular 9 and Electron

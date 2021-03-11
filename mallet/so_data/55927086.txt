@@ -1,1 +1,1 @@
-i'm current creat an electron applic that use react to creat the interface. in order to get access the fs, i have been using:
+Jest Testing Electron/React Component using window.require

@@ -1,1 +1,1 @@
-i have a headach with the configur of my project environment. basic i will use electron + react + redux + semantic-ui-react.what i'v alreadi done is the configuration: electron+react. now i am tri to use semantic-ui-react.i ad dependencies, instal gulp and semantic-ui but it doe not work.can anyon suggest something?;)thank you in advance.
+Using semantic-ui with electron

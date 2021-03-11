@@ -1,1 +1,1 @@
-so i'm creat a desktop app use electron and angular 2+ is my front-end. i want to share a javascript file between the front-end code and the electron code. i realli onli want constant to be defin that i'll be use in both places.for example, when communic with angular2 use electron ipcmain, you would do someth like this:but that doesn't work at all. has anyon tri to do this?
+Electron + Angular 2: Sharing a constants.js file

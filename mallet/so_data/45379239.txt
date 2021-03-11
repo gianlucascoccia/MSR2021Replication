@@ -1,1 +1,1 @@
-i am tri to use node-webcrypto-ossl in electron which need openssl lib and includ folder to be includ in binding.gyp.i tri includ it in target but it didn't work
+electron include openssl in building.gyp

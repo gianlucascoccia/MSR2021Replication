@@ -1,1 +1,1 @@
-i have the follow code which work quit well with browser when the user is close the tab.w have previous test this use the simpl demo in cef3, howev it doesnt seem to execut when we port the app to node-webkit. ani help would be appreciated.
+Node-webkit alert when user is closing application

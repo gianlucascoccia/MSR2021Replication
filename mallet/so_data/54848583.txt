@@ -1,1 +1,1 @@
-i have recent start use electron to creat an app to compos music on for free. unfortunately, while tri to set global keyboard shortcut for it use mousetrap, i got the error thank you for ani help
+Moustrap node.js; Uncaught TypeError: callback is not a function

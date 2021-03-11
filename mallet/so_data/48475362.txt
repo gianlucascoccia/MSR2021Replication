@@ -1,1 +1,1 @@
-i alreadi have a ton of console.log statement thru out the main process of my electron app, is there a way to send all of those to electron-log or anoth log that can be access after the app is packaged? i was go to go thru and add
+Is there a way to log everything from console.log in an Electron app using electon-log?

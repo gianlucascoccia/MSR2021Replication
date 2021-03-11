@@ -1,1 +1,1 @@
-so i'm write on a electron applic at the moment.to make my applic a bit smoother i creat a is be cut on the right side.window after be maximized:window after be unmaximized:
+How to fix application-window resizing error for a BrowserView in electronjs?

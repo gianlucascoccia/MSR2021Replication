@@ -1,1 +1,1 @@
-i develop a web app with angular i need to packag my web app use electron , it all seem fine until i run electron-packag , it take forev , i dont know if it is suppos to be this slow or is there someth wrong ?ps : im on window 7this is my package.json i expect my app.ex
+Packaging app for platform win32 x64 taking too long using electron v5.0.6

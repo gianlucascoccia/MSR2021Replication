@@ -1,1 +1,1 @@
-i am tri to write test for electron use spectron.thi is my code. do i need to add ani function to the exist hooks?
+Error: Timeout of 30000ms exceeded. For async test and hooks, ensure "done()" is called; if returning a Promise, ensure it resolve

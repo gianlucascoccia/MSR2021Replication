@@ -1,1 +1,1 @@
-i am tri to build a desktop app use electron with googl analyt data. i am use googl analyt emb api. i get my guess is electron use local storag for handl cookies. is there ani workaround for this? thanks!
+Using Electron with Google Analytics Embed API

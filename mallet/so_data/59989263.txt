@@ -1,1 +1,1 @@
-i am use the could someon pleas help me with get it to work. i am use the same code for both the web applic and the electron.
+history and router doesn't work with electron

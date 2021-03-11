@@ -1,1 +1,1 @@
-i have a php websit and i have an electron base desktop applicationi want to be abl to open this applic which i made it when the client hit the button on my website, how can i do that? for example, let say i have a chat websit and a chat applic and the user like to use the app instead of the websit so after he instal my app on his window machin and then go to the websit to click the button i want the app to open it self! how can i achiev that pleas ?
+url scheme: open window application on request [Electron]

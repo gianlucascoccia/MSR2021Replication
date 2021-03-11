@@ -1,1 +1,1 @@
-i am tri to build my app use command electron-builder. i have a depend node-native-print which while instal ask for the depend we would like to select to make it work.th thing is that it work fine and i am abl to select the depend from termin while run npm install. but when i run electron-build command, it simpli fail with the below error.now how can i resolv this that it automat select the electron-edge-j as a dependency?
+Not able to build electron app using electron-builder

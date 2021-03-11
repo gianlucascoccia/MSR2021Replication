@@ -1,1 +1,1 @@
-i have a "main.js" script a "index.html" file and a "render.js" script, in the index.html file i specifi that his control script would be "render.js" and everyth works, i can access the html file from the "render.js" file, the problem is that when i requir the "render.js" script from the "main.js" script to use method that i defin in "render.js", "i get document is not defined" from the "render.js" script.ani help with that?
+"Document is not defined" When requiring a script in Node.js

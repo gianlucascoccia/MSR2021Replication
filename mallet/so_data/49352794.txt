@@ -1,1 +1,1 @@
-i'm write a bot use nightmare.j with electron.js.thi bot is run in proxi and https://whoer.net show my origin ip becaus of webrtc. is ani way to disabl that webrtc in electron?
+How to disable webRTC in electron?

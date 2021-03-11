@@ -1,1 +1,1 @@
-i'm make a ubuntu base photo print program with electron.when i made on windows,i save the imag as png and call the window built-in software(shimgvw.dll) with the code below.what should i do in ubuntu?what i want to implement is to print the photo that have been finish compos at the user choic by press a button.when i do a search, i onli get result for pdf files.i wonder if there are ani modul or commands.thank you!p.s. sorri for my bad english :(
+ELECTRON: image file(.png) silent printing on Ubuntu

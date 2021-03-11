@@ -1,1 +1,1 @@
-i am build my electron applic with electron packag for window and osx platform. package.json: to start the process..
+Electron Packager - set App Icons for OSX & Windows

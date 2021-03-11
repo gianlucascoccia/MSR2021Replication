@@ -1,1 +1,1 @@
-i want to load extern javascript node modul in node-webkit. i want to add "unzip" modul in my node-webkit application. i have ad unzip modul file in "node_modules" folder. and i includ this file use but still it is not working. i have to do someth els also to includ modul in my app?
+include external simple node module in node-webkit

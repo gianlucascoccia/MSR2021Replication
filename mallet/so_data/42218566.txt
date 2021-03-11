@@ -1,1 +1,1 @@
-it is posibl to copi in real time the imag of a element in browserwindow render at 60fps to other multipl browserwindow in atom electron?
+Copy <canvas> image from a BrowserWindow to another at 60fps in Atom Electron

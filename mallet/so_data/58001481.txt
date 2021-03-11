@@ -1,1 +1,1 @@
-i'm make a game client and i have it where you can launch the game from the browser like mygame://whatever'. i'm do some debug and i want it to show receiv this data: whatever'. it doe launch the app but it just show undefin in the data box. how do i fix this?main.js:al help is appreciated!
+How to receive data in Electron app from protocol link

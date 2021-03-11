@@ -1,1 +1,1 @@
-i have a nativ librari load which expect a window handler like in this c example:(transl in english: callingexampl in c)but how can i pass with node ffi the electron nativewindowhandl to work with my dll. i have not the sourc code of the dll, onli a descript pdf in german. so how can i pass the handler ? and which type i need to set in ffi as paramet ?the onli other inform i have, in c#, if you import the dll, you can pass it like this:but how can i get this to work in electron/node-ffi.nil
+Electron Window Handler to ffi c Library

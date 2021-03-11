@@ -1,1 +1,1 @@
-is it possibl to chang the locat of the app in electron from to an extern directory?i am work with the precompil binari and i cannot use symlinks.
+How to change the app directory in Electron binary

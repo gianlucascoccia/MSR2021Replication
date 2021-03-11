@@ -1,1 +1,1 @@
-how to open newbrowserwindow in a total center of two extend monitor in electron atom ?now i can open my electron app on a first monitor or on a second monitor separately, but i can't find solut to open app in a total middl of both screens, or open electron app on a full two monitor extend screen.
+How to open newBrowserWindow in a total center of two extended monitor at electron atom

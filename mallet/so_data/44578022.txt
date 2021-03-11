@@ -1,1 +1,1 @@
-in electron, it is possibl to use the follow to open link in the web browser and not in electron with in electron?
+Electron: Prevent middle click

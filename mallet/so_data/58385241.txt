@@ -1,1 +1,1 @@
-i'm develop an electron app fork from the boilerpl code here: https://github.com/maximegris/angular-electron i'v run into a strang issu after move my dev environ to a new machine. the first time i run the app use ng serv it work fine. however, when i quit the applic and kill the ng serv process (a-la i'm happi to includ ani other info
+Electron App Closes Immediately Using ng serve

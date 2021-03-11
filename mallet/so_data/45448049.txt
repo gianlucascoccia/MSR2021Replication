@@ -1,1 +1,1 @@
-i am write an electron app that i need to run with admin access (like sudo).i haven't creat ani instal for that app.i know that i can write in linux to start my app as root but what about windows?i there ani similar command?
+Run electron app a admin window

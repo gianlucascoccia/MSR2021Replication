@@ -1,1 +1,1 @@
-i'm move from node-webkit to electron and i'm find some differ in behavior of html5 contents. so i'v check chrome version by print out ), electron chrome look veri outdat (one year behind) especi if i look to electron 2.0.2 npm packag releas date that is onli 22 day ago. why? i'm i suppos to updat electron chrome manual somehow?thank
+Electron Chrome version very outdated

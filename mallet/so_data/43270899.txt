@@ -1,1 +1,1 @@
-i want to add new font to my window system folder by electron, but failed, how could i do this? here is the code which can work well in app folder.i just want to put the file in to c:\windows\fonts', thank u.&#xd;&#xd;&#xd;&#xd;&#xd;
+how can I write file to window system folder?

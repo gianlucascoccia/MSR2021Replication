@@ -1,1 +1,1 @@
-my main.j file in my electron program has a small context menu that is open when right-click the tray icon, like so:i would like one of the menu button to call a function that is in anoth script.j file, which is run in the background as it referenc by the index.html in the main window. how can i do this?
+How to call a function in another script from main.js in electron

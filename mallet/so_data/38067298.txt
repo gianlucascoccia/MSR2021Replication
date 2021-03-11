@@ -1,1 +1,1 @@
-i have some templat file that contain a few variabl string each, i'd like to build a veri simpl input form with electron (http://electron.atom.io/) and i want to save the compos output file on the user computer.i there ani modul i can use to let electron save file locally?
+Saving file locally with electron

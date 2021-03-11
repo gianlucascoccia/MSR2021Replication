@@ -1,1 +1,1 @@
-i'm build my first app with electronj use angular cli (angular 2)i have been follow the basic guid to start, but in all examples, they comment i have to add some lines.in my index.html putand don't have hot reload insid electronj + angular clii hope i made myself clear
+ElectronJS + Angular CLI, not hot reload? under file:// protocol

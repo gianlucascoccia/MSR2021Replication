@@ -1,1 +1,1 @@
-in my electron browserwindow, i have a loader (spinner) to indic the app is working., but no difference.
+Give BrowserWindow time to apply style change

@@ -1,1 +1,1 @@
-i am tri to load https://trello.com with i have tried:allowrunninginsecurecontent: truewebsecurity: false'content-security-policy': *'chang my useragentnoth show up in consol and it seem to work fine when i use the &lt; webview > tag.accord to a trello articl the url that it tri to load resourc from are: d78fikflryjgj.cloudfront.net, d2k1ftgv7pobq7.cloudfront.net or a.trellocdn.com
+Website viewed with electron unable to load all resource

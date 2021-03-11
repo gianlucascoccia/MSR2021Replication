@@ -1,1 +1,1 @@
-electron updat 4.2.0 packag do not download new releas but can detect it this is a privat repositori on github new releas success send to github in package.json:i get document from auto updaterauto-updat target is window nsischecking-for-upd and update-avail event fire correct but update-download or error simpli doe not fire pleas if you alreadi have experi on this let me knownote: i set environ variabl gh_token in the user machin too
+electron updater notify for new release but do not update or download new release in window

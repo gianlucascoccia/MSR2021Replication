@@ -1,1 +1,1 @@
-i'v made a small electron app which need to load a preload js file.when i start the app with and in both cases, the path is correct, and the file is there.
+preload script not loaded in packaged app

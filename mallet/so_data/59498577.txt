@@ -1,1 +1,1 @@
-i'm new to electron, while creat transpar window i got the some this type of shadow.screenshot
+Getting shadow in transparent window in Electron

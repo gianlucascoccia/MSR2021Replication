@@ -1,1 +1,1 @@
-i have this code:th nedb persist databas is created.i just want to access the server variabl in the app code, like in mycmp.ts. how do i do this?
+Angular 2 (global variables): How do I access a variable defined in index.html, in the Typescript code?

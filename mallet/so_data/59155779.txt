@@ -1,1 +1,1 @@
-my project is galleri manager. it must work with usb devices, copy, eras photos, modifi and save. how i can work with file in electron use suitabl npm package?if i will use node, then i must use express to connect front and back.i think i need to integr npm packag https://www.npmjs.com/package/express-photo-galleryinto my electron project: https://github.com/cavnav/f-photo.th problem is i am novice.help me please!
+how to integrate electron.js app with node express.js?

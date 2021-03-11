@@ -1,1 +1,1 @@
-in electron 4.0 sharp doe not work (https://github.com/lovell/sharp/issues/1522), imagemagick output "error: spawn identifi enoent", jimp give an error with marker or other.th method with the canva problem with async or with a buffer, output the imag pieces.ar there ani other options? is there anyon in the electron doe it work?
+How to crop an image in an electron application

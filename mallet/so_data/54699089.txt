@@ -1,1 +1,1 @@
-i want to creat a virtual screen on maco :i tri syphon: https://andreacremaschi.github.io/syphon-virtual-screen/but is there anoth way to do it programmat to do it from node.j or electron?
+Creating Virtual Screen MacOS

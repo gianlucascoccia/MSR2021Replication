@@ -1,1 +1,1 @@
-i'm frustat for two days, becaus i'am newbi in nodej and json.with my bad english, i have a case for search data in subdata, and put result in browser.thi is my code :
+searching with criterion in subArray and get result with nodeJS and NeDb

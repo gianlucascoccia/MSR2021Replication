@@ -1,1 +1,1 @@
-i'm build an electron app (with ionic) to digit sign pdfs with p12 certif use node-signpdf (https://www.npmjs.com/package/node-signpdf). i'v had problem which i solv by use and start working. but i think i'll have to make postinstal script to modifi it.i there a better way?-how can i make this crypto thing work? i ran out of ideas. mayb you can spare some?thank for your time!
+Can't use crypto in NPM dependency in Electron app

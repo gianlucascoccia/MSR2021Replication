@@ -1,1 +1,1 @@
-how can i test my program which run on window also on osxthi is now the start code for windowswith which code i can run it also on os x to run ?
+Package Electron for o x

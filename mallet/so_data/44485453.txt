@@ -1,1 +1,1 @@
-http://docs.nwjs.io/en/latest/references/app/#appsetproxyconfigconfig-pac_url i learn here that it possibl to set https proxi in nw.js. but my simpl script doesn't work. after initi it i visit a page in my browser but my ip doesn't change. what am i do wrong?&#xd;&#xd;&#xd;&#xd;&#xd;
+Cannot set http proxy in nw.js (former node-webkit)

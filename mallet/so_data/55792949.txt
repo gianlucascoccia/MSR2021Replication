@@ -1,1 +1,1 @@
-i am tri to convert my electron app to appx use electron-windows-stor and have been get this error. my version of window 10 sdk is window 10 sdk, version 1903.would appreci ani help
+Getting an unhandled promise rejection error while running electron-windows-store

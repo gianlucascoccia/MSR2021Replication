@@ -1,1 +1,1 @@
-i have a frameless window with a titlebar set up much like in the node-webkit sampl app (that is, with button that have event to fire properly?
+node-webkit <object> onmousedown

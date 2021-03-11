@@ -1,1 +1,1 @@
-are there anyway to copi a file to clipboard (like cmd+c in finder).i want to do this with electron, i think that a shell script will help.
+Copy file to clipboard Node.JS

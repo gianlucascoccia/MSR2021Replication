@@ -1,1 +1,1 @@
-i'm get start with electron and i download the get start exampl project and it clock in about 150mb. what is the barebon for an electron project? can i delet the node_modul folder? i will eventu need to call a process but that about it.
+How to reduce the size of an Electron app?

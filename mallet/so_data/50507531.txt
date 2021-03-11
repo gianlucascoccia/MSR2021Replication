@@ -1,1 +1,1 @@
-questioni it possibl to do the following?open a new but that would onli work on window
+Is there a way to launch a terminal window (or cmd on Windows) and pass/run a command?

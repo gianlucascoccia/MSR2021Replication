@@ -1,1 +1,1 @@
-i'm tri to use express librari in main.j file. it work fine on my dev build, but when i packag the app i get error: cannot find modul express'i'm not quit sure how electron main thread works, is it packag separ by some other build tool, and do i need to define(include) packag manually? my app is packag by webpack, and i have includ librari in package.json. everi sampl i have found just includ express librari and move on, i can't find ani addit step for this.package.json
+Using 'express' inside Electron main thread, cannot find module

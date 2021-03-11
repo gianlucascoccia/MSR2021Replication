@@ -1,1 +1,1 @@
-i'm tri to export electron project to a singl build is all you can do!
+electron build single exe file

@@ -1,1 +1,1 @@
-i'm tri to tell if a user has specif system prefer set. i.e. the app need to know if they'v given full disk access, if they'v select our app under accessibility, etc. like in the pictur below.i know we can do someth likeso i thought there might be a way similar to this for read the settings.
+How to read mac system preference programmatically?

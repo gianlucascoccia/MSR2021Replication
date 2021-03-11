@@ -1,1 +1,1 @@
-i had creat an ionic 4 angular project use capacitor. i ad the electron platform use the command. i use the cordova plugin "cordova-plugin-file-opener2" to open a file for the project which work in the mobil platform. but in the desktop platform the cordova plugin did not work. i was wonder if i could instal electron packag and use the "shell" modul in the ionic project. is there a way to do so? (or may be is there in other way i can open a file use capacitor without ani cordova plugin)
+Use electron api in ionic 4 capacitor angular project

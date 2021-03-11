@@ -1,1 +1,1 @@
-we have creat a custom modul which communic with the desko penta scanner device. we are success abl to access this modul when we run electron without packag it. when i packag the same electron and tri to access it by open the exe file i am not abl to. below is the path of my electron projectw are access like thisvar exampl = require('./build/release/example');
+Accessing custom module in Electron package

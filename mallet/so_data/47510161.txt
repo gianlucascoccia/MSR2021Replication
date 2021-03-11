@@ -1,1 +1,1 @@
-i am look for a smart way to get activ browser url for a cross-platform electron app. i have found a solut use applescript for mac os safari and chrome but still no solut for firefox, windows, and linux :(a solut for chrome and safari on maco use applescript:us node-applescript i was abl to get safari and chrome urls. unfortunately, firefox doe not support applescript and the way to obtain the url is hacki and unus in production. also, i still have no clue how to get the url on linux and windows.
+How to get browser active tab URL in node/electron app on Linux/Mac/Windows?

@@ -1,1 +1,1 @@
-i tri to creat an applic with node-webkit and sails.js. my api work fine, i get the json i need, but when integr with node-webkit doe not start the server. my package.json contains: correctly; but without the data it throw the sail server.i appreci ani help.
+How do I use Sails.js in Node-Webkit?

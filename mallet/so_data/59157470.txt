@@ -1,1 +1,1 @@
-i want to load .swf file in electron application.load "extrasources" in plugin directori "pepflashplayer.dll" for window .exeit work fine in develop "npm run electron:serve" (success play swf file)but when i tri to build or run in product mode it say "couldn't load plugin."th .dll file is not found in .ex how can i use the third parti plugin while build the application?
+Electron JS :: Build application issue with extra plugins

@@ -1,1 +1,1 @@
-i am new to electron and want to know if after build an applic with it, i still need to instal chrome browser.
+Can Electron App Work in a system without Chrome Browser Installed?

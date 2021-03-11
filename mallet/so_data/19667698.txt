@@ -1,1 +1,1 @@
-how to execut system command in node-webkit (or node.js) extern process parallel of current script.i'm tri to use child_process. after interrupt of my script subprocess is exit. howev i need a simpl way execut bash command without output or with output but without program stop when my script will be interrupted.i need a correct simpl way.thank all.
+Node-webkit execute external command?

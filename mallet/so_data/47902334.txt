@@ -1,1 +1,1 @@
-i am run a webpack project and run this script my package.json look like thisbut after run npm run elecstart, i am get this errorani clue,whi i am get this error. i am run on window 10 64bit, 8 gb ram(fyi), but after run the script the window error box come as shown in the imag and after i close it , the script halts.i am suspect some js error to be in there, as it is not abl to find some symbol or some configur is missing. ani help is appreciated.
+Electron start script error

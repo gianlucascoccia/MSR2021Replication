@@ -1,1 +1,1 @@
-i want to pass the data from my 2 input type file to anoth .html page. if i was use php or someth like that i would just get the $_post array, but i'm use electron.j with python.print of my form with 2 input type filei tri to pass the data use hidden input and get their valu insid the url at the second page.cod at the first pagei there ani better solut to do this? if possibl use python or someth from the electron.j ?
+Pass form data do another page using Electron and python shell

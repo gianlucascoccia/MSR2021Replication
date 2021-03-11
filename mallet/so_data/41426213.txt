@@ -1,1 +1,1 @@
-i am work with a modul of node js resolv this problem?thank you!
+Node app created by enclose module getting shuts down on idle in production mode

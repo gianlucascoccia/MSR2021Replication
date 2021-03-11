@@ -1,1 +1,1 @@
-i'm tri to build an electron app with electron-build but i'm get an error "sh: 1: build: not found...".im use electron 6.0.6 , with mysql , nodej ,jquery.for a while im tri to build this app with electron-packag and electron-build but im get nowher to build a distribut packag for linux and windows.mi package.json file
+I'm getting an error while building electron app in my linux Mint

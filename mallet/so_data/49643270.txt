@@ -1,1 +1,1 @@
-i tri to build my electron project to window app by use electron-packag but i get this error.fail to locat modul "fsevents" from "/var/www/windowapp/electron-angular-project/node_modules/@angular-devkit/core/node_modules/chokidar"anyon know how to solv it and what happen to this?
+angular 5 with electron-packager

@@ -1,1 +1,1 @@
-we are build an applic in node js with electron. there is anoth softwar which is instal in all other machines.now in my node js applic i want to launch those softwar on there respect machines.i it possible?
+How to execute exe of different machine from my machine in node.js

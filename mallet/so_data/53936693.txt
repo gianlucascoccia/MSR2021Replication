@@ -1,1 +1,1 @@
-i am creat an electron application, and am use electron-winstal to build the installer, which use squirrel.windows. insid of one of the exampl code snippet has this section:in the section abov that say "- write to the registri for thing like file associ and explor context menus.". i would like to add registri entri here, but when look at the squirrel document i could not figur how to do this. i could not find ani exampl online. anyon have ani ideas?
+How to create registry entry using squirrel.windows

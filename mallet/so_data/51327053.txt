@@ -1,1 +1,1 @@
-i am use doe not seem to be get set. i'v been stuck on this for a while now and can't figur out what the issu is. i'm fair new to angularj so this may be someth realli simpl that i'm missing.thank for ani help you can provide!
+AngularJS scope variable not setting properly

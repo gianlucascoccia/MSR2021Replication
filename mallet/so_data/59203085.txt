@@ -1,1 +1,1 @@
-i instal electron 7.1.3, when i tri to run the app appear this error:fatal:atom_main_delegate.cc(211)] run as root without --no-sandbox is not supported. see https://crbug.com/638180thi happen when i use debian 8 or 9. i use it on window and this run with no problem. i was search info about this problem but i didnt find someth concret with electron and debia, onli run: electron --no-sandboxthank you if someon know how to solv this, i wanna use debian here.
+problem when running electron 7.1.3. on debian 8, 9 --no-sandbox is not supported

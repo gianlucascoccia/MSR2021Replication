@@ -1,1 +1,1 @@
-how is the correct syntax to ignor more then one file and folder for electron-packager?with onli one arg like:
+Regex pattern to ignore multiple folder

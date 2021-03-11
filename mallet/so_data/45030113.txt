@@ -1,1 +1,1 @@
-can i access angular 4 servic outsid of angular? background: i need a share servic between angular and electron.on angular side my servic look like:but how to access the shareddemoservice?
+Shared service for Electron and Angular 4

@@ -1,1 +1,1 @@
-i am tri to add nativ window notif to zulip electron use the is not fulli complete, and some build process still remains.
+How to install node-win-shortcut by using npm

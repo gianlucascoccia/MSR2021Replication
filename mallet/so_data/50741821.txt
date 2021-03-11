@@ -1,1 +1,1 @@
-i have a simpl svg icon which i anim in css. here is the svg: instead, but i have the same behaviour.
+Transform-origin for an SVG group in Electron is ignored

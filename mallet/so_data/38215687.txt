@@ -1,1 +1,1 @@
-i am tri to use webpack to transpil (and bundle) es6 code i'v written for electron main (not renderer). when i transpil and run, the applic work ok. but after bundl with
+Files can't be found after building with electron-packager

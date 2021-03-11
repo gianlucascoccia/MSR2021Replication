@@ -1,1 +1,1 @@
-so i was tri to attach emb tag to the page with the follow address:file:///c:/users/avihay/downloads/imagin dragon - radioactive.mp3(even with backslah as well)but couldn't oper the situation.for some reason the file cant be play when come from local address (even when it allow on node-webkit)do anyon know the perfect solut to this situation? :)
+Node-Webkit audio using local file

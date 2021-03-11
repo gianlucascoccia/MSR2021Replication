@@ -1,1 +1,1 @@
-i got this code from anoth stackoverflow question:. so how to pass electron chromium execut path to puppeteer?
+How to use puppeteer-core with electron?

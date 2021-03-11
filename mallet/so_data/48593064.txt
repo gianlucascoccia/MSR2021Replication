@@ -1,1 +1,1 @@
-iiuc the follow code will stop the app electron process on all oss except appl (darwin):how do we ensur that the process run the app also stop on darwin?
+Closing an Electron App on Darwin

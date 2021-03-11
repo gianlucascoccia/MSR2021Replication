@@ -1,1 +1,1 @@
-i tri to insert data into a local databas sqlite. it possible. i can do it . but i have to creat a new tabl everi time. i tri to do it without creat a new table... i alreadi insert the data into the tabl but i had to creat a tabl everi time.i just need the insert into the exist table... thank a lot
+How to do a simple insert into the local database file sqlite with javascript

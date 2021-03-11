@@ -1,1 +1,1 @@
-current i meet an issu for auto test electron desktop applic with python &amp; webdriv te desktop applic integr html/css element use electron vue tech. when i tri to do the autom test with python and selenium. i use below codecould anyon have ani idea about this? thank in advance.
+DevToolsActivePort file doesn't exist for electron desktop application

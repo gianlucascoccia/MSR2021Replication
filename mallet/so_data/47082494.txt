@@ -1,1 +1,1 @@
-im use electron, i need to open a new window with a pdf generat with pdfmake.js, im tri thisthi just open a new window and download the pdf
+How to open a generated pdf in electron?

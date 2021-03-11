@@ -1,1 +1,1 @@
-i want to give the user ani option he want to edit a file, how can i open a file with the default program of the specif file type? i need it to work with window and linux but mac option would be great too.
+open a file with default program in node-webkit

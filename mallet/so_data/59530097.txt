@@ -1,1 +1,1 @@
-i am an intern at nodej and php developer..i want to check my desktop applic avail by verifi macaddress in the databas of a php website.i tri send data from app use now , how do i return some data to nodej electron application. it will be a great help for my project.thank you everyon for have a look at my first question on this website.
+How to send and receive data from electron desktop app to a php website?

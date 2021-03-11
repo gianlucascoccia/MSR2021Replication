@@ -1,1 +1,1 @@
-i'm tri to autom the build of an electron app use jenkins. befor i did it use electron-packag direct on a window pc (becaus the app is intend to be use in windows) but now that i want to use a linux environ for the build process (ex. ubuntu) i get the follow error : which again, work in windows, but return the same error on ubuntu. (zipfold convert the releas folder in a zip file, it is just an extra function i wrote)mi question is, is it possibl to just not instal wine at all and make it work ?
+Packaging electron app for window with jenkins and electron-packager in Linux

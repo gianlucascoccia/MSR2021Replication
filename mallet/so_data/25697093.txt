@@ -1,1 +1,1 @@
-i'm use nock to intercept call to my api host and do some local db look-up befor return the response.pleas refer the below code. i intercept call to entrypoint and would like to repli with the data fetch from local datastore.i believ this is a problem with nock modul itself and i heard few suggest to use streams. can you pleas help overcom this problem?
+Node.js - Nock and nedb - Reply get executed before the call back finish

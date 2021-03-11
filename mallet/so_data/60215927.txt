@@ -1,1 +1,1 @@
-basic i want to implement discord rpc in my electron browser apllic and i found this npm modul for it.i notic i can't import it use the default node.j way, my applic just ignor it that waynow my question is, how do i implement that argument in the second bracket
+How do i Import an npm Module in vue?

@@ -1,1 +1,1 @@
-i have a web applic develop with html and jqueri and, through electron, becom a desktop applic (.ex file).us jquery, i would like to open the pdf file. first, i get the url of the pdf with:thank in advanc
+Open pdf with electron-pdf-window

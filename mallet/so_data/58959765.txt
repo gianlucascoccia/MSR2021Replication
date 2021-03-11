@@ -1,1 +1,1 @@
-i need the node network packag insid my render process, in the browser to detect the type of my network connect (wired, wifi, etc.). i'm use electron forge.that packag is underneath use process.platform to build a relat path as a paramet for
+Can't resolve require path correctly in renderer process

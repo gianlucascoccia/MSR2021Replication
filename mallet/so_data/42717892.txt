@@ -1,1 +1,1 @@
-i use goldenlayout librari with electron webview elements. goldenlayout manipul the dom move webview element around, it is effect cut them from one place and past them in the other. that make the webview (as well as iframes) to reload the page they are presenting. is there a way to prevent that reload?
+A way to prevent Electron's WebView reload when Webview element is moved in containing DOM

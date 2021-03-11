@@ -1,1 +1,1 @@
-i have been struggl to modifi package.json in order to includ extraresources. everi time i add the requisit build section to package.json, then save the electron fiddl my chang are instant remov from package.json. package.json befor save:
+Why doe package.json lose my saved change whenever I save my Electron Fiddle project?

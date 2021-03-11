@@ -1,1 +1,1 @@
-i have sqlite3 databas with so how to queri the id of the row that i click the updat button on it?note:i'm use electron framework.
+sqlite: how to get row id of the row that ha the update button on it?

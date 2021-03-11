@@ -1,1 +1,1 @@
-are there substitut variabl other than is there a document which document all of the node builtin substitut variables?
+Where do I find a find list of Node substitution variables?

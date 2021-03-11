@@ -1,1 +1,1 @@
-i'm develop an electron applic with react and i would like to combin data from an embed databas and server database. some data on the server has permiss and both databas will have the same schema. i saw rxdb but i'm not sure i can achiev that.do you have ani recommendations?thank
+Combine server database and embedded database electron / react application

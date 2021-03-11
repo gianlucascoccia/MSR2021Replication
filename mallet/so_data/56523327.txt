@@ -1,1 +1,1 @@
-when i use realm in electron.install:but has an error.
+how can i use realm in electron without react-native

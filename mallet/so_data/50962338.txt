@@ -1,1 +1,1 @@
-i am use angular 5 applic and use electron framework to convert it todesktop applic and it work fine.how to persist about 10000 record of dataset in json form in desktop client side. so that whenev a user is in the offlin mode he/sh will be still abl to use our application.even user in offlin mode can use the app and must be abl to use our applic even after he is restart the system and even data should be secur and not expos to the user as like local storage.
+How Offline Data persistance for Desktop app with electron Framework can be done?

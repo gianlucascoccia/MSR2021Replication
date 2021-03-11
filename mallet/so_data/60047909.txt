@@ -1,1 +1,1 @@
-i am get this error while tri to run my electron base app. i can't see whi this error is thrown.her is the error i am get :&#xd;&#xd;&#xd;doe anyon know how to fix this problem? thank in advance!
+Getting ReferenceError: firebase is not defined

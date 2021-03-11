@@ -1,1 +1,1 @@
-i'm use electron + arcgi js api for an application, tri to add a kmllayer to the map return error, i'v tri point the file local howev it fails.return the follow error, somehow it treat all callback as file://, is there anyway to bypass this ?get file://utility.arcgis.com/sharing/kml?url=https%3a%2f%2futility.arcgis.com%…7b%22wkid%22%3a4326%7d&amp;model=simple&amp;folders=&amp;outsr=%7b%22wkid%22%3a4326%7d net::err_file_not_found
+Error adding KML Layer in Electron + Arcgis

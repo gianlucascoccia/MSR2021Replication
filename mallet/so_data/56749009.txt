@@ -1,1 +1,1 @@
-am tri to use robotj in an electron(v5.0.5) applic when i run the applic , i get the error below , i use electron-rebuild command :
+electronjs NODE_MODULE_VERSION error and rebuild command not fixing the issue

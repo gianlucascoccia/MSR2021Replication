@@ -1,1 +1,1 @@
-i'm tri to scrape my music folder for mp3 file paths, and save it to my db. here is the relev part of the code:. am i do someth wrong?
+Forerunner DB not persisting in Node (electron)

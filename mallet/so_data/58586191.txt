@@ -1,1 +1,1 @@
-i have an electronj project which need to be distributed.i have a separ node.j applic which is need to be inject into this applic so i'm current use pkg to bundl this script into execut file and attach this to electron project.th problem is that this node.j script need node_sqlite3.nod so i past this separ with the packag execut by use the follow commandpleas help me if you'r experienc in electron-build and code signing.thank you.
+Code Object is not signed at all in node_sqlite3.node

@@ -1,1 +1,1 @@
-given an electron or nw.js application, is there a way to run it on a remot server, and then access the applic via a browser?a an example, let say i have store a number of photo on a remot server. now i would like to view the photo in a photo view app written with electron/nw.js. is there a way to launch the app on the server side, so that on my laptop i can just go to and use the app in the browser?
+Can an Electron/NW.js application be served in a browser?

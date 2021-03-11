@@ -1,1 +1,1 @@
-i am develop an electron react/redux app, which need to be abl to chang languag on the fly. current we are store some string as constant (for compon that are not react components, for exampl dialog box contents) and also we have a menu that is generat from a templat (see below).w are current use i18n-react library, which seem easi to use and support some advanc featur like plural etc. this is an exampl of load english translat for our menu:but how do i convinc the electron menu, dialog box etc. to change?
+Changing language in electron app (i18n-react)

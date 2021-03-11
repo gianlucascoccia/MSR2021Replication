@@ -1,1 +1,1 @@
-as title, i have an electron-bas app with some nativ npm dep. and one of then (sharp) didn't pass the window store review becaus of crash on win10 s mode. i can't find an option to disabl win10 s mode support in dev console, and i ask ms review team twice, no ani response. i can't drop the dep becaus it core function. if the app just show a not support page when win10 s mode, can it pass the review? or there are some way to disabl win10 s mode support?
+Can I disable Win10 S mode support to pas the Windows Store review?

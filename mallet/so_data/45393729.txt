@@ -1,1 +1,1 @@
-i'v creat call and doe noth els the code is exact the same. it was clone from bitbucketi'v spent a whole day tri to figur out the reason but failed. sorri for my englishthank you in advanc
+Electron Firebase: FIREBASE WARNING: Provided authentication credential are invalid

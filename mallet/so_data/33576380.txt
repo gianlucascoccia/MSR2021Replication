@@ -1,1 +1,1 @@
-i have follow data structur in nedb:i am tri to filter for the row with minimum id valu from the table. it will be realli help if anybodi can suggest how can i queri nedb to get the minimum id value?i am use node.j along with nedb.thankyou.
+Finding minimum in Nedb datatable?

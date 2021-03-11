@@ -1,1 +1,1 @@
-how can i requir a node modul from the file.
+How to require a node module from the renderer in Electron?

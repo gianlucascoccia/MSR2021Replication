@@ -1,1 +1,1 @@
-can someon pleas tell me how to chang this load screen for an electron app:thi screen appear when the applic start and when there is no network.
+How to change loading screen in electron app?

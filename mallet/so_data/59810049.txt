@@ -1,1 +1,1 @@
-i'v been tri to figur this out for a while and i understand that i need to use browserwindow.close(), but i don't understand how to do that outsid of main.js.ani help would be appreciated.
+Closing an electron window when a button is clicked?

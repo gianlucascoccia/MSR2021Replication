@@ -1,1 +1,1 @@
-i'm use angular 6.0.3, electronj 2.0.2 with the follow package.jsonwhat wrong?
+Uncaught TypeError: Cannot read property 'fn' of undefined, electron 2, angular 6?

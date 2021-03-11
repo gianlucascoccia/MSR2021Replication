@@ -1,1 +1,1 @@
-i am work on an electron.j applic and need to use the ani ideas?
+Require ('ffi') throw error in Electron application

@@ -1,1 +1,1 @@
-doe discord work on mobil platform by use react nativ and work on desktop platform by use electronj ?
+How doe discord work on all platforms?

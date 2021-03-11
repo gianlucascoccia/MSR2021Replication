@@ -1,1 +1,1 @@
-is it possibl to connect to an exist electron applic use spectron? i am not particular sure on how to go about implement this..i'd like to be abl to do someth like:ther are some document out there for use debuggeraddress option in spectron, but i'm not realli sure on whether that is what i am look for, sinc the argument for debuggeraddress is url, like so: 127.0.0.1:1234'.
+How to connect to an existing Electron app using Spectron

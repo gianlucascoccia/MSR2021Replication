@@ -1,1 +1,1 @@
-i'm plan on program a desktop app with electron right now and i need to store data somewhere, but i'm not sure what to use (a databas would be to heavi for this app).i have data like this:and i'm think about creat a data.json file and store those kind of object in an json-array. whenev i need data or want to queri for certain object i would use the fs modul from npm.so my question is if this is a good idea? (also in view of speed and best practice) thanks!:)so is store json object in a file (json array) is a good idea at all?
+Is storing data in a file a good idea?

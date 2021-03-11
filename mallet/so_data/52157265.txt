@@ -1,1 +1,1 @@
-i have an electron 1.7.9 window applic that has been work well and i decid to updat to the latest version of electron, 2.0.8. the applic need to copi some templat file from the electron repositori to the user file system. with the 1.7.9 applic this work fine, howev with 2.0.8 the copi fail becaus the templat file cannot be found. the path to the templat file relat to the applic is:when i debug the application, i am use vs code, it work just fine.ani input would be much appreciated,sid
+Electron 2.0.8 failing to access file in the repository

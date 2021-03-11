@@ -1,1 +1,1 @@
-i am work on a standalon desktop app and seem to have hit a road block. i can success compil and run my electron/vu applic in electron howev i still manual have to run the webpack server, and socket server in anoth terminal. i would like to know the best way to run all servic all at onc or in the background.her is my current main.j for electron:
+Connecting Webpack and Socket Server to electron preload script

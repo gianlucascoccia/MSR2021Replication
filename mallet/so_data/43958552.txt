@@ -1,1 +1,1 @@
-in my electron app, i can creat a menu templat at an extern local file and call it menutemplate.jsth menu work find but i want to be abl to open a local file from it, for exampl about.htmli'v tri window.open('url here') but it doesn't understand window ...here is the template:i'v tri shell.openextern and it work but i cannot get an app window to open from here.how can i do this?
+Javascript Electron Menu open app window from Menu template file

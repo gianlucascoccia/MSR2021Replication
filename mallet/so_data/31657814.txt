@@ -1,1 +1,1 @@
-i have two applic (one in c++, the other one in node-webkit) that communic via osc. when i press when a key is press and the valu is changed.
+Check if an object property change it value

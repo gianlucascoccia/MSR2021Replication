@@ -1,1 +1,1 @@
-is there a way to close the command prompt after a command line program ends?i have an electron app that i am start with a batch file with the follow commands: to the end of the batch file, but this doe not work.
+Quit command prompt after exiting Electron app

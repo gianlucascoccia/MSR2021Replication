@@ -1,1 +1,1 @@
-i am new to electron and make one desktop application. in the index.t file i am creat a window use this code.i have one more compon where i have to resiz this window object and i am struggl a lot in pass the browserwindow handl to the component. is there ani way use react that i can resiz the window with the win handl in the other compon
+access variable from index.ts to a component

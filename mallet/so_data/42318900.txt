@@ -1,1 +1,1 @@
-i have a script in my package.json (i am on win10) in a non-admin command prompt as well.
+Electron Packager - Error: EPERM: operation not permitted, rmdir

@@ -1,1 +1,1 @@
-i tri to creat my first angular applic use electron, so i follow this guid here :electron documentationso i do step by step what is in the guid but when i do this command :someon have an idea about this problem?thank you.
+missing script: start Electron

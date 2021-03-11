@@ -1,1 +1,1 @@
-an erorr (messag net::err_invalid_argu message) occur when run source(fetch) at electron 7.0.0. but when it run at 6.0.0, this error is not occurring. i wonder whi this problem occur?th sourc is below.i use "electron-fetch": "1.1.0"
+net::ERR_INVALID_ARGUMENT messge occur at electron 7.0.0

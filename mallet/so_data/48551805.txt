@@ -1,1 +1,1 @@
-i am tri to work out whi i can refer an import from one file, but not the other (i think it is to do with the way javascript work and that i cannot refer a variabl befor it is defined... if that is the case then i'm hope one of you can give me some refer to a workaround for that.)i am build an electron app with webpack and babel.mi webpack.config.j look like this:so i can call class from app insid test, but cannot do the same the other way around? why?thank for respons in advanc
+Javascript es6 + Webpack referencing import

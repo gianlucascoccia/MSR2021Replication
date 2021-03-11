@@ -1,1 +1,1 @@
-usual in my web-sit i reload page with ani paramet in this way:how i could get the same behavior as in normal html page?
+Node-webkit: reload page with parameter

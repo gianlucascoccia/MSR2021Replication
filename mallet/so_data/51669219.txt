@@ -1,1 +1,1 @@
-after a success build last week i came back to make some chang to a project and
+electron . is rendering a blank screen

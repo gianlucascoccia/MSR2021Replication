@@ -1,1 +1,1 @@
-note: i am veri new to swift program (2 day only) and i am work on this piec of code as part of an electronj project. so pleas don't mind my ignor regard the basic of the language. thanks.i have creat a swift app contain a to the main/render process of the electron application.
+How to get attachment's (NSItemProvider) file path in Swift 'Share App Extension'?

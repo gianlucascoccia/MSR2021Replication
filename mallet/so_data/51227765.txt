@@ -1,1 +1,1 @@
-i am develop a desktop app use electronjs. when i make chang to the main html file or ani of the javascript file that it call i am get a cach version after run the program.th i have tried:open dev tool on the main electron window, clear cach andclick disabl cache'clear cach use win.webcontents.session.clearcache() in the mainprocess.clear node cach use npm cach clean --forceha anyon ever experienc this? is there a way to disabl cach dure development?
+ElectronJS Caching Issue

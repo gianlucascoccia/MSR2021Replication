@@ -1,1 +1,1 @@
-the document for electron state that the nativ maco bounc effect on scroll can be implement use the webprefer object when init the browser window.thi doe not appear to have ani effect when test in 1.3.5. the document is clear at https://github.com/electron/electron/blob/master/docs/api/browser-window.mdi this a bug or have we miss something.
+Electron webPreferneces scrollBounce ineffective

@@ -1,1 +1,1 @@
-i tri to follow the tutori on this website, but after i did it i was unabl to receiv notif as the final result of the tutorialthi is the code that i write: but same as well
+Electron can't recieve Notification

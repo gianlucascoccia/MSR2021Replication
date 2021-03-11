@@ -1,1 +1,1 @@
-we are use firebas realtim databas in our electron application.execut "set" or "update" the first time after authent work flawlessly. however, after wait some time (idl > one minute), execut a updat or set oper is delay by 30 second up to 2 minutes.w are execut the follow snip in a promise:th delay is a veri big problem for us and our users. we have not been abl to reproduc it on maco or linux.what is happen here and how can we solv this problem or debug it further?
+Firebase database loos websocket connection which result in delay

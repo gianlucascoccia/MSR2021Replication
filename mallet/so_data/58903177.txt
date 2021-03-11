@@ -1,1 +1,1 @@
-i am build an app in electron use vue-cli-plugin-electron-builder.i have an edg case where i would like to serv some compon of the app in a browser on a local network.mi thought were to start an express server within the electron app for this.so i would like to know if there was ani way of ad anoth webpack config for this web target.i can see that vue-c allow you to extend the webpack config, but i can't see how you can merg separ target configurations.ani suggest would be appreciated.
+How to add a different target to vue-cli webpack config

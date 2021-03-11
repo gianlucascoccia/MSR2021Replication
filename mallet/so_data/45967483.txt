@@ -1,1 +1,1 @@
-how i can updat a vuex store by commit thing from main proccess? for example:in main thread:
+update Vuex store from main proccess electron

@@ -1,1 +1,1 @@
-i am tri to chang the system time zone insid an electron app, are there ani api avail to chang the system set ?
+Change system time zone using electron API's

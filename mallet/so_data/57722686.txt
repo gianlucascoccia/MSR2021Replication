@@ -1,1 +1,1 @@
-i recent had to updat a nativ modul in my electron project.just to be sure to have a clean instal i first remov all node_modul and reinstal them via npm install. then i rebuilt my nativ modul via electron-rebuild after start my app, i figur that the localstorag had been reset and all my data had been lost.now i am confused. do i need to worri about localstorag be reset when send app updat to my clients?
+Does localStorage get reset when I recompile native modules?

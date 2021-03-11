@@ -1,1 +1,1 @@
-in electron, i'm tri to get file that would normal have anot i'm follow the answer to this question electron auth0lock &quot;origin file:// not allowed&quot; (the question is the same reason i'm tri to do this)
+Electron - is there a way to spawn a node child process without node on the production computer?

@@ -1,1 +1,1 @@
-i'm tri to instal electron use both npm(npm instal electron) and yarn but stuck into a bottleneck issue. pfb the error msgpfb the version i'm using.nod - v12.16.1npm - 6.13.4os - maco mojav 10.14.16
+Unable to install electron using npm and yarn for react devtool

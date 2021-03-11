@@ -1,1 +1,1 @@
-i'm use angular 6 with an electron. when i'm compil the window build the build not get full screen. i'm chang the method in main.t is workarea, workareas etc not it also not working.
+electron Build window not getting full screen (workAreaSize,workArea,maximize) not working

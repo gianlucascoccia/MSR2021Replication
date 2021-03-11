@@ -1,1 +1,1 @@
-on heroku 18 i have an error:successful deploy of electron app on heroku
+Electron App on Heroku and error related to libpng12.so.0:

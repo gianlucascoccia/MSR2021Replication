@@ -1,1 +1,1 @@
-1) is this javascript call not support on atom-shell?window.open('#/openpage','_self',false)2) in nodejs-webkit, i could either reload the html with win.reload() without the toolbar and buttons. is atom-shel support this api as well?3) in the app.j that is program to index.html into the atom-shel
+How do run reload() and open() in Atom-Shell

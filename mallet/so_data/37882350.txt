@@ -1,1 +1,1 @@
-i have a fair complex applic built on angular2/typescript and some other npm modul etc.what i'm wonder is, is there an easi way to convert a webapp into and electron js app?mani thanks.
+Is there a solution for converting pre-built Angular2 apps to Electron.js?

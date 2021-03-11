@@ -1,1 +1,1 @@
-i need to get the system info on the multi platform in ?
+How to get the system information in Electron?

@@ -1,1 +1,1 @@
-how do you add custom applic icon to electron app for
+How to package custom icon in Electron for OSX

@@ -1,1 +1,1 @@
-the app i'm building, when i compil it for distribut pack it with electron-builder, everi now and then, dies, show a blank screen and a disconnect devtools:ani idea what go on or how to start figur out what happen here?
+Electron dying without any information, what now?

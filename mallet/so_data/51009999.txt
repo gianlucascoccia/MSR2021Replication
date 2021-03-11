@@ -1,1 +1,1 @@
-i have two file , one name is not defin
+Javascript : how to call a function from an html page that is in a script file

@@ -1,1 +1,1 @@
-i can add the , but not sure. how to make it work with electron. can someon fatcat give me a clue?
+Failed to install node-libcurl for electron 5.0.10, both on mac and window

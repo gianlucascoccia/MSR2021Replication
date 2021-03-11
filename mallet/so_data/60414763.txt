@@ -1,1 +1,1 @@
-i'm develop a vue applic that run in electron. for eas of setup i'm use vue-c with the vue-cli-plugin-electron-builder.i creat the project using:?
+ECMAScript class property not possible in vue electron application?

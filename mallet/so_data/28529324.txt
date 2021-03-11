@@ -1,1 +1,1 @@
-i have a servic dbservic written in angular.
+Promise not resolved in karma when testing a service

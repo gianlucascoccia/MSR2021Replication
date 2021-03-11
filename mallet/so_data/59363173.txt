@@ -1,1 +1,1 @@
-i have a map with event associ with "click" that get fire when use mous but if i use the touch screen they don'texampleblarg get log if i click on the map with a mous but doe not if i touch the map with a touchscreen. this is on a window comput and in an electron app (latest version of mapboxgl-js)
+map.on("click") event not getting triggered by screen touch

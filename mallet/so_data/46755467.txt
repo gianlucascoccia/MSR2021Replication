@@ -1,1 +1,1 @@
-i am write a file system applic in the electron. when the user right click on file, i want to show a list of support applic which can open the file as happen in os platform. if this technic possibl with electron framework or ani other framework provid this kind of feature.
+Provide open-with option to user

@@ -1,1 +1,1 @@
-i know the titl isn't a proper question but.. i am have this issu where, whenev i set but none of them work.everyth is fine if i don't remov the titl bar, which kinda ruin my modern design. oper on window 10
+Nothing get focused when Electron window is set to frame: false

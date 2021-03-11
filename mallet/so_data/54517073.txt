@@ -1,1 +1,1 @@
-i'm set up an electron app, with a index.html that contain a webview. the webview got a revers proxi attach to it, chang all "/" routes. this mean that i can't load ani cdn librari (jquery) in the webview. is there a way to still load jquery? current if i tri with:update:it not onli jqueri but also other libari
+How to Load JQuery in electron webview with proxy

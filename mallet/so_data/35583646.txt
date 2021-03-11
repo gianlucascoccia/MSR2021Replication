@@ -1,1 +1,1 @@
-this packag electron-compil look veri cool, but i'm have troubl get it to work. i'm get this error:
+How do I use electron-compile for jade files?

@@ -1,1 +1,1 @@
-on angular, the onli thing to do is to creat a
+Call API from Electron-Angular project by proxy config

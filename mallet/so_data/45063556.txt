@@ -1,1 +1,1 @@
-similar to this although it onli show how to download the develop tool in one instance. i want to load this in everi time i start the app in
+How do you add react developer tool to an Electron Webpack build

@@ -1,1 +1,1 @@
-i notic that electron-packag has hide the top menu bar after we compil an exe file if compar to electron-prebuilt. is there way to unhid it? i need to use it for user to choos some settings.sam topic reference:github
+Unhide the menu bar for app after compiled with electron-packager

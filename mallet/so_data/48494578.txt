@@ -1,1 +1,1 @@
-i can't seem to find ani document on this for webviews. is there a way to get the ssl certif inform from a webview?
+How to get the ssl certificate information from a webview?

@@ -1,1 +1,1 @@
-i have begin experiment applic with blazor/electron.i have fork the project :https://github.com/stevesandersonms/blazorelectronexperiment.samplewhen the applic is closed, it need save the applic state.for this, i think it need handl the close event and save applic state befor the final close.how do handl the close event?hav you other solution?
+Blazor/Electron : Handling close event

@@ -1,1 +1,1 @@
-ani ideia whi my node onli run in http? the node keep run but if you put https in browser the node will not work properly, as it onli work proper on http,
+Node not working properly

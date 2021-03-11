@@ -1,1 +1,1 @@
-i am tri to creat electron app which can manag airplay on macosi am use angular and typescript to wrap api from this npm packag airplay npm packag : this is the code i am use in typescript : error: cannot find modul airplay at module._resolvefilenam at function.module._resolvefilenam at function.module._load at module.requir at requir at t.init at new t at bs at gs at ys
+Cannot find module Error while importing node module in angular typescript file

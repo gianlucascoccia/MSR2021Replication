@@ -1,1 +1,1 @@
-take a look at this piec of code from an electron menu template: doesn't.accord to the documentation, both key can be regist as an accelerator. is it possibl that it a bug, or i do someth wrong?
+Certain Electron accelerator not working

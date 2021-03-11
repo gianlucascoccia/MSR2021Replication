@@ -1,1 +1,1 @@
-in electron i want to trigger a javascript function in a browser window when that browser window is shown.th code i have at the moment is as follows:main.j (main process) is the function in the browser window that i want to execut when the browser window is shown.ani ideas?
+'onShow' event needed in Electron browser window

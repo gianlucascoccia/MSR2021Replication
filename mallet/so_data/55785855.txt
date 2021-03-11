@@ -1,1 +1,1 @@
-i am use however, i do not get ani data in the frontend.ani suggest what i am do wrong?i appreci your replies!
+Send data to renderer process

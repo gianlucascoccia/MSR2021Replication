@@ -1,1 +1,1 @@
-i am tri to pass on electron my angularj applic base on d3.js. the applic work perfect when i tri it with chrmoium but when i tri it on electron, i have the error referenceerror: d3 is not defined.thi is the declar of the d3 :
+D3.js not defined with Electron

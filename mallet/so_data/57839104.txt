@@ -1,1 +1,1 @@
-i have develop angular app with php back-end. to run angular front end, it must access data from the back end too. i need to run front end as a electron desktop app. i tri it with electorn by use but it won't work without the server. so i need to run the 127.0.0.0:8000/index.html link insid electronj app. is this possibl and if it is, how can i do it?
+How can I use electron j app a a web browser for one localhost link?

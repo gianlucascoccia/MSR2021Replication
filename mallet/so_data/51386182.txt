@@ -1,1 +1,1 @@
-doe an electron webview have a window handl similar to how a browserwindow doe (ie browserwindow.getnativewindowhandle)?if so is it possibl to retriev the window handl of a webview?mi applic need to send an hwnd to anoth application. the other applic then use the hwnd to render data into. i can current do this use a second child browserwindow but would prefer to emb it within the main window as oppos to a child window. wonder if webview can provid what i need?thank
+Electron WebView Window Handle

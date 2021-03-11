@@ -1,1 +1,1 @@
-i am tri to load a log-out url onc the app close button is hit, someth like the following. problem is that i am receiv an error that the window is alreadi close and can't load. ani help achiev this will be appreciated.
+Electron app load external URL on application close

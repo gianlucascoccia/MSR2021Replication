@@ -1,1 +1,1 @@
-i am make an applic use atom-shel that need to load sever html pages. each time i load a differ page, i need to execut some custom script. for this i am use
+How to unregister event in electron?

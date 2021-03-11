@@ -1,1 +1,1 @@
-i'm tri to provid addit authent for user within an app. with email/password auth alreadi implemented, i want to add facebook/ googl authent as well.i'v tri with .mi question is - how can i make it possibl to use facebook/ googl auth within an electron app?
+Electron: Firebase and Facebook authentication?

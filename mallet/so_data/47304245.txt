@@ -1,1 +1,1 @@
-i apolog for my ignorance, but not sure how i execut my packag project. here is outcome: how do you execut the build ?
+Electron : Wrote new app to release-builds : Is this successful ? What happens next?

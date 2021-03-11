@@ -1,1 +1,1 @@
-in electron, is there a way to get the current focus window dure a call to
+In electron, BrowserWindow.getFocusedWindow return null when invoked from dialog.showSaveDialog

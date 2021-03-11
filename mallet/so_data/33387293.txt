@@ -1,1 +1,1 @@
-i'm tri to make someth like pdf download with node-webkit. i have an input tag for the url with some valid code. it work just fine so far .. but when i tri to put url like this one(chrom extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.semantikon.com/stealthisbookbyabbiehoffman.pdf)nod web-kit give me this error :thank
+Error on downloading file with node-webkit ( "chrome-extension" in the URL)

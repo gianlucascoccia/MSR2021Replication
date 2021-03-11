@@ -1,1 +1,1 @@
-i'm run electron on linux server for web scraping. and current i'm run new electron command for each task. but it result in high cpu usage. now think about run singl electron instance, and creat new browserwindow for each task. it will take some time to adapt the code base for this style, so i want to ask here first. will it make a differ in cpu usage, and how much?
+Electron running multiple main process v multiple browser window

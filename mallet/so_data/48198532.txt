@@ -1,1 +1,1 @@
-i am tri to write a gui with node and electron around an exist rubi command line application. i found an exampl how to get output from a child process by do someth like:i get no output. it seem to hang on the output. i would expect to see test print everi 2 seconds.
+Unable to get output from infinitely running Ruby application spawned from Node child process

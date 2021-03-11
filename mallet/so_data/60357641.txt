@@ -1,1 +1,1 @@
-i'm creat an app that can go back and forth between window 1 to window 2. i keep both window open but hide the one not current in use use currentwindow.hide(). i want to increment a counter each time i come into window 2. i tri to use the code from use ipc in electron to set global variabl from render to set a global variabl and increment it each time i come into window 2:main.jsunfortunately, everi time i come back to window 2, lv is null! can this be done, or am i do someth wrong?
+Using ipc in Electron to set global variable from renderer (again)

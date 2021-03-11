@@ -1,1 +1,1 @@
-i am tri to includ the sqlite3 packag into my electron project. i i get this error:hav done postinstall. it run correct on nodejs.node_modules/sqlite3/lib/binding/electron-v4.0-darwin-x64/node_sqlite3.node'wa compil against a differ node.j version usingnode_module_vers 64. this version of node.j requiresnode_module_vers 69. pleas tri re-compil or re-installingth modul (for instance, use ).
+Issues with using sqlite3 with electron on Mac OS

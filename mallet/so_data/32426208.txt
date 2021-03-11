@@ -1,1 +1,1 @@
-i'm tri to run background task (file system scanner) use nw.js.in electron, it can be done use but that impli bundl node.j into my futur app...anoth idea?
+Running background task in node-webkit (nw)

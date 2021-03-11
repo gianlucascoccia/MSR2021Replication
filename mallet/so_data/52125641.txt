@@ -1,1 +1,1 @@
-i'm tri to creat an electron app, but mani node-lib caus the doesn't help.
+Electron+Webpack = Module not found: Error: Can't resolve fsevents/fs/etc in chokidar/etc

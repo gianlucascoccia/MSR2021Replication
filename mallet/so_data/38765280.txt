@@ -1,1 +1,1 @@
-first of all, i creat a tag and build my app with electron-packager:furthermore, i tri to build my app again with electron packager, but it didn't work now! i get the same problem.i checkout my app to the previoulsi work tag, and it neither work.unfortunately, the code can not be distributedthanks!
+Building electron app fails with Electron packager and electron builder

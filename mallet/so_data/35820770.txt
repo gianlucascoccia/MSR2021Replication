@@ -1,1 +1,1 @@
-i am have a problem with electron to run the version build on windows, maca javascript error ocur in the main process
+electron fail when run build version

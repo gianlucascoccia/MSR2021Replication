@@ -1,1 +1,1 @@
-i creat a new angular2 app use the angularc (just so you know my directori structure).run but that still give me issu as the vendor file refer other file insid the same directories:edit:i am now tri to use webpack to build my electron app (with no success).i also creat a github repo if you would like to see the code.
+electron + angular2 loading vendor lib

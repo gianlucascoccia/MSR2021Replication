@@ -1,1 +1,1 @@
-i have this splice line, with a debug line either side:
+What external context could cause splice to not do anything?

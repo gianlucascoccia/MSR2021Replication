@@ -1,1 +1,1 @@
-summaryi have an electron/electron-build + react app. i'm tri to implement autoupdater. i can publish just fine, but open up the product app doesn't seem to do anything. i have a privat repo, gh environ variabl set, and my gh token in the code. i'm on this config:i then tri test out that link in the browser, and found almost all link i tri were either unauthor or 404'd. github say in dev doc that they will often push 404 to not expos extra info when it actual an unauthor call.
+Electron-Builder autoUpdater not detecting new updates?

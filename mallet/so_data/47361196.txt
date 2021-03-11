@@ -1,1 +1,1 @@
-consid the follow code snippet: and wait some time when it fired), the code work as it exact expect to.what is wrong with that code?
+Nightmare then() invokes immediately after evaluate()

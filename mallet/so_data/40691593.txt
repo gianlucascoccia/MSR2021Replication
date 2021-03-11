@@ -1,1 +1,1 @@
-i'm have difficulti access lodash in an electron renderer. i'm new to electron and understand that both the main process and the render (local html file) have access to node. i can requir someth nativ to node core such as is an empti object.am i miss something? can you onli run core node modul in a renderer?
+Electron - NPM Modules in Renderer

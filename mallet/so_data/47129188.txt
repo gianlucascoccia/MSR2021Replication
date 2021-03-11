@@ -1,1 +1,1 @@
-i have an html document with tabl and inlin css to align text, specifi width and font weight.i tri to print the html document with a generic printer (bixolon srp-275ii) and print all data without ani format. i wonder if it possibl to print the document in html format with a js/jqueri pluggin or do i need to convert it to pdf?im current experi with electron and tri to creat a pos desktop app with silent print to the receipts. ani help is welcome!
+Is it possible to print an HTMLdocument with a generic (text only) printer?

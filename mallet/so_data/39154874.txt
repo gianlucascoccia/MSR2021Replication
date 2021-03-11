@@ -1,1 +1,1 @@
-when i run:it download "electron-v1.3.4-linux-x64.zip" (42mb)i'd like it to look for that file somewher locally, like /home/vagrant/packages/electron-v1.3.4-linux-x64.ziphow can i do that?also, i'm awar that electron-download caches, but i'm ask for a ci server that doesn't persist the cache.
+Make electron-packager use local files, v downloading from internet

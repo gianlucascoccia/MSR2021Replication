@@ -1,1 +1,1 @@
-i want to store cooki in electron application. i have written a queri to set a cooki in my electron application, it is set and print in the console, after open my electron applic it is not show in cooki storage. and i don't know which url to use to set the cookie.i am use queries.
+store cooky in electron application

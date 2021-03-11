@@ -1,1 +1,1 @@
-i tri to use electron and angular5 to write my first desktop app but unfortun i am stuck in use the fs module. it seem that i have import fs correct (no error within visual studio code and code completion) but when i tri use "fs.readfile" the consol print out this error:do i miss someth here? seem that fs is not load or something? thank for your help everyone!
+How can I use node "fs" in electron within angular 5

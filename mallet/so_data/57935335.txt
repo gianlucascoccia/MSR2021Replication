@@ -1,1 +1,1 @@
-i'v a vue project creat with vue cli 3 and i'v instal vue-electron-build plugin to make electron app with vuejs. now i'v an exist electron app and i want to move the file from the exist electron app to the vue project but i'm confus :(
+I've a project created with VUE CLI and I've installed vue-electron-builder plugin

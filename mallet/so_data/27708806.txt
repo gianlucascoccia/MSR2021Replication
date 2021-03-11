@@ -1,1 +1,1 @@
-i would like to detect when the user has given focus to anoth applic (for exampl googl chrome) and then read in as much inform about that applic as is possible, title, file name, descript etc what the best of achiev this on windows?
+How do you create an event in nodejs-webkit for when the user focus another application?

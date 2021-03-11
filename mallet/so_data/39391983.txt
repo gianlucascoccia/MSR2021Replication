@@ -1,1 +1,1 @@
-i would like to know if there is a way to make an applic with atom electron that run and get my keyboard event when the user is/isn't focus on my app.for exampl if he is on chrome and write something, my app will store all the key that he pressed. i search a littl but didn't find someth that solv my problem.
+Atom Electron capture all keyboard event even when app is unfocused

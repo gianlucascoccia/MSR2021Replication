@@ -1,1 +1,1 @@
-use webdriverj in test a nodej app with selenium. tri to figur out how to doubleclick.i tri but it doesn't seem to trigger the action on the web page.
+How to double click

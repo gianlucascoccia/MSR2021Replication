@@ -1,1 +1,1 @@
-well i have an applic that print receipt use a spooler made from the compani of the fiscal printer that i use to this.thi spooler print use command line that i send it on a file. onc i send it and start to print and the spooler releas the thread, while continu printing. onc it finish this spooler generat a log file, with some data that i need to save on a database.mi problem is when i send the event for print and this start, but never read the file log on product while isn't compil it work perfectly.
+Sync call electron on nodejs

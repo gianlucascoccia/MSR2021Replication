@@ -1,1 +1,1 @@
-electron applic crash after
+Electron osx systemPreferences.askForMediaAccess crash app

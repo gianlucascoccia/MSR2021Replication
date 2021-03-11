@@ -1,1 +1,1 @@
-i want to subscrib to the window move event that .lastly, i found a way to get the window posit in the atom docs, but i don't know how that would be use without polling.
+How do I subscribe to a "window move" event in the Atom edtor?

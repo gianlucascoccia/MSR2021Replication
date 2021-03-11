@@ -1,1 +1,1 @@
-i'm use
+Console.time always return 0.000ms

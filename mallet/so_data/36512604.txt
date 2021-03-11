@@ -1,1 +1,1 @@
-i'm use net.socket.cli to creat connect as mani as possibl in electron on win7 platform.her is my code:just about 5000 connect has been accepted, am i wrong? or someth should be set to unlock the limit on win7.bi the way i search googl about win7 tcp limit and found win7 has no tcp count limit.
+Node net.socket.client too many connection error

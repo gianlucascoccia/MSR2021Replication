@@ -1,1 +1,1 @@
-environmentnw.j v0.12.3 (32 bits) window 8webchimera.j (player) vlc build (2.2.1)require-newproblemnew window is open from parent window. webchimera modul is load but it crash becaus it window object point to parent window. that is becaus nw.js cach it modules. parenta possibl solut to this problem is to use localstorag instead, to communic between windows.
+NW.js not clearing cache correctly

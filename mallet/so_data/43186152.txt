@@ -1,1 +1,1 @@
-i have built an electron app use electron-react-biolerpl .how to creat a ppa (launchpad) for an electron app ? is there ani document avail for this ??
+How to create a PPA for Electron app

@@ -1,1 +1,1 @@
-i need to build a cross platform app with multipl windows. so i would like to know how to use html templat in electron.
+How to use html template in electron framework?

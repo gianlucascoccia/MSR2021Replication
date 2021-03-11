@@ -1,1 +1,1 @@
-i'm tri to set an electron icon for my app. i tri this:but it doesn't work for me. i read in other question (like this) that set the icon properti when creat the browserwindow onli has an effect on window and linux. but i'm current on linux, not in mac os.how can i deal with this? must the icon have a fix size or something?thank in advance!
+Electron (Atom Shell) app icon

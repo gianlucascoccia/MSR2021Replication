@@ -1,1 +1,1 @@
-we are look into migrat our objc applic to an electron one, sinc the nativ one is just a webwrapp around a websit already.w are miss one import feature: the abil to use quicklook to preview files. we manag to wrap launch an app in the dock, and can spawn multipl instanc of it, unlik qlpreviewpanel.do anyon manag to use quicklook proper with electron?i it possibl to creat a npm modul in c++ use the foundat framework from apple, and then requir this modul from electron?ani insight would be great appreciated.
+Using QLPreviewPanel with Electron

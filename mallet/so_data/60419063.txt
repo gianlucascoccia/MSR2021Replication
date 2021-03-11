@@ -1,1 +1,1 @@
-i'm work on an electron project, and i want to run it on my raspberri pi 3 b+, which is on raspbian (instal with noobs). i first tri to build my electron app with the follow command, and then import it on my rasp through ssh.the app run on my comput just fine, but it doesn't launch on my raspberry. i then tri to just git clone my whole project direct on it, but again, i didn't succeed to make it work.do anyon know whi it doesn't work on raspbian ?
+Can't use an Electron built app on Rasbian

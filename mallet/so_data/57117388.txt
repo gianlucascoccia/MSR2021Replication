@@ -1,1 +1,1 @@
-i'm use the fetch api to download file from within an electron render process. the server provid a self-sign certificate. electron throw the follow exception:i do not want to turn of ssl/tls entirely. use
+How can I ignore SSL/TLS validation using the Fetch API?

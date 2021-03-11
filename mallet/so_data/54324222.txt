@@ -1,1 +1,1 @@
-i'm tri to find a way to make electron go from minimized, back to the last size of the open app - that is, simul what happen when you click on a minim app normally.what i ideal want (but obvious doesn't work as it is not a function):if anyon has a cool trick to simul this function, or atleast a tip on how to go from minim to a set screen size, you'd make my day! :)
+Electron "unminimize"

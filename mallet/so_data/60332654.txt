@@ -1,1 +1,1 @@
-hi i am develop an electron-react app use create-react-app boilerpl and electron-build to packag and deploy it.however, on run electron-build use yarn in the cl it show this error.
+Running electron-build on my create-react-app app come up with an error?

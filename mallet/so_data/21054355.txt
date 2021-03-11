@@ -1,1 +1,1 @@
-i'v a realli simpli html file with onli a simpl link and click on the link, on the consol i see this: resourc interpret as document but transfer with mime type application/pdf: "file:///c:/node-webkit-project/output.pdf".how to allow open of pdf ?
+How to simply serve a bundled PDF?

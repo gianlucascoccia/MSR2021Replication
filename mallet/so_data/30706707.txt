@@ -1,1 +1,1 @@
-i have tri to regist global keyboard shortcut use electron global-shortcut module, as per the document page. (https://github.com/atom/electron/blob/master/docs/api/global-shortcut.md)however, i receiv the follow error in my consol when i run electron:i am run electron on ubuntu 14.04 lts. i would like to ask if this error is platform-specific. are there ani step i miss out from the document page? if there isn't, is there ani way to get around this error? thanks.
+Fatal error when registering global shortcut in Electron

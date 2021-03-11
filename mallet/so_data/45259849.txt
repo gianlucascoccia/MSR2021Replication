@@ -1,1 +1,1 @@
-my dir structur is this:howev it is not working. may you pleas show me how to do this with relat path?
+Use relative path in BrowserWindow.loadURL

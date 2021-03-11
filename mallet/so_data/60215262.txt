@@ -1,1 +1,1 @@
-in my electron app, i'm creat a for this to work?
+Electron "-webkit-app-region: drag" doesn't work in BrowserView content

@@ -1,1 +1,1 @@
-electron is known to run applic in differ platform ( window and linux ). i am run simpl hello world program.index.htmlcopyright (c) 2013-2019 github inc.'but in window , i see app work correctlycan someon tri to packag this simpl electron app use electron builder and tri to run in linux and tell me procedureani suggest on run electron after it is packag use electron packag will be of great help
+How to run electron app in linux after it is packaged using electron packager

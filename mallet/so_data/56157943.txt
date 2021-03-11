@@ -1,1 +1,1 @@
-i want to when a person choos a file,that file convert to uint8array data.how can i do that?i need someth like that.i need to do that in js and html onli becaus i'm use electron and that onli support html,js and css.thank you
+How to get path of selected file in javascript

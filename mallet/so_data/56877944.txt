@@ -1,1 +1,1 @@
-i have an electron it is almost work as intend but there is still the top part of the frame or titlebar that is visible:i there ani way to complet remov this?
+Electron frameless Browser Window doe not completely remove entire frame/title bar on Mac

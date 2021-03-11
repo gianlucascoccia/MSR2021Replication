@@ -1,1 +1,1 @@
-i am tri to add a folder selector to my node webkit app. look at the doc i can just use:how can i get just the folder path as i will then use this with the fs modulethank
+Node WebKit: File Dialog select directory path

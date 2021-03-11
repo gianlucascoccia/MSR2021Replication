@@ -1,1 +1,1 @@
-electron version: 1.0.0 oper system: description: ubuntu 12.04 lts, release: 12.04there is a problem with same sourc video but with differ id in variabl myvideo1 and myvideo2but i am get the follow error: uncaught typeerror: cannot read properti hasclass of undefin
+Electron App: jquery Uncaught TypeError: Cannot read property 'hasClass' of undefined

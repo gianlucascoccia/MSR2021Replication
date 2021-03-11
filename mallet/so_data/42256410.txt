@@ -1,1 +1,1 @@
-i'm tri to set up communic between a chrome extens and an electron app on osx.i have the json file in i don't see anyth in the logs. is there someth i'm miss here?
+Chrome Native Messaging with electron app

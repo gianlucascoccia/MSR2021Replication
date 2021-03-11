@@ -1,1 +1,1 @@
-so, i'm tri to creat a simpl save dialog, where the user can select a locat and filename, and it will creat a file at that specifi location.i'v follow the docs, and also check out some tutorials, the code is exact same, but appar in my case when i open the dialog, select a locat and click save, i don't get ani respons back in the callback of dialog.showsavedialog method.sorri if this is a noob mistake, i'm just start into electron.her my code:electron: v7.1.8
+dialog.showSaveDialog doesn't return anything

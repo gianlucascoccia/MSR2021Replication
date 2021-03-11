@@ -1,1 +1,1 @@
-i'v written a custom node addon that work perfect fine when run the 64 bit version of electron.i tri set the architectur to ia32 and everyth builds, but i get the not valid win32 applic error, no matter what i do.mi environ set are:i have been build the addon by call npm install.
+Electron throwing error %1 is not a valid win32 application with custom node addon

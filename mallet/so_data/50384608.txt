@@ -1,1 +1,1 @@
-problem: i need to choos folder from server-fold but i can't see it.
+How can i see custom bookmark in electron.dialog.showOpenDialog with Ubuntu?

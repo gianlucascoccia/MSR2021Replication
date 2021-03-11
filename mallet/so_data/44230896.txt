@@ -1,1 +1,1 @@
-i am work on a simpl smart mirror project with javascript and electron. i was abl to get the softwar work on my laptop but when i move it to the raspberri pi i am have issu instal npm. after enter "npm install" i get this:
+Trying to install npm on Raspberry Pi Error

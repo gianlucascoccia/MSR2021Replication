@@ -1,1 +1,1 @@
-so electron has a featur where you can make a browserwindow frameless with frame option set to false. from version 1.4.14 and onwards, dock (with window key + left/right) or drag the window (and maximizing) doe not work anymore.i can't find ani api chang in the electron releas or anyth specif in the document regard this feature.i'm upgrad from electron 1.4.4 to 1.7.10.to reproduce: https://github.com/perfectioncsgo/electron-dwm-issu
+How to enable window docking with frameless electron window

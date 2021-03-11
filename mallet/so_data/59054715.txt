@@ -1,1 +1,1 @@
-in an electron app (mine is develop with quasar), how to display an imag relat to the current path use ...but none of them work.not : the imag are not in asset and should be relat to the current directori
+How to display from html a local image using relative path with electron?

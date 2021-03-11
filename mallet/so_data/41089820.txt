@@ -1,1 +1,1 @@
-i have start with electron today and follow a guid to creat a simpl applic browser window and i ran npm start in the command window and it display a lot of error after i had enter it, i have post the inform below and my code.consol error:
+Error when running "npm start"?

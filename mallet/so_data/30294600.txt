@@ -1,1 +1,1 @@
-i'm still new to electron which i'm current follow here.i'v read this page regard on how to includ the chrome devtool so that i can debug my applic easily. i'v follow the document but onc i execut the ani help would be great appreciated. thanks!
+How to include Chrome DevTools in Electron?

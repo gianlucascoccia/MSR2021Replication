@@ -1,1 +1,1 @@
-&#xd;&#xd;&#xd;&#xd;&#xd;this code work fine in my web applic but when i am run in electron use npm run electron then it give error. what chang will i need to do so that, it start work in desktop app also. i tri search find one link enter link descript here but did not get much information.
+Authentication for desktop apps like in electron using firebase

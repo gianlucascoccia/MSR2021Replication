@@ -1,1 +1,1 @@
-node-webkit expos a way to select a directori with
+Binding node webkit nwdirectory to ngmodel

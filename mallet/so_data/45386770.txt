@@ -1,1 +1,1 @@
-i find it difficult to understand how to differenti between the main process and the render in the code.her is my file structure:i want to write a method in the server side and call it in the front-end side.wher should i write it? in the main or render process?and if i wrote the method insid folder from abov image, will it be consid in the main or render process?
+Electron - Main process v Renderer Process

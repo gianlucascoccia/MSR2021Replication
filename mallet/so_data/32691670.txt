@@ -1,1 +1,1 @@
-i am tri to turn my node app into a desktop use electron. in my current code i use a "post" request and the res.send() to return data back from my node script. express handl the end points.however, when i tri and use the same code with electron i getto my electron browserwindow config but this has not helped.can anyon share a sampl of do a jqueri post request in electron. be a big help. thank
+electron use post request fails

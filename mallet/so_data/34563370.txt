@@ -1,1 +1,1 @@
-i am tri to creat an app use the nodewebkit.i am scrape content use node-phantom-simpl module.us the module, i was abl to scrape content off the website. but how should i access it on the html side. i don't think i can creat a rest servic for this case.her is the code sample:thank for the help!
+How do I access the scraped data from node module in my html code in NodeWebkit

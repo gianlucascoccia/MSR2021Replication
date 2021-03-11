@@ -1,1 +1,1 @@
-i'm develop an angular webapp which work veri well on browser. when i want to put it on electron browserwindow, i encount a problem with 3rd parti librari integr such as jqueri which is requir by bootstrap.th next cheat at the end of site ```ani help pleas :)
+Electron jQuery without require on html

@@ -1,1 +1,1 @@
-when i build the heap snapshot it get to the step is it possibl i have done someth in my code to caus this? ask here to avoid accident file a frivol bug report. thank veri much!
+Error building Memory Heap Snapshot (Electron 1.7.9 w/ Chrome Devtools) - Bug, or user error?

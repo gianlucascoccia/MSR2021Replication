@@ -1,1 +1,1 @@
-i am experi with electron and attempt to use ej for layout and partials. i can not get it to work tri the instruct here and can not find anyth better. i am new to node and it all seem a bit over complex to setup. it make me wonder whether i should be use ej and templat for nativ app develop in the first place..?
+How to / Should I use EJS template on Electron?

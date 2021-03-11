@@ -1,1 +1,1 @@
-i'm a littl bit confus about a strang thing. i hope i get some explan about this behaviour.her is my littl learn project. a simpl tcp client-serv chat program. the client is written electron but it not work yet.mi chat modul is:aft from the index.html i send the start-connect method, the electron throw error: chat.join is not a function and i don't know whi becaus the event handler is a closur right? pls help me out :)
+Electron TypeError in ipcMain event handler

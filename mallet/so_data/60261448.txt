@@ -1,1 +1,1 @@
-i have a requir where i onli need to keep all the data that are not older than 7 days. all the data older that should be auto delet from the database. i want to do this in nodej in expressj server.i have read that i can use setinterval() function for this.i want to know how do i write the delet request to delet onli those record that are older than 7 days.and, if there a better a way to do this??
+How do I auto delete all records/rows that are older than a week in NodeJs?

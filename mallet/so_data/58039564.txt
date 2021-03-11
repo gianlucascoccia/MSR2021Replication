@@ -1,1 +1,1 @@
-how can i set my sass url chang to pubilcurl?i set webpack, vue.confing.js, . but didn't work.i can't use englist not well. but read your code and use googl translate.vue.config.jsi want to chanag "background: #e8e0e0 url(/static/main_bg.jpg)" => "background: #e8e0e0 url(./static/main_bg.jpg)"
+how can i set publicPath webpack + electron-vue

@@ -1,1 +1,1 @@
-i'd like to develop an app use node-webkit which allow to connect to some remot databas server specifi by user. for convini i would like to save the requir passwords.what is the best way to secur store data in node-webkit?i safe enough?
+Node-webkit secure data storage

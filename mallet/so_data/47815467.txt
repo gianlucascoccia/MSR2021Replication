@@ -1,1 +1,1 @@
-it look like some execut do not shut down correct on windows. after stop the application, and delet the correspond exe file, it immedi pop up again in the folder. i have to wait for some time (sometim even minutes) until i can realli remov it. is there ani reason/solut for this strang behavior?thi is veri annoying, becaus i'm creat a releas directori with a batch script, which previous remov the releas directori in case it alreadi exists.
+Cannot delete EXE after stopping the application

@@ -1,1 +1,1 @@
-i have a node-webkit project with a .
+Node.js cannot require a .js file in the same directory

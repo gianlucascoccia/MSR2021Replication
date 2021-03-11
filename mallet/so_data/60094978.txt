@@ -1,1 +1,1 @@
-i'm work on a vue-electron app, which should show a video stream from a devic and send command to this device.th first task is to connect via udp to this device. now i'm think about how to do this the best way and which javascript librari i should use.i it the best way (or the only?) to use object?i there some udp javascript librari out there, which work well with electron?
+How to use UDP in an Electron App (Vue.js Frontend)

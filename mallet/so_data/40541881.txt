@@ -1,1 +1,1 @@
-i am tri to run nightmarej on elast beanstalk and i keep have an issu with electron. error: eacces: permiss denied, mkdir /tmp/deployment/application/node_modules/electron/electron-tmp-download-2233-1478789913678'her are the full logs: https://gist.github.com/quentindela/49e824c5889e14e899eafbe850d23055would you have ani idea on how to fix this? thanks,
+NightmareJS & Electron on Elastic Beanstalk - Permission Denied

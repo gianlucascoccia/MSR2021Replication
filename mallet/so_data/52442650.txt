@@ -1,1 +1,1 @@
-i am on an electron + creat react app stack.i am use electron updat (https://github.com/develar/electron-updater) for auto updates.platform: linux, format: appimage.when my app check for updates, i get the follow error:appimag env is not defined.ha someon experienc the same issue? suggest required.
+Electron-Builder Linux update - APPIMAGE env is not defined

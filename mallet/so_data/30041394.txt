@@ -1,1 +1,1 @@
-i current have a chrome packag app that we have also port to ipad, but i want to make it install- use node-webkit (nw.js) and i need to abstract the chrome packag app api for use with chrome.filesystem. the code i am current use to save is as follows.
+Abstracting the chrome packaged app filesystem for use with node-webkit

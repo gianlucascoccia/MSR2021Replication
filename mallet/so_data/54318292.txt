@@ -1,1 +1,1 @@
-i need to remov the tooltip from the button.i'm use angular/electron for a desktop application.i have the follow code in the .html file:thi is the x button in the upper-right corner of the screen. when i hover the mous over it i get a tooltip "menu_cancel" abov it.how can i remov that tooltip? the button is self-explanatory, and the user doe not need to know the filenam used.thanks.
+How to remove tooltip from [mat-icon] button in an Electron application?

@@ -1,1 +1,1 @@
-i'm tri to make an electron app use angularj with menu items. i can defin this menu item in the main electron javascript file like this:but i don't know how chang the state (i'm use ui-router) of angularj when the user click on the submenu.also i'm tri to chang the menuitem depend the control (or state) within the application. i know i can't do a require('menu') insid the angular code so, how can i chang the menu item in a controller?thank
+Change AngularJS state on menu click in an Electron app

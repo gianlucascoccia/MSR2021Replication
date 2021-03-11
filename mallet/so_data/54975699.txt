@@ -1,1 +1,1 @@
-when i run this and click on the submenu item for "ports" i keep get this error than mainwindow is not defined. whi is that? you can see i have it defin in the main.j file so whi doesn't this regist in the menu.j file?th end goal here is that when i click on the correct port in the menu i can send that valu to the render so that i can make serialport connect to right the right serial port.main.j
+Electron JS mainwindow is not defined

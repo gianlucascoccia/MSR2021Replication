@@ -1,1 +1,1 @@
-elsewher on the net i had seen this kind of solut for use chromium webdriv to inspect and test an electron appwhich i have seen can be caus by the dev consol be open - but i don't see that be open here. is there anyth out there that give ani pointer on this type of approach, and more use on what this error means. i have the feel that just use spectron is go to be easier, but i want to check out a tech i alreadi know first.
+Chrome and Electron in Selenium

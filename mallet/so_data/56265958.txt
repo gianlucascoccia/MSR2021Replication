@@ -1,1 +1,1 @@
-i'm use create-react-app (react-script v3.0.0) and electronj (v5.0.1). i'm tri to pass event from the render to main process use the icpmain modul as describ here, but get the error into the global scope in the render process? or is there anoth way of communic between the main and render process? edit: i'v tri remov the react build entir and get the same result simpli use the electron exampl code in index.html.
+Electronjs window.require not a function

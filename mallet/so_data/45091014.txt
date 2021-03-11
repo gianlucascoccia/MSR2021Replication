@@ -1,1 +1,1 @@
-i have an electron app which use a is this even possible?
+Electron: Send message from BrowserWindow to Electron app

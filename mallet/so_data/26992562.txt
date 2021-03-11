@@ -1,1 +1,1 @@
-i am work on a desktop applic use second time in windows, it gave follow error: error: "cannot initialis the web database: 2"is there ani way i can run multipl instanc of nodewebkit in windows?thank in advanc
+Running multiple node-wekit instance in parallel

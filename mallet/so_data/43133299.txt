@@ -1,1 +1,1 @@
-i can't find "testdb.db" anywher in my computer, but the consol log show the data exist!ani suggestion?
+Where is NEDB file stored?

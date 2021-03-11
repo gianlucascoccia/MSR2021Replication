@@ -1,1 +1,1 @@
-pleas help. i am make an electron react applic which print an invoice. i am use react-to-print. but i am get error typeerror: cannot read properti name of undefinedif i export confirm screen it work perfectly.thi is my code
+ReactToPrint :- TypeError: Cannot read property 'name' of undefined

@@ -1,1 +1,1 @@
-i'm use electron to develop an app. i'm use to access a file in the same folder as my app. is this normal behavior for a shell link? do app launch with a shell link default their execut path to the system32 folder or is this someth that is wrong with electron?
+Electron app launched from start menu shell link alters process.execPath?

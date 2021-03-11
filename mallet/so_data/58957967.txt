@@ -1,1 +1,1 @@
-i'm have a problem when i build the project with electron to call an updat screen of the project in angular sinc the dist has index.html, in develop mode manag to call tranquility.when i build the project i can not call the screen of the follow error.
+Angular + Electron - Build and dist URLs

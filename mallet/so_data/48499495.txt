@@ -1,1 +1,1 @@
-i have multipl config object in my webpack.config, one of these config is for build electron-main', anoth has web as a target. at the end of the build i want to launch electron-build to build an executable. electron applic is suppos to use web bundle. question: is there ani way of specifi build order to say that electron-main build should wait until web build is finished? or, probably, is there ani way to execut shell command when all of the build are finished?
+Webpack build order

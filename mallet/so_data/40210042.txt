@@ -1,1 +1,1 @@
-i am tri to download a heavi json which is behind a login page.th document is about 5mb and take approxim 60 second to load on my connection. i tri this code but i keep have a empti object as a result. ani idea what is the issue?thanks!nightmar version: 2.8.1
+Download a JSON behind a login page with nightmare

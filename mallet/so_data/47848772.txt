@@ -1,1 +1,1 @@
-i have a problem, that i can't connect to socket.emit of client. server is on node.j - electron. connect event is working, but it doesn't connect to signin. and on server it doesn't work with
+Server can't connect to emit of client

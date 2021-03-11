@@ -1,1 +1,1 @@
-i use monaco-editor in an electron app,and i want to add my own grammar support; i tri to build a plugin like monaco-editor grammar support librari such as monaco-html or monaco-css, monaco-editor use webwork to load those grammar lib,and here the problem: in the webworker,i can onli access a build-in amd require, i can't get ani node.j modul with amd require,ani way i can get the noderequir function or requir a nodej modul with amd require?ani advis can be helpful,thank a lot.
+How to use a Nodejs module with AMD require

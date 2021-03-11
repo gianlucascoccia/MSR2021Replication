@@ -1,1 +1,1 @@
-i tri but both are not working, i am tri to achiev live reload of current document. let say current document is index.html and it has script and css file, now when i updat script and css file and reload index.html in webview, it doesn't updat css and script file at all. howev it doe updat content of index.html onlyani idea?
+Webview reloadIgnoringCache() not working

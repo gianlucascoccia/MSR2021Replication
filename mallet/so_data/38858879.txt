@@ -1,1 +1,1 @@
-how to replac the function of javascript , but got an error: uncaught error: prompt() is and will not be supported.
+Replace 'Prompt' in on Electron

@@ -1,1 +1,1 @@
-i'm tri to develop some veri simpl code to encrypt and decrypt some simpl text. the problem appear to be that when run the code the .final() of my createdecipheriv caus that error in the titl to be produced. i'v attempt to toy with the various encod (binari vs hex, base 64, etc.)node: 10.15.3'openssl: 1.1.0j'this is an electron project, though i don't know what impact that might have
+Error - Simple Encryption and Decryption - Node.js

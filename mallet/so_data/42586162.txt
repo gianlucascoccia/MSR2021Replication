@@ -1,1 +1,1 @@
-i'm work on a game with electron. it fps drop when run it on full-screen. i need to chang the screen resolut programmatically, like my current resolut is to increas my game fps.is there ani npm-node to do so?
+npm node for changing screen resolution

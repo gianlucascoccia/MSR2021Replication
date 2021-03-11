@@ -1,1 +1,1 @@
-how to pass page set dynam to the main process from render process in electronjs?i want to pass the page set dynam from the render process to the main process. basic the printtopdf function in main process should take the pageset object and print accordingly. the intent is to dynam set the page width.th code in brief is as follows. but it doesn't work.
+ElectronJS printToPDF - is there an option to set the page width dynamically?

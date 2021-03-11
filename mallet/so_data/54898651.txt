@@ -1,1 +1,1 @@
-i'v got karma use electron to run tests. i'd like to get devtool open so i can step through the unit test code.i tri use to debug the test run insid karma?
+How to debug karma test with ndb (running in karma-electron)?

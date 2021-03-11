@@ -1,1 +1,1 @@
-i know this is probabl a duplic but i just can't figur out how to do it (trust me i'v searched, i'v tri to fiddl around with the code). i have the follow code which is build a tabl of file that you drag and drop in to the app.th problem is that the filepath variabl is access howev it "prints-out" alway the same path, not the one respect to the loop i.th app is build with nodo-webkit everyth quit work and this is the onli problem i can't figur out.thank for the help!
+Accessing variable outside of Anonymous Function

@@ -1,1 +1,1 @@
-i'm tri to remov the electron menubar from my window. i use thisbut this doesn't work. set the autohidemenubar properti work but that onli hide the menu until the alt key is pressed.what is the proper way to remov the electron menubar?
+How to hide Electron.js menubar

@@ -1,1 +1,1 @@
-i am work on electron.j and am push json file content into a variabl (global). but the variabl doesn't show the content outsid file-read code block.
+Global variable remains unchanged after file read Javascript

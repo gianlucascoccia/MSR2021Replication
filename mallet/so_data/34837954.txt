@@ -1,1 +1,1 @@
-nodej is great when it come to fs/io operations, but i couldn't use to access a share (for storage) local network drive.i get unknown_error which is not helping! the ip up there is access through the explor (i am on windows) with no problem, and writabl (for my windnow user).what is the problem here ?!
+Use node j to access a local network drive

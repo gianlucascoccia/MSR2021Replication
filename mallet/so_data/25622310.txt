@@ -1,1 +1,1 @@
-i'm develop an app for anybodi know how can i solv it?thank you!
+Node WebKit and YouTube: chrome is not defined

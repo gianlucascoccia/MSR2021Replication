@@ -1,1 +1,1 @@
-i'm develop with electron.can electron allow browserwindow to be visibl insid the div tag?if user run the browserwindow, userswil see a window pop up with an internet address in it. i would like to make the browserwindow wrap insid my div tag in the html of the app run in electron. is it possible?
+Can electron allow browserWindow to be visible inside the div tag?

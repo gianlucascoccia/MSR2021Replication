@@ -1,1 +1,1 @@
-it'd be great if i could have the same javascript run in both the browser and node-webkit without ani errors. but i'd also like to add featur that are specif to either platform, like a "hit esc to exit" in the node-webkit version, but not in the browser version. is there some sort of condit i can test to see if i am in node-webkit?
+Know if code is in NodeWebkit or just in the browser

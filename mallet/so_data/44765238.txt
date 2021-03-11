@@ -1,1 +1,1 @@
-i am build an electron app and want to add a servic worker.th app is built with webpack. for some reason, this code fails:.ani idea?
+Electron fails to open window when registering a service worker

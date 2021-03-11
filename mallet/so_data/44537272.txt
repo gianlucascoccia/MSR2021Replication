@@ -1,1 +1,1 @@
-what i am tri to achiev is that the web page which is remot host and is be load in my electron app would want the electron app to print onli a particular div element . i know if i use the entir page would get print silent . but i want the same thing to happen on onli a particular div . thank in advance.
+Electron : How to print only a part of html (div) in electron silently?

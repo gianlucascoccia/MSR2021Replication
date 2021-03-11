@@ -1,1 +1,1 @@
-i'm tri to get variabl between file in an electron app.in index.html there a input and a button, where i post an url.
+Share dynamic variable between JS file in Electron/Node

@@ -1,1 +1,1 @@
-i'm use electron js and i'm a bit newbi in it.a per my knowledge, we can use all . the path of adb in both the system has been set similar as applic to each. how i make the command run in mac? ani help would be much appreci
+Executing command 'ADB devices' on electron j in cmd line using exec()

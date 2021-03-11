@@ -1,1 +1,1 @@
-doe mongodb have a provis to store local data offlin and upload data when onlin in android? have read about nedb and mini-mongo, which one is better?
+MongoDb for offline data storage

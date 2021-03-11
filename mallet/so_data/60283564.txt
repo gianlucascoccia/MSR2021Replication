@@ -1,1 +1,1 @@
-forgiv the simplic of my plaintiff question, i'm close to my wit end. i am look for a work simpl exampl of electron v8 and typescript. it needn't includ webpack, babel, react or anyth else. noth i have found seem to work with electron v8.
+Looking for a _working_ simple example of Electron v8 and TypeScript

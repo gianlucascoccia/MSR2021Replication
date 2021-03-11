@@ -1,1 +1,1 @@
-i have read lot of thing about this subjet but i can't find a complet documentation. i succeed to use electron-packag and electron-winstal to get a setup.ex for my electron application.i use electron-release-serv to creat a server to host my electron app to deploy.i add in my electron app this peac of code but when i instal my application, i have this error :in fact, i think i don't understand what to do client side but server side as well. ani help would be veri appreci !thank in advanc
+Looking for a complete tutorial about process to update an electron app installed

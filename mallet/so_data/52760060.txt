@@ -1,1 +1,1 @@
-i am tri to orgains my code and want to creat separt function for everi .then(),som how i am unabl to do,and my code breakpleas help me how to make thing workingi am tri to make the code organis and creat separ function for everi promis but not get and confus how can i creat this flow in an organis and best practis way
+Avoid callback hell and organising Node.js code

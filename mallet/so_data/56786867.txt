@@ -1,1 +1,1 @@
-i have a strang issu work on poc application. it is an electron app use angular 7 and ionic 4. it veri simple, just two routes, one fake servic and not much go on there.in to electron folder but with no effect. i'm run out of ideas, what to do.
+Electron --serve fails on missing package.json

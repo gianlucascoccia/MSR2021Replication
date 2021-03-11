@@ -1,1 +1,1 @@
-i have an electron project that is generat a pdf use the built in webcontents.printtopdf() function.th problem i am experienc is that when i am print a tabl that span multipl page the page break do not occur around elements, instead cut word in half, as in the exampl attach below.i am use electron-prebuilt 0.35.2 for this project, and the program is be run on a window 7 computer. i did not find a relat issu when i search through electron github issues.ani help would be appreciated.
+Electron printToPDF page break in middle of text

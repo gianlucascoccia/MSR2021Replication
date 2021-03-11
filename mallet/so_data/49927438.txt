@@ -1,1 +1,1 @@
-is there a way to trigger the insid someth like that. the window is not start out fullscreen, but i'd like the option to be present - and not onli from the menu/shortcut :-)
+Electron, trigger fullscreen programmatically

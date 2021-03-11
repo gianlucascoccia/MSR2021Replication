@@ -1,1 +1,1 @@
-i'd like to share the same "instance" of indexeddb across multipl window of the same app. given however, they still get two differ indexeddbs.
+Electron - share the same IndexedDB across multiple window of the same app

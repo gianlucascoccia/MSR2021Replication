@@ -1,1 +1,1 @@
-i want to creat a complet background run app that onli show up in the system-tray and doesn't have ani "window" as such. i tri set the "window" attribut to false, but that doesn't work. is there ani way to creat a complet background daemon-styl applic use node-webkit?
+Is it possible to create a background app using node-webkit?

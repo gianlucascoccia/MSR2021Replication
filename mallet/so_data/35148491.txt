@@ -1,1 +1,1 @@
-i would like to synchronis a subset of a . what are the method avail to see what is the differ between the data in the two database, so that i could retriev onli the data that have changed?
+Synchronising subset of mongodb on local machine

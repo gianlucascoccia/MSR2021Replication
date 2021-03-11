@@ -1,1 +1,1 @@
-i receiv this error:
+node-webkit Error: Uncaught, unspecified 'error' event

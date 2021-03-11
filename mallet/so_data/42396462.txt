@@ -1,1 +1,1 @@
-i just start with electron and i'v been have difficulti integr react-rout with it. i keep on get this warn whatev i do:i have read other similar question but no luck. your help would be realli appreciated.
+React-router + electron Location "/" did not match any route

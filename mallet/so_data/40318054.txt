@@ -1,1 +1,1 @@
-i'v got an app i'v put togeth in electron which save data use or someth like that, but i'd rather not put the time in to make those chang if there an easi way to just have the exist sqlite databas file get save to the user comput outsid the app.
+Exporting sqlite3 db file from inside electron app. Is this possible?

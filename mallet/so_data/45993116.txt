@@ -1,1 +1,1 @@
-i'm develop a electron app and i want to regist my electron app to open via custom url protocol. i need to regist my applic in registri in a button click event and need to open the app via regist protocol from a eb browser later. i saw that mailto: protocol is work correctly.
+How to run insalled electron app from web browser with a custom url protocol

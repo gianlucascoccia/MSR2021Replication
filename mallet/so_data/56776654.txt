@@ -1,1 +1,1 @@
-look at the packag content of an electron osx app, i see that there is a lot of node modul cruft includ which isn't need at runtim and which add to app size bloat. for example, that lightgalleri "demo" directory, in the first imag below, is 1.9 mb.this make me wonder if i am do someth wrong with either my is there ani way to get rid of all the extra stuff?
+Unneeded file in node_modules directory?

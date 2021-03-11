@@ -1,1 +1,1 @@
-below code is just to display the dialog box use electron node module.app.j
+TypeError: Cannot read property 'showMessageBox' of undefined electron in node j

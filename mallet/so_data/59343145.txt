@@ -1,1 +1,1 @@
-quit frequent you break someth in your app and the electron.j display just a blank screen with absolut no inform about the error.th dev tool are blank too.how to debug it? i found so far onli one solut - you start comment out code random until the app again start work an so you can guess what caus the error.
+How to debug Electron.JS when there's no any error messages?

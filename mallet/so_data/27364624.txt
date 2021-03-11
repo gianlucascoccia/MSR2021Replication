@@ -1,1 +1,1 @@
-i want to upload imag to canva and then run program with node webkit so this my code :
+Upload image to canvas in Node webkit

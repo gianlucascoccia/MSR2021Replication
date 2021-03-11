@@ -1,1 +1,1 @@
-i am tri to call a function of main process from anoth when i click the button it should show an alert dialog. but it not show anything. i am new in electron. i want to know the reason whi it not working. pleas help.
+Calling a function of main process

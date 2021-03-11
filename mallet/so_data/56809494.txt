@@ -1,1 +1,1 @@
-i'm tri to creat an electron app that contain a button on the main process which load a new
+How to access DOM of BrowserWindow from remote in Electron

@@ -1,1 +1,1 @@
-i want to get the list of exe or desktop application(instal local pc) in electron js desktop application.i tri require('fs') but it list onli folder from root path.how to get onli exe file
+how to get exe file using fs.readdirsync() in electron j

@@ -1,1 +1,1 @@
-i an run my applic (javascript app) in chromium browser use node web kit. but video are not playing. i use various player like html5 video player, video js player and dash player. can anyon pleas tell me how can i play video in chromium.
+Videos are not playing in Chromium of Node web kit

@@ -1,1 +1,1 @@
-how can i use node filesystem to open a file but have it sent to and read by the fileread api?
+Passing Node FileStream Image to HTML5 FileReader API

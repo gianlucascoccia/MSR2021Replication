@@ -1,1 +1,1 @@
-i am use electron.j and i have a custom node.j modul that use the fs modul to search for a word in a file.i am use angular.j to save the result of the file search in $scope but the scope valu alway return undefined. here is the angular code:
+Angular j unable to assign scope

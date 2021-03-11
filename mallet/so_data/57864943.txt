@@ -1,1 +1,1 @@
-i am work on one angular app with electron js. in package.json i updat i know some silli mistak but not abl to resolv this. ani help ?
+Can not find module Electron

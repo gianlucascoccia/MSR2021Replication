@@ -1,1 +1,1 @@
-abov question is in context of nwjs.how doe dom call nodej module? what is dom here (just tree construct repres element or methods)?
+What doe "Call all Node.js module directly from DOM"?

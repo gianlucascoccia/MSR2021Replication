@@ -1,1 +1,1 @@
-how to determin if node-webkit is run with administr privileg on windows?
+How to know if node-webkit app is running with Administrator/elevated privilege?

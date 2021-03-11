@@ -1,1 +1,1 @@
-how can i show a folder select dialog in nodej or electronjs?currently, i'm use is not defin
+Can't show folder selection dialog in Electron

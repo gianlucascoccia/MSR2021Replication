@@ -1,1 +1,1 @@
-i have creat a multiplay game that use webrtc for communication.it send 4.8 kb data everi second.can send this data caus high cpu usage?i'm want to run the game in browser so i use electron just to run the game.but befor ani data send to other client the electron app use about so what might be the reason of such variat in cpu usag of window and linux. whi cpu spike on send data.
+Can webRTC consume CPU utilization

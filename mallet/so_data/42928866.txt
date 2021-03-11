@@ -1,1 +1,1 @@
-is anyon who can tell me how to implement own protocol in electron app?i use event for macos, but how to handl it on windows?
+How to implement own protocol in electron

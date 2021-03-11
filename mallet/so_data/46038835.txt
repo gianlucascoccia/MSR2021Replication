@@ -1,1 +1,1 @@
-i have an electron app which is made with angular and it work fine.th problem come when the app is pack as instal one with .inline.bundle.j polyfills.bundle.j scripts.bundle.jsstyles.bundle.j vendor.bundle.j main.bundle.jsth angular app is build with ng-cli.
+Running packed Electron app made with Angular

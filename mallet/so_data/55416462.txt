@@ -1,1 +1,1 @@
-i'm creat analyt applic for microsoft surface. applic should be abl to collect data in array from ms stylus while draw (now i'm use the problem is, that this event listen fire about 70 time per second and for me it seem like perform limit. for my purpos this valu is incred small, i'd like to increas this valu twice or even more.i there ani way to increas it or mayb there is anoth more effici way to collect data from stylus in js?
+Javascript get faster Pointer Events

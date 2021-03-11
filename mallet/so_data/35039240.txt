@@ -1,1 +1,1 @@
-i'm tri out the electron to creat a standalon version of the website, i have this main.j (excerpt)
+the content (webview) doesnt fill the app window

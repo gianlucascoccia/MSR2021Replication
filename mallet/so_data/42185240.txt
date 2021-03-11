@@ -1,1 +1,1 @@
-i am work on a electron application, in which i have to show the licenc file in notepad to the user. is it possibl to show the file to user use electron?
+Showing text file in notepad using electron

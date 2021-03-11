@@ -1,1 +1,1 @@
-i am tri to start or build an electron-forg project but i keep get the error:
+Electron Error: Failed at the secureapp@0.1.0 start script

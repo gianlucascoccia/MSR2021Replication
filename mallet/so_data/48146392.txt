@@ -1,1 +1,1 @@
-i creat a desktop app base on nw.jsand i use the webview tag simul a touch devic such as iphon screen.th webview touch mode just failed."chrome.debugger" conflict with "showdevtools(true)"how set the webview to touch mode in nw.js
+"chrome.debugger" conflict with "showDevTools(true)" in NW.js

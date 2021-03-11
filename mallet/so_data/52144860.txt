@@ -1,1 +1,1 @@
-i have a problem when i tri to execut the follow line:thank
+ElectronJS, JavaScript and Python - require is not defined tried all the option

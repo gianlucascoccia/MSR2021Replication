@@ -1,1 +1,1 @@
-i'm start a background process (on windows) from electron main, someth like this:, but in this way i cannot run two instanc of the electron app.i'm miss someth obvious on process manag on windows?
+electron and node on windows, kill a spawned process

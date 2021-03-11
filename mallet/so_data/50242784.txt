@@ -1,1 +1,1 @@
-i'm tri to analyz an electron crash. i'v instal electron v2.0.0. i'v download the correspond symbol zip file. i'v built breakpad, which includ the i'm get a lot of output which still contain messag like "warning: no symbol ...", even though i can see that minidum_stackwalk search at right place.what am i do wrong?
+Unable to get matching Electron symbol for minidump file

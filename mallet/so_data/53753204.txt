@@ -1,1 +1,1 @@
-i am creat a second browserwindow and load an html file. html file point to a typescript file. therefore, it give error. how do i tell parcel to transpil that file to js and load the url in the main process?
+Electron TypeScript Parcel second BrowserWindow

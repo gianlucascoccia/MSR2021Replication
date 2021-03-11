@@ -1,1 +1,1 @@
-i have an electron app, arbitrator. it use electron-boilerpl as a base. within that electron application, i have an icon specifi in file for resources).
+How can I specify an app icon for an electron app on Ubuntu 16.04?

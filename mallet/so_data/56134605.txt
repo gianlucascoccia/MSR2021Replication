@@ -1,1 +1,1 @@
-i'm have print stylesheet for a page in vue.j when call i didn't want to automat creat a pdf so far becaus i onli have one browser (chrome) which should handl the print styles. it would make it select and nicer in case of resolut (i think).i expect to have the same print result from electron with vue on window and mac. actual i onli need it to be correct on window
+How to print a page from electron (with vue) with the same result in window and mac

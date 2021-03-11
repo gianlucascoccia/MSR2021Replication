@@ -1,1 +1,1 @@
-i am make the below app use electron and while test i got an error state that &#xd;&#xd;&#xd;
+How can I fix an "SE50P is undefined" error in Electron app?

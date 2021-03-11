@@ -1,1 +1,1 @@
-i'm build a desktop applic use vue-electron.i have onli one modul state: belong to a complet differ app i was work on last month.i there ani way to remov these weird behavior?
+the store[vuex] of a vue-electron application show a different application state?

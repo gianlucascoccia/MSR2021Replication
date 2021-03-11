@@ -1,1 +1,1 @@
-electron version: 0.37.5oper system: ubuntu 15.10i packag my project use electron-packager. normally, i creat a directori name
+Creating directory at wrong place after packaging Electron

@@ -1,1 +1,1 @@
-i develop a tool with electron. there are two webview compon in the app. one show the html page, anoth one show the chrome devtool which debug the page. the current solut is: doe not work. so, i want to ask if there are ani good idea about how to solv this question?
+Open devtools of a webview inside another webview in electron?

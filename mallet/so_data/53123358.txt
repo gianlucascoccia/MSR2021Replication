@@ -1,1 +1,1 @@
-so i have an electron app name
+Electron window show a screenshot of the screen

@@ -1,1 +1,1 @@
-i'm new to electron, and i tri to understand the start code. i am confus about one block of code.?
+For electron app in macOS, when is app.quit() invoked?

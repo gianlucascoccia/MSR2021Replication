@@ -1,1 +1,1 @@
-i'm a newbi with electron and js.i'v search for a solut to creat a simpl button which execut a
+Create a button to execute a .bat or .exe

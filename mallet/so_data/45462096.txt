@@ -1,1 +1,1 @@
-i am work on electron + angularj . and i start get the problem of the code retun the tag from the mp3 file but keep generat this deprec warn
+DeprecationWarning: Calling an asynchronous function without callback is deprecated

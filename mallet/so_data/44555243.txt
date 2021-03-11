@@ -1,1 +1,1 @@
-my project requir a small execut tool to be local to the project directory. however, when i build my project with electron builder, the execut isn't includ in the distribution.th execut is run by spawn a child_process.exec use node.js. of course, this requir a file location.how do i ensur this file get packag with my project?
+How to include a local executable when building an Electron app with Electron-builder

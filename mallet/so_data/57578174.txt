@@ -1,1 +1,1 @@
-from my research this is possibl use :when i research the site there are onli four post contain the paramet i'v search for. for an electron applic built use electron builder is there a way to use the auto-upd abil to updat the applic base on the releas for a privat repository?th onli other altern i can see occur is if i develop the land page in jekyl under a public repo and use github page to host the site. after build the applic from the privat repo i'd push the releas to the public repo section.
+Auto updated Electron from a private repo's release?

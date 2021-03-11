@@ -1,1 +1,1 @@
-i want to use a modul i put in /node_modules/ manually, i simpli copy/past the file and instal depend with npm, i'm use nwjs 0.16.0.when i type yield no resultsnote: this is the googl cloud speech api
+Cannot load module I put manually in /node_modules/ directory

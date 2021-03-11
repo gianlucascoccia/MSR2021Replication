@@ -1,1 +1,1 @@
-i'm build an applic with electron and packag with electron builder. when run electron, i want to pass this command line argument: --enable-mixed-sandbox.i it possible? how?this: it is not possibl to have the os sandbox activ onli for some renderers, if --enable-sandbox is enabled, normal electron window cannot be created.
+How to pas an argument to electron when using electron-builder?

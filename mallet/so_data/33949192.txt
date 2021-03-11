@@ -1,1 +1,1 @@
-i have found limit in use framework like ionic for build mobil apps. these are main to do with access devic specif functionality. so two questions:ar there ani similar limit with use electron for build mac apps? what are the advantag of build nativ app use swift?
+What are the limitation of using Electron to build Mac Apps?

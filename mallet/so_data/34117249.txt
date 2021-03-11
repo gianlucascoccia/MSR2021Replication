@@ -1,1 +1,1 @@
-i have a nw.js app use mean stack i have an canva insid my app i want to emul action on (click/drag/type). my go to tool is selenium but it requir to open a new window.how would i go autom this? i dont want to do all my action insid the nw.js window (chromium)or is it possbil to start nw.js use selenium?
+how to automate mouse click in nw.js (node-webkit)

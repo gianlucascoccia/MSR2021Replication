@@ -1,1 +1,1 @@
-i tri to load html file by use the follow code "mainwindow.loadfile(
+mainWindow.loadFile(`file://${__dirname}/index.html`)- not working even after using 'backtick'

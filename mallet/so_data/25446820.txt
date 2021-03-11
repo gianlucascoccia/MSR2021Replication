@@ -1,1 +1,1 @@
-i am use node-webkit v0.10.2.when i attempt use one insid a bootstrap button, i get this in the inspector:i have includ the bootstrap css insid my html as usual. rest of the css seem to work normally.
+Bootstrap Glyphicons do not load in node-webkit

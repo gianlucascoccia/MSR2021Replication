@@ -1,1 +1,1 @@
-i have success built an electron app. now i'm tri to chang the icon of the .ex that is generat by is present in the root directory.
+How to set custom executable icon using electron-packager?

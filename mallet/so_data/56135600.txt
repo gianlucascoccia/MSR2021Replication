@@ -1,1 +1,1 @@
-i have develop an electron app which will render a view of ani .csv file use ag-grid. but if i use gridoptions.api.setrowdata(data1) where data1 is a javascript array object. the app won't show ani rows. the electron app read .csv file and save data insid a javascript array. while use ag-grid if i decid to from rowdata by defin rowdata as,
+"setRowData" method from Grid API of ag-grid won't load any row even after the javascript object print value

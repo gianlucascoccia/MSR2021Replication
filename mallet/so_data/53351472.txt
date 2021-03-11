@@ -1,1 +1,1 @@
-i have multipl byte array with a length of 10000000 each (10mb). i store them in this object. do you know why?
+Javascript - concat() act like push()

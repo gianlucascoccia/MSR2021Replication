@@ -1,1 +1,1 @@
-i am use the exampl electron provid for desktopcaptur to grab the an applic stream and attach it to a stream to not receiv the proper imag of the application? i assum the reason whi the cursor updat is becaus it treat separ intern by dota 2.
+navigator.webkitGetUserMedia stream improperly updating [electron's DesktopCapturer]

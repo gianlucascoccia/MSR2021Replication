@@ -1,1 +1,1 @@
-there seem to be no complet explan of how to do this, or even enough fragment for me to piec togeth what i have to do. after about 16 hour of studying, i am at wit end.it seem like i can't use sso, and i also can't use pkce becaus there is no work exampl anywher on the web. there is a github repo with an exampl implementation, but it doe not function and after 2 hour play with it i cannot determin what i need to do to move forward this way.thank for ani help.
+How to keep a user signed in on an Electron app using Auth0?

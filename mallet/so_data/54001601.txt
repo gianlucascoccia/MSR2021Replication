@@ -1,1 +1,1 @@
-i'm new to electron and somehow my js script is not work in electron.her is my javascript .i would like to implement this code in electron by make it a desktop application. kind help me. whenev i tri start it use electron i can't seem to have the result like in a web browser.her i provid the js script and the html.&#xd;&#xd;&#xd;&#xd;&#xd;
+Mouse event[X and Y coordinates]

@@ -1,1 +1,1 @@
-i'm current work on a simpl electron desktop app, use angular version 1.3.0. i am use ngrout to switch between a main.html and settings.html view. this work fine when test in a local run server, but when run through electron the link which is meant to load the set view lead to a blank page.i'v set the base tag href to ./ and the main.j and vendor.j are be load in fine. below is the code from the angular app.j file.
+Angular NgRoute not loading partial in Electron App

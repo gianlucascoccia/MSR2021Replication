@@ -1,1 +1,1 @@
-i want to use the ambient light sensor in my app. how do i enabl the chrome flag for electron?thank
+Enable Generic Sensor & Generic Sensor Extra Classes chrome flag

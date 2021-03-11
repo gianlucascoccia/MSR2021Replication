@@ -1,1 +1,1 @@
-i have differ nodej version instal use nvm on my machin but electron still doesn't use the node version i am use by nvm. is there a way to configur it?us nvm ls command i get below node versionsus electron-quick-start app, i get a differ node versioni will download an older node js version via nvm and i need to set an older node version to be abl to set up sqlite3 in my electron app. so i need to use an older node js versionalso can i specifi the electron version that my app uses?
+Configure Electron to use a certain NodeJS version

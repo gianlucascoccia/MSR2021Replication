@@ -1,1 +1,1 @@
-hi i have a node modul call bonjour, and use this function to search for devic on the lan . plus i want to retriev the the result "service" which is an object and put the data in a paragraph, all that in electron so ani help is welcom that you veri much.
+the proper way to callback a value and append it nodejs electron

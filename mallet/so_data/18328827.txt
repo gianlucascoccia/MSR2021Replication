@@ -1,1 +1,1 @@
-i'm work on desktop applic use node-webkit. i would like to use databas in my application. i know that i can use websql and probabl also sqlite, but i would like to add some orm to simplifi my work. i tri with sequel but i have some problem with it. do you know ani exampl for node-webkit + ani orm library?
+Node-webkit with orm

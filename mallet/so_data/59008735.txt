@@ -1,1 +1,1 @@
-this is the script for my render page:&#xd;&#xd;&#xd;&#xd;&#xd;but the option don't affect showopendialog at all. it the same as with default options. whi is that and how to fix that?p.s. i'm use mac
+why do option not affect showOpenDialog?

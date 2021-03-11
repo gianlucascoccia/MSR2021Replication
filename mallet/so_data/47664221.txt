@@ -1,1 +1,1 @@
-got a problem which made me stuck for 3 hours. i'm start learn electron framework. everyth work good befor i instal independ : electronviewrenderer.thi is error : cannot find modul ../js/index.js'mi folder structure: http://puu.sh/yabnr/1acdb39aa7.pngmi index.ej (view) :
+Cannon find module. Electron

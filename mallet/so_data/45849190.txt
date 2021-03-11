@@ -1,1 +1,1 @@
-i am tri to add function to my electron app that will allow user to open a file in the app, specif plain text files. after look at the electron documentation, i found this page. i ad this code to my i have tri use remote, but to no avail. has anyon know how to fix this problem?thank in advanc
+How to show an open file native dialog with Electron?

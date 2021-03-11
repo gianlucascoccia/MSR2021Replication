@@ -1,1 +1,1 @@
-so i charg a webpag in a frame nodewebkit and when it done, the web didn't redraw my frame, if i do it with my cursor the content come back, i tri this solut but it still doesn't work, ani ideas?you can also check the file on github:https://github.com/radjivc/whatsapp-desktop/blob/master/app/index.htmlthank a lot
+how to make a redraw on frame with nodewebkit in javascript?

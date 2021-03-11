@@ -1,1 +1,1 @@
-use js electron, i want communic from the server to a client that has the app open, and notifi them their app is out of date, like steami have tri and look at thing but they don't realli work, and i'm use a 16.04 ubuntu server
+I want to communicate between a client and a server to notify the user that their app is out of date like steam

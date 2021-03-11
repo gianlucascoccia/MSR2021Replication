@@ -1,1 +1,1 @@
-i have an electron app which read credit card detail from card reader.they provid a c# dll to interact with app. i have no idea about how to read the dll method from electron app.
+How to call C# dll method in electron App?

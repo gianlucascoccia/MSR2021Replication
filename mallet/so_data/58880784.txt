@@ -1,1 +1,1 @@
-so i'm veri new to nodej and electron and i'v made a login system use ipc where the input data is sent to the backend: but it doesn't work
+How do I seperate an array of IPC value

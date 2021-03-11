@@ -1,1 +1,1 @@
-i'm tri to use the nodej async modul (waterfal method) within a node-webkit app, howev it doe not run properly. it seem to jump straight to the last item in the chain and ignor everyth else. my code work perfect in nodej though. i thought it could be my code, but even the follow exampl from the async doc doe the same.
+NodeJs Async.waterfall within Node-Webkit

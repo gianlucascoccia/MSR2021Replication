@@ -1,1 +1,1 @@
-i am new to electronjs. i want to convert an angular app to desktop. i could achiev it success but the problem is that the app icon is set to default electron and not the icon i provid as follows:i chang the icon after build the app use resourc hacker but what i need is to chang it at build time in the correct way. what am i missing>
+How to Change ElectronJS App default Icon?

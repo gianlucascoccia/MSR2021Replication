@@ -1,1 +1,1 @@
-i want to open a remot web app in electron webview, but this app is sometim down and return 503 response. the problem is that i can't detect ani http error from electron, so that i can do someth about it from my side. here is a sampl of my code : , but it got deprecated, and i could not find an alternative.thank for your help.
+How to get HTTP status code of a page opened in a webview in Electron

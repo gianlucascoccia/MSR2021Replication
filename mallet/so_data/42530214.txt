@@ -1,1 +1,1 @@
-i'm in the process or port a command line app which make heavi use of zeromq for schedul to a vscode extens i know that it possibl to bundl binari in an electron app but what about binari in vscode extension?i wish to use the compil binari for https://github.com/zeromq/zeromq.js/
+Is it possible to bundle a precomposed binary in VsCode extension?

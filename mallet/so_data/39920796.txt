@@ -1,1 +1,1 @@
-hello i have some problem understand the follow code relat to node.js. this part. what and how will the or oper work and return.
+understanding OR operator in nodejs

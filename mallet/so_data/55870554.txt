@@ -1,1 +1,1 @@
-i'm tri implement a code to send an email onli if the data is written on database. so, if the data is written, the function should return true and so i send the mail.that the claus i tri to be clear.
+How can I check if the database wa updated or not to send mail

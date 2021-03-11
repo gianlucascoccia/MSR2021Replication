@@ -1,1 +1,1 @@
-i have a electron webview, with preload script. desir webview should look like this: with file:// protocol to includ it in a webview preload attribute?edit: i forgot to mention i'm use electron-vu boilerpl (https://github.com/simulatedgreg/electron-vue)
+How to include a webpack module to file protocol

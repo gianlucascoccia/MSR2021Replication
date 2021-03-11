@@ -1,1 +1,1 @@
-so i instal electron packag and have ran then command:aft it has built the app out i open it and the dev tool auto open. how can i build out the app so the dev tool do not auto open?
+Electron building out the app with electron-packager dev tool auto open

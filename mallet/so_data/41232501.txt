@@ -1,1 +1,1 @@
-i have a .net c# compon i would to intergr in my electron project.i have use this librari ani idea on how i would go about this , ani altern ? anyth ?
+Electron extending with native C# code

@@ -1,1 +1,1 @@
-basic a tv tuner card is connect to the pc and i have to display the tv channel in an electron app. is there ani modul in node.j that will help me get this done (inc# directx.datacaptur class doe the job.)if not in node.j then i need to use the directx captur class of c# in an electron app with node.js. is this possibl ?
+Can I display a TV channel from TV tuner card using NodeJS for an Electron APP?

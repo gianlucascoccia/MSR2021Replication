@@ -1,1 +1,1 @@
-i have a web applic that need to be implement as a desktop application. with my brief research about it, i came to know about electron. though it is an amaz tool to convert web applic to desktop ones, my applic need a databas to run and it need to be run offline. i also did read about use . i need to get more insight and suggest as to how i should proceed with it.
+Need some suggestion for developing a desktop application that us offline database

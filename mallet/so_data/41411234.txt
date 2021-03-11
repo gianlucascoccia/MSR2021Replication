@@ -1,1 +1,1 @@
-my electron packag return an error:typ command:do anybodi have an idea about what is wrong?
+electron packager return an error - command failed npm prune --production

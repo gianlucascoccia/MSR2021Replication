@@ -1,1 +1,1 @@
-edit: i'm use karma-electron, mayb it is karma-electron creat traceless errors.i see some error in my termin that seem to come from electron through karma-electron, that are super difficult to work with. they look horrible:i that karma-electron output (i have a feel it isn't electron directly)? how can i get better, formatted, clean stack trace in the output?
+How to improve Electron error message in terminal when using karma-electron?

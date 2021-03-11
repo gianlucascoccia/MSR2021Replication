@@ -1,1 +1,1 @@
-as the titl suggests, i'm work on an electronj project where i have multipl browserview object and would like to use a differ proxi for each window.i read here that to use a particular proxy. however, the question still remains: how could i authent it?
+How can I use a different user:pass authenticated proxy in different BrowserView objects?

@@ -1,1 +1,1 @@
-i'm tri to use sqlite3 modul in a child process with electron, but i get error of undefin symbol. also, the error happen onli when i run the program from electron node.js, but when i run the program from usual node.j everyth work fine. i think the problem may be relat to nativ of sqlite3 module, and i tri
+Electron crash when requiring sqlite3 native module in forked process

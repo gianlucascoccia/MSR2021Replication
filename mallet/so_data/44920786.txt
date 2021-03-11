@@ -1,1 +1,1 @@
-i'm look to autom an exist electron app. it give access to the develop tools, so i could just past javascript code into the console, but there must be a way to do this remotely, ideal use node or from the terminal? i'v seen this option for run chrome : --remote-debugging-port=9222 ... that hint at a solut but i can't seem to get closer.
+sending console JS command to an Electron app

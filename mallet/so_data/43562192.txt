@@ -1,1 +1,1 @@
-i am creat an electron applic in which i am record data from webcam and desktop, at the end of the record session, i want to save the data to a file in the background. i do not know how to write the data from a blob to a file directly. ani suggestions?below is my current handl for mediarecord stop event.
+Write file to disk from blob in electron application

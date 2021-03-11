@@ -1,1 +1,1 @@
-i'm use github electron to build a desktop app. i want to grab the type of the current clipboard content in order to better use it (eg. if it html then i want to do someth differ than if it just text).look at the doc there no way to check the type, but type is requir to proper read it. is there an easi way to get the type?relev docs.
+Get clipboard type in Electron

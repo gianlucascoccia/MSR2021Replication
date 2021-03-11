@@ -1,1 +1,1 @@
-i am use microsoft adal for auth in my electron app. nowher in my app use jquery, but when i tri to logout, [i get this error in my app console]th app get stuck at hang on a moment while we sign you out.
+jQuery is not defined, Electron

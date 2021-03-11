@@ -1,1 +1,1 @@
-i am tri to add a global shortcut to my electron app that will toggl showing/hid it. my app is a menubar app built use maxogden/menubar and react.i have the follow code. i'v left a coupl of bit out just for breviti but this is how i have setup the global shortcuts.i think it import to note one of the tip on the . this would explain whi the reregistr of the shortcut isn't happening, but i'm not sure.do anyon have ani idea how i would sensibl set up a global shortcut toggl to open/clos my menubar app?
+Electron global shortcut to toggle show/hide of menubar

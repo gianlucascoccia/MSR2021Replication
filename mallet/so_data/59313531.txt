@@ -1,1 +1,1 @@
-i recent went back to an old project and updat my electron version. i found onlin that electron now requir you to add in let me know if i can provid further information.
+Error after updating electron and changin nodeIntegration to true

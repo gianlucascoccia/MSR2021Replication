@@ -1,1 +1,1 @@
-i have an nw.js app in which i use an header. see this issu
+Flash in iframe got 403 forbidden with NW.js

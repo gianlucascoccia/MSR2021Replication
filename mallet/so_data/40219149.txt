@@ -1,1 +1,1 @@
-in a preload webview, i "hook" the click event, to get some inform about some button on my webpage.sound likeon mainprocess, i receiv the event, but i cannot read html5 valu of srcelement (value, nodename, ...)ani idea ?
+electron ipc with HTML5 element

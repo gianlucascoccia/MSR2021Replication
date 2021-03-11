@@ -1,1 +1,1 @@
-i develop a bot with nodejs, this bot is a cli applic with some input and some action base on the inputs.thi is my bot screen:what i need to do now, is use electron (or anoth library) to transform it in a exe or someth execut in window and .sh to linux.but this project dont contain ani html file, it just a .js file call anoth .js files.ther a way to do it?thank
+NodeJS CLI Application to Electron Desktop

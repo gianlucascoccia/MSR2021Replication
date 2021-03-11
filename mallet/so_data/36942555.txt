@@ -1,1 +1,1 @@
-i am have a hard time googl how i would do multi-thread if i made an electron app. would it be with web workers?
+Does the electron framework allow multi-threading through web workers?

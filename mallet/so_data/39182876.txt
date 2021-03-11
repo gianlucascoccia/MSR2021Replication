@@ -1,1 +1,1 @@
-i have a react, electron app that i wish to be abl to access nativ node modul from the es6 compil (use babel and webpack).for example, when i tri to requir the "fs" node modul to access the filesystem i get the follow error. errors.
+How to use Native Node Modules on a React, ES6, Electron App?

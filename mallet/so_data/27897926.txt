@@ -1,1 +1,1 @@
-i am creat a multi-us chat applic in node-web kit and sailj and i was tri to implement login status of the users. user come onlin when they open the application. the case for the user to go offlin are:us click logout buttonus close the applic window.us turn his/her system off.th logout status doesn't work when the user turn off their system. here is a part of my code which i have written:pleas help me in figur out this issue. thank in advance.
+Socket.io+SailsJS: Chat application-How to check whether the client is shut down,and make the user offline?

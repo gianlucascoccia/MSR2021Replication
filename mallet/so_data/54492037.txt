@@ -1,1 +1,1 @@
-i built an electron app on 64-bit window machin and it run well on other machines.but today, i ran it on my 32-bit atom processor window machin and i got the follow error message.i tri npm updat but it doesn't work too.th error messag is,how can i fix it? : (thank you for read my question.
+How to fix "spawn UNKNOWN" Error in Electron?

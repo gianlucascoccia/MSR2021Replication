@@ -1,1 +1,1 @@
-what i have is electron app that run the frontend and python app that run in backend. at some point i need to execut python script and get info from it.i'm current use python shell for node.j (commun through standard i/o), howev i was abl to find anoth method with sockets. what are the advantag of use socket compar to standard i/o? from what i understand, i can onli pass string either way. which perform better?
+Electron python shell v socket

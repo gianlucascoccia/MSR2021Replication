@@ -1,1 +1,1 @@
-we are work with atom shell (current known as electron) to wrap a web applic as desktop app and have troubl make cross domain ajax call due to cor restriction. we also tri nw.js (former known as node-webkit) and we had no problem make cross domain ajax call with it. is atom shell (electron) restrict cross domain call by default ?
+Cross Domain Ajax Call in Atom Shell

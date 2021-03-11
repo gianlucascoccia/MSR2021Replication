@@ -1,1 +1,1 @@
-i'm current work with electron via typescript on a project.i'm tri to invok a void via the global object nodej come with - yet it doesn't work like it is suppos to. reason i'm do this is get a differenti between dev and prod - so ad --dev as argument will trigger more output which help troubleshoot and let prod have less log (and dev consol disabled)thi is my global.d.t locat under src/type
+Extending the global scope with a function in Electron/NodeJS via TypeScript

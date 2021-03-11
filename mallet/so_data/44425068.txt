@@ -1,1 +1,1 @@
-i'm upgrad from an arcan version of webpack to webpack 2 and i'm get an error: ani suggest on how to fix this would be veri welcome. thanks!
+“You may need an appropriate loader to handle this file type” with Webpack and Babel

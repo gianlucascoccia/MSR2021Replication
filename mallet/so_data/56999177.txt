@@ -1,1 +1,1 @@
-in electron, i would like to use a context menu to util the "open with" submenu as is done on mac os. is this function possibl in electron?
+Electron: Open With Context Menu

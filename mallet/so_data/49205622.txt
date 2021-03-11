@@ -1,1 +1,1 @@
-as the titl states, i'm have troubl find a way to send data from an electron.j app to a remot db/server. i can use mysql to connect direct with a databas but it doesn't strike me as a secur thing to do. i would like to send the data, probabl a json string, to a php or js file on a server and handl the valid and databas access there.i'm veri new to work with node.j and electron.j but i'm realli excit over the possibl of it.
+How to send data from an Electron.js app to a remote server/db

@@ -1,1 +1,1 @@
-hi all in my project i have three js files, main.js,browser.j and inject.js, in browser.j i have implement all the click action relat to my webview and mani functionalities, from this i have a click action to get usernam from the webpag which is load in webview for that i creat a function in inject.j to get content and element from the page i got the valu in inject.j file but in browser.j file i get undefin valuesher my sampl code: browser.jsvalu get call in inject.j but browser.j return undefin valu
+how to get return value from webview.executeJavaScript in electron

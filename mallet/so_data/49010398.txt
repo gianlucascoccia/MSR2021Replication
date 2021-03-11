@@ -1,1 +1,1 @@
-i use creat react app and electron for a project. it work fine in dev environment.dev environ imagehowev when i build the project and tri to run it use electron i get a blank screen. i do not see ani errors. i believ this has someth to do with rout sinc electron use file system.imag of my rout filehow do i build the app and use react rout instead of file system ??
+Routing in Electron + Create React App

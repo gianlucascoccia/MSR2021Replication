@@ -1,1 +1,1 @@
-i want to run a simpl function asynchron in electron, so it doesn't block my render thread. so, someth (veri roughly) like this (within , as mention here. however, i can't find anyth about this method elsewhere.so, is there a "correct", more straight-forward way to achiev my goal?
+What's the correct way to run a function asynchronously in Electron?

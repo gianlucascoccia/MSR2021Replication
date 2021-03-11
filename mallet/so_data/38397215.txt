@@ -1,1 +1,1 @@
-we'r tri to creat an app to track some logfil and push those data to our api for our company. it'll be work on mac osx and window so, we'r realli newbi at electron. i just wonder there is a accept file structur or framework for electron ? because, i don't want to mess up my code in the future.
+Electron new app structure

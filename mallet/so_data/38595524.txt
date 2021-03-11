@@ -1,1 +1,1 @@
-i'm tri to copi an imag from a folder to anoth use fs-extra modul . i get this error error {errno: -4058, code: "enoent", syscall: "lstat", path: "e:\development\nod apps\nod softwares\digital_library\mainisp.jpg", message: "enoent: no such file or directory, lstat e:\devel… apps\nod softwares\digital_library\mainisp.jpg'"}note: i'm not test this in browser. it an nwjs app and the pic of error attach are from nwjs console.
+Copy a source file to another destination in Nodejs

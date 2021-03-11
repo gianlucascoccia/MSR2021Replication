@@ -1,1 +1,1 @@
-i am autom desktop application. the applic is base on an electron so i can easi to get xpath and other thing like a web application. but i am stuck on window alert.i am tri a robot class. but a key event not support in electron base application.pleas help me guy on this i also attach the imag pleas refer to this?ent imag descript here
+Handle window Alert..(electron base desktop application) in selenium web driver

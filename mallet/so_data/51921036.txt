@@ -1,1 +1,1 @@
-i want to connect my node.j client (node-webkit) to a socket.io server that i do not have direct access to. the server requir a connect to match a certain origin in the request header, but i cannot find a way to chang it.thi is what i have:.&nbsp;note: to check whether ani of these method work i look at the network tab in the devtool to see the request headers.
+How do I set a custom origin for socket.io-client connections?

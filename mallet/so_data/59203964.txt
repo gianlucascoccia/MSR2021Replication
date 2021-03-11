@@ -1,1 +1,1 @@
-i want to generat a excel file by simpli click on the button. im use electron for this and when test in browser (chrome), the generat file is direct goe to the download directory. but when i run the program as an normal applic with electron .', there is no sign that it success download and i do not now, where it downloaded.now i want to use a save as dialog. i tri a few options, unfortun without success so far. is there a simpl angular way to realis it?
+adding a saveAs Dialog to Electron Project with Angular and Typescript

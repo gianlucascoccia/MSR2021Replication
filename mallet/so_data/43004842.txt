@@ -1,1 +1,1 @@
-in my electron app, a user can open differ windows. i have the menu initi when the main window is creat like so:however, when a user click a link and open a new window, this same menu bar still appear in that window. i would like to chang it and/or complet remov it.how would i do that?
+Electron - Change Menu Bar in Different Windows

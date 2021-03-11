@@ -1,1 +1,1 @@
-i am develop an electron applic where i am use extern .ex files. in develop mode applic work fine.but when i packag the application, it is unabl to find those .ex files.how to includ .ex file in packag application. i am use electron-build for packaging.below is my configuration,look for help.thank
+How to package external .exe file in electron application

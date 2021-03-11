@@ -1,1 +1,1 @@
-i need for my user to onli be abl to select a folder to be saved. is it possibl in electron to onli allow folder to be select via ? filter onli work on file extensions, there no mention of filter folder only.
+Electron only allow save to a folder

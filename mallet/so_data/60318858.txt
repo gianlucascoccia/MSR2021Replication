@@ -1,1 +1,1 @@
-here is my specif problem: i want to use a custom http.agent for a websocket connect use engine.io-client. the problem is, i'm use electron, therefor i'm in a chromium environment, and i can't use a custom http.agent outsid a nodej environn agent (http.agent): http.agent to use, default to fals (nodej only)ani idea how to simul a nodej environn if i'm in a browser?hop i'm clear enough
+Can I set/use Nodejs environment in a browser?

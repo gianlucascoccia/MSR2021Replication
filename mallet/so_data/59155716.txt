@@ -1,1 +1,1 @@
-i have an electron app, which use modbus-seri modul to read and write to modbus plc regist addresses.i want a way to continu monitor ani chang to a plc address. if ani chang is found, updat it on application.i have success creat intern events, but i have no idea, how my applic can check if regist address is modifi by some extern factor.ani type of guidance/ help will be appreciated.
+How to listen to external event continuously in Electron/NodeJS?

@@ -1,1 +1,1 @@
-i'm write an electron desktop applic in typescript. after compilation, the project organ look someth like this:disthtmlindex.htmlscriptsapplicationview.jsapplicationviewmodel.jsin in the script tag. but electron run on node.js. if this is the right way to handl my problem, whi then would i need anoth modul loader? how would i make sure the two play nice?
+Electron and Typescript: How do I handle module at runtime correctly?

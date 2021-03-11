@@ -1,1 +1,1 @@
-i'm tri to use react-rout v4 insid an electron app.issu number one: electron load the initi page as route, error out and show a blank page.anyon ever dealt with this? are we just doom to an endless loop of manual electron restarting?
+react-router v4 + electron - Does a timeline exist where they play nice together?

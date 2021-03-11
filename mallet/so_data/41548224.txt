@@ -1,1 +1,1 @@
-when i run electron-osx-sign my app no longer opens. i can see in the dock that it tri to open for a split second, then immedi close with no error or warning. doe this have someth to do with how i am sign or the entitlements? cli: sudo electron-osx-sign app.app --provisioning-profile=my.provisionprofil --entitlements=parent.plist --entitlements-inherit=child.plistentitl patent:
+Electron-Osx-Sign is breaking my app

@@ -1,1 +1,1 @@
-when i use in dir app are my sourc code。it is sure that i can run .ex without them.how to configur electron-forge, that i can packag without copi sourc code?
+How to use 'Electron-forge package' without copy source code?

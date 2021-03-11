@@ -1,1 +1,1 @@
-hi i'v been stuck on this for days! i'm tri to use keycloak to authent my electron app after convert my react app use this guide.when i run npm run electron:dev , keycloak redirect to the login page. however, when i run npm run electron:prod this fails.log from keycloak server shows:whi is this work in dev but not in prod? is there someth i'm missing? thank you in advance!
+Keycloak authentication with Electron App

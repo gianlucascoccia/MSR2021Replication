@@ -1,1 +1,1 @@
-i'm play around with electron for the first time and i can't seem to refresh the content of a div upon click on a button. the button click contact a backend and return a result which i want to show in the said div (which at the begin is empty).i tri to check the but i couldn't seem to find those.do anybodi know how to updat dynam the content of an html element within an electron application?
+How to dynamically change the content of a div in Electron?

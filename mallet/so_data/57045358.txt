@@ -1,1 +1,1 @@
-i instal electron with vue use this tutorial.i look for answer how i can disabl auto reload ?i start my applic use .yes, i know i can disabl auto save in visual studio code, but this is not a solution.
+Electron with Vue disable auto reload

@@ -1,1 +1,1 @@
-follow this tutorial:https://www.youtube.com/watch?v=dz5snmbzbxci did this: no luck.edit 2here a screenshot of the whole thing:
+How to use electron-packager to create a custom icon in Linux?

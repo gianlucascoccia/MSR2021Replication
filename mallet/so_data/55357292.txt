@@ -1,1 +1,1 @@
-i'm work on a project in which the user will be abl to chang window app icon through an application. is it possibl to have electron perform such a task or is it imposs for the electron framework to actual communic with window like that?
+Is it possible to customize your desktop through the electron framework?

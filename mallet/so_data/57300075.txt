@@ -1,1 +1,1 @@
-i'v look all over i'm not sure where i should be looking. i want to run a variable, it log an empti string.what am i do wrong? ani guid on where can i learn bash scripting/siginit/etc for dummies? i still can't get my head around it or the doc i'v found so far.thanks, allyour help is much appreci moe
+What is the bash script equivalent of ctrl + c in Electron?

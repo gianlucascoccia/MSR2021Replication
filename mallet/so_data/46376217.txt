@@ -1,1 +1,1 @@
-it seems, i cant find ani answer for it on the web.i tri to disabl the electron menu, on a click event, but it fails.th code is someth like this but it doesn't work. i tri to do a consol log, but everyth seem fine with no except or error.
+Unable to disable electron menu item

@@ -1,1 +1,1 @@
-i have the follow problem. i need to cover the dock panel (bottom panel) on mac os with a new browserwindow - like photo in telegram messanger. the new window should be spread on the whole screen but not in fullscreen mode, becaus the fullscreen mode open the new display on mac os.alwaysontop - doesn`t work.thank you.example:
+Electron. How to cover the dock panel with a new BrowserWindow?

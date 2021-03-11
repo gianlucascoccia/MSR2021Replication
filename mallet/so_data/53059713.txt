@@ -1,1 +1,1 @@
-with the sourc code of "https://jsfiddle.net/soulwire/4ooupev9/"i was abl to implement the json-sav code.but the problem is i need to chang the default download path to my project folder.i it possibl to do so?i'm go to use this in electron app.thank you so much for your help.
+change save dialog's default path in Electron, javascript

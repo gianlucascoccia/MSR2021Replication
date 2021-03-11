@@ -1,1 +1,1 @@
-i'm a react noob here, use electron also.i just instal the npm packag call file which i asum that creat on runtime.which should be the correct approach to achiev what i want?
+How to change external script url from node module (webpack?)

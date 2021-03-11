@@ -1,1 +1,1 @@
-we have made an electron app where the user add some file to our s3 bucket. if the date &amp; time of the comput is incorrect then s3 upload fails. we would like to tell the user how to troubl shoot. is it possibl to launch the window date time set from node so that we can make it easier for the end user?
+Open Windows date time setting from electron app

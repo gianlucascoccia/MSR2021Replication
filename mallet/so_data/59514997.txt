@@ -1,1 +1,1 @@
-i load it from tasks.html with
+addEventListener not working when i import module in the same javascript from electron

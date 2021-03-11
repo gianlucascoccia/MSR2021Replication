@@ -1,1 +1,1 @@
-i'm get a error: fs.existssync is not a function code after i bundl my code use browserify.befor i'v tri to use require() but i kept get error: requir is not defin due to requir function not support on client side. browserifi seem a solut to use. i'v manag to solv requir error with browserifi but anoth one came up - fs.existssync is not a function.her is the error code as shown on my console:i'm use electron, angularj and sqlite to build my app but i'm stuck on this error, ani help will be appreciated.
+Browserify / Electron / AngularJS Error: fs.existsSync is not a function

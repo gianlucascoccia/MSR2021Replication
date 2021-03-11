@@ -1,1 +1,1 @@
-while instal electron i'm get this error again and again. i tri differ versions, switch from window to linux, use proxy, chang the registri but the error is occur again and again
+npm ECONNREFUSED 127.0.0.1:80 while installing electron

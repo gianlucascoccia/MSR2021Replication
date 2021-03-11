@@ -1,1 +1,1 @@
-i have two strings.th first one is a xml string, save as a string, not from a file.th second one is a string i load from a xslt file with too, but it onli accept file as parameters.edit 1:to provid you an overview, the xslt file and an exampl xml file (both handl as string in the app) can be download here:stylesheet in a zip fileexampl xml file in a zip
+Transform XML String [not file!] with XSLT String in Node.js to HTML

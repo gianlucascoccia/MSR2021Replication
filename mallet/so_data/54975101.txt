@@ -1,1 +1,1 @@
-the most popular boilerpl for vue/electron usage, seen here: https://github.com/simulatedgreg/electron-vuei outdated, and onli use vue cli2.
+How do you use a modern version of Vue (Vue CLI3) with Electron?

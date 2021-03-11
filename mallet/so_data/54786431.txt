@@ -1,1 +1,1 @@
-i'm creat an intern applic in electron. for secur reason i want to make sure that accident inform is not get upload to some other web urls.i there ani way to do this in electron app ?
+Is there any way to restrict nodejs electron app to access to only certain web address

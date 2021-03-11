@@ -1,1 +1,1 @@
-am look to use a forerunnerdb , as a standalon databas and run an electron framework to creat a desktop , am have problem implement the bootstrap process, but i get requir == undefin error , where do bootstrap the forerunn
+bootstrapping forerunnerDb into angular- electron app

@@ -1,1 +1,1 @@
-i am tri to send text to my network printer via tcp connection.ani suggest what could caus this error?
+Uncaught Error: connect ETIMEDOUT (net.Socket)

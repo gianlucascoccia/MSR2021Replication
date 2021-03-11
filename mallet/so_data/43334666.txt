@@ -1,1 +1,1 @@
-so a simpl thing like an 80 element array pass to new set() produc an equal larg setan empti set is return in electron 1.4.15is there some limit i can't find in the docs?
+why doe Electron "new Set([large iterable])" produce an empty set?

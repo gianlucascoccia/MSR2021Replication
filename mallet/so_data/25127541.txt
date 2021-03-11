@@ -1,1 +1,1 @@
-i'v seen someon build a cross-platform node modul for access and manag print jobs. is it possibl to somehow creat a similar modul for access comput imag scanner? i'd like to creat a nice nodewebkit app that would eas the process of scan lot of paper document for my users.
+How to use image scanner with node.js

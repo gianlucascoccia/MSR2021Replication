@@ -1,1 +1,1 @@
-i'm tri to enabl googl chrome nativ messag between an extens and an electron app on macos. after have setup all mention in the doc (manifest and permiss for enabl nativ messag within an extension), when i tri to open a connect between the app and extens i receiv "nativ host has exited".thi is the code:i'm not sure, but also disabl everyth host side, i receiv the same error. mayb it happen befor reach the host but i'm not abl to figur it out!
+How to fix 'Native host ha exited'

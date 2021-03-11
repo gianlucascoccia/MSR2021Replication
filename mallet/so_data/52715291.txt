@@ -1,1 +1,1 @@
-i am tri to resiz my imag use jimp. but i am constant get an error saying: error: cant access the filesystem. you can use the getbase64 method.i am using:electronjsvuejsvue-cli-plugin-electron-builderi have also made my gitlab repositori public avail just in case someon what to reproduc an error: gitlab linki have also found that someon alreadi rais an issu as a bug: https://github.com/oliver-moran/jimp/issues/639 did anyon had this type of issue?
+Error: Cant access the filesystem. You can use the getBase64 method [ElectronJS + VueJS]

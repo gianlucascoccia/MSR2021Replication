@@ -1,1 +1,1 @@
-i'm tri to get these 3 to play nice together, for the most part - they do, unless i tri to use i use these resources: https://github.com/robinfr/electron-react-typescripthttps://taraksharma.com/setting-up-electron-typescript-react-webpack/can i get some hints/explan what is go on here? i am kinda lost.
+Electron, Typescript, React - A webpack issue

@@ -1,1 +1,1 @@
-i am creat an electron app that act as an overlay to anoth app.sometim part of my interfac are not visibl but the electron i want to immid make the oper system trigger a mous click again at the current cursor position. this will ensur the user experi is like my overlay wasn't actual there at all (becaus from the user perspective, it wasn't).how can i accomplish this?
+Electron create actual mouse click in operating system

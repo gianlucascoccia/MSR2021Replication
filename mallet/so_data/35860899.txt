@@ -1,1 +1,1 @@
-i have wrote an applic with electron, everyth work in develop env.but after the ani idea?
+Invalid Date error after packaging an electron app

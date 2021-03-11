@@ -1,1 +1,1 @@
-i had a difficult about decrypt imag with crypto.j aes. i need to read an encrypt imag download local from the service, then i need to decrypt it. now i fail to decrypt the picture. but if i just decrypt the base64 of the encrypt image,i will be abl to decrypt it successfully.so here a demo that i'm do in electron-vuei expect to be abl to success decrypt the encrypt image, pleas help me, thank you!
+How to decrypt image use crypto.js

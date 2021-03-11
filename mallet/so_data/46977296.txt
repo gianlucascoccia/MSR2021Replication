@@ -1,1 +1,1 @@
-i am tri to run this code but everi time i am get this error message. first i instal
+Cannot read property 'on' of undefined in electron javascript

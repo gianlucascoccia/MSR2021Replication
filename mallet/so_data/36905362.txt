@@ -1,1 +1,1 @@
-i'm use electron-json-storag to read/writ json file and ngelectron in an electron app. the guid for electron-json-storag read this:when call that function from angular use ngelectron, it print ok in console, but how can i get the object to store it in a scope and use it later?
+How to send json back to angular using electron-json-storage

@@ -1,1 +1,1 @@
-i am work on an code editor as a web app thank to electron.mi problem is short:when i build my app with electron-packag all my web folder and file goe to the file call "app.asar". but i want to have an except for my folder call "themes" so it will be as a folder insid the app folder and not insid the "app.asar" file.it would amaz i get some answer. thank you guy :)
+I want to don't build one specific directory of my Electron app packaged with electron-packager

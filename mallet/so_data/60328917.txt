@@ -1,1 +1,1 @@
-i'm get the follow error as i tri to instal nwjs on mac use npm. i'm new to nwjs, anyhelp will be appreciated. thank
+EACCES: permission denied installing NWjs on Mac using npm

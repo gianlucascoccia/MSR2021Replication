@@ -1,1 +1,1 @@
-i'm new to js development, basic from php background. i was wonder if there is a way of includ html page like we do in codeigniter(load views). im tri to creat a templat structur to my electron applic where header and footer file is load on everi html page requested.i cant tri the jqueri load method how do i attach the header and footer direct in this method? also i'm use express if that helps.
+Dynamically loading html file in electron application

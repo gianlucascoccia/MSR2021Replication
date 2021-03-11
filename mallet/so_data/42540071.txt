@@ -1,1 +1,1 @@
-i wish to creat a dialog box (a modal window) that will display when a user click the "about" link on my applic menu. i'm think someth along these lines:th messag that i get is that document is not defin i believ this is becaus the menu for the electron app is in the main process and the dom for the page is in a render process.i know there is a way for communic between the main process and remot process but it is realli confus to me. can someon give me an idea of what the next step are?p i'm use nodej and express with electron
+manipulate the DOM in electron with a menu item

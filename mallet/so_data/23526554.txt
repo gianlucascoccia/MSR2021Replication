@@ -1,1 +1,1 @@
-i'm new to angular and nedb. i'm tri to use an array from a nedb for ng-repeat.i don't understand whi my code don't workth output in the consol is the same, and ng-repeat work
+Using nedb array for ng-repeat

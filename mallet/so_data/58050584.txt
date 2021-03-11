@@ -1,1 +1,1 @@
-i'm tri to load i end up with these error in the electron app devtool /home/alexander/deve…enderer/init.js:166 unabl to load preload script: /home/alexander/develop/electron/app/app/preload.j /home/alexander/deve…enderer/init.js:167 referenceerror: path is not defin (anonymous) @ /home/alexander/deve…enderer/init.js:167
+How to run knex in electron's preload js?

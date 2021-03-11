@@ -1,1 +1,1 @@
-in an electron application, i'm interest in open a window that is render by sdl, not chromium renderer. the onli way to open a window that i can find is the class. is there ani way to do this? or will i need to use someth like cef instead?i'm comfort write node c++ addon or patch electron, but am not sure how to approach here.
+In Electron, how can I open a window that isn't a BrowserWindow?

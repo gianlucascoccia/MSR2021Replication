@@ -1,1 +1,1 @@
-i made a small window desktop app use electron and vuejs. it work fine when i run it with serve:i'm new to vuej and new to electron, and i have no clue at this point what actual wrong.
+Electron VueJS - Error in build - Failed to register app protocol. ENOENT, \dist_electron\bundled not found in app.asar

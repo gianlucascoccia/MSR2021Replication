@@ -1,1 +1,1 @@
-1) i'm tri to get this work just for test purpose, can you help me out?
+Jquery: Open a new HTML window when button is click

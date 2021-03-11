@@ -1,1 +1,1 @@
-i'm use nodej and electron to make an app. as electron use html, i need a variable. is this possible, and if so how? i'v been search googl for age now, and i can't find an answer. sorri if my question isn't veri clear.ani help is much appreciated. thanks!
+How do I access a dotenv variable in a html file?

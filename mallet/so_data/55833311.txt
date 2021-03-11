@@ -1,1 +1,1 @@
-i want to use session to store persist pref (until sesson is cleared), from the main process.i did a:for (let n in session.defaultsession) { console.log('n:', n); }but cannot find out how to access localstorage, anyon have ani ideas?th abov printed:which line up pretti well with https://electronjs.org/docs/api/sess
+Access and use session.defaultSession localStorage from main

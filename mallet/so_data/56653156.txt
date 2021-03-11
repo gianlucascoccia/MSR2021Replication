@@ -1,1 +1,1 @@
-i am work on a desktop applic build use electronj framework on windows. may be i haven't understood docker properly, but how do i use docker for this app?mi end goal is to not let peopl instal node, npm and electron packag on their local system. they can use the docker imag to develop this application.updatei figur out how to packag my project in docker image. now i am struggl to run the app through the docker container. how to run a gui(electron application) applic use docker container?thanks.
+How to to use Docker for ElectronJS app built in Windows?

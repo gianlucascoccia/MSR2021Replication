@@ -1,1 +1,1 @@
-i am use elect framework to built .ex and .dmg files. in the app i have a button, click on which it must open default email applic instal on the system to send an email.follow is the code to open email client but, it onli work on few systems.note: it is alreadi check that other system also have default email client.i there ani better way to do it. so, it will work on all system?thank in advanc for provid help and your precious time !
+Electron: Open default email client

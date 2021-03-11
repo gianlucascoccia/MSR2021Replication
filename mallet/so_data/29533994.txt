@@ -1,1 +1,1 @@
-i use node-webkit-build to packag my nwjs application.sinc the program run directori path is not same as the instal directori path( the run directori path is like this: c:\users[username]\appdata\local\temp\nw7388_7201 ). i don't know how to add my config.j file in the instal directory, and read it in my nwjs app.best regards.
+How to add a config.js file into nwjs install directory?

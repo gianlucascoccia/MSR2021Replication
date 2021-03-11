@@ -1,1 +1,1 @@
-this post provid answer to move a main window to second screen. if an app has two windows. how do i move second window to second screen or a specif screen? ani help will be great appreciated. thanks.
+node-webkit - moving second window to a second or specific screen

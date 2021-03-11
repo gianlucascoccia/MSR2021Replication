@@ -1,1 +1,1 @@
-i have a nodej app with modules, view etc..i it possibl to open this app with node-webkit instead of open it in the browser ?thanks.
+Run node.js app with node-webkit?

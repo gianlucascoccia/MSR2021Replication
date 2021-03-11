@@ -1,1 +1,1 @@
-i tri just simpli put the ipcrender messag insid of executejavascript but it return ipcrender is not definedmi ipcrend is defin use window.ipcrenderer: this is load as a preload script for a webpage.
+How to use ipcRender inside executeJavascript?

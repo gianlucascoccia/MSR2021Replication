@@ -1,1 +1,1 @@
-i'm write an applic with electron and server side node js. now i have certain file that would be the same between both, i was think i could make someth like a "shared" folder for share modules. so: is electron includ those (or electron packag or whatev (you can happili suggest something)) includ such file in the compil version? i'm also wonder if i could have global librari that will "copy" themselv into the compil version?mani thanks, elia :)
+Electron file outside root

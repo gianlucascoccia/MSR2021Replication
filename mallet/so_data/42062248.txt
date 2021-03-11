@@ -1,1 +1,1 @@
-as i couldn't find anyth regard this topic, i'll just ask straight away: is it possibl to set custom header while use electron.shel to open an extern website? i need to set cooki for authentification, but i can't find ani solut to this. i couldn't find anyth in the doc either, so i guess it not possible, but i'd like to know for sure. thanks!
+Set custom Headers in shell.openExternal with Electron

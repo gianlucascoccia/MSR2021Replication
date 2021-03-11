@@ -1,1 +1,1 @@
-i am use menubar(https://www.npmjs.com/package/menubar) and i need to send inform to it from the main process, but it doe not seem to be working.onc my app load it creat the menubar and also request some inform from the server. the server return inform about a user be a manag or not. that is confirm to be work fine. if the user is a manager, i want to display a button in the menubar window./* main process */the window insid the menubar should actual log "true", but it doe not print anything.
+Communication with the menubar window from main process is not working

@@ -1,1 +1,1 @@
-i'm write a desktop app with ..but without success.
+Can't see SVGs (evil-icons) after packaging electron app

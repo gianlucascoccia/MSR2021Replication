@@ -1,1 +1,1 @@
-i'm use relay with cra in an electron container, and i'm get a veri odd error i can't seem to diagnose: it appear the graphql fragment, as imported, contain webpack artifacts?
+Could not create Relay Container; graphql.js file appears to have webpack artifacts?

@@ -1,1 +1,1 @@
-i wan't to creat zip file on
+Create ZIP Files and Deploy a GitHub-Release on AppVeyor

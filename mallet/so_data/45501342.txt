@@ -1,1 +1,1 @@
-i instal the latest version of node and electron and tri out the samples. they work when i enter "npm start".however: when i tri to make an app in anoth folder and launch it, i get this npm-debug.log:i'm afraid my instal wasn't 100% ok, what should i do? instal again? how do i uninstal correctly? - i'm stuck, pleas help ;-)
+Electron works, a bit...?

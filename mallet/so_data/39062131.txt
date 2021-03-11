@@ -1,1 +1,1 @@
-i am tri to make app window fullscreen on click but get follow error
+Electron set fullscreen onclick

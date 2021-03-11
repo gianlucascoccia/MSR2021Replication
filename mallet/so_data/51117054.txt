@@ -1,1 +1,1 @@
-i'v been follow the guid to learn about custom elements. i can get the basic one to workjsconsol output(nothing)th worst thing is, i'v even tri copy-past this exampl which work on chrome, into my own code, and somehow, it doe not work for electron..https://mdn.github.io/web-components-examples/expanding-list-web-component/what could be wrong?i should mention i am use electron
+Customzed built-in element doe not work in Electron

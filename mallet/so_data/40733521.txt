@@ -1,1 +1,1 @@
-i'm run electron quick start project. i'm on window 10 run bash (the ubuntu shell that come with the os).initi had some issu with npm and instal ani advice?
+Electron not working out of the box on Windows bash

@@ -1,1 +1,1 @@
-i'm get start with electron and i'm tri to set up my app to use react. i'm also new to react, webpack, babel, npm...pretti much the whole node.j ecosystem and build tools. i start from scratch. i think i'm pretti close, but i'm stuck tri to compil my main jsx file:what am i do wrong? how can i get everyth configur correctly?
+How to configure Electron, Webpack, Babel, React, and JSX?

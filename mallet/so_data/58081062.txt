@@ -1,1 +1,1 @@
-i am read from a json file and assign the json to a global variable, but it seem to not work as the global variabl remain undefined.
+How to refer and assign to a global variable inside an anonymous function?

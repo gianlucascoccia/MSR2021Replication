@@ -1,1 +1,1 @@
-i want to ask user if he realli want to close an electron app.accord to doc - i'v tried:but my app still close no matter what user choose.how to prevent close an electron app conditionally?
+Electron.js prevent window close conditionally

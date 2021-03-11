@@ -1,1 +1,1 @@
-is it possibl to load local html file use webview in node-webkit ? if possibl how to achiev the same. i tri creat object url use blob and assign it to the "src" of webview but it did not work.
+How to load local file in node-webkit webview

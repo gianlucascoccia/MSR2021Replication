@@ -1,1 +1,1 @@
-how can i set the version of node webkit in gulp file?i have this code: when i run the comman gulp run it instal the version 0.13.0 bete and i want it the version 0.12.2.how can i do this?thank you!
+How to set the version of a Node Webkit in gulp file?

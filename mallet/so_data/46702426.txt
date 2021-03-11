@@ -1,1 +1,1 @@
-my applicationmi electron app languag is english, but my system is chinese.so i found the applic menu will appear some chinese.how could i fix this? or how could i set the languag in english.
+How to set the application menu language in Electron App?

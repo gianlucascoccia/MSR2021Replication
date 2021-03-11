@@ -1,1 +1,1 @@
-is there a way to creat ani window with one function, and be abl to identifi it? for example, focus the second window.
+Electron: How to dynamically create windows?

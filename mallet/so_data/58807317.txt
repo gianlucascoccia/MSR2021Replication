@@ -1,1 +1,1 @@
-i am use simulatedgreg/electron-vu for my project. my npm run dev look alright. but npm run build give me an error. error look like this-i can't figur out what go on.what is wrong with that or what should i do to run this project.thank in advance.
+electron-vue npm run build failed on SimulatedGREG/electron-vue

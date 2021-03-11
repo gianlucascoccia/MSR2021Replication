@@ -1,1 +1,1 @@
-i'm write a databas applic in node.j via electron. the user need to be abl to select a json file from anywher on their system, and i need to get the path or in some other way copi it to the program directory. i'v tri a varieti of differ method but the onli thing that even make a dialog is in it (i believ this is for browser security, but i don't need that sinc again, electron app). ani help is appreci
+Javascript get local file path via a dialog

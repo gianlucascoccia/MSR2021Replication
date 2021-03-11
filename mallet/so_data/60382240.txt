@@ -1,1 +1,1 @@
-i want to know if it was possible, use electron, to display an html tabl list all file (have the ".csv" extension) contain in a folder. i heard that it was possibl use php but i don't know exact how to do it. my electron app is produc csv file and i want a list of all file produc to be display in the screen. the user would have the choic of save the file, see the content of the file, and delet the file.i want them to be display like that : enter imag descript here.thank in advance.
+How to display a list of folder content in an electron app?

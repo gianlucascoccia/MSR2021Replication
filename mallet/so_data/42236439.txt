@@ -1,1 +1,1 @@
-there are lot of question relat to set icon use
+Electron-packager not setting icon

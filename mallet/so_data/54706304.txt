@@ -1,1 +1,1 @@
-i have creat electronj applic and also creat
+Permission denied when create file in mac o using electron

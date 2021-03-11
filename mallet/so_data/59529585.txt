@@ -1,1 +1,1 @@
-i am work on electron app.in the app, there is featur of screen record and send that to server.w can check a microphon permiss status use getmediaaccessstatus api but how can we check a screen record permiss status?
+How to check permission status of screen capture in electron (macOS catalina)

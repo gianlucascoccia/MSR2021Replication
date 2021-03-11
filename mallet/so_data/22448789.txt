@@ -1,1 +1,1 @@
-https://github.com/rogerwang/node-webkit/wiki/how-to-package-and-distribute-your-appswhil packag my node-webkit app for window use the step given in the abov link i could not find how to avoid readabl of the result execut from the merg by archiv software, such as winzip. excerpt(from link above): "the result execut from the merg will still be readabl by archiv software, such as winzip."i it possibl to avoid readabl by the archiv apps?ani help is appreciated!
+Packaging node-webkit App

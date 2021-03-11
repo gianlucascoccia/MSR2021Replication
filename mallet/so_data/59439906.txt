@@ -1,1 +1,1 @@
-i want to make a small youtub download and im face to the problem of actual download stuff with it. right now i have instal the youtube-dl.ex and my plan is to execut the programm in js and add the properti "download link" and "--audio-format mp3". but how do i do it?i'm use electron and bootstrap. this is my code so far : mainwindow.html:
+how to execute a command line programm with additional properties?

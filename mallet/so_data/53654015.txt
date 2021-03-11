@@ -1,1 +1,1 @@
-so i am use nedb as a data store for a simpl littl project, and i want to creat a littl api that insert someth new and return the list of all item in the datastore, includ the new one. query. this is a basic test case as i get familiar with nedb.
+getAllData doe not include element just inserted, even after callback

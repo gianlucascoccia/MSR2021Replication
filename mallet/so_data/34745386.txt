@@ -1,1 +1,1 @@
-i am write an applic that use two compon that appear to be conflict with each other.liquidfun.j and node.js/nw.jsi am use liquidfun to do a fluid simulation. i am use window.get() in nw.js to set the window zoom level. each work without the other.her is the error when i run both simultaneously.
+Using liquidfun.js within nw.js

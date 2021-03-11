@@ -1,1 +1,1 @@
-i tri to follow the direct in the keybind settings, but it didn't work.i copi the default entry, open the keymap file, pasted, chang to all', and saved.i chang two file then press ctrl-shift- but they still had the blue modifi marker.i tri the keybind resolv mention in the comment with ctrl-., and it seem to recogn what i created, but it not save all files.atom 1.27.2
+How do I make CTRL-SHIFT-S bind to Save All in Atom?

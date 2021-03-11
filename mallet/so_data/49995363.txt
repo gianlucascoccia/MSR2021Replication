@@ -1,1 +1,1 @@
-i am design an electron applic with a tabpane. howev when the user make the window smaller or add more tab the scrollbar that is suppos to let user see all the tab doe not work correctly. the scrollbar allow for a littl movement but most of the tab overflow regardless. i have upload a strip down code snippet version of the app here so you can see my problem in more detail.&#xd;&#xd;&#xd;&#xd;&#xd;
+HTML/CSS, Electron: Tabpane scrollbar doe scroll and tab overflow

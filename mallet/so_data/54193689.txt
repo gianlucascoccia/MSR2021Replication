@@ -1,1 +1,1 @@
-i saw mani code in autohotkey to block the touch-pad while type but now i want to block touch-pad without type anyth like when i run the format file ahk, it will be block touch-pad by use autohotkey tool. so if you know the code or way to disabl it pleas help me out this that.her is my current code:
+How to disable touch-pad without typing AutoHotKey?

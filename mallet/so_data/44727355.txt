@@ -1,1 +1,1 @@
-i'm interest in modifi this project:bookmark app with electronthi is my first interact with electron, and this project use firebase, but i'm not familiar with it, and it would be realli nice if i could use a local file for the storage, but i realli am not familiar with javascript for system programming, so this probabl is simple.
+How to modify a project to use a local file instead of Firebase for storage?

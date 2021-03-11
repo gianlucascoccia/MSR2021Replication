@@ -1,1 +1,1 @@
-so it look like with newer electron you can just start it off in typescript right away with electron main.tsthough you can't do and you'd still need to require('./file.ts'). and i notic that when i build it the .ex still complain that it need a main.j file.how can i solv these two issu without go with a compil (just load typescript directly)?
+How to use typescript in electron without having to compile?

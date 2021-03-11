@@ -1,1 +1,1 @@
-i am creat an app use nw.js and was wonder if there is a way to access the api via http requests.
+Active Collab 5 API – HTTP Request

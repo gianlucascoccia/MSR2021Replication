@@ -1,1 +1,1 @@
-i'm use this starter kit to creat an electron application. when i tri to import electron modul into an angular 2 compon like this:
+Load electron module in Angular 2 and Webpack

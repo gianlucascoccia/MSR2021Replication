@@ -1,1 +1,1 @@
-i am tri to get the event maxim and minim but there an error sometim occuring:code:error:i don't know what this error mean but the program quit after i click "ok"."funct provid here: main.js:408:27" &lt;- this line number doesn't even exist in my main.j code!!!edit: the error occur when the minim window is shown.
+Remote-function error on (un)maximize

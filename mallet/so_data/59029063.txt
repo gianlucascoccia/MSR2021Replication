@@ -1,1 +1,1 @@
-[i tri to make a googl login use the googl react librari login on nextron: next js + electron, onli when i run it with the thread dev command googl login was success and there was no problem but when i run the build version with the thread build command i experienc a problem that is cannot read properti sign in'] can did you help my problem?1
+react goggle login implementation in next j

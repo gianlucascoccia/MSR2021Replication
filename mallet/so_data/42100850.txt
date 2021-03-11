@@ -1,1 +1,1 @@
-let brainstorm for a bit. i have an electron app, which doe a bunch of stuff, and what i want to do is to have my user sign in to slack more easily.th ideal solut would be to present my user with a button which would open up slack web app, and log them in automat to slack via some oauth black magic.of cours the ideal solut doe not seem possibl (mayb it is, and i am an idiot?). so i start wonder about differ type of login my user could have, iframes, signin with slack etc. but none seem to solv my problem.do you guy have ani idea?
+Slack automatic Login

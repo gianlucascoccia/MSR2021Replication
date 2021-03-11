@@ -1,1 +1,1 @@
-is there a way to save : save pdf direct to file use jspdf
+How to write and save file directly using JSPDF

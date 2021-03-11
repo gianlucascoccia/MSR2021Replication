@@ -1,1 +1,1 @@
-i am write a basic web applic use electron 6.12.1issu i am face in the script of html fileuncaught referenceerror: requir is not definedat addwindow.html:21(ther is two window 1 is mainwindow.html in which option to open 2nd window which is addwindow.html)her is the code of main.jshelp !!!
+Uncaught ReferenceError: require is not defined at filenae.html: (electron)

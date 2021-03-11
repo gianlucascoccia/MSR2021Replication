@@ -1,1 +1,1 @@
-i have set electron-build to build into my dist folder which is current not be track by version control. i use git as my vcs and github as my remot repository.i recent includ electron-packag and i now want to publish to github but i'm not so sure if i should includ the dist folder in version control or whether electron-build will handl publish and i won't have to push the build file to git.
+Should electron-packager distribution file be included in version control?

@@ -1,1 +1,1 @@
-i am build an app use electron and test with jest and is veri new to this.writ a sampl test now and want to simul a button click.her is in my html file: to see if it has actual been click but i do not see them be logged.so confused, all the refer i find onlin are for reactjs. can't see anyth for electron/jest and click simulation.am i miss something? or am i simul the click incorrectly? or perhaps, is it not find the html file where the button be click is located? help!
+Simulating a click using Jest and Electron

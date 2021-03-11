@@ -1,1 +1,1 @@
-relat newbi here...tri to get sentri to take-in my electron (react) app. doc say to npm instal the raven-j module.then run a: ).notedoc say to put a cdn in the html. there is a diff one for npm than common-js. i'v tri both. no joy.to add further confus - this has connect success twice today, but there was a delay on it of about 8 minutes. mean i was tri to fix it when it was connected. what am i do wrong?
+Sentry/Raven on an Electron React app - what am i doing wrong?

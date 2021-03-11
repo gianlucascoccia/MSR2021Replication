@@ -1,1 +1,1 @@
-i tri copi and past file from one directori to another, and there error error: enoent: no such file or directory, stat d:\transfer\roliki\rolikinow\реклама - alesa04032016.mp3', although path and file exist. if i give arg to fs.copesync "manually" it work well
+Why fs.copySync didn't work a expected?

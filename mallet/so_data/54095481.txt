@@ -1,1 +1,1 @@
-i would like to creat a module, where i have a function where i can insert a sql statement and get the result as recordset. im new to nodej and have some troubl in access the function right.mi modul (sql.js)i get an undefined.it seem like, the sql.connect isnt rli called.
+Access Function in a Exported Module

@@ -1,1 +1,1 @@
-i'm tri to load content from electron webview and transform it befor rendering.i am wonder what the best practic for this kind of thing. should i run someth like after loading? that doesn't feel clean.i wonder if there a way to hijack the traffic in the main process and transform befor returning..
+What's the best practice for transforming content inside Electron WebView?

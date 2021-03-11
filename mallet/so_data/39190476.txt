@@ -1,1 +1,1 @@
-i want to implement a custom action bound to the . but when you press ⌘r the page reload instead of perform the custom shortcut defin in the template.anyth i'm miss here?
+Disable reload via keyboard shortcut electron app

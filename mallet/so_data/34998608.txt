@@ -1,1 +1,1 @@
-i'v creat a littl script with sql.js documentation, but i'm unabl to write buffer into a.db (win) consol give me error: "uncaught typeerror: must start with number, buffer, array or string"i that someth regard "var data = db.export();" function or is there someth wrong in my code?
+electron sql.js Uncaught TypeError: must start with number, buffer, array or string

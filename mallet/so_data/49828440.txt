@@ -1,1 +1,1 @@
-i am use electron-dl to download a file but i cant seem to make it work.i did almost exact same as defin in doc but i dont know what is wrong.error:i get the follow error on main processpreview:
+Electron-dl Cannot read property 'then' of undefined

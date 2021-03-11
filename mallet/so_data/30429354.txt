@@ -1,1 +1,1 @@
-i want the html file onli run with node-webkit becaus of licens purpose, not allow to run on ani other browser (chrome, safari, firefox...)can we check by the html file that it run with node-webkit or not?
+Check that Html is using with Node-webkit or not?

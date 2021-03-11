@@ -1,1 +1,1 @@
-i am use nodewebkit to creat an app that use folders.i need to get the path of the folder, but the user should select which paths.th nw api tell to use: of cours it alway show nothing. how to do this properly?
+nwdirectory pas a model to angular

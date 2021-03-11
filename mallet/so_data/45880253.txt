@@ -1,1 +1,1 @@
-i have an nwjs mac app hello.app. i sign the app use entitl and creat a packag hello.pkg which work fine.now i wish to add an eula agreement insid this package. can someon suggest me how should i achiev this?what i tried:gener distribution.plist or xml from hello.appproductbuild --synthes --product "hello.app/contents/info.plist" --packag hello.app distribution.plistupd the plist with readme/licens filespleas provid suggestions.
+Add EULA Agreement in package file of a mac app

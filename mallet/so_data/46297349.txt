@@ -1,1 +1,1 @@
-im tri to includ this librari into my electron app and it work when i start my electron app in develop mode (
+Using vanilla javascript library with electron/typescript

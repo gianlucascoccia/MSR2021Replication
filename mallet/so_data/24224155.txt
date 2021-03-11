@@ -1,1 +1,1 @@
-im have a lot of troubl in node webkit to convert html to pdf. im use wkhtmltopdf 0.12.1 and did the npm instal wkhtmltopdf. here is my node code:it gave me an error. later i found this https://github.com/devongovett/node-wkhtmltopdf/pull/9 i did the correct and im not get ani error anymor but the pdf that i get in return is corrupted.ani idea ?
+node wkhtmltopdf create corrupted PDF in node webkit

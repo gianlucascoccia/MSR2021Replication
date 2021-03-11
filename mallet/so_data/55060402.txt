@@ -1,1 +1,1 @@
-i'm not abl to build an execut file of an . instead, i'm get the follow error messag when open the file in nautilus: could not display "electron-tutorial-app" there is no applic instal for "share library" files. do you want to search for an applic to open this file? [no] [yes]i there ani way around to do this?
+Electron executable not recognized by Nautilus

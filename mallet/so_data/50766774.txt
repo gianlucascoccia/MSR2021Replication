@@ -1,1 +1,1 @@
-i have problem to enabl firebase/firestor offlin persist with electron and vue.js.thi is my code: firebaseinit.jsthi code return an error on console:
+Node.js Firestore SDK Error on Persistence Offline

@@ -1,1 +1,1 @@
-i have creat a nw.js desktop application. my requir is to read data from hid devices. so am use node-hid module. i have written code specif to read and pars data in usbreader.j file.in my main.html file am tri to execut node command like below:but am get error saying: node is not recogn as an intern or extern command, oper program or batch file.pleas help me how can i execut this node js file from nw applic
+How can I execute node file from nw application

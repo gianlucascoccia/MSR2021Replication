@@ -1,1 +1,1 @@
-i am write an electron applic that use local storag as a persist mechan for the redux store. however, when i build the product version the dev version of local storag remains.how do you automat clear local storag when pack your app use electron-builder?
+Clearing local storage on running electron-builder

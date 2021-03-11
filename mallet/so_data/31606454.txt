@@ -1,1 +1,1 @@
-how to implement notif api on electron app?i tri check noth happens. is it even supported?
+Using Notification API for Electron App

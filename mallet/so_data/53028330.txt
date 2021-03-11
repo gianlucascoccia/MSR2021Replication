@@ -1,1 +1,1 @@
-when attempt to use the to work proper in an electron app?
+Using Electron with Reactstrap cause error: Uncaught SyntaxError: Unexpected token :

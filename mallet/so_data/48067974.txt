@@ -1,1 +1,1 @@
-can electron be compil into os, base on chromium os instead of chromium browser? at least theoretically.so i can instal my softwar without ani os. it can save some resourc on kiosk-lik projects, where note will be use on machine, besid my program.
+Is it possible to build an Electron app on Chromium OS instead of Chromium?

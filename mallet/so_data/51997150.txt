@@ -1,1 +1,1 @@
-when i use
+after build,electron flash can not work

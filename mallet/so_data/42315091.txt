@@ -1,1 +1,1 @@
-i'm build an app use electron with electron-react-boilerpl found here https://github.com/chentsulin/electron-react-boilerplate.git , it all work fine.but when i am tri to use d3, electron alway throw me the error . my config:electron 1.4.15chromium 53.0.2785.143node@6.9.4 | win32 | x64react 15.4.2d3 4.5.0i hope someon can help with this issue.
+Using D3 with Electron React app

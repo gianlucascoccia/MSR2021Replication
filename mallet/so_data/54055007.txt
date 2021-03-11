@@ -1,1 +1,1 @@
-i'm program an applic with electron framework (https://electronjs.org/).what i want to do is just to set a cooki local for the applic and read it back next time .i don't know how to achiev that. this: electron cooki doesn't seem to work. when i call getcookie('cookiename') my code is stuck.thank you!
+How to set a cookie in Electron Framework?

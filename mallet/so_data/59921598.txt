@@ -1,1 +1,1 @@
-i have an
+Is it possible to externalize Electron menu template code?

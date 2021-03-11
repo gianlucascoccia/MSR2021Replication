@@ -1,1 +1,1 @@
-i am use angular2 with electron and webpack.i am tri to get a hold to the to target electron.th intent is to open a new browser window object much like done here http://manos.im/blog/electron-oauth-with-github/
+Angular2 and electron accessing browserWindwow object

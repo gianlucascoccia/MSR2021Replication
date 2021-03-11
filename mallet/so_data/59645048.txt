@@ -1,1 +1,1 @@
-i have develop a desktop app, use nodejs, electron, react, sqlite3. the applic work fine in develop mode, but when i make my applic in product mode, reactj and electron work fine but my server is not work in production.i there ani way to make sqlite nodej api to run in product mode on a client system, without instal nodejs. onli i will instal my product software.
+How to run nodejs server in electron production mode?

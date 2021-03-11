@@ -1,1 +1,1 @@
-i made a basic electron tray that open a window when one of it option is clicked. i check if i open a browserwindow with a bool and creat or show/hid the window. instead of visual studio code debugger.what am i miss here?
+mainWindow.on('close') get called more than one time when I hide mainWindow

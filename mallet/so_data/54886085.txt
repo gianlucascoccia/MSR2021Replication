@@ -1,1 +1,1 @@
-ran into an error after test the firebas authent with googl on electronjs. authent use to work before, even though i haven't made ani signific chang in my code that would affect the googl authent part.authent still work correct when i am run my project in the browser (npm run serve). in electron i can see the whi doe the authent work on browser but not in electron?what is the caus of this issue?
+TypeError: Cannot create property 'href' on string 'about:blank'

@@ -1,1 +1,1 @@
-so i am tri to creat an electron version of my angular web app to run on desktop with a nativ look and feel.i have the follow script in package.json
+How do I compile a single file in Typescript?

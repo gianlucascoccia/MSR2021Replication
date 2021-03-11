@@ -1,1 +1,1 @@
-i am use react-dat in an electron project, which requir initi via:
+How/Why do Typescript/Electron/Webpack module have absolute paths?

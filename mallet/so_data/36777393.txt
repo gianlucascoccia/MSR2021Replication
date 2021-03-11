@@ -1,1 +1,1 @@
-is there a way to detect the architectur of electron in the main process? seem to return win32 also on x64 machines, and i don't find ani option in the doc to get the architecture.
+Electron windows: architecture

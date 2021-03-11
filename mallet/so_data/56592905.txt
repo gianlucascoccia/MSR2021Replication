@@ -1,1 +1,1 @@
-do not wish to download full applic for a small updat in electron applicationi have found out that replac the app.asar file in my electron app resourc directori , updat the "code-specific-updates" in my applic , is this enough for an updat or autoupdat doe someth extra to updat the applic ?,"code-specific-updates" refer to render and html changesi have also tri use squirrel for window , but cannot use it becaus it doe not allow me to instal applic to custom directori (program file in my case)
+What doe electron autoUpdater download?

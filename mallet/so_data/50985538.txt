@@ -1,1 +1,1 @@
-i'm work on a project where i need to integr a video plugin name "videogular" on angular-filemanag use electronj platform .this is the link for the videogular this is my project depend inject :i get this errorpleas help me figur out this problem.
+I want to integrate these two angularJS Dependency Injection in one project

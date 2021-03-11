@@ -1,1 +1,1 @@
-i have creat an app in nw.js &amp; it is run fine.i have a requir that i creat a button in nwjs app (html page), and it click should open anoth .ex file in the user system(prob in the same directori along with nwjs.exe).can i do that and how?thank
+Open another .exe from nwjs app

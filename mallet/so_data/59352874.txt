@@ -1,1 +1,1 @@
-how can i write the electron webrequest api code without touch the electron app code and still the whole main packag run as a singl electron web app.
+Change code of electron app packaged in another package

@@ -1,1 +1,1 @@
-i'v googl around but i cannot find a proper answer, i have to say i'm pretti novic re nodej and electron: my problem is that i have connect my electron app with flask use python-shel but when i close my app, flask is still run in background even if close the terminal.thi is how i connect my app to flask:
+close a PythonShell on j (electron + flask)

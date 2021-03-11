@@ -1,1 +1,1 @@
-i want to use sqlite3 with this boilerplate:https://github.com/bradstewart/electron-boilerplate-vuei'v tri a lot of way get require('sqlite3'), to work, but it keep fail with the error: did not helphow can i solv this?
+Using npm module with electron and webpack?

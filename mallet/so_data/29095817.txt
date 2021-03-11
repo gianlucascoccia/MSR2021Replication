@@ -1,1 +1,1 @@
-i am use nwjs. i put a ifram in the app page (top window):best regards.
+How to call api in top window in the child iframe when they are not the same protocol?

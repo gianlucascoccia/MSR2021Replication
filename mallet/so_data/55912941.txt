@@ -1,1 +1,1 @@
-i am make an electron angular app use electron-edge-j to avoid have to run a server to transit between angular and c# code. the app work as long as i don't actual call edg to do anything, but fail (at build) with:
+Can't resolve 'fs' or 'path' Edge-js and Angular

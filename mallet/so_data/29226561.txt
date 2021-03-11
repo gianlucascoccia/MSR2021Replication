@@ -1,1 +1,1 @@
-how can i open the tray menu by left-click? by default the menu open up by hit right-click. code:
+NWJS (Node-Webkit) Open tray menu using left click

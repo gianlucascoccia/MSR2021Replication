@@ -1,1 +1,1 @@
-my app is combin of electron and react app and i am new in react-redux. everi thing is work well instead of two problems: 1- in from rabbitmq server.
+How to receive state's changed value in componentDidMount(), in Electron and React app

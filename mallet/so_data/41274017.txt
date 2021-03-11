@@ -1,1 +1,1 @@
-i use for the first time electron and webchimera. i see this demo, but i don't want open in main window the player. i do not know good use electron so i tri with a server that render a index page and, after a button click, the player-page.cli load from server the index page:&#xd;&#xd;how can i fix this?ps:i use a server onli becaus i wrote it for a webapp befor i decid to use electron. it not necessary. i can remov the server and use onli the client.
+How to use require() in Electron?

@@ -1,1 +1,1 @@
-i am face an issu to instal usb modul in my electron app. when i tri to instal electron and their depend i'm get below issu always. pleas someon help me to achiev this. if ani one doe same thing pleas provid ani link or instruct document it will help me to move forwards.
+Issue in electron with Usb binding configuration?

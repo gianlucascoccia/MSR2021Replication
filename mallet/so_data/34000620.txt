@@ -1,1 +1,1 @@
-i'm develop a client side applic and i want to use the browser version of nedb.us gulp, i run browserifi to creat my what am i miss about the nedb browser version and browserify?i'm alreadi use browserifi with success. i'm abl to requir modul like angular and foundation. the problem start when i tri to includ nedb.
+Error when trying to require browser version of NeDB

@@ -1,1 +1,1 @@
-issuei have an electron app, i manag to login to couchdb with cooki auth.i also manag to retriev the correct session. i use the fetch api so far to handl the requests.for cooki storag in electron i use electron-cooki and this is working, if i do anoth request with thank you for your help!
+pouchdb remote db replication "unauthorised" Cookie credential ignored in electron app

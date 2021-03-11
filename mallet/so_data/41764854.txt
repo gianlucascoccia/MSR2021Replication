@@ -1,1 +1,1 @@
-i'm creat an applic built with the electron framework (to run html5 apps). i want to open m4v file from the webplayer, but i also need the video chapters.electron should have an api to open the video file like a simpl text file, so how are those chapter formatted? do anyon know a javascript method or librari to extract those info?also if anyon has a refer to a good document about this format, i would be happi to analys it myself.thank you veri much in advance!
+Extracting m4v video chapter from file

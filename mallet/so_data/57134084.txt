@@ -1,1 +1,1 @@
-i'm tri to creat a simpl app use such stack (snippet from package.json with lib versions):. yet i don't think it an appropri solut (rollup configur should be chang instead, imho).
+Importing Ramda in Electron app builded by Rollup lead to error

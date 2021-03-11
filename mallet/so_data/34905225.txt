@@ -1,1 +1,1 @@
-i cannot figur out how to show the open file dialog from electron.when i use the provid exampl i get an error:
+Can't open file dialog using Electron and Angular

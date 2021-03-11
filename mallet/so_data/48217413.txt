@@ -1,1 +1,1 @@
-to communic with the main process in electron, the render process requir the i'm puzzl as to whi this is legitimate. in the client html file which contain this script there is no refer to ani requir framework ( there is no script tag to import ani requir framework ). yet out of thin air you can use require, which is not a javascript keyword.how doe the requir mechan work in electron?
+How is it legitimate to use require in Electron's client when no there is no explicit import of any require framework?

@@ -1,1 +1,1 @@
-i' work on an electron applic which use an extern script to execut some tasks.i'v alreadi packag it in deb file and instal it but when i run it from thermal it look for the script in the current directory.th script path isani solution?
+spawn a script in electron after packaging

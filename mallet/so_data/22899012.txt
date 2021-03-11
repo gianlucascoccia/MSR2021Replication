@@ -1,1 +1,1 @@
-pardon me if i am total wrong in some concept but i am a novic to all of it - node js, node-webkit, javascript. i am tri to learn all of them togeth :)i am develop a simpl desktop app use node-webkit where i want to read the system log and write it in the applic console. i am use tailfd node modul and there is no error in the console. here is my htmlthe tail output is not show up in the app console. can you point me if am miss ani basic stuff? ani help would be appreciated.
+node-webkit tail a file output in application console

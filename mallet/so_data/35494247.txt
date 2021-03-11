@@ -1,1 +1,1 @@
-im make an electron app and i want the user to be abl to save a screenshot of the current page as an imag file.for that i am use html2canva to creat a canva element of the current bodi and then convert that canva to a dataurlthi open a dialog for me to save the imag file, and actual save the imag too, so my question now is how can i save this imag i generat to a file without the user dialog.
+Saving an image file with node.js from canvas.toDataURL()

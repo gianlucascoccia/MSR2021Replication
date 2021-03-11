@@ -1,1 +1,1 @@
-package.json:i have generat an electron .ex use this code. it get execut when i'm doubl click on it. but, i want to run it on window startup. i got to know about auto-launch. but, i'm not sure how to use it in my application? ani help would be appreciated.
+How to use auto-launch to start app on system startup?

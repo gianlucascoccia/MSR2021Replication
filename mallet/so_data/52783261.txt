@@ -1,1 +1,1 @@
-in my react compon to load data from file in
+electron sending data from ipcMain to ipcRender

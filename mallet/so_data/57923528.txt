@@ -1,1 +1,1 @@
-i'v an electron project and i'd like to use vuej with it...i need someon to explain what should i do in order step
+I've an electron project and I'd like to use vueJS with it

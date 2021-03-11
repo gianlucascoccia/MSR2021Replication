@@ -1,1 +1,1 @@
-i'm tri to use the to build my electron app.
+External webpack module for electron doe not work after building

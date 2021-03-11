@@ -1,1 +1,1 @@
-i have a packag that requir a sqlite3 modul in that manner i'm use angular, electron and webpack.i'd like that anywher in my project when someth call for sqlite3 packag it call anoth package, is that possibl ?i'd like not to have to use a modifi version of the package,
+Is there a way to tell javascript to require something else when something specific is required

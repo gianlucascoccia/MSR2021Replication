@@ -1,1 +1,1 @@
-i am follow this code https://coursetro.com/posts/code/125/angular-5-electron-tutori but it is run but noth is display . what is the problem?
+npm run electron is working but not displaying any thing

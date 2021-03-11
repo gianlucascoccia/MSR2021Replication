@@ -1,1 +1,1 @@
-i'm with a problem after use electron-build or electron-packager, i beliv that the problem is at asar. if i execut the code with
+Child process opening unexpected electron window

@@ -1,1 +1,1 @@
-my understand is that set
+Electron allows `require('path')` in renderer even when `nodeIntegration` is set to `false`

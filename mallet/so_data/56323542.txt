@@ -1,1 +1,1 @@
-i am get below error while run the electron commandth applic window is open for a fraction of second and close it.i don't know what happen herei have tri multipl solut but not resolv it.thank in advanc
+Getting ELIFECYCLE ERR! 1 ( errno 1), while running npm run electron

@@ -1,1 +1,1 @@
-i'm rather new to electron develop and adapt code from this thread to have access to ipc method in the render with nodeintegr set to false. everyth seem to be working, i just want to ask if anyon had some other exampl of use case / limit for this techniqu befor i go off the rail and just shove everi modul in there.her my version of the code from the abov thread, this time with the electron-promise-ipc module:preload.j
+Modus operandi of preload.js?

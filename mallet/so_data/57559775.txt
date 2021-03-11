@@ -1,1 +1,1 @@
-i'm build a command line interfac in node which connect to a background command line daemon. if no daemon is running, the first time the cli is call it will fork off the daemon use
+Forked electron process requires "empty" electron

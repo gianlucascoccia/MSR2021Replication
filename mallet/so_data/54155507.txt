@@ -1,1 +1,1 @@
-i was use the , and send that back to the main process.
+How can I access the content of a <webview> (Electron/NW.JS)?

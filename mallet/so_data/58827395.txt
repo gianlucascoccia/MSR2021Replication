@@ -1,1 +1,1 @@
-i'm use electron builder, my target is window nsisi'v been look at this link https://www.electron.build/configuration/nsis#custom-nsis-script and https://nsis.sourceforge.io/category:tutori to find an easi way to custom my instal but no luck so far, so the question is:what the easiest way to custom the string valu like "on for me" in the follow pic
+electron builder: how to customize the string value in NSIS installer?

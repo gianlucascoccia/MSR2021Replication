@@ -1,1 +1,1 @@
-i'm develop an app use the latest version of electron-build (use autoupadate).i there ani way to know that the app is run for the first time after installation?ps: i have tri use electron-config but the user data file are not delet after uninstall, and i need to do some thing with everi instal (even if it on the same machine).
+How to detect that the Electron app is running for the first time?

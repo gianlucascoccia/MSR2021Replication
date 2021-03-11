@@ -1,1 +1,1 @@
-while build node web kit addon with c++ in window machin vcruntime.h file is miss error in showing, after ad vcruntime.h file from the github it show these errors..c:\users\xz.nw-gyp\0.12.3\deps\v8\include\vcruntime.h(291): error c2065: in : undeclar identifier..
+node webkit addon with c++ file issue vcruntime.h in window machine

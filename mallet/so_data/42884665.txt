@@ -1,1 +1,1 @@
-i have nodej instal on my mashine. i have also connect microphone. is there ani way to select and access microphon from nodejs? i made some research on the web but web say nodej is not a recommend way to do this, is this a relail information?if it cannot be done with pure nodejs, is there ani way to do it with electron?
+What is the recommended way to access microphone with nodejs?

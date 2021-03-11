@@ -1,1 +1,1 @@
-i want to click an element (button) sever time in a remot websit load through webview in electron.th follow work when i enter it in the consol (via inspect element):console.log(element) gives: htmlcollection(0)console.log(element[0]) gives: undefinedwhi can i enter the js in my normal browser, but not in electron webview?
+Click on element in Electron webview

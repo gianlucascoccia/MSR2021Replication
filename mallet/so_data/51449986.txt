@@ -1,1 +1,1 @@
-i'm tri to send message/data from ipcmain to ipcrend asynchronously, follow the code describ there - https://electronjs.org/docs/api/ipc-main, in main - i'm use use node 8.9.3, chrome 61.0.3163.100, electron 2.0.5 and maco 10.13.3. here are the detail - https://github.com/electron/electron/issues/13743appreci ani help. thank
+Electronjs ipcMain doesn't send message to ipcRenderer

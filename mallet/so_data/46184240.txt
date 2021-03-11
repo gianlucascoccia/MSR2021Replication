@@ -1,1 +1,1 @@
-what am i do wrong?if i select the same element from consol and add a click listener… it works… however, this code doesn't work
+OnClickListener in Electron

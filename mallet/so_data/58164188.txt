@@ -1,1 +1,1 @@
-i'm use cordova and i'm tri to add a screenshot-funct in electron.th screenshot itself work realli fine. i'm use for it the desktopcaptur from electron.thanks!
+require('electron').app is undefined - how to solve this

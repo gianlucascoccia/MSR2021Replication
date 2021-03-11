@@ -1,1 +1,1 @@
-i am use electron with angular 5. tri to open each router link as a new tab but i am not find anyth that could help me to achiev this. is it possibl to achieve?
+Open each router link a a new tab in an Electron app

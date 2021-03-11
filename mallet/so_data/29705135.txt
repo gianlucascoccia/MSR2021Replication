@@ -1,1 +1,1 @@
-i tri the below code in nw.js to read in all file with full path under a given folder but not working. what wrong? thanks.&#xd;&#xd;&#xd;&#xd;&#xd;
+node-webkit read full path of file from directory

@@ -1,1 +1,1 @@
-i am tri to dabbl in electron, and i am tri to put a form within the titl bar.i accept i may have to make it a frameless window and then add my own custom html and style. i am new to the languag so this is as far as i have gotten.what would be the best way to do this?
+Electron - user input in title bar

@@ -1,1 +1,1 @@
-i want to put anoth websit in my app for both desktop and mobile, and add some addit button. i can use ). hope someon can give me some idea for cordova platform.
+How to put another website in my app?

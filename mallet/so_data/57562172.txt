@@ -1,1 +1,1 @@
-when i tri to use a waze api on electronj i'm get this error on the console:thi error doe not show the waze map and i expect that the result work on electronjs.
+How to fix: "Uncaught SyntaxError: Unexpected token ..." on Waze Iframe API using ElectronJS

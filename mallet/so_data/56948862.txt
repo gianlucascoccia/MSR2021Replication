@@ -1,1 +1,1 @@
-i have use child process in my electron application. and i fork child process onli after the previous child process ends. and also if i fork multipl processes, it won't increas the speed.so can i abl to use the cluster modul in electron applic to fork multipl child process at the same time.i previous ask child process maximum limit but i can't ani answer.if i fork two cluster means, and i fork two child process means, each child run parallel in two differ clusters?
+Confusion on how cluster and child Process work

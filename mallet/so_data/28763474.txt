@@ -1,1 +1,1 @@
-i'm tri to build a tool use nw.js which can open websit window, load jqueri library, and run script with parameters, for e.g. valid page titl text and return result back to main script. can anyon give a sampl of valid code?
+node-webkit website test utility

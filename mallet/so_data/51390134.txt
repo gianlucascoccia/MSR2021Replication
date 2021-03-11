@@ -1,1 +1,1 @@
-so i have an array of string that will turn into buttons,it creat the button finebut click them doe nothing.whi is this? i know i have the event right cuz of this: https://www.w3schools.com/js/js_htmldom_eventlistener.aspif it matters, i am use electron.j to creat an webpag like application, and not a browser.
+element.addEventListener not adding listener

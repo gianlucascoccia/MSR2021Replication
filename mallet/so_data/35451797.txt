@@ -1,1 +1,1 @@
-i am have troubl with get , but noth changed.
+Run main process a child_process

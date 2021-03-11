@@ -1,1 +1,1 @@
-i am tri to get the mous co-ordin of the mous movement insid the electronj webview. i am not abl to get it through mouse-mov event attach to webview.i have bound the mouse-mov event to webview and it get call once. and it also get call when you move your mous over a section which is not part of the webview.what i am tri to get is that if i move my mous on the page insid the webview i should be abl to get the clientx and clienti valu to the host.
+How to get mouse-move co-ordinate from the page inside the electronjs webview?

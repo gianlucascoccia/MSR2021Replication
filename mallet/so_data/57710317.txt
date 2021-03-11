@@ -1,1 +1,1 @@
-i have an electron app that load a safari app extens in the safari browser.when i open the browser, i can see my extens list in .as soon as i enabl it, i see the toolbar icon appear then disappear.i there a way for me to debug my extens when it is load from electron?
+How can I debug my Safari App Extension when I load it from electron?

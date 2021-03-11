@@ -1,1 +1,1 @@
-i tri to send an ajax request from electron, but i alway get the error 401.so far i'v found out it has someth to do with the credentials.that my basic code snippet:but that doesn't work either. anybodi have ani idea how to do this? if there anyth else, just ask.
+NodeJs - Electron - jQuery ajax request to IIS

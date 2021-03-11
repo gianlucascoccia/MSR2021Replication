@@ -1,1 +1,1 @@
-i'v been tri to run some of the basic react exampl in electron app, but noth show up, even though there is no errors. here a file:i have the follow packag installed: react, react-dom and electron.am i do someth wrong? thank in advance!
+React doesn't render in Electron App

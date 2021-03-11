@@ -1,1 +1,1 @@
-i use cra + electron. and i build my project by target
+How to realize hot update when use Electron + CRA?

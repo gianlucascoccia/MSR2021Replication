@@ -1,1 +1,1 @@
-that titl is kind of garbl and this is probabl a duplic but i'v been dig a while. this must be realli simple. the accept answer on this question didn't work for me: how to declar and use the name of a function from a json object?th task: i am tri to extern the set-up data for a
+store the name of a function in a JSON file and later be able to load and call it from within a script?

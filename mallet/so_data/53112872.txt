@@ -1,1 +1,1 @@
-do most peopl just manual type the valu in? or is there some type of ui builder similar to android/io drag and drop ui builder? like i know even most websit now a day don't have you manual type in the html instead use some type of site builder.
+When using Electron, what is the best way to design the HTML/CSS layout?

@@ -1,1 +1,1 @@
-have a littl troubl with someth that should be fine in vanilla js, but doesn't seem to be work as expected. i'm tri to assign
+Electron Typescript Document.body === null

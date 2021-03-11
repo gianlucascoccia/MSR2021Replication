@@ -1,1 +1,1 @@
-i need serialport to work with node-webkit. i alreadi have serialport.nod but i don't know how to make it work. i alway get the same error: "uncaught error: cannot find modul serialport" and tri it in version 0.6.3 and 0.5.0.thank you!
+How do I make serialport work with node-webkit

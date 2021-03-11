@@ -1,1 +1,1 @@
-i have an
+Is the videojs 'control bar' supposed to size to the width of the video or of the container?

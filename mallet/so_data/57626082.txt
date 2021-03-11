@@ -1,1 +1,1 @@
-i am write an electron app that essenti call avrdud with parameters. i am use child process spawn to call an exe that doe some setup then call the avrdud exe. that is one file call another. in my main nodej i have the follow code that captur the output. the problem is i onli get the output of the first exe and not both as i would run the command from the command line.i am use spawn becaus i need the data in real-time.ani thoughts? thank you in advance! :}
+Node Js child crocess spawn doesn't pipe whole stdout output of command

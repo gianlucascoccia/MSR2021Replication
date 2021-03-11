@@ -1,1 +1,1 @@
-i am new to develop applic with electron and node js, and seem to be run into issu with the thank to anyon who helps, i realli appreci it!
+Electron preload.js doesn't function the way it is suppose to

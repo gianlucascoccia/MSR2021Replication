@@ -1,1 +1,1 @@
-i have some troubl integr electron. when i use it as describ in this blog post, everyth works. problem start when i want to use import electron (electron.remote) to use it in angular2 servic to let the app use the desktop featur like system dialog and file system access.i get the follow error when load the app, in electron/index.j which is includ in webpack bundle:th nodej version where i run the compil is 6.9.3 x64 windows.
+f module fails when integrating Electron into Angular project

@@ -1,1 +1,1 @@
-this tabl is generat use gridx / dojo in nodewebkit. the "[bv][b][v]" are link that are handl by jqueri use class selector. however, onc i sort the grid, the listen are unbinded. how do i reappli the click function? is there a callback when sort &amp; render is complete?
+Gridx/Dojo & jQuery : Is there a callback when sorting is completed?

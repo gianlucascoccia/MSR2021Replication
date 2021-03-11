@@ -1,1 +1,1 @@
-i have download this librari (https://github.com/pokusew/nfc-pcsc) and now i'm tri to run an electron project in it, but is give me everytim problem when i tri to run it as an electron project. so my question is: how can i implement this librari on my electron project and make it work not as node.jsi tri to i'm get this error when i'm tri to run the app as electron app (https://i.imgur.com/uhsjlo6.png) and when i do the rebuild i have this error: × rebuild fail an unhandl error occur insid electron-rebuild
+How do I implement a nfc reader (ACR122) to an Electron project?

@@ -1,1 +1,1 @@
-nan
+Webstorm throw no error, Typescript doe

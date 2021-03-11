@@ -1,1 +1,1 @@
-my app is built with a placehold where a file is read direct when "load" is clicked. however, even though i understand how to make a file dialog pop and i understand how to read/pars a file, i'm have a hard time work this veri abstract exampl into my exist nwjs app.bas on the abov sampl of my app, how should i blend in the demo so that the "load" button oper as expect for load a file?
+nw.js: How do I build a file dialog to open a file?

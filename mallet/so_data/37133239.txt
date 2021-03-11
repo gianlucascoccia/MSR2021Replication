@@ -1,1 +1,1 @@
-with the kimono web, in the crawl payload there was alway url and index field in everi sourc url json. but with the desktop, these field are miss and my product was total depend on it.i'm brows the sourc code of kimono desktop but i couldn't manag to find that part.th index field is explain in there ; https://help.kimonolabs.com/hc/en-us/articles/203349674-add-a-unique-index-to-each-result-object-can anyon help me with it ?thank
+Kimono Desktop's payload url and index field missing

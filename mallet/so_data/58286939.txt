@@ -1,1 +1,1 @@
-when convert angular 8 to electron desktop applic face issu like in imag below.i'm use angular 8 @ latest and electron@6.0.11 but there creat build get error in node_modules.
+Angular to electron converting then face issue in node_module file index.js have issue regarding with "path" and "fs"

@@ -1,1 +1,1 @@
-error: enoent: no such file or directory, stat /users/naveens/library/developer/xcode/deriveddata/myapp-hhhscjytkproiufeiggnhdturwul/build/intermediates.noindex/archiveintermediates/myapp/installationbuildproductslocation/applications/myapp.app'i am get this issu while i am run this command: "package": "npm run build &amp;&amp; electron-build --publish=always", "mac-release": "electron-packag . --overwrit --platform=darwin --arch=x64 --icon=src/assets/icon.icn --prune=tru --out=release-builds"
+Error in building electron.js application

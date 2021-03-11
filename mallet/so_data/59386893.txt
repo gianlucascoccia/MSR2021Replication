@@ -1,1 +1,1 @@
-i am new to electron and react. i want to read a remot json file on applic boot up, store in a global variabl and share the same inform throughout the applic (compon / containers). also i want to add few common method to process the same info. how can i achiev this in electron react app?
+electron read remote file on boot up and share info to all component/containers

@@ -1,1 +1,1 @@
-i am not sure if this is an axio or electron question.i am develop an electron app which is communic with a iot devic use a rest api.th root caus of my problem is that this devic is not send a . therefor all request fail.i there a way to remove/dis this field?(i was abl to confirm that when i build and run the applic the request work as expected.)
+Disable additional field "X-DevTools-Request-Id" in header when debugging (electron/axios)

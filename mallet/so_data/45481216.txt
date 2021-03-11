@@ -1,1 +1,1 @@
-how to implement background servic use electron. i'm have a troubl can anyon tell me how to start a background servic use electron which run even after close the app. i have tri mani solut but all of them stop the servic after close the app.
+how to run a background service in electron js?

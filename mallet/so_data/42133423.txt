@@ -1,1 +1,1 @@
-is there a possibl to display file in the showopendialog even when the properti is set to opendirectory'? of course, file should not be selectable, but mayb shown grey out. so the user know that he select the right directory. on osx everyth is fine, but on window the file are not shown at all.i alreadi tri to display hiddenfil and ad filters. but noth work :-/thank in advance!ch
+Show file in Electron Dialog/showOpenDialog when open directory

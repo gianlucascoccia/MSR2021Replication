@@ -1,1 +1,1 @@
-i'm make a mac app use atom shell that live in the menubar. i was wonder what my option would be for get it to run at startup. doe it have to be done manual by the user?do i need permiss from the user to do this?how would i do it programmat with node / bash?i there an exist thing within atom shell to do this?i there an exist modul that can do this?
+Getting a app to be run on startup

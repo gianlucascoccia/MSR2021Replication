@@ -1,1 +1,1 @@
-(i'm an actionscript/flex develop and am make the transit to javascript. this is probabl a silli question and a duplic but i no idea if the issu is relat to javascript, electron, web develop in general, etc. pleas be kind.)i'v been develop a simpl project use electron and the
+All backslashes are being removed from local file path

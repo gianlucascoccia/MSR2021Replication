@@ -1,1 +1,1 @@
-i want to minim the app when it lose focus: dialog on exit, and, everi time i press "cancel", this code trigger (window minimizes). how can i add an addit check for the popup focus? i can't find a mention in the doc to identifi each window, and also no way to check if no nw.js window are focused.
+NW.js - check if confirm window ha focus

@@ -1,1 +1,1 @@
-i am generat pdf file from select text in electron. but i want to append text in this pdf file but it overwrit the file each time. is there ani way that text will be append to pdf file at end?
+Append text to existing PDF File electron node.js

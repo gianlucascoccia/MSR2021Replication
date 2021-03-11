@@ -1,1 +1,1 @@
-i have a render process, let call it rp.on a button click, it open a browserwindow (bw).now when close is click on bw, i would like to catch this close event in rp and prevent it.i am experiencing, that the window is closed, befor the what am i do wrong?i am aware, that in bw i can use beforeunload, which works. but i want the rp to control whether the window close or not.
+Cannot prevent window close in electron

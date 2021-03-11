@@ -1,1 +1,1 @@
-is there ani way to make be host process for a node-webkit application?i'm use intellij idea for node.j development, and it have best debugg for node atm. but node-webkit present it own nw.ex process, which can't be debug by normal node.j environment. other debug option (chrome devtools) don't match in effeci with idea debug.idea present some kind of nw debug support, but it veri raw and work with mani glitch and not work for mani things.so i want develop node-webkit app which start under control of node.j process, like appj was doing.
+Running node-webkit a node.js app

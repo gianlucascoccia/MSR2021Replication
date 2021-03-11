@@ -1,1 +1,1 @@
-i am use a custom requir function which mimic nodej requir and it work fine.however, in electron, i get insid the custom-requir code.if i could read the sourc code for electron requir function, i could probabl understand whi my version fails.
+Where is the source code for electron (atom-shell) Module.require?

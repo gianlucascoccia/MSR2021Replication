@@ -1,1 +1,1 @@
-i'm use typescript from my project, but it doesn't recogn webviews. for example:just spit out an error that it "cannot find name webview'". how do i resolv this? when work fine when just use javascript.note: i'm use electron webview not nativescript webview.
+Typescript doesn't typecast webview?

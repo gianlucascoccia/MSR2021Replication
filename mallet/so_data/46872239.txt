@@ -1,1 +1,1 @@
-i am write a unit test for a servic class call &#xd;&#xd;&#xd;question consulted:typeerror: xxx is not a constructori cannot appli the solut in this question becaus nedb is an npm package, not my own class:error: *.default is not a constructor
+TypeError: Name.default is not a constructor

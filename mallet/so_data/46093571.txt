@@ -1,1 +1,1 @@
-i'v creat electon applicaton from index.html page ;)in index.html page i creat webview element, like this:how to fix this? how to load javascript file?p.s: yes, i creat webview.j in root of project folder ;)
+Webview preload not working

@@ -1,1 +1,1 @@
-i have a time function
+reloading div doesn't update time if it's called from another function

@@ -1,1 +1,1 @@
-in the electron main.j i am want to send an event from a child window to a mainwindow. the way i thought to do this was by send an event from childwindow to the main process, and the main process then send an event to the mainwindow.
+mainWindow.webContents.send() not received by ipcRenderer.on() function

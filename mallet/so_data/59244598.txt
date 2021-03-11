@@ -1,1 +1,1 @@
-https://electronjs.org/docs/api/desktop-captur demonstr how to captur desktop/window plus audio, but i need captur and save audio onli from microphone, how to do that ?
+is it possible to capture and save audio only from microphone via electron desktopCapturer?

@@ -1,1 +1,1 @@
-i'v want to creat simpl desktop app which use react js for data presentation.however, i'm overwhelm with so mani modul and technologies. there is an electron react boilerpl which veri complic for starter like me.i have simpl project with these libs:when i launch my electron applic it open me a window with empti content, which mean that my jsx is not loaded. and it doe not throw ani error messageswhat did i miss?
+How to make ReactJS JSX's work on electron

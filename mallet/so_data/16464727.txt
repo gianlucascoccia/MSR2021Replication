@@ -1,1 +1,1 @@
-i'm use localstorag to keep a local databas within a node-webkit base app and am get the error:whil attempt to creat new records. how do you increas the localstorag quota within node-webkit? prefer to an unlimit valu (or fail that, at all).
+How to increase localStorage limit in node-webkit?

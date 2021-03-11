@@ -1,1 +1,1 @@
-i am make an electron app to check system idl time. i want to use a common modul to get idl time on winodws, mac and linux.i am use this command to get idl time on mac but it is not work in linux.i also tri differ npm plugin to get idl time but none of them is work as expect my expect result is to check if the user is use system or not. i want to calcul idl time of sysem on all platform (mac,linux,windows).
+Is there any way to get system idle time on all platform

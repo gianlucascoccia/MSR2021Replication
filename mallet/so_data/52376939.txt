@@ -1,1 +1,1 @@
-i am in progress of make a simpl electron app. when i boot the app from the consol on my win10 pc (use the classic )i'm open to ani and all help! thank in advanc for, like i said, ani and all help!
+Node Modules Not Being Found in Electron App

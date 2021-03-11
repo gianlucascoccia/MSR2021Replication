@@ -1,1 +1,1 @@
-i am creat an applic use electron and react, and i will need to creat a word text document dynamically, i found a great package, docx, but i need to creat some tables, and i can't set the size of the columns, i need help set the size of the columns, follow an excerpt from the code, and document link https://docx.js.org/#/&#xd;&#xd;&#xd;&#xd;&#xd;
+How to set column size using DOCX.JS

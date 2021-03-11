@@ -1,1 +1,1 @@
-i'm stuck with a problem when build my node js/electron app with electron-builder. it work perfect when run for this project im using:fspouchdbelectronjquery....i alreadi use electron-packag and it work almost fine with one problem: see this picture, which mean all link insid the js file (e.g: fs.readfilesync('./assets/state','utf8')) won't work.i have also ad some nativ js click and keypress listeners... could that be a problem?mi electron version is 1.7.8.i appreci your help.
+Error when building my electron app

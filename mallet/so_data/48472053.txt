@@ -1,1 +1,1 @@
-hi i am use html5 fileread and node fs to upload the file to server which i am abl to do so far, but the result file is larger than the origin one.her is my code.
+File Getting Corrupted after upload node FS

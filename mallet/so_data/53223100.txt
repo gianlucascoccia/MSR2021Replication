@@ -1,1 +1,1 @@
-i am use electron for write a desktop applic use visual studio code and i have chromedriv includ in my applicationwhen i use the follow command , the output is a compress packag and in this case chromdriv is not work as expect and i am get the follow error when run my applic
+Chrome driver not working when extracting electron package using --asar

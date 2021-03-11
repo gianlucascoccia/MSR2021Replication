@@ -1,1 +1,1 @@
-i am tri to use https://www.npmjs.com/package/node-webcrypto-ossl this modul in an electron project. when i tri to build it give me follow error. g++: error: /home/username/.electron-gyp/.node-gyp/4.0.0/deps/openssl/openssl/lib/libcrypto.a: no such file or directorynodessl.target.mk:167: recip for target release/obj.target/nodessl.nod failedthi modul work ok in node onli project.
+native module compile error on ubuntu for node-webcrypto-ossl on electron project

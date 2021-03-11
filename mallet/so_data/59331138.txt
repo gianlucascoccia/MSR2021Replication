@@ -1,1 +1,1 @@
-package.json has .do i just need to downgrad tensorflowjs? anyon know what napi-v4 vs v5 is?
+Electron w/ TensorflowJS--looking for napi-v4 but only napi-v5 present

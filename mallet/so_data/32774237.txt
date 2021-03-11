@@ -1,1 +1,1 @@
-electron websit say that the applic made with electron can have access to node modules. can they have access to the d3 library? if so, how can it be set up?
+Can D3 library be used with the Electron (Atom shell)?

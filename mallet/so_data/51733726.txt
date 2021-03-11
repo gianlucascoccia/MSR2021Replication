@@ -1,1 +1,1 @@
-i am use electron version 2.0.5 and ipcmain and ipcrender to pass data between my html and my main.jswhen i test it the function run and when the first console.log runs.i get the right data.but when the second one run i get undefined...i do not understand electron veri well as i am new to it.thank you in advance.
+My let's arent saving when i assign a value to them

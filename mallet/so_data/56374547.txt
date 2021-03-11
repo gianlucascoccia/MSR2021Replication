@@ -1,1 +1,1 @@
-i am tri to use electron dialog.showopendialog() on ubuntu 18.10, but the method - when use - close the electron-bas app immediately. simpl usag of dialog.showopendialog() result in app crash. when i comment it out, the app work fine. when i use the same code on windows, it works.do anyon here have some tip how to chang the code specif for ubuntu? i'v tri to use the method in both main and render process with no luck. the nativ dialog open for a moment and then the whole app quits. in the main process:
+Electron dialog.showOpenDialog() close app on Ubuntu 18.10

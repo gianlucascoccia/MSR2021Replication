@@ -1,1 +1,1 @@
-i am creat a desktop applic use node-webkit. the purpos of creat the applic is to add document and that anyon can comment on the document. the document will be split into paragraph and peopl can comment on the paragraphs. each of the paragraph will be consid as differ sections. i would like to link each section (or paragraph) with the comment use json-ld. i am new to json-ld and i would like to know how it can be used.
+Json-LD: Linking document using Json-LD

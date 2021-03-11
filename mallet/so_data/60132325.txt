@@ -1,1 +1,1 @@
-i am creat this applic with vue-c and vue-cli-plugin-electron-build and i'm have this weird problem, specif to electron, where onc the applic start the first the stream proper pipe it content to the hash. is there anyth i can do to make it not requir a refresh onc the applic start for the stream to work properly?
+Node.js ReadStream stuck on Electron when piping to Hash

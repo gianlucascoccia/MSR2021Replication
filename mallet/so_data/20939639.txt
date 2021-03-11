@@ -1,1 +1,1 @@
-i can't appli round corner for frameless window in my desktop app. ad border-radius properti to html or bodi tag doe not help.i'm use latest node-webkit prebuilt binari (v0.8.4) for windows.i wish to place an ipad imag as a window, but white background at all corner defac application. i hope someon has alreadi face with that problem and found a solution.thank in advance!
+How to apply rounded corner to window in node-webkit?

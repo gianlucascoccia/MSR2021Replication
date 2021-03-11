@@ -1,1 +1,1 @@
-i'm tri to trigger a function on page load. however, the page-load callback contain node.j calls, which seem to be broken. the app use call didn't work. however, there are no error in the chromium console.how should i enabl the node.j support in this case? pleas help.
+electron/javascript: node.js call not working from HTML script under a tabbed view

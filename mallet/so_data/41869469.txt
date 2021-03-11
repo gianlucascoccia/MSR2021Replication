@@ -1,1 +1,1 @@
-),but for file upload we need to pass the file path use formdata without alter all the other function is that possible.
+How to handle optional parameter with callback in javascript

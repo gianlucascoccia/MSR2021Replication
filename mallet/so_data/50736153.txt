@@ -1,1 +1,1 @@
-i have an electron app which use pm2 to start some app use the pm2 module.everyth is fine.howev i am tri to implement the follow feature:renam an app you have started.i know that use the cli i can do the following: i see that the app has not be renamed.i there anyth i can do to renam an app without delet it and start it again with a differ name?
+rename process using pm2 programmatic api

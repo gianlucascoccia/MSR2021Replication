@@ -1,1 +1,1 @@
-i have an electronj app where the user can drag a file out of the app and onto, say, their file explorer. how can i figur out to what path the file was dropped?
+How to find where a file wa dropped to in ElectronJS

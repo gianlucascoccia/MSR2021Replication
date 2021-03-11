@@ -1,1 +1,1 @@
-i have an electron app in product that use autoupdat to download updat automatically, which is work fine for mani users.ther is onli one comput where the latest updat didn't work, and i can't find what wrong.th autoupdat is throw this error on app startup:th updat doesn't includ a lot of modif in the code, and onli one user has this problem, the rest is ok. older updat work perfect fine on this computer, until the latest.what could be happening? pleas help :(
+Electron - autoUpdater - Error: spawn UNKOWN

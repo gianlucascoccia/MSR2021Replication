@@ -1,1 +1,1 @@
-i'v been look around stack overflow as well as github forums, and haven't found ani question relat to this issue. i am make a window use electron, and give it the properti of window normal appearancewindow out of focuswindow in focus, but after click out of focus previouslyedit: i am use window 10 for this.
+Electron border-less window show title bar when window is not in focus

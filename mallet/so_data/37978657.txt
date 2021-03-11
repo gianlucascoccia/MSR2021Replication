@@ -1,1 +1,1 @@
-i use html5 file api to drag a file into an electron applic and obtain file detail (name, mime-type, size, etc.). how can i achiev the same when select a file via electron dialog module? below is the code (render process) that leverag html5 file api:
+Determine file type using Electron dialog

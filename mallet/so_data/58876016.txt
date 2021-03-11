@@ -1,1 +1,1 @@
-i am work now upon an directory, in my react project.
+Electron distribution build display a blank page

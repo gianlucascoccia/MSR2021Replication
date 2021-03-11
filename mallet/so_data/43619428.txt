@@ -1,1 +1,1 @@
-i am call a simpl queri with findone, so far the data in users.db is:ani idea whi is return null?
+Electron Nedb findOne return null?

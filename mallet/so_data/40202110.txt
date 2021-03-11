@@ -1,1 +1,1 @@
-i'v been fiddl around with electron remot module.in my main-process i'v creat this variable:...it return undefined.why? can anyon help me make sens of this?
+electron's remote.getGlobal() return "undefined" after window.location.replace()

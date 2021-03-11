@@ -1,1 +1,1 @@
-i'm tri to download a torrent with electron and node.j use webtorrent. well, this is my code in main.jsth problem start when i run the app and appear this messag on the console:(node:9032) maxlistenersexceededwarning: possibl eventemitt memori leak detected. 11 readi listen added. use emitter.setmaxlisteners() to increas limit
+Error in Electron | Node.js

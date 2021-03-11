@@ -1,1 +1,1 @@
-i am just start my nodej way and do not understand all power of it.i want to develop node-webkit desktop applic (windows), and i know that i will have the task to integr ani fingerprint verif devic to it. i found one interest thing name node addons.if i will have c++ sdk for fingerprint verify is it possibl to develop some wrapper to use it in node?thank
+Finger scanner in node-webkit application

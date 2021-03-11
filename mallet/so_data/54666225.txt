@@ -1,1 +1,1 @@
-i want to get chrome dev tool network valu in electron.i there ani way to get this ?
+Get chrome dev tool network tab value

@@ -1,1 +1,1 @@
-microsoft window [version 10.0.16299.125](c) 2017 microsoft corporation. all right reserved.d:\nodej projects\new>npm updat electron electron@1.8.1 postinstal d:\nodej projects\new\node_modules\electron node install.jsi have this error when i start the project:error: electron fail to instal correctly, pleas delet node_modules/electron and tri instal again
+I can't reinstall or update Electron package

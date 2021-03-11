@@ -1,1 +1,1 @@
-shorti am build an electron app with vue, use electron-vue. i need it to run a heavi work, say the main process forward request and response. (you may think worker render is a bit weird, but i need to keep this structur for a while...)mi guess is that differ of memori limit between cli app and the worker render of the electron app caus this problem.i my guess is correct? if so, is there ani suggest to solv this problem?
+Increasing memory limit for electron renderer process?

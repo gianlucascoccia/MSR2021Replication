@@ -1,1 +1,1 @@
-have upgrad to electron 7.0, i'v notic this deprec message: now, as of electron 7?
+Dealing with "ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed" (Electron 7.0)

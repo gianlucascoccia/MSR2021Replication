@@ -1,1 +1,1 @@
-i'm new to yarn, nodej and react apps. i'v tri run the sizzi app and it work on my local xampp server if i first run then i think i should get an exe file and some dlls. but how to instead setup for run on an apach web server without have to start use the command line, or would you just have to build it with differ architecture?start to get a vagu understand from read this.
+How to deploy the build of a electron app like Sizzy?

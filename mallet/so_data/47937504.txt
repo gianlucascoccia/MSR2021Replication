@@ -1,1 +1,1 @@
-i have a problem with automat updat of application. updat resist on s3, and my applic find the newest version properly. but after update, it probabl doe not updat applic at all, and start the entir process again:her my code snippet:
+Update loop doe not update application

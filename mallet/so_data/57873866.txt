@@ -1,1 +1,1 @@
-i am quit new to electron and angular and tri to write a small app. in my application, i want to catch some general key commands. to catch the event i wrote a directive, but the applic will not react to ani user-input whatev i do. might this be a problem with usag of angular and electron or do i make a simpl mistak in the usag of angular?direct get declar in app-moduledirect is attach to the specif component(simpl one-pager)th code should log keydown-ev to the console, but it doe noth and no error appears.
+@HostListener for KeyCommands not working [Electron, Angular]

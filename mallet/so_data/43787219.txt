@@ -1,1 +1,1 @@
-i am build a desktop applic for mac os with electron + react + webpack mode.when i build a electron desktop app as product version, i would like to insert some imag file in the setup file(test.app and test.dmg) and use the imag as following:
+How to insert image file in Electron + React.js + Webpack desktop app package for Mac OS

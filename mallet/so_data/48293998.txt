@@ -1,1 +1,1 @@
-i want to assign gh_token in the env variabl to implement auto updat featur in the electron application. but i am unabl to find the gh_token in the gitlab repository, help with implement auto updat featur use privat gitlab repository.
+how to get GH_TOKEN from gitlab project

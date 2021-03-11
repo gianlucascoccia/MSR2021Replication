@@ -1,1 +1,1 @@
-in my electron applic i store link to local file paths. now i would like the user to be abl of open such link use whatev applic the oper system is configur for (or the usual "open with" dialog).i this possible?thank
+Show system "open with" dialog when clicking file from electron application

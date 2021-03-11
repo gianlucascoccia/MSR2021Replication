@@ -1,1 +1,1 @@
-i'm do an applic with electron, where i need to use ajax to make a request. when i run the applic everyth insid the ajax oper doe not execut it is as if electron would not allow or recogn ajax.do anyon have a solut for this?thank you!
+Electron doe not recognize Ajax

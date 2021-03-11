@@ -1,1 +1,1 @@
-i am use electron to creat an app, and want to get to select and insert/upd some tabl in a mysql databas in my localhost, how can i make the connect with the databas ? ps: i am veri new to electronthank you for your help.
+Access a MySQL Database in Electron

@@ -1,1 +1,1 @@
-i'm tri to import a file from other file, check the code:htmland show this error the chrome console:directories:pleas help me
+Uncaught Error: Cannot find module '../Read/Files.js'

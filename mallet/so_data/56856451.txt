@@ -1,1 +1,1 @@
-tri to connect with named-pip in angular servic and build in electron. i tri this is what i am get in the consol when print client instanc after net.connect(namedpipepath)
+How to connect with NamedPipe with Electron and Angular

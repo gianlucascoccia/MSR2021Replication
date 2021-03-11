@@ -1,1 +1,1 @@
-i am run threej in electron and my test are run on electron-mocha. when i run the render test they pass locally, but fail on travi ci. typeerror: cannot read properti getextens of nulli have tri mani differ thing surround xvfb and xvfb-maybe, but noth seem to get chang behavior.mi test command is:ani insight would be appreciated.thanks!
+Electron-Mocha Testing Threejs on Travis CI

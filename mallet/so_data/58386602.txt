@@ -1,1 +1,1 @@
-our electron applic start minim to the window notif area i.e. not visibl on the desktop. the user forc the app to display on the desktop by click on the app notif tray icon.autom this is possibl with robotj (i.e. click on hardcod xy coordinates) but this is a bit flaki across multipl resolut even with normal coordinates.through testcafe, i want to show and hide the main window programmat as need for our tests.
+TestCafe with Electron: show and hide main window

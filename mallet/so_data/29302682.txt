@@ -1,1 +1,1 @@
-i am creat custom ui for window (window shell replacement), where theme are creat use css (and app is creat in javascript and html + nwjs - nodewebkit)th problem is i don't know how to make task bar - how to manag (min max restore) other window (non nodewebkit like chrome, ixplorer, firefox, winamp...).i there a easi way to make it in javascript or batch (cmd or bat file) or mayb nodej package.or i need to learn code in c or c++ to make someth similar?
+Manage (min max restore) other window in node webkit (or in node.js or cmd) - task bar alternative

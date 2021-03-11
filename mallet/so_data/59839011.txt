@@ -1,1 +1,1 @@
-i have develop a desktop app use electron framework (simpl html and javascript). i have set some file properti like file description, file name etc. i want to alter the size this to my need, is that possible.note: i am run this in window machin but later on i might run the same applic in the pictur they are properti windows, that show for two differ applications, i want to have same dimens how to achiev this?
+Do user have control over specifying dimension for file property window

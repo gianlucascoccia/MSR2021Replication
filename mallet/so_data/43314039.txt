@@ -1,1 +1,1 @@
-i am run an express app via electron.below is the main.j
+How to close electron app via javascript?

@@ -1,1 +1,1 @@
-i am use electron react boiler plate in front end for make an chate app in safe network(block chain network), but while authent process as safenetwork has it own api, that api redirect me in safe browser and if the authent would be success the safe browser send an custom uri to my react electron app,but though electron has it own ipc modul yet use those ipc my app cannot catch the uri ? i want to know the what is the ipc process in elctron ?this is my gitlab linkhttps://gitlab.com/0mkara/safemsg-electron/
+My Elctron react App canot catch custom URI response through IPC

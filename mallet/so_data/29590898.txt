@@ -1,1 +1,1 @@
-hello i am work in an applic use nw.js 0.12.0 (nodewebkit) and i need to find the ffmpegsumo.dl file of googl chrome 41.0.2272.76 in order to be abl to play audio files. see: nw.js doc about it also i found this answer and the 32 bit works, but the 64 doe not work for me.wher can i find?ffmpegsumo.dl (win 32 bits) found here!ffmpegsumo.dl (win 64) ffmpegsumo.so (mac ox)ffmpegsumo.so (linux)i know that someon els will need this as well so i will updat this and add link as soon i find the files!
+Where to find ffmpegsumo library for nw.js 0.12.0? (Play audio file in Nodewebkit)

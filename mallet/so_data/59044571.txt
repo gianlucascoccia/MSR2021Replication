@@ -1,1 +1,1 @@
-i am tri to run cypress in my project in headless mode. i see this follow issu when tri to run cypress in headless mode:when run with ui , no issues. error :
+Uncaught Error: secretOrPrivateKey must have a value

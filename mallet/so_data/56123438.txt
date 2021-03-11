@@ -1,1 +1,1 @@
-i know did-fail-load event can detect invalid url case in the electron browser window. but i need the opposit situation. i need to someth like i tri did-finish-load. this event also fire in fail case too
+What is the opposite of "did-fail-load" event

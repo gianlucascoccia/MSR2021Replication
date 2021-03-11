@@ -1,1 +1,1 @@
-i want to distribut the applic i develop in electron/atom shell. it say on the electron websit to chang the name of the directori where the applic resid to app and place it under the electron.app/contents/resources/ directori in mac. but i cannot find that directory. i'd appreci it if someon could help me find the directory.
+Distributing an application created in Electron/Atom Shell

@@ -1,1 +1,1 @@
-i'm load a webpag via http, and this webpag render a webview like this (use react), and inject the preloadscript into the webview.i that achievable?
+Electron: Inject script from a npm package

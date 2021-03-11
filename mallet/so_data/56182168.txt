@@ -1,1 +1,1 @@
-i am tri to access the main window javascript context of an electron application.thi is easi in development: global some way?
+Is it possible to access the main window of a release-built Electron app?

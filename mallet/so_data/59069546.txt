@@ -1,1 +1,1 @@
-i am run a sampl electron.j app on my computer, and it doesn't show the devtool nor by click on it from the view menu, nor by this is were i click, when i want to open it
+Chrome dev tool doesn't appear in electron

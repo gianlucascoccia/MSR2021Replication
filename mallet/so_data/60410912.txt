@@ -1,1 +1,1 @@
-i have an electronj and node.j project with databas mysql at share host cpanel. this is my package.json filei am run command in node termin npm run all that is defin in package.json file to run multipl npm. it is work fine and i am abl to access my databas usersissue:i am packag my applic with npm run dist. execut file is run success but when i tri to access my databas user it show this error:problem with request: connect econnrefus 127.0.0.1:3000
+How to package the nodemon in electron builder (Executable File)

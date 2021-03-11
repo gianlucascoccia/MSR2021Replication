@@ -1,1 +1,1 @@
-it work proper when i run the same code local use electron js.the abov code work proper in my local and creat a folder name test-new-fold insid my root folder.but after creat it desktop applic on mac, whi this code doesn't work? whi doesn't it creat test-new-folder'? what could be the work around for this?also i want to track/get all the data which will be push in this newli creat folder! can i get such events? or ani suggest for this?
+Unable to create new folder using Desktop App using Electron JS

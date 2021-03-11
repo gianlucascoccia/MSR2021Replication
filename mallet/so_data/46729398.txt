@@ -1,1 +1,1 @@
-i'm develop an electron app use nodej and angularj to download mp3 file from a web servic and save them to a specif folder.to accomplish this, i'm use angularj $http.get() to download the file and node file system to save the download data to a folder.mi problem at the moment is that i'm unabl to save the file correctly. the data is download and a file is created, but it seem corrupted. in other word the mp3 doesn't work.her a sampl code of what i'm doing:th problem still persists.
+NodeJS and AngularJS: Download file $http.get() and save to folder

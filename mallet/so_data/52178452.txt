@@ -1,1 +1,1 @@
-i have an electron.net project with .net core and i want to use the firebird embed databas engine. how can i achiev this?simply, i want to add the firebird embed dll into my electron.net project. so it help me to use firebird relat functionality.
+How to use embeded firebird database in electron.net using .net core

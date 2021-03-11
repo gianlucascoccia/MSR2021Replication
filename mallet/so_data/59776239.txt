@@ -1,1 +1,1 @@
-i'm get this error whenev i chang page use vue-router, research this error and said they could have two instanc of vue declared, but there is, there is onli 1 new vue () in the main.j file, can anyon help me? i don't know if it could be ani conflict with electron + bootstrap-vue.error
+Electron-Vue + Bootstrap Vue $attrs/$listeners is readonly

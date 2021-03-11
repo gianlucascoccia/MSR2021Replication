@@ -1,1 +1,1 @@
-within an applic creat with the electron framework, how would one execut a casperj script?th function would look like:button is clickedjavascript function is calledmycaspertest.j is executedit would be ideal if ani consol output from mycaspertest could be return to the application.
+How do I integrate Electron and CasperJS?

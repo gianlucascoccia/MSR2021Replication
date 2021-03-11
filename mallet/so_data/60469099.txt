@@ -1,1 +1,1 @@
-i'm use function that is provid from the mathj library. ani suggestions?
+Electron + Angular + Mathjs error when using evaluate: Cannot convert 2 to type "undefined"; valid output type are number, BigNumber, Fraction

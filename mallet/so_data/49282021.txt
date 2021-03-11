@@ -1,1 +1,1 @@
-in my electron renderer, i have the follow script:when i use an actual html file, it load without hanging.
+Electron: require is crashing program

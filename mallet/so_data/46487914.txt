@@ -1,1 +1,1 @@
-i have ad the script tag for jquery, tether and bootstrap but still get the below errori have copi the starter templat from bootstrap websit and tri to use it in an electron app.her is my basic html templat electron is display :&#xd;&#xd;
+Bootstrap 4 jquery error

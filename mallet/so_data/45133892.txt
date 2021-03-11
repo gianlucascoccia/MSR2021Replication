@@ -1,1 +1,1 @@
-i am write an electron applic and some time i need to save some text into a file.i am use the dialog modul to let the user choos where to save the file and hot to name the file.her is the part of the code that handl the file creation:th file is be creat after the user select a directori and a file name.howev it is creat as read onli and i would like it to be creat as edit from everyone.ani idea whi this is happening?
+fs.writeFile creates read only file

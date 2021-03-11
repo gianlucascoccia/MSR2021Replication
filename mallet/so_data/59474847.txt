@@ -1,1 +1,1 @@
-i'm develop an app with electron and react, it kind of mp3 player. the problem is that i want to play audio that are not in the project folder. how can i upload these file from my hard drive?, but it doesn't work.
+How I can access static file outside the project root?

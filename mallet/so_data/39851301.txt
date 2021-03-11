@@ -1,1 +1,1 @@
-can anyon help me with a descript from scratch how to use auto-updat in electron. how to use the correct packag and write correct cli to have a simpl app that has auto-upd in windows.mani thanks.
+Electron Auto-update Windows

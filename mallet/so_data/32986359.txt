@@ -1,1 +1,1 @@
-i'v been get into a few electron project and i am tri to figur out how you could listen for ani keypress or and track mous movement when the app is in the background. i am use the menubar plugin so the app is still run in the background. i tri use the global-shortcut api but it look like that is for shortcut onli and you can't regist individu keystrokes. i'v also look over the api and have yet to find an event for keystrok and mous movement outsid the app main screen.
+Listen for keyboard event and mouse movement outside of Electron app

@@ -1,1 +1,1 @@
-i'm tri to run veri basic angular2 stuff in my exist electron application.typescript file are success compil into js code, electron is run fine. all need file are includ in index.html. but i alway have an error dure app start - no provid for platformref!i have alreadi check this link: no provid for platformref error after upgrad to angular2 rc5 in ie10i don't have es6-shim dependency, my version of ts packag is 2.0.3(latest). here is what i have.system.config.jsmani thank in advance.
+Angular2 error in Electron app: No Provider for PlatformRef

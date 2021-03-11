@@ -1,1 +1,1 @@
-i'm use vue-cli-plugin-electron-build for my electron app and i tri to figur out how would i deal to open a compon in a new window, which practic is a video player. the scenario is the following:i have a list of movi dialogu with start and end timestamps. as i click on start timestamp per row the new window should open and the video player should start.at this state i'm abl to open a new window as it follows:but i don't know how to inject in this case the video-play child component.
+vue-cli-plugin-electron-builder open child component in a new window

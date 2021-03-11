@@ -1,1 +1,1 @@
-still new to electron/nod and am tri to debug an issu i'm experienc with the msnodesqlv8 package. in the file that throw error ( flag per electron and node guides, but they are incomplete/outd and i cannot form the necessari connect -- or at least do not know where to find the complet information.sorri for the beginn question but i am a bit lost here.
+Electron: how to expose console.log call from installed packages?

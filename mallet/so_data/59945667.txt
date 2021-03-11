@@ -1,1 +1,1 @@
-i'm use electron and threads.j packag to work with web workers. i'm tri to use node modul in the main process worker (i.e. path, fs), but get follow error: modul not found: error: can't resolv fs in ...\src\main'for main window i'm using: i'm get the error i'v mention above.i saw this close issu but it should work in electron main process as far as i understand.also, i'm use electron-webpack for webpack environment. am i miss something?thank
+Import node module in threads.js package in Electron main process

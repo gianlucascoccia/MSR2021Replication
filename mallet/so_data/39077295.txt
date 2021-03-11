@@ -1,1 +1,1 @@
-what is the proper way to open multipl browserwindows? i do it like this and work fine so far. is better to make an array of win?
+Electron best way for multiple window

@@ -1,1 +1,1 @@
-i'm develop an electron app in which i need to send an array contain object of a given class trough the is this intend behavior? if so, what is the most appropri approach for deal with this kind of problem?
+Electron - Loss of prototype data on ipcRenderer.send()

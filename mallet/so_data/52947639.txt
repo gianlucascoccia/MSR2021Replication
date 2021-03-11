@@ -1,1 +1,1 @@
-electron load local resourc by default via the server via electron?ani suggest would be high appreciated.thank in advance!
+Load local Electron file a secure content

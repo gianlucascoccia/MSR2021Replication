@@ -1,1 +1,1 @@
-i'm tri out nightmarej for a few autom i'd like to accomplish. an issu i'v encount though is that nightmare/electron cannot resolv the adida website, howev it can resolv and visit ani other web page.thi is what it look like when it trys to visit adidas.do anybodi know how to fix this? everi other site work perfectly. here how i'm tri to connect.
+Nightmare not resolving Adidas Site

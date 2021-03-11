@@ -1,1 +1,1 @@
-i want to authent user of my app, i know how to do it use php on client but electron can't use php at client sidei there a way to authent user from mysql in electron app?i need someth like (php)thank for the help :d
+authentication form using Electron (Atom shell) and PHP+mysql server only

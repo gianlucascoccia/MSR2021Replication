@@ -1,1 +1,1 @@
-whilst node-webkit is nice, the binari on mac and linux are over 70mb for a hello world application. unacceptable.i there ani cross platform librari avail that simpli use the system default browser? i don't realli care if that ie, or webkit, or ... ? i presum that way the binari would be much smaller. or is there ani cross-platform languag that can easili integr a (system) browser view? thanks.
+Alternatives to node webkit? (filesize of importance)

@@ -1,1 +1,1 @@
-new to angular/typescript and i'm work on a cross-platform desktop applic use electron and angular 4.the problem i have is that i plan to use a servic in my differ compon but i want this servic to be load from a differ file depend on the platform the applic is runningjust so you understand what i'm tri to achiev :and what bother me is that i need to use aot compilation, so i can't use require();i hope someon alreadi face this kind of problem and could point me to the right direction.
+Angular 4 (AOT) + Electron and conditional import

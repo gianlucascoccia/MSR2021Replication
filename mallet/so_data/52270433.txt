@@ -1,1 +1,1 @@
-i'v got an electron app and a barcode-scann which just give the scan input like a keyboard. so i can use event like becaus this would bring the first applic in the taskbar to the foreground but it doesn't work too and is also kinda dirti and impract solution.i there ani other way to accomplish this task?
+Electron use Barcode Scanner when app is in background

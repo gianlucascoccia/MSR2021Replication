@@ -1,1 +1,1 @@
-i have a pretti simpl node script which pars a json file from an extern url. i'm attempt to have the script loop over each record return and make a decis to add it to the db (use nedb) if we haven't previous got it. at the moment my script below look to be onli process the last record in the json file. ani idea what i'm do wrong?thanks!
+Suspected Javascript Async issue with for loop

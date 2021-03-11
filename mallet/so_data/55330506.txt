@@ -1,1 +1,1 @@
-i am spawn a child process with the path defin as (this is in vue electron). i put the exe under public/.onc the program is built and installed, it seem to lose track of the .exe. do i need to put this folder somewher else/chang my build config?
+Include exe used in child process

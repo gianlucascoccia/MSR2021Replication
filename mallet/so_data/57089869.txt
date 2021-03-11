@@ -1,1 +1,1 @@
-so i'v setup a local server on my pc (xamp) i'm also run a local electron application, i have a html5 file on my electron app that take in user input(username,password) and run it against the databas on my local server. i know what i'm do doesn't work and shouldn't work - but i also know it not complet hopeless, could anyon describ how i could use token to send back a get respons to verifi the input usernam and password is present in the database?thank for your help.
+How to use PHP Tokens to make a login with electron

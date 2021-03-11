@@ -1,1 +1,1 @@
-how do i have an api call befor the oper system restart or shut down in electron
+handle operating system restart and shutdown in electron by an API call before restart and shutdown

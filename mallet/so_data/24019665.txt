@@ -1,1 +1,1 @@
-i'm tri to build a simpl node-webkit app on my window machine. here pleas forgiv me if this is a basic question caus i'm new to node-webkit. ani suggest is appreciated.
+node-webkit can't resolve path correctly on Windows

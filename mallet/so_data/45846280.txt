@@ -1,1 +1,1 @@
-i am use angular 2 with electron. here i ad print option in electron menu, but actual i want that not to add print option in electron menu. i want to add it in each page of html templates.
+How to add Electron's printing option in an Angular 2 component?

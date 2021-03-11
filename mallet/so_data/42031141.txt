@@ -1,1 +1,1 @@
-i'd like to use hmr with my react electron app. how would i do that? do i need web pack? how do i integr it with electron?
+How to use Hot Module Replacement with Electron

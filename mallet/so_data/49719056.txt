@@ -1,1 +1,1 @@
-i'v been tri electron with clojurescript with this templat and i'v decid to upgrad clojur and clojurescript (to get perform updat from cljs 1.10.x), however, i'v got some warn and electron app doesn't work after the upgrade.i get these errors:
+ClojureScript - name goog is not defined in the extern

@@ -1,1 +1,1 @@
-can i chang the screen resolut in nightmarejs? (not a viewportsize)for example, how it work in casperjs:mani thanks!
+Nightmarejs screen resolution

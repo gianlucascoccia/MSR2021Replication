@@ -1,1 +1,1 @@
-i am creat a menu in window.j when we click on it the current browser window posit will change. i have my app.j file where i have creat my browserwindow and have set x,i . now how can i chang the x,i valu of current browserwindow ?mi browserwindow in app.j
+Change BrowserWindow position dynamically in electron app

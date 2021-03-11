@@ -1,1 +1,1 @@
-after "cordova build electron --production" i get an compil exe-fil and an "win-unpacked" folder, but i can neither edit/chang my sourc file (mp4, json) in there.i there ani way to leav the resourc (origin www-folder) untuched?
+Build electron window app with accessible resource

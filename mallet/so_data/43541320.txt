@@ -1,1 +1,1 @@
-my web app use
+webContents.send v webContents.executeJavaScript

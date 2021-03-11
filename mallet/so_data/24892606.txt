@@ -1,1 +1,1 @@
-i'm tri to add support for pdfs in my mac node-webkit app. i tri use "pdf.js" but it requir the use of a web server so this won't help me.i'v alreadi solv this issu for the pc version of the node-webkit app by instal "adob acrobat reader" and ad the "nppdf32.dll" file insid the plugin folder of the root directori of the pc application.now i'm tri to solv this issu for the mac version. how can i open pdf file insid my mac node-webkit application?
+How can I open PDF file inside a Mac node-webkit application?

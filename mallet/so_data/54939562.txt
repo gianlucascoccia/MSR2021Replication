@@ -1,1 +1,1 @@
-can we build desktop cross platform app(window &amp; mac atleast) use xamrin.forms. i know electron is alreadi there, but more interest to know if the same job can be done use xamrin.forms?
+Is it possible to build desktop cross platform app(Same a electron) using xarmin.forms?

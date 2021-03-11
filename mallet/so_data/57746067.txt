@@ -1,1 +1,1 @@
-in the electron doc (https://electronjs.org/docs/api/screen)whi do they add
+Electron externalDisplay bound

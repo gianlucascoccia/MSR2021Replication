@@ -1,1 +1,1 @@
-i want to navig via workaround suggest here
+Navigate on same page via element id in electron

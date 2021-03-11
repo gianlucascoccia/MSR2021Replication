@@ -1,1 +1,1 @@
-how would you make an app that if run normal (ie. double-click on the icon or whatever) would run as a gui but would also have a headless mode if use with some command line switches?
+Making a hybrid command line / GUI app in node-webkit

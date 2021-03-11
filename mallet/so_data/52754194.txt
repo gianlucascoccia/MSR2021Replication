@@ -1,1 +1,1 @@
-i have implement linux player use mpv player npm packag mpv-controller.i want to loop the video for a long time. initi it work fine up to 6 hours(approx). then the video automat paused. while i investig there is no memori issue, mpv player use veri small amount of memory.pleas help me to fix this issue.thank you.
+MPV Player automatically pause after long run

@@ -1,1 +1,1 @@
-right now i'm work on a small gui for use docker. i'm use electron.j and vue.j for this. sinc desktop applic written in electron are embed chrome apps, i have a problem when i tri to send request to docker rest api:noth unusual, it behav like it should sinc it a browser. the real question is how to enabl cross request to docker rest api ?i'm use version 17.03.0-ce
+Docker for Windows REST API - enable CROSS

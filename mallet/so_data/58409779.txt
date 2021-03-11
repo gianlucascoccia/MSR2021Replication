@@ -1,1 +1,1 @@
-i'm work on a electron(-nuxt) base application. end to end test re-written with ava + spectron. the the messag i got is: 1 test fail app should login error: test finish without run ani assertionsthat is truthi becaus there aren't ani assertions. but i can see that the button is never clicked, becaus that would trigger a "login failed" messag from the app.
+Click function in Spectron doesn't click

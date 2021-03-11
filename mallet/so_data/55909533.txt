@@ -1,1 +1,1 @@
-im work on a littl clipboard electron base app i made a system which right now display a popup balloon that say ive copi someth howev i want it to actual display what was copi in my electron window and be abl to keep a list of thing ive copied. is there a specif way to do that? also is there ani use clipbaord api that electron uses? thanks, code:
+On copy show what wa copied in electron

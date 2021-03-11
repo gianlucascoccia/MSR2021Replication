@@ -1,1 +1,1 @@
-i'm build a program that queri mysql databases, get the tables, fields, field data types, and entri and return it as a singl object to be later use to view the mysql data as a table.thi is what the built object will look like:but it still return [object object], ani help would be appreciated.
+Querying MySQL with JS Object returning [object Object] a table name

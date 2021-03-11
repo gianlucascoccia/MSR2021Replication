@@ -1,1 +1,1 @@
-is there a way to open devtool on product build of electron that were packag and distribut to you?for instance, i'd like to poke around slack app. i know that it built in electron, and i'd like to open devtool to see how some part of it are built.on maco i'v tried: but i'm not sure it work with product builds.
+Opening Chromium DevTools in production build of Electron apps without source code or build process

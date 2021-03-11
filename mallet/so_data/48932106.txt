@@ -1,1 +1,1 @@
-my ? i'd prefer the user not have to instal sox separ (unfortun most of my user are not that savy). is there a way to includ sox binari direct or sequenc pre-instal of sox befor my app?
+Packaging dependency inside electron app

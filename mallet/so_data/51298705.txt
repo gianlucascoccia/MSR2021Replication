@@ -1,1 +1,1 @@
-after login functionality, i am save my auth token in browser localstorage, so that i can authent each action fire to the server. after login i have to refresh my browser to retriev my token, sinc root compon is not rerendered. is there ani way to rerend index.js? i am build an electron app, so browser refresh is not an option.in index.jsbut this will onli get render onli the first time app loads. store and rout are defin inside. so after login auth token will be save in localstorag but it not updat in app. ani ideas?
+Saving Auth token in localStorage (React + ROR)

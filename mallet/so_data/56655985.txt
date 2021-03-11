@@ -1,1 +1,1 @@
-we are develop an electron js app which should get a configur file from a server at one part. this work until an hour ago, but now it "magically" throw a permiss error. it throw a permiss error when we tri to write to anything. here is what we explicit tested:app.getpath('userdata')"c:/test"app.getapppath()w tri lauch it from an administr elev powershell, but still no success. this is our code snippet:
+Electron JS write file permission problem

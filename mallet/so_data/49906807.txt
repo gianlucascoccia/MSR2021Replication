@@ -1,1 +1,1 @@
-i'm new to electron and i'm write a simpl applic in angular 5 and electron.i wonder how to store data in my applic like personnel forms. i know it possibl to store data in mysql and other databas engin in nodej code.but i want to store my data in a databas engin like sqlite or mysql use the angular code in typescript.
+how to connect to local database in electron

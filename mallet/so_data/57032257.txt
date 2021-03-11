@@ -1,1 +1,1 @@
-i'm new to use web socket in nodej in my electronj project. my goal is to connect to the connect my server is running, i have everyth setup correctly, the port, password, and localhost, all seem to work use anoth package. but when i tri to creat this on my own, i can't seem to get this to work.ani help would be great appreciated.
+Connect to Rcon using WebSockets (ws)

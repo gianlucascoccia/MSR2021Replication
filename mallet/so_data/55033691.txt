@@ -1,1 +1,1 @@
-let say i have a state? i.e. without requir to reload the page?
+How to switch website for a BrowserView without waiting for page reload?

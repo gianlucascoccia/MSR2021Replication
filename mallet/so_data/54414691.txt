@@ -1,1 +1,1 @@
-questioni'm tri to use web worker in electron. so far i'm abl to instanci the worker process from the render process, but when i tri to do a which i find strange. meta:electron version = "4.0.0", platform = "win32", arch = "x64", node version = "v10.11.0"ani help in this regard would be appreciated.
+Cannot require node_modules in electron worker process

@@ -1,1 +1,1 @@
-i instal jqueri for my electron project with npm i jquery', and it work perfect in the debug mode of electron.however, i have begun to packag my project, and it onli includ jqueri on window if i use --prune=false', and it won't includ it for linux at all.how can i get electron packag to includ jqueri in all builds?thanks.
+jQuery won't include in Electron Packager build

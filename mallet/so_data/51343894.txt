@@ -1,1 +1,1 @@
-hi i'm request two result from the main process but when i click the button, the app keep freezing. even devtool is not work .main.jsthank for help.
+Electron.js ipc.sendSync Frezees

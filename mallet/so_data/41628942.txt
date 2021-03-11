@@ -1,1 +1,1 @@
-problem is chrome doesn't support wav file and electron is built on chrome.our record server softwar (asterisk) record call to wav and have no choic but to use wav as a format sinc there are more than 100000 recordings. onli option it seem for now would be to convert the file to mp3 on the fli when that file is request but have some difficulti get there.ani suggest on how to go about do this will be great appreciated.
+Need to play WAV file in Electron using Vue.js or Javascript, No support for WAV from Chrome

@@ -1,1 +1,1 @@
-i creat a basic applic with ionic 4 and capacitor. when ad electron and tri to run the applic the follow error occurs:no @ ionic/cor toastcontrol detected, pleas make sure you have includ the web component.can someon help me?thankseverton
+Ionic 4, Capacitor and Electron - ToastController problem

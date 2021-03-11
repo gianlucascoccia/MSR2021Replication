@@ -1,1 +1,1 @@
-hi i have design a webpag in muse and i want to make a packag output from electron. i have use the quickstart main.j and package.json and my folder structur look like thiscan someon pleas help me?
+How to use a Muse file in electron application

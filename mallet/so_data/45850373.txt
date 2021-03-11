@@ -1,1 +1,1 @@
-devtool, toolbar and other featur was remov from nw 0.13.*. how can i to use the devtool in current versions?i creat a nw project who use nw 0.12.1. i decid to upgrad it to current version, and then, the desir tool was absents.
+How to use devtool in node NW?

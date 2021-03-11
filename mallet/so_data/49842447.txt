@@ -1,1 +1,1 @@
-i'm write a desktop applic with in ani files.i'm so confused.
+electron can't get current file path

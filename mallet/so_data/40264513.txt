@@ -1,1 +1,1 @@
-i am tri to write some test for app implement in electron use spectron framework. when my applic has start properly, i would like to send an event that it is ready. i do someth likein app: i tri these twoth function done() is never call :(i appreci ani idea what could be wrong.thanks!
+How to send ipcMessages between Electron and Spectron?

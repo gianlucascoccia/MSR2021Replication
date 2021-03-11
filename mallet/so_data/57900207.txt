@@ -1,1 +1,1 @@
-if the window display zoom is set to 150%, the electron app also appear zoomed. i want my app to avoid the window zoom level and alway display in 100% zoom only. i have tri the but it not working.
+How to avoid window zoom in electron app

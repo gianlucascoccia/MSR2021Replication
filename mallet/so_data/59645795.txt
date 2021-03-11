@@ -1,1 +1,1 @@
-i am tri to publish an applic to the window store and it keep failing. the error i receiv is the following.(app manifest) fail to extract import api inform for this application.(support apis) fail to extract import api inform for this application.could someon tell me what am i missing. i am not abl to identifi the api and the reason behind this error.thi applic is build with nw.js
+Window Application submission failed to extract imported API information

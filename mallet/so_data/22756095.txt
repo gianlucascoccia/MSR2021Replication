@@ -1,1 +1,1 @@
-i'd like to use an embed version of ffmpeg (or ani execut really, it shouldn't make a difference) in my node-webkit project, so that the end user doesn't have to instal the librari in a locat avail in the $path prior to use the application. i would like to use child_process ´spawn.bind´ to address the binari if possible. how can this be done if i know the relat path to the execut ?
+How to use an included binary with node-webkit

@@ -1,1 +1,1 @@
-ok so i have a nice bundl meteor app that should now be node runnable. i'm tri to get it to work with electron. i run to add my modul and everyth work except fiber creat a folder call win32-x64-3.28 and when i run electron i get an error, electron demand win32-x64-4.3 fiber binaries. i'v tri build it use node-gyp and continu get the same result.i'm on a 64 bit window 7, node 12.7, npm 2.11.3, electron 0.30.4, and fiber 1.0.5.how can i instal the correct version of fibers, win32-x64-4.3, to make electron happy?
+Can't generate V8-4.3 node-fibers binary for Electron

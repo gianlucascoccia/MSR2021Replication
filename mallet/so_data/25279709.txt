@@ -1,1 +1,1 @@
-with nedb the first statement will updat the data correctly, but the second (use the doc valu itself as key(and yes docs[i].id is 2013000060')won't work - even the result of the updat function tell me that 1 row was changed.som ideas?
+NeDB Update doe not work

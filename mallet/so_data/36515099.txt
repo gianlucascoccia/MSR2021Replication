@@ -1,1 +1,1 @@
-use electron-packag i can creat a packag version of my javascript applic for various architectur and platforms. however, it doe not packag each build as a singl binari which i can distribute. when look for altern i found out about enclosejs, but it is not free (and i prefer a free solution).anoth one i found was electron-boilerplate, which onli creat a *.deb, *.app or a window installer, but not a singl execut which will run the program.i it possibl to use electron to creat a singl execut file?
+How to package an Electron app into a single executable?

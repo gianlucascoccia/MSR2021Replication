@@ -1,1 +1,1 @@
-i want to build a hybrid use ionic/electron to run it on desktop,brows and android, after do some research i found about rxdb which by it definit seem to fit this kind of db usag (https://rxdb.info/) i want to be abl to store data local in an sqlite-lik storag capac without be limit by the web browser storag capac and use the same api (rxdb ?) to manipul data on desktop (electron), mobil and web browser (ionic).i this possibl use rxdb ? if it not i would like to know if there are tool out there capabl of allow such function ?
+RxDB/Electron storing data in sqlite

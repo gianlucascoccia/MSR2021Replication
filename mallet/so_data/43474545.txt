@@ -1,1 +1,1 @@
-i'm current learn electron and use angularjs.i'v my rest api in node and express and my databas is mongodb.thi is my routeth tabl is render slow for larg json take 1second it like it lagging.i'm new to this so of cours i'm do someth horrible. i think the way i'm use that async function are bad also but dont know what make it slow foreach or anyth else.
+Angular in electron, slow rendering for large json

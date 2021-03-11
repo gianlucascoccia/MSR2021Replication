@@ -1,1 +1,1 @@
-my app is base on drag and drop function so i can't start electron as admin to use fs.symlin() becaus d&amp;g will get disabl when your app is run as admin on window osi'm tri to creat symlink in ipcmain of electronfs.linksync(app.path,destination)
+create symlink in electron app

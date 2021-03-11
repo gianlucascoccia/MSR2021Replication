@@ -1,1 +1,1 @@
-i'm creat a remot desktop stream applic on macos. recent maco introduc screen record permiss in catalina. it show a popup to allow screen recording.us case:allow an applic for record screen for webrtc implementation. to run this applic all the time (alway running) i'm use plist.problem:when i'm execut my binari from command line then it show that popup but when i'm run the same binari through plist then it not ask for permiss and i'm unabl to give screen record permission.
+Screen Recording permission in Catalina using plist

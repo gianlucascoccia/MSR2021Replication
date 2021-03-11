@@ -1,1 +1,1 @@
-i'm develop an app with electron and angular cli 2the problem is when i instal other node packages.in develop mode work fine, but when export the final applic with electron-packag it tell me that:how can i includ all node packag in the final application?
+Error creating executable in electron

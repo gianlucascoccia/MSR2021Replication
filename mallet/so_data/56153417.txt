@@ -1,1 +1,1 @@
-i have disabl the develop tool by pass the devtools: fals in the followingbut it remain insid the view menu, of course, it doesn't work.i never creat the menu, it was creat by default by electron, is there a way to edit it ?i just need to remov the item as it make no sens as i have disabl itthank in advanc
+Electron: Remove toggledevtools from default menu?

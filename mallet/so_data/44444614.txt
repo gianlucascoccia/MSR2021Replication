@@ -1,1 +1,1 @@
-i have an express server that serv my angular front end at http://localhost:9000i'm use electron as a desktop client.i want to forc user to view the applic through electron and onli through electron. i don't want user to have the abil to browser the applic through ani other browser.i there ani way to disabl the abil to access the app through a regular browser?i'v attempt to find inform regard this but have come up short.
+How to disable user from being able to view app through regular browser in express / electron app

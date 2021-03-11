@@ -1,1 +1,1 @@
-i'v been work with my nw app for a few week now without issue. i'm start to bring other cowork into my repo for test and i decid to write an instal script rather than forc them to manual instal the dependencies. today, after run the instal script to test, i tri run my app and got the follow error:
+Running NodeWebkit app fails with: Invalid package.json Field 'main' is required error

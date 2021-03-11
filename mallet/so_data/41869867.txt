@@ -1,1 +1,1 @@
-i have an electron app which run with no problem when use folder get miss off / ignored.ani idea whi this is happening?
+Electron-package not including all source file

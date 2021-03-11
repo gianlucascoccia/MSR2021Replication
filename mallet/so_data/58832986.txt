@@ -1,1 +1,1 @@
-i need to instal my electron app for all users, but do this make it necessari to alway start it with admin rights, becaus nodej tri to manipul file within the program directory. i have tri to unpack the correspond file and copi them into the userprofile, but do so is realli messy, sinc it break all the relat paths. is there a way to automat add a few file to user data without have to take of all the paths?
+How to install Electron app per machine without having to use admin right for using all features?

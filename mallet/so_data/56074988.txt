@@ -1,1 +1,1 @@
-so i'v been tri to captur audio and video from a singl window, but i can't manag to fulli do this.i have tri use
+Is there any way to capture video and audio from a window?

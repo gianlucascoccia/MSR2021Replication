@@ -1,1 +1,1 @@
-the electron documentation, provid the follow code sampl to creat a new window:mi question is: whi set win to null at the close event?n.b. the browserwindow class inherit from class eventemitter.i am not sure if this inform is relevant, but i thought it might help to includ it in the question.pleas give a detail explan with your answer.thank in advance!
+Electron - Why set BrowserWindow instance to null on the close event

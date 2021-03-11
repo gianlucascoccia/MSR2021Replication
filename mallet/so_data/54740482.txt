@@ -1,1 +1,1 @@
-i am tri to autom test of an electron applic (from third parti vendor) use selenium and c# and am get the error: openqa.selenium.webdriverexcept : cannot start the driver servic on http://localhost:. attach is the piec of code.actu result:openqa.selenium.webdriverexcept : cannot start the driver servic on http://localhost:expect result: driver instanc is creat successfullynote: the electron applic is launch successfully. also when i remov the path to exe of electron applic there is no error and driver instanc is creat success
+Selenium driver service not starting

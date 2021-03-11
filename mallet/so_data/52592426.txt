@@ -1,1 +1,1 @@
-i'm look to make a folder outsid of a portabl electron build. i'm think that creat the folder when the app start will trigger permiss so i'm hope to find a way to do it within the build process. i'm use electron-build for packag the app. what the best way to do that?
+Creating a folder at build Electron

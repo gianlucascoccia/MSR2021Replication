@@ -1,1 +1,1 @@
-for few day i'm tri to integr my electron app with sqlite. i have alreadi made the build of the sqlite with follow script: regardsjan
+Angular5 + Electron + Sqlite3

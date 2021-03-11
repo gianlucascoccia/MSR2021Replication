@@ -1,1 +1,1 @@
-i'm current build a raspberri pi car pc with electron. near everyth is done. two thing are remaining.on of them is a bluetooth audio stream from my mobil phone to the electron app. is there a way to do so via the "advanc audio" bluetooth servic of an android phone? i want someth like a bluetooth speak where i can play/pause, skip, etc. songs.th bluetooth connect itself is not a problem. alreadi done that with an obdii adapt to get a nice car health monitor.thank you in advance!
+Bluetooth audio stream from android to electron app?

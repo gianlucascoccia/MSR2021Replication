@@ -1,1 +1,1 @@
-for example, when call .
+How to prevent hourglass on cursor during load time in Electron app?

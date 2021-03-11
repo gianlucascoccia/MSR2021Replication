@@ -1,1 +1,1 @@
-i am creat an window with a signific initi process and i would like to keep the window hidden until init finishes. right now at the begin of my js code i hide the window right after it is creat and then show it when init is complete. but this creat a less than pleas flash when the app is launch as the window appears, disappear and then re-appears.i there a way to keep the window invis while the init runs?
+keep window hidden until init completes

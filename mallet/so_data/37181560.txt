@@ -1,1 +1,1 @@
-im use nwjs to creat a simpl desktop app. i need to connect consol c++ app when i do a click event in a button on html5. i heard it possibl use child_process intern modul from nodejs. i didn't get to exec the exe file when i click in the button.i have next code:th .ex file has a input paramet (a number) and it return a simpl text with the introduc number.anyon can help me?thanks!
+How to exec .exe file from Node.js

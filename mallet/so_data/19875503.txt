@@ -1,1 +1,1 @@
-i use excel-pars to pars excel in nodejs, but when filenam contain space, it throw an error.thi is the error message:how can i pars a excel file whose name contain space use excel-parser?
+excel-parser failed when space in excel filename

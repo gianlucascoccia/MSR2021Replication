@@ -1,1 +1,1 @@
-i am tri to add function to a button in can the dom object be access while build electron apps? or is there ani other altern way that can give me the requir functionality?
+How to access DOM element in electron?

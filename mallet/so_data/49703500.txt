@@ -1,1 +1,1 @@
-i want to creat . but i alway get the fs error.i there ani way to solv this problem or is there ani other use method to do this?
+Read/Write local json file in electron by angular

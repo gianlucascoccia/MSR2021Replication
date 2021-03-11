@@ -1,1 +1,1 @@
-i'm build a music player with electron. in the main proccess i have all the event an content management, and i load music in render by http server creat in the main, so the the error onli ocur in the chang of torrent, and i tri 100 form to solv it with no solution. ani idea whi it happening?
+HTML5 audio tag doesn't play some audio

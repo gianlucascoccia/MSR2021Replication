@@ -1,1 +1,1 @@
-i want to eas the burden of my user in access a certain page in my desktop app without go back and forth again and again, thus my question. think of it as microsoft sticki note and it an electron js desktop app. even a youtub link would be nice. thank a lot!
+(Electron JS) How can you make a program that automatically save even after closing? Specifically like Microsoft Sticky Notes

@@ -1,1 +1,1 @@
-there is the file and return the variabl i needed. but this is some strang solution, in my opinion.
+Passing changed variable to a JS function which source and run in HTML file

@@ -1,1 +1,1 @@
-i tri to made electron music player app. as a first step is open my file. when i open file, "typeerror [err_invalid_arg_type]: the "path" argument must be one of type string, buffer, or url. receiv type undefined" that error occur and error messag show that scanfile(filepath), fs.readfile(~~) caus error. how should i fix it?
+fs.FileRead -> TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be one of type string, Buffer, or URL. Received type undefined

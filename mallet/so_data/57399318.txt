@@ -1,1 +1,1 @@
-i'm use the react context api in my electron app but it appear that a consum is pick up the default valu from the initi creation of the context instead of the valu provid by provider. return undefined.th same code work in a web app (i.e., togglesidebar is from the provid component), but in electron, i'm see this difference.
+Why is React Context API mis-behaving in Electron app?

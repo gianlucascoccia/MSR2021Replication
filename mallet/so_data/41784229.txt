@@ -1,1 +1,1 @@
-i'm tri to make a project i code on mac os run in window and it use electron. i tri run it like this:
+Running electron on Windows

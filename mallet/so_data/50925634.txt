@@ -1,1 +1,1 @@
-i'm learn electron and i'v made an electron app that read and creat files.when i start the applic with "npm start" or "electron ." it work as intendedbut when i use the "npm run build" or "build -w" command the applic built just show a white screen is there someth wrong with my code or someth wrong with the command i'm using?thi is my package.json
+Electron show white screen when built

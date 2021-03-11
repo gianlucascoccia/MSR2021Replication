@@ -1,1 +1,1 @@
-if i have a simpl typescript class that just print to the screen, like below, how can i access it on the front end in a simpler way? speak.t
+Pass TypeScript object to Window in Electron app

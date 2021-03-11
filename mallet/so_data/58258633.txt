@@ -1,1 +1,1 @@
-i'm use the desktopcaptur api from electron to display a live stream of my comput (and have the choic of the desktop to display via the stream avail through an url? do you have a better way to achiev that?thank you!
+Generate a live stream url from the electron desktopCapturer

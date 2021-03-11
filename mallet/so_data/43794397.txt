@@ -1,1 +1,1 @@
-i'm abl to set an http proxi just fine for nightmarej but how do i specifi the type (http/socks5/socks4)? here the code i use to set an http proxy:
+Specify SOCKS Proxy For NightmareJS?

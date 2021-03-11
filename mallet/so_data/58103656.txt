@@ -1,1 +1,1 @@
-i recent develop an app with is there ani better way to achiev it?i found someth help for obfusc on medium post. but didn't find anyth about sourc protection.
+How to perform obfuscation of source code and protect source in electron j

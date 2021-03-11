@@ -1,1 +1,1 @@
-let say i want to have a key event onli on my compil applic with atom shell.
+key event in atom shell

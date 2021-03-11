@@ -1,1 +1,1 @@
-i am creat an electron app with vue by use the plugin vue-cli-plugin-electron-build with standard webpack config given by the electron-build plugin.aft ad a depend of kubernetes-cli and use it in the script as below : seem like the asar electron bundl creat is not abl to resolv some path which is use insid the kubernetes-cli librari (on which i have no control)how do i solv the error ?
+Electron App with Vue throwing Uncaught Error: ENOENT

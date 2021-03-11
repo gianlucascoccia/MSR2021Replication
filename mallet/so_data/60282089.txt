@@ -1,1 +1,1 @@
-i have an electron app, and from it i am call a multithread exe (written in c++) use spawn. but, instead of launch 8 thread and use all of my cpu cores, it run on a singl core. how could i chang or allow the nodej thread pool to be extend to let my exe spawn all of it threads? without use asynchron c++ addonsexecut this use spawn output 8 (the number of thread on my system)edit: all of this had noth to do with my nodejs. my c++ program had a launch error. no thread issues.
+Multithreaded EXE not spawning all of it thread when ran using child_process spawn

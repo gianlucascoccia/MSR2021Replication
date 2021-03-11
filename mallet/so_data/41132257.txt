@@ -1,1 +1,1 @@
-i am load a webview and on dom-readi i execut a function insid the webview like this: the problem is that webview cannot find refer to $. but i have jqueri in my project. what could be the problem ?
+webview.executeJavascript function cannot find jquery- Electron

@@ -1,1 +1,1 @@
-i clone a electron react boilerpl repo and in the main.j saw this in the code:i have never seen this. i also do not have a keyword to search googl becaus i have no refer term to search.
+what doe this do??? /[\\/]electron-prebuilt[\\/]/.test()

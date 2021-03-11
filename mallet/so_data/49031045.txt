@@ -1,1 +1,1 @@
-tri to implement a di use inversify, it is not clear how i can achiev a class instanti without ani parameters, when have a depend injection. this is near equival to angular di. in angular one is abl to construct class contain inject without ani @inject parameters.app.module.tsdo you have ani idea or suggestions? thanks!
+Handling Inversify @inject() parameter at class instantiation using typescript

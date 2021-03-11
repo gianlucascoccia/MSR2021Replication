@@ -1,1 +1,1 @@
-i'm tri to setup github login in my electron (creat with electron-react-boilerplate) but whenev i open the link it just show a blank screen. i also tri open the link in the default browser of my comput and it doesn't open.ani idea whi this is happening? if i open ani other link like https://google.com it work fine
+Electron - opening GitHub login OAuth link in new window show blank screen

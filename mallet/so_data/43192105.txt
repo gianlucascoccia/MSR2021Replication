@@ -1,1 +1,1 @@
-given an applic built use chentsulin/electron-react-boilerplate, i'd like to appli the webpack config to the main process ( somehow take the webpack config into account, or is built befor app launch ?
+Apply webpack config to electron main process

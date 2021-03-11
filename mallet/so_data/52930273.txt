@@ -1,1 +1,1 @@
-i have tri to build a veri simpl app with electron, node and angularjs. the app is work well till i pack it. after packing, it doesn't show the window.th ideea was to run a nodej process on localhost:5000, then to load the url in electronj main window. when i double-click on .ex file, the process is start at localhost:5000 and it work in the browser only, but the electron window is not shown.also, it crash when tri to open with i can find the process in task manager. nodej is run on localhost:5000. i can see it in the browser.
+electron-packager win32 don't open window

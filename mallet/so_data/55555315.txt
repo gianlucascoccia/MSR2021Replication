@@ -1,1 +1,1 @@
-i'v got a nodej express server run behind a https nginx revers proxi i want to connect my electron desktop app to the express server will this connect be secur or do i need to creat a certif for the socket io connection?
+Nodejs security with electron connecting using socket.io

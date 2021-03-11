@@ -1,1 +1,1 @@
-i have problem with this block of code.th error is:imag of errorcan someon help me?
+Correcting error with toJpeg in ElectronJS

@@ -1,1 +1,1 @@
-i am use express to creat a webservic that will read string data from a stream, and respond to the http post request with that value. here is the code for the from the http post method and not when i ran the same method direct from the node console?
+Stream read returning empty in nodejs

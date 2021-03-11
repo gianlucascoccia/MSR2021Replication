@@ -1,1 +1,1 @@
-i would like to configur a nuxt.j project to be abl to eitheir run it use or use electron. the goal is to have the same code for a web app and an electron app.i it possibl to combin both fontionn in the same project?
+Using Nuxt.js project both with or without electron

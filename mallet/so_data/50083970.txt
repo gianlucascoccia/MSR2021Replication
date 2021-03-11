@@ -1,1 +1,1 @@
-i am tri electron for the first time and i am blown away by it. i have hit a wall, though, when tri to use singl file vue.j compon use electron-forge. my problem is the following:i creat a project use the vue.j templat and run it. work and look great. i have a singl file page with an index file that look like this:i am stuck. can someon pleas help?
+Nested single file component - vue.js with electron-forge

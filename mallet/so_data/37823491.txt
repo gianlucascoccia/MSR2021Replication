@@ -1,1 +1,1 @@
-on the left side is my electron applic with one youtub video. on the right side is my app creat with pygtk2 and webkit. the contrast is better with webkit. with electron, the black board arround the video diverges. how can i fix it?
+How to control the contrast on video using Electron?

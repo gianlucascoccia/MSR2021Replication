@@ -1,1 +1,1 @@
-when i attempt to run my program after start to learn react, i face this error when i ran my start script. i am import the class app from app.j to my entri point main.js.below is my code:webpack.config.jsi there someth not compiling? i'm realli at a loss for whi there a syntax error.
+Unexpected token import - Electron/React

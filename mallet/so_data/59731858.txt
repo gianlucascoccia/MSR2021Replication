@@ -1,1 +1,1 @@
-get "c:/fakepath" for select directory. so can anyon pleas help me to get the select directory.
+HTML: How to use Browse [input type="file"] and retrieve selected directory in Javascript?

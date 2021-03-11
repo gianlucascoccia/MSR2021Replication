@@ -1,1 +1,1 @@
-i have a realli simpl rout practic look like this i'm use this under electron condit end redirect to a given page?
+Why doe my Vue Router throw a Maximum call stack error?

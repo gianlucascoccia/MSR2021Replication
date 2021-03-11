@@ -1,1 +1,1 @@
-has anyon manag to creat an atom-shell-based, kiosk-styl applic that hide the mous cursor on startup? the app should autostart on login.pur js/css doesn't seem to cut it so now i'm resort to nasti hack use cursorcer and applescript.ani clues?
+Hide cursor on atom-shell application startup

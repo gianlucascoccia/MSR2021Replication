@@ -1,1 +1,1 @@
-i have a problem when load jqueri on electron.th problem onli exist when on main.j i puti need it to work use localhost.
+Electron App Jquery Module not loading

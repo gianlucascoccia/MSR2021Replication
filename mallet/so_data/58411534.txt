@@ -1,1 +1,1 @@
-i want to open some link in my html in the background. i would like to open them in a hidden webview tag. i have tri to name the webview tag like so
+Is it possible to set the target of an anchor tag to a webview tag?

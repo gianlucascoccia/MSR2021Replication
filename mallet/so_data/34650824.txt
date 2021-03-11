@@ -1,1 +1,1 @@
-i'd like to get the event when the content of browserwindow log a consol message.when we use a webview, console-messag event is fire when the guest window log a consol messag like below.thank you for your support!!
+How to fire an event when BrowserWindow log a console message?

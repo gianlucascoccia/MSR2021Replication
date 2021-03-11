@@ -1,1 +1,1 @@
-in my electron applic i creat diffie-hellman key via the follow method: in parallel/seper thread and serv it content via a callback? also the code abov run on electron main process thus a freez on it caus the whole applic to stall for a while.
+Electron run cryptographic Diffie Hellman Key generation on a seperate thread

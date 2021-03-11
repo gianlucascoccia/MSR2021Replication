@@ -1,1 +1,1 @@
-i'm develop an app use react and electron. i'm store the imag in it say that public_url is equal to ".".
+Images won't load after build when using React with Electron

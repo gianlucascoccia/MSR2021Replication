@@ -1,1 +1,1 @@
-problem:i'v creat a project base on this electron-vu boilerplate:https://github.com/simulatedgreg/electron-vueth problem is, it not realli be maintained, it use an outdat version of electron (which also mean it use an outdat version of node.js)question:can i updat the electron version to the latest or it go to break something?if yes, how do i do it? do i just run upgrad command for all relat to electron dependencies?:... etc?
+Can I update Electron version in a project based on an Electron boilerplate?

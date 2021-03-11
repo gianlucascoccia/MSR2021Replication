@@ -1,1 +1,1 @@
-i am tri to make a desktop work monitor app. i need to find out the url of the current tab while a user is use the browser. i chose electron js for implementation, but can't seem to find a way to fulfil my requirement.do anyon know how to do this in electron js?thank in advance.
+How can I grab a running browser process and get the current active url in electron JS?

@@ -1,1 +1,1 @@
-for ex, here is my app, i open evernot web, i hope insert js to add shortcut for evernot web, how to do it?
+How to insert j to electron app like chrome content script

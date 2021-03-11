@@ -1,1 +1,1 @@
-i'm tri to get the file icon for my electron app to work proper on mac.mi package.json has:
+Electron app file association - Custom icon not appearing

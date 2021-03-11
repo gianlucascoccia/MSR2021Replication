@@ -1,1 +1,1 @@
-i have just discov about electron js. i want to creat desktop app which can help to open websit with proxi server. i have tri follow code, pleas help me.and pleas comment ani work example.
+Electron Desktop app that can open web URL using proxy ip address

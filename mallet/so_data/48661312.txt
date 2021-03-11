@@ -1,1 +1,1 @@
-i have a requir where we need to set dll path base upon whether it is execut in product or in develop environment. so i decid to place that valu in environ variabl and tri to achiev that use webpack.defineplugin({}).method 1:webpack.config.json
+Environment variable is undefined in electron even it ha been set inside webpack.DefinePlugin

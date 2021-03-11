@@ -1,1 +1,1 @@
-i would like to use the vuetifyjs/vuej templat to build a web app (pwa), android app (cordova) and desktop app (electron) from one codebase.what is the best way to structur the main codebas to easili creat the built for each platform?
+Structure of codebase to build for multiple platform from one codebase in VuetifyJS/VueJS

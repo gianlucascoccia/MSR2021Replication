@@ -1,1 +1,1 @@
-i keep get this error:searching, it seem this happen when keytar is use in a render process. but background.j isn't a render process. or am i miss something? i am complet new to electron.
+Unable to use keytar in main.js of electron project

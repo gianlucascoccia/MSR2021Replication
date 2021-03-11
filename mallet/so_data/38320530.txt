@@ -1,1 +1,1 @@
-i have develop a desktop app on electron platform. i want to pack my app into .ex so that it can be instal in all ani os.
+How to pack desktop app develop on electron into .exe?

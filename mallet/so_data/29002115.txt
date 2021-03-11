@@ -1,1 +1,1 @@
-how can i identifi if your singl page web app is run with 's featur (mi current build tool) along with the follow module.
+Identify when single page app is running a a nw.js app

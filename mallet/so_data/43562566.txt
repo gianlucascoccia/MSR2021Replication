@@ -1,1 +1,1 @@
-i am current work in electron, howev in releas mode there are bug that are not in the dev environment. is there a way to easili receiv a log of js error sinc devtool is not allow in releas version of the app?
+Getting JS error log electron from release mode

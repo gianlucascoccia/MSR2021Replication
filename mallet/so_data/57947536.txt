@@ -1,1 +1,1 @@
-recently, i notic the yellow warn in my consol saying, .returning() is not support by sqlite3 and will not have ani effect.i'm use the . it didn't put ani effect on output but know what is it worth a lot. here are my environ details. knex v0.19.1sqlite3 v4.0.9node v10.16.9electron-build v21.2.0electron v6.0.2
+.returning() is not supported by sqlite3 and will not have any effect

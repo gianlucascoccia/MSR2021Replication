@@ -1,1 +1,1 @@
-i am tri to run the follow command:, noth changes. if i need to provid more info or context, let me know.
+Electron running j script on Windows cause "Check failed: result" error

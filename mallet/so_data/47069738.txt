@@ -1,1 +1,1 @@
-i'm build a web applic base on create-react-app, redux, react-rout and electron. the app will run both as a web-app and as a electron-app. for the web-app i can total see the point of have the servicework from cra - create-react-app, includ to enabl cach of resources.but my gut feel tell me that i should remov the call to registerserviceworker(); in the electron-app? but i'm not sure.. do i gain ani advantag by keep it there?
+Should I disable create-react-app serviceWorker in Electron app?

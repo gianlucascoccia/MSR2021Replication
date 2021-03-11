@@ -1,1 +1,1 @@
-i'v copi both js file from electron auto-updat into my appauto-updater-win.jsi hitit give me this errorsystem.aggregateexception: one or more error occurred. ---> system.net.webexception: the remot server return an error: (404) not found. at system.net.httpwebrequest.endgetresponse(iasyncresult asyncresult)ani ideea how to solv it? pleas i need some help :)mani thanks.
+Auto update electron The remote server returned an error: (404) Not Found

@@ -1,1 +1,1 @@
-i have built the electron app and now want to use tray featur as mention herei am give icon path which is locat in the build folder at the base locat as shown belowbut this is throw the follow errori want to know how to use the icon as it not mention in the documentation.
+electron tray icon issue on window 10

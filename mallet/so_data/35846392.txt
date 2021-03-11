@@ -1,1 +1,1 @@
-my electron project work just fine. but i can't go to the declar of the electron plugin and i can't figur out how to solv that.bas i just wanna get rid of that hint shown in the imag below and instead be abl to go to it declaration.modul is not installed...unresolv function or method...thanks.
+How to integrate Electron to WebStorm having no "Module is not installed" hint?

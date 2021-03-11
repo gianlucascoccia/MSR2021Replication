@@ -1,1 +1,1 @@
-i'v tri to use html5 notificaiton api, but it doesn't work on window 10. there are altern to use?
+How to send notification in Windows 10 (Electron best practise)?

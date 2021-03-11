@@ -1,1 +1,1 @@
-i am tri to run if i run the command again then this error doe not occur and the packag is rebuilt and i can use it.it look like it is someth to do fsevent - i am on linux so that shouldn't be used.ani idea what i am do wrong?us node 8.1.2 and npm 5.0.3
+error recompiling "sharp" for electron

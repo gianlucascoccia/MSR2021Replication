@@ -1,1 +1,1 @@
-is it a good idea to add properti to node ), so this isn't as bad as i thought, but is this good enough, or should i realli take the time to creat a separ node module?perhap this is an opinion-bas question.
+Is it a good idea to mutate Node's global object?

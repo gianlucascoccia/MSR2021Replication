@@ -1,1 +1,1 @@
-i'm tri to requir grpc in an electron app but i get the follow error:but when i run the app i still get the error.
+Using gRPC in Electron

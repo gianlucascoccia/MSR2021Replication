@@ -1,1 +1,1 @@
-i want to build a folder?thanks!
+electron on macOSX - copy file into ~/Library

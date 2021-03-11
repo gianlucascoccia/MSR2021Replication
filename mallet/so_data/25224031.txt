@@ -1,1 +1,1 @@
-i creat the simpl cube as explain in the document but i stumbl upon a realli annoy problem. after a while the cube stop spin and it seem the app hangs. whi doe it hang? it seem to appear randomly. i record the problem and put it on youtube.i have a high end game pc.the code is veri simple:
+Why doe running a simple three.js scene eventually hang in node-webkit

@@ -1,1 +1,1 @@
-i'm tri to use sqlite3 nodej add-on in my electron app. i encount an error while just load the sqlite3 module. look at the stack trace of the crash i see that sqlite3 has sever depend and one of them be a log librari (npmlog). this librari tri to initi some log object from defined, i'm not sure whi it not defin in electron.ani ideas?
+In Electron process.stderr is not defined

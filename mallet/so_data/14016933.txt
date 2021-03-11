@@ -1,1 +1,1 @@
-it is possibl to use node-webkit app as websit for local network (in windows)?
+Node-webkit local network server

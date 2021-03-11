@@ -1,1 +1,1 @@
-i'm new to electron and was tri to creat a simpl code that open an html file, howev instead it open a blank electron window.&#xd;&#xd;&#xd;&#xd;&#xd;screen shot
+I'm using electron for the first time and instead of opening the HTML file it take to to a blank electron page

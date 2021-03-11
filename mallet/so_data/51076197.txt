@@ -1,1 +1,1 @@
-i want to run an execut by use nodejs.follow are my tri to achiev this.i am use electronj for gui, i use electron-pacakg to compil js file. my goal is to call a exe from electron pack executable, so that my server will be triggered. my try:main.j has to execute. but unfortun it not happening.
+Run an Executable by nodejs

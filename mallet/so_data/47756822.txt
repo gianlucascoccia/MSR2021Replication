@@ -1,1 +1,1 @@
-like in ani standard nativ application, also my electron applic need to chang the status (enabled/dsabled) of sever menu item, base on live usag results.i am set up my menu in main.js:.al this is not work in electron, as the menu is creat at applic start and it can't be modifi at all. i believ this is a serious lack, as dynam menu item are veri common (i.e.: menu checkboxes, enabled/disabled, etc).i there ani workaround for this?
+Change Electron's menu item's status dynamically

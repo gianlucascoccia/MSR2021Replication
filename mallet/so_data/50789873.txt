@@ -1,1 +1,1 @@
-i am creat an electron applic with a custom window bar in place of the default window one. i need to know when the window is maxim or un-maxim in order to chang the icon on the window bar to reflect the window state.
+Electron/Javascript: Detect when window is un/maximized

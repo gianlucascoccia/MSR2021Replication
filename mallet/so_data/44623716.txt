@@ -1,1 +1,1 @@
-how can i test my program which run on window also on osxthi is now the start code for ubuntu (linux)
+Package Electron for Ubuntu (Linux)

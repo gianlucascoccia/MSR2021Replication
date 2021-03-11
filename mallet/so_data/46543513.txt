@@ -1,1 +1,1 @@
-we are build an app which use electron and at one point we are pop out a window which is a third-parti website. if i open the websit use chrome or ani other browser then the spell check work as normal. open the page in a webview insid electron it doesn't.do electron/chromium not support spell-check or is there someth which need to be enabled?note: we have no control over the content or code of the third-parti websit
+Electron webview spellchecker not working

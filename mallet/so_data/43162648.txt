@@ -1,1 +1,1 @@
-i have an electron js applic that use a local sqlite database. the sqlite databas is a file within the project folder structur (lib folder). the applic work just fine dure testing, but when i build the app on mac, and launch the .dmg file, it get an error say it cannot find the .sqlite database.i there a way to get this to work with the sqlite databas i have in my project? or is there a simpler way to do local storag in an electron app?thank you.
+Electron JS + SQLite database

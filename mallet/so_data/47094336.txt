@@ -1,1 +1,1 @@
-is it possibl to use same index.html both from electron process and browser like chrome?i made an app that use it own hapi server to serv http request to db and it work fine.now i'm tri to serv is compil use es2016 instead of es2015. i'v tryi use webpack plugin but none of them even let me recompil an app throw differ mistakes.us that template.i there some good way to archiv ident ui for electron-us and browser-users?edit: found similar issu https://github.com/simulatedgreg/electron-vue/issues/195
+Same UI for Electron-users and Browser-users

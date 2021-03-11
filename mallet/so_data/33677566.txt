@@ -1,1 +1,1 @@
-i am develop a node app with node-webkit. i need to use php bad in my application..so i need to know wheather i can use php in my application.i came to know that use php-webkit we can use it.but i am not abl to do it.pleas help me to impliment the php-webkit and express into node-webkit.i need to know how to instal express and php-webkit.thi is my package.json
+Node-webkit add php to application

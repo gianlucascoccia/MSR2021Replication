@@ -1,1 +1,1 @@
-i made a simplest applic in nwjs which just take an input of name .now i can't store this valu perman becaus app is not connect with ani databas .i know about mongodb but don't know how to integr with javascript app.i watch some tutori how to use mongodb with app but they in tutori alway use cmd to first start server (now a general softwar don't requir , user to start server manual etc).pleas help me if there is a way to store, fetch and perform other oper on data offline.what i am miss ? thank
+How and which database to use with NWjs offline window app to store data

@@ -1,1 +1,1 @@
-doe node-schedul support run a job after a schedul run is missed? like window task schedul "run task as soon as possibl after a schedul start is missed" checkbox. my electron app has a remind feature, so it crucial that if the app is close when the remind is suppos to run, it run immedi the next time the app is started. and additionally, if more than 1 schedul start have been missed, onli run once, i don't want multipl popup of the same thing.in case node-schedul doe not support it, what can i use?
+node-schedule run job if missed

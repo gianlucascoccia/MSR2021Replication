@@ -1,1 +1,1 @@
-i want to insert an object into an array which alreadi has some object in it.for exampl i have this object:i there ani simplest method than that?ani help would be appreciate.
+How to insert an object into an array of object using electron-store

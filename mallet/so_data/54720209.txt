@@ -1,1 +1,1 @@
-i am make a electron application. for debug purpos i want the user to have access to ani messag output by the console. howev i do not want them to have access to the full develop tools. is there ani way to copi the consol output into the application? for example, doe someth like this exist:becaus this is for electron the solut onli need to work in chrome.
+Electron: Copy console output into application

@@ -1,1 +1,1 @@
-i am get the follow error when i use bootstrap slider(https://github.com/seiyria/bootstrap-slider) in my electron(http://electron.atom.io/docs/latest/tutorial/quick-start/) app :"uncaught typeerror: $(...).slider is not a function"earli i was also struggl with use jqueri but solv it use : https://github.com/atom/electron/issues/254 :window.$ = window.jqueri = require('/path/to/jquery');instead of regular : the reason quot was queri contain someth along this lines:pleas tell me how to deal with this.
+How do I use bootstrap slider in Electron?

@@ -1,1 +1,1 @@
-i am tri to build an angular 2 desktop app with nwjs. what is the entri point? ani exampl of build angular 2 desktop app with nw.js
+NWjs - Building Angular 2 Desktop Apps

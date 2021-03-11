@@ -1,1 +1,1 @@
-i have three drop down select valu as you can see below. how can i say for exampl
+How to use if statement if you have three drop down selected value using javascript and html

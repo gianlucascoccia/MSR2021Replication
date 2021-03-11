@@ -1,1 +1,1 @@
-i'm write a node webkit desktop app for ubuntu. i want to open up a termin and type some thing in the termin from a click from the desktop app. what modul can i use to hook up my desktop app to the terminal?
+How to pipe to local terminal/processes from node webkit desktop app?

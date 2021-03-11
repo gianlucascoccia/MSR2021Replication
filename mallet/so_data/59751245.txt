@@ -1,1 +1,1 @@
-use electron i'm current want to debug in visual studio code.mi code look like this.th debugg doesn't stop at the break point.am i miss something?e.g. is have two app.on readi not a good idea?
+In Electron why is my second breakpoint not getting hit?

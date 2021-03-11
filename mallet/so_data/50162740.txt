@@ -1,1 +1,1 @@
-so i have been tri to connect to a mysql databas from my electron app:i have no idea what to do, anyon have ani ideas?
+Trying to connect to a MySQL database using Node.js and the mysql javascript client

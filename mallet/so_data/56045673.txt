@@ -1,1 +1,1 @@
-i'm use the iohook node librari for listen to the global mous and keyboard events.i actual need two instanc of the librari for some logic i'm work with.right now my code look like this etc.. ?if so, can i remov specif listner specif to the iohook instanc ?thank for the help. this is bug me for hours.
+Can I use two ioHook event in my electron app?

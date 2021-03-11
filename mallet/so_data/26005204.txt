@@ -1,1 +1,1 @@
-i have been build and debug an angular.j applic for sever month now run from a browser without ani issu whatsoever, howev i am now in the stage of packag it to run in node wrapper. when i creat my package.json and ran the folder from nw.ex i get an error that says: thank in advance.
+Node Webkit show uncaught nodejs error when using angularJS

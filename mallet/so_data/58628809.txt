@@ -1,1 +1,1 @@
-app.vuein my electron window consol says[vuex] unknown action type: test_apiwhi my test_api is not found ?
+vuex unknown action type on Vuex Store (Electron-vue-express)?

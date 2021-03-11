@@ -1,1 +1,1 @@
-i ask this question a few week ago and recent came back to it and solv it. i have a hidden input that look like this:csidl_profile` but javascript doesn't recogn them or i am use them wrong. the project is in node-webkit so a solut use javascript, node.js, or node-webkit api should work.
+Windows user name variable and javascript

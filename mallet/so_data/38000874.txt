@@ -1,1 +1,1 @@
-i am current to adapt a simpl web app i made (use react and redux) into a nativ desktop app.i am use github electron and webpack to do this. everyth is fine if i use hashhistori from react-router.. but i want to use browserhistori so my app will still look nice (url-wise) when run as a webapp. if i do this though, i get the follow error:i'm just wonder if it is at all possibl to use browserhistori with react-rout and electron. if anyon know it would be great appreciated!
+React, Electron, And Router

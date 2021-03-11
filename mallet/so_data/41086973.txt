@@ -1,1 +1,1 @@
-i want to predefin the posit of the websit shown insid my webview (electron). i want to add the left valu dynam . i have someth like this :the problem should be the parenthesi but i tri everyth and i cannot seem to pass the leftpo valu insid that function
+How to inject javascript var into cs

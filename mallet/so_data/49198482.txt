@@ -1,1 +1,1 @@
-i'd like to distribut prebuilt binari for a nativ node.j add-on for electron.presum node abi chang between major bump so i wonder if run doe someth to patch that.
+Prebuilt electron module distribution

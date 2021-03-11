@@ -1,1 +1,1 @@
-i am tri to run node-serialport in nw.js. after follow the nw.js document concern nativ modules, node-serialport seem to build just fine, and run perfect in a regular node process.unfortunately, i get the follow error in the nw.js consol window: {project_dir}\node_modules\serialport\node_modules\bindings\bindings.js:83 uncaught error: modul version mismatch. expect 48, got 46.how can i run these together? am i miss someth obvious?not that i'm current running:window 7 x64node v4.4.4npm v2.4.1nw.js v0.15.0node-gyp v3.3.1serialport v3.1.2
+Running node-serialport in nw.js

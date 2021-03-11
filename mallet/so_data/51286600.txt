@@ -1,1 +1,1 @@
-i have to build a multiplataform desktop app that load ani websit that i want insid the desktop app, i dont want to open my googl chrome or firefox.research i came across electron. it is possibl to this in electron?if it is possible, do i have ani control over the web site, for example, can i spot all the form and complet them with dummi data?
+loading any web site to an electron desktop app and manipulate it

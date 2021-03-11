@@ -1,1 +1,1 @@
-i'm contribut to some open sourc electron base project.w have some dialog and we want to add "dont ask again" checkbox.so i tri to convert from sync (showmessageboxsync) to async (showmessagebox).th function should be 2(window,options) or 1(options) arguments, and both should return promis with some result.but when i tri to handl promis with function, vscode say "expect 1-2 arguments, but got 3."and i cannot compil it.i also check the version of electron and i have 7.1.1 where promis should be returned.could someon pleas tell me what i'm do wrong.
+Electron showMessageBox

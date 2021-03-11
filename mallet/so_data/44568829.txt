@@ -1,1 +1,1 @@
-how i can set global prototyp likeon each file?
+How to set global prototype

@@ -1,1 +1,1 @@
-i am use electron 6.10.0 and use react.js. in my app, there is an add task option in menu, which creat a new window.everyth work fine dure development, but dure product this line caus problem.mainwindow work fine becaus the hash is ' / ' but for add window the hash doesn't chang and it load the mainwindow content again in addwindow.how to use the route/rout dure production, or is there ani other way around.thank in advance.
+How to route in electron react app during production

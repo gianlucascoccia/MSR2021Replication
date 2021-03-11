@@ -1,1 +1,1 @@
-i want to print html file direct to printer with a4 landscap settings. in that html file i ad this @media print{@pag {size: a5 landscape; }} css but it not work expected, it alway return a4 portrait. pleas explain anyon how i can achiev my requirement.curr result:expect output:
+I want to print html file directly to printer with A5 Landscape setting in electron

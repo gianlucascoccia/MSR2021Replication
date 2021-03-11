@@ -1,1 +1,1 @@
-i am build an applic with:react
+Electron and webpack build with task

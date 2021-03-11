@@ -1,1 +1,1 @@
-i am work on angular + electron application. i am use angular version 8. i am tri to add logger to my applic and for log on electron part i am tri to use winston logger. onc i add winston config file in my applic i get follow error on npm run buildeven after defin these depend in package.json, i am not abl to resolv these issues.how to resolv these issues?
+Winston logger in angular-electron application

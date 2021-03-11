@@ -1,1 +1,1 @@
-hello i have make a simpl electron app start from angular 7 app and after instal electron , my app show in background a video that loop and in localhost i show the video start and loop , but when i build and make a distribut pack for window and i start the exe file i show onli a pictur of a video , and this dont start.slider.component.html
+angular/electron app don't show video mp4 when app is in distribution with .exe

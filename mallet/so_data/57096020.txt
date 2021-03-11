@@ -1,1 +1,1 @@
-i am look for a solut to access app featur through a custom context menu creat for file right click.app build in electron.exampl : upload a specif file by right click option to direct access the electron app upload option.
+How to access Electron build app feature from outside

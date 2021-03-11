@@ -1,1 +1,1 @@
-i'm make my first desktop applic use node-webkit.i follow all the step to packag the app on window but i'm get this error:although the packag is in the root.
+There is no 'package.json' - node-webkit app

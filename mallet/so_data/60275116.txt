@@ -1,1 +1,1 @@
-i alreadi have project(html/css/javascript) and by electron builder i am tri to build it into a singl appx file (window store app) with an updat function but i could not find ani valuabl tutori or guidelin to do it. i have been search it for 3 day alreadi but github of electron builder is veri confus and noth good is on youtube. is there ani good sourc which show me how to do it step-by-step?
+AppX (Windows Store app ) with update option by electron builder

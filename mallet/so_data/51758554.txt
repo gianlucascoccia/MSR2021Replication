@@ -1,1 +1,1 @@
-i'm tri to add support to vs code, and whenev it toggl on or off, the applic complet lose focus, and i need to refocus it befor i can type or toggl fullscreen again.i this a known issue?
+setSimpleFullScreen causing app to lose focus in electron?

@@ -1,1 +1,1 @@
-i have rest api which requir valid certification. certif i want to load from a smart card, so i made electron app which detect smartcard with their attributes. when the card is insert i just call , but i need somehow import a valid certificate. is this way correct? how you do it when u need certif from a smart card?
+certification from smart card (electron app)

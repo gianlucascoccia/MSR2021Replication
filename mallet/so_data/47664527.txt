@@ -1,1 +1,1 @@
-i am tri to use spectron to test my electron application. the document say when tri to find the nth child, you can use an nth child selector, or get all children that match selector use ani idea what i am do wrong? or a suggest alternative? i'd prefer to avoid nth-child selector if possible.edit: chang to class
+Spectron/WebdriverIO nth child using $$[n] instead of selector

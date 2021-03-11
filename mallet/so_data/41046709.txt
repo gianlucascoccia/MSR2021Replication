@@ -1,1 +1,1 @@
-i want to save a video that is captur from webcam to a local file. so far i have been abl to:creat a stream with allow me to download the video file, but i want everyth to happen in nodej for further processing. the file is playable, regardless. i tri to write the blob and dataurl to file, but that file is not playable.
+Save captured video to file in Electron

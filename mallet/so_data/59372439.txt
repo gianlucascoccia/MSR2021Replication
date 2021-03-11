@@ -1,1 +1,1 @@
-when i use browserwindow。it just can creat a window abov my primari desktop on macos.but when i have mani fullscreen applic （maco mutipl desktops).i can not creat an browserwindow abov the fullscreen application.mi config is like this;
+how to add a cover or window above fullscreen app in macos with BrowserWindow in electron？

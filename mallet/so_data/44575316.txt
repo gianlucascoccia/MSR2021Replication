@@ -1,1 +1,1 @@
-i need to access render script from electron main menu via onclick. i'v ad the follow to the electron main menu:ther is no remot in the main menu process. remot modul belong onli to render so this seem to be reason error for me. but i'm not quit sure how to easili fix this and make script work onc call from app menu.
+Access Renderer Scripts From Electron Main Menu

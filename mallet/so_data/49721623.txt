@@ -1,1 +1,1 @@
-sinc sourc code is viewabl in a electron desktop applic is there a way to obfusc or encrypt it? we are investig electron for a futur app but worri it can be revers engineered. how would i prevent the sourc code from be viewed?
+How to secure source code in an electron desktop application

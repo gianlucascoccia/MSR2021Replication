@@ -1,1 +1,1 @@
-i have a veri strang error. when i click a button to run a function
+On clicking button to run function in Electron program, page content are cleared and function doe not run

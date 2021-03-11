@@ -1,1 +1,1 @@
-i am tri to dynam add an object with valu from an input field to the end of an array use javascript. the onli catch is that i'm tri to do it with an input field. here what i want to happen:th user type in someth in a text fieldmi program alreadi add a uniqu id for itadd it to the end of an array in the form of a objectkeep on ad object to that arraythi is what i want in my json file:i would realli appreci it if anyon could help me out. i'v spent hour tri to figur it out. thanks!
+JavaScript - Adding an object to the end of an array through a input field

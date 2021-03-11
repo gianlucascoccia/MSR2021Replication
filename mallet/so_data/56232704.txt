@@ -1,1 +1,1 @@
-i am tri to secur my app by use the user hwid in my electron app. but i can't manag to get ani packag working. they all error out. the code is work within normal nodej but when i put it into electron it doesn't work.i have tried:hwid,machine-uuid,node-machine-id
+Get HWID in Electron

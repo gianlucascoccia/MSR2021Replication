@@ -1,1 +1,1 @@
-i can send window notif from electron use but when i tri to send notif from a servic that was creat from electron doesn't show up. although i check that code insid the servic is ran without ani error in the log!i know this is possibl in c# but how do i do that in electron? ani guid how can i send notif from a service? thank
+Windows Notification from node service from electron

@@ -1,1 +1,1 @@
-as the titl explains, i have a simpl electron app that load a html page when started. everyth work fine, but if i tri to build the project use electron-build (
+Electron app show blank screen when built with electron-builder

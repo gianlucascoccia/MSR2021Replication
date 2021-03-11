@@ -1,1 +1,1 @@
-i have an web applic that is alway connect (through websockets) and i need to debug some issu when the comput come back from sleep/hibernate. i'v been put the laptop to sleep and awak everi time, but that is slow and error prone. doe anyon have some idea on how to simul this condit without have to sleep the computer?'thank for ani ideas.
+Simulate back from sleep condition for web app

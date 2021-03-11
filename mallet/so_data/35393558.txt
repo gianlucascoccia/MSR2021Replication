@@ -1,1 +1,1 @@
-i'm make webview app by electron.when i want to use this plugin, can not load.http://madapaja.github.io/jquery.selection/jqueri is work collect, but plugin in not.how to load plugin in electron ?code is below.app.js(main process)error is belowund error: jqueri requir a window with a document
+How to use jQuery Plugin in Electron Renderer Process?

@@ -1,1 +1,1 @@
-use electron and to creat menu item that has chart and text on both the left and right end of the item, as shown below?exampl shown: istat menu 6
+Adding More Content to Tray Menu Item using Electron's Menu.buildFromTemplate()

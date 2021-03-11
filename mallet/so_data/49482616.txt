@@ -1,1 +1,1 @@
-i creat an electron app in window with gkm packag and all function are working. in macos, it need to allow the app from privaci set so that the function of the app is working. is there anoth way to count the per mous click and keyboard press of electron app in maco that not need to be manual allow in privaci setting?
+Count the per Mouse Click and Keyboard Press in Electron MACOS

@@ -1,1 +1,1 @@
-googl recaptcha is domain specif so when use in an github electron app, it give the follow error to run the application.i there ani solut for load recaptcha in an electron app?
+How to use Google's reCAPTCHA in an electron app?

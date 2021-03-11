@@ -1,1 +1,1 @@
-i want to run bash script with param in node js (i didn't write callbacks, becaus i ask onli about command param)
+How to pas parameter to bash command in node exec function?

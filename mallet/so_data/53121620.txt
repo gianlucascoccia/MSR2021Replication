@@ -1,1 +1,1 @@
-so basic i am build an electron app. i have reach an interest problem i have been tri to figur out for a few hour now. there is part of the app that need to be a fork process(child_process.fork()) which is relat to the sourc directory. like this:&#xd;&#xd;&#xd;&#xd;&#xd;i have alreadi figur out that with webpack i can exclud this fork.j file from be includ in the bundl and with electron-builder, keep the directori structor by use the file array in the config.
+Getting child_process.fork() to work in electron when compiled and minified

@@ -1,1 +1,1 @@
-hello so i am new with electron and tri to captur event from my index.j into my index.html, but i cannot make it to work.mi index.j code is below
+How to recieve WebContent event from static page on Electron

@@ -1,1 +1,1 @@
-i am tri to migrat my test framework to jest. it seem like in most of my tests, i general am get import to work, but for some reason vue-tim is not import correctly. the import work fine in develop or production; so, i'm sure it someth wrong with my configuration. error:
+Vue-Timers: SyntaxError: Unexpected token export

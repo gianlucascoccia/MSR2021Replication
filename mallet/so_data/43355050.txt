@@ -1,1 +1,1 @@
-i have two js file in electron (which use nodejs) and i tri to export from one and requir in another.app.js: say it doesn't exist.
+How to export an object with method and property

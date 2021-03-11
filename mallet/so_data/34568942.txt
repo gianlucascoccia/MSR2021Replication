@@ -1,1 +1,1 @@
-in github electron, is there a built-in mechan for includ partial html files?for example, if i design a layout in htmlhow would i put content from differ file into the div with id "dynamic-content"?
+How can I include partial html in github's electron framework?

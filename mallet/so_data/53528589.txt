@@ -1,1 +1,1 @@
-are there ani packag for node that can determin if a pc is on a lan vs wifi connection? i have gone through the node doc and it doesn't appear there is a nativ node module. (https://nodejs.org/api/os.html)could not find anyth in npm that could determin this either.
+Is it possible to check if a system is on LAN v WiFi via nodejs?

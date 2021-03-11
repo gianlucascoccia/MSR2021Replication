@@ -1,1 +1,1 @@
-is it possibl to call a nativ process in electron? for example, if i want to call
+Is it possible to call a native process in Electron?

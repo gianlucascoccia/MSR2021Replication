@@ -1,1 +1,1 @@
-when i creat a this is how they show up when the page loads:and what i want to have happen on load:thank for ani help!
+How to set default state to closed for sidenav nav-links in vmware-clarity, Angular6

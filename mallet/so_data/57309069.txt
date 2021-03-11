@@ -1,1 +1,1 @@
-i want to open a loader while new window is load it is chang background color until the page is reload but i want to show the loader instead of background color. it is not take ani css style (see browserwindow) doc
+Show loader on new-window

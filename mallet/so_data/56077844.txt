@@ -1,1 +1,1 @@
-i have follow a tutori for build a desktop app with electronj everyth is fine but when i maxim the window and then minim it the content start to duplicate. what can be the problem?p.s. it happen onli on linux not on window
+how to fix this electron window minimize issue in linux ubuntu?

@@ -1,1 +1,1 @@
-i'm tri to open a link from an electron app (use angular) on my default browser but i receiv the follow error: i have no idea what i am do wrong and hope someon here can help me :)
+Angular&Electron - Open link in default browser

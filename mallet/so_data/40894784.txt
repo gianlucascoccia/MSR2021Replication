@@ -1,1 +1,1 @@
-i am run a seri of simul on an extern window, and each time a simul is done i increment a progress valu on the main window (everyth happen through ipc communication).th whole mechan work beautifully, and the view abov and insid the progressbar is correct, while the progress bar itself display ugli percentag areas.tak this as exampl (which is a screenshot of a real case):th direct is: doesn't work aswel and reproduc the same exact issue).
+angular-bootstrap progressbar progress shown is incorrect

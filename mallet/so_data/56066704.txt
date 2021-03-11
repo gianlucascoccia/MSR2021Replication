@@ -1,1 +1,1 @@
-i'v got a content edit div like this: but this didn't work.
+How do I remove an eventListener after a button-click?

@@ -1,1 +1,1 @@
-i got follow error message, if i tri to build my electron applic in my docker container.
+rcedit.exe failed with exit code 193. wine: Bad EXE format

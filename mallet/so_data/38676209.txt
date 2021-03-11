@@ -1,1 +1,1 @@
-i am tri to write a simpl electron app to interfac with a rest server. the server doesn't have the appropri certificates. when i tri to make a get request (use fetch()), i get the follow error message:th result is the same error. questions:i am correct in assum this option is suppos to help here?if so, ani idea what i am do wrong?electron version: 1.2.8thanks!
+electron certificate network

@@ -1,1 +1,1 @@
-i'm tri to develop a veri simpl app use the latest version of angular and electron. for this, i follow the tutori of angular and electron. after a whole day of trial and error, final i can start my applic (sourc code on github).now i'm struggl with such a basic thing like open a dialog. i'v tri to follow the electron document and adapt it as far as i understand, but when execut the follow code, angular stop working: in the console).what am i do wrong?
+How to call showOpenDialog() from Angular?

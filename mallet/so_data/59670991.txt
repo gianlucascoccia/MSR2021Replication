@@ -1,1 +1,1 @@
-so i'm follow this tutori along but i just can't get messag to get across page and manipul the dom to creat a list under a ulmain.jsi realli can't get the messag to relay to anoth window. i tri chang the way i get the form and chang the channel from the event listen but noth doe it.
+IPCRenderer not receiving message via ipcmain between page

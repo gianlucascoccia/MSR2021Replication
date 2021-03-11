@@ -1,1 +1,1 @@
-i have a web app that is wrap by nativefi (https://github.com/jiahaog/nativefier). nativefi use electron for achiev this.mi app has a javascript file, say app.j and dure a specif circumstance, my app close itself by -the open tab or window is close in googl chrome. but in nativefier, it is not functioning.so how do i close this nativ app window from within my app.j
+How to force close javascript in an app wrapped by nativefier?

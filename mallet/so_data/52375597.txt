@@ -1,1 +1,1 @@
-==== solv ====to be 100% honest i'm not sure what i did, but i have a fulli work audio bar visual base on desktop audio. i went back to the origin codepen (link below) i start work off of and edit everyth as need to accept a media stream, and it works. full code
+Electron desktopCapturer to Web API frequency all 0

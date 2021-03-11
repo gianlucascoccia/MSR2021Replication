@@ -1,1 +1,1 @@
-i have a electron base browser like applic which use electron tag to render client urls. i have my own custom tab setup use multipl webview tags. as mention in the electron documents, i was use the and i couldn't access the redirect url. has anybodi els face the same issu ?
+Electron webview new-window event returning `about:blank` a Url

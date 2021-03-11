@@ -1,1 +1,1 @@
-i'm tri to make an instal setup for my electron app. i'v tri electron builder and electron packager, it work but not what i hope for. i want to have a instal set up similar to vscode (which i'v heard was made use electronjs), which is a standalon instal with all the user agreement, the path and etc. how can this be done? is it differ depend on which os the user is instal it to? i'm onli focus right now on window sinc the app i'm creat is onli for windows.
+How to make an installer out of my electron app similar to vscode installation setup?

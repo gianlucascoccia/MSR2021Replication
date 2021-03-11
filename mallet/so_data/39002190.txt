@@ -1,1 +1,1 @@
-in my project i use the as i'm far from be profici in these v8 matter mayb someon can advis me what to alter and how to make it work.
+Issue with missing symbol - NewInstance deprecated. Only when running along with nw.js

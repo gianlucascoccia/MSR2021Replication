@@ -1,1 +1,1 @@
-i'm work on an electron-bas application, and i don't have much experi with it or javascript or node.js. currently, i just want to close a window by a click on a button.thi total works! i am just confus with whi it works. from what i understand, the first argument in addeventlisten is just ani arbitrari string. however, i don't specif write anyth to handl a click'. this should mean it built in functionality, i think. is this part of javascript, node.js, or electron? and where in the document can i find a list of built in events?
+Click event listener

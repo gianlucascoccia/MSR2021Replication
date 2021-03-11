@@ -1,1 +1,1 @@
-i want to creat a simpl desktop applic on linux(ubuntu) and set an icon for my application. for the first time i chang it simpli by icon property:aft that i chang it icon file, but it didn't chang to new icon on ubuntu launcher! it icon is the same icon which i set for the first time and it doesn't chang even i remov it icon file.can anybodi help me?
+How to change electron app icon without electron-packager?

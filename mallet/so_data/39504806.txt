@@ -1,1 +1,1 @@
-pleas understand this question is pertain to jscript in electron. i have a two .js file that are to be open and read into individu arrays. i have it set up as two function insid a main type function.each is to be call in the html file insid javascript . they are to popul or add select option to a select input box.i have a hard time call them (arrays) so it can be read into the select option code. below is the ('./app.js')
+Dynamically add option element to <select> in electron

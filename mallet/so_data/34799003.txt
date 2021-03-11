@@ -1,1 +1,1 @@
-i am use electron (former atom-shell) to creat a desktop version of an exist angular web app. most thing work pretti well out of the box, but i have encount some problem with the dropbox chooser.mi web app allow the user to import file from dropbox use the chooser. in electron this caus a new set to null.
+Use Dropbox Chooser from inside Electron app

@@ -1,1 +1,1 @@
-i'm look to make an electron window have a transpar background, but keep it window chrome.i use the following:.th window still have the default white background.i it possibl to have a transpar window in electron without it be frameless?
+Make a non-frameless Electron window have a transparent background

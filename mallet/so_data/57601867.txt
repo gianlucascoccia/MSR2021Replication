@@ -1,1 +1,1 @@
-what the differ between instal electron alon vs via electron-builder? i'm build an electron app with react and found a few tutori already. all of them differ how they instal electron, but there is no explan why. first:. am i correct?
+install electron v install electron-builder

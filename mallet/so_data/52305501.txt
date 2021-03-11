@@ -1,1 +1,1 @@
-i am make an electron applic that encrypt files. for imag files, i want to be abl to display them in the app. my code can success read and decrypt file but i have no idea how to display them in the application. for example, how can i assign this data to an imag element?
+Electron: display encrypted image in application

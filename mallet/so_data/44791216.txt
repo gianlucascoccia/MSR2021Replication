@@ -1,1 +1,1 @@
-i'm use xterm.js, node-pty, and electron to build a node repl like termin (similar to repl.it). i'm use this piec of code to run the file and output it to the terminal:
+How do I not print a command in the terminal using node-pty and xterm?

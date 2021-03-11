@@ -1,1 +1,1 @@
-i am work on an electron app, where i want to load and modifi a project folder. the project folder should onli be modifi by the app and easili exchangeable.a folder is a great sourc of error sinc everyon can enter it and modifi the files. i would love to have some kind of protect for it. the best way i can think of is a bundl file. someth like the file from realmac ember app, which behav as if it were a singl file, but contain multipl resources.i there a way to use such bundl file with electron? (cross platform would be ace)
+How to create and use bundle file with electron?

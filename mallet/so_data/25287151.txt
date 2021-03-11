@@ -1,1 +1,1 @@
-i am load a remot page with an ifram in node-webkit app.i would like to run a function from the node.j app from the webpage.in app.j i have but noth seem to work.how can i do that?mani thank
+node-webkit running a function from external source

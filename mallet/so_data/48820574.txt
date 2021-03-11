@@ -1,1 +1,1 @@
-with the help of electron, i intend to build a cross platform desktop app use angularj and nodej as client side and server side framework respectively. there is a need to be abl to print receipt to a standard pos printer and also product bar-codes. i was wonder whether this is possibl in nodej or if there are such solut avail on github.
+Does node JS support ESC POS printing?

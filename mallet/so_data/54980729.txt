@@ -1,1 +1,1 @@
-i'm current tri to run my angular project as an app use electron. i creat a script in the package.json ad this lineeveryth is work correct when i run ng serv it seem somehow relat to electron. can anyon pleas help me?thank
+Cannot determine project or target for command. Angular+Electron

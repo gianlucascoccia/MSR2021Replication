@@ -1,1 +1,1 @@
-i am tri to upgrad my applic from electron 1.8.1 to 4.0.6. i am use multipl nativ node js modules. they all compil success (or prebuilt binari are available).i am get follow error when requir one of the modules.i am use node-j 10.15.3.i have notic that till electron 3, node_modules/electron/dist had mani dlls present. these dlls are not present with electron 4. are ani addit depend need to be instal for nativ modul to work with electron 4?
+Unable to load some native node j module with electron 4.0.6 on Windows

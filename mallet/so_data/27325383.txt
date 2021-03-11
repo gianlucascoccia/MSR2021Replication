@@ -1,1 +1,1 @@
-i'm current use a css filter in a node-webkit (v0.11.2) applic on window 7 (64 bit) like so: this work fine for the most part, but when the user maxim the window and then attempt to drag the window, there is a huge perform lag. the lag goe away complet without the filter. i don't see the same perform issu in the browser, so this appear to be a node-webkit issue.
+Does node-webkit have performance issue with cs filters?

@@ -1,1 +1,1 @@
-my app frame is visibl by default. but after creat it i want to be abl to chang this. is this possible? here is my code so far: for the sake of test i put the frame to fals right below the creation of the window, this will be anoth method in the app.th window work fine, but i'm not shure how to chang it set after creat it.
+Electron - Change window setting after creation

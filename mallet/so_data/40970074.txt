@@ -1,1 +1,1 @@
-i need to know how to pass data between main and directory.what i wanna do is to activ the direct automat when main.j start on load.direct code: tnx !!!!
+How to pas data between main.js and directory?

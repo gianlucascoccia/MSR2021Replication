@@ -1,1 +1,1 @@
-for example, i have a compil binari but it doesn't matter, i can switch to anoth builder.
+How to run and pack external executable using Electron?

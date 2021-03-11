@@ -1,1 +1,1 @@
-i am use app.setasdefaultprotocolclient("bithop"); but when i navig to bithop:// in my browser, i just get the default electron app. (where it say "to run a local app...")thi is not packag as a .asar app. the document on this seem to be veri unclear.
+Open my Electron App from a webpage using a registered protocol

@@ -1,1 +1,1 @@
-i have an electron/node.j app that i'm have troubl with. specifically, i need to give the user some feedback on the progress of a long loop of synchron spawn by updat an element in the dom. however, what is actual display doe not chang dure the loop. onc the entir loop is complete, the element doe updat with the final i get the same result. node is just go from one block task to the next without updat the ui.
+DOM redraw being blocked by childProcess.spawnSync

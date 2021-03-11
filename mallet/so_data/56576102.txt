@@ -1,1 +1,1 @@
-i am tri to save the exe file from https locat and save it for local use. file is save but i get this error when tri to run it "error: command failed: c:\users\xxxx\appdata\roaming\testapp\updates\update.exe'c:\users\xxxx\appdata\roaming\testapp\updates\update.ex is not recogn as an intern or extern command,oper program or batch file." when i run the update.ex from file explor i get this error "this app can't run on your pc. to find a version for your pc, check with the softwar publisher"what am i do wrong?
+Saving exe file using fs.writeFile

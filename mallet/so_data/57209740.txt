@@ -1,1 +1,1 @@
-i have a bunch of button and i want to run various bash command by click on them. so far i have fs.mkdir() but i want someth like fs.exec('ani command here'). how would i go about do this?her is my code:js:i am not sure if this is relev but i am use electron to make it into an app as well. i am veri new to js/html/css and ani help would be great appreciated!
+How to run bash command by clicking a button?

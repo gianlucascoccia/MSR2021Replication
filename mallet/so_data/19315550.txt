@@ -1,1 +1,1 @@
-i tri nedb in node-webkit it work fine on in memori data but not abl to store in persist storage.
+How to achieve persistent storage in NeDB?

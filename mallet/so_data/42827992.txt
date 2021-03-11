@@ -1,1 +1,1 @@
-first of all, i am use feather client togeth with nedb and i follow this documentation.so i have a json structur like this:.am i do someth wrong here?
+Searching inside an object in NeDB/MongoDB

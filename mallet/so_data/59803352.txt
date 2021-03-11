@@ -1,1 +1,1 @@
-context: ad a featur to an
+Trying to clear cache in Electron but it doesn't seem to work

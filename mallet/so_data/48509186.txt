@@ -1,1 +1,1 @@
-for an electron app, i was wondering, if we could instead of use the remot modul to communic between differ render processes, use observables.i have read that render process and the main process are complet differ which would, the way i understand, restrict the usag of observables.i am also not complet awar of the detail of an observable. so please, go easi on me :p
+Can RxJS Observables perform inter-process communication in an Electron app?

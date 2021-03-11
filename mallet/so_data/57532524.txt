@@ -1,1 +1,1 @@
-i have creat an electron applic and packag it with electron builder, there alway a .asar file in some resourc folder after applic instal that can easili be extract with the help of npm librari like asar. is there ani way to restrict the end user without unpack the asar ?we can just use then the entir sourc code of applic is copi into myfolder. if i store the licens in the sourc code then it would be easi to chang the licens by unpack the asar. expect : way to restrict the end user without unpack the asar ?
+How to Restrict Unpacking of app.asar of an electron app?

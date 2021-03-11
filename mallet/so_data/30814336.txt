@@ -1,1 +1,1 @@
-how do you view error messag and consol log in electron dure development? also, is it possibl for the log to be written direct into a file? edit: kind of like the error and consol log display by chrome dev tools:except in electron rather than chrome.
+Error message and console log in Electron?

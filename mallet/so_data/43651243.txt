@@ -1,1 +1,1 @@
-i have two applic written on electron. how to pass data from one to another?thi should work on window and linux.
+Communication between Electron application

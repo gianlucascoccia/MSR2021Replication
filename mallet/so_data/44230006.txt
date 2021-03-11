@@ -1,1 +1,1 @@
-so i have a react/electron application. sometim my what i don't understand is how i could includ this file into my react application, how &amp; where to execut it?
+Event listener in React/Redux in separate file (electron)

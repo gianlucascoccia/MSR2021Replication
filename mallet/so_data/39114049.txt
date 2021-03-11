@@ -1,1 +1,1 @@
-i need to instal my app on window and mac, which are the main packag that i need to do that, also need firt instal node and mongodb in order my app can run.
+Packing Node and MongoDB in an App to Install in a Desktop.

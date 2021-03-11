@@ -1,1 +1,1 @@
-in electron framework i have load the url of an extern web applic and everyth work fine except for browser alert (the web applic javascript alert). dure the alert, it caus error in the console.pleas see the version that i have used, node.j 10.11.0 chromium 69.0.3497.128 electron 4.1.0can you pleas help me to solv this issue?
+Electron application doesn't showing browser alert

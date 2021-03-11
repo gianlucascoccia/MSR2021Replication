@@ -1,1 +1,1 @@
-i am tri to packag my app with electron-packager. my app have as depend sqlite3 and sequelize.her is my package.json file : , but when i am tri to run it on window with the execut file creat by electron-packag i have a javascript error :i don't know how to solv that problem, i have tri multipl thing like ad sqlite3 in devdepend instead of depend in the package.json but i still have the error.thank you for read me and i hope someon have the solut :).have a nice day !
+Please install sqlite3 package manually after electron-packager on linux for window

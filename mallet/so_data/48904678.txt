@@ -1,1 +1,1 @@
-i'm use macro but i don't know enough about nsis script to work it out.
+nsis installer remove existing app link in start menu subdirectory

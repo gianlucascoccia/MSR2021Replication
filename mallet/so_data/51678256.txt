@@ -1,1 +1,1 @@
-i have creat a desktop applic with electron (node.js) and use sqlite as the database.i want to creat backup of the sqlite databas take a copi of the physic file doesn't seem like the ideal option for me. sqlite doe have this onlin backup api but i can't seem to find a way to use it with node.jswhat would be the best approach to handl this.
+SQLite Backup API with Node.js

@@ -1,1 +1,1 @@
-i use nw.js and zip follow file into a
+Read internal and external file with node-webkit

@@ -1,1 +1,1 @@
-i'm build a web crawler that will cover 200+ sites. the current code i have run on top of an extern json file i'v built of a dozen sites. sample:how can i have this work without have to write an individu file for each? or is there a better way of crawl this amount of sites?sourc code
+NightmareJS - Web Crawler need to iterate over JSON data

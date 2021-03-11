@@ -1,1 +1,1 @@
-work on desktop use node-webkit. localstorag of chrome persist even after restart browser or machine. chromium of node-webkit doe not persist inform when node-webkit start again.hop i am clear here with question. thank in advance.
+Node-webkit - localStorage is behaving like sessionStorage

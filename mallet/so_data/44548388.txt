@@ -1,1 +1,1 @@
-doe the accept attribut for an input of file type work differ per oper system?on a mac comput this limit so that onli a video type file can be chosen. but on window it still allow you to select anything. is there differ syntax that must be use per oper system? or am i over look something?ani help is great appreciated.
+html accept attribute working differently on different operating system

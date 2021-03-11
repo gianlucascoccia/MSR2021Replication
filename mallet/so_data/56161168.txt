@@ -1,1 +1,1 @@
-upgrad from electron v2.0.3 to the latest relas v5.0.1when i tri run electron, i get the follow error:
+TypeError: app.makeSingleInstance is not a function

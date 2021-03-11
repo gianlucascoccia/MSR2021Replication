@@ -1,1 +1,1 @@
-i am packag my electron applic use electron-packag and creat instal use electron-winstaller. exe can be download from differ channels. refer of channel or site will be append in exe file itself. onc user start the instal i need to get that refer from exe. and store it in my applic or ani file.it will look like: myapp_ref12345.exeani clue how i can achiev this?
+Electron packager: Need to read the installer name

@@ -1,1 +1,1 @@
-my task is to build a html5 desktop app, which work with serial port, becaus i have an arduino on the other side on com-port.i instal ), but note work for me: on both window 8.1 and ubuntu 15.04. i don't know how to adopt serialport packag for electron.
+node-serialport doe not work with Electron

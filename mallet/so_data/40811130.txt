@@ -1,1 +1,1 @@
-i would like to creat an electron app that can do some web autom base on user input into a gui. in my research it seem my two best bet are phantom and selenium+chromedriver. the thing i'd like to do is have an app that someon els could download and run without ani addit setup. it seem with chromedriv and phantom that i'd need to have other download and add these thing to their path. in order to get thing functioning.i there a way around this? or is there anoth approach i should be taking? ani advic is appreciated. thanks!
+Headless browser automation app via electron j app

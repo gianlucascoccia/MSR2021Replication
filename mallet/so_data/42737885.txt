@@ -1,1 +1,1 @@
-i tri to build an desktop app with ionic 2 and electron.therefor i follow the https://blog.couchbase.com/create-a-desktop-app-that-syncs-using-electron-pouchdb-ionic-2-and-couchbase/ tutorialbut with ionic 2.1.12 and ionic-app-script 0.0.47 (i get the same error if i tri it with ionic-app-script 1.1.4) i get the follow error:
+Ionic 2 build error (Cannot find module '../dist/build')

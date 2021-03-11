@@ -1,1 +1,1 @@
-i have an electron app compil to typescript. i have a main.t and a preload.t as shown in the starter exampl here. when i import a file into the preload.t the app crash right where the import is used. what am i do wrong here? the error says:
+electron app crashed when I import a file

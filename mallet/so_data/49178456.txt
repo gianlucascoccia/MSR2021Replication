@@ -1,1 +1,1 @@
-i am have troubl get electron, angular2 and aws-amplifi (auth) to work. everyth work in the browser but when i tri to run my app in electron i get: error referenceerror: auth is not definedi am use angular-c and instal aws-amplifi with npmdoe anyon have a clue how i solv this ?
+Electron Angular2 and aws-amplify

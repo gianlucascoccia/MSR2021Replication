@@ -1,1 +1,1 @@
-i am tri out an electron app which should point to our website, so i am tri one of the tutorials.. unfortunately, when i start the app, i get the follow error :error log :
+Electron,nodejs : App wont start, cannot find app in one of the modules.

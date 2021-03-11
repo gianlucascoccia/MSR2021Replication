@@ -1,1 +1,1 @@
-tri to use minidump_stackwalk on crashdump generat from electron application. but receiv the follow error:error: minidump version mismatch: 0xbfef != 0xa793ani idea how to solv this problem?from the same electron app, crash dump are proper wherea other are not. look into googl breakpad code, where the abov version number was generated, so that correspond code use to generat call stack.thank in advance.
+Electron breakpad minidump version mismatch

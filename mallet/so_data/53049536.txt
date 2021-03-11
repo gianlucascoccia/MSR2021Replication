@@ -1,1 +1,1 @@
-i am work on a electron app, i use electron with react and threejs, now i can not build a window applic anymore. build an linux version or a mac version work fine.mi npm command is:
+Electron-Packager spawn ENOTDIR

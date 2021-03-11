@@ -1,1 +1,1 @@
-i am write a littl script for discord in node.j and use nedb as a databas but when i updat a row then it doe the updat but delet the field "userid".thi is my updat code and when i get all the user an object now has the credit, dailytim and _id but not the userid. whi it get removed?p.s: i search googl alreadi but there were onli question where updat is not work but for me it is work just not as i expected.
+NeDB update but remove field that wasn't updated, why?

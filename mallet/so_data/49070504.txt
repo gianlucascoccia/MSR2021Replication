@@ -1,1 +1,1 @@
-so i am newbi to js world and electron. i have follow structur
+electron-reload doe not detect file change in subdirectory

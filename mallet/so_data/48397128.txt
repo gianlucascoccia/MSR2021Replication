@@ -1,1 +1,1 @@
-call it also freezes. kind help
+fs.readdirSync freeze Electron application

@@ -1,1 +1,1 @@
-i'm tri out electron js for the first. i like the idea of be abl to pretti much write web technolog for ani platform. howev i was wonder if it was possibl or the best way to make an ajax call to server side? c#, not node js. and explain or a link to the inform would be great!
+Ajax request to c# with Electron, is it possible?

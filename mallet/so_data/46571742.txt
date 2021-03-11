@@ -1,1 +1,1 @@
-run the ani idea what go on or if i'm do it wrong?!,m
+Electron-builder release try to publish to Github and complains about GH_Token

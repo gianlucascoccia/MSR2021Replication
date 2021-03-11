@@ -1,1 +1,1 @@
-i have an electron project use electron-reload, the file structur is:thank in advancekevin
+How to ignore multiple directory and file using electron releoad

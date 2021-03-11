@@ -1,1 +1,1 @@
-on ubuntu 17.10 i'm instal and run electron like this:ubuntu cannot find the electron command after install. thoughts?
+Using electron a a npm dev dependency on Ubuntu

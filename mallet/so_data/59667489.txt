@@ -1,1 +1,1 @@
-i'v creat an electron app use angular with or an equival as i alreadi pack my app in an opkg file with yocto. i also want to split electron and my app in separ packag to simplifi futur upgrades.
+How to do manual dist of Electron app with native modules?

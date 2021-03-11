@@ -1,1 +1,1 @@
-i did associ to .plmx extens file to be open in my app by d-click.i want my form applic can be launch by ani packag with .plmx extension, it doens't open ani file when i doubl click on an associ file. it just invok my app with initi form.how to access my own extens file and read the content of this file.how to read and display this file into my main form by doubl click the file? when i write "
+pas argument to app by D-click in javascript

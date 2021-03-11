@@ -1,1 +1,1 @@
-i have web-vers of my internet application. it written in exjts. i need convert extj window to desktop node-webkit window without includ html code as an extern webpage.i it possible? mayb you can advis me how i can do that or 3-rd parti solut specifi for extj and nw?note: i have care studi the documentation, but noth like there is not described.
+node-webkit: how to display ExtJS Window a simple nw window?

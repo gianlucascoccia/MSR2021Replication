@@ -1,1 +1,1 @@
-i'm run where *.ex to list all the exe from window in electron application.and then launch some apps.it return result in uint8array format.
+Convert Uint8Array to string in javascript

@@ -1,1 +1,1 @@
-i'm tri to implement a bootstrap nav insid a react + electron app.thi is the jsx code i'v written:and this one work as expected:i there ani reason that the nav doesn't work?
+Bootstrap nav inside a React app

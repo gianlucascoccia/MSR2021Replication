@@ -1,1 +1,1 @@
-i am creat a simpl form to upload file use electron-react-boilerpl with redux form &amp; materi ui.th problem is that i do not know how to creat input file field becaus materi ui doe not support upload file input.ani idea on how to achiev this?
+How to enable file upload on React's Material UI simple input?

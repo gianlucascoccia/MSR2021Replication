@@ -1,1 +1,1 @@
-i am tri to execut a command on the click of an element in the electron app.th code is:. however, after build the execut file, the command return an empti response.
+How to Execute a command through electron app

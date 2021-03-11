@@ -1,1 +1,1 @@
-in an electron app i have in other file and when i requir those noth was wrong.
+Require main in Electron

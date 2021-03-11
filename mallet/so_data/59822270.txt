@@ -1,1 +1,1 @@
-i am use webview to load angular rout in electron application. but not abl to get this worked. it end with a blank screen. how can i load angular rout as local resourc like ani help is appreciated.
+Load Angular route in WebView

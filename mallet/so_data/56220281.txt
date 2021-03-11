@@ -1,1 +1,1 @@
-i am tri to some web automation. it work in python but the ui is in electron. so i want call the python script from electron and run it. but i get the attach error. ani other python script (without selenium) works. i have alreadi tri selenium in node but it doesnt work as well us the python selenium works.
+How to use python-shell to invoke selenium-webdriver (in python) from electron

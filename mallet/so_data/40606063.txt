@@ -1,1 +1,1 @@
-for those of you that use electron to build desktop apps. is it possibl to retriev the last access time of execut file on window or mac and how is this done? in c++ one can use the getfiletim function, how can someon do this in an electron app?
+Electron: Is it possible to retrieve the date and time that a file last accessed

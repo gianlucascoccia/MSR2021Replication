@@ -1,1 +1,1 @@
-i have an electron forg application. i'v hit a bug in electron which is mark as resolv in v4.0.1, so i need to upgrad my applic to use at least electron 4.0.1it seem though, that electron forg depend on a packag name electron-prebuilt-compile, which onli goe up to 4.0.0, limit how far it is possibl to upgrade.i there ani way to upgrad an electron forg applic past electron 4.0.0?
+Upgrade Electron in Electron Forge application

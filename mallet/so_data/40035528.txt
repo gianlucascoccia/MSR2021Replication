@@ -1,1 +1,1 @@
-i have a function, which read file from a local zip archive, use a stream, and return themth frontend is wrap with electron, so no need to worri about browser secur restricitons. the file are a few mb in size. is it correct to assum that the local http overhead will be neglig relat to read time from disk on most home pcs?
+How much overhead doe an HTTP request to a local Node.js server add

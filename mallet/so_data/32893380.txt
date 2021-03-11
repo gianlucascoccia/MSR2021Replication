@@ -1,1 +1,1 @@
-i'm tri to download file in an electron app use dialog and fs, but i'm get file that are corrupted.i attempt download a basic .txt file with use this code and the file came through fine and open uncorrupted. but anyth larger give me a corrupt file(.rar &amp; .zip files).
+Electron File Download using fs.createWriteStream make corrupted file

@@ -1,1 +1,1 @@
-i have been tri to make an electron app that reli on a third-parti execut . whenev i tri bundl the app, the execut get bundl with the rest of the app in asar format, make it imposs to access from outsid the electron\nod environent.mi question is how should i setup my environ or build config to achiev an instal where the third-parti execut is on the root of the instal app?ps: i am use electron-build and a two-package.json format and i am get a success build minus this caveat.her my build config
+How best to package file on base install directory of electron

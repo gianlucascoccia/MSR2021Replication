@@ -1,1 +1,1 @@
-in my case i want to start a program .ex and interact with it interac to display certain view with preset data.i that possibl (and i hope legal)?
+Is it possible to interact with another program interface?

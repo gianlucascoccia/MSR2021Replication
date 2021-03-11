@@ -1,1 +1,1 @@
-i want to emb some php server side code insid an electron app. i'v found an interest way to make php work insid my app, but i have a small problem when the app start. in fact the main window is blank until i refresh it. is it possibl to refresh the page to solv this issue?. if anyon now how to fix this i will appreci it.
+Electron window is blank on load

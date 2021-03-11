@@ -1,1 +1,1 @@
-i am tri to run my express backend simultan with my reactj frontend.front- and backend need to be packag into one singl electron app. as i am an beginn in both react and electron, the answer may be obvious.so the question:what possibl way are there to achiev describ behavior?
+Running front- and backend at the same time in electron

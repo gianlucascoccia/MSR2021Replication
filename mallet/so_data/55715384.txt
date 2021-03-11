@@ -1,1 +1,1 @@
-my electron app is random redirect to ?
+Why might Chrome (inside Electron) suddenly redirect to chrome-error://chromewebdata?

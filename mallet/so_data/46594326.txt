@@ -1,1 +1,1 @@
-i need to creat an empti form and use a button to add as mani text box as i want. creat a text box with each click. i use the electron framework. would anyon have an idea ?
+How can i create a text box at each click

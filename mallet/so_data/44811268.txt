@@ -1,1 +1,1 @@
-i am tri to use the debugg object of electron main process to enabl the chrome devtool profiler. i have almost copi the demo code under the debugg document page (link above) where the first step is to call the attach() function to attach the debugg to webcontents. however, as soon as the attach happens, the debugg get detached. i know this becaus of the on-detach callback that i have setup. i don't know if i am miss someth like enabl a port or set a flag somewhere. ani and all help on this is great appreciated. thanks!
+Electron debugger detaches a soon a it is attached

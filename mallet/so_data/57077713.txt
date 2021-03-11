@@ -1,1 +1,1 @@
-i'm build an electron app, and i want to use mongodb as the database. how do i set up a singl connect for the entir app?i tri wrap the
+How to create a single shared mongodb connection?

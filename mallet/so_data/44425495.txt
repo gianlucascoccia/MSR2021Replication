@@ -1,1 +1,1 @@
-i have an electron app, that also oper on file in the same directory. these are not file the user selects, or file bundl insid the electron application, but i do need to refer themfor example:/users/test/documents/myapp.app/users/test/documents/example.zipi need to know where that applic is located, e.g.:/users/test/documentsbut instead when .how would i reliabl access example.zip in this scenario? note that i cannot bundl it with my app, it be place there by somebodi else, so move it is not an option, and it a file i'm expect to be there.
+Where is my Electron App located

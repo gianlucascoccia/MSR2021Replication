@@ -1,1 +1,1 @@
-my goal is to give the user the opportun to play a youtube-video insid the electron app. but when he chang the page (current do it with just an tag) that the video keep playing. or that the chat (with objects) have still all the messag when switch the page.ani ideas?
+Electron keep page loaded in background

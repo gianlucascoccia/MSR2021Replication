@@ -1,1 +1,1 @@
-i work on an electron app, it use the reddit api (snoowarp module) to get post from my subreddit as an object.in my index.html i have a div element to show these posts, now i'm look for a way to generat them as html div element then put them there.thi is a pictur of my app:and thank :)
+Is there a way to generate new HTML element from an object?

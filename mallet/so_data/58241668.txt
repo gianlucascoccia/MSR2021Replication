@@ -1,1 +1,1 @@
-i built a desktop app with electron and i use vuej (along with firebase) for all the front end, now when i compil it and run the i spent more than a day look for a solut and i can't find any, thank for your help.
+Why Electron App doesn't load VueJS in Windows?

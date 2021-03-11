@@ -1,1 +1,1 @@
-i would have like to know if it was possibl to retriev inform from a comput with the "systeminformation" modul or even open a program direct in a react applic by click on a button from a compon combin with electron. i manag to integr my react applic with electron but i have no idea how communic between the two librari works.
+Communication in Electron and React component

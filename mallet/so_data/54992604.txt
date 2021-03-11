@@ -1,1 +1,1 @@
-i want to custom the node eventemitt to achiev three things: 1) let me know if an event is emit but doe not have ani listeners, 2) automat log that use my own debug modul (without have to patch or insert ani addit code anywher else), and 3) pass an identifi so i know which eventemitt this log event came from. combin everyth here, this is what i'v come up with and i'd like to know if anyon has ani suggest for improv or a better way to accomplish this:
+Customizing Node EventEmitter

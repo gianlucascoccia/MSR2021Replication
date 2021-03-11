@@ -1,1 +1,1 @@
-i'll tri to be as short as possibl sinc there no need for code - i put an ifram tag in my electron app and i want javascript to retriev some inform from it but due to same-origin policy, i can't do that. can i disabl it? note: i am the owner of the page in the iframe.
+Disabling same-origin policy in Electron (need this to work with iframes)

@@ -1,1 +1,1 @@
-when i am build and packag my electron app with electron-packag or electron-build i got that problem that a js file i load in my app.j is not proper load / throw errors. i cant look up if there are ani error besid jqueri becaus i cant oben the web consol after packag anymore. when i tri to click the element with the id minim etc. it simpli doe nothing. here are some snippets:package.json&#xd;&#xd;&#xd;
+Electron (electron-packager) Script with jQuery is not loaded

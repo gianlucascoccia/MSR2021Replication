@@ -1,1 +1,1 @@
-i am write an electron application. in the render process, there is a process of an event.th event can be trigger multipl time in such a way they may overlap. so the need is to stack and sequenti process the event instances, if they overlap. which is async. then i am save to the file system, and ensur a maximum number of screenshot is saved, but these are use the sync nodej operations.
+How to dynamically stack Promises sequentially

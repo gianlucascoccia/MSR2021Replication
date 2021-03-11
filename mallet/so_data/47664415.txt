@@ -1,1 +1,1 @@
-i am write an electron applic that will need to store a larg amount of data on the client. i want to use pouchdb but i need to have control over the locat where the databas is held on the user pc. i can't find anyth in the doc about it.
+PouchDB in Electron, set data storage location

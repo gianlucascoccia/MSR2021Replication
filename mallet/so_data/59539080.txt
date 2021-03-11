@@ -1,1 +1,1 @@
-my technolog stack is electron+vue+koa+socket+node. i built node servic with koa+socket on the server, and the front end use vue. when i start the servic on comput a, onli comput a could success connect to the server, while comput b could not, and this error was reported:
+How to solve the problem of using Socket to set up service to deny other computer under LAN?

@@ -1,1 +1,1 @@
-i have an electron project which open a new window (an index.html file)in the open new window at the body, i have ad the animated.gifthen the rest of the bodi will load and the .gif is replaced.mi problem is that the load of the data in the bodi is so busi that the gif anim stop working.do anyon know of ani way then i can avoid this from happening?
+Electron / jquery Adding a loading animated.gif to a new opening window (Animation stops)

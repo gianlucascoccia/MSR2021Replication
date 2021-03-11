@@ -1,1 +1,1 @@
-could i use chromium as dependency? my codebas about 1mb, with resourc 2mb, all project less than 10mb, but bundl it about 100mb. if i want to use a few my apps, each will be 100mb!sinc a lot of peopl has chrome or chromium-bas browsers, could it be done as dependency?
+When create nw.js app, could I not include chromium in it?

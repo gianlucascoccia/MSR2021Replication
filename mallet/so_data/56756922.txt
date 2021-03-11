@@ -1,1 +1,1 @@
-i'm tri to build an electron app with react, but my window option are not be read.i first run react-script build to creat the build folder. i then run npm run dist to run the build configuration. however, it build the wrong target (the default nsis instead of msi).th target should be msi and the extend null should have negat the "load parent configuration" part.
+Why is build not being read in my package.json?

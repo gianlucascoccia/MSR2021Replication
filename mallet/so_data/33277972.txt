@@ -1,1 +1,1 @@
-i am tri to send a get request to a site over https use request. i am however, behind a proxy, which requir authent to use. when i tri to add the authent howev it fail to connect to the site.i have tri ad the authent in the proxi url like:it seem the proxi is come back with the auth respons howev request dosent seem to send anyth after that so it doe not actual login. is there some more config i need to add?
+Proxy Authentication and node request

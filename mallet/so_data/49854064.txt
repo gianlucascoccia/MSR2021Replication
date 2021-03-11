@@ -1,1 +1,1 @@
-i can't find a way of chang a label of a context menu. i want to chang the label depend on the type of the node i right click on.i'v tri this without success:, but when the menu pop up the label is the one i put when i origin declar the menu.
+Electron Menu change item Label dynamically

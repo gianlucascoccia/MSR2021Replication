@@ -1,1 +1,1 @@
-i have generat an app use electron-package. when run the exe generat in client window pc it not running. is there ani prerequisit to be instal in client pc? i haven't instal node.
+Installing/Running an app generated from Electron-package

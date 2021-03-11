@@ -1,1 +1,1 @@
-i'm tri to set up build on a remot cent os server and stuck with error. i instal wine, but sinc the server has 64-bit architecture, wine command is error. it seem like it tri to execut "wine" command, but i have "wine64" instead, and accord to various guides, it ok. make an alia didn't help. could someon suggest how i can workaround this issue?thanks.
+Windows build of an Electron app on Cent OS 64 bit with electron-packager fails with error

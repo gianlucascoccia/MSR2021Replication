@@ -1,1 +1,1 @@
-i am start with electron js and i have stumbl on the veri first step which is instal electron.i am run the follow command to instal electron provid at sourcewindow 8.1npm version 3.8.9
+ElectronJs: Not able to install "install.js:22 throw err"

@@ -1,1 +1,1 @@
-i just start look at build app in , and it fail to do what i desire, as i expected.
+Why is Node.js waiting to post STDOUT stream data from child_process.spawn?

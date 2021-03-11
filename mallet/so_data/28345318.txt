@@ -1,1 +1,1 @@
-i am creat a file of it use enigma virtual box. i upload the .ex in my server. on click a link it download the .ex file. what i want is that after i download the file, i want it to creat a desktop shortcut automatically. is possibl to do that? ani help is appreciated.thank in advance.
+Create desktop shortcut for Node Webkit application

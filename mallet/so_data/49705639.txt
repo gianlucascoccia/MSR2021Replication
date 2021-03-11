@@ -1,1 +1,1 @@
-i'm attempt to configur electron-webpack render build set so that they work in a browser window set up with but this doesn't seem to have chang anyth at all. ani suggest how to make this work?
+Configuring electron-webpack renderer to work with nodeIntegration: false

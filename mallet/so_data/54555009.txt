@@ -1,1 +1,1 @@
-i need to reduc the volum of a radio that play in the browser, play a song in my electron app, then rais the radio volum in the browser again. is it possibl to do it on electron? i search for a librari that made iso but i couldn't find anything.
+Control specific audio output like, decrease audio from browser in Electron

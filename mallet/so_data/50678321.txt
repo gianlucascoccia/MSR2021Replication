@@ -1,1 +1,1 @@
-here my code:label 1: the valu print in the consol show the array with it contents.label 2: the length of the array is shown as 0.is there ani way to find the size of the array? the consol imag is attach here:
+Why is array length zero for a array that ha contents?

@@ -1,1 +1,1 @@
-pleas help me:i use electron,angular and an express server (sequelize,sqlite)angular/electron is from a github project by maxim gris:th babel preset with es2015 doe not work when i packag the app and run it
+Electron error with Unexpected token import with import of express [Use of babel]

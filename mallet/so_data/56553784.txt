@@ -1,1 +1,1 @@
-in this tutori about electron.js, user action handl has been implement direct in html file (you don't need to analyz below code, i just want to show the concept):i suppose, this approach is well for tutorial, but generally, the logic in html file unaccept in real applications. how should i associ the script with html file and access to html elements?
+What kind of approach are recommended for user's action handling in Electron applications?

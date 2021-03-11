@@ -1,1 +1,1 @@
-accord to the document of nedb i am abl to run nedb in develop mode but how can i compack nedb on product mode. becaus in product mode nedb not found. here is my db config file and package.json. database.jsi am use simulatedgreg/electron-vueanyon have ani suggest ?
+setup nedb on production mode using electron-vue app

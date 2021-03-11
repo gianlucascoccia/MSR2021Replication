@@ -1,1 +1,1 @@
-os - ubuntu 18.04electron - 6.1.5vue-cli-plugin-electron-build - 1.4.2vue - 2.6.10vuetifi - 2.1.12node - 10.13.0i have an app that allow the user to upload imag and show them in a galleri view through viewer js to me the issu seem to be trigger becaus of dynam filename.ani help would be veri much appreci as i'm stuck on this sinc a veri long time.
+Unable to load Dynamic Images when using electron j and vue j

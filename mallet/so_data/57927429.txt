@@ -1,1 +1,1 @@
-what you were expecting:i follow the upgrad guid for link two compon and start use const form = useform() instead of dispatch. the chang work in chrome browser but when i open in electron i get the error:
+Error: useForm must be used inside of a <Form> component - Electron

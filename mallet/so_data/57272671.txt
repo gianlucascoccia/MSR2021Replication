@@ -1,1 +1,1 @@
-i have an electron app which can print images. to do this, i creat a browserview, write some html and load the html into it and print.now, i need a way to destroy this browserview after the user is done print or if the user cancel printing. my current code is:thi will destroy the broswerview after print is done, but is not effect is the user decid not to cancel. i am veri concern about memori in my app. ani tips?
+Destroy BrowserView after printing or cancelling printing

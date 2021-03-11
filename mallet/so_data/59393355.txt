@@ -1,1 +1,1 @@
-suppos i have a code written in python where in a loop i get frame from stream video! how can i transfer these frame in real time to a graphic interfac that is written on an electron.js?
+How to transfer video stream from python to electron?

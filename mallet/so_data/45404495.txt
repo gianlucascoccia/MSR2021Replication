@@ -1,1 +1,1 @@
-i'v just built an app with electron.instal and run with a bunch of asset and dlls.this isn't exact someth i can distribut to consumers. what the simplest way to generat a window instal for my electron executable?
+Can you create an MSI with electron-packager?

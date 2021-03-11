@@ -1,1 +1,1 @@
-i have an applic made angular2, electron where i'm tri to insert font awesome.when i compil the applic for the web it works, when i compil for the desktop it miss the font path.in more detail the applic is structur in this way:what did i do wrong?
+Font Awesome + Electron

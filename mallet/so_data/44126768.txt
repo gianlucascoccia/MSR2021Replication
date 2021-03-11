@@ -1,1 +1,1 @@
-i need to broadcast a messag from main process of electron to all render processes. there is no send option for ipcmain, onli an option to repli to the sender via .
+Broadcasting message from ipcMain in electron

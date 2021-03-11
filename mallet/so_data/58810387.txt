@@ -1,1 +1,1 @@
-so as per this link https://www.electron.build/configuration/dmg#dmg-license,i onli need to ad license_en.txt in my buildresourc folder and it should be pick up by the electron builder.i ad both license.txt and license_en.txt becaus my os languag is english,for window nsis target and linux appimag target, it work fine as expected, ican see the licens agreement on installing.but for mac dmg target i don't see ani license, am i miss anything?
+How to add license to a Mac DMG target electron app using electron builder?

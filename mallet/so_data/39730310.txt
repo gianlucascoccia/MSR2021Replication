@@ -1,1 +1,1 @@
-i am current work on ionic2 + nw.js app.i have creat the ionic2 part, but i have to use nw.js api. for that i have to usebut no benefit.curr i have to use workaround where i creat the ionic2 app and later edit app.bundle.j for nw.js integration.
+How to use require('xyz") in Ionic2 typescript

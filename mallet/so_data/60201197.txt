@@ -1,1 +1,1 @@
-i'm use electron and typescript with webpack.and i'm gonna add react.js.but i type "npx webpack", i got an error.it say "electron-is-dev modul is not found", but i alreadi instal it.and i'm use eslint and prettier.
+"Module not found: Error: Can't resolve 'electron-is-dev'" in electron & typescript & webpack project

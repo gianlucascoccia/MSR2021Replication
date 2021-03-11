@@ -1,1 +1,1 @@
-i'm build an electron desktop app, and in the app it will call the remot api with jwt token. however, where should i persist this jwt token safe without the threat like xss, csrf, man in the middl attack etc... and cannot be access by other applicationsi'v tri use i'm think about just store jwt into the memori might be the safest way, but will requir user to re-login and get jwt token everytim they reopen the electron desktop app.ani suggest or thought are welcomed. thanks!
+How to safely & properly storing JWT token in Electron App

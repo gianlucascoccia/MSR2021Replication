@@ -1,1 +1,1 @@
-we have an electron (v4.0.1) base app (react) that open up a standard file select dialog use an . on windows/linux the file dialog will remain on-top of the main app ui when user click into the main app. howev on a mac (osx) the main app ui will overlay the file-dialog (which is now gone from view) and the onli way to refocus is to alt+tab until it appears.i there anyway we can avoid this behaviour and have the file-dialog remain top-focus when the user click into the main app (as in windows/linux)?
+Electron app on Mac OSX, input for file selection

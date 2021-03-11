@@ -1,1 +1,1 @@
-i'v made a function for my node-webkit applic to trigger a os x notification. it work perfect but i wonder if i can set a system or custom sound instead of the classic iphon bo sound?i'v look up the offici notif api document from mozzila (https://developer.mozilla.org/en-us/docs/web/api/notification) and there is no sound option, howev mayb node-webkit implant that function (can't imagin they didn't) but if they did, i can't seem to find ani document about it.so my question is, is there a sound option for notif in node-webkit?
+Node-webkit notification sound

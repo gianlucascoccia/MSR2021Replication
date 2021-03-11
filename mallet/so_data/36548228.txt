@@ -1,1 +1,1 @@
-i'm tri to understand the communic between electron main and render processes. the document https://github.com/electron/electron/blob/master/docs/api/remote.md state that the "remot modul provid a simpl way to do inter-process communic (ipc) between the render process and the main process." however, the document is veri spars with regard to how to set it up. i can get the ipc exampl to work with my applic which seem simpl enough. in what scenario should the remot modul be use ?
+When to use remote v ipcRenderer, ipcMain

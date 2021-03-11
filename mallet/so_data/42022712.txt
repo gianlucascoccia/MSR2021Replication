@@ -1,1 +1,1 @@
-let say i'v got 2 processes:process 1 is send to process 2 a valid html string:howev that would caus unnecessari read/writ actions.that whi i am tri to load a new window from a htmlstring out of my memory.so again the question is: is it possibl to load electron webcont from an in memori html string?thank in advanc for ani help.regards,megajin
+Is it possible to load electron webContents from an in memory html string?

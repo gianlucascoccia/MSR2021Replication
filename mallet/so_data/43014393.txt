@@ -1,1 +1,1 @@
-i creat electron applic and packag it with electron-packager.then, i ran packag applic on maco (xxx.app), and i found that path.resolve("") return root directori "/".when i ran this applic on windows/linux, path.resolve() return directori where applic file is located. (for example: /home/nutti/xxx)so, i didn't understand this behavior, and i want to know how to get applic directori in macos.thanks.
+path.resolve("") return root directory ("/") when packaged Electron App is run on MacOS

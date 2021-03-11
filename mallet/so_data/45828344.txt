@@ -1,1 +1,1 @@
-i am use and electron.pleas suggest.
+Hide application window NW.js and Electron

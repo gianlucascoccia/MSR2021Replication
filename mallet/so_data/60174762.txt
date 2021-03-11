@@ -1,1 +1,1 @@
-i am develop an applic in electron and i would like to know if it possibl to give a design to my nsis instal ?i search everywher on internet and i found noth conclus that could help me.
+Customize NSIS installer electron

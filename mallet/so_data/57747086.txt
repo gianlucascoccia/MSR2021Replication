@@ -1,1 +1,1 @@
-want to connect to sql server with server name i want to convert this connect string into a work connect in electron app.
+Cannot find a way to connect electron app with ms-sql-server database file without username and password

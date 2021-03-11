@@ -1,1 +1,1 @@
-i am do a apach cordova + electron (with react/redux) app. i have a requir impli access to a java librari alreadi done, for a specif functionality. i think i could import the librari to my project, but i don't know how to call it insid my app.i it even possible?i not possibl to chang this framework... at least, for now.thanks!
+Access to Java library on Windows with Apache Cordova + Electron

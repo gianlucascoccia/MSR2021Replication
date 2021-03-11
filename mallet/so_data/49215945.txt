@@ -1,1 +1,1 @@
-i am use electron, and as you may know, all of electron call run outsid of angular ?
+zone.run() on Observable.bindCallback()

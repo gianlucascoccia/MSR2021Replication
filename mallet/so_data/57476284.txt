@@ -1,1 +1,1 @@
-i have an electron app which tri to connect to a devic over a web socket. the connect is encrypt (i.e. wss) but the ssl certif is self sign and thus, untrusted. connect insid chrome is ok and it works. howev insid electron i run into problems. without put ani with election, how do i proper deal with a certif from an untrust authority? i.e. a self sign cert. ani help would be much appreciated.
+Can't connect to web socket from Electron when using self signed cert

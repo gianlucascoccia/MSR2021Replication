@@ -1,1 +1,1 @@
-my goal is to make a desktop applic with electron. i have alreadi a script in nodej that work when i run it in nodejs, but wich block in electron, and i know that primus is the problem, but i don't know how to solv it. i want to connect in websocket, therefor i use :
+How to use primus in electron

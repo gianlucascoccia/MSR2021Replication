@@ -1,1 +1,1 @@
-i'm build an app use node-webkit, base on expressj and mongoose. i'm new to basic all of this.i'v got a mongodb host onlin and i'm tri to use it in my app, but i'm miss somethingi creat in model folder db.js, where i connect with the dbbut i cannot use ani function (save, find, ecc.), i can just creat models.i think i'm not connect in the right way all the modules, i was previous use diskdb and i connect to it in my index.js, but i tri in the same way and it doesn't work anyway.also, when i build the app, my mongoos connect status is 2.
+Moongose, expressjs and node-webkit

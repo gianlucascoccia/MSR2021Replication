@@ -1,1 +1,1 @@
-noth realli massiv like the scale of a mmorpg, but a small game like faster than light.anyon can open dev tools, so i was wonder if it possibl to add protect against cheat engin or if i can implement someth that would prevent user from run their own javascript into the game.i also understand that write game in javascript is probabl not the best solut becaus it veri inefficient, but this is someth i want to try.
+Is it safe to build a game with javascript + electron + three.js?

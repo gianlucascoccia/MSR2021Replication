@@ -1,1 +1,1 @@
-i'm veri new to react js, and i am use it to build a app now. i have a question.in of of the button click event i have a code logic like this:th problem is when the first time start button is click this pop up ui is not get pop even though the state variabl accesstokenexpiryd is set to true. when second time the button is cick ui is pop up. can anyon pleas help me out here
+State is not upating in renderer() component

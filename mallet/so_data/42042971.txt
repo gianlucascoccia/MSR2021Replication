@@ -1,1 +1,1 @@
-i'v seen this question sever time but isn't the same file. i'm build an electron app on maco with react and use webpack to transpile. when i run it, there is an error in the console. but i don't know what his error means.
+isEventSupported.js Uncaught TypeError: Cannot call a class a a function

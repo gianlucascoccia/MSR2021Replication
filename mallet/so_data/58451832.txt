@@ -1,1 +1,1 @@
-i'm creat an app on electron. i want to get the drop refer of the folder befor it process recurs insid files. and also if i drag a link on the react-dropzon compon i want to get the link also. here is my code so far. and i can get the file reference. but i can't get the folder reference.th thing is if i add a larg folder the compon list all the insid files. i don't need that. i just need onli the absolut path of the folder.her is my compon
+How to get the absolute path of a folder, link dragged and dropped by react-dropzone

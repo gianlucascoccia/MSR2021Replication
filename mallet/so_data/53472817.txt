@@ -1,1 +1,1 @@
-i'm tri test of electron app with spectron.but i can't test client window javascript global variable.her is my simplifi code.pleas help me.thanks.index.html
+How to access client window javascript global variable with Spectron

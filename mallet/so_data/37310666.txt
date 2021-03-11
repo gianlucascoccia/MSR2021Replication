@@ -1,1 +1,1 @@
-i am tri to connect to nedb from electron app. crud oper work great. but i don't see db file (d:/my.db, check for hidden files). file exist somewhere, becaus it keep data even after machin reboot. i suspect that electron threat my path as relative, but i can find it anywhere.
+NEDB persistance in Electron app

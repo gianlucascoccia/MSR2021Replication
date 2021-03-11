@@ -1,1 +1,1 @@
-is it possibl to code for facial recognit program in electron framework. i understand code will be in .html and .js, i look for all the tutori and have been do my research on this topic but veri littl is present base on electron. i'll be veri thank if anyon can point me in right direct or help me with code it all for my project which i need to submit within 2 weeks.
+Facial Recognition using election framework

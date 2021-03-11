@@ -1,1 +1,1 @@
-in my doe anyon know why/how this happens?
+Main window reference becomes null when closing child window

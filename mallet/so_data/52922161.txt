@@ -1,1 +1,1 @@
-i creat a desktop applic for my ionic app use electron. now what i need is i want to implement auto updat function for this. i follow sever documentations, but neither helps. https://discuss.atom.io/t/deploy-app-on-users-machine-with-autoupdate/40385/2 final i follow step in this document sinc it seem to be work after read the comments. but it also didn't work.can someon guid me to resolv this?
+How to make a updater for electron application

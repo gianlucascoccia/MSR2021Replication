@@ -1,1 +1,1 @@
-i'm new to electron and javascript. i'm build an electron app. i know how to open a url in a browser via click an item in nativ menu(bi studi the documentation), but i need to open a html file in anoth electron window use an electron nativ menu click. if i have my menu structur like below, how can i achiev this? pleas help.
+Open a new window to display a html file using a menu click - Electron

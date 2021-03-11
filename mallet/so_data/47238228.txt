@@ -1,1 +1,1 @@
-i have failur in the packag of my app use electron-forge, like the one below that i don't know what caus them:
+electron-forge make failing

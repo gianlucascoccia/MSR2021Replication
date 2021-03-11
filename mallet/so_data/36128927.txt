@@ -1,1 +1,1 @@
-i'm send a messag from the main to the render process.in the main process i'm do this howev it seem like the messag is not receiv in the render process.i there anyth that i'm missing..?
+Cannot receive message sent from main process to renderer process in Electron

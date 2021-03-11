@@ -1,1 +1,1 @@
-i'm tri to creat a brainfuck ide with electron js. the text-edit part is a would be complet delet in 8 stroke of ctrl+backspace. each block of 3 of the same charact is a "word".
+How to change the behavior of Ctrl+Backspace

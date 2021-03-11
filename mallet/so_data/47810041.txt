@@ -1,1 +1,1 @@
-i'm tri to make a simpl app that should display notif when button is clicked. the problem is that the notif doe not show, but console.log are showing. should the notif work on develop mode? (mean just run
+Electron with node-notifier display window 10 notification

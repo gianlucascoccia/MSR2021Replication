@@ -1,1 +1,1 @@
-i am use electron. i am load one html page in browserwindow. window load first it half part stay blank and after get data from javascript, it display that data.i have tri use the how can i achiev this?
+Loading Electron window after getting all data from JavaScript

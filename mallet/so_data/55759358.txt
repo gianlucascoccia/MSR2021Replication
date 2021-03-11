@@ -1,1 +1,1 @@
-i have an app that must download multipl file as parallel and problem is when i start download this file with
+Download multiple file with an electron app

@@ -1,1 +1,1 @@
-my bixolon printer is srp500-iiand i build a desktop applic with electron js and framework7in my applic i have a list of tabl and i want to print the list whichi select from the tablei read the bixolon api from here :and i don't find the sdk for my printer mode hope someon can give me some advic to done this function
+How to print po receipt with bixolon printer srp500ii ( electronjs and framework7 )

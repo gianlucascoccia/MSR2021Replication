@@ -1,1 +1,1 @@
-i call function, you cannot interact with the program until the folder after select window closes.i saw a lot of similar question on so, but whatev i did noth works.
+How to make a dialog to block the BrowserWindow when open?

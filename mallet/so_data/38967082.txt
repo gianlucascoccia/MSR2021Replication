@@ -1,1 +1,1 @@
-i have an app in electron that work perfect on windows, but when tri to run on mac, it wont load the first ui-view. mayb this is a path issu cross os?no error on state change, console, or load ani files, but the ui-view is empty.folders:
+Electron angularjs ui-router not loading ui-view on mac

@@ -1,1 +1,1 @@
-i'm work on a desktop app with object that have to be retrivi in a second moment for reus them.
+How to make a Javascript file not reset when user refresh page

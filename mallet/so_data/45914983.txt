@@ -1,1 +1,1 @@
-i have exist electron base remot desktop control applic which run as a desktop app on mac, window and it run as webapp on chrome and firefox.now, i want to develop a sticki compon which will be alway on top, irrispect of an activ window.for exampl a toolbar which will be alway visibl even if user minim my app and bring some other app on top.can someon suggest me the librari or technolog (e.g. electron/reactj etc) use which this could be achiev ?thanks,gayatri
+Developing a sticky component which will be always on top in Electron or JS

@@ -1,1 +1,1 @@
-in one .js file i have it doe not work. why?
+Call window function from electron

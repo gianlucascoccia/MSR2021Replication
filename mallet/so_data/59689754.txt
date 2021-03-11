@@ -1,1 +1,1 @@
-i'm tri to run a python script from electron app use python-shel module, but im get this error.errorthi is my code
+I cannot use python-shell on electron app

@@ -1,1 +1,1 @@
-i want to custom nsis script - e.g. remov finish page and run app immedi after instal (assist instal is used).i use modifi scrpt: i mean i don't want to show the last page complet myapp setup as shown in gif.ani help appreciated.
+Customize NSIS installer with Electron-builder

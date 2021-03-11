@@ -1,1 +1,1 @@
-use node-webkit, i need to save a file with fs.writefile() on the user desktop directory. how can i retriev that?
+Node-Webkit get user's Desktop directory

@@ -1,1 +1,1 @@
-i'm tring to close a window that is store in a tuppl array, but i'm get and work fine
+RangeError: Maximum call stack size exceed when closing a BrowserWindow that is inside an tupple array

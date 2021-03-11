@@ -1,1 +1,1 @@
-i'm run an electron applic with the nfc-pcsc module. when i hold my android devic close to the acr-122u, i get the follow logging:what is wrong with this?
+UnhandledPromiseRejectionWarning: Error: Cannot process ISO 14443-4 tag because AID wa not set

@@ -1,1 +1,1 @@
-i use appdirectori modul to store the set of my app in os x and everyth works.so log this:a you can see the name of the app is repeat twice in the uri, but this is not the onli problem if i go in the correspond folder: c:\users\myuser\appdata\local\ther is no myappnam directori and also go in c:\users\myuser\appdata\roaming\ i see no folder with the name of my app...pleas note i'm use window 7 (in a virtual machin with parallels) and electron 0.36.11can you pleas help me so solv this?thank you in advance.
+Electron AppDirectory module problem

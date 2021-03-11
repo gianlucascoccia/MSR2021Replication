@@ -1,1 +1,1 @@
-consid the same javascript applic run on:brows (most chrome): &#xd;&#xd;&#xd;now, consid both applic run on the same machine, we'r get two differ date time formats:electron:googl chrome:what can we do to have same format output?
+Date#toLocaleDateString Chrome v Electron

@@ -1,1 +1,1 @@
-i have a nw app and i use enigma virtual box to pack it to a singl exe file.thi file need admin rights.i there ani option to pack nw without admin right for institut users?
+Node webkit Install Without Admin Rights

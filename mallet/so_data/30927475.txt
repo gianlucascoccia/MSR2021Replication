@@ -1,1 +1,1 @@
-in node webkit you can pass argument via commandlin to a nw.ex file like . i'v got a project that is compress and packag use node webkit builder https://github.com/mllrsohn/node-webkit-build which give me an output exe, but when i tri to pass command line argument to it like the one above, it hang up and creat some nw.ex processes, but no window appear and it breaks.ha anyon had ani luck with this?
+Passing command line argument to a node-webkit-builder project

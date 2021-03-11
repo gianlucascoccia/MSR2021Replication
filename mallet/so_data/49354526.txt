@@ -1,1 +1,1 @@
-i want to ask if there method dynam set the posit or move the browser window to the bottom right?
+Move the BrowserWindow to the bottom right

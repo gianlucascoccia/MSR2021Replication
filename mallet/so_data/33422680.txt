@@ -1,1 +1,1 @@
-i am load a remot site in my electron app. i want to add some custom css when i am in the electron shell. i have notic that the name from my package.json appear in the useragent. i know that i can do the following:i am wonder if that is the best way to do that? or if i should do it from the main process. what are you thoughts?
+Best Practice: Detecting electron shell

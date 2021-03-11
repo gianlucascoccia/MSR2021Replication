@@ -1,1 +1,1 @@
-can we creat a chrome extens for electron app with our exist codebas easily?if yes,can someon guid me how?sorri if it a silli question, i am new to these stuffs!thank in advance!
+can we create a chrome extension for electron app with our existing codebase easily

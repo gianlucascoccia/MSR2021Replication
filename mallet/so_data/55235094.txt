@@ -1,1 +1,1 @@
-i am use electron + typescript + electron packag to build an app.i find that i must includ the sourc .ts file and typescript .map file in the final app.or i get the can't find modul debug error.how to make a function app without the sourc .ts and .map file in the final build?
+can't find module 'debug' error with Electron, Typescript and Electron packager

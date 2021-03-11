@@ -1,1 +1,1 @@
-i want to chang default electron icon without .but i don't want to use electron-packag to learn featur of electron.how i can do it?mi platform is darwin. (os x 10.10.5)
+How I can change the Electron app icon without electron-packager?

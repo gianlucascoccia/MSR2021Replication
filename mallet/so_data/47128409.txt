@@ -1,1 +1,1 @@
-in my project, i need to achiev a veri special function: pull div content to extern display, div content includ text, image, video, other html ..., enter imag descript here
+Pull div content to external display in electron

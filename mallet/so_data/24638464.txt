@@ -1,1 +1,1 @@
-i have creat a new window with this piec of code and tri to send some data but the function is not called, mayb i'm do it wrong?script.j on index.html
+node-webkit How to call a function in another window?

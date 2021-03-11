@@ -1,1 +1,1 @@
-i recent step down my electron applic remov .howev now when i tri to run my program from npm i get error:buffer_manager.cc(488)] [.displaycompositor]gl error :gl_invalid_oper : glbufferdata: &lt;- error from previous gl command how do i fix this, whi is it happen ?nb: the applic work just fine but this error i the termin is just annoy and i have no idea whi it happen
+Electron fix "ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command"

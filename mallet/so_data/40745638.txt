@@ -1,1 +1,1 @@
-i was wonder how to includ the bitcoin js librari in my electron project. i tri run to use it but it doe not work for some reason.
+Include BItcoinJS library in electron project

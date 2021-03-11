@@ -1,1 +1,1 @@
-i'm build a desktop applic use electron and two.js. the applic is basic a 2d level editor. there are update:two.j wasn't abl to draw them becaus the variabl that i'v use as paramet were inaccess in that scope, so after do some debug i'v solv the issue.
+Two.JS rendering from different scope

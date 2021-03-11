@@ -1,1 +1,1 @@
-the nwjs document state that after open a window, you have to wait for the
+NWJS window loaded is not available

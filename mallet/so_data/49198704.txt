@@ -1,1 +1,1 @@
-environment: window 10 pro (x64) and electron 1.7.9 (also 1.8.3 )problem description:th usag of "deasync" node modul (version 0.1.11 and also 0.1.12) caus the crash of the render process. in electron app, just use ani suggestions?
+npm deasync cause crash in electron

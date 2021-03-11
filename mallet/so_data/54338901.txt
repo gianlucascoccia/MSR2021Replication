@@ -1,1 +1,1 @@
-the app start with a blank screen for a while befor the app realli loadsi'm use electron-forg react-typescript template. i can make a everi time?then how to "precompile" my sourc code and use that to make a distribut app?update:sinc the project was develop by other colleague, i just found out this project is use electron-compil to compil it on the fly, mayb the solut has someth to do with this?
+How to precompile typescript when packaging with electron-forge

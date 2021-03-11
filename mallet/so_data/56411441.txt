@@ -1,1 +1,1 @@
-i have an electron app i'm develop that for some reason i am unabl to get work with an extern js document i need. index.html section abov you can see i am call xml.js, howev in my xml js, which onli has "alert("it works");" noth is be called. what also weird is the renderer.j work just fine. ani help is appreciated. thanks.
+Javascript document not being called from HTML electron app

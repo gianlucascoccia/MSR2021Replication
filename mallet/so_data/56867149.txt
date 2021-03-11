@@ -1,1 +1,1 @@
-onc electron app is instal into system and opened. icon and imag do not appear. seem like i am miss some configur settings. ani help would be appreciated.
+Resource image (icons and renderer window images) are missing in installed electron app

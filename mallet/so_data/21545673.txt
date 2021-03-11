@@ -1,1 +1,1 @@
-i'm build an modular app and have a configur file to includ differ modul depend on user preferences. normal i'd do someth like as that would set the script.nam value, not a global variable. ani suggest on this?
+use require to dynamically assign variable to global scope

@@ -1,1 +1,1 @@
-i have an electron app that open a browser window with a certain web page.now, i want to execut some javascript on that page as the veri first thing. but whatev i try, it alway seem to run after some other js on the web page i open.i tri some event like get log after some other javascript has ran on the page.
+Electron execute javascript a very first thing on a page

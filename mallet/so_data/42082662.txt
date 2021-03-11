@@ -1,1 +1,1 @@
-i'm work on applic where i have desktop app and mobil app which is most in offlin mode.i have done for electron base desktop app with nedb, angular2 and typescript. but i'm not sure that nedb can be setup with nativescript with ionic or not.thank all,
+Can we use nedb with NativeScript?

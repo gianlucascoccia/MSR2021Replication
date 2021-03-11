@@ -1,1 +1,1 @@
-i have found some search result about use and use cli arguments, but it seem that the command has been removed.i there ani other way to send a string to an alreadi start electron app?
+Passing argument to a running electron app

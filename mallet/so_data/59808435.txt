@@ -1,1 +1,1 @@
-when my electron-app starts, it will do some initi action like check config or check status', after initi done it will redirect to a new path. i think the caus this error: error: the main window page at file:///e:/code/electron_ct/public/app.html was not loaded. use the mainwindowurl option to specifi one of the follow page as the main window page: file:///e:/code/electron_ct/public/app.html#/signini'd appreci it if you can give me ani advice.
+TestCafe With Electron: can't load main page (main page may return a '304' http code)

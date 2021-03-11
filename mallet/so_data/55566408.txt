@@ -1,1 +1,1 @@
-i have a hand held barcod scanner devic manufacut by "symbol". i want to read the data from this scanner via usb in angular which will be run in electron container. ani idea on how can i proceed for this
+Get barcode sanner data via USB in angular/node

@@ -1,1 +1,1 @@
-i am tri to instal electron on my ubuntu 16.04, i alreadi have a work nodej and npm. but sudden i am unabl to instal modul by type: sudo npm instal electronbelow is the respons am getting:
+Unable to install electron from npm

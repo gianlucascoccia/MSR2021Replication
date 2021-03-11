@@ -1,1 +1,1 @@
-i was plan to write a desktop app which will monitor the remot and local window servic status, read remot log file and display in the app. i did search but didn't find ani use inform regard such. is this possibl to achiev this goal with electron or node-webkit if yes can you pleas suggest the direction.
+Can we develop desktop app with Electron to monitor the remote window service

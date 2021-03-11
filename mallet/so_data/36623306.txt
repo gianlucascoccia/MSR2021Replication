@@ -1,1 +1,1 @@
-i'm do some deploy test in window and i'm use "electron-windows-installer" packag to creat a window instal from my electron app.i did it as a gulp task.when i do npm run instal everyth is work but the execut to creat this instal is about 1 hour and 10 minutes. i have 52 depend in my project and my final execut is about 200mb. i'm wonder if it normal that this process take so long or someth is bad in my code.thank you veri much.
+electron-windows-installer slow execution

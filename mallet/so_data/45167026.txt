@@ -1,1 +1,1 @@
-i'v built an etcher fork, and i'm have troubl generat a work window build.their document mention claim this is a 32-bit lsb share object.compil through a window vm was even worse, but i do have access to a window machin if that necessarythanks.
+problem compiling etcher fork using electron-builder

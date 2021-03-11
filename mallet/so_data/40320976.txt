@@ -1,1 +1,1 @@
-i am current write an electron app, for which in the main process i want to talk to a server over websockets. part of my main process code base depend on the user socket connect status. i requir the , but was unabl to find how to do that. could anybodi advis me on a better way to implement?thank
+Attaching event emitter to socket.connected

@@ -1,1 +1,1 @@
-i wrote a cross-platform applic use node-webkit. i have the need to generat pdf from html+css and to packag and distribut my applic to win, linux and mac. i have known some nice librari such as, phantomjs, wkhtmltopdf can do this stuff. but i don't know how to integr these lib into my node-webkit and work cross-platforms?thx for ani idea.
+Cross-platform html to pdf library for node-webkit

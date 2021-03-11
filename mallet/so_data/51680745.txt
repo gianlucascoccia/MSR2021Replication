@@ -1,1 +1,1 @@
-i have creat a small electron applic which need a small local mongodb (commun version) database. now i need to configur the script doe not get execut onc my electron app close or i press ctrl+c.how can i achiev that when i close my electron applic or use ctrl+c that my mongodb server also shutsdown?
+How can i execute stop script after i run electron application?

@@ -1,1 +1,1 @@
-with electron, i'm tri to creat a toggl imag button to switch between two imag on click
+Toggle image fails to toggle and flash the whole page on clicking with Electron

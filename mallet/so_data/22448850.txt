@@ -1,1 +1,1 @@
-https://github.com/rogerwang/node-webkit/wiki/how-to-package-and-distribute-your-appsexcerpt from the abov link: "as a rule of thumb npm instal your package.json on each platform you target to ensur everyth work as expected."what should be the code in package.json to accomplish packag of an npm modul within a node-webkit app for windows?ani help is appreciated!
+Packaging npm module in node-webkit App

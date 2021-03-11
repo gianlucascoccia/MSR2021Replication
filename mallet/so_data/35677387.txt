@@ -1,1 +1,1 @@
-i am tri to get nw.js to work well with webstorm. i have it so that it run the nw.js project. however, webstorm seem complet unabl to resolv ani of the depend such as .the document say that nw.gui doe not requir you to requir or in my case import. i can not seem to find anyth on how to fix this online. so how do i get webstorm to resolv these?
+NW.js and WebStorm

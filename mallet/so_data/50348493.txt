@@ -1,1 +1,1 @@
-i have a electron app, so in my how can i get the file name which can not be found. thanks!
+Electron j error - file not found

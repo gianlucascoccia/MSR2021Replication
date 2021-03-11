@@ -1,1 +1,1 @@
-i'm use angular and electron for my app.i'm look for a way to enabl hot reload...when i run my in the main.j file but noth chang
+Hot reload using Electron and Angular

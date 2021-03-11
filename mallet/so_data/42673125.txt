@@ -1,1 +1,1 @@
-i'd like to add a featur to toggl , but it seem like the onli way to do this is to destroy my exist window and creat a new one. is there ani way to updat the option of the exist window?
+Electron: Is it Possible to Update Existing browserWindow Options - Avoid Needing To Create a New Window

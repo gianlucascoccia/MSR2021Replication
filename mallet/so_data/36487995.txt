@@ -1,1 +1,1 @@
-in my main.js, i have:i tri that but got the same error. where doe the path begin when use the above? doe path start with electron.ex is? also, if i use require('/resources/app.asar/mainfrm.js') what path do i use for os x app sinc the resourc folder is in a differ location? what path should i use dure development/debug (i.e. not insid of an asar)
+Using require when electron app is packaged in an asar

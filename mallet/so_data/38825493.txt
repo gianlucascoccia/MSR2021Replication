@@ -1,1 +1,1 @@
-i'm work on an electron app, use angular2 (rc4) and webpack. unit test are ran with karma.i have a servic that communic with the electron process, which includ it in this way:quest is: how do i run unit test on an angular2 compon that communic with the electron process.
+Unit testing an Angular2 service that requires Electron

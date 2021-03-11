@@ -1,1 +1,1 @@
-https://www.electronjs.org/docs/api/ipc-rendererhttps://www.electronjs.org/docs/api/ipc-maini see an articl that invok / handl is asynchronous, but it possibl to use the old send / on.it is easi to return the return value. you do not need to specifi webcont when send from main to renderer. the benefit are understandablehttps://medium.com/@nornagon/electrons-remote-module-considered-harmful-70d69500f31i don't think the remot modul written in this articl is relev to send / on
+What is the difference between IPC send / on and invoke / handle in electron?

@@ -1,1 +1,1 @@
-i am current develop an electron app use javascript,i want to use jqueri in my electron app,i have ad the code as indic in the tutori at ourcodeworld.com. i have also instal the jqueri do the follow
+Why can't I set the property of Jquery and get a undefined answer in Electron

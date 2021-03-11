@@ -1,1 +1,1 @@
-how can i use fs node modul insid an angularj applic ?i would like to includ fs modul from node.j in my applic angularjsi creat an applic with electron with an export file. at the moment i have a basic export, but when i click on my button export, there is a temporari file and i don't want it.if i use fs from node, i think it will be ok, no temporari file.
+How can I use f node module inside an AngularJS application with Electron?

@@ -1,1 +1,1 @@
-i am tri to sign my osx app with command line : the thing is that i do not find ani folder name "framewokrs" in my generat app. do you have ani idea ?thank
+Sign NW.Js OSX app

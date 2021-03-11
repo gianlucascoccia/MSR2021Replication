@@ -1,1 +1,1 @@
-i have an ongo project where we use nrwl nx workspac to have a share codebas among differ applic (web, ionic 4, electron).what is the proper way to implement a localstorag to the apps? can i use @ionic/storag in all these apps, or do you recommend other librari that are cross-platform? should i creat differ implement for the differ apps/libraries? thought and tip are welcome,thanks,yianen
+Nx workspace + localstorage

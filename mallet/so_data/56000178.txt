@@ -1,1 +1,1 @@
-i need to reload my site/app after network re-connect. so, i'm use win.reload after reconnect but after reload it show me a blank white screen i have tri to re-creat the window but it give me the same output. anoth question report here by me.i found i need to reload my site/app after re-connection. is there anyth wrong in my code? or is it a bug by the electron?
+win.reload showing showing blank white window in electron

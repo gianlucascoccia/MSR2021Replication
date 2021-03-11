@@ -1,1 +1,1 @@
-so it seem that electron has this modul call keytar, but the document is lack a lot, and i have no idea how to use it.https://github.com/atom/node-keytarmi code right now is (in the main process)could someon teach me how to get the actual password?
+How to use keytar (for electron)

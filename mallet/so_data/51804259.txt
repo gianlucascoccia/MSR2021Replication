@@ -1,1 +1,1 @@
-i have an electron base app that run in the maco menu bar/th window tray area.on window a system shutdown exit the app, but on maco a system shutdown is interrupt due to the app not closing. how can i detect a shutdown event and close the app when the user has not explicit request the app to close?
+How to prevent Electron app from interrupting macOS system shutdown?

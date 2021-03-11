@@ -1,1 +1,1 @@
-the prebuilt electron binari for window includ the file
+What version of ffmpeg is bundled inside electron?

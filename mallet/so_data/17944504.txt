@@ -1,1 +1,1 @@
-i am from the web-develop world, not know anyth about desktop apps. the app is develop use coffe script and packag through node-webkit. i want to know, if there is a way by which i can inspect the element in the app. while googl i came through adob air and spark inspector.but noth seem avail for just a node-webkit app. doe anyon have ani idea on the same??
+How to inspect element in a desktop application?

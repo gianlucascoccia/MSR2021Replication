@@ -1,1 +1,1 @@
-i'm work on desktop applic use electronj .i have name of the exe of applic such as calculator,spotify,..etc . i want to launch those applic from my electron application. in order to launch it i need path of those applic exe. is there ani node js npm to ahciev this or ani electron librari methods.
+How to get a path of the file name in node j

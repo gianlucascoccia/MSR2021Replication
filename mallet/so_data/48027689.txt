@@ -1,1 +1,1 @@
-i'm tri to load a websit in electron by load an url like thisbut is not optim as i'm most like not allow to chang the code of the websit itself.ar there ani other option for simpli wrap a websit in electron?
+Electron load remote URL and execute javascript

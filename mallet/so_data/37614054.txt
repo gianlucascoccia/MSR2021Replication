@@ -1,1 +1,1 @@
-i am new to electron.i tri to run the index.j with follow lines, it workedit return an error "typeerror:mainwindow.loadurl is not a function"i search a lot for the answer, but didnt get ani answer for this.can ani suggest a solut for this?ani help will be appreci
+loadUrl is not working in electron

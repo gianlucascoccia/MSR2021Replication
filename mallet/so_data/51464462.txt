@@ -1,1 +1,1 @@
-was just wonder if anybodi know if it possibl to open a new child browserwindow in electron and make it dockabl to the parent window similar to devtool window. would be great to have the option to dock a child window to top, bottom, left and right side of the parent and even detach it. thanks!dockopt devtools:
+Dockable Electron window

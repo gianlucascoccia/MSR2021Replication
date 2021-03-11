@@ -1,1 +1,1 @@
-i want to use electron from typescript.i instal thank you for ani help.
+Using electron api in typescript

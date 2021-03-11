@@ -1,1 +1,1 @@
-i want to use webpack in electron.j project with react.jsand i start a project with cra. i got some vulner for some reason, so i delet node_modul folder and yarn.lock and reinstalled. when i did "yarn start", the error that when use cra, i should not use webpack.thi error occur becaus i instal webpack manually. so, i delet webpack, but i think i need webpack. is there a way to use webpack in electron.js, with cra, without eject or use anoth bundler.p i'm also use typescript.
+Electron.js and webpack with Creact-react-app

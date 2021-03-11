@@ -1,1 +1,1 @@
-i am pretti new to react and react rout so mayb i'm total on the wrong path here. happi for ani help! so i have an electron app run like this:mi problem is i can't get the home compon to render becaus the init rout of my app is obvious different. remov the exact paramet works, it render home but then the rout is not work anymor for the other rout (/newview) which make sens too. ani chanc i can get home to render on the initi path of my applic while the other rout still working?
+Get path of electron app for React routing

@@ -1,1 +1,1 @@
-here is my schema doesn't work in the front-end?2) what is the correct way to access the properti in the client-side?
+JSON object architecture look different when I pas it to the client side

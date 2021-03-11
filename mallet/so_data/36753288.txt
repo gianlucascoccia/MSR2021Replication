@@ -1,1 +1,1 @@
-the desktopcaptur api exampl show how to write a screen captur stream to a as the contents.how can i record this stream and save to a file on disk?
+Saving desktopCapturer to video file in Electron

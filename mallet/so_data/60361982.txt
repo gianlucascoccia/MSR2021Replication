@@ -1,1 +1,1 @@
-this is my pythonshel script in my electron.j : thanks.
+python-shell with electron-builder work fine in my computer but not working in other computer

@@ -1,1 +1,1 @@
-i cant get createpngstream to work in electron with fabricjshi i am use fabric to generat static bannersit work fine just use nodejs.now my colleagu would like to do the same, so i want to build anelectron app for him to use. but now when i tri run the code in electron get this error uncaught typeerror: canvas.createpngstream is not a functioni can use createpngstream in electron if i use canva whitout fabric?what can i do to fix this?
+electron and createPNGStream

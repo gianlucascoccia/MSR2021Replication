@@ -1,1 +1,1 @@
-i'm write my first electron app, so pleas be lenient :)when the user press a button on the main window, there should open a new window which show some json string.thi event get cought by ipcmain:, isn't it?thank in advance.
+How to send message to different window in electron?

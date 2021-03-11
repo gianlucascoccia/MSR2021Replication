@@ -1,1 +1,1 @@
-i would like to use pspdfkit with react in electron. i am not sure how i could do this. i know there is a react nativ wrapper available, but i am not sure whether this is of ani use to me, sinc i am not use react native, but react &amp; electron.on the other hand, there seem to be a web version available, but the onli exampl given on their websit is with docker. i would like to integr it into my react / electron app, not have it run on localhost:xxxx in a browser.ani advic on how i could approach this, general speaking?
+Using pspdfkit in electron (React)?

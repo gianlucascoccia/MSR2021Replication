@@ -1,1 +1,1 @@
-how do i put a a custom file into the root folder of an electron packag when building?i'm tri to add a file to the root of my electron app when it packaged. below is what i current have. it work to an extent, but then code-sign fails.but that put it in the resources/ folder. i need it to be in the parent folder of resources.
+What is the proper way to add file to a packaged electron app?

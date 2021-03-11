@@ -1,1 +1,1 @@
-i have a nwjs app for window and mac. i want to use the same code for creat an app for chrome os. this app contain nodej code, i am tri to figur out if nodej is support by chromeos. i tri to instal the folder as unpack extens in the chrome but look like it is not abl to figur out the function and other node relat functions. ani help is appreciated. thank in advance.
+Does Chrome OS support Node Js apps?

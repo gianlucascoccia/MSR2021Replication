@@ -1,1 +1,1 @@
-i am develop an file. then also there is no chang in the result. how can i fix this? ani help could be appreciated.
+en.json not found error on angular electron

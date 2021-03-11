@@ -1,1 +1,1 @@
-i have a webview tag, and i'm tri to execut javscript and read the result, as per the docs: electron webview tag docs. howev the callback is never executed:i'm use the webview in nodej as part of an atom package.
+Electron webview tag doe not execute callback after executing JavaScript (CoffeeScript)

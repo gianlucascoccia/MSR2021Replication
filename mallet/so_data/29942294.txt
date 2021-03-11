@@ -1,1 +1,1 @@
-folk - i'm at a loss, i'v follow the instruct as per the manifest here: https://github.com/nwjs/nw.js/wiki/third-party-browser-pluginsi'v includ what am i do wrong? can somebodi pleas offer some advice?
+How can I view PDF's in nw.js?

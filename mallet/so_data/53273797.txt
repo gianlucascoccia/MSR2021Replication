@@ -1,1 +1,1 @@
-i'm work on a vscode extens for my school open sourc project.i was wonder there was a way to detect text input to the window?for exampl if someon were to past a string in, could i grab detect that string similar to an oninput in javascript? a setup would be spell check or do a replac for commands, similar to visual studio intellisens you type prop +tab +tab it auto generat code.let me know if you'v heard of someth that might work. thank
+Detecting text input to VSCode activeTextEditor

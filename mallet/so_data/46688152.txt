@@ -1,1 +1,1 @@
-i am develop electron applicationwhen in electron , i creat two webview ,i want to show devtool in one webview to debug anoth webview.i use how can i do ?
+How to install extension in webkit remote devtools

@@ -1,1 +1,1 @@
-i'm tri to replac ifram with webview tag. how to listen to the messag from the child window?whil use iframe, it was like thisindex.html (local)can i listen to the same event without chang my remot app code?
+Communicate webview and parent window in electron

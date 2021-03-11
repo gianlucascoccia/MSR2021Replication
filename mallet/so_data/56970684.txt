@@ -1,1 +1,1 @@
-i have an (angular) electron app that is call to a nodej script. the nodej script is make mani http calls. i am set the .is someth differ with electron or how this is be call that the http agent i am set is ignored?
+Electronjs apparently ignoring maxSocket on HTTP agent

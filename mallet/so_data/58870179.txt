@@ -1,1 +1,1 @@
-i want to stream a screen captur from one pc to other pcthe media that i wanna share is in the type of mediastream i got use electronj desktopcaptureri want to send the data to a server (mayb use websocket?) and receiv it in differ laptop, then play the video in browser
+How to pipe MediaStream to WebSocket

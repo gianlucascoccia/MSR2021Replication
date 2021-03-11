@@ -1,1 +1,1 @@
-i am new to electron and i have made a new electron test app. it work well on develop environment. but after packaging, it show onli html screen but button click event not working.
+electron-packager packaging app for platform win32 ia32 using electron v5.0.1 but jquery event like button click not working after packaging

@@ -1,1 +1,1 @@
-when i maxim the click max with window and max with ipc', the smooth of anim is quit differ
+Why window.maximize() called in main process and render process are different from the animation on macos?

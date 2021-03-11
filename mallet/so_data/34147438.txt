@@ -1,1 +1,1 @@
-i am tri to build an applic use node.j and electron. i know the automat updat are possibl for these applic sinc applic like slack and atom are use this feature. this can be achiev use squirrel or electron-updat but couldn't find a proper way to accomplish that. ani help would be appreciated. thank in advance.
+Electron application auto updating using Squirrel

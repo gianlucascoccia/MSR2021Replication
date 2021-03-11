@@ -1,1 +1,1 @@
-i'd creat the react app and built it with but after loading, get latest version on browser but previuo version on desktop. thank in advanc for help
+Why Electron is building react app with previous change instead of latest ones?

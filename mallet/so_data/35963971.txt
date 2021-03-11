@@ -1,1 +1,1 @@
-i'm tri to dynam creat element and add an event listen to them. here some code: . ani ideas? thanks.
+Get value of integer variable for dynamic loading

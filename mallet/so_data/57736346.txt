@@ -1,1 +1,1 @@
-node-server-screenshot work perfect in localserver. but it doe not work on live server (ubundu). in node-server-screenshot, that use electron library. if there ani depend in electron for ubundu server? below code work fine in localhost.it also doesn't throw ani error in live
+node-server-screenshot Not working on live ubundu server

@@ -1,1 +1,1 @@
-i am tri to develop a small applic in which i first captur screen via i hope i miss someth basic. ani help is appreciated. thanks!
+Playing local mp4 file in electron

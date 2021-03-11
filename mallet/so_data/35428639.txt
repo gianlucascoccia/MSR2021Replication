@@ -1,1 +1,1 @@
-i want use react+webpack+electron to build a desktop app.how can i inject which is the same as electron-quick-start main.jsdo i lose some import things?it can't be better if u can provid a exist exampl on github repo.
+how can I use f in react with electron?

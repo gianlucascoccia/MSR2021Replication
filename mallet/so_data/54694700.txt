@@ -1,1 +1,1 @@
-i have an electron application, packag for window through electron-packager, when i tri to open the exe with out internet connection, the applic is not launching. with internet connect it work perfect fine.i googl but not of much help.ani insight would be realli appreciated.thank you
+Electron exe doesn't launch when not connected to internet: window

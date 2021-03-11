@@ -1,1 +1,1 @@
-when write an electron app, the maco build provid an "about " menu item as the first item of the first menu1. when this is clicked, a small panel pop up display app name, version, and copyright if available2.how to custom the content render in the panel?th electron menuitem role doc onli mentions: don't provid ani insight.se screenshots, includ an exampl of a custom display panel (via gimp):
+Electron and macOS: how to customize the 'About <app>' display panel that pop up when user click the 'About <app>' menuItem?

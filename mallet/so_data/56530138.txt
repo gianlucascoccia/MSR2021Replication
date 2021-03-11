@@ -1,1 +1,1 @@
-i am complet new to electron and vue.js. so i start a new pet project. some of the electron ipc work fine, so i ad - or better tri to add - vue to the project. now i am get follow error:though it work fine "just a minut ago".so whi doe electron do not find that app after instal vue?her are my files:package-json;i hope, i have provid ani inform that is needed.thank for help!
+Why is electron 'unable to find electron app' with vue.js?

@@ -1,1 +1,1 @@
-i am save a file local in js like thison browser this open a new tab and download the file and close the tab , but on electron this open a file save dialog like shown belowso i want to captur the save and cancel event in the js so that on click save user should get "download successful" messag and on cancel noth should happen.
+capturing save and cancel event on window.open() in electron

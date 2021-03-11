@@ -1,1 +1,1 @@
-i have a simpl electron app with no framework (react, angular). i am tri to incorpor unit test with mocha but i have problem understand some of the concepts. i need to access the html that is be load sinc all my compon ultim depend on it (i have a small, custom, mvc structure).i am read exampl like taken from?
+Unit Testing on Electron

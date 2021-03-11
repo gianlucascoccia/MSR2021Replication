@@ -1,1 +1,1 @@
-excus my ignorance. i'm just learn how to use node webkit and was wonder how to fill in form data via a menu item. i'm use the code below and fill in the form data with the fill menu item. howev it report that var elem = document.getelementbyid("username"); return null. ani ideas?it return the element just fine. howev make that chang in the script still leav me with the same problem.
+Fill in form data from Node Webkit

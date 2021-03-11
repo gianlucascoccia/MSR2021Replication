@@ -1,1 +1,1 @@
-i got a doozi here. in electron main process, i requir in the function below to setup event handler with ipcmain. this keep the main.j file a littl more streamlined. all went swim until i wrote some valid code to ensur that the user pass in an object. i use so this error make no sense. environ is electron 1.8.4 on node 8.2.1 use electron-vu
+In Electron, using "typeof" cause TypeError: Cannot assign to read only property

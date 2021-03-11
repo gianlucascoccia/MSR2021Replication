@@ -1,1 +1,1 @@
-i have this code:screenshots:
+Why popup doe not closing after entering email and password. Facebook API. JavaScript SDK

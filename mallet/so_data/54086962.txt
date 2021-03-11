@@ -1,1 +1,1 @@
-error screenshotal on a sudden electron start show this error. electron version 3.0.0 where should i tri debugging?edit: found the error and it solut here: syntaxerror: invalid or unexpect token at createscript (vm.js:80:10)it was not syntax error.
+Electron - App threw an error during load

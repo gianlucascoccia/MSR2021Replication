@@ -1,1 +1,1 @@
-i am use react and electron. i need to print some generat html in react app when i pus click on button:how can i resolv this problem? ani ideas?
+React + Electron How to print HTML?

@@ -1,1 +1,1 @@
-i'v been tri out electron compile, and it work great. but i don't see ani project use it.so is there ani reason whi most electron project are use webpack, gulp, etc. and not electron compile? is there anyth wrong with electron compil for big project or something?
+Why is nobody using electron compile?

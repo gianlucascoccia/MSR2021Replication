@@ -1,1 +1,1 @@
-i'm use that repo https://github.com/simulatedgreg/electron-vueand tri to set up vs code debug configur like this work but want to use vs code.what am i do wrong? can somebodi share debug configur for vs code or webstorm?
+Electron main and renderer process debug configuration

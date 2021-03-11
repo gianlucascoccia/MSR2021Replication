@@ -1,1 +1,1 @@
-i am develop an electron app. i would like to be abl to take a snapshot from the web camera use electron gui. i have tri this plugin.i there a way to access the webcam from an electron app? i'm use window 10
+Is possible to take an image using a webcam from the Electron app GUI

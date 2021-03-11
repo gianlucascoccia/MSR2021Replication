@@ -1,1 +1,1 @@
-i'm work on an electron app that control gulp task via gui. you click on a task and it runs. pretti simpl stuff. on macos, when i run npm start it run just fine, but when i packag it with electron-packager, i get this error:
+electron-packager spawn ENOENT

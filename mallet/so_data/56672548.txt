@@ -1,1 +1,1 @@
-i am tri to integr my angular applic with electron and want to bind and send messag from electron to angular. my code is as follows:how can i send content in model class to from angular to electronit can be a duplic question but i am newbi to this so need a detail explan to understand better
+Angular and electron communication

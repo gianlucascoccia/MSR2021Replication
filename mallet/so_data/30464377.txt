@@ -1,1 +1,1 @@
-i'v been search to see if there is a way to check whether the context menu in a nw.js app has been closed(if you click away from the menu or on anoth window, etc so that the menu disappears). i haven't been abl to find an answer.i have it work when click off, but not when click outsid the window(i'v tri ad blur and focusout to the event but those didn't do anything):ani help figur out how to solv this would be great.
+How to check if context menu ha been closed?

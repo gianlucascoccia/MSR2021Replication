@@ -1,1 +1,1 @@
-i instal electron and nodej and finish my project when i instal electron packag from cmd it succeed without problem but when i call it execut there is no such command or directori call electron-packageri wrote in cmd : npm instal electron-packag successbut when i wrote electron-packag . error is electron-packag isnt a command or a directori
+Problem with cmd install electron-packager

@@ -1,1 +1,1 @@
-i have follow the instruct here: how to debug electron applic with intellij or webstorm?which has an answer that work well with code written in js. all our electron code is written in typescript that is eventu transpil through webpack.however, if i specifi in the configur to use my main.t entri point, electron show the error below. what do i need to do to get this workflow going?
+How to debug electron application with WebStorm that are built in Typescript

@@ -1,1 +1,1 @@
-i am configur package.json for windows. the packag is work fine. but, i also want to sign my window instal file and unabl to do.i have gone through this tutori windowsconfigur and got this line: sign string | (configuration: customwindowssigntaskconfiguration) => promis - the custom function (or path to file or modul id) to sign window executable.th problem is, i am not get how to creat js file for window instal sign and what paramet i have to use for it configurations. thank for your time.
+How to sign in window installer using electron builder

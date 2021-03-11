@@ -1,1 +1,1 @@
-i'm have problem open file with certain charact in nodej use id3js.th file i'm tri to read is as you can see, it cut off at # in the origin file name. what step do i have to take to make sure node use the entir filenam when look for the file.
+Problems with opening file using nodejs and id3

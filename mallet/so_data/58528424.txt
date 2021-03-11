@@ -1,1 +1,1 @@
-use electron and electron-stor to add file simplifi execut name and their full path from showopendialog to config.json. select the same file caus repeat entri in config.json. for some reason (or rather miss code), app think they'r differ paths.
+How to prevent duplicate being added to JSON object

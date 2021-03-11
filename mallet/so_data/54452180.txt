@@ -1,1 +1,1 @@
-i want to make a queri with sequel that return row which contain what is in a variabl use jquery.mi code:someon can help me ?
+Sequelize search using include

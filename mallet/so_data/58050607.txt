@@ -1,1 +1,1 @@
-i creat an electron app (pack with: electron-build + nsis-web installer) on windows.th app work fine, but i want to open the app from a consol window (cmd or powershell).unfortunately, the app is then attach to the consol window.when the consol window is closed, the app is also closed.th problem doe not occur if i use the portable-nsi option.ani way to prevent this?
+Prevent Electron App from attaching to console window

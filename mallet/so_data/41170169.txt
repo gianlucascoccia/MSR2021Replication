@@ -1,1 +1,1 @@
-i am tri to process an imag at pixel level to remov the background of a portrait image. i am use react with electron. i did find few node modul which could help me with that, or els will write a modul for myself. i was wonder how do i includ the node modul in react and use them to process imag ? is my understand wrong ? is there a better approach to the problem? ani kind of help is appreciated.
+Image Processing using node module and react in electron application

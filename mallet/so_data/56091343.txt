@@ -1,1 +1,1 @@
-im tri to build an electron app and want to use window.require. unfortun the compil say "typeerror: window.requir is not a function". iron requir work onli in main.js.her the code im tri to run:also the author said use "noderequire" instead of requir would solv the problem but it doesn't...anoth option i read about is that the nodeintegr is set to fals while the render process is activated, but i don't know how to activ node while rendering.
+TypeError: window.require is not a function

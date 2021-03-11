@@ -1,1 +1,1 @@
-we'r use node-webkit for packag an app made with html5 and js. everyth has been work well but now when we tri to read the content use a screen reader (appl voiceov or jaws), the content seem inaccessible.th screen reader is abl to read the window button and the window titl but can't read the html insid the app. actual it doesn't work with the sampl page that came out of the box with node-webkit so is not a problem of our app.ani idea or alternatives? thanks!
+Screen reader can't read content on node-webkit app

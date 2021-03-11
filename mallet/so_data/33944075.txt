@@ -1,1 +1,1 @@
-i look for the best way to hide the code of a solut built with electron. ani ideas?to build the solut with electron have asar file is not enough. i realli need to hide the code so it should not be easi to retrieve.
+How can I hide the source code of a nodeJS solution built with Electron (asar files)?

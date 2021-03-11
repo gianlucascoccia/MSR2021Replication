@@ -1,1 +1,1 @@
-so in the electron-quick-start demo, there is a requir function insid a html file , it interpret the html file differ like how react can use jsx or rubi with html.erb?
+JavaScript - Why can the require function be used in a browser's script tag in ElectronJs?

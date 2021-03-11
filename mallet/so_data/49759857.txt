@@ -1,1 +1,1 @@
-i'm tri to make an electron menu and i'v set it up like this:
+Electron getApplicationMenu returning menu with MenuItems that shouldn't exist

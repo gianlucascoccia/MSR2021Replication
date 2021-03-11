@@ -1,1 +1,1 @@
-i want to use electron to select a folder to upload file to.i tri it with dialog and someth function i find on google, but noth help yet. a file should be download via link in the directory.
+Electron select Directory with text input & onclick event

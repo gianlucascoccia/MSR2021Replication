@@ -1,1 +1,1 @@
-when i creat a new browserwindow and use loadurl to use an html file insid renderer, i can see a flash of unstyl content for half a second, befor the css is load i guess.
+ElectronJS BrowserWindow FOUC

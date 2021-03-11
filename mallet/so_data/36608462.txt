@@ -1,1 +1,1 @@
-so i am use the electron-packag cli tool and everyth is work except the generat exe (on tri on window so far) doesn't unload from memori when i close the window (mi one and onli render process). i have to close it (kill the process) use task manager.i there someth insid of electron i can call to ensur that this happen or is this a bug in electron-packag or what?
+electron-packager - Generated exe stay in memory after closing the window

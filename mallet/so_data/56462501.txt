@@ -1,1 +1,1 @@
-i have a dll-file that i need to use for a separ process that is start by the main process in my electron project.so i want to includ this dll in my electron project and i'm use electron-build to build the project. the problem is that i don't know how to includ the file without it be ad in the asar package, which is not reachabl from the separ process directly. when i use are there ani way to get my.dll includ in the resourc folder (or somewher else) instead of in the app.asar?thanks!
+Include dll file in Electron Builder

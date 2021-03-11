@@ -1,1 +1,1 @@
-i'm work on a app with electron use axio to get api data, but when i use to display data it show undefin in screen and when i output it, it show the correct value!! some help would be appreciated!i get a output in console:object: usd: 3560.263(current price of bitcoin)i get output on main screen:'undefined'i think it becaus it an object so how can i display an object?i may be wrong!!thankyou!!
+Getting data in console but show undefined in main output

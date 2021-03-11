@@ -1,1 +1,1 @@
-i am learn electron and when i use this line this is suppos to hide the icon from the taskbar. ani idea of whi window throw a fit?
+Electron (Windows) Cannot read property 'hide' of undefined

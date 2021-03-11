@@ -1,1 +1,1 @@
-i have the follow requir statement in my main app.j file i am attempt to spawn an electron app from. however, the variabl keep in mind this is not code i have written but the code i am get from the tutori on: https://electronjs.org/docs/tutorial/first-app
+JS Require statement leaving variable undefined

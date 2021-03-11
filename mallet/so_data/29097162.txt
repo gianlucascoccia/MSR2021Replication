@@ -1,1 +1,1 @@
-i had a simpl app in node/express and after watch a cours on the net, it help me refactor the rout in my app but i found a littl problem after do so.th problem is that my rout are use a variabl call "db" that is an instanc of a nedb access point.ani idea or best practice/eleg way for solv this?thank you.
+Express.js db module after refactoring route

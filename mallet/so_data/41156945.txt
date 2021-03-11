@@ -1,1 +1,1 @@
-i have an app use electron, react, and react router. i'm use
+ipcRenderer in React component constructor

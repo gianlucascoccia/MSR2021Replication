@@ -1,1 +1,1 @@
-in window 64 build with 0.12.2, menu is not get displayed, it work fine in linux64. below is the code for menu, pleas guid what is missing.tri with other version of nw-builder like 0.15.0-beta1, 0.15.0-beta2 - but get bellow error{ [error: enoent: no such file or directory, lstat /usr/local/lib/node_modules/node-webkit-builder/cache/0.15.0-beta1/win64/ffmpegsumo.dll'] errno: -2, code: enoent', syscall: lstat', path: /usr/local/lib/node_modules/node-webkit-builder/cache/0.15.0-beta1/win64/ffmpegsumo.dl }
+nw-builder - Menus in windows64 build with version 0.12.2 are not shown

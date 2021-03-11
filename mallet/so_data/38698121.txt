@@ -1,1 +1,1 @@
-i am tri to read a file from local system use node js fs module. but for some reason, the fs modul is not work when i pass absolut path.code:but i can open the file from browser window use the same path.f modul is work if i pass relat path. i am use this insid an app built use electron framework.
+Reading local file from absolute path in node f module

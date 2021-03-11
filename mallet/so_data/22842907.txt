@@ -1,1 +1,1 @@
-i'm start with node-webkit and i cannot load a modul (a js file) i made in my project.her is the tree view :rooti can't get it to work and i can't believ it imposs to do, otherwis i cannot imagin how my projet folder would be.. flat :(.thank !
+node-webkit loading module fails

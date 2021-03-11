@@ -1,1 +1,1 @@
-i'm do a nodewebkit app and tri to bundl ffmpeg insid so the user doesn't have to have ffmpeg instal on their system.eaccess has to do with right run the code. i tri a error. how to make it play nice though?
+Error: spawn EACCESS node-webkit ffmpeg with fluent-ffmpeg

@@ -1,1 +1,1 @@
-i'm tri to access a remot window insid in it close handleri think this is occur becaus callback regist with remot object are call asynchron -https://github.com/electron/electron/blob/master/docs/api/remote.md#passing-callbacks-to-the-main-processso that by the time the callback is execut the window has alreadi been destroyed?but then that doesn't make sens as it the close event that set it to null and that allow the main process to garbag collect it.
+Accessing window inside remote window on close callback

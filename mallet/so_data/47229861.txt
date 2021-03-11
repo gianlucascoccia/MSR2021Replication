@@ -1,1 +1,1 @@
-how can i creat link which will be open in a browser not on app (i creat a desktop app)i'm use quasar framework with electron wrapper. default method openurl() open url in app (in new window) (same when use ). i need open it in user/os-default web browser
+how can I create link which will be open in a browser not on app

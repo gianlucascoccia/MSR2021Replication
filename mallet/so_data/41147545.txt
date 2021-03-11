@@ -1,1 +1,1 @@
-i have instal electron in global mode and i want to use it to run littl script with gui contain in one file. (i associ the *.js file in window 10 to be open with electron.)i wrote this file:&#xd;&#xd;&#xd;&#xd;&#xd;but javascript doesn't run. if in the definit of "f" i write onli "alert("")" i see the alert dialog but with var i1 = document.queryselector("#ia").valu it doesn't work.how can i solv this problem?
+Create a script in a file for Electron

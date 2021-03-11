@@ -1,1 +1,1 @@
-i'm tri to get notar work for my electron app. appl fail to notar my app due to "the binari use an sdk older than the 10.9 sdk". i assum it refer to maco sdk. i could not find refer in electron document about how to configur maco sdk version be use in the build process. i'm use xcode 10.1, electron 4.0.0, electron-build 20.44.4. my question come down to what actual control the sdk version use by electron? is it xcod, electron version or some set in my system?
+Electron notarization failed due to "The binary us an SDK older than the 10.9 SDK."

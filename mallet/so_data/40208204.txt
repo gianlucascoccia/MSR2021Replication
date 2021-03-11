@@ -1,1 +1,1 @@
-i have a problem with run angular 2 application. dure call ofthank in advance.
+Angular2 bootstrap error: Error: No ExceptionHandler. Is platform module (BrowserModule) included?

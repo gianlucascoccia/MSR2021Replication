@@ -1,1 +1,1 @@
-what am i missing?
+Filters in Electron's showOpenDialog only returning first object in the array

@@ -1,1 +1,1 @@
-i'm tri to build an app with web2execut software. my html packag work fine in chrome and firefox, but when i creat the exe file, it work except for the ifram with pdf in it.i'm use the jqueri librari featherlight for the popup.thi is the result:a simpl grey box.th onli warn in the consol say: "resourc interpret as document but transfer with mime type application/pdf"mayb i need to includ some plugins?thank in advanc
+Nw.js display pdf in iframe

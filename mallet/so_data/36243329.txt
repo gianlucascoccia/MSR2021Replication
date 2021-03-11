@@ -1,1 +1,1 @@
-i know the electron ipc modul allow one main process to communic with multipl render process. on top of this, is there a way to use anoth main process to communic with multipl main process simultaneously?
+Is there a way to communicate between multiple electron main processes?

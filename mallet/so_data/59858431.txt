@@ -1,1 +1,1 @@
-i render a full websit in electron app use iframe.when i tri to choos an imag to upload, app crash with below messag gtk-message: gtkdialog map without a transient parent. this is discouraged.thi happen onli in linux ubuntu
+electron app crash on select input type file

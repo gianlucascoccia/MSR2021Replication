@@ -1,1 +1,1 @@
-is it possibl to promisifi the communcat between 2 processes?like, send a message, then wait until a respons is received, then do something.i'v written the code but i have no idea how to resolv the promis associ with sent messages, becaus the respons messag are receiv in a differ function, out of the promis scope :|
+Promisify child process communication

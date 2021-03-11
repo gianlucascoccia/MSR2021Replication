@@ -1,1 +1,1 @@
-i am make a nw.js applic that i want to be abl to be modded. however, for eas of use i want to allow all the mod to have their own separ set of global variables, yet i still need to access all the variabl and class from the main application. my origin idea was to use iframes, which would probabl work. however, ifram are slow and are just simpli messi code. is there ani better way to do this, or am i just stuck use iframes?
+Javascript only Iframes

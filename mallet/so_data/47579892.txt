@@ -1,1 +1,1 @@
-i'm write an electron applic and i'd like to implement a script featur where the user can write js script that autom task within the program. i want to be abl to just pass an api object into the script for the user to interact with the application, and not allow it to access anyth else.what the best practic for this sort of thing?
+Safest way to run user-created script in Electron

@@ -1,1 +1,1 @@
-i have a simpl angular app and it is in but i have no idea how to do that.do someth else. may be some header or paramet to allow cross origin request and i have no idea how to do that.how can i solv this problem?
+How to load my angular app correctly with electron throu file:///?

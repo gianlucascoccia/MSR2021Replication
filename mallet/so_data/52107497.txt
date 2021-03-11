@@ -1,1 +1,1 @@
-i see that nativeimag allow for some resiz and other manipulation, but i need to give the user the abil to rotat an imag 90 degrees. is this possibl with an electron application?
+ElectronJS: How Rotate an Image in Electron?

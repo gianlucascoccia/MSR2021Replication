@@ -1,1 +1,1 @@
-i am tri to updat one data on json file use nsjson plugin.mi json data on fileth abov code updat the json file but it onli keep base_pathi want to keep all the data and onli to updat base_pathani help or link will be appreciated.
+Read And Update JSON File Using nsJSON Plugin (NSIS)

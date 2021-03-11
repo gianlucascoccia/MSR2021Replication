@@ -1,1 +1,1 @@
-i am make an app with nw and angularj to make a desktop app, what i want is to get the file from a server(html, css, js).then i want to do someth like the follow code:th problem is that when i run the app it is not get the html of the template, then i am not sure if this idea is valid on angularj or if i need chang the logic of that to get the content of the html.i am get the error error: $sce:insecurl process of a resourc from untrust sourc blockedthank for ani help.
+How get a template from a remote URL with AngularJS

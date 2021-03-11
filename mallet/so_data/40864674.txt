@@ -1,1 +1,1 @@
-how can i get an rxjs-observ in angular 2 from an async linvodb databas queri in electron?in the main process:besid this i tri a varieti of other method like declar the observ as a variabl and merg the result from db, set the queri as live(), get the data via ipc.what am i do wrong?
+How to create an Observable from query?

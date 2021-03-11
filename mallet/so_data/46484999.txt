@@ -1,1 +1,1 @@
-i'm develop an app with electron and angular 4. i want to show a dialog when i click a button to select a folder, but there is a problem with the electron api:i'v seen a lot of peopl with the same problem but i couldn't find a solut to fix this. i'v tri to modifi the angular-c config by ad a script that requir the fs modul but it fail too...mi compon look like this:ha anybodi made it work?thank for your help!
+fs.existsSync is not a function error in Angular & Electron app

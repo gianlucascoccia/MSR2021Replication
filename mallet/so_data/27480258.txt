@@ -1,1 +1,1 @@
-i am use in backend. in app, current user can chat, creat some document and add comment on it. i need to get a statist about app like:how mani are chattinghow mani are creat documentshow mani are activ in apphow much time are they activ in app who are not use app at allhow mani are view documents, etci need to log all this data and later render it in admin panel so that admin can view statist about app.i there ani way this can be achieved? thank in advanc
+Get User statistic in NodeWebkit App

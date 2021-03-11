@@ -1,1 +1,1 @@
-i have chang nw.icn in /nwjs.app/contents/resources/ directori with new nw.icn file. my app.nw is locat insid /nwjs.app/contents/resources/ directory. i use follow command in termin to run app open -n -a nwjs --arg "path_to_nw directory" but the app icon in dock bar of mac doesn't chang it take old nwjs default icon.pleas help me to solv this issue.thank in advance.
+Unable to change node-webkit app icon in dock bar in MAC OSX

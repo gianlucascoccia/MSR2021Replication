@@ -1,1 +1,1 @@
-i follow the demo here:https://github.com/sheetjs/js-xlsx/tree/master/demos/electroni'm abl to drag an excel file into my electron app.th document says, you can access everi cell with:i got no clue how to start with it, thank in advanc
+Accessing Cells with Sheetjs

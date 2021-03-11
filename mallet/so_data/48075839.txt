@@ -1,1 +1,1 @@
-i am current work on electron with babylon. i found this repo which i basic use as a boilerpl for my own project. everyth was work well until i tri to add jquery.pep.j for other needs.i keep on have this mistak : uncaught error: cannot find modul jquery.pep.js'i instal both librari with "npm i -s jquery" and "npm i -s jquery.pep.js". in order to make jqueri works, i ad this script in the head of my index.html project structur css/img/ js/ -- main.j node_modules/ index.htmlindex.jspackage.jsonrenderer.j
+Cannot find module in Electron

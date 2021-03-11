@@ -1,1 +1,1 @@
-i am use node js 10.15.0 along with fastifi server int it.i am also use normal public folder share in the project.below is the project hierarchy. note: this code when started, start as a standalon server which also server ui.i tri electron-packager/ electron-build but i am not get desir build as execut like .ex etc. question:can anyon pleas guid me through how can i achiev creat a build from node.j pure server code use fastify.
+Create a build for Node.js (fastify) server to electron app

@@ -1,1 +1,1 @@
-i'd like to build an applic (local, not online) by use front-end web technolog for the ui, the applic simpli display pdfs and has a few text field for the user to fill in with regard to the current pdf they'r viewing, the user can then export their note and a file path to the document in csv file format. insid the src attribut for an chrome say it can't access local files. so i'm back to sqaur one!how can i go about build this applic with local file access?
+Building a web application that can work with local file

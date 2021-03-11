@@ -1,1 +1,1 @@
-i want to get result of queri (select) and push it in user array to display it in page (i use electronj and vuej framework)
+How i can get result of mysql query in Vuejs

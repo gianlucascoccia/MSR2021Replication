@@ -1,1 +1,1 @@
-i plan on make a desktop onli app. i don't have ani intent to deploy it to a web server. think someth like vs code. im use to just "throwing" react at ani problem that has the term "web application" in it. it streamlin so much it almost imposs to write realli great app without it in my opinion.however, electron is a differ beast entirely. should i use react still, or is there more benefit to just stick with raw electron in my case? i'm fair new to develop in electron, so i would like to do it right.
+When to use react with electron

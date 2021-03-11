@@ -1,1 +1,1 @@
-i need to work on an electron/angular applic that was alreadi previous developed, i am just tri to add a feature. the app has not been touch for a while, but now when i tri to launch it in develop withi do not have a lot of knowledg about this application, so ani help would be much appreciated. i just want to get it in a develop set so that i can work on it.
+Electron/Angular app failed to compile because missing http module

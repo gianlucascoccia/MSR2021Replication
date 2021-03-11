@@ -1,1 +1,1 @@
-i alreadi have browser window which is run on background. i want to show that window on top of the screen when i call a function. but my initi window should be on background. if i use alwaysontop : true keep my window alway visible. &#xd;&#xd;&#xd;&#xd;&#xd;
+How to show electron window on top of the screen?

@@ -1,1 +1,1 @@
-when i run my electron app, i get the follow error from consol and pull out my hair.
+Electron cannot find module grpc.node

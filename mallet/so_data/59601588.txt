@@ -1,1 +1,1 @@
-i am develop an app with
+Cannot call a function in Javascript - Chart.js

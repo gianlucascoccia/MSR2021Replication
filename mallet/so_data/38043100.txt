@@ -1,1 +1,1 @@
-i creat an electron applic in node.j that run well on my mac. but i tri to packag it usingthi seem off becaus the user shouldn't have to instal extra thing just to get my applic to work. did i screw someth els up here too?thanks.
+Electron packaging apps issues- license and node.dll

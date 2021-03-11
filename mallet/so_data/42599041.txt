@@ -1,1 +1,1 @@
-i have a function . if i do it a second time though with the same file it retriev the data i want.note: this is also an electron app
+Issue with retrieving Iframe data first time

@@ -1,1 +1,1 @@
-i am tri to send a post http request with data, but it was take too long! so i follow the electron document same exampl code and it turn out to be slow too. it is take around 40 second for respons event to fire and return back data!!sampl code from https://electronjs.org/docs/api/neti use nodej http modul and it work fine but i am wonder whi is electron nativ modul take that long to return results?
+Electron net module is taking too long to get a response

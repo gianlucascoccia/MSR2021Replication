@@ -1,1 +1,1 @@
-i have a relat simpl electron app - brunch, react, redux, electron. i'm now tri to read a json file use the "fs" node module, but it throw an error: typeerror: _fs2.default.readfil is not a functionaft investig it look like the modul doesn't contain anything. compil say it avail and bundled, but the result vendor.j look weird. here the probabl relev part:did i forget anyth in my brunch config? i'm use es6 imports, but the problem also happen if i use commonjs.
+Why can't my electron app access the 'fs' module?

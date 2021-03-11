@@ -1,1 +1,1 @@
-i develop an applic on my macbook and i follow the applic distribut page instruct on the electron website. so right now when i doubl click on my electron.app folder it run my applic perfectly. however, when i transfer that folder to my window machine, it just show a folder. when i doubl click on the folder it just show me it contents. how can the packag be run on the windows? i don't care about my code be expos to others. i just want to be abl to run it on windows. is the onli way of do so through make an exe file?
+Distributing Electron Application Across Platforms

@@ -1,1 +1,1 @@
-i am tri to intercept ctrl+c and ctrl+v command and get the valu from the clipboard in electron.i tri do it use globalshortcut from electronthi is intercept the keyev but it stop the origin keyev from happening,on way is to intercept use abov code and then manual execut the key event from it.can anyon pleas help me with what can be done in this case?
+globalShortcut from electron will disable the original keypress

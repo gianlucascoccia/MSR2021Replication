@@ -1,1 +1,1 @@
-i have two monitor with extend mode use desktopcaptur in electron . that two screen was combin to one canva with canvas.capturestream() and resolut was 3840x1080. after receiv was receiv stream and start to play of video . in sever minut resolut of video is keep reduc from origin resolution. i tri to use vp8 and h264 mode in viewer but video resolut is not same from origin size. but video size of owner is fine. how i can fix this ?
+canvas.captureStream to viewer wa suddenly shrink from original size [webrtc]

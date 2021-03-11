@@ -1,1 +1,1 @@
-i'm learn js databas call nedb (node.js) https://github.com/louischatriot/nedbgot confus on updat docs.databas befor updateso, nedb doesn't modifi doc but creat a new one. i'm afraid to imagin what will happen if there are a lot of user and updat requests. when i restart the code it remov the match and db look okay. just want to know if it okay or i am do someth wrong?
+JavaScript understanding NeDB (update query)

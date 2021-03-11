@@ -1,1 +1,1 @@
-i reciev this messag in the webview console. then my "download-info" listen isn't fire at all
+Electron: Error when connecting ipcRenderer and ipcMain

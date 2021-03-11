@@ -1,1 +1,1 @@
-it seem that the command onli work if the app doe not have focus.i there ani way to make the dock icon bounc when the app starts?
+Make electron app icon bounce on start up

@@ -1,1 +1,1 @@
-and should i also bother myself with the semant of each html tag i use? it somehow bother me that i'll be shoot myself in the foot if i develop an html5/javascrippt app that doesn't conform to the web standard and can onli run specif with nwjs.
+Should I bother with cross browser compatibility if i'll be just using nwjs?

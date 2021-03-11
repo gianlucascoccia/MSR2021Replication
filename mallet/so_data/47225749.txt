@@ -1,1 +1,1 @@
-i have to run ftpserver with node.j and electron, use simple-ftpd on macos.it must run on port 21, becaus i can't updat devic hardwar parameters.btw all port &lt; 1024 are locked.i tri to use pfctl to forward 21 -> 1337, my devic can find the ftpserver but can't log or write into it.i dont want to ask for root password after each launch.i'm use node 8, electron, simple-ftdpdo you have ani suggest guy ?
+How to run ftp-server on port 21 on macOs

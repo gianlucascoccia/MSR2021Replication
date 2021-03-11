@@ -1,1 +1,1 @@
-i am use this code in my electron app to connect to an sftp server where i need to collect some data. i have no problem list the file in the /out folder, but it fail to get the sftp file with dein permiss error. ideal i would like to be abl get() file and access the text data within direct in the function without store to a file.
+ssh2-sftp-client get() request giving 'denied permission - error'

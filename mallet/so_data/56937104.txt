@@ -1,1 +1,1 @@
-i'm develop a vscode webview extens base on the catcod example.i'm tri to import an extern node_modul from cdn use the tag. the packag is load and i can use it, but in some of the import function there is an export of modul and i get the follow error: i'm just tri to do simpl packag import, not sure whi it happens, probabl becaus it run as a webview, mayb becaus of electron?ani idea how can i solv it?
+how to fix: "exports is not defined" & "require is not defined" error when importing package from vscode webview extension

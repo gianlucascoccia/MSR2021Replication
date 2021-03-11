@@ -1,1 +1,1 @@
-so, i am build an electronj app for developers. this will check if nodej is instal on the computer. if not it will download and instal nodej latest version and final proceed with the app installation.also dure instal of the electron app, i want to check, download and instal a few node_modul globally. this is to ensur that the user has all the tool avail for initi instal and doe not need to instal them separately.how do i achiev this?pleas make sure this process is cross-platform (windows, linux, and mac)
+Install Node Modules during installation of an ElectronJS app

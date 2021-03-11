@@ -1,1 +1,1 @@
-i'm develop an app use electron. use
+Electron loadFile is not a function

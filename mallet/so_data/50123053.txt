@@ -1,1 +1,1 @@
-i'm make an electron applic with help of react, but after import electron remot modul i'm keep get the follow error after bundl the code with webpack:
+Electron remote error after bundling with webpack

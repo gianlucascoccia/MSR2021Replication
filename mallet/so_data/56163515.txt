@@ -1,1 +1,1 @@
-is there ani way of duplic a window (creat a new window same as an exist window) without load the content again? i am curious whether it is possibl to duplic the content of a window without use the
+How to duplicate the content of a window - Electron

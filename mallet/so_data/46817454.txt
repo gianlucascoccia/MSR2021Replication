@@ -1,1 +1,1 @@
-i'm complet new to electron js and i'v tri read through the documentation, but no to avail.i was just wonder if there was a way to creat a browser window, then show the window in behind of all the run applications. is that possible?
+ElectronJS - How to pop up in the background

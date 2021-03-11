@@ -1,1 +1,1 @@
-i'm packag my applic use electron-packag but isn't chang it name, and still display "electron".it suppos to use the
+Electron app name doesn't change

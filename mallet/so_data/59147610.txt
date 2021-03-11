@@ -1,1 +1,1 @@
-im use ipc render to open a new window and it suppos to load a new "url" but sinc it not be host local in the .ex version, ani way around render it sinc i cant do it by file (at least i don't think i can) /url?
+Render endpoint using electron's ipc render in a create-react-app/electron app?

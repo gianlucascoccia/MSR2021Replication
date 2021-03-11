@@ -1,1 +1,1 @@
-i wrote electron.j multi-window applic use nativ javascript. i want to rewrit this app use one of javascript framework like react, vue or angular. they are spa framework so i predict, that one instanc correspond to one window. i think that angular may be too larg for smaller windows. my app current has one main window (that execut a lot of code) and three smaller, so i don't want to use too big framework for them. one more question: all of those framewok are compatybil with typescript?
+Best framework to multi-window app using electron.js

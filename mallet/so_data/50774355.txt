@@ -1,1 +1,1 @@
-i have an idea for a media player gui, which i'd like to build use electron (becaus it a tool i know well; i realis it not for everyone). i could do this easili use an html and stream me back the decod video frame so i can render them on my own canvas"?(btw there is a project call node-vlc which look promis but it unmaintain for over 5 years.)
+Using libvlc for multi-format video playback inside an Electron app

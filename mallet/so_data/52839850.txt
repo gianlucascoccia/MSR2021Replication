@@ -1,1 +1,1 @@
-i'm use electron 3.0.0, and react. i need to show a pdf insid one of my react components. i'v tried:electron pdf viewerhttps://github.com/electron/electron/issues/11065unsuccessfully.i use this 3 tags, none work
+How to embed a pdf file in electron

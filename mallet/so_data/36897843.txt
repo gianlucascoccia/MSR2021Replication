@@ -1,1 +1,1 @@
-i'm tri to use nodej createhmac function from it crypto library.problem: it produc differ hash when given (seemingly) ident arguments. the onli differ be whether the secret paramet is a string variable, or a string literal.th follow spa isol the issue. i'm use nwjs (node webkit) sdk flavour v 0.14.2 to run this code on os x el cap.ani help and advic grate received.index.html
+nodejs crypto hmac produce different hash if secret is passed a a literal v variable

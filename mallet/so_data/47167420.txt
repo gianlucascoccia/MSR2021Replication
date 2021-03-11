@@ -1,1 +1,1 @@
-i am tri out the electron framework. i was tri to scrap the mainwindow then put the return result in anoth window.i am use the below code(exclud unnecessari code such as window initialization) return or it is the behavior of electron ?
+variable undefined inside electron executeJavascript

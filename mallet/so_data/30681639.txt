@@ -1,1 +1,1 @@
-i want a menu, defin in the main process to call js code insid the current browser window in an atom/electron application.get main process global form the browser window is
+How to access BrowserWindow Javascript global from main process in electron?

@@ -1,1 +1,1 @@
-i am creat an electron project and i am use bootstrap fileinput.th control is render fine and works. the issu is that, as soon as the control is rendered, i can see "0%" abov it. no matter what i have tri i cannot remov that. i don't want a progress bar to be visible, the control will work onli to locat a folder name, which will then be use for other purposes.ani idea whi i alway see the progress bar?
+Bootstrap Fileinput cannot hide progress bar (nodejs/Electron)

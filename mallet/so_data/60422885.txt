@@ -1,1 +1,1 @@
-i'm tri to open an sqlite databas file use node-sqlite3 in my angular + electron app.despit i made sure that the file exist and electron can read it, when i tri to creat the sqlite databas using: i get the follow error, as the file didn't exist: error: sqlite_cantopen: unabl to open databas file
+Sqlite Electron: Error: SQLITE_CANTOPEN: unable to open database file

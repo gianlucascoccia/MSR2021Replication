@@ -1,1 +1,1 @@
-so i'v been tri to get electron work with perl6 and look like after all my effort of hack thing to get them to work, it just doesn't want to do it thing. i have use the follow script (one of the exampl from the electron repo on git):.
+Dynamic variable @*INC not found

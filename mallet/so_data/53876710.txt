@@ -1,1 +1,1 @@
-i have a react + electron app use googl api to authent and get a list of calendar events. the api script is be load on the i don't have an advanc understand of api and server to figur this out but through research, i found someth about the api not work from a "file://" protocol, which is the case on an electron app.thoughts? ideas?
+Google API on Published Electron app: gapi.auth2.ExternallyVisibleError: Invalid cookiePolicy

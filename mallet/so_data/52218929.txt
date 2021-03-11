@@ -1,1 +1,1 @@
-by design, electron.j contain all the featur of a modern web browser: render engine, video / audio support, web rtc, etc.in result, electron.j applic are huge, have big memori footprint and relat slow startup.do you know, is it possibl to build electron.j from sourc and strip unus / unneed featur of chromium?i want to have smaller binari and faster startup time.
+Is there a way to strip unused feature from electron.js binary

@@ -1,1 +1,1 @@
-is it in ani way possibl to launch an applic from vscode without also attach to it for debug purposes?curr i use nwjs to run a typescript application. i have set up a chrome debugg launch configur in launch.json which work veri well. howev i dont alway want to launch nwjs with the debugg attached. i just want to run my application. the reason for this is that i have multipl breakpoint which i dont want to disabl everi time i dont want them to be hit.
+Launch application from VSCode

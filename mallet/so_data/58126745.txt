@@ -1,1 +1,1 @@
-i have an electron app which use ), and it work as advertised, howev i would like to ensur the updat is instal immedi rather than wait for the user to quit on their own.how can i debug this further? whi am i not see ani errors? where should i be look for them? what am i do wrong?
+Electron auto update fails silently when installing update on Windows

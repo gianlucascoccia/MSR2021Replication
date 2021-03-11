@@ -1,1 +1,1 @@
-i have built electron 4.1.4 from sourc code, but i don't know how to generat node.lib for nativ c++ addon. i build my c++ addon with the node.lib from https://atom.io/download/electron, but the electron which is built by me from sourc code can not load it. i have build electron 4.1.4 from sourc codether is no codeth step to generat node.lib (just like the download from https://atom.io/download/electron)
+how to generate node.lib for native c++ addon (just like the library used in node-gyp) when build electron from source code

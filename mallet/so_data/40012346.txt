@@ -1,1 +1,1 @@
-i'm use . i'v search the document on their github as well on the npm website, but i dont see anyth relat to error codes. doe anyon know what that error means?
+Nightmare.js error code -3

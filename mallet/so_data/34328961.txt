@@ -1,1 +1,1 @@
-i just wonder if it is possibl to make systemj use require("remote").require("nodemodule"), if system js can't find the modul in it own registry?i think someth like this mechan is alreadi work when use electron with typescript and commonj modules...ha someon alreadi solv that struggle?
+Importing node module with electron and Systemjs

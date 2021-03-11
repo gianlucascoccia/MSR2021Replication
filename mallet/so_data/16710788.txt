@@ -1,1 +1,1 @@
-while write a node-webkit applic i came across need to save user upload photo through the built in html file input. i can save photo easi enough where i wish via a nice post here on node file upload and node-webkit file dialog chang simpl enough.th question realli is there a best practic for save user generat content for a desktop app or is the applic folder (os specific) reason to use with say the applic or compani name? secur is not much of a concern here in this case.
+Desktop Top Save Location For User Storage?

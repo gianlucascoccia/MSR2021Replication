@@ -1,1 +1,1 @@
-i'm code an inventori manag system use html,css,js and electron to compil it into a desktop base app.i want it to work local on client computer, without internet connection. pleas share your experi with local databas manag system, keep in view electron and inventori manag system requirements.thanks.
+What's the best database for Electron based inventory system

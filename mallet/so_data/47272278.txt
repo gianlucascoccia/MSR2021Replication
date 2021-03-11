@@ -1,1 +1,1 @@
-i am tri to make my web applic into a desktop app. i have alreadi built and configur a server to host the backend script written in python. my front end is written in js, jquery, html, css.i have found an open sourc framework call electron that packag web app into desktop apps. can i implement this so that it onli wrap around my front end compon without have to alter my back end server?
+Electron for only front end

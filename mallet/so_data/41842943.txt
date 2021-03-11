@@ -1,1 +1,1 @@
-just like the titl says, how can i get variabl from dom in main.j in electron.code:value.js:th error says: document is not defin
+Get DOM javascript variable from Node.JS in Electron

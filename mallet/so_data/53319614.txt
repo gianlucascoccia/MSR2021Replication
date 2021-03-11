@@ -1,1 +1,1 @@
-i have a task to store a model valu in my electron angular project . the rootscop model is bind the file path valu .i want to save this path on my project and everi time when user will open this app by default it will be present there path persist whenev i will open my app the previous select path must be there already. so that i don't have to make further changes.
+save rootscope value in the project

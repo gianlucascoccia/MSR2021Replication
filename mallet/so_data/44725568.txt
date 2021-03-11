@@ -1,1 +1,1 @@
-i would like to allow a user to open up to x concurr instanc of an electron application. how can my applic count the number of it open instances?
+Allowing X number of instaces of a Electron application

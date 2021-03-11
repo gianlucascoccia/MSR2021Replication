@@ -1,1 +1,1 @@
-i'm start a new project on an environ that has nativ commonj support for . are there ani altern to still use jsx in this situation?
+Is there any way of using JSX in a native CommonJS environment?

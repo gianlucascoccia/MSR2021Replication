@@ -1,1 +1,1 @@
-on maco when a file is in the process of download or transfering, a pie load icon is display next to the file. for example, here is a file mid download form chrome: i would like to achiev the same thing in my electron/nod app.how can i display a progress pie load icon next to file with node?
+How can I display a macOS progress pie loading icon next to files?

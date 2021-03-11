@@ -1,1 +1,1 @@
-i use electron with angularj (electangular : access to all electron method in angularjs) and i want to set a cookie.i make this in my control : and i'v got this error when i set the cooki : error: fail at error (native)thank for you advic
+How to use cookie with electron & angularjs

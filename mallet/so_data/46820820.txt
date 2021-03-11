@@ -1,1 +1,1 @@
-i'm develop a electron app and i need to access a file size. i'm use fs.statsync() to accomplish this.mi issu is that the fs.statsync() stats.siz is alway 0 (zero).her how i'm get the file size:what am i do wrong here?btw, i'm use window 10 x64.update: i solv my issue. the problem wasn't with fs.statsync(), but instead with the file (they were all 0 in size). rooki mistake, my bad... ¯_(ツ)_/¯
+Electron + NodeJs: fs.statSync() file size is always 0

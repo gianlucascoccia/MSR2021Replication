@@ -1,1 +1,1 @@
-first of all, i'v check how to instal zerorpc (python) on windows, but couldn't find an answer to my question.i'm tri to instal zerorpc to use electronj with python, using:
+unable to install zerorpc on window 10 using npm

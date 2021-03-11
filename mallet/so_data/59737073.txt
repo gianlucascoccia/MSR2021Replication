@@ -1,1 +1,1 @@
-i'm build a maco app use electron i tri to run the follow command from the main process use
+How can I gain root access and use disk usage (du) from electron's main process?

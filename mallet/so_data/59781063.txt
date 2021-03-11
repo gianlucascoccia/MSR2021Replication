@@ -1,1 +1,1 @@
-how to creat a singl instanc of an electron app? if it alreadi run in the tray and user start it again, how to open the run app from tray instead of start a new one?
+Electron, how open app from tray instead start a new one?

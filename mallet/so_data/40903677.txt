@@ -1,1 +1,1 @@
-is there a way how to submit a form in electron? i alreadi have html form done, but the problem is that, when i tri to send a php action file, it come out as a bunch of php text code. as i understand electron doe not support php at all, and i'm tri to creat a form, so is there a way how i can submit a html form in electron?
+Submit HTML form in Electron

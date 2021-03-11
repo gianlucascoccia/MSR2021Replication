@@ -1,1 +1,1 @@
-i have the follow renderer:how do i fix this?
+Using Node.js addons in Electron's renderer with Webpack

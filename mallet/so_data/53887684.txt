@@ -1,1 +1,1 @@
-i am tri to write electron program for creat and configur multipl apach websit sites. but my problem is that i need to read from and write to file that are own by root user. such as /etc/hosts, etc/apache/sites-avaliable/mysite.conf. my program work onli when i run it as root from terminal. but when i packag it. i cannot launch it as root user. there as some pakag as sudo-prompt - npm. but they accept onli termin commands. but i want to use nativ node function for access file system such as
+Run node command a root in electron app

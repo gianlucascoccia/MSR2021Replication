@@ -1,1 +1,1 @@
-i'm mess around with electron, one of the thing i'm tri to do is monitor a directori for file changes, and send the full path of the file that chang to a browser window via ipc to a renderer. i know the file watcher is work sinc it log to the console, but the path never make it to the browserwindow. put log line in the render never log, and remot debug and step through the code, i can see it never fire off to the renderer. ani idea? i'm new to this javascript stuff so it probabl someth simpl i'm missing. thank in advance!main.js:
+Can't pas an IPC message to a browserwindow

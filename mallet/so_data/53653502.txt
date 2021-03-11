@@ -1,1 +1,1 @@
-i have a sdk that will communic with my scanner devic that is written in c++ language. i need to develop an electron app that can access the scanner device. i know there are mani librari avail for scanner but i want to use this sdk sinc it will allow me to access full featur of the devic and moreov it is provid by the devic manufacturer. so, is there ani way to implement this. pleas suggest me ani idea.
+Accessing an SDK that is written in c++ using node.js

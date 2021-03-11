@@ -1,1 +1,1 @@
-i am tri to move a contain div to the center of the screen. my applic use electron, vue, html,css. i tri the follow code
+Move div to center of screen of Electron/VUE application

@@ -1,1 +1,1 @@
-i have a singl page applic that right now run in a singl electron browser window. is it possibl to creat a second window that will run in the same javascript context as my main window? for example, i can direct creat element in the second window or attach event listen etc.
+Running two electron window with single JavaScript context

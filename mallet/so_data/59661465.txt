@@ -1,1 +1,1 @@
-i am tri to access .doe anyon know the problem?
+Javascript undefined field even though I can see it in developer tool (React & Electron)

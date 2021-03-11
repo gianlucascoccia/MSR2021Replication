@@ -1,1 +1,1 @@
-i am new in nodej and use mac os (mamp, localhost:8888), i have alreadi instal and i can execut program in terminal. but how to in build with html. can, we includ nodej as a extern librari like (jquery, bootstrap).
+Start nodejs in browser form begining?

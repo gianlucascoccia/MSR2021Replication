@@ -1,1 +1,1 @@
-what doe that i want to run.
+What's the difference between "./" and "../"?

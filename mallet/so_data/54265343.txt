@@ -1,1 +1,1 @@
-i am develop an electron applic to record input and output audio of the device.i there ani way to do that?currently, i am abl to record the input audio and for that, i am use navigator.mediadevices.getusermedia.i got to know that this api doe not allow to record output audio.
+electron framework: record audio for input and output voice

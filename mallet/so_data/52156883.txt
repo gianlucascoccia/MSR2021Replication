@@ -1,1 +1,1 @@
-i'm build an electron app, and in the renderer.j file, i'm use firebas admin to get firestor data. however, whenev i run it, it return this error in the logs..ani ideas? i'v been tri to solv this for hours, but can't seem to figur it out.
+Error with Firebase on Electron app: Failed to load gRPC

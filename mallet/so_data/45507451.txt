@@ -1,1 +1,1 @@
-i use electron 0.36.0 and i have a cooki for a page and this page has a nest frame with a differ domain.i need to somehow keep a cooki aliv when go to this frame direct (differ domain) and ideally, i want to avoid upgrad of electron (otherwis i would have to rewrit my code).what an ideal solut for my situat (it can be also a small workaround)?thank you!
+How to preserve a cookie between frame in electron?

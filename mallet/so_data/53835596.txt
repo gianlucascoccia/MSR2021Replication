@@ -1,1 +1,1 @@
-i am tri to store my creat file path after use savefiledialog, here is my code:what i want to happen is that after the user creat the file he would enter file path in the variabl path, is it even possible?
+Get created file's path from SaveFileDialog in electron

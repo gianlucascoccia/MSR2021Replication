@@ -1,1 +1,1 @@
-i am tri to make a new electron desktop app.bi the way, when i insert electron module, i get this error.if you are familiar with electron, can you help me to resolv this error?i alreadi tri to fix it.includ require.js.but not work yet.
+Electron.js Uncaught ReferenceError: require is not defined

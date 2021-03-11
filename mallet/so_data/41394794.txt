@@ -1,1 +1,1 @@
-i'm have troubl with use the "fs" modul of nodej in my electron app. it util aurelia and systemjs.when i doit give me this errorth app is base on the aurelia electron skeleton (esnext)https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext
+Access file system in SystemJS-based Electron application

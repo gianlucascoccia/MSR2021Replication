@@ -1,1 +1,1 @@
-i am tri to make an electron applic with angular 8. i follow along with this guid to do so. now i'm stuck at the part where i can make the main electron process communic with my angular project. i know i have to use electron ipcrenderer, but i can't import it to my angular service.i follow the exampl near the end of the guid i mention earlier, but my electron ipc never loads. the exampl on the malcod websit run an
+How do I communicate between my Angular 8 service and the Electron main process?

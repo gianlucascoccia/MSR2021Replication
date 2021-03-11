@@ -1,1 +1,1 @@
-i am build an app use node-webkit and angular-j and i am have the follow problem:th app work fine in chrome, but when compil into node, most rout lead to an file-list page. if i run the extern debugger, i don't get an error in the consol (use chrome devtools), howev i do notic that when i click a link it take me to "file://c:/#/link" rather than "file://c:/subfolder/subfolder2/#/link" like it should. do i need to tell node-webkit to set the correct base-url?a simpl exampl of my setup is:html:
+Angular JS & Node Webkit Routing

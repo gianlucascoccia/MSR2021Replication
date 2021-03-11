@@ -1,1 +1,1 @@
-i am new to electron. i have two html page and i want to open the second page when a button clicked. i have code this as follow, but i just get a blank window; not the second page.thi is index.jslogin is the id of the html button.i want to get the page two. how can i perform this?
+How to open update electron browser window with a new html file

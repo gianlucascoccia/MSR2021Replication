@@ -1,1 +1,1 @@
-i'm tri to finish up a small electron app that manag my files/ folder and i'v found out that it requir admin permiss to do so - that mean i need to use package, but is a pain when i need to run e.g. 3 command in a sequenc while do other thing in between - it ask for the password 3 times.
+ElectronJS - asking user for sudo permissions?

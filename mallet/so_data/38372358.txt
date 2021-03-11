@@ -1,1 +1,1 @@
-i am develop window desktop app use electron and vscode. i do not see ani intellis when i tri to use function from electron. my queri is,how to configur vscode to enabl the electron intellisense? in general i want to know what procedur i need to follow so that i can get intellisens featur in javascript code.
+Intellisense in VSCode for electron app development

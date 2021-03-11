@@ -1,1 +1,1 @@
-i am tri to remov the annoy titl bar menu drop downs. ani suggestions?i want to remov the items, not the entir titlebar.
+Are you able to change menu item on the electron titlebar

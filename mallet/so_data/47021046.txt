@@ -1,1 +1,1 @@
-i got this error when i tri to run my app. btw: if i tri with sudo everi think work.
+Electron App Error: EACCES: permission denied, open

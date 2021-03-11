@@ -1,1 +1,1 @@
-i am creat an app use electron and angular2. i want to provid a help link which i want to open in extern (default) browser of the user. how to do this?
+Open url in external browser in electron and angular2

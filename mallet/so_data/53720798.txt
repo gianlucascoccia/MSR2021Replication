@@ -1,1 +1,1 @@
-i am use a for execut oper on the same address.do anyon have idea how to do this.
+How to save pointer in JavaScript and retrieve further

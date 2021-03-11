@@ -1,1 +1,1 @@
-my code, in short, is.
+How to return a response and then redirect in nedb?

@@ -1,1 +1,1 @@
-i have an electron app that i have built. from my main process i open a new window with:whi cant i requir ipc from the file? i have other window i open and use ipc but it doesnt work for this particular window.
+electron app can't require ipc from html file

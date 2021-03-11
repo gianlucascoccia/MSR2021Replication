@@ -1,1 +1,1 @@
-i am creat an electron applic to run on my desktop. sinc i wont be run it from the consol i want to swap the standard run just fine so obvious it is a writabl stream instance. is this just an electron glitch or is there a way to fix this.
+logging the console to file in electron

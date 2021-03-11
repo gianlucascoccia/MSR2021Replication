@@ -1,1 +1,1 @@
-i'm tri to creat a custom protocol for my application, use electron.protocol module.but by do this, it onli work in the mainwindow(th first browserwindow created), if i creat a browserwindow after that, it won't register, and instead of intercept and show the custom html, it show the actual page.
+Custom electron protocol only work on mainWindow

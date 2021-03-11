@@ -1,1 +1,1 @@
-i have electron desktop app base on angular 8. my api is host in localhost. when app is send a http request, an error occur in console: fail to load resourc and unsaf port. error imagei disabl the websecur but it didn't fix the issue. here the config file of electron:electron configanyon had such problem with electron and request to localhost?
+Electron/electron-packager angular desktop app - http request to localhost server are refused and blocked

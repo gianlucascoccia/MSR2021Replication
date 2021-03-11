@@ -1,1 +1,1 @@
-with featherjs, i defin a user model like this:th joi valid is working, produc bad request error if the submit data is not valid.th uniqu index prevent user to creat an account with an alreadi exist email address, but it produc a basic 500 error instance, difficult to exploit on my front app.i there a way to handl uniqu valid with joi, or should i rethink my logic?note: i'm use nedb here, but move to mongo is also possible.
+Unique field validation with FeatherJS and Joi

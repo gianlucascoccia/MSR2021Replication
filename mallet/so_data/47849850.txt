@@ -1,1 +1,1 @@
-i'v start an electron project last month in which i use multipl png files.aft build my app with electron-build (settings: win 32 x64 nsis) and start my fresh built app i recogn that the png imag are missing.i'v also includ this snippet in my package.json:but it is still not working!thank for your help,aphi.
+.png Files are missing after build with electron-builder

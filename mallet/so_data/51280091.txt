@@ -1,1 +1,1 @@
-i have tri creat a new window but this allow the user to minimis the new window that creat and work with the origin code. it creat a new window when the user click on settings'.i will attach my code snippet down here:
+How do I create a new Window in electron j such that the original window is unusable until i close the new window?

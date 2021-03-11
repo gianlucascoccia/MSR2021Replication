@@ -1,1 +1,1 @@
-i'm abl to author the firebas app from my exist electron app use ani pointer on how to go about debug this would be helpful.
+Firebase Auth successful, but Database Ref set and update doe not happen in electron app version 1.4.2

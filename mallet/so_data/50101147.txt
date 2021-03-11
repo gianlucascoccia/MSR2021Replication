@@ -1,1 +1,1 @@
-typescript has a use compil option call issu #11 use tspath library, plain broken: issu #1
+How to configure Electron to use TypeScript's baseUrl

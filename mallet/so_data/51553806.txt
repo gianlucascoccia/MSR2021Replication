@@ -1,1 +1,1 @@
-i'm tri to connect to a machin with ssh via node js and electron. here is my example:however, i don't want to disabl this secur feature. i still want the prompt and the option for the user to say (yes/no) ani idea how i can get this type of messag into the consol log of my electron application?
+SSH command outputting to terminal but not console log in Electron

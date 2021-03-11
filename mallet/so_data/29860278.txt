@@ -1,1 +1,1 @@
-in order to get jqueri to load and function correct in a html page i was open in electron (former atom shell), i had to disabl node integr when creat the will keep me from be abl to do that i would normal be abl to do had i not disabl it?
+What's the outcome of setting node-integration to false when creating a new browser window in Electron?

@@ -1,1 +1,1 @@
-i have to develop a cross-platform desktop applic that will have a web interfac (electron js) and a c++ binari that will run in background when they will be call by the ui.i would like to know if is possibl to implement the "plugin architecture" in this case. exemple:mi futur folder structur should be someth like this:i possibl to do it use angular 8 + electron js?can angular dynam load extern html/js file and visual them in the dom?exampl image: a "step ui" is a "plugin ui" (html/css/js)
+Angular + Electron JS: Load external HTML file dynamicaly

@@ -1,1 +1,1 @@
-i am use this boilerpl to creat an electron-react app. the dev tool show up on the screen by default. how can i make the dev tool onli appear when i ask for them and not show up on launch?also, there are no error shown in the console, so the dev tool are not show up becaus there an error.
+How to make the dev tool not show up on screen by default : electron

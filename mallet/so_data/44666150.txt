@@ -1,1 +1,1 @@
-i'm tri to receiv the name of a new file from the front-end use ipcrenderer, send it to electron and use ipcmain to listen to this event and load a new view for the window. however, the loadurl re-rend the same view. i'v check and made sure that the correct name is sent back back and that the path to the file is correct. here is a code snippet of the two method calls:
+electron loadURL re-renders the same page

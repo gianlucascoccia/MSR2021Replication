@@ -1,1 +1,1 @@
-i am tri to packag a python binari execut with angular-electron on linux. i have follow this answer from stack overflow.bundl precompil binari into electron app.in main.t i have written this extra code snippet. i have place execut binari in node_modules/datapod/datapod and also symlink this path in node_modules/.bin/ folder.th content of the folder doe have externals/bin/datapod file but couldnt run.
+Packaging an executable binary with angular-electron

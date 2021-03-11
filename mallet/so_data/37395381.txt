@@ -1,1 +1,1 @@
-i am have an issu that i cannot run more then 115 instanc of nw-js. hardwar is not the problem, but it look like there is some restrict somewhere.do anyon know whi i cannot run more then 115 instances?
+Limit of how many nw-js instance can we run?

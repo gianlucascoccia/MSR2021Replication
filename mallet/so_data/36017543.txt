@@ -1,1 +1,1 @@
-i have this simpl app (node.js, electron, angular2, typescript) like you can find in ani tutorial.what is the best way to communic from angular2 to electron and back?let say you want to call a system dialog. how would you do that?thes are my main sourc files:mi main electron filemi main angular2 indexmi angular2 bootstrap filemi angular2 root compon
+What is the best way to communicate from Angular2 to Electron and back?

@@ -1,1 +1,1 @@
-we can't get electron+webpack+webtorr working. webtorr can't connect to the tracker. it fail with “no port specifi error”. specifi option remov error but doesn't help to download the torrent files. though webtorrent-desktop (without webpack) works. i found the differ as that work librari detect tcppool class present and use it, so it can automat assign torrentport. an applic built with webpack has it undefined. how to make it work?
+Can’t get electron+webpack+webtorrent working

@@ -1,1 +1,1 @@
-i am tri to scrape dynam content in node webkit by use phantom .i have ad phantomj to env variabl also.when i run the applic i get a version mismatch error:"uncaught error: modul version mismatch. expect 43, got 46."bi run nw:version i get the follow versions:nw.j v0.12.3 io.j v1.2.0 chromium 41.0.2272.76how should i get around this error?if you were abl to implement similar function use some other package, let me know.
+Using phantom on Node webkit

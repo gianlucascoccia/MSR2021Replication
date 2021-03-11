@@ -1,1 +1,1 @@
-i am use the https://github.com/mikaelbr/node-notifi packag to show notif in shell. this is my code:th notif come like this:a you can see a termin icon is come befor the name.can you help me how to remov that icon?
+Remove terminal icon in node notifier

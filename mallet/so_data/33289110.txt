@@ -1,1 +1,1 @@
-i am build an app use electron. in this app, i am build a data structur use json. my data structur look like this:so, how / where do i save json to the local file system for use at a later time?
+Saving JSON in Electron

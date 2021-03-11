@@ -1,1 +1,1 @@
-i'd like to log an event (ie, send it to my log server) when a user uninstal my electron app. is this possible? e.g., some kind of pre-uninstal hook?i'm use for auto update.
+Tracking electron app uninstalls

@@ -1,1 +1,1 @@
-so i am tri to get use to electron. i have an html tabl set up, and in a separ js file i have variabl that are taken from a form for the user. i need to figur out how to put these variabl into the html table.her is html :all help is appreciated!i am omit some piec of the file to save space
+How to put javascript variable into an HTML table from a separate Javascript file?

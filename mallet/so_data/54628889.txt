@@ -1,1 +1,1 @@
-i use vue-c to creat a vue app and then i ad electron(4.0.0) via a plugin call vue-cli-plugin-electron-builder. everyth is ok and work properly.th problem is with iohook which, as state on their documentation, has prebuild version for electron abi &lt;= 57 (in realiti it &lt;= 64). it seem that on my project it automat download and use as well, didn't solv the problem either
+Build iohook from source (with electron 4.0.0 and vue)

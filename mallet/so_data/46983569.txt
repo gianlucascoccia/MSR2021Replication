@@ -1,1 +1,1 @@
-i am rough follow this and this to emb a flask server into an electron project. if i
+Electron won't spawn flask-socketio server: ERR_CONNECTION_REFUSED

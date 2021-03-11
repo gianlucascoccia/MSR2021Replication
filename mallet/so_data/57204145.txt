@@ -1,1 +1,1 @@
-i'm tri to find ani npm packag or node addon to play ogg sound in a fork process.i have test some npm packag but i don't get ani success with this.i realli there ani way to play sound in a fork process of electron?
+Is there any way to play OGG sound in a forked process of Electron?

@@ -1,1 +1,1 @@
-i would like to monitor whether the user has copi someth to the clipboard while use anoth applic and then save what he or she has copi in my nodej (electron) application. how could i do this?a an example:th user use his/her browser and select a uri and then copi the url to the clipboard. i then want to copi the select url from the browser window and use it in my nodej application.i am use nodej with electron on osx.
+Accessing clipboard in Electron

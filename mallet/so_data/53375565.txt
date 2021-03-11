@@ -1,1 +1,1 @@
-i have aurelia, electron, and webpack work but i would like to includ the cdn version of syncfusion. in a normal web app you can just includ it in the html file but how do you includ it in an aurelia electron webpack app?in my
+How do you get syncfusion to work in an aurelia electron app using webpack?

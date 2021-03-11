@@ -1,1 +1,1 @@
-i want to pass the data from one js file to anoth js file here is my code:(react.js)what i want is that i need to return the data when call the function in react, what happen here is that in my consol it show the data, but in react the data is come as empty, i.e the data is not return correctly. can ani one give solut for it?
+How to pas the data from one j file to another react.js file

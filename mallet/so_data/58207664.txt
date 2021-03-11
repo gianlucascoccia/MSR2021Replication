@@ -1,1 +1,1 @@
-i have delet my electron .ex file and i figur out if it possibl to rebuild one from the resourc filesthi is my main folder!https://imgur.com/45gilxaand the resourc folder!https://imgur.com/gsjgxhvthank in advance.
+can I rebuild an electron from a resource folder

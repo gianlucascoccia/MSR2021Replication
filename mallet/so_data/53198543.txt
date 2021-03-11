@@ -1,1 +1,1 @@
-when i am use the without electron it work like a charm but when i am tri to do hash with electron it not work at all i just even requir
+Node.js bcrypt working when normal but not working when using with Electron

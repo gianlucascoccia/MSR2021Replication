@@ -1,1 +1,1 @@
-the main window of my electron app doesn't respond to ani actions, as if it has a transpar overlay. all element are rendered, but i can't press ani button or write in input.thi happen onli on window and onli when the ani suggestions?
+Can't interact with frameless, transparent BrowserWindow

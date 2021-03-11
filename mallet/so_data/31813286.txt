@@ -1,1 +1,1 @@
-i'm current tri to extract the latest version of electron for mac use adm-zip with nodejs. in the framework folder, electron has symlink to other frameworks. howev when extract with adm-zip the symlink are save as text file instead, break the application. am i miss something?
+Extract zip that contain symlinks

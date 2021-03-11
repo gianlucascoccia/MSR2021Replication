@@ -1,1 +1,1 @@
-problemwhen work with electron and vscode, i'v had a few syntax problem in code but no errors/warn show up in either vscode debug consol or the electron chromium consoles. with the electron chromium console, i have made sure that i enabl all levels, and 's tab page is support by the debuggers. the abov exampl appli to those tab js code. i don't know whi yet, but at least this is a crucial detail. next, i'd love to know if ad more page will make a difference.
+Electron/NodeJS/VSCode: What kind of syntax or infrastructure problem won't show in Debug Console?

@@ -1,1 +1,1 @@
-i'm tri to publish my electron application, so, i ad publish to package.json and now it look like this:ani idea whi am i get that error?
+Publishing an electron application fails with: Error!! TypeError: Cannot read property 'provider' of null

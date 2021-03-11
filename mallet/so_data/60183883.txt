@@ -1,1 +1,1 @@
-is there a way to identifi which window emit the event use ipcrenderer, in order to subscrib this window listen to extern events?th event handler look like this:but this solut is not work for me, becaus the script pass to this method is execut after script link in html header.i there anoth way to select browserwindow name or identifi one?thanks.
+ElectronJS. Set Window name or identify which window emitting the event

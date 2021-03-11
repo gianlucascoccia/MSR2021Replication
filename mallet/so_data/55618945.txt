@@ -1,1 +1,1 @@
-we have an electron app and want to load the render bundl use what set am i miss on the electron side (or webpack side) to get this working?
+Electron load index.html but not the rest of the bundle file

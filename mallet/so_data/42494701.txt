@@ -1,1 +1,1 @@
-i'm tri to download file to the filesystem in an electron app. my code, in the main thread, look like this: line in the code. i'v tri the solut offer in about a dozen other similar stackoverflow answers, but none have fix the problem.what go on here?thanks.
+Electron app createWriteStream throwing ENOENT error

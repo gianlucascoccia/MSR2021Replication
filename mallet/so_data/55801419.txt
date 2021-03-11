@@ -1,1 +1,1 @@
-my electron app is watch a certain folder use the
+NodeJS / Electron detect if a file is being copied from a specific folder

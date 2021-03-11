@@ -1,1 +1,1 @@
-i am work on an electron test applic for windows.th goal is an auto launch applic which display a popup messag everytim the window user log in.scenario:i'm execut result in a complet unexpect output.
+Electron auto launch packaged application start welcome window

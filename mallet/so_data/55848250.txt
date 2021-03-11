@@ -1,1 +1,1 @@
-i have develop a desktop applic base on electron framework. i have load my websit insid the browser window. the websit will display notif to the user.in chrome i have an option to request permiss from the user to display notif or not. by use notification.requestpermission() i can display a popup to request permiss from the user for notif to display or not.th same way i need to display the same popup to toggl notif permiss from "granted" to "denied".suggest me how to enabl this featur in electron application.
+How to toggle Notification.permission in electron application?

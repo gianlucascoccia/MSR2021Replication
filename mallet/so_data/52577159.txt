@@ -1,1 +1,1 @@
-i'm work on a project in js(electron,node.js)that need to check if a key in the window registri is present.her is my code:(???,should be true)so yeah,do you guy know how i can fix this?
+The return keyword act strange

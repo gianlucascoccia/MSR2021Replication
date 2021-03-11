@@ -1,1 +1,1 @@
-i start experi with nwjs ( node-webkit ) .but i seem to be do someth wrong i have 2 file in a folder :index.html i zip up both file at one ( i don't zip the folder ) and i renam the extent from .zip to .nw but noth happen when i tri to open it with the nwjs app . i'm work from a mac if that could have someth to do with it ?
+node-webkit won't run project file

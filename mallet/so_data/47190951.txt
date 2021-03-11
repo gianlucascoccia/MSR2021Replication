@@ -1,1 +1,1 @@
-in my menu.j under "label:'database'", the click event return an error: ipc is not defined. i thought that if this is part of the main.j file and that if i alreadi have a const declar as ipc global then shouldn't js look scope abov and find ipc?main.js:note: my menu show up just fine. the error onli occur if i click on database.
+Electron menu keep saying that ipc is not defined when clicked even when the ipc is assigned globally in main

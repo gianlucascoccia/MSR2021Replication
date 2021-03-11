@@ -1,1 +1,1 @@
-what is the best way to convert a chrome app to a standalon app?i have creat a beauti chrome app that i plan to convert into a mobil app use cordova phone gap and now i sudden was request for a standalon window app for none chrome user.
+The prefered Convert chrome app to a window application

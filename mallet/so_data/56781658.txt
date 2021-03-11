@@ -1,1 +1,1 @@
-i integr angular project to work with electron. the angular project is run with featur from angular with electron.
+use API from proxy.conf.json with angular-electron project

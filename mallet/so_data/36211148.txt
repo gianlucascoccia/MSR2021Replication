@@ -1,1 +1,1 @@
-i would like to receiv binari data (like .pdf or .doc) from a tcp socket, here is the code :to send the file : and save the file after sinc i don't know which packet is the last one...thank you
+Receive large binary data from socket in Nodejs

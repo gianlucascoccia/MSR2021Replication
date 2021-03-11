@@ -1,1 +1,1 @@
-i have a page html1.html with the modul mod1but angular doesn't find the modul mod1. what am i missing?*both html1.html and html2.html are render from the same electron main applic
+angular, how to combine module

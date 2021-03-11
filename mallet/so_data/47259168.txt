@@ -1,1 +1,1 @@
-when we minim the application, how reactiv the window by use tray menuthank in advance!!!
+Electron app reactivate window using Tray Icon

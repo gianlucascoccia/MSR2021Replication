@@ -1,1 +1,1 @@
-i am tri to build an app with electron,for that, i disabl the window frame to make my own frame navig (fullscreen, minimize, close etc)..sinc i want to have the menu which replac the default os frame navig on everi window, i want to make one html file which contain the whole html for the navig and import that file in everi html file.in jqueri it would look like this: is dead in 2020 sad ..
+Import/Load HTML in HTML using JS/NodeJS/Electron

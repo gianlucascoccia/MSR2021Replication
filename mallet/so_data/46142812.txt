@@ -1,1 +1,1 @@
-the document say "check your proxi set for bypass localhost" but doesn't provid context. i can hit execut insid the .app package.i copi over chromedriver, minidump_stackwalk, nwjc and payload from the nwjs sdk build too.i get a crash when i run the app. https://gist.github.com/quantumproducer/4a03b6abc8e7401a3633824edae62c54
+Unable to "inspect background page" with nw.js, debugger show empty screen

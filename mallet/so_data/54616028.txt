@@ -1,1 +1,1 @@
-is there a way to run an electron app ui on a differ port? i have an app server (wildfly) run on port 8080 and when i start the electron app the app server default page is shown within the electron app window. i believ that electron run on port 8080 in the background. is there a way to chang that to i.e. port 9000?
+Run Electron UI on different port

@@ -1,1 +1,1 @@
-i am tri to pass an object back to the render use postmessage().th code resolv fine and creat my object after a seri of fetches.when i tri to resolv res, it alway come back as an array with length of zero. on some attempts, i receiv a # could not be clone error.i'v tri to visual what i could be do wrong with no success. could someon help me to be abl to take the promisevalu and post messag it back to the renderer.
+How to use postMessage with the result of a promise in JS

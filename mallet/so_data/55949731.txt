@@ -1,1 +1,1 @@
-i'm use electron-vu to build a vue electron app. i am also use vuetifi which i am follow the manual instal process,in dev, initi everyth work fine and i can run my app and add vuetifi components, no problem.then i run a build, when i open the built version of the app i have a consol warn from vuetifi but all comment relat to run tests, not build electron. need help please.
+how to use vuetify with vue-electron?

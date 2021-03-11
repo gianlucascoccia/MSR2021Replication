@@ -1,1 +1,1 @@
-my electron desktop app load an angular app into a browser window. that angular app has a button that should open a new websit (let say google.com as an example). when i use the follow code...th app open a new electron browser window. i want the window to open in a nativ browser window (chrome, firefox, internet explorer, etc). can this be possibl within an electron app?
+window.open() open a new electron browser window instead of native browser window

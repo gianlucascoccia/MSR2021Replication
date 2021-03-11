@@ -1,1 +1,1 @@
-i am use electron builder to creat a build for my app. i want an accept term and condit window will show with checkbox and if user select checkbox and click on continu onli then app will get instal otherwis exit the installation.how can i do it in electornjs.
+How to show accept term and condition window after click on application exe file

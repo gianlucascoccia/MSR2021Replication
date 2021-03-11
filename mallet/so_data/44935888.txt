@@ -1,1 +1,1 @@
-i'v seen the following: webrtc log to an endpoint bake into the app. the idea is that i can enabl non-techn user to share technic log with me through the click of a ui button.how can this be achieved? note: this should not be depend on chrome; chromium will also be use as the app will be wrap up in electron.
+Enable user of a WebRtc app to download webrtc log via javascript

@@ -1,1 +1,1 @@
-i have creat a veri simpl node.j express application.it load about 1 gig of json data into a memoryon nedb database.so i'm wonder what happen when i tri to run this in production?i don't know how express is deploy but presum use some sort of web server that execut multipl express processes?i am wonder if this mean that each process will have it own one gigabyt nedb databas in memory?i there a way to configur such that the one nedb databas is share amongst all the node.j express processes?
+Understanding resource usage with node.js, express and nedb

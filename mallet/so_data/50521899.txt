@@ -1,1 +1,1 @@
-i'v recent tri to use electron-dl to handl content updat of my electron app. i'm tri to show the download percentag to the user in render process but i couldn't find the right syntax to send it from the main process.mi current code is:main process:i don't know how to send the progress to the render process.ani help is appreciated...edit 1:i found that the problem is that the onprogress paramet is not read as a function in main process. doe anyon know a workaround?
+Sending progress to renderer process in electron-dl

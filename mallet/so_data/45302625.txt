@@ -1,1 +1,1 @@
-i am tri to get a file locat as a variabl in nw.js. i have this code from the nw.js doc but can not figur out how to use it to return a file location. do i need to write a script to use the id “filedialog” to get the result? https://github.com/nwjs/nw.js/wiki/file-dialog
+How to get file location a variable in NWJS

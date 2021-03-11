@@ -1,1 +1,1 @@
-i have just start with node-webkit and i have an issue. i have code my code below but noth is display and no file is creat which i declar to be created. i have npm instal fs and os but still no luck. i open it by drag the project folder into nw executablepackage.json:
+Node Webkit: Nothing displaying?

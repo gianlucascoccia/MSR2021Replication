@@ -1,1 +1,1 @@
-i have creat a payrol webapp and have use mysql and node js to build it.th problem is that i am not sure how to convert it to a desktop webapp.i have use the node-mysql modul for this, so do i need to chang someth nowor just convert it use node webkit?how doe this work, really?her what my server.j look like now. so , do i need to make ani chang to the code again? could you tell me how to convert this to a desktop app?
+want to convert my webapp to desktop app with data persistence

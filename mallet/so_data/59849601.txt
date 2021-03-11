@@ -1,1 +1,1 @@
-i am tri to updat an
+Example of BrowserWindow.capturePage() using Promises?

@@ -1,1 +1,1 @@
-just start today learn node.j + electron. i' am have difficlti in figur out what wrong with the follow code.in the consol i' am get the follow error
+Cannot load local file

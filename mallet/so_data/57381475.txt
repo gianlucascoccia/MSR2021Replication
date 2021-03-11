@@ -1,1 +1,1 @@
-i have packag electron app for window platform, it work as expect in local machin but i tri to same app in azur vm( same os), it show onli blank screen and disappears. i am not sure, whi same app work in local machin and not in vm have same os.imgif ani of you had similiar issue, pleas help menot :this is singl core processor
+Not able to run Electron app inside azure VM

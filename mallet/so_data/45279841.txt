@@ -1,1 +1,1 @@
-i am use electron-build to build a desktop application. i use below configur in how can i set electron build version?
+How to set date a electron build version?

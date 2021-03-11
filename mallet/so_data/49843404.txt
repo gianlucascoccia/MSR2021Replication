@@ -1,1 +1,1 @@
-i'm tri to build a simpl weather app.i have two render process 1. ?
+is there any way to send async message to every renderer process in electron?

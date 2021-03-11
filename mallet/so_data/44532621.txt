@@ -1,1 +1,1 @@
-i have an imag file in the same directori as my login.vu compon (which is where the follow code is located). but, when i tri this code, the imag will not load:i'm get this error: fail to load resource: the server respond with a status of 404 (not found) this is strange, becaus i can see in my termin that my imag is in the same directori as login.vue. i am use webpack to compile. what might be caus this?
+Background image not loading in Electron Application

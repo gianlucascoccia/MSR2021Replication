@@ -1,1 +1,1 @@
-i'm experi elm 0.19 with electron build a simpl elm app (base on the counter example) in electron. when i run
+Cannot read property 'Elm' of undefined while using Elm 0.19 in Electron

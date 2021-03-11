@@ -1,1 +1,1 @@
-i'm make an electron project but i'm have problem with the search function and i can't find a solution, hope you can help me.i made a simpl search function where a tabl is fill with the results, it work with the
+How can I make my search function case insensitive?

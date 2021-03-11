@@ -1,1 +1,1 @@
-i see this is becaus of node-modul and applic is packag with some unwant stuff for running. current file size is 600 mb but i want it to be less than 200 mb.i suspect --no-prun popul all the node-modul in packag that is built, but i need onli specifi node-modul in the packag that is builti tri remov unwant packag in package.json, it doesn't help me eitheraft refactor
+How to reduce Electron package size that exceeds more than 600 mb

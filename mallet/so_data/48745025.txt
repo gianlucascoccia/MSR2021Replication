@@ -1,1 +1,1 @@
-i want to build a window app use electronj framework. the main featur is to monitor user process list in windows. for example, if app find example.ex it will make api request on my server. now i can't find ani specif inform how exact it is possibl to do with electron. can anybodi pleas tell doe it make sens at all to start work with electron in this case?thanks.
+is it possible to track process in window with electron js?

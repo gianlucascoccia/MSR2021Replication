@@ -1,1 +1,1 @@
-i'm veri new to electron and i have creat this dumb demo app.it work fine if i run it with ? thank in advance!
+electron-packager: How to include specific node_modules in dist?

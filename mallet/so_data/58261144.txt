@@ -1,1 +1,1 @@
-when tri to open the window from the menu, an error like this come up: "attemp to call a function in a render window that has been close or released", but the other window are call without ani problem. when tri to call the function "addbrowserwindow()" the abov mention error is shown
+Open new window from Menu

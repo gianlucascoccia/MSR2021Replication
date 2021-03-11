@@ -1,1 +1,1 @@
-first one will give the cannot read properti fn of undefin error on bootstrap.second one wont.i have tri with mani differ version of jquery. i'm use electron and nodejs. the version that i'm use right now of jqueri is correct detect and is the same as the googl one.jqueri is instal in nodejs.
+Bootstrap doesn't detect JQuery unless I import it from url

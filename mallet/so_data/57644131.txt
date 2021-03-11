@@ -1,1 +1,1 @@
-i'm make an electron app. at the start of the index.htm file i have these lines:but it chang nothing. what the problem?
+Can't load bootstrap JS into an Electron app

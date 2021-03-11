@@ -1,1 +1,1 @@
-i'm write a debugg tool use electron (i'm creat my own ui, so i don't use the built-in devtools).i'm use i don't receiv ani debugg relat event to it nor can i access it (i can access it when i use devtools, but i not use the debugg instance).how can i access and control my web worker with the debugg instance?edit: i'v setup a demo project to demonstr the problem: https://github.com/giladno/electron-quick-start
+How to debug web worker script under electron?

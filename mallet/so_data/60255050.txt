@@ -1,1 +1,1 @@
-i am use electron showopendialogsync successfully, but i have a minor issue. i want user to be abl to chang the root directori for, say, a librari from a set of libraries: show the path to the parent folder of the default selection, with the default select select instead of open the full path of that default selection.
+Programmatically set item selection in showOpenDialogSync

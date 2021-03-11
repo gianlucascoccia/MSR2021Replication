@@ -1,1 +1,1 @@
-i came across this error upon download a compon for vue, after run the serv command in electron, the error below come up. first-tim encount this error.i'v tri chang the script serv in package.json like this "serve" : "node --max_old_space_size=4096 node_modules/.bin/vue-cli-servic serv --open" but still no luck
+Error when running npm run electron:serve

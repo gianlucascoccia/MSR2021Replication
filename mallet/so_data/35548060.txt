@@ -1,1 +1,1 @@
-angular load some font when starting.when i start nodewebkit and i'm offline, it seem that tri to load the font slow down the app...can i hold this font offlin without loading?or angular alwasi watch onlin for this fonts?thanks!
+Add font for offline usage in angular?

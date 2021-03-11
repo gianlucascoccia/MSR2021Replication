@@ -1,1 +1,1 @@
-is there a way to communic between the webview and the main window without enabl the remot modul ? when this attribut is fals the guest page in webview will not have access to the remot module. the remot modul is avaiabl by default. https://electronjs.org/docs/api/webview-tag#enableremotemodul
+Comunication between webview and main window without remote module

@@ -1,1 +1,1 @@
-i'm tri to navig to app.j from login.j upon success authentication. i was abl to do this relat easi use router v3 and browserhistory. i'm not realli sure how to navig page use router v4 as their methodolog seem to be veri differ and the previous method i use no longer works. i tri referenc this post navig programat in react-rout v4, but the suggest didn't work for me. ani advic on how how i can travers page in my app with v4?this is an electron appindex.j
+Navigate to page after authentication using React Router v4

@@ -1,1 +1,1 @@
-i'm tri make crud oper in contain more object in each element.whi this happens? how to can i resolv this problem?
+Why data received is different to sent by Electron event?

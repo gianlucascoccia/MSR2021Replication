@@ -1,1 +1,1 @@
-i am tri to creat an invoic in xero and then get a pdf version upload onto mongodb through my pars server.i am authen xero in an express app in the main.j of my application.when i save the invoic pdf to pars it is reject as schema mismatch, expect file but get object', what am i miss in my code to creat the pdf version?
+Xero-node get invoice a PDF

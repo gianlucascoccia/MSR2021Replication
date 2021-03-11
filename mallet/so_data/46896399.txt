@@ -1,1 +1,1 @@
-i'm write a desktop app use electron and i find that there are differ behavior that are commonplac in a browser that i would not like present in a desktop app.(eg. drag-and-drop file to load in electron window; user-select; ctrl+r to refresh; etc.)i know how to disabl these but how do i know i'v gotten them all? is there are way to just disabl everi user-interaction? otherwis there might be one i'm not think of that could potenti mess up the application.
+Is there a way to disable all browser-like behavior in an electron app?

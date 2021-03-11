@@ -1,1 +1,1 @@
-how to forc the file dialog window to be alway open on the top until the user choos a file or close the window? the user should not be abl to navig to other window in the application.
+Electron: File dialog window should be focused until decision

@@ -1,1 +1,1 @@
-is there a way in electron to tell if a window was not success closed? handler, can the window still fail to close, or can i be sure that a messag will alway be sent to the guest page?
+How to tell if a window failed to close in Electron?

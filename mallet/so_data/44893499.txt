@@ -1,1 +1,1 @@
-i am tri to instal this electron project. it use the two package.json structur and is written for electron 1.7.2. all of the depend instal fine and the setup instruct includ run electron-rebuild, which also run without complaining. however, when i run .i'm a web guy and have no real electron experience. system: ubuntu lts 16.04
+Native node module for Electron project compiles against the wrong version of Node.js on Linux

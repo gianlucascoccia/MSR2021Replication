@@ -1,1 +1,1 @@
-i'm tri to build an app use electron, it design to get a gui later but for now i'm just tri to do this: " log, but when i type someth in my shell, it not return to me as i need it to be by the readlin module.am i miss someth ?
+Electron Readline

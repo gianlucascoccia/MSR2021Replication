@@ -1,1 +1,1 @@
-as there are so mani layer involved, i'm a bit lost in how to resolv the follow (on linux) ...today i start to encount failur with . issu ticket filed.
+Electron NPM install-app-deps electron-gyp (boilerplate hell)

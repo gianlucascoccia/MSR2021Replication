@@ -1,1 +1,1 @@
-typically, in an electron app, you can error.
+require() node module from Electron renderer process served over HTTP

@@ -1,1 +1,1 @@
-i encount an error when i tri to import the is work fine)wher doe that problem come from and how can i fix it?
+require vm2 using electron and webpack

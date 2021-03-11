@@ -1,1 +1,1 @@
-i can load , and i don't know why.
+electron: Can't load http://localhost:8080

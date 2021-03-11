@@ -1,1 +1,1 @@
-my os - linux ubuntu 16.04 and i have the desktop applic made with electron-vuefor example, i want to add button with function of send data to arduino uno by serial port. but i cannot import serialport modul to my vue component. also, i tri to use serialport-electron module, but result is the same. is there ani way to solv this problem? i think that my code is not import here, but if somebodi will ask, i will attach it to this post. thank you
+Serial communication with arduino from electron-vue

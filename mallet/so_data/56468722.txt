@@ -1,1 +1,1 @@
-i'm have a problem import modul in the render process becaus of my project structure..th onli work around that i have found was to move all my html file into the same folder as the javascript files, which i would like to avoid.
+Electron: Importing Modules in Renderer

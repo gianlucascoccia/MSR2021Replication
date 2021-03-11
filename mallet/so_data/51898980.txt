@@ -1,1 +1,1 @@
-in this definit file, the return type of the
+How to access electron-settings unexported interface and type

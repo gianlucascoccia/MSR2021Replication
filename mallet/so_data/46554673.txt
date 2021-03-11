@@ -1,1 +1,1 @@
-i am get the below error when tri to retriev a token in firebase:
+Electron - Unsupported Browser for Firebase

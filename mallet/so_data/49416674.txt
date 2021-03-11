@@ -1,1 +1,1 @@
-i'm tri to develop an electron applic that support a basic plugin architecture. the method that would do what i need, but it load html from a server only, as far as i can see. and i want to load it from within the electron application.ani ideas?disclosure: i post this messag previous on the atom discuss board here, but hope to get a better respons from the so community.
+Load HTML fragment into Electron

@@ -1,1 +1,1 @@
-i have a simpl electron applic which save current load html to pdf. for that, i'm use platform. here is the complet crashlog.rtf
+Electron application crash just after window.print()

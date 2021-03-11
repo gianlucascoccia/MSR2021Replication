@@ -1,1 +1,1 @@
-i have made a chat client with socket.io and express.now i want to deploy it as a desktop app.i mention i dont want to use heroku.i general use node-webkit to deploy app so how do i use it in this case.th app start with command "start": "node app.js".pleas help.
+How to deploy a chat client made in socket.io?

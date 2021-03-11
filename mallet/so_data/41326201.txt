@@ -1,1 +1,1 @@
-are there ani newer tutori on port my alreadi complet angular2 app with plenti of router compon and services? i have been work on this for liter 20 hour straight with out get anywhere. pleas lend me a hand. the older tutrori have either deprec way or doe not incorpor routers. i tri use the popular tutori from https://auth0.com/blog/angular-2-series-part-4-component-router-in-depth/and http://tphangout.com/angular-2-desktop-apps-with-electron/thes did not help me though. ani other ideas?
+Directions on porting my angular 2 app to electron

@@ -1,1 +1,1 @@
-i want to run docker command (main docker build and docker run) from a downloadable, desktop applic (an electron application), like by access the docker api. however, rather than have the user download both the docker client and this application, i was wonder whether there was ani way to bundl both in the same install?
+Packaging Docker with an application

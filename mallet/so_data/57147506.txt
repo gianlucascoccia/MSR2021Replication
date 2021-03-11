@@ -1,1 +1,1 @@
-ok i'v got an electron app (5.0.6) which reli on grpc node lib.dev build work fine.prod build, however, fails. i can run a success prod build and creat a window installer, mac dmg etc. but when i start the app, onli a blank screen appears. and i get this error:thi file exist in node_modules, it use by one of the depend (protobufs.js).th same code run fine with dev builds. but it alway fail in product (on all platforms)how can i solv this? is this caus by the asar archiv the prod build creates?thank in advanc
+grpc fails to load in electron - could not locate proto file

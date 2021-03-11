@@ -1,1 +1,1 @@
-i got an angularj control use in node-webkit app, how to call db.js ' save_db from angular controller? code as follow, thanks:
+how to communicate from angular's controller to other module in node-webkit?

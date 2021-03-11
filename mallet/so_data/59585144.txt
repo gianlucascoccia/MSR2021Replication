@@ -1,1 +1,1 @@
-i have the follow form built with xel toolkit: element and click it, the form will be submitted.how can i submit the form the same way like in html (press return in the input or click the submit button) but use the xel toolkit?i use this in the context of the electron framework.
+How to submit a form with Xel Toolkit?

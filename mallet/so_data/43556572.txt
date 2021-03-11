@@ -1,1 +1,1 @@
-mainhtml: for each element in html itself which works. wht i am do wrong here?... or is it possibl in anoth way.
+Electron - Unable to use Js/Events/Jquery after loading Html

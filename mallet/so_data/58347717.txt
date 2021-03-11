@@ -1,1 +1,1 @@
-electron version: 2.0.0.beta-7 (nuxt js template)i want to add button to thumbar. imag appear, but click() function doesn't working.mi code is simple:what i should to do?
+Electron doesn't fire click() on setThumbarButtons

@@ -1,1 +1,1 @@
-i am a japanes web develop beginner. i am not good at english, sorry.i can't creat .db file.i am use vue-cli3 and electron-builder.https://github.com/nklayman/vue-cli-plugin-electron-builderani solutions?(t_t)a similar question.https://github.com/louischatriot/nedb/issues/531but i can't find webpack.config.js.(t_t)
+cannot create .db file by with nedb

@@ -1,1 +1,1 @@
-pleas help me to fix this issu here some code exampl .
+electron app.on() undefined error , how to fix it ?

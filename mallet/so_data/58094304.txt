@@ -1,1 +1,1 @@
-i'm use electron boilerpl librari librari and use yarn packag manager.yarn dev command work fine. but when i tri to make a packag via yarn packag it doesn't pack and doesn't put file to release. show someth like that:i don't know whi this happen. it was packag befor 1 week ago, what have i done wrong?
+How to fix Nodejs Electron package error?

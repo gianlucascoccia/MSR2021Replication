@@ -1,1 +1,1 @@
-when ip or domain is wrong in request use fetch in javascript is there ani solut ? to handl stop request if ip or domain is provid wrong.var ip_or_domain=192.168.1.1
+how to handle if ip or domain are wrong in fetch in javascript

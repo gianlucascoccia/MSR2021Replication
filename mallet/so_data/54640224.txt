@@ -1,1 +1,1 @@
-i have in one compon this:so, question is how to pass ani form of data from one window to another?
+How to send data from one Electron window to another with ipcRenderer using vuejs?

@@ -1,1 +1,1 @@
-i want to initi a global variabl and then use it in a function to comput the number of click and then use the comput output in anoth function insid a for loop to set the max limit i.e.
+How to use Global Variable in a function and then use the output of the function in another function

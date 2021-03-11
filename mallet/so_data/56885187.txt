@@ -1,1 +1,1 @@
-i'm build a webview extens on visual studio code for my web app and i'm do some cryptographi manipul use the browser window.crypto lib.i would like to do the same thing insid my vscode extens but i can't find the crypto librari nor the dom window. i know that it run under electron which use chromium so i thought there might be a way to access this library.
+How to access window.crypto in vscode extension (electron)?

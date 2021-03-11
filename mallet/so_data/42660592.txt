@@ -1,1 +1,1 @@
-i'm build an electron app design to run full screen on an ms surfac tablet. the app need to function with the attach hardwar keyboard, and with the onscreen "soft" keyboard. the problem is that the soft keyboard is often display over the field be edited! how do i prevent this? it doesn't look like the viewport is resiz like it is on mobile. doe the keyboard show emit ani kind of event i can catch and chang the size of or move my form to accommod it? thanks.
+How to detect window soft keyboard in electron/chromium app?

@@ -1,1 +1,1 @@
-i am develop a simpl test app to experi with the function of node.j and node-couchdb in electron.js. i am use express.j to manag the server and the routes. in my case i have not use ani templat engine, i'm onli use html. i am abl to:display all the doc on the first page use
+How to get each document in node-couchdb dynamically?

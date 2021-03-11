@@ -1,1 +1,1 @@
-hy, i make a node.j applic and i have a problem with bootstrap-tour.i have two file thank you.
+node.js electron bootstrap-tour popover is not a function

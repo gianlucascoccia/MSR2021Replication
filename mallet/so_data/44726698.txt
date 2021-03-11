@@ -1,1 +1,1 @@
-i'm tri to creat generat a pdf document in my electron application. when the user select a json file i want to pars it and creat the new pdf document. i'm get a error when tri to creat the document.error
+Using jsPDF with Electron

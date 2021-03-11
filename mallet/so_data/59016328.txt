@@ -1,1 +1,1 @@
-i was run an electron project, and everyth work just fine. but now when i run ani of the script in my package.json (includ npm start), it just escap a line and doesn't do anything. my package.json:i tri updat npm, didn't work. when i tri in differ projects, also doesn't work.thank in advanc
+NPM run * doesn't do anything

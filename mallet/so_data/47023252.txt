@@ -1,1 +1,1 @@
-how can i resolv this problem. i guess it about tray or something. i tri a lot of things. also i`v took a look this : https://github.com/electron/electron/issues/7657 but i could not find a solutioni`m shere with you my electron side code&#xd;&#xd;&#xd;&#xd;&#xd;
+I got this error after package "Error: EACCES: permission denied, open "

@@ -1,1 +1,1 @@
-i am work on simpl nodewebkit project and i want to do this with a remot database. what is the best and most secur way to connect remot to an sql server?i alreadi check node-mysql and similar solut but it doesn't look safe to place databas connect credenti in a nodewebkit application.so what should i do to keep my sql server safe?
+NodeWebkit with remote MySQL

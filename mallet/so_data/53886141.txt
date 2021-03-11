@@ -1,1 +1,1 @@
-i found out that this plugin offer me some useful util but i do not want as a product deped to my built applic thus i instal it as: i assum that the depend will be instal on my product built app as well, a depend that is onli use for debugging, and that kinda sucks.
+Electon optionally load `electron-debug` on a production built app

@@ -1,1 +1,1 @@
-i'm build an electron app with a webview embed in it. just like this.index.html itself. no matter what i clicked. how to make it work?
+Get the clicked element inside webview in electron

@@ -1,1 +1,1 @@
-i have an applic build in nw.js. it almost done, but now face an issue. while on click nw.ex on code (development) it is open veri fast, within in 2 seconds. but when i creat a build use , it is take a lot time of time, say a minut to open and give a feel that app is open itself.th code base when built, the .ex is 21 mb size. appreciate, if some one could help me to understand whi this happen and what to make it open faster.
+NW.js - nwbuild not opening on window

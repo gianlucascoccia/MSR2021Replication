@@ -1,1 +1,1 @@
-i have been follow this https://github.com/ksasso/electron_shinyapp_deploy and was unabl to figur out how to add more packag to the standard installation. i have tri download the packag and place it in the librari folder and run r build and r instal but it did not find it on start up.
+How to install extra package in electron/shiny R-Portable?

@@ -1,1 +1,1 @@
-has anyon here got "electron" to work under tail distribution? or ani other download binari for that matter? i tri download the x64 binaryfrom the offici site, but it won't execut it:do tail somehow prevent download binari from executing? arether certain directori that don't allow executables? i am confused.i am use tail 2.11
+Has anyone gotten Electron to work in Tails?

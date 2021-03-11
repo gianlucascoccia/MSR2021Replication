@@ -1,1 +1,1 @@
-i'm beginn of electron and javascript(typescript). i'm tri to make electron app. i would like to import class and module. environment"electron": "^6.0.2","typescript": "^3.5.3"main.t ?pleas tell me how to solv this problem.
+Uncaught ReferenceError: export and require is not defined in Electron

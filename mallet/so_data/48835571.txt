@@ -1,1 +1,1 @@
-i am tri to open and save text file use electron. i am follow this tutorial: https://ourcodeworld.com/articles/read/106/how-to-choose-read-save-delete-or-create-a-file-with-electron-framework here is the code i am using: here is a gif of what happening: https://media.giphy.com/media/qf5rwe9enjrtwb6m02/giphy.gif whenev i click the button to choos a file, i am abl to click it but noth els happens. it will not let me choos a file to open. whi is this happening?
+Electron Javascript HTML Unable to open file

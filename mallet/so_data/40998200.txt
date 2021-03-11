@@ -1,1 +1,1 @@
-i'm current work on my thesi project which consist of an educ desktop videogam for public and privat school in my city.i also realli like electron so i thought it would be a nice idea to make my app use it, howev it here when the problem starts. my univers demand that all app must use a relat databas (sql) and not non-rel db like mongodb. sinc the databas i'll have it relat small i chose sqlite.for some reason i began to get a certain error:am i do someth wrong? pleas i realli need help.
+Need help for my thesis project: electron, express & sqlite3

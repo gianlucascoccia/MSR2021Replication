@@ -1,1 +1,1 @@
-how to access user camera from the main process (i.e. ) in electron, without open a window?
+How to access camera from Electron's main process

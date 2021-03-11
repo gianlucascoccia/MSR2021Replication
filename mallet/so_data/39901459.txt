@@ -1,1 +1,1 @@
-as doc are say the symbol file (.sym) can be extract from the download packages.a far as i understand from one of this http://nwjs.io/downloads/ or from one provid by the nw-builder. both have the same structur without ani *.sym files. and there is no clue how to extract them. nor in the doc nor in the www.
+How to extract symbol file for nw (node-webkit)?

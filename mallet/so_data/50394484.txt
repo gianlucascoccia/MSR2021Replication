@@ -1,1 +1,1 @@
-i am tri to show an imag from the web but it isn't working.in follow code work onli local image.i there ani chanc to get window 10 toast notif creat from an electron app work with web images?
+web based image not working in toast created by @nodert-win10/windows.ui.notifications

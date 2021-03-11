@@ -1,1 +1,1 @@
-im have troubl keep dynam ad tabl row in the html upon refresh, the applic succes store the inform in the local storag in dev tools, but doe not remain in the html. i have alreadi tri mani differ method to no avail, includ use electron ipc, and store in appdata through other electron modules, none of which have worked.html tabl
+Saving Dynamically Created Table Row Upon Refresh

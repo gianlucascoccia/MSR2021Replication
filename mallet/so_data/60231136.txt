@@ -1,1 +1,1 @@
-for example, visit instagram.com/direct/inbox/ give a 404 error but when you turn on dev tool "devic toolbar" and select a mobil device, instagram show me the dms page.i am tri to do this in a small electron app and i'v alreadi tri set the user agent to an ipad/samsung one but instagram still detect it not a real devic and still redirect me to the home page.thi is my code:am i miss something?
+How do I make my electron app behave like a mobile device

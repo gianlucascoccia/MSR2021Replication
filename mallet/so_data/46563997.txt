@@ -1,1 +1,1 @@
-the question is simple: how do i make method that should resolv this issue, sinc it accept a callback and return an observable. but i wasn't abl to use it properly. i realli need some help in understand this, sinc i'm not experienc with reactiv program and it all seem strang to me.
+Converting NeDB find() result to observable

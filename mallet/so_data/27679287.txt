@@ -1,1 +1,1 @@
-i have a filenam i split in part but for some reason there is one string in which i cannot replac one charact
+Why is this replace function not working for the string

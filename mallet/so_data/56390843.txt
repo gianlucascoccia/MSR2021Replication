@@ -1,1 +1,1 @@
-we are use electron builder with reactj to creat window applic our applic packag well in .ex with the help of electron-build but not abl to publish on window store even follow the guid provid by windows-electron-store.get error while execut this command:
+Electron window store build crashing

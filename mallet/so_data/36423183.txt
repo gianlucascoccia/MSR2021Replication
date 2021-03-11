@@ -1,1 +1,1 @@
-is it possbil to inject raw html code into a onli accept a file path.
+Electron: Inject raw html into BrowserWindow

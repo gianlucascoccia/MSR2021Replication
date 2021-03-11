@@ -1,1 +1,1 @@
-i have an electron app where i receiv some data from a camera via the serial port and then i display it use a canvas. i want to use bilinear interpol as the data receiv is onli 64 pixels. the problem that i have is that the interpol function is too slow and it cannot keep it with the data that is receiv via serial therefor it lagg and is not real time anymore. ani idea what i can do to make it faster? here is the function:
+Bilinear interpolation function too slow - Javascript

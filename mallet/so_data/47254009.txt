@@ -1,1 +1,1 @@
-i want to connect a standard zebra scanner to an electron ( node.j window ) application. i want to do it proper , not just set up as a keyboard input.i need some direct - mayb someth has been written ( no commerci product pleas ) thanks.
+How to connect barcode scanner in electron ( Node.js )

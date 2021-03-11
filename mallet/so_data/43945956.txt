@@ -1,1 +1,1 @@
-i'm use ts 2.3.x and webpack 2.x - this is an electron project which i'm slowli convert from js to ts.the gist of my webpack config is is referenced.
+TypeScript + Webpack 2 - imported module aren't showing up in bundle

@@ -1,1 +1,1 @@
-my question is how do i know if my app is close from the task manag in window or from system monitor in ubuntu(linux)?i logout user profil from the app when they close the app but that happen onli on close event. when i tri to forc quit app from task manag log out won't work
+check if app is force closed in electron js?

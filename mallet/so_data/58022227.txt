@@ -1,1 +1,1 @@
-tri to boot electron program with as a newer electron user, i have no idea what this mean or what to do about it.
+Unable to start Electron program

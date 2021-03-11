@@ -1,1 +1,1 @@
-i'm use https://github.com/naviapps/create-nw-react-app and can't run the test command (npm run test).her is the termin outut: doe anyon know what the problem might be?nod 9.2.0 and 8.9.2ubuntu 17.10
+Jest error: This promise must be present when running with -o

@@ -1,1 +1,1 @@
-i have been use webpack for the first time, start for a tutorial, but i'm stuck tri to deploy this to digit ocean.i have been run the server dure develop by type
+Deploying an app developed with babel-node

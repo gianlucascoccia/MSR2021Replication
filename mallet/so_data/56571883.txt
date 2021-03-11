@@ -1,1 +1,1 @@
-i am port an electron app from a tradit render + webview architectur to one that use to display them?
+Electron BrowserView Renderer process v WebView

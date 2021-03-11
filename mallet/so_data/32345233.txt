@@ -1,1 +1,1 @@
-i am develop a window applic use node webkit for serial usb connection.when i run the script use node command it give me exact output:. what am i do wrong?
+Creating node webkit installable

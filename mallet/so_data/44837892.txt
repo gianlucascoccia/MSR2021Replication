@@ -1,1 +1,1 @@
-i am use electron framework in node.j to creat a html5 canva game, i have map all of my resourc into atlas (one imag contain sprites). befor the game is start i want to load everi there is no html, if i go to sourc there is nothing. so how can i freez the browser until the imag / atlas is fulli loaded?
+Synchronously loading an image by freezing the browser

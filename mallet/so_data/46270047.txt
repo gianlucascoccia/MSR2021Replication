@@ -1,1 +1,1 @@
-i am tri to show dialog from render process. while googling, i found out that i have to is empti and it is result in an exception. i am not sure what is happen here. could some one pleas help me understand what happen and what am i go wrong here? i would also like to know how to display dialog from an electron/angular-c application.
+unable to display a dialog using remote.dialog() or do an IPC in electron/angular-cli app

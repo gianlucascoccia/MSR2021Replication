@@ -1,1 +1,1 @@
-i am learn electron and built my own "hello world" type applic that works. i start learn it like an hour ago so ani noob friend tip are high appreciated. i decid to includ angularj + angular materi to style it and see how it works. now my piec of code that send notif isn't working. that rais a question.how do i send click event from angularj to electron? here is the sampl code from all filesmain.j copi from get-start electron github pageif i remov angularj and materi the ctrl.js work and send notif just fine.
+How do I use eventListeners with Angularjs + Electron?

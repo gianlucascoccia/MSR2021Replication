@@ -1,1 +1,1 @@
-i'm tri to use this packag gm from node that also requir that i requir fs on the top. it was give me some error but i fix it ad this configur to my webpack.config file:now i'm use this in react, and it run in electron. is there anyth wrong with the code ? or is anyth i can do to make it work ?all i'm tri to do is crop a pictur give the start point and the are that i want to crop.
+gm library react/webpack issue

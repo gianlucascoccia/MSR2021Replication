@@ -1,1 +1,1 @@
-problem description:i use event as quick as possible) ?
+The electron crashed event of render process is triggered too late?

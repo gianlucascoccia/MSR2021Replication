@@ -1,1 +1,1 @@
-i want to develop desktop app use electron that use sqlite3 packag instal via npm with the command
+How to use sqlite3 module with electron?

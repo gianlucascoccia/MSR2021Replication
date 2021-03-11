@@ -1,1 +1,1 @@
-i am build a desktop applic use electron.in my app i have a window that set some user prefer such ass background color for my app.i want to be abl to show a select box which will contain all system fonts.i that possible?updatemi app is go to be cross platform so i would like a cross platform solut if possibl
+Get all system font electron j

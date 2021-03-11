@@ -1,1 +1,1 @@
-i would like to use electron for desktop in my ionic 4 application. but i can't get it work with cordova-sqlite-storag plugin. it seem like ionic is now recommend electron for ionic desktop, but some cordova plugin don't work.i use to code with sql.js but it doesn't support foreign key cascad delet and transaction/commit/rollbacki there a workaround to use cordova-sqlite-plugin with electron, or anoth way to use sqlite3 with electron and a ionic 4 applic ?
+Use sqlite3 in Electron with Ionic 4

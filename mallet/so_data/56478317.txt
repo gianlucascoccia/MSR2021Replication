@@ -1,1 +1,1 @@
-tri to store an object in indexeddb with have an array of imag path but that array is not storing. it alway stay blank. i am use react js with an electron builder for desktop applic and use indexeddb as a database. use an npm modul react-indexed-db for oper on a database.
+Store an array of image path in indexedDB

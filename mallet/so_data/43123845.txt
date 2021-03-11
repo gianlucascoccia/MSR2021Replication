@@ -1,1 +1,1 @@
-i'm tri to make a quiz game with electron, where client can open quiz page on
+Electron - Stand alone node j server

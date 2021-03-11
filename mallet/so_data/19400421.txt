@@ -1,1 +1,1 @@
-hi i'm write a simpl ember app that i run within a node-webkit app, now i would like to run: thanks!
+How to run a function when Ember finished loading for the first time

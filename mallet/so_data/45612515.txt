@@ -1,1 +1,1 @@
-i'm tri to emb a finder sync extens written in swift in my app written with electron. how can i manag to make them work togeth and communic with each other? i have read the appl document but it onli explain how to add a target to a nativ application. i also notic that i can manual inject the folder use electron builder. how can i develop and test the extens in xcode and emb it correct in a custom electron app?ani suggestion?thank you veri much for ani suggest
+How to embed a mac app extension in an Electron app?

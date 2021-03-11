@@ -1,1 +1,1 @@
-i have an electron app with 2 modules, one of them be the standard menu. when i click a menu item, i want it to call an instanti modul function.th onli solut i'v found is to have my instanti object be a properti of the main in an electron menu template.
+Calling an object in main.js from a module in Electron

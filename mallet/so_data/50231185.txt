@@ -1,1 +1,1 @@
-i have creat an electron applic with express.js, the reason for develop an express applic with the electron is to packag an execut which run without node installed.i success packag the applic in cento 7. if i doubl click the applic binari go from cento gui, it run fine. when i tri to run it use the command line termin login via putty, use
+how to run electron binary in command line terminal (vty)

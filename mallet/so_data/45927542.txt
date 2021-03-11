@@ -1,1 +1,1 @@
-i would like to use an imag as button that open a file dialogu in nw.js, how can i do that?i have this html
+How can I trigger a file dialogue from a button click in NW.JS?

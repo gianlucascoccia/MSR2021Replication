@@ -1,1 +1,1 @@
-i'm current work on a web applic with electron. if i open the app in the normal chrome browser it work as expected: click as click, touch as touch.but if i packag it with electron it doe not work right - it alway return touchstart = true, even though i'm not in the dev tool in the respons view or on a devic that is touchabl - so click won't work.thi is the begin of my javascript file:search now quit a while on googl but didn't find a work solution. mayb you could help me
+Electron: always return ontouchstart = true

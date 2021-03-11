@@ -1,1 +1,1 @@
-i creat an applic with electron and angular2 (angular-cli).unfortunately, i can't import node modul like electron.so, is there ani approach or solut how i can import node modul in an electron + angular2 project with typings?
+Electron + Angular2 - import module

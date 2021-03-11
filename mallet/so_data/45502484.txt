@@ -1,1 +1,1 @@
-doe nedb use the disk to do find queries?or are find queri 100% use ram base data structures.i need to do intens work use find queri and i don't want to put work on my hard disk.(a a bonus track, do sqlite find queri also work 100% in memory?)
+Does NeDB use the disk to do find queries?

@@ -1,1 +1,1 @@
-i would like the user to be abl to click on the system tray icon to hide a window if it is visible, or show it if it isn't. howev i can't see way to detect the show/hid state of the window.i look here but couldn't see anyth that would give me what i need. the onli way seem to be to keep track of if my last call was to show() or to hide(). is there a better way?
+Can I detect if a (node-webkit) window is visible?

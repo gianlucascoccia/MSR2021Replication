@@ -1,1 +1,1 @@
-im tri to electron-build my test project&#xd;&#xd;&#xd;&#xd;&#xd;
+Electron builder wont properly install

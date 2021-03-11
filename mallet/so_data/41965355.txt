@@ -1,1 +1,1 @@
-my electron main process is written with typescript and bundl webpack 2.transpil is done through
+VSCode debugging of Node or Electron Main Process bundled with Webpack

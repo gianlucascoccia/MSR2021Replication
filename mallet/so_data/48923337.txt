@@ -1,1 +1,1 @@
-i have a problem in my app. i am use the follow software:do anybodi know whi my app at the file download freezes? fyi: after the freez ends, the download will be start and everyth works.
+Multiple Downloads freeze my app - vuejs, quasar, electron

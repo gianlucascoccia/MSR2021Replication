@@ -1,1 +1,1 @@
-i have an app, that consist of two parts1. backend, java spring boot app2. electron/angular front-endi wanna test backend and frontend together. it would be great to start junit cucumb test, call the spectron test from one of cucumb cases, and get result of spectron test back to cucumber. is it real to get some test result from spectron "outside"?
+How to get spectron test result and pas them to outer test(for example, Ucumber-Junit test)

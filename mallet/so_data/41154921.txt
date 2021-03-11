@@ -1,1 +1,1 @@
-i'm open the electron open dialog: variabl from insid the callback from electron?
+Passing back data from Electron function

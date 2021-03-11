@@ -1,1 +1,1 @@
-how can we pass request from one page to anoth in electron, like do we do in html or php. for eg: in html or php, we can pass them like test.html?name=jaydevi want this in my electron app.for example, i am load index page in the main window use now how can i pass some request from index.html to machines.html? can ani suggest a solut for this? ani help will be appreciated.
+How can we pas request from one page to another in electron

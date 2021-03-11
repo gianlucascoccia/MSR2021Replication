@@ -1,1 +1,1 @@
-use this modul i'm make a websocket server on my pc.problem is: how do i let peopl connect into it? i know how to connect it from lan(which is use ws:lanip:port, for example:192.168.0.7:8000) but what if someon not connect in the same router, from anoth country(for example) want to connect? edit: and i tri use myip:port but it doesn't seem to work.
+How can someone else connect to my Websocket server?

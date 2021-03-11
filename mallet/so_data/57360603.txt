@@ -1,1 +1,1 @@
-i have a file that should be changabl without need to rebuild the project.i'm therefor use the this work fine dure debug but after the build, it fail with: uncaught exception: error: enoent, extraresources\flags.json not found in c:\dev\myprogram\dist\win-unpacked\resources\app.asarit is not clear to me whi this is not work while it seem work for others.bas on a hint from here i tri use hazard but that did not help.
+How to read a file from extraResources?

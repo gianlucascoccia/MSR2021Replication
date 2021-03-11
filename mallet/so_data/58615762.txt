@@ -1,1 +1,1 @@
-am i wrong to assum that an electron base applic will pass nodej environ variables?th app we are deal with is built upon electron 3.1.x. the list of environ variabl for electron 3.1.x seem to work. however, if i tri to use ani of the environ variabl list in nodej (notabl ) they don't seem to work. i was under the impress that sinc electron is simpli a nodej application, that it would respect the same environ variables.
+Will an Electron based app pas system wide nodejs environment variables?

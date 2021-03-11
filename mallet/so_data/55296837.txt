@@ -1,1 +1,1 @@
-i am not abl to disabl or chang the work of these keyboard shortcut in electron.ctrl+alt+delet and alt+f4below i have mention the 2 differ code for make this change.
+How to disable keyboard shortcut 'Alt + F4' in ElectronJS

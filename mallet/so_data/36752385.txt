@@ -1,1 +1,1 @@
-i am use react + electron + webpack to creat an application, but while tri to use electron modules, i am get the error state "cannot find modul electron'.i have the below sampl code in one of my react compon :-it return me back the path to the electron executable.
+Cannot find module 'electron' in Electron + React + Webpack setup

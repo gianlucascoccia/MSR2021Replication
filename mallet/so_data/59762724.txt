@@ -1,1 +1,1 @@
-i'm tri to connect my laptop and mobil use peerjsi kick off the electron app on my laptop first, generat an id and pass that to my react nativ app, which then attempt to connect on a press of a button.desktop
+.on('stream') event doesn't seem to fire using peerjs + react-native-peerjs

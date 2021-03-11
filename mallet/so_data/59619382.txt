@@ -1,1 +1,1 @@
-i'm tri to understand how electron load extensions. in trace the code, i'm get stuck here:, but i'm not find success in that. it also veri unclear to me where/how the content of the modul get populated, so that styme my attempt to trace it that way.
+Where is Electron's internal webContents defined?

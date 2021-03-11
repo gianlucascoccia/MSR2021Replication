@@ -1,1 +1,1 @@
-i'm tri to write a wrapper for twitter use electron (former atom shell).mi
+How to call a JavaScript function on a web page rendered by Electron?

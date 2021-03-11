@@ -1,1 +1,1 @@
-in our log we are use date.tostring() to store event timestamps.example:i there a way to forc tostring() output to "en-us" locale?
+Date.toString(): How to prevent timezone name output in the PC locale in Chromium

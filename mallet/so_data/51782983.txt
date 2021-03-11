@@ -1,1 +1,1 @@
-i'm use this boilerpl provid by electron team here. the main process is work but when i use render process to creat a new window it give this error it works. so how to do with typescript code?
+Typescript Electron Renderer process not working

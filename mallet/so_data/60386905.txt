@@ -1,1 +1,1 @@
-i am tri to make a command line version of one of my electron app as a node.j script. to start, i copi over the code from my electron app but it doe not behav the same. as an example, here i have two modul that i created. when call
+Node.js: Variable scope behaves differently in Electron and non-Electron script

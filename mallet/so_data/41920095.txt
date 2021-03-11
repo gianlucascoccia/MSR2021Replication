@@ -1,1 +1,1 @@
-the document of nwjs say that window inherit eventemitter, no normal i should be abl to use i'm use nwjsversion 0.18what i'm i do wrong ?
+NWJS- node-webkit emit event from Window object

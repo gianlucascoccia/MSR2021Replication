@@ -1,1 +1,1 @@
-i have ad extens in my electron app code. but how can i check or debug my code whether my extens instal or not.i have ad below code to add extens
+Electron : How to show chrome extension on Address bar?

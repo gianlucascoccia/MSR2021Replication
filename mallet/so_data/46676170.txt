@@ -1,1 +1,1 @@
-i'm tri to get to grip with use electron, and spectron for it testing.i would like to write in my bodi which is contenteditable, and then check that the text match in my test. so far i'v manag to write a success test for the title, but am unabl to find a solut to this one.index.html;
+Testing Text Input for Electron App

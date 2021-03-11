@@ -1,1 +1,1 @@
-is there a way to creat autom scenario use solut on electron.atom.io, but i would prefer java.thanks.
+Testing Electron application with org.openqa.selenium in a Java environment (Intellij)

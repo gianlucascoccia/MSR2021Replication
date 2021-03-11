@@ -1,1 +1,1 @@
-i was tri to configur i just search about this problem over the internet and i found coupl of answer but each answer have miss steps. so after spend my 4 work day on this issu i come up with a solid solut with all detail steps. hope it can save the time for other
+ElectronJs: please install sqlite3 package manually

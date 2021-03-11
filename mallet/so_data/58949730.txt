@@ -1,1 +1,1 @@
-i am new to the electron framework.i have a queri where i need to deploy the new version for my app for mac and window?do i need to publish my applic on some app stores?i am work on a todo app, i have creat for the application, now i want to make some chang to the app and let the app updat automatically, for this where i need to upload my application?
+Electron framework - From where electron downloads the new update

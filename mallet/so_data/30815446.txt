@@ -1,1 +1,1 @@
-i just start use electron. i have a doubt about how to pass command line argument in is working. i need to know how can i make this work in electron.can someon pleas give a solut for this?
+How to pas command line argument in electron

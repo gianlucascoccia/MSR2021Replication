@@ -1,1 +1,1 @@
-i'm tri to find an element by it doesn't seem to work, becaus i get the timeout error in the console: error: evalu time out after 30000msec. are you call done() or resolv your promises? at j:\projects\te…\lib\actions.js:634how can i fix this? is there anyth i'm do wrong?
+Nightmare evaluation timed out

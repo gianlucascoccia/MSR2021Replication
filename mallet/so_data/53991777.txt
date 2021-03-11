@@ -1,1 +1,1 @@
-i'm work on a project with react and electron and have an error. i have a compon with a constructor that take in prop (which come in the form of two variables.) the constructor is instanti in a separ file. the issu is that the variabl work fine (for instanc if do i expect the variabl to be the same in both the constructor and the function elsewher in the file, yet for some reason, it onli defin in the constructor.
+Variable undefined when used outside of component constructor

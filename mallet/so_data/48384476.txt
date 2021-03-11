@@ -1,1 +1,1 @@
-i am tri to write my first electron app base on electron boilerplate. i am tri to send a simpl messag from the main electron process into my window but it seem that the messag is not get send. the main code i'v impmenet is as followsbackground.j ( main electron process)ani idea whi the event is not get receiv ? i see the consol log that the dev code is run but noth on the app window side ( in the develop consol log ) the full code can be found at git repoani help would be appreciated.thanksoliv
+IPC Communication not working between Electron and window

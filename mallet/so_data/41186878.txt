@@ -1,1 +1,1 @@
-when i run the applic from command prompt use npm start command it work well. it return the result from speech api.i am use binaryserv and binarycli to stream audio to googl cloud api.when i creat packag for electron applic everyth work but it not return the result from speech api.her are my code snippe:package.jsonthank for your help
+google cloud speech not working in electron package

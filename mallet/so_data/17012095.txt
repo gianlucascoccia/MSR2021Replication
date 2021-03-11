@@ -1,1 +1,1 @@
-i want to use node.j code in my c++ project as independ application. eg. like a node-webkit. (i watch it the code, but did not understand, as i work on windows)pleas help me with code, caus i'm not c++ guru. show me the minimum code, which i'll make a start.
+Using Node.js in C

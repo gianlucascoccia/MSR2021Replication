@@ -1,1 +1,1 @@
-currently, i'm tri to use the opencv4nodej modul within an electron/angular applic that also use typescript. i'v tri sever way to do this. the follow codeblock show what i tri and what error messag i get. inject this servic into my compon and call electronservice.require('opencv4nodejs') also did not work.
+How to use remote.require() in Electron, using TypeScript

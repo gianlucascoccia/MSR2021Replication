@@ -1,1 +1,1 @@
-right now in my index.html, i need to dothi load the persist nedb databas "somefile2" under indexeddb in the googl chrome browser.how do i bootstrap nedb via the main app compon or module? i want to be abl to creat an nedb databas via the applic code.i use systemj with angular 2.
+Angular 2: How do I use nedb with a web only application?

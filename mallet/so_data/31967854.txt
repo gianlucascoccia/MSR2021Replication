@@ -1,1 +1,1 @@
-i am veri new to electron, just tri to follow the documentation.i was abl to run a html in electron and it work fine.then i tri to load a rail app with browserwindow loadurl, but the javascript of the app are not work insid electron. my main is this index.j here:run the server in my machin and load http://localhost:3000 has the same behavior. the app appears, but the js don't work.what have i missed? how do i proper run a rail app insid electron?
+How to properly run a Rails app inside Electron?

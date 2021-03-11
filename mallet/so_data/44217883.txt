@@ -1,1 +1,1 @@
-is a necessari paramet but in the link it given that shortcut can be regist without give ani window also.
+electron-localshortcut not working without providing Browser Window

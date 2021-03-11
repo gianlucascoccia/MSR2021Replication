@@ -1,1 +1,1 @@
-i'm have two run node web kit desktop application. now i want to run second node webkit desktop applic from the first new app and with the same login credentials.it like open anoth tab use .pleas let me know, if anyon need clarif in this transition.kind help me for this.
+Run one node webkit desktop application from another nw app

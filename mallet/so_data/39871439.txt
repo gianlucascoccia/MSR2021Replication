@@ -1,1 +1,1 @@
-nan
+Electron:Javascript VM86 vid.js:56Uncaught TypeError: Failed to construct 'File': 2 argument required, but only 1 present

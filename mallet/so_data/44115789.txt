@@ -1,1 +1,1 @@
-i am tri to use .setattribut on the following:when i tri this in my browser on the .htm file, it work fine. however, with electron, it doe not. the valu doe not chang to 90. what could the issu be?both code are store in home.htm
+Electron: .setAttribute not working (different)

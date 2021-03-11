@@ -1,1 +1,1 @@
-i built an app with electron and in the root directori i have a library. i want to run a child process from my app, so i use it like this:. but if i use electron-packag to make a build, it seem that it doesn't find the command. i receiv this error: ani idea whi this happens? i was research a lot about it, but can't find anything.thank
+Atom Electron cant find path of child process?

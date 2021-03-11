@@ -1,1 +1,1 @@
-i am puzzl by the problem for 2 days. ani tip are appreciated.a veri simpl node-webkit app is created: helloworld. package.json:i look into the jetbrain document and can't find what caus the problem.
+Node webkit app debugging in WebStorm 11

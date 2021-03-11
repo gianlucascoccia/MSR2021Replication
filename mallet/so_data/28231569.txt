@@ -1,1 +1,1 @@
-use the synopsi snippet from https://github.com/nwjs/nw.js/wiki/shortcut, the global hotkey work as expected. modifi the key as follows:appar nw.js (former node-webkit) doe not support the space charact in global hot keys. ani workaround or just confirm would be appreciated.
+nw.js (Node-Webkit) - Global Hotkeys containing a space fail to respond

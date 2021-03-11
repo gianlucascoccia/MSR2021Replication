@@ -1,1 +1,1 @@
-so i'm tri to creat a forum in multipl languag use nedb as the base databas (for the time being). i want to pass the variabl language', into the dot notat address. is this possible?so the thread of interest to the user is locat in db.forum the result of this search reveal the user language, "s_lan". i want to then use this result to search the datastor db.forum_de.how do you includ a variabl in the dot notat address to the datastore?
+How to use variable a dot notation address in node.js with Nedb? TypeError 'cannot read property 'find' of undefined

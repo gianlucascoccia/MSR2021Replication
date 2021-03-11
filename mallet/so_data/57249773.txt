@@ -1,1 +1,1 @@
-i'm new to electron5 and angular8.i have retriev data from sqlite3, but i can't get arround how to send this data to my angular part and show it.i have tri use observables, but be new to them, i'm not sure i did it right. i also tri various async codes, pipes, maps, type changes, etc... i found but to no avail.her is my electron.servic file that retriev the data from the sqlite3 db (the console.log works), with some comment test code :i'm expect a list of 5 "codes".
+How to show data from sqlite3 with electron5 and angular8

@@ -1,1 +1,1 @@
-i download the sdk execut from dl.nwjs.io/v031.3, tri 32 and 64 bit version for linux.i tri to run these on a raspberri pi 3b+, withnod desktop/nwjs-sdk-v0.31.3-linux-x64/nwget this error:not i am run the code straight from nwjs.io, not copi ani whitespac charact in from stackoverflow or other sourc like somerel question suggest.
+Unexpected token ILLEGAL (ELF) Raspberry Pi Node Webkit Linux v0.31.3

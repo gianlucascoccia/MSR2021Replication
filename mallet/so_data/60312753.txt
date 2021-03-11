@@ -1,1 +1,1 @@
-i'm tri to achiev a mouse-hov featur for my electron-bas ui.requirementsth workflow would be like thisth main ui has a list of item (divs).when user hover the mous cursor onto an item, there will be a bubbl window pops-up show the detail info of this item. the bubbl window should be styled.when the mous cursor leav the area, the bubbl window should disappear/fad out.i don't want to use a detach pop-up window, so the bubble/tooltip style window is preferred.ani pointer will be welcomed.
+electron/js/html: Auto-popup bubble window on mouse hover

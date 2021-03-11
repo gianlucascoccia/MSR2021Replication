@@ -1,1 +1,1 @@
-i'v tri . can anyon pleas suggest ani solut how to fix my webpack config to make this plugin work properly?thank in advance.
+webpack break electron-notifications

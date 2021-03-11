@@ -1,1 +1,1 @@
-after i compil the applic with electron-packag the applic expect file to be in the root folder of the application, wherea they are locat in ./app/resources/how can i chang this?
+How to prevent the electron-packager from messing up the path of the application?

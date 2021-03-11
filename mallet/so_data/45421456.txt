@@ -1,1 +1,1 @@
-i am tri to run electron app with typescript and webpack.i have this
+Electron: app.on('ready') never get called

@@ -1,1 +1,1 @@
-i am tri to use firebas sdk in my electron + react + redux app.so in my reduc i have these:th callback is never called. i tri place this code in my componentdidmount callback, in my redux action file, noth works. and it fail silently, there are no error in the console.
+Firebase silently fails in electron app

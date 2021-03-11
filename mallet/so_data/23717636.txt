@@ -1,1 +1,1 @@
-i'm code a app for manag my project sql and i want put my file in a folder and execut without zip, just for easi edit. it possible?
+How can I run my app without zip files?

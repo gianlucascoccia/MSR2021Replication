@@ -1,1 +1,1 @@
-i have an n-api c++ addon that i would like to use with an electron gui. current the c++ addon has a simpl function that sleep for 10 second and then perform a comput of 8*2, and return the valu to the javascript code. the javascript code run the c++ addon everi 10 seconds.
+N-API C++ addon causing Electron GUI to block

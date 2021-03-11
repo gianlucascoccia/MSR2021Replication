@@ -1,1 +1,1 @@
-i want to build an app that look like visual studio code. is there ani templat or ui librari that i can use as a start point? the look that i want to achiev is like shown in the imag i am suspect there must be a starter templat as microsoft is use the same look across apps, to name a few: vs code, botframework emul v4, microsoft sql oper studio.
+Is there any bootstrapping template to build apps that look like Visual Studio Code

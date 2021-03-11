@@ -1,1 +1,1 @@
-i'd like to render a float edit grid view on an electron app.i there ani gui module, or js/css framework or anyth that can be use in an electron app other than build it from scratch?
+Is there a Grid View module/component usable in an electron App?

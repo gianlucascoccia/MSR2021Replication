@@ -1,1 +1,1 @@
-requir 5-10 modul in a javascript file (eg. if this is faster?, ormak this faster more practic some other way?
+Node.js & Electron: Where to require several modules?

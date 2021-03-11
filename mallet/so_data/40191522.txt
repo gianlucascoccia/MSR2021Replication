@@ -1,1 +1,1 @@
-how do i includ bootstrap in an electron app built with electron-builder? ideally, i'd like to use the npm packag so i my app/packages.json look like this:but app/node_modul remain empty. i have the same depend and devdependeci in my top-level packages.json but that make not differ either in what end up be packaged.do i have to copi them manually? do i have to includ it in a differ way?
+Including Bootstrap in an electron app built with electron-builder

@@ -1,1 +1,1 @@
-i'm tri to run my exe use nw.js browser. i download nw.js from this link https://github.com/nwjs/nw.j then i creat package.json file like this:i place my quiz.ex in same folder where nw.ex is present but when my index.html page load and i click on "run exe file" button noth happens. i check consol and it is show this error message: "uncaught referenceerror: requir is not defined". what am i do wrong?
+nw.js browser showing Uncaught ReferenceError: require is not defined

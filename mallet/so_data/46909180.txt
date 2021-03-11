@@ -1,1 +1,1 @@
-is it possibl to detect in electron, if pc (mac or linux) has bluetooth adapt connected? i'm use "bluetooth-serial-port" librari for bluetooth communication. if bt adapt is not connect to pc the applic keep reloading.thi is how the app is tri to find devices.
+How to detect Bluetooth adapter with Electron?

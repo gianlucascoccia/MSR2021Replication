@@ -1,1 +1,1 @@
-i am use the below code to open a link in a new electron window:however, when i click the button again, the other page open in the same window that google.com opened. how can i open new button click on new window everi time ?
+Open link in a new window in electron

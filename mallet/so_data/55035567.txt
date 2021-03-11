@@ -1,1 +1,1 @@
-per my understand call to console.log from js run under electron are direct to the console/debugg window. i am launch an electron base applic from a bash script and would like to captur all console.log o/p to a log file. my most prefer method would be by redirect all console.log to stdout of the electron process itself. what are the way to do this? if electron itself doe not support this, can i go with a vision electron build to achiev it? altern are welcome.
+Send console.log to electron stdout

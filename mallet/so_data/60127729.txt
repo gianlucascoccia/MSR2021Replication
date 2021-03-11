@@ -1,1 +1,1 @@
-i use vue-cli-plugin-electron-build plugin (base on vue-cli) to deliv win desktop electron app.th app project has third parti dependency. let call it "abc":?thank you
+How to pre-process third party JS script with Webpack to run it in the same project context?

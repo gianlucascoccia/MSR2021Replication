@@ -1,1 +1,1 @@
-i am learn to scrape electron app and am get strang behavior on the consol when attempt to iter over an array. if i issu the exact same command on one element in the array manual everyth work as expected, but i get an uncaught typeerror when use a for loop. run too fast for the refer to the object to get assign in time for the next command? if so, what are good techniqu for handl this?
+Chrome Dev-Tools Electron Uncaught TypeError: Cannot read property 'length' of undefined

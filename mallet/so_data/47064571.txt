@@ -1,1 +1,1 @@
-i have a nwjs app that should run in system tray and onli show main window if user request it. so far i have this code to make it happen:package.json:th onli issu is that a window flash momentarili befor disappearing. is it possibl to ensur it start in hidden state instead of hide it manual as i am doing?
+Start application with it window hidden

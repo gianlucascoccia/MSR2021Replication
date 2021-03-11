@@ -1,1 +1,1 @@
-i have a simpl electron notetak app and tri to move it on reacthttps://gitlab.com/ditsikts/quicknotes/tree/masterher is my compon
+React, two button into one component

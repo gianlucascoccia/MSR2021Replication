@@ -1,1 +1,1 @@
-i'm tri to use the setrepresentedfilenam option for my app browserwindow, but it doesn't seem to do anything.i don't get errors, and ani path (resolv or hard-coded) doe not chang the titlebar to the file name.th app is packag for mac, so unless maco version is involv in some way, i'm not sure whi it not working.am i miss someth here? the doc for this is not in-depth and provid onli a basic exampl that appar works'.
+setRepresentedFilename for electron app not working

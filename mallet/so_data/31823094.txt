@@ -1,1 +1,1 @@
-i develop an applic use node-webkit. but i'm develop use osx but need to distribut for window and i need it to be .ex as end user would not have termin access or node installed. what can i do?
+Packaging node-webkit for window on mac

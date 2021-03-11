@@ -1,1 +1,1 @@
-i'm tri to creat an applic in electron (version 1.6.2). within the app i have a number of element that i want to behav like button but display as simpl glyphicons. i use the follow react code:
+Disabling orange focus outline around Bootstrap button in Electron

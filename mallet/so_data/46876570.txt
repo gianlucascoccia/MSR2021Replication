@@ -1,1 +1,1 @@
-i have a use case where i'm dynam store a pdf file in my public folder..th issu here is that the applic reload and the state get lost after such a file was creat and stored.how can i exclud such a folder from be watched? and is there a way to achiev this without ejecting?
+create-react-app exclude folder from triggering reload

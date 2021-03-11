@@ -1,1 +1,1 @@
-i would like to chang the instal directori on windows, my electron app is built with has anyon manag to chang the default instal directori with electron-builder?thank you!
+electron-builder change install directory on Windows

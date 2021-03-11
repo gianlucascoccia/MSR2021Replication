@@ -1,1 +1,1 @@
-i am tri to develop an app use electron that have to share the file between android and desktop use bluetooth/wifi technology. i surf internet as how much as i can, but i didn't get ani proper solution. still i am confus whether it is possibl or not. can anybodi clarifi my doubt.if it is possible, share me a sampl of the code or share me the link where i can get what i'm look for.thank bala
+Is it possible to transfer file from desktop application to the mobile application via Bluetooth/WiFi, built using Electron?

@@ -1,1 +1,1 @@
-i'm tri to creat my first packag with nwjs, so i creat a simpl app with onli nwjs modul instal local with npm. my app main file has onli a what am i miss here?
+Node.js nwjs package compilation error: Invalid file descriptor to ICU data

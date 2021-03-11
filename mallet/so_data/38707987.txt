@@ -1,1 +1,1 @@
-i want to run a process in the background in nodejs, that wait until the comput not in use for 10 minutes. i mean the user do not touch the keyboard or the mouse.in other words: i want to listen to keyboard and mous event in ani window, and notifi my app when it is happend.for this mission, i abl to use plain node, or nw.js or electron.i think that i must to use a c++, nativ modul and dll's. but i hope there is a better and simpl solution.do you have?
+How to check when the computer is idle in NodeJS?

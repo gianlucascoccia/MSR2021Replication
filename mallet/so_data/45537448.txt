@@ -1,1 +1,1 @@
-hi i am tri to creat a help menu with link to document in electron. i would like to know if it is possibl to creat a new window with the default menubar from within a frameless window. i am current use the following.if my current window is not frameless then the window will be creat with the menu.
+Electron frameless window.open with default menubar

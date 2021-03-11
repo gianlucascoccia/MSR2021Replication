@@ -1,1 +1,1 @@
-i'm write my first electron app, and i was tri to show a window when a button is clicked. i have an error message: uncaught referenceerror: requir is not defin at dialog.js:2i'm use the version "electron-nightly": "^6.0.0-nightly.20190213"her is the code:index.js:i this error someth about es6+?
+Electron.js Error: require is not defined

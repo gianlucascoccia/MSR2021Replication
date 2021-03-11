@@ -1,1 +1,1 @@
-due to secur reason i need to prevent take screenshot in my app. app get built both for window and for maco so it need to be prevent on both platforms.
+How to prevent screen capture in the Electron app?

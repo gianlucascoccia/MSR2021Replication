@@ -1,1 +1,1 @@
-i want to detect desktop idl time from an electron app. then i got this link (https://github.com/octalmage/robotjs) from some post. but none of the examples, like get the posit of the mous etc is not working.i have instal robotj use the commandanybodi have an idea about what wrong? ani help will be appreci
+get mouse position using robotjs is not working in Electron app

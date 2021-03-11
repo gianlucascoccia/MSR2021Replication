@@ -1,1 +1,1 @@
-i am use just the basic spectron test file (in typescript) to open my app, get the window count, and presum exit. however, spectron
+Spectron test leaf window open

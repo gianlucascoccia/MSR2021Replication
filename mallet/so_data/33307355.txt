@@ -1,1 +1,1 @@
-i am current work on an applic run on electron (former atom-shell), and tri to design a way to alert the user when a new updat is available. to do this, i am use electron-updat in the way describ in electron-updater-sample. i also configur sinopia to be listen on do you guy see anyth i could have forgotten/don wrong?
+Node registry path with electron-updater and Sinopia

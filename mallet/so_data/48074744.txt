@@ -1,1 +1,1 @@
-doe anyon know how to creat a separ load screen with electronj similar to how slack doe it with their's?
+How to create slack's loading screen - ElectronJS

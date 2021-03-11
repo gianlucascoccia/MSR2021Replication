@@ -1,1 +1,1 @@
-i am follow the electron quick start guide, it work without ani errors, but the output is not as describ in the docs, the version with i have node global installed, and chrome is packag with electron, right?
+Running the "First Electron App" wont show versions?

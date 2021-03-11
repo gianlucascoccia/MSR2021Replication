@@ -1,1 +1,1 @@
-i'v tri use the googl calendar api browser demo in a html file display by electron, and have configur the appropri api keys. i'm sure that the credenti configur is valid, as running:... to host the index.html file work fine.at the moment, all i'm see is the heading, but the authent button which usual appear never does. also, there are no return json error or error in the develop consol to work from.ani ideas?
+Why doesn't the Google Calendar Browser demo work under Electron renderer?

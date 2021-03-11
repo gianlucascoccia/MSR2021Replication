@@ -1,1 +1,1 @@
-spell check is not support in webkit. if we add attribut "spellcheck=true" for the element which requir spell check, it not support by webkit. ani one know how to deal with this?
+Spell check not working in webkit

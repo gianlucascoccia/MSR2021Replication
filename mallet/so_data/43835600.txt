@@ -1,1 +1,1 @@
-is it possibl to do this in electron:i want to duplic a video to a 2nd screen.thi is easyli done, by invok the follow 50 times/second:but in electron i have to communic via ipc...ani ideas? is it possibl in nw.js?
+Accessing the DOM between two renderers in Electron

@@ -1,1 +1,1 @@
-i am tri to build a super simpl app with angular and electron and to set it up as much from scratch as i can (just for learn purposes). i'v set up a simpl angular project base on this articl and it run fine in a browser.i then instal electron and ad and i'm keen to do this one with minim bloat and actual tri to understand the basic of the process.ch in advanc
+Electron can't find resource

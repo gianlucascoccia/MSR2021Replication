@@ -1,1 +1,1 @@
-given a string of js sourc code that contain multipl top level expressions, i'd like to evalu all of them and get the valu of the last one.get the valu of the other top level express would be a bonus.i understand is dangerous.i'm do this in a limit context,not part of a random public web page. also i am use node and electronin case that matters.
+How can I get the value of the last top level expression?

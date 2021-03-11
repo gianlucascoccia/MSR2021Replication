@@ -1,1 +1,1 @@
-i am tri to configur netbean ide 7.4 for node-webkit development.it is excel ide but i want to run my project with f6 button. to do this i ad nw.ex as addit browser (execut is locat outsid project folder). after this i have a problem with execut arguments. nw.ex expect a folder path to be specifi as an argument, but i cannot leav empti field of start file in project set and the project url has to start with either doe ani method exist to deal with this feature?
+Run node-webkit project in Netbeans 7.4

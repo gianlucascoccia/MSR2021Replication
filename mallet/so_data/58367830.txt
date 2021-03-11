@@ -1,1 +1,1 @@
-i have one .js file, which is use node_modul and do my things. i would like to creat a batch file or someth which will run that file without node_modul instal or node instal in the client system.i don't want to creat .ex as a client system will not allow instal 3rd parti software.anyway, to run my code in client system without instal node_modul and node in client system?
+Execute node without installing

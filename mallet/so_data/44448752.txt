@@ -1,1 +1,1 @@
-i'm use electron-build to packag an app for windows/maco &amp; tri to configur auto-upd with the electron-publisher-s3 package. the default name for the publish window artifact is , etc. ?
+How do I create a stable download link for electron-builder releases?

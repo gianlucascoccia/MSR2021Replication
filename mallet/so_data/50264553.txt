@@ -1,1 +1,1 @@
-i'm build an applic that run an electron application. what i'm see is that when the main thread get busi run it own operations, browserwindow thread will get block (just like it doe if the browserwindow itself is run javascript).ar these share the same thread? if so, what is the best way to separ them?
+Does Electron's main thread block BrowserWindow?

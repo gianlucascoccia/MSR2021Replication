@@ -1,1 +1,1 @@
-i have object?
+Mocking process method in Jest

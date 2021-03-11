@@ -1,1 +1,1 @@
-i am run a project with angular, electron and bootstrap. i creat a dropdown item like this. what els can i do to make sure jqueri is load befor bootstrap is in electron ?
+Jquery not getting loaded properly in Electron ?

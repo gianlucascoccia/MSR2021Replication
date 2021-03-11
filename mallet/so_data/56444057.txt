@@ -1,1 +1,1 @@
-i have a electron app which, on the press of a button, open a new window. said window has anoth button with the id of "closebtn". now i tri to handl it in the js associ to said element with the follow codebut somehow that doesn´t work, and the new window is not close on the button press. what am i do wrong?
+Electron Issue about close.window() Method

@@ -1,1 +1,1 @@
-whenev i tri import electron compon into my render process, i get the exception.however, even with this i am still get the exception.i'm look for a way to communic between the main process and the render process, howev without access to the electron object it doesn't appear to be possible.ani help in this regard would be amazing. if you need ani addit info. leav a comment.
+React and Electron with Bablify: Uncaught TypeError: fs.readFileSync is not a function

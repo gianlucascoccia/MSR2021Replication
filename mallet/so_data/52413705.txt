@@ -1,1 +1,1 @@
-so, i have the save function written and it work exact as intend the first time i save a file. however, if i tri to overwrit the file by save it again, the file save fine, but the window reload clear all the data that been entered. i can just load the save file and continu editing, but that will get annoy fast. i cannot find ani info on how to resolv this issue, anywhere. ani help would be great appreciated.
+Electron window reloads when saved file is overwriten / replaced

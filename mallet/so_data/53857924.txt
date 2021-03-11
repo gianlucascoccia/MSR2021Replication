@@ -1,1 +1,1 @@
-i'v creat a script use electron-link. within the link are basic requir need for electron i.e: first!"i'v attempt to add this line to mani area without much affect. is there a correct area to place this?
+Electron-mksnapshot snapshotResult.setGlobals location?

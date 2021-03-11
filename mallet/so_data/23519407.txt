@@ -1,1 +1,1 @@
-my app node.j webkit aim to scan each proxi a file.txt and say if the proxi work.but i have a problem when my for is launch, he don't wait the end of test "http.get" on the line 9.when my first line is test my var n is on the last line of the file.txthow wait the end of the test line 11 befor continu the loop ?
+Make loop synchronous node j web-kit

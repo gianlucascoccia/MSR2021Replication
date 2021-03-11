@@ -1,1 +1,1 @@
-i'm tri to use node webkit updat for my aplication,but when i'm tri to test is(us npm test) or start it(us nmp start) i'm receiv this error .both command are use from nodej command prompt .the js file use is updaterclientabc.j and the error come from this line: var gui = require('nw.gui'); this is my folder structur : can you pleas tell me what should i do ? i admit that i am a beginn i'v never work with node-webkit.som advic will be veri help :)
+Cannot find module 'nw.gui' - node webkit updater

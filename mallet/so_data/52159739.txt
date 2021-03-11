@@ -1,1 +1,1 @@
-actual i am use nodej + electronj for my applic and also i am use screensav for my app.when i start my batch file it execut and show cmd prompt window on top of my screensaver.so,i want to execut my batch file in background.can you pleas give perfect solut for my need?
+How to Run Batch Files Silently And Hide The Console Window?

@@ -1,1 +1,1 @@
-it possibl send signal to app(electron) by extern source?atom get through the send line command to add new project for examplei could not find ani examples, not even in the sourc code of the atom.update:i a command line argument dure atom startup and with a run instanc of atom.
+It's possible send signal to app(electron) by external source?

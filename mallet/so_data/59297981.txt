@@ -1,1 +1,1 @@
-i'm work on the electron app and i want to includ some unit testing. i instal but i'm not sure if it up to date. on the offic babel setup page i'm not exact sure what to check. prototyping? babel built-ins? build systems? what? how should i instal babel in my case? thank
+How install Babel on the side of Electron, only to test?

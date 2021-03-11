@@ -1,1 +1,1 @@
-i'm use nodebob for make a nodewebkit (nw.js) desktop app, but the mp4 video wouldn't play in it ... what should i do? i tri put ffmpegso.dl in the same folder where my releas exe is but no useif i use webm video the follow code work but for mp4 it say file not foundher the code i'm use
+Play MP4 video in Node WebKit

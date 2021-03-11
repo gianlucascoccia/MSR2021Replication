@@ -1,1 +1,1 @@
-i am tri to write a simpl electron app that use window nativ notifications. for this use i depend on electron-windows-interactive-notifications. when i run by dependencywalk i see follow miss direct dlls (among mani miss nested):frank i have no idea what the problem is:wrong usag of electron?wrong usag of electron-windows-interactive-notifications?problem in nodert?problem in node-gyp?problem in my environment?can you help me move a step closer to the problem resolution?thank you veri much! question was also ask here
+Unable to use native Windows library in NodeJS

@@ -1,1 +1,1 @@
-in electron, i encount the follow error: but neither the callback nor the catch block is reached. ani idea what is go on here and whi the default dialog modul cannot be found?
+Cannot find module '../dialog' (Electron fatal error)

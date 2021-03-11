@@ -1,1 +1,1 @@
-electronj app, window 10.i have two windows, a main window and a child window. the child window is show "progress of some process", assuming, when i minim child window, app should go to "taskbar", and it ok when i have other app opened, but when i minim all of them, i can see main window of my electronj app. this window is not active, and child minim window look strange. what should i do in order to make electronapp work in common way herescreenshot of invalid case
+ElectronJS child window minimization

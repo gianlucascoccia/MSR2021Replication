@@ -1,1 +1,1 @@
-i have an electron project when i need to get electron to read a local file.right now what i have is this, where it load and display the content of a html file.i just need it to read a file and store it on a variabl for now.her is my current main.js:how can i do this as it not show the content of the readme.md file in the console.log
+Electron function to read a local file - FS - Not reading

@@ -1,1 +1,1 @@
-i'm current build an app (electron) and i need to connect it with a c++ library. i have done most of the bind use the nodej c++ addons, but i'm miss an import part that is relat with receiv the event generat by the c++ librari on my javascript code.ani help will be great appreciated!
+Send event from nodejs addon to javascript

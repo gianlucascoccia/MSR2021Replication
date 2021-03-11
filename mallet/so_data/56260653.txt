@@ -1,1 +1,1 @@
-i am tri to integr bootstrap data tabl with an electron app. i got the tabl itself up and run on the html side but i can't seem to figur out the way to get the render (js) to communic with the datat element.i'v tri access the function direct with:but that just result with: uncaught typeerror: tooltable.bootstrapt is not a functionani pointer? thanks!
+Cant figure out how to get bootstrap table to work with electron renderer

@@ -1,1 +1,1 @@
-i am current build an electron app, which is suppos to download file from the compani cloud servic e.g. sharepoint. our compani use sso in browser like chromium, which work out of the box. i would like to implement this for my app, as well. sinc electron is base on chromium it should be easi to configure, but where to start?
+How to implement Single-Sign-On for Electron?

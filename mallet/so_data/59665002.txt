@@ -1,1 +1,1 @@
-electron dialog show electron in app name instead of the actual app name in
+Electron dialog showing 'Electron' in app name instead of the actual app name

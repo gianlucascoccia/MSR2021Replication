@@ -1,1 +1,1 @@
-i know garbag collect is a weak point of javascript, but i'd like to do this as best as i can.i'm creat new window from my render process use after close the window via the provid api suffici to achiev my ends, or are my suspicion that i need to do more correct?
+How can I ensure Electron window are removed from memory entirely?

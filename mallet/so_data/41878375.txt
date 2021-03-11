@@ -1,1 +1,1 @@
-i'm get an error on line 510 (. i'm prototyp use the bing api insid an electron app, so this is use chromium. when i debug, cu is an anonym function, and it doe not have a "connect" properti of ani type.ani ideas?thanks.
+Bing speech API, Electron: "cu.connect is not a function"

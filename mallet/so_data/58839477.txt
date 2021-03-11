@@ -1,1 +1,1 @@
-i am tri to play a video file in my electron app for the user. but i need the file can't be access by user, i search a bit, tri some code and found that some guy say thing like electron js localstorag are easi to hack and can be access by users...so here are the questions:1.how can i store a video file local that can onli be play and access by electron js app?i it safe to do this with electron? becaus i need my app to be cross platform?
+temporarily store data in electron j localStorage

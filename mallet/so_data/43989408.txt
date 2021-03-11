@@ -1,1 +1,1 @@
-i have an electron app and i'm work on a mac to make a window instal for it.right now i have an /instal directori and a setupevents.j file that handl all of the squirrel events. most of it is from the window instal documentation:i'm not sure where to tell the instal that the shortcut icon should have my app name instead of just "electron". thank in advance!
+Creating a desktop shortcut via Squirrel event with Electron

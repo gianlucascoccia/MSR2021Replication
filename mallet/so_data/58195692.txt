@@ -1,1 +1,1 @@
-so i am do a project with electron now.i found that when a element have attribut , doe anyon know?everi comment will be useful, thx.
+Electron: how to do drag window and DOM event at the same time

@@ -1,1 +1,1 @@
-if the user select a differ languag in my electron/react/bootstrap 4 app, i want to chang the text (title) of a bootstrap tooltip on a button. i'v read the bootstrap 4 tooltip doc and i can't figur out how to chang the text of the bootstrap tooltip.th titl properti of my button get changed, but that doe not chang the text of the bootstrap 4 tooltip. how can i chang the text of the bootstrap 4 tooltip?
+bootstrap 4, react: how to change the title of a tooltip?

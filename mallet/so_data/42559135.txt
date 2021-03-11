@@ -1,1 +1,1 @@
-i'm tri to set up an electron project to auto-update. i'm tri to follow the instruct on this page. step 2 is configur publish and this is complet confus me. i want to set up the auto-upd to download from our own website, so i'm tri to set up publish use the "generic" option. so i set it up the "build" properti on the package.json as this:wher do i specifi the url? i can't figur it out, and the document isn't help at all.
+Where Do I Specify the URL for Generic Publish Option in electron-builder?

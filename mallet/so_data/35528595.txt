@@ -1,1 +1,1 @@
-i am look for a nativ (os x) prompt modul when work on electron, someth like the window pop up when i click join other network...': this offer the abil to get input and process the data returned. so in electron may not work here (at least i did not figur it out). i found this issue, but i cannot understand it.right now my approach is to open up a browserwindow to to ipc with main thread, but the most critic issu is that, it doe not feel like native!ani help is appreciated!
+Electron prompt support

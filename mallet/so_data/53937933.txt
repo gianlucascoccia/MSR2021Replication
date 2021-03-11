@@ -1,1 +1,1 @@
-i am get the error insid my electron applic when i run this code insid my
+Artist.findOne is not a function

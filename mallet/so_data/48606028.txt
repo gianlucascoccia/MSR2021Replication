@@ -1,1 +1,1 @@
-suppos the user is abl to play an audio on the electron app.a you can see, it just like a control in a web server, is it possibl to do so in electron?
+How to intercept electron's request and return a customized response?

@@ -1,1 +1,1 @@
-i am generat a msi instal use electron-build and the busi need requir to delet certain folder on uninstal event which are not locat in the root instal folder. i am have issu to implement this requir for msi installer. use nsis is easi by onli includ .is there a workaround or a solut for what i am tri to accomplish? i can't find a good answer with all the research i did.
+Delete a folder on uninstall event with MSI target of electron-builder

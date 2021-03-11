@@ -1,1 +1,1 @@
-i am use css anim insid electron app. here is the code:https://codepen.io/anon/pen/kvbvyvwhen i open the app with the anim enabl the cpu usag is 147%but if i comment these linesth cpu usag is 13%-40% only. i am not abl to figur whi the cpu usag increas by 100% by ad a simpl css animation. did anyon face the same issu in past?i there anyth need to be set in electron configuration?thank in advance.
+electron app cs animation performance issue

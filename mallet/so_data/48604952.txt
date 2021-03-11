@@ -1,1 +1,1 @@
-so i have two differ window control by index1.j and index2.j respectively. i creat a custom javascript class in index1.j and i'm tri to pars that same class object to index2.js. i'm abl to pars it but console.log function return it as type object when call in index2.j and type color when call in index1.js. how am i abl to refer the color object in index2.js. ani suggest on the implementation. index1.j
+NodeJS ipcRenderer passing custom class a object

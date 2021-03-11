@@ -1,1 +1,1 @@
-i am new to electron (atom-shell), and i am tri to load a nodej plugin into the applic i am building, but i don't know how. the document is not clear on that.for instance, i am tri to use sqlite3 plugin in my app, i use . are there ani further step i am not awar of ?thanks.
+Using NodeJS plugins in Electron

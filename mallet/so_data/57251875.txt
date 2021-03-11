@@ -1,1 +1,1 @@
-i have an electron project which use a ceratin nodej lib (@grpc/proto-loader). product build doesn't work, becaus webpack replac require.resolve() with it own function which return modul id instead of paths. how to prevent webpack from do this?i tri to add the problemat packag to "externals", but that doesn't seem to work.i want the app to use node require() function.i know non_webpack_requir could be used, but i can't modifi the code of the package, it a 3rd parti lib. so is there a better way?
+Webpack: use node's require.resolve() instead of webpack's

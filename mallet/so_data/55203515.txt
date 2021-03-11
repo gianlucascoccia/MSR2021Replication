@@ -1,1 +1,1 @@
-i want to know how to make a page that show up onc and then never show again, or make a check-box "never show me again" like visual studio code when you first launch it.
+Electron create a first launch page

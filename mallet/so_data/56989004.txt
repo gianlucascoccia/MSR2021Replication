@@ -1,1 +1,1 @@
-i am do the window applic use electron js and angular v6. i run the cron job where i take the base64 of imag and convert into the real imag and keep in the asset folder. after this, i am not abl to access those imag in angular in same build (ex file).if i take the build again (gener the exe again) which pick the imag and are displaying. anyidea how to display the new imag in same exe file.?
+Electron with Angular j 6, dynamic image are not displaying in same build

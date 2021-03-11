@@ -1,1 +1,1 @@
-im work on electron project.th project need to copi file from the pc into usb drives.i need to be abl to copi file and folder to the destenet usb drive.and to know the amount of free space on the drive.i tri difrrent npms like usb npmand im get this error:it too long to past here...if it possibl to provid exampl code it will be great thank you!
+electron Read and Write to usb drive

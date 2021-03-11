@@ -1,1 +1,1 @@
-i have an applic which use chrome local storag to save some inform on user pc.this applic work fine on os x and linux (ubuntu), howev when test on window 8.1, i open the local storag folder of the application. there were 2 file called:
+Chrome local storage deleting after NWJS application close on Windows

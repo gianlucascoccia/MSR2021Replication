@@ -1,1 +1,1 @@
-i'v success built my electron applic which appear to be work substanti fine.i use the node modul , now requir run as administr privileg to read files, els it will throw an error.ani explanation?electron version: 1.8.4platform: window 7
+electron - node.js - fs.readFileSync requires admin privilege when electron is built and in Program Files

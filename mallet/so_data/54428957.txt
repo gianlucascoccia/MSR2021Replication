@@ -1,1 +1,1 @@
-small node app work fine on c9, heroku and locally.th local version on node work fine but the electron version work bootstrap (the theme, color, etc...) but the hamburg menu is not working, as if jqueri was not installed.i don't use jqueri on the package.json, i call jqueri with... ...on the footer of views/partials.with this configur work fine on node but not on electron. do i need to do someth more for electron?
+Bootstrap Hamburger menu not working on Electron (working on Node)

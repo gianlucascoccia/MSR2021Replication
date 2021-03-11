@@ -1,1 +1,1 @@
-i have an electron applic that start an execut on some port. i am run this execut in a child process use spawn from the render file. on close the applic i want to ensur kill the run execut so as to free the port. how can i achiev that in the main.j file. below is the requirement. my main.j
+How to kill a spawned child process created in renderer.js on app close in electron?

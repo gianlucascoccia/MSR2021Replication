@@ -1,1 +1,1 @@
-i am tri to develop a littl electron angular2 applic base on this tutorialit seem their is some error with the bundl of webpack, becaus i cant require/import the electron remot in my render component.in my appcompon i do the follow
+Webpack cannot find module 'electron'

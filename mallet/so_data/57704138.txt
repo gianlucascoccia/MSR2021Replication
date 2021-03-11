@@ -1,1 +1,1 @@
-i am use angular 8 with electron to build a desktop application. i am use nebular theme and have creat 2 custom modul and so far they are work fine but i creat a sharedmodul to export a compon from one modul for anoth modul but on click the respect compon make use of that share modul it start show me this error staticinjectorerror(a)[t -> t]: staticinjectorerror(platform: core)[t -> t]: nullinjectorerror: no provid for t! here is my code share modul
+StaticInjectorError(a)[t -> t]: NullInjectorError: No provider for t

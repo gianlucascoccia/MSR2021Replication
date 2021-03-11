@@ -1,1 +1,1 @@
-the form html and submit event is part of the "renderer".th submit data should be avail in the main process.what the proper way to submit the form and make that data access in main.j ?should i simpli use the "remote" modul to pass the data to a function from main.j or is there a better approach?
+What's the proper way to handle form in Electron?

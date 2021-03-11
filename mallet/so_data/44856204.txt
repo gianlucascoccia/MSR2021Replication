@@ -1,1 +1,1 @@
-i'm use it didn't work.can anybodi help me?
+How to compile/build other JS file into main.js on Electron/Vue

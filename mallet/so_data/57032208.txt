@@ -1,1 +1,1 @@
-i want to build an electron app. i will use typescript + react. what i want to know is, do i have to includ file are not includ in electron app?
+Electron and TypeScript source code protection

@@ -1,1 +1,1 @@
-update: i also saw document and discuss that it must alway use discret gpu but it is not, it alway use intern one at the moment.i need to use discret gpu in electron.j app in case there are integr and discrete, how to forc it in electron?in c++ it can be done like that:how to do that in electron.js?
+How to force Discrete GPU in electron.js?

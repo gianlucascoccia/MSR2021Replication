@@ -1,1 +1,1 @@
-i am using: node 5.1.1, chromium 49.0.2623.75, and electron 0.37.2.mi to the same disappoint result.
+Electron won't read application name

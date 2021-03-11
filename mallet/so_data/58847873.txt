@@ -1,1 +1,1 @@
-i'v follow pretti much everyth i could find on electron, and i cannot seem to add an event listen to a button in my is my understand of the relationship between these file screw up? am i simpli take an incorrect rout to ad an event listen to my button?
+Electron, IPC communication seems to not be working

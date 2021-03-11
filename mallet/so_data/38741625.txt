@@ -1,1 +1,1 @@
-i tri run electron app, after updat node to pleas someon help me out. thank in advance.
+Electron app throw version Module version mismatch error. Expected 49, got 48

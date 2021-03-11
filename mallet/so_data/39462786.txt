@@ -1,1 +1,1 @@
-i ran into this issu where highcharts-3d is not render proper in electron app window.th chart is shown howev in 2d and not in 3d.in order to re-check i ran the code in chrome browser without use the electron cli command.thi time it work with correct 3d rendering.just got to think, doe electron has issu with highchart 3d render ?
+Highcharts-3D not working with electon app

@@ -1,1 +1,1 @@
-i'm tri too build my first
+Initialize vuex store data at startup in a Vue-Electron App using v-model

@@ -1,1 +1,1 @@
-i have a simpl app, one html page, some css and one .js file.i want to build this app use nw.js, this is my directori and tri to run my app i reciv the follow message: you can't open the applic “playlist” becaus it may be damag or incomplete.can someon explain me what i am do wrong?
+Nw.js MAC app build damaged

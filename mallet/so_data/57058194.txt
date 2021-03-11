@@ -1,1 +1,1 @@
-i have an electron app run angular 8+. i'm call a function import from function work fine if i use it outsid of the web worker.
+Using imported function is crashing web worker

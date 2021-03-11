@@ -1,1 +1,1 @@
-i'v seen a lot of stack post and github post on this, but i'v hit a dead end and i'm not sure where els to turn (apolog if duplicate).i'm follow a guid here to instal electron. on the command
+Installing Electron on Windows 10 (`node-gyp rebuild` error)

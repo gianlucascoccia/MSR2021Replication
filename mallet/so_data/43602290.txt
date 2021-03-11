@@ -1,1 +1,1 @@
-i have a 50x50 px
+How do I access DOM using keyboard shortcut in Electron

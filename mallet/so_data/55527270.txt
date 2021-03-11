@@ -1,1 +1,1 @@
-i want to use c++ readprocessmemori to get x,y,z data and display it use electron.i have tri to use/understandnode-addon-api, node-gypi have the transpar electron window and readprocessmemori work as their own individu program but i can't figur out how to bridg the gap.electron/nodejsi expect to pass the data be read from the c++ code into electron for display. i was unabl to get them to work togeth at all.thank for ani help. i have also spent onli a few hour with c++.
+Display data from ReadProcessMemory(c++) to NodeJS/Electron overlay

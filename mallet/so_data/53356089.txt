@@ -1,1 +1,1 @@
-i'm new to electron and tri to figur out the best way to handl a share object.essentially, i want to initi someth onc in the main process, then use it in multipl render processes, like so: instead?
+Electron - How to share a single promise resolution from Main to multiple Renderers?

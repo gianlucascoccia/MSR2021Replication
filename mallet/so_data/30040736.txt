@@ -1,1 +1,1 @@
-i wish to creat an applic use node-webkit which doe the simpl job to open a remot web application. the web applic has some cooki base authentication. consid that the user has signed-in successfully, how can the requir cooki be retained, so that the next time the applic runs, the user will be authenticated?
+How to retain cooky in node-webkit

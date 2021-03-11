@@ -1,1 +1,1 @@
-when the comput is offline, then my electron app can't connect to the local mysql.when the comput connect to the internet, everyth work fine.test on window only.th same happen in nodej (command prompt) and in electron. code: whi ?what can i do about it ?
+connect nodeJS to MySQL when computer is offline

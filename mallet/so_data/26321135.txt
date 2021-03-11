@@ -1,1 +1,1 @@
-i want to donwload larg file from my simpl http server. i am use node-webkit application.and simpl http.get method to download file but it is not download larg file from server.her is code i have written.thi code is work fine when i download file from my local server. but when i provid url of file host on server then it is not working.mi applic download zip file from server in both case but while download file from internet after 5-10%, connect closes.pleas help.
+download large file from url using node j

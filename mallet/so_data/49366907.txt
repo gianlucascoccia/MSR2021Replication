@@ -1,1 +1,1 @@
-i'm current work on an
+Electron JS: Windows frame is visible around BrowserWindow after focus lost

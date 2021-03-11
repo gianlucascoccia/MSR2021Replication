@@ -1,1 +1,1 @@
-i am use node-webkit to build a text editor . however, i want the termin to be embed in the application. kind off like sublimerepl . i haven't found a way this can be achieved. need some guidanc here .is there a web plugin or someth that can help ?also the part that confus me is, how doe this embed termin communic with the system termin ?
+Embedding terminal in a node-webkit app?

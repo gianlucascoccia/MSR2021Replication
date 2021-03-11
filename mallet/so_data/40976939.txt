@@ -1,1 +1,1 @@
-i'm intend to creat an app use electron to extract data from a websit and save it in a db. this websit is similar to google(an input and a search button, but no api) instead in addit requir for the first search to introduc a captcha code. my concern is to find out what the simpl way to automat the process of send request and collect the results. can be selenium a way or there is no need of other extens to achiev it? pleas offer me advice?(i don't have electron experience)
+Extract search result from external url using Electron cross platform?

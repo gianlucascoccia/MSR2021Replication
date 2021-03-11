@@ -1,1 +1,1 @@
-i'm use electron-react-boilerpl to develop electron app (which use electron-build to pack apps).i want to creat tray, but it requir icon path or nativ image. the question is how to retriev icon imag from electron-build or how to tell electron-build to includ icon dir into resourc (without packing), so i can use:
+How to get icon path/image in electron-builder

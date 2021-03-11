@@ -1,1 +1,1 @@
-im tri to use db.js, to initi varialb
+Include JS in dist folder electron

@@ -1,1 +1,1 @@
-i'm new to node.j and electron, or server side script in general. i'm tri to creat an electron app that has url pattern and can send and get data. but, i don't quit understand how nodej work exact or even electron really, so i feel like i'm miss something. sorry, if the question is too broad, i'm not realli sure what to ask. could ani point me in the right direct to mayb some help resourc or an explanation? thank
+How to setup a server using node.js and electron?

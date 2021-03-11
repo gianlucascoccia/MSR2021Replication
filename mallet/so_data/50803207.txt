@@ -1,1 +1,1 @@
-as per the offici website, the correct way to save electron file is:) and this goe against the top vote answer here. so whi do we make this exception, if this is even one?
+Why doe Electron need to be saved a a developer dependency?

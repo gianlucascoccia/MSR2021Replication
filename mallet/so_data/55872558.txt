@@ -1,1 +1,1 @@
-i have an electron app that use axio to make requests. the request are error within electron with code
+HPE_INVALID_HEADER_TOKEN when making request using axios in electron app

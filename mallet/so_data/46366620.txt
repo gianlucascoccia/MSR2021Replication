@@ -1,1 +1,1 @@
-i have a websit with node.j enabled.us will enter a key via form and then in the script we will get a string like this. the user will enter \n becaus it´ copi and past from a privat keyso as example:i there a way to disabl escap with fs as option valu or do you know anoth way? :)
+fs.writeFile how to disable escaping at stuff like \n

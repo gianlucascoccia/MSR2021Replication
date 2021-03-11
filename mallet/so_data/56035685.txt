@@ -1,1 +1,1 @@
-i would like to know how can i detect the
+Ways to detect node environment in electron

@@ -1,1 +1,1 @@
-i would realli know how to output the usernam in electron applications. so someth like that:i that possible?
+Outputting the username in Electron

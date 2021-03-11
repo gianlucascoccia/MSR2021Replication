@@ -1,1 +1,1 @@
-i built an electron app, pack the app with electron-packag and build the instal with windows-installer.todo:i want to run some command dure the instal the app.what i tried:put code insid squirrel event to execut commands:it work well if command can run successfully. however, i also need to handl command fail situation. in that case, i want to stop instal the app but it can't.do anyon have ani idea?
+Electron app: control squirrel install event

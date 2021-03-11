@@ -1,1 +1,1 @@
-i have a function: to log to the console.
+module.exports function behaves differently than regular function

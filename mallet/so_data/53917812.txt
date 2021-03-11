@@ -1,1 +1,1 @@
-i am work on an applic in electron, on this page i have put a button howev the script doe not run when clicked. ani help would be great appreciated.
+Getting script to run when button clicked in Electron

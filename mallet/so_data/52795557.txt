@@ -1,1 +1,1 @@
-story:i'm build an app with electron. this app receiv event from the server and display them. at the same time, the app assum the event are seen by the user and inform the server.let say, the user chang to anoth window (e.g. web browser, mail). in that case i don't want the app to still confirm event as seen.question:how can i detect if an electron app is unfocused? the solut should work for window and macos.
+Electron: How to dectect if app is in unfocused / in background

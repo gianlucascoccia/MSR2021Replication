@@ -1,1 +1,1 @@
-i'm tri to retriev a list of data from after i click on the button, my list in the view get populated. now my question would be how can i have my list popul on the start of the control rather than wait for an event ro make it happen?
+AngularJS: Retrieve mysql data in electron and publish it to AngularJS scope

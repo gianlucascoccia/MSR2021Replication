@@ -1,1 +1,1 @@
-situation: i want to creat a multithread script where i load a list of ip + account inform with a csv. i load the data and call a function where i open electron and run my nightmar script in combin with vo. insid the script i go to a site, loop through a list of link and check if someon live in australia. when i have an error, for exampl timeout, the browser stop working.error exampl ->desir outcome: i want everi time i get some kind of error that my thread is closing.
+Electron process in multithread doesn't close after error

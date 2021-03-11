@@ -1,1 +1,1 @@
-i have an node webkit base kiosk app which is run on a window 8 x64 machine. how can a programmat shutdown the whole system? the shutdown process shall be initi from a cheat-key in the kiosk app.im face with these questions:how to close the kiosk app itself? explicit - right befor call the shutdown command or implicit (let window kill it dure shutdown) how to prevent ani interrupt warn from windows?th kiosk app itself doesn't store ani data (read only) so it is safe to kill it at ani time.
+Node Webkit: forced shutdown of a Windows 8 machine from kiosk app

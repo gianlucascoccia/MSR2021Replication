@@ -1,1 +1,1 @@
-i am new nodewebkit .i have creat simpl applic of hello world.index.htmlcan somebodi help to run applic ? thank
+How to run node webkit app in ubuntu 12.04?(Node js)

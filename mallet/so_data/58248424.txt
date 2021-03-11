@@ -1,1 +1,1 @@
-i have the follow script ani hint would be appreciated.
+How to detect which compiling option are used on recompilation by webpack

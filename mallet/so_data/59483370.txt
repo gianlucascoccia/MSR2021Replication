@@ -1,1 +1,1 @@
-i'm tri to write imag and json object to window clipboard use clipboard api.(i'm use vue and electron)i succeed to write imag and plain text, but when i tri to write json object it return an error: in the item then it works. look like the clipboard doesn't accept json object. it strange.however, i want to write an object to the clipboard along with an image.i there ani solut to solv this problem? mayb i should use the other thing than the clipboard api?thank you in advance!
+write image & json object to clipboard

@@ -1,1 +1,1 @@
-i am tri to make an electron app that will read given directori recurs and print file name to user.luckili i found a function on github which make exact what i want. (link here). when function find file one by one, i want to show user which file has just found.thanks.
+Node Electron synch text append

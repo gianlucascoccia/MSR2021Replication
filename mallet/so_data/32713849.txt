@@ -1,1 +1,1 @@
-how can i grab domain user secur context (usernam etc.) in electron app run under windows?i know i can use environ variabl (process.env.user), but i don't think it secure.
+How to implement Active Directory based SSO with electron?

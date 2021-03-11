@@ -1,1 +1,1 @@
-typescript just relas 3.7.3 with option chaining, so i want to upgrad a project for this feature.however, after rune folder, and it seem react won't be abl to load these resourc dynamically).
+How to prevent `Navigated to http://localhost:3000/` for electron-react app

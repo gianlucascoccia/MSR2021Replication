@@ -1,1 +1,1 @@
-i'm current build an app in electron/nodej and am at a point where i'll need to elev privileg on window to do a specif task (on win7+ are a concern). how can i do this programmatically? i'll even take execut a bash script if it get the job done. thanks!
+Elevate NodeJS/Electron process on Windows

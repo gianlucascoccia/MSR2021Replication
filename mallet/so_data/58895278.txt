@@ -1,1 +1,1 @@
-i am tri to load a default global theme into all of my electron windows, so i creat the follow file doesn't load into the new browserwindow. ani idea as to whi this is happening?
+Vue cli page with sc prependData @import not importing to all page

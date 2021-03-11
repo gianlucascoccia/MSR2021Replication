@@ -1,1 +1,1 @@
-i'm tri to test my electron app https://github.com/rafaelleru/torrent_play with spectron and i tri to setup the test of exampl in https://github.com/electron/spectron ant it pass in my local pc but in travi i don't know how to setup the bin file to test or how tell to travi to generat the bin files.what is the right way to do this?
+test electron app with spectron and travis

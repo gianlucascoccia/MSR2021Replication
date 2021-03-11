@@ -1,1 +1,1 @@
-can you get system wide keypress event and/or mous movement event in nodejs? thanks!
+System level keypress and/or mouse event with nodejs?

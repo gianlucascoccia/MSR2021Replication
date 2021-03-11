@@ -1,1 +1,1 @@
-i was tri to integr node-pti and xtermj in an electron app. i'm use vuej for the frontend and want to creat a termin interfac insid the app. so how do i structur my code so that i can use it as a compon like this: the follow imag show the result of abov code which is a differ project without vuejs.us plain jsso how can i get it work in vuejs.just start learn vuej and web stuff, so pleas excus if it someth obvious.
+Issue with integrating node-pty and XtermJS with VueJS in Electron app

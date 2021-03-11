@@ -1,1 +1,1 @@
-so i'v been tri to compil node webkit on window for a while now and i'v gotten stuck on this error that no amount of googl can help me resolve.i run
+node webkit - gclient sync on Windows 7 missing base_window.h

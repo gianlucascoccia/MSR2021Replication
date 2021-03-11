@@ -1,1 +1,1 @@
-so i am develop an app (calendar) with electron. i have made this menu where you can add new event and so on. and i want the user to be abl to enter the titl of their event into a textbox/input field. but when i creat the element, i cannot type anyth into it..? this is how i have set it up:whi isn't this working..? i have also tri wrap everyth up in a paragraph tag, but to no avail.in advance, thanks.
+Cannot type into text/input field with electron

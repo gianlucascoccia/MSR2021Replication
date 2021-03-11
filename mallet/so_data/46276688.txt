@@ -1,1 +1,1 @@
-when use the flag has been set to fals already. is there someth els i need to configur in order to work ?
+linkedin authorize window with Electron

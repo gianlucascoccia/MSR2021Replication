@@ -1,1 +1,1 @@
-updat 1: i have a new problem now while attempt to install, and setup aurelia navig with typescript and electron follow these direction: https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-typescripti got up to the part where i run electron with electron . and that when electron open up, but get stuck on the load screen. gulp watch and brows the local site seem to work, but electron alway give me the load screen.how can i fix run electron without get stuck on the load screen?
+Electron stuck at loading screen during Aurelia Navigation Setup

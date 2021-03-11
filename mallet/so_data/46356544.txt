@@ -1,1 +1,1 @@
-so, i'm write an electron app and at some point i will need a pathname.on my render thread (use jquery), i have this code:
+showOpenDialog() refreshes window

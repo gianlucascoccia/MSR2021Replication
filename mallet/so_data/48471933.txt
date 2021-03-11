@@ -1,1 +1,1 @@
-the onli thing i can find relat to this is sendinputevent.ther a coupl problem with it.it seem that it can onli be call from the main window thread. i need this to happen when someon click a button in the application.it doesn't even seem to work at all even from the main window thread. example, this doesn't seem to do anything:code:). also it look like it requir build it manually. all in all i'm tri to keep my absolut depend count to a minimum if possible.ani ideas?
+Send key from an electron application?

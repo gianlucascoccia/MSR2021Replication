@@ -1,1 +1,1 @@
-i'm tring to use svg.panzoom.j 2.0.2 into a electron app but i'm wrong someth that, i think, is about how i includ the plugin into the app. this is my htmlbut panzoom is not recogn as a function of svg.ani idea?
+How to use svgpanzoom in a nodejs application

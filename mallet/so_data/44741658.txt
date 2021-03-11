@@ -1,1 +1,1 @@
-i have a button in my electron applic with class name "send":i there a way to simul button press in electron after press the shortcut key?
+Using electron webContent function to fire an event based on the class name

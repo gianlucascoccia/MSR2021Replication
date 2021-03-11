@@ -1,1 +1,1 @@
-i have built an imag view app use electron js for window 10. i am abl to add view imag to the clipboard use clipboard.writeimage. however, use this, i can onli past into word and other edit applications. i would like to be abl to past my imag as a file as well so then it can be copi into folders. is there a way to do this in nodejs? i also do not mind if the command is given in powershel or cmd as i can call either one from nodejs.mani thank
+How can I copy an image file in node/electron and be able to paste it a a file to another directory in windows?

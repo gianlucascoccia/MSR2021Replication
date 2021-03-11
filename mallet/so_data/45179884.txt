@@ -1,1 +1,1 @@
-in electron, i have my main process open a browserwindow. the browserwindow load one html page and then the same window eventu load anoth html page.main.jswhen main.j load the second page (login.html), will the global variabl be deleted/dereferenced? the doc say that if the render process derefer a global variabl then the variabl will be gc'd. when i tri to test this i get inconsist result and i would just like some explan from someon more wise than i.
+Electron global variable garbage collected if renderer process closes?

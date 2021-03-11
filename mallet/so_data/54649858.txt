@@ -1,1 +1,1 @@
-i'v got some issu with authent (use cooki and session) and my electron-appth use case:us log insess creat and cooki is stored. (bi app-bl module)i read about i have the feel i'm miss someth here.
+Access renderer process cooky by electron's main process

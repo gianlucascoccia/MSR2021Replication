@@ -1,1 +1,1 @@
-i'v been tri to search this up, but i can't find the answer.in winform you can make an mdi to creat form insid of, so that the mdi child window cannot go outsid of the mdi parent window. doe electron have this featur or someth similar?
+Does Electron have MDI similar to WinForm MDI

@@ -1,1 +1,1 @@
-i'm write electron applic and it need to be connect to backend layer through a socket connection. the logic is if 1st socket connect, use it but if 1st socket is disconnect tri 2nd and so on. i have implemenet it like bellow but seem it connect to 1st and 2nd ip both.
+connect to 2nd socket if 1st socket got error electron.js

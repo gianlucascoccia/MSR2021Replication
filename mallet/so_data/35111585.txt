@@ -1,1 +1,1 @@
-i have nwjs app, and i want save file. so i have code like this:and it good. but when i want re-sav data in the same file, it not working. no error but no new data in file to.
+NWJS can't re-save file

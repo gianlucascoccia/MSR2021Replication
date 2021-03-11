@@ -1,1 +1,1 @@
-i'm make a game downloader/launch use node webkit. i'm abl to download a rar file but now i can't find anywher onlin how to "unzip" the rar file to a certain directory. anyon know how i can do this with nw.js?
+nw.js extracting zip/rar file

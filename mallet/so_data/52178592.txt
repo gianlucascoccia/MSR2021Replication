@@ -1,1 +1,1 @@
-i got this from the docsit open two windows, on is the dev tools. but it exact underneath the main window. is there a way to get them side by side (the screen is big enough)?
+How to set the devTools window position in electron

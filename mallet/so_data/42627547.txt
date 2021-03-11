@@ -1,1 +1,1 @@
-i am work on an electron app and i have a globalshortcut.regist event.what i want is, when user press this shortcut, hide my app window and simul a past (ctrl+v) in the background app like a text editor. this can be made with electron?
+simulate Ctrl+V in electron app

@@ -1,1 +1,1 @@
-i use , but how to workaround it?
+How to configure webpack for "require(ffi)' module in electron?

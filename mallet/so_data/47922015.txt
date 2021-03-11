@@ -1,1 +1,1 @@
-i have a electron client/serv applic where the server communic with a coupl of client over the lan. this communic is establish via as long as i test everyth on one machin it work great, but i cannot connect other machines. i there ani way the server and client can find each other as soon as they are started, without know who has which ip?
+Connecting to Server with unknown IP-Address

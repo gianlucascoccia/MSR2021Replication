@@ -1,1 +1,1 @@
-i tri the code below (follow this articl [https://capacitor.ionicframework.com/docs/apis/geolocation/] ) ) in an electron project - this post is duplic to this one https://github.com/ionic-team/capacitor/issues/1858thanksmusa
+Ionic / Capacitor Electron Geolocation Error

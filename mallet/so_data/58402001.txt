@@ -1,1 +1,1 @@
-i'm attempt to run python script through an html button for my electron app. however, i'm have issu with connect the python code to the html button. i'm use visual studio code for javascript and python. all the file are save in the same folder/directory. here my python code (script.py):i would like for python code to be run and appear on either the same or pop-up page.
+Is there a way to run python code through a html button within an electron destop app?

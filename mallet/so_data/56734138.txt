@@ -1,1 +1,1 @@
-we are develop an electron client softwar where we need to get some configur file (...) which are store on our server run django. as we want to get specif config file for each user, we need a login for the transfer.thi is the code we are use in the electron client (use we want to use this with bulkdownload at first but as it didn't work, we built this small exampl to test it, but even this doesn't work.
+Electron Download Manager Authentication Not Working

@@ -1,1 +1,1 @@
-i have an electron app built and packag for maco in a content is a solut as well.thi may not be possibl though becaus a relev question mention there are onli abstract of the ffmpeg cli instead of someth that can direct use ffmpeg.
+How to install ffmpeg and an app together on a Mac?

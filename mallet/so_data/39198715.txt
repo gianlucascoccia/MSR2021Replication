@@ -1,1 +1,1 @@
-i am use is get print multipl times. what is the reason for this issue. how can i solv this.
+child_process exec command is getting executed multiple time

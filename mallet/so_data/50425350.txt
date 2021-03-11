@@ -1,1 +1,1 @@
-i'm need to add config modul like electron-config and implement it in react modules. how can i do this? i'm tri to import electron-config in my react modul like this: in main react component.
+Using electron config module in react component

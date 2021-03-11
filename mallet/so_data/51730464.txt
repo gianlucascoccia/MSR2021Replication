@@ -1,1 +1,1 @@
-i'm use electron and react, the react app was creat with the create-react-app boilerplate. i need to use the electron api to open an extern link, but this task is achiev from a react component. i import the remot electron insid the react component(in order to get access to the current window.) but that gave me an errorthi error is show in the electron windows.
+using electron api from react component

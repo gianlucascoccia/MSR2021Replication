@@ -1,1 +1,1 @@
-is there way to handl console.log messag from render in main process? similar to cefdisplayhandler::onconsolemessag handler in cef.
+Electron handle console.log message in main process

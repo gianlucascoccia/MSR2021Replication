@@ -1,1 +1,1 @@
-i tri to solv a problem on an electron applic that use quit a lot of ipc channels. for each channel, we have a tupel (channelname, payload, result) and the type of payload and result both depend on the channel name. one exampl to use the channel is like this:. is there a solut to restrict the map valu to certain types?
+Typescript generic - multiple type depending on common key

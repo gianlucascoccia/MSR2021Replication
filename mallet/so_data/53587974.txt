@@ -1,1 +1,1 @@
-i use electron-packag . --asar command to packag my project folder. but there are some folder which must not be includ while packaging.i it possibl to exclud some of folders?if so, i would like to includ those folder in exe file path so that the user can manag their files. is there ani way to do this?thank you in advance!
+Exclude some folders, while doing electron-packager . --asar

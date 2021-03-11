@@ -1,1 +1,1 @@
-is there a way to render mpv video output to canva with electron, so it would be possibl to emb mpv player featur insid an electron app?
+Render mpv (mplayer) output to HTML5 canvas with Electron

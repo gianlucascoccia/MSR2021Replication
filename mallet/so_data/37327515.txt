@@ -1,1 +1,1 @@
-i'm tri to use firebas with electron. when instal it just like i would on a web page it doesn't work becaus electron page are host local and don't have a
+Using Firebase with Electron

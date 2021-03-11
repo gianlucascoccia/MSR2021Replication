@@ -1,1 +1,1 @@
-i am pars a messag for url's, but these url come in 2 differ formats. either:
+Detecting URL Regex with 2 different format

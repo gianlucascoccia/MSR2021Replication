@@ -1,1 +1,1 @@
-in my electron app, i am use serialport to interfac with arduino devices. i want to list the port avail (plug in arduinos) in the electron menu. i now do not know how i can send the data from my
+How to add menu item to Electron Menu from list of serial port

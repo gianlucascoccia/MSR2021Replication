@@ -1,1 +1,1 @@
-i am tri to creat a login window with a login form, but use a custom window with no frame, that i want to attach some custom buttons.i have creat the window with the top bar, with a singl circl as a button, but tri to move it to the right seem impossible.thi is how it look right now with the follow codehtml&#xd;&#xd;&#xd;&#xd;&#xd;what the way to move it in the extrem right side of the window?thank for your answers!
+Moving a button to the right side of the screen

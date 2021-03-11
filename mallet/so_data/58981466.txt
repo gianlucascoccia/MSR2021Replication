@@ -1,1 +1,1 @@
-i'm creat an angular project and i'd like to make it run as an applic use electron. i do have some problem with do this.i am make use of thank you for take the time to read this and i hope you could give me some advice.her is a pictur of how my screen look like when i start up the app imag
+Electron angular program blank screen

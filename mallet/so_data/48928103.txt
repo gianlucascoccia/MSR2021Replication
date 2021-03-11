@@ -1,1 +1,1 @@
-i have made an app with electron.aft load addit data via ajax the content-list start to becom larger then the in main.j defin browserwindow:th scrollbar appear but they are disabled. therefor useless.what do i have to do for accomplish enabl scrollbars?
+Electron: Scrollbar appears but it's disabled

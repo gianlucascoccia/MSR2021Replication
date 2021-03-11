@@ -1,1 +1,1 @@
-in the the problem is the posit is off. as far as i can tell, i get the inner position. when set i set the outer position. the window titl and border onli account for when setting.a this is cross-platform code i cannot test it on all platform (yet) and i don't know if it is possibl to get the metric of the window engin so that i can correct it programmat (think about the user chang the dpi or theme on windows).i there a way to compens for this?
+Get and set correct window position with node.js

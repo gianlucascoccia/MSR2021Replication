@@ -1,1 +1,1 @@
-i am current build an electron app. i have a pdf on my local file system which i need to silent print out (on the default printer). i came across the node-print library, but it doesn't seem to work for me. is there an easi solut to achiev this?
+Silent printing in electron

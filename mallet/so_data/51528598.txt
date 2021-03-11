@@ -1,1 +1,1 @@
-hey so i'm make some softwar that will have 4 differ steps.loadedit item 1edit item 2submit to an onlin storagesinc but all i accomplish was get the html in a string format.been tri to find a way to use ajax, but so far everywher i'v look it for includ the html into a differ html page.i am new to both jqueri and ajax and just look at them today. so mayb i am miss someth about them. but cannot find ani tutorials/documentari for load anoth page.
+How do I "load" another HTML file?

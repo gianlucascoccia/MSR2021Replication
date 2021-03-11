@@ -1,1 +1,1 @@
-i'm take over an outdat electron-webpack + react app, and my build is alway get this error:i found that esprima creat symlink to espars in it .bin folder, but tri to open the symlink in explor give an "invalid directory" alert box, so i assum that is relat to the enoentani clue how to resolv this?
+EOENT esprima esparse Windows symlinks invalid directory file not found

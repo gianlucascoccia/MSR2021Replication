@@ -1,1 +1,1 @@
-backgroundw are build an electron applic and have been abl to work on it, and build it use linux and mac os. when we move it to a window machin in develop or when build on a mac os machin then ran on the window machine, it fails. when we follow the instruct here it says, when run an electron-build applic scaffold with vue cli 3 on window 10?
+Electron Builder Vue cli 3 application on Windows throwing error registerStandardSchemes undefined

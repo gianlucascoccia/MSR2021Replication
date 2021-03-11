@@ -1,1 +1,1 @@
-i am build an app use angular / electron. in an angular compon i have a method - .so my question is, what is differ about call a method on an ipc callback vs call it directly? is this a sync/async thing? zones? scope issue?ani thought glad received.ch all
+No Angular change detection when communicating from IpcMain

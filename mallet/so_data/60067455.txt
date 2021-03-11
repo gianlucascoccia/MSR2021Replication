@@ -1,1 +1,1 @@
-there an (appar undocumented) function of browserwindow - process and communic with the window use ipc. that mean like 30 line of code across at least two files, and endur an extrem brief ipc delay. if i could determin whether the window was throttl from the window itself, it would take 4 line of code.
+getBackgroundThrottling() or equivalent on Electron?

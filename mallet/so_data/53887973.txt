@@ -1,1 +1,1 @@
-i'm run an electron (v2.0.3) project which execut script in a webview. one of the script is to play a local audio file under conditions. however, the audio play is reject if it call insid a webview, while work fine if call in . however, it doesn't work for me, still.
+Audio.play() rejected with NotSupportedError inside Electron webview

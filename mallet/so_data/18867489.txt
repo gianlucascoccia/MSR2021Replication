@@ -1,1 +1,1 @@
-i'm get the follow error in my simpl exampl use node-webkit:
+Uncaught AssertionError: path must be a string error in Require.js

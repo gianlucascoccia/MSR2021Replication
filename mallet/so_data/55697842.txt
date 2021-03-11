@@ -1,1 +1,1 @@
-im not understand whi it is i cannot seem to click on the menu i made.i am slight new to electrons, but it seem that when i add my own html script, say in a webview, it work but then when i add a noth ive tri seem to work and it seem like that on other app ive tri creat too use implement html like a normal web page.her a 20 second video show in detail https://www.dropbox.com/s/l1fc2tl1hwh1n84/7ske69ttq4.mp4?dl=0
+Why can't I click on any buttons?

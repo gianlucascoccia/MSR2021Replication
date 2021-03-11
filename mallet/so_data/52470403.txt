@@ -1,1 +1,1 @@
-i'm work on a devtool built with electron to manag react applications. the tool can do thing like creat new project with create-react-app, run a local dev server, instal dependencies, etc.thi all depend on the user have node instal on the system, sinc all of the task that a user can do just use to "electron helper` and add that symlink to the path, but this is start to feel aw complic and not entir cross-platform-friendly.i there a simpler way?
+How do I use Electron's built-in Node instance, for running tasks?

@@ -1,1 +1,1 @@
-i am tri to integr spectron with ember-electron for testing. i found an exampl for spectron but i am not sure what to assign in the
+Path configuration for testing Ember-electron with Spectron

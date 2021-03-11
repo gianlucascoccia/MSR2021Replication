@@ -1,1 +1,1 @@
-i am tri to play flash content in my electron app (chromium browser). for that i have ad pepflashplayer.dl in my project parallel to index.j and ad below code suggest everywher -but whenev i am play flash content, i am get this error -flash is unavail in your browseri have tri with 64bit as well as 32bit dlls. tri to download dlls form multipl sourc and use the one avail with chrome browser as well but no luck.would realli appreci for ani help. thanks!
+Flash is unavailable - Electron app (Chromium browser)

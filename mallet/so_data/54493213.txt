@@ -1,1 +1,1 @@
-i'm tri to find some document about use googl cloud hsm to sign executables. i have found a quit comprehens guid for aw cloudhsm but aw price (>$1,000/month) seem to be order of magnitud more expens for our use-case.can i appli the aw guid (above) to googl cloud hsm infrastructur or are there ani signific differ that i should be awar of?
+Using Google's Cloud HSM to sign executables

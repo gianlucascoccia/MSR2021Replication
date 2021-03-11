@@ -1,1 +1,1 @@
-i'm build an statement, it'd seem weird for a simpler solut to not be available.
+How to load CSS from library when using 'require'

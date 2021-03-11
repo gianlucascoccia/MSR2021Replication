@@ -1,1 +1,1 @@
-this should be a pretti easi problem to solve, but for the life of me i can't figur it out. i'm use the cli electron-forge(v6) and am unabl to get the taskbar, nor the exe icon working. develop under windows.package.json
+Electron-forge v6 icon

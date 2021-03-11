@@ -1,1 +1,1 @@
-i want to setup the follow compon and want to run the follow basic unit test on it.(i'm new to vue.j and not sure which inform is valuabl for solv my question. pleas ask if some other specif code part would help you to help me.)user-information.vue: (vuex-functions). but i'm confus - i'm use no data which is store in the store in my simpl test.
+Setup test for Vue.js-electron app which us Vuex

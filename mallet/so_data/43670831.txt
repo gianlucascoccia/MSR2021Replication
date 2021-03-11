@@ -1,1 +1,1 @@
-i'm veri confused. when i run electron use npm start where i have a script that start my node server and then electron: node server/app &amp;&amp; electron .'everyth work fine except the the resolut is incred zoom in. on top of that, set the zoom factor in my main.j file has essenti no effect.however, when i manual call electron .' everyth work as normal. the resolut is fine and electron respond to set the zoomfactor property.her is my main.j file:
+electron zoomFactor not having any effect

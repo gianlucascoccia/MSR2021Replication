@@ -1,1 +1,1 @@
-i am new to electron and convert an web app to desktop application.i am load page from file system.cooki are work if page are serv from web server but when i load page from local folder i am not abl to save them. i am save cooki use document.cooki in web.i want to know how i can i enabl file:// cooki in electron . regard
+Electron set cookie

@@ -1,1 +1,1 @@
-i would like to creat a file list that like the following:a long as i input multipl file into a section, it will make a list that content the files. is there ani nodej modul or javascript to do that in electron?
+Is it possible to create file list in Electron?

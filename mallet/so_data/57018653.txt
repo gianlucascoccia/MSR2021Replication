@@ -1,1 +1,1 @@
-i'm run nightmar js with electron js. at first user should auth in the page which first nightmar instanc then, cooki should store somewhere. if cooki exist it should run in headless mode in the new nightmar instance, previous one should be closed. if i restart the app, it should immedi run in headless mode, becaus cooki exist and no authentifact needed. problem is it immedi close first instanc without open second instanc of nightmare.
+How to run another nightmare instance with cooky if exists

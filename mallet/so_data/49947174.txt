@@ -1,1 +1,1 @@
-i want to run some spectron e2e test i wrote some week ago, but to my surprise, sudden they all stop work for one and the same reason.accord to the error message, i'm deal with reject promises, but i can't figur out where the problem is come from. call done at the end of my testcas rais the exact same error.i'm run the follow command to launch my test suit:
+Mocha (Spectron) suddenly time out on async test scenario

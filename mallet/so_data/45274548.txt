@@ -1,1 +1,1 @@
-i'm tri to make an electron app. however, my work stuck on veri beginning: the
+node.js require return a string instead of module object

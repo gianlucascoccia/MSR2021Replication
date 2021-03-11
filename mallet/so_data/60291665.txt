@@ -1,1 +1,1 @@
-i have an electron app configur to open at login use electron api, like this:but everi time the user log in, the electron "welcom screen" is display both with the window of my app. how can i stop this from happening?i use electron-build for creat the nsis instal (windows).
+How can I make the Electron welcome screen to stop showing on session start?

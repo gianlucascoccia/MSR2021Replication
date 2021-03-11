@@ -1,1 +1,1 @@
-i'm tri to instal a project from github and follow the instal instructions. when i run npm instal in the project directori it return the error result below:&#xd;&#xd;&#xd;&#xd;&#xd;
+npm install returning error [trying to install butter-project]

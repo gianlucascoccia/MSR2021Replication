@@ -1,1 +1,1 @@
-i am new to node-webkit. i have creat a simpl applic and i would like to know how to packag and distribut a node-webkit app done use sails. i want a complet .ex file which would help me instal my applic in ani computers.thank in advance.
+Packaging and distribution of node web-kit app done using Sails

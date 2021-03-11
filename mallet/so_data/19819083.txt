@@ -1,1 +1,1 @@
-i'm not sure if this is possibl or not. i am wonder if there is a way to specifi the index file that is open up when node-webkit is launched. i.e., i am tri to overrid the command line switch specifi here, but when i pass this param node-webkit fail to open at all.
+Is it possible to specify "main" file when launching node-webkit

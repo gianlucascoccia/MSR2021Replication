@@ -1,1 +1,1 @@
-i want to distribut my web-app to os x use i have no idea where to start troubleshoot of this.
+Electron cannot build platform dependency fsevents and/or sqllite on OS X

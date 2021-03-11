@@ -1,1 +1,1 @@
-i am tri to develop a node webkit applic and tri to use the cheerio library.i have import it use my node_modul folder contain the cheerio folder and i have includ it in my package.json file as well. i even tri instal cheerio global and i face this error.
+Uncaught Error: Cannot find module 'cheerio' Nodewebkit

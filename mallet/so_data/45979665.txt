@@ -1,1 +1,1 @@
-sinc a few day .sticky-top class doe not work anymor on thead tags. last week it just work perfectly, now i came back and tri few thing on my app and it stop working. anyon got an idea why? that just work perfectly. now i cannot use it anymore. i test it with just div and for div it still working, but i get an electron-dom error that i cannot spawn a div as a child of an tabl and i cannot spawn thead/th as child of a div. cheers, puschek
+Bootstrap 4 .sticky-top change to thead

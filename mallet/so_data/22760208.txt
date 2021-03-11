@@ -1,1 +1,1 @@
-i'm tri to use the node webkit speech recognit api but it give me a strang behavior. i initi the record like that : and i can't figur out this one work and not the other ones... what am i loos ?i brows this github issu (webkitspeechrecognit for desktop apps?) but don't find ani use information.
+node webkit speech recognition API

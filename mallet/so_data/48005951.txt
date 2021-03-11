@@ -1,1 +1,1 @@
-i have a react class with some initi states. array through this function. or is there ani other way to updat that array?
+How to update state from outside the react class?

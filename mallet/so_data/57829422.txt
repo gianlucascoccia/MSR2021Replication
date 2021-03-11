@@ -1,1 +1,1 @@
-i know there is anoth question like this, but none of those answer work for me.thi is the error:
+Serialport module compiled against different node version

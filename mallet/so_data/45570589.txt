@@ -1,1 +1,1 @@
-i'm tri to regist a protocol handler use is it right that it look in chrome\appl folder? i get the same error if i run with npm start or from a packag app use electron-packager.i there someth i'm miss that i need to configur for windows? like the plist on mac? i'v been look round but can't seem to find anything. let me know ani info i can add to help.
+Electron protocol handler not working on window

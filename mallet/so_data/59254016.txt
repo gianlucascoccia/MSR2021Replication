@@ -1,1 +1,1 @@
-i have an electron app where i am tri to push some cpu intens task to a worker thread. this work well when i start the app use i am veri confus about what could be caus this, but could it mayb be that the appl is be packag into an asar folder? i am veri confid i have the path correct for load the worker file as i am load sever other imag with the sameish path.
+Shared worker working before packing app, but not working after (electron)

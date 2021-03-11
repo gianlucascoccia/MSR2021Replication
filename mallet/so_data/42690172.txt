@@ -1,1 +1,1 @@
-i am tri to get fabricj to work with webpack and electron and current not get it to work.
+FabricJs, Webpack not compiling - Critical dependency

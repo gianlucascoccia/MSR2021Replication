@@ -1,1 +1,1 @@
-i'm use cento 7 x64, npm 5.6.0, node v9.5.0. i execut in my console, i get the follow error /usr/lib/node_modules/electron-prebuilt/dist/electron: error while load share libraries: libgtk-x11-2.0.so.0: cannot open share object file: no such file or directoryi'v look around on the internet tri to find a solution, but i couldn't find one for my specif os. doe anyon have ani idea how to fix this?i would great appreci ani comments/answers.thank you.
+error while loading shared libraries: libgtk-x11-2.0.so.0

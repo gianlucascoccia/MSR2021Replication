@@ -1,1 +1,1 @@
-i'm tri to build angular desktop app use electronjs. i'm face issu when open new window with angular routing. the issu is all *.js relat file in main localhost:4200 not loaded, and the new window onli show white pageth applic run on angular 8 &amp; electron 5.i tri to google, but all the exampl / video that i got, it open extern url in the new window, instead of angular routing.below is my index.html:i expect the main.j / other js are load the same way as localhost:4200, but the actual result are below :
+How to open new window in electronjs with angular routing properly?

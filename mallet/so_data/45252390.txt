@@ -1,1 +1,1 @@
-so i have some item that are nest someth like this.th output is someth like:this.grindstone[1][2].minwhich is return an error along the line of cannot find item [2] of undefined.what am i do wrong here?
+How to access nested element

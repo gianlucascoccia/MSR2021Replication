@@ -1,1 +1,1 @@
-exampl you have multipl browserwindow open and store on an array of browserwindows, you want to know which window call the close event so you can remov that specif browserwindow from the array.how?
+How to get the instance of BrowserWindow that called an event?

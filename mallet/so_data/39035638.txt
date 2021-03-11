@@ -1,1 +1,1 @@
-electron document (for exampl http://electron.atom.io/docs/api/browser-window/) say to import some featur use a destructur statement:thi work when run the code in electron but jasmin and visual studio* claim that the "{" is a syntax error.what is the correct usage?*th code is actual written in typescript (1.8 target es2015) but the transpil code in js is ident in this case.
+Javascript const declaration with brace

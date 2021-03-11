@@ -1,1 +1,1 @@
-i am work on an electron app which use nodert to show toast notif in window 10. so far, i have got thing work and a "toastgeneric" notif show up fine.th app is expect to show a notif to the user when the app get an incom call. a regular toast show up fine:however, if i add a
+Windows 10 Toast Notification with scenario set to "incomingCall" mess up the notification UI

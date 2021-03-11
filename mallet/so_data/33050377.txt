@@ -1,1 +1,1 @@
-i'v alway read that ember work just fine with pojo in place of ember data, but now that i'm give it a shot, i'm have a littl trouble. i'm creat an app use nw.js and linvodb for the database. fetch from the db is easi and work great:i can verifi that the tag object is be insert correct in the the tag array in the model, but the view isn't updating. from what i'v read, that caus i'm not use ember.object.how are you suppos to do this with pojo or do i have to use ember.objects? thanks.
+View doesn't update after pushing new POJO ember

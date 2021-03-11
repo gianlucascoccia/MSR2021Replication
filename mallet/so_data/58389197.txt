@@ -1,1 +1,1 @@
-i have built an applications, which is suppos to download file from cloud services. a lot of import links, which are contain in separ html files, don't work in electron, but do work in chrome or other browsers. i now got the hint to download them direct via the electron.net api. can someon explain me whi this work in the electron.net api and not in the normal electron? can i then pass the link to a function and they work?
+How to download file via the electron.net API?

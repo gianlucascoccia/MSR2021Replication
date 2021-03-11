@@ -1,1 +1,1 @@
-i'v got a drag and drop test base off a command that seem to be work for folks. the command trigger mous event that
+Drag and drop Cypress test fails in Electron browser only

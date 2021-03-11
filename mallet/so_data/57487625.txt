@@ -1,1 +1,1 @@
-i am tri to add a page refresh to my applic after my tts has finish talking. it should be simpl enough, i just don't know tts that well. right now i have a keyup that start the sequenc of tts talking, then anoth keyup that refresh the page. but i want the refresh to occur direct after the speech finish too.i have tri this:i just want to reload after the messag is spoken
+How to add a page refresh feature after a TTS message is read

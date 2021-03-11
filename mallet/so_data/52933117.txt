@@ -1,1 +1,1 @@
-i'm work on develop a chat program use javascript, and the electronjs. however, i have this problem: uncaught referenceerror: reconnectingwebsocket is not defin at conectaservidorsocket (teste.js:9) at htmlbuttonelement.fazconexao (teste.js:62)i'v tri everyth and i do not know how to solv it. it a colleg job.
+Uncaught ReferenceError: ReconnectingWebSocket is not defined

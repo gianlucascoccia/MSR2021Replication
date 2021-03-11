@@ -1,1 +1,1 @@
-i have creat an ionic 4 capacitor app. it is work fine on the android studio. but it is not work on electron. ani clue?thi is how i have convert it to electron: npx cap add electron ionic build --prod npx cap copi npx cap open electronbut it show a blank app. no home screen.home.html
+Ionic 4 app is not working a Electron app

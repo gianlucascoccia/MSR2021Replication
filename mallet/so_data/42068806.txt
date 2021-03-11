@@ -1,1 +1,1 @@
-i'm work on a nw.js app and one of the requir is that when a new window is open i thought if i drag the new open window quick to the extend display then wait without select ani other window then this new open one would enter the kiosk mode.p.s. i can't open the new window direct to kiosk mode. there must be a button which doe this.
+onclick kiosk mode to another opened window

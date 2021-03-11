@@ -1,1 +1,1 @@
-i'm develop a desktop applic use electron. i can't make an instal for maco (i use electron-forge).i it possibl to make an instal use electron-forg or can i use other librari (electron-builder, etc.)and is it import to use xcode for this purpose, or can other ide be possible?
+Installer for MacOs using electron 2019

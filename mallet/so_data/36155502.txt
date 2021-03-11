@@ -1,1 +1,1 @@
-i have the follow html structur in my nw.js app . i know that in web app this is done with ajax, but i have no idea how to do this in nw.js desktop app, and can't find ani clue on how to do it.can someon help me with this?
+Partial view in nwjs application

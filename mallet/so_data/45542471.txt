@@ -1,1 +1,1 @@
-now with the url like //abc.com', electron will automat redirect to file://abc.com'. is there a way to add ?
+How to add protocol to url like '//abc.com' in electron?

@@ -1,1 +1,1 @@
-https://electronjs.org/docs/faq#how-to-share-data-between-web-pageshow do i accomplish the global variable:if my electron-main is typescript?
+Share data in electron via typescript

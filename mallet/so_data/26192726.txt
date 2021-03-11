@@ -1,1 +1,1 @@
-i am a total beginn on node.js, i want to experi with it a bit.i follow the instruct on build a node webkit app. when i edit index.html, i ad other than these lines, there are still a bunch of error lines, but it seem to display 2 at a time.i do not want to invok ani node.j function or methods, is there someth in bootstrap that conflict with node webkit?
+Node Webkit - Tried to load Twitter Bootstrap, "Uncaught Node.js Error"

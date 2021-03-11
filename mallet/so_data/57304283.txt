@@ -1,1 +1,1 @@
-i'm creat a remot desktop app with netti framework and electron so far i'v implement the netti framework which can read data from my electron app like this:
+Netty Framework with Custom Events Implementation

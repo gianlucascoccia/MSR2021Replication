@@ -1,1 +1,1 @@
-it easi to make a hot reload for webpag in electron browserwindow, but what about the main process? everi time i chang some event handler code in the main process, i need to restart electron to make the code take effect, ani method to solv this problem without restart the electron process?
+electron main process hot reload or live reload

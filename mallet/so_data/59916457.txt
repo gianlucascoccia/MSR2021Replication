@@ -1,1 +1,1 @@
-i need to download file through the electron app. file are voluminous, weigh about 2.5-3gb. how can i implement a file download so that the download process can be paus and continu later?technolog that i use (electron, node.js, vue.j latest versions). perhap there are some modules?
+Download files(Electron)

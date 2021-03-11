@@ -1,1 +1,1 @@
-in a section of my desktop app, i'v written a function which updates/rewrit the html div text and an imag sourc depend on the output of a json file (which changes), howev the img src is not chang along with it.what the app look like. the logo imag should chang when the text (new headlines) changes.her the part of the function:
+HTML img src not updating dynamically

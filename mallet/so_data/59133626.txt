@@ -1,1 +1,1 @@
-i have a piec of code through which i am tri to load swf use electron js.here is the link from where i got the refer code to do the same.i am get below error, when i tri to get the output.
+ElectronJs : Not able to load Flash player plugin

@@ -1,1 +1,1 @@
-electron v1.8.2spectron v3.8.0ad spectron tests, but even an extrem basic test fails.attempt to run:launch 10 instanc of my applic veri quick and fail out with message: client initi fail after 10 attemptsi'v tri downgrad to electron 1.7.9 with spectron 3.7.3 with the same results.strangely, set connectionretrytimeout to 3000000 doe nothing. all app instanc start one after each other immediately.
+Spectron launch 10 windows; hang and fails with Client initialization failed after 10 attempt

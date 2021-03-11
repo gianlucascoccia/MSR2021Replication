@@ -1,1 +1,1 @@
-i have an electron app which upload a drop file to a predefin server with node-ftp. the upload work like a charm, but despit read a coupl of suggest i cannot figur out how to get inform on the actual progress for a progress-bar.mi upload-cod so far:i alway stumbl across monitor the data event, but could not find out how or where to access it (as you can see i'm quit new to javascript).
+Getting a progress for an FTP-upload with node

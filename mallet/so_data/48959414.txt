@@ -1,1 +1,1 @@
-hello i`m beginn in html.you can see the cooki in the get function.however, when call by anoth method, the cooki valu doe not exist.what should i do normal print cooki from other files?
+Cookie value is Null in javascript and electron

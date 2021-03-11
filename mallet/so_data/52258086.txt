@@ -1,1 +1,1 @@
-i am work on a nodej applic which help the develop in my compani with the develop of our electron-bas product. it doe some automat and at the end, it start the electron-app automatically.start the electron app from insid nodej is not a problem. normal the app are start with a bash script which look like:
+How to start and stop Electron application from NodeJs

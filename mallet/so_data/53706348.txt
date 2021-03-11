@@ -1,1 +1,1 @@
-when i run my electron app on macos, i want to read all paramet come with deeplinkingurl. i can abl to get the deeplinkingurl read it from so, how can i get deeplinkingurl when i invok my app on maco while it isn't run on background?
+Electron 'open-url' event isn't triggered while app isn't running on background

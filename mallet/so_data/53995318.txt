@@ -1,1 +1,1 @@
-i have a program written in vue and electron.thi program call an hook, but then it freez on the white screen
+vue load synchonous initialization

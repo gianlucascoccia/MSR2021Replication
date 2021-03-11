@@ -1,1 +1,1 @@
-i recent start use electron. i have success complet the 1st phase by creat a hello world app (includ file index.html, main.js, package.json). now i am tri to packag the app use electron-packag but get this errorstep i have followed: creat a project directori name helloworld.initi the project directori use
+'electron-packager' is not recognized a an internal or external command

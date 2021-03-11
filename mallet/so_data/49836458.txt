@@ -1,1 +1,1 @@
-i am tri to take an imag from the clipboard within electron, and put it on a canvas.in the electron main process, i have this function which is trigger by a menu item. if i write is executing.
+Load image from a Buffer/Blob

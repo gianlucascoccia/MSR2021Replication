@@ -1,1 +1,1 @@
-i'm start to develop with angular and i want to realiz an applic with electron and electron-edge.js.i set up the environ without issu and was abl to make electron works.howev when i arriv to the moment i want to use electron-edg i find stop working...thes is the error i encounter:i also see this thread: https://github.com/webpack/webpack/issues/3012in my code i don't see ani "target: "electron", where do i have to put it for a test?
+electron-edge-js: f and path can't be resolve

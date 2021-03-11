@@ -1,1 +1,1 @@
-when i tri to use worker_thread in my electron project the second new worker get call my app crash with errorwhen i test out the exampl in node doc it run without issues.i don't understand what these error mean and what i am do wrong.i am on electron 5 and node 12 and i use https://github.com/maximegris/angular-electron as my start point
+how to use node worker_threads with electron?

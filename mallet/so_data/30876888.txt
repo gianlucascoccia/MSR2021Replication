@@ -1,1 +1,1 @@
-i am tri to creat a desktop applic use node-webkit. the app queri an oracl database. to make the connect to the database, i use node-odbc.i did a preliminari test with node.j to make sure that i can actual queri the databas use my instal oracl drivers. here what i did:i am use nw.js v0.12.2.
+Experimenting with node-webkit: node-odbc fails

@@ -1,1 +1,1 @@
-i'm look into port my web app into electron but befor i invest the time in do so i would like to know if someon has enterpris chrome (https://cloud.google.com/chrome-enterprise/browser/download/#chrome-browser-policies) instal on their machin and have strict polici (no access to camera and microphone) would my electron app be affect by it?
+Will using electron based app allow me to bypass chrome enterprise policy?

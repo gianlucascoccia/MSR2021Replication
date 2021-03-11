@@ -1,1 +1,1 @@
-i have a code written on angularj and electronjs. i am plan to write e2e test case that can run on both web (angularj way) as well as desktop (electronj way).i also came across spectron which provid api for electronj (but, doe this work for web too?) and protractor which work for angularjs.what would be the best way to allow this to happen, so that i don't need to have duplic e2e code for both desktop and web?it would be great if some sampl codes/exampl can be given to resolv this problem.
+Single e2e code base for both AngularJS and ElectronJS automated testing

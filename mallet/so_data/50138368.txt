@@ -1,1 +1,1 @@
-i correct instal ffmpeg i'm abl to check it by write ( i had to past it as code becaus it was say that my post containt code that is not proper formatted)
+Metadata of ffmpeg is undefined in electron app

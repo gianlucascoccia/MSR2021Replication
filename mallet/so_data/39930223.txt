@@ -1,1 +1,1 @@
-i'v creat a fork of a repositori host an electron app which is a chat client: https://github.com/serkan-devel/betterdiscordapp-docker.what i'm tri to do is to creat a docker contain with a gui hook to the own screen like at https://blog.jessfraz.com/post/docker-containers-on-the-desktop/ .the dockerfil i'v creat goe like:although i made the file execut and use the right amd64 architecture.ha anyon figur it out how to make electron gui naitiv over docker work?
+How to run an electron app on docker

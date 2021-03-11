@@ -1,1 +1,1 @@
-i want to creat a javascript (use electron) app, but i want this app to be run and execut with termin commands, like how you run , is there a way to accomplish this?i know that python and rubi are better languag for this purpos but i have a reason to use electron.
+How can I create a Javascript application to run in the Linux terminal?

@@ -1,1 +1,1 @@
-ive been tri to convert an ionic applic to a desktop applic but cant seem to find a solution. whenev i run as state in the tutori here i get the error above.i would appreci ani help provided.
+Ionic and Electron Application doe not start. Error Launching App, Cannot find module at {Project Directory}

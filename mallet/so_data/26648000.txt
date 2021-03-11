@@ -1,1 +1,1 @@
-i am develop an app (node-webkit) that show a number of squar (tiles) in a kind of gridlayout. the tile are all the same size. when the get clicked, the doubl theri width and height to show more information. it current look like this, when one tile is opened.what i want to achiev is, to get a grid layout similiar to this: i am use bootstrap v.3 for my layout. the current html look like this:do anybodi know, how to align the small tile in just two rows, while show the big tile with a kind of colspan=2 &amp; rowspan=2 ?
+Girdlayout for Squares of different size in bootstrap?

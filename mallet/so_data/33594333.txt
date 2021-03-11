@@ -1,1 +1,1 @@
-i have a problem with get data from mysql databas to angular $scope.her is my app.jswith an dupe error : error: [ngrepeat:dupes] http://errors.angularjs.org/1.4.7/ngrepeat/dupes?p0=product%20in%20products&amp;p1=string%3ap&amp;p2=pbut when i fire up the same app in browser window it work like charm, but it still return duplic result.ani help ?
+Angular.js MySQL JSON to $scope

@@ -1,1 +1,1 @@
-i am new to electron, but have experi with nw.js. in nw.js, i have my project bundl as so:th applic is huge... so i onli want to have one applic directory. i don't want one for each os. logist it wouldn't make sense.i this possibl use electron, if so... what toolchain do i use to build it as so?thanks.
+Package Large Electron Application For Multiple OS

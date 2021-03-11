@@ -1,1 +1,1 @@
-i have creat an electron desktop application. i have use function.
+How to start electron desktop application a Administrator

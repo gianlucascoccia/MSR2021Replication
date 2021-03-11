@@ -1,1 +1,1 @@
-i am follow along and build an applic in a tutori book, here is the link to the repo, https://github.com/electron-in-action/jetsett it seem to not instal the depenc when i run npm install'.i tri instal some of the depend with -g tag befor run npm instal in the work directori but that did not chang anything, i still get the same error.th error messag on the cli is:
+Boilerplate Github repo won't run npm install, ERR! Unexpected end of JSON input while parsing near '...compile-2.0.0-beta.4.t'

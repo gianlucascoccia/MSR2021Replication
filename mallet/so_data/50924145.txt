@@ -1,1 +1,1 @@
-i am save so json to a file like this:first i this is actual save the file and i get no error but it won't load again or save again.it like i'm onli allow to do it onc but no errors.i there a better altern to this so i can tri it or ani idea on what the issu could be?
+Electron fs.writeFile - Problems saving the file more than once

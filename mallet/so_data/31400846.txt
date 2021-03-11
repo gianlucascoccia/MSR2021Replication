@@ -1,1 +1,1 @@
-my node webkit app start in "kiosk" mode. now i also want to be abl to open an app element (eg a video) in fullscreen mode by using:it obvious doesn't seem to work caus the "kiosk" mode itself seem to be a fullscreen mode.ani ideas?
+Node Webkit: Using Fullscreen API while beeing in kiosk mode

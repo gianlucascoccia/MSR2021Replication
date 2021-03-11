@@ -1,1 +1,1 @@
-i am learn electronj so i have start with make a simpl angularj applic with it and here i start stumbling.i want to store some persist data like user token and email id and so on. so, in order to do this, i am use use this code when you run the applic second time it should display the cooki data that had been set but no luck.
+ElectronJs with AngularJs: Cookies are not holding value if application is restarted

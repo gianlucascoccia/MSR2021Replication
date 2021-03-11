@@ -1,1 +1,1 @@
-could anyon help me with this bug in vscode? there is some kind of nois when i keep it in the background or idl for a while.i test both vscode and vscode insid version but same bug.i don't know if this is a electron bug, window 10 bug or someth else.
+Noise bug in VSCode when I keep in the background

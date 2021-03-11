@@ -1,1 +1,1 @@
-befor app.ready()
+Which method called before app.ready() in electron

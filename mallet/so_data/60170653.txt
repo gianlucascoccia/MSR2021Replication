@@ -1,1 +1,1 @@
-what the best way to make an electron app instal so that it instal it in programfiles? i am use the electron-builder, but it instal the app in %appdata%
+Electron App Installation to ProgramFiles

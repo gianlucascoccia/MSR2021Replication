@@ -1,1 +1,1 @@
-as answer in how to call a function/modul in electron from my webpage? i tri it but code requir electron. depend graph: scratch-desktop (electron) -> scratch-gui -> scratch-vm (from where i call)
+Electron call from renderer to main

@@ -1,1 +1,1 @@
-when i tri to run my app with node-webkit i have error: node-webkit: referenceerror: _ is not defined. i think it is about lo-dash, but on browser everyth work fine. here is my index.html code:in components.min.j i have all compon i need - lodash, angular etc. when i run it by browser or appj i haven't ani error, onli on node-webkit.
+Node-webkit: ReferenceError: _ is not defined

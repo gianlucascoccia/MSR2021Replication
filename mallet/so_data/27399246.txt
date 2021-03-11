@@ -1,1 +1,1 @@
-i have creat a node-webkit app for chat. for window and linux, cut, copi and past command are work fine. but the same is not work in osx.pleas help me solv this issue.thank in advance.
+Cut, Copy and Paste for Node-WebKit app doesn't work in OSX

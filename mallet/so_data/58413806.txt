@@ -1,1 +1,1 @@
-i am build an electron-vu app with multipl windows, i am use vue-router.th app work well when run from visual studio code termin (dev mode), but after build it for product i am get a white screen.her is my codepublic/index.html, but i am not sure what the correct url should be for product mode.pleas advis and thank in advance.
+White screen after building my electron-vue app for production

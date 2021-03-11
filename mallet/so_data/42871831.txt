@@ -1,1 +1,1 @@
-i tri to add addit attach to my document in pouchdb in my electron application. howev i can onli add last attach and the old one is overwritten.th follow data is not amend in a way which add new file:th problem here is how to add anoth attach to the structure. somehow i cannot achiv that via putattach
+Adding additional attachment to PouchDB document

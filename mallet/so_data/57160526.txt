@@ -1,1 +1,1 @@
-eb version: 20.44.4target: mac, dmgit seems, electron builder doe not copi everyth from node_modules. all the scope packag (the one whose name start with @) are missing.i have this in the config:no scope packages.. :( they should be list at the top.
+Electron-builder: how to copy scoped packages?

@@ -1,1 +1,1 @@
-i'm execut an applescript applic use nodej like this:forc an error by deliber write erron applescript code doesn't result in ani output in the node.j error event handler. my question is: how can i get output back from the applescript into the event handlers? chang the follow order or comment out the first two doesn't help.
+no output when node.js call applescript application

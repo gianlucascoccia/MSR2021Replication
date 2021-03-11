@@ -1,1 +1,1 @@
-i can't open chrome dev tool in my built electron app use electron packager. i have tri but this didn't make a differ either.i have also tri ad a key shortcut to open the dev tool but this did nothing. i am use the latest version of electron. thank for ani help in advance.
+How to debug electron production

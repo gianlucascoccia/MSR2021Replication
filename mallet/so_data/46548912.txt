@@ -1,1 +1,1 @@
-i am tri to play around with electron and creat an app that will run various powershel commands. the problem is i want a live output and cannot seem to find anywher how to implement such a feature. howev i do know that visual studio code doe exact this, it an app built on electron, and has an integr powershel termin with live output. my question is doe anyon have ani idea how vs code actual doe this? and how can i replic this featur in my own application?
+Incorporating an integrated PowerShell terminal like Visual Studio Code

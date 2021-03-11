@@ -1,1 +1,1 @@
-i start a project with my raspberri pi run an electron app where i need to get the actual weather from an open weather api. i am total new to electron and not that experienc in javascript. so i am stuck with get the data from the weather api into the app. i can request the data as json or xml data. i tri out differ way i thought it might work but they all failed. so could someon tell me how to get api data into electron in general?
+Loading weather API data into electron App

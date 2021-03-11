@@ -1,1 +1,1 @@
-i am new with nedb in node.jsi have this databas lineth data[] array is empty. how can i queri what within the r:{} field?thank
+database.find{} problem with nedb in node.js-express

@@ -1,1 +1,1 @@
-i have an electron+angular application.when i build the angular app, it goe to dist folder, ok. and when i use electron-packag and electron-builder, it put the file insid dist too.for the first version it ok. the problem is when i'm build a second version. it pack the old version file that is insid dist folder. and the result is a larg .ex file.thes is the command i'm use to pack and publish my app:how can i prevent the old version file to be pack in new versions? should i remov them everi time i build a new version?
+electron-packager is packing with old version file

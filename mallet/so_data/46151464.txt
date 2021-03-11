@@ -1,1 +1,1 @@
-i'm work on an app for mac osx and window use electron and react. our team of design would like the app to have round borders. they want someth that look more or less like this:i am use the follow code that work fine on macon my i found it on this question.stil i get the follow error on my dev tool console:
+Robotjs not working using Electron and Windows 10

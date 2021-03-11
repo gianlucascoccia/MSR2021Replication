@@ -1,1 +1,1 @@
-i was wonder if someon could shed some light on my code and whi it may not be working. i am run nodej 6+ with an electron wrapper.depend for the sqlite are "sqlite3": "^3.1.8i am manag to list and display the data in row without issu but on the insert function or search function it is fall over. i must be do someth wrong.i am relat sure it a syntax error somewher but can't see it as i am still new to javascript. in either function the search doesnt work, nor doe it insert anyth to the database.
+Javascript Electron Sqlite insert

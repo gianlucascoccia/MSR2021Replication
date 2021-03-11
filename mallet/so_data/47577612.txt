@@ -1,1 +1,1 @@
-i am build my first electron app, but i cant packag it.when i am test use i alreadi tri differ packag but still without success.i there wrong on my package.json?
+Electron add resource file on package

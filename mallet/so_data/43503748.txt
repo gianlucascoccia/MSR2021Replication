@@ -1,1 +1,1 @@
-contexti tri to make a small app use electron / webpack / react. i'm at the begin of my project - the dev setup. so forget react for now.problemi can't make the webpack hot reload work with electron. it is triggering, but no chang are made.detailsi get this error (from the devtool console) when hot reload is trigger : .thx for you help !
+Electron + webpack + HMR net::ERR_FILE_NOT_FOUND

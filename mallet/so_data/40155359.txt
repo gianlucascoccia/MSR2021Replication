@@ -1,1 +1,1 @@
-i am tri to build a test app use electron in my window 7 x86. i have node.js, npm, electron and electron-packag installed. the project directori structur look like this:and here is the imag of what happening,aft read the script, it freez (or i don't know what happens) and noth happens. i wait for 15-20 minut but there is no progress after reach this step. can someon pleas help!
+Can't package my application using electron-packager

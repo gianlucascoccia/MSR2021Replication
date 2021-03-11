@@ -1,1 +1,1 @@
-i am work on electron app for maco and i want to stream the maco screen use electron app i want to be abl to :1- connect to the airplay devic from the electron app.2- mirror screen to the airplay devic from the electron app.3- toggl between mirror screen and use airplay as extend separ screen from the electron app.i tri this npm packag airplay npm packag i was abl to discov devic but not to connect and to mirror screen.
+Electron mirroring screen using using Airplay

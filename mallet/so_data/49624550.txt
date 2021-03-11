@@ -1,1 +1,1 @@
-i just packag the electron-quick-start and then instal is bare 1kb. the folder are of size 96mb and 116mb. that is way too huge for this app, which doe pretti much nothing. whi is the size so huge? am i do someth wrong? is there ani wat to reduc the size? becuas electron is take up more diskspac than my actual app, so if i ever distribut an electron app it would be insan huge.whi is this happening?
+electron-quick-start packaged with electron-packager, give 116MB

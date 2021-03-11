@@ -1,1 +1,1 @@
-if i have an electron app that get built via electron-build use the but that appear to suit some other need than mine.
+How to get Electron to install extra file in Program Files Directory / Electron user edit-able setting file

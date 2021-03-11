@@ -1,1 +1,1 @@
-i'm get a "modul version mismatch error" when i tri to use a headless browser with a desktop node shell. i'v tri zombiej and phantomj with both nw.js and atom-shell; in both case as soon as the headless browser come into play the applic crash with a modul mismatch error.her the error with phantomj and atom-shell:ani idea what caus the error?
+Module version mismatch with headless browser and desktop Node

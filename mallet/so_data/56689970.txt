@@ -1,1 +1,1 @@
-i am current work on an elctron app wich use typeorm to read from a database. the problem is that ani call to the databas are block the main and the ui thread although all method are mark as async and i await all of them. i am also use electron-better-ipc for a simpler communic between main and ui process. here is an examplecal to main process from ui processwhat can i do to have the abov code not block the ui thread?
+Typeorm database query blocking electron ui thread

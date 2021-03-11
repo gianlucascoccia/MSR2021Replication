@@ -1,1 +1,1 @@
-from the document for not work with node-webkit for whatev reason? should i use some other way to read the home directory?
+Node-Webkit: fs.readdirSync("~") doe not work

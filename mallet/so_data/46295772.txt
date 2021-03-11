@@ -1,1 +1,1 @@
-i want to simul a mobil devic in desktop environment. i can't find a argument to transform mous event to touch event.how can i approach this job? ani hint will be great. thank you so much.
+Can electron webview transform mouse event to touch event?

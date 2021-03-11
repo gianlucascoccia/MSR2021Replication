@@ -1,1 +1,1 @@
-i'm use the async modul to iter over multipl url with nightmarejs. i can't creat a new nightmar instanc becaus i will have to reauthent each time. so i'm tri to use the async module. i'm get a (i think, classic) problem the url for all iter be the final url in the array - not each individu url. i thought use the async modul would fix this (i also tri use let) but i'm still get the problemthank for ani advic
+Async challenge when looping over url in nightmare.js

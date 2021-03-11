@@ -1,1 +1,1 @@
-how to to get pid of current instanc of in node-webkit from my javascript code?
+How to get the pid of nw.exe in node-webkit?

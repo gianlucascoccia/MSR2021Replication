@@ -1,1 +1,1 @@
-i have develop a drm playback app use the castlab electron fork for content secur (https://github.com/castlabs/electron-releases) on maco high sierra. i am receiv report of the applic fail to start on some maco version with the follow error message:from what i can tell, this issu is not consist reproduc across differ mac run the same maco version but it is common enough that it is creat problems. how do i fix this?
+Castlabs electron app break when running on certain MacOS version

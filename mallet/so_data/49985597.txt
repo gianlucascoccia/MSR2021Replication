@@ -1,1 +1,1 @@
-this a strang one for me. i have an electron app which work fine when i run it locally. however, when i
+Electron app window doe not gain focus when distributed for Mac

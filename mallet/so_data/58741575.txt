@@ -1,1 +1,1 @@
-i'm build an electron app that is run nativ modules. i upgrad to electron 7 but sinc then i'm get the follow error when i'm build the app use electron-forge.i also upgrad my node version to 12.8.1. in order to load nativ modules, i'm use a fork of node-ffi.how do i fix that?thanks!
+Electron 7 fails to build native module

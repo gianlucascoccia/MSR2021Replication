@@ -1,1 +1,1 @@
-i'm current develop an electron app that has, at some point, to convert an html file into a pdf file. for this purpose, i use the nativ node modul doe someon know how solv this problem?
+ASAR Limitations on Node API: spawn a child process

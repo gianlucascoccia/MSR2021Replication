@@ -1,1 +1,1 @@
-i would like to build a veri simpl maco screensav which just show a webpag with chromium. nw.js seem a good choic to make it happen, but not sure where i can start tweaking. i also consid to build it with swift / xcode by embed wkwebview, but i want to render the content on chromium instead of webkit.ani inform is welcome!
+Building macOS screen saver using NW.js

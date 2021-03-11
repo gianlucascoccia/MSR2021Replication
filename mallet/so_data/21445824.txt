@@ -1,1 +1,1 @@
-i'v been tri for a while and look through sever answers, i can't figur out whi this is not working:i need to share some data between controllers, so i set up a servic right?(th data is obtain from a file, i'm use node-webkit) scope.
+Angular service, trying to read data from file (I'm using node-webkit), can't get it to work

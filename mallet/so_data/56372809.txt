@@ -1,1 +1,1 @@
-with electron-vu boilerpl i generat electron application. then i chang it electron version to behavior is exac same so i doubt it becaus of electron-vue.i believ it not usag error but electron bug so i post issu on electron github.
+Unable to use worker_threads in electron application

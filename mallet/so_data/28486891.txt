@@ -1,1 +1,1 @@
-i tri to use node-vlc with nw.js (v0.12.0-alpha2). when i launch my app without nw.js it works, but when i launch it with nw.js i got an error: uncaught error: modul did not self-register.", source: /home/alexis/bureau/dev/jukebox/node_modules/vlc/node_modules/ffi/node_modules/bindings/bindings.j (84)i tri some command with nw-gyp but it couldn't help me.i am on ubuntu 14, 64-bit.
+Uncaught Error: Module did not self-register

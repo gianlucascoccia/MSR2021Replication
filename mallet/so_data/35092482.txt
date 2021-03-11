@@ -1,1 +1,1 @@
-is there ani way of get vpn connect insid nw app?i want onli request from nw app to go through vpn, not system-wide.
+How can I setup a VPN connection inside nodewebkit (NW)

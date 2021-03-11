@@ -1,1 +1,1 @@
-i am use a worker for a web socket connection. it doe work correct insid a browser. but when i use electron with flag .electron version: 7.1.2
+Using a Worker with Angular + Electron

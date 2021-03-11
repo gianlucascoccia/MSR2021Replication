@@ -1,1 +1,1 @@
-i am tri to use this repo: https://github.com/gpmdp/electron-chromecast to cast from my electron app to a chromecast audio.us react, i ad this in the top of one container: in the requestsess i get the error code "receiver_unavailable", and the other console.log doe not return anything. is there anyth els that need to be configur to at least find a chromecast that is on my local network? i current have one chromecast audio and one chromecast v1 that should be possibl to find.
+Cast to chromecast from Electron app

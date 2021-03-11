@@ -1,1 +1,1 @@
-i'm build a tool in nw.js.the user can preview his creation, which open a new nw.js window.i would like to save temporari file somewher for this preview.i the recommend place to save them in is a name i make up?
+where to put nw.js temp data -- `nw.App.dataPath + '/Cache'`?

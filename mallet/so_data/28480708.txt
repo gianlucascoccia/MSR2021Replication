@@ -1,1 +1,1 @@
-i tri to have ass to this function from a dll : // file mathematiques.cppnod stop execut the script at the end of the loop. i think it a matter of cpp maybe.i don't destroy proper the object matrix. i will focus in this point in the next days..
+How to use a DLL C++ in Node using SWIG?

@@ -1,1 +1,1 @@
-this is the standard code given as an exampl on the electron websit for creat a custom menu: at all? am i miss something, or is there a set i need to consid befor appli those attributes?
+electron menu 'roles' don't seem to be working

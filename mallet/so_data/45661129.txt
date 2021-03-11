@@ -1,1 +1,1 @@
-is there a way to ask custom instal path to the user dure electron app installation?
+How to set a custom path for Electron app installer

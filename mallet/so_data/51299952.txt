@@ -1,1 +1,1 @@
-rune electron build result in a syntaxerror: unexpect token functionfound a fix this issu is realat to https://github.com/electron-userland/electron-builder/issues/2986look like the issu is not present in version or electron builder befor 20.8.1
+Yarn run build SyntaxError

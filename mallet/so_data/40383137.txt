@@ -1,1 +1,1 @@
-in a simpl typescript program i ani idea how to do this for ffi?
+Webpack fails with Node FFI and Typescript - dynamic require error

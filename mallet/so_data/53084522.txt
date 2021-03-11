@@ -1,1 +1,1 @@
-i'm tri to use async with a buffer recieved, i get the correct answer but i can't access variabl outsid the callback function. in that case i'm tri to ass job variabl to res variabl value.it seem that i can't access to anoth scope with this'. i tri bind(this) too. electron dev-tool crash and everyth stop (devtool was disconnect from the page...).th c++ function return char*
+Async callback with Electron+Vue and nodeffi

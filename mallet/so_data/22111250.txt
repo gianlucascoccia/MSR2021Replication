@@ -1,1 +1,1 @@
-i'm tri to use lighttabl on windows7 with a node-webkit applic i'm building, when i add the nodej connect and link to my file "main.js" (mi app start point) i'm get this:th node process exited.th node process you were connect to sudden quit. check the consol for more information.node[stderr]:connect error:error: connect enoentat errnoexcept (net.js:901:11)at object.afterconnect as oncompletewhat i'm i do wrong? how to fix it? ani help will be high appreciated. thanks!
+LightTable for Windows and NodeJS

@@ -1,1 +1,1 @@
-use &#xd;&#xd;&#xd;
+JS: electron use fs.readSync in render process

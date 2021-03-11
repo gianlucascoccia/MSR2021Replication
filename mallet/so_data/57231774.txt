@@ -1,1 +1,1 @@
-i need a method to check some mysql connections.how can i wait for the connect befor return in a function?
+How to wait for connection.connect

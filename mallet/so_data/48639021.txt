@@ -1,1 +1,1 @@
-im tri to configur my angular app authent part, but i'm fail to make it work insid of electron sinc i'm load my angular app from a html file instead of load it insid a local server. what is the best approach to tackl this issu ? i'm use angular-oauth2-oidc librari for this task, the authent work fine when i launch the angular app on the browser direct with sinc the redirect url is set to localhost:4200, but with electron it doesn't work sinc it is not host on a local server.
+Angular 5 authentication with Okta in Electron

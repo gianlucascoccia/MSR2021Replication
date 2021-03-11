@@ -1,1 +1,1 @@
-i don't know it can be achiev or not. but i'm ask if it possibl to launch indesign through electron and creat somth in indesign and save the file but onc i exit the indesign app can i get the save work in my electron application?
+Launching Adobe Indesign through Electron and do some task and on exiting Indesign how to get the work in Electron?

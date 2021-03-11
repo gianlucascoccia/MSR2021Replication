@@ -1,1 +1,1 @@
-well, there is applic which is written on node.j + electron. there is a websit locat on remot server. there is need in keep the design of the websit and function that are added/chang to it in this desktop app. what is the easiest way to do this?note: the applic has bluetooth, usb connection, that is reachabl from this web interfac in app.
+How to update interface (html pages) in electron desktop application?

@@ -1,1 +1,1 @@
-i want to open a new node webkit window and maxim it. however, i get undefin function for window.maximize() when i launch the new window. also other option for the new window are not work like frame and toolbar. what could have been the reason for this? mainapp.j
+window.maximize function is undefined

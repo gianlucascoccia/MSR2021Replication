@@ -1,1 +1,1 @@
-i did firebas authent with email/password in my electron app, and it works, but onli on first page. when i go to second page, i'm no longer sign in. becaus i'm new to elecetron.j and firebas as well i use this tutorial:https://www.youtube.com/watch?v=bws0ocfszme.login.jsi expect the output in consol with user that i sign in, but get null.
+Firebase email/password authentication in electron

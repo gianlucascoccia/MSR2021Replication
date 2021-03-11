@@ -1,1 +1,1 @@
-i'm build an electron app.on of my featur is to drag and drop ani file to store them into the electron &amp; vue app. it work well with local file store on my computer. i can't do the same with file from a web browser (till now i'v tri in chrome). i use the ani ideas? thank
+How to import by drag n drop web file from browser to an electron app

@@ -1,1 +1,1 @@
-i have instal the mapbox-map-image-export npm packag local in a ubuntu 18.04 and it work fine to generat the map image.but when i have instal it in a vps run under ubuntu 16.04, it alway fail and return a non-specifi error or use virtual display server /usr/bin/xvfb-run -a -s -screen 0 1280x1024x24 export-map ...ani ideas?
+mapbox-map-image-export return a non-specified error "Error {}" on Ubuntu server

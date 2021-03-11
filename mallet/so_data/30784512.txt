@@ -1,1 +1,1 @@
-i'm tri to creat shortcut for my electron app when i instal it or updat it, howev i am have some troubl execut the command that is meant to creat the shortcut. by default electron app are "squirrelaware", therefor i have to specifi where i would like to creat shortcuts.mi question is in relat to the accept answer to this question.handl squirrel&#39; event on an electron appi have tri to use the ani help on this would be much appreci
+Execute createShortcut in a Squirrel event, in an Electron app

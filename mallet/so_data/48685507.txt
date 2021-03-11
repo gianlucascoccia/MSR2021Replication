@@ -1,1 +1,1 @@
-we have a web app to which i'm build electron app by load url in browserwindow. but when i tri to share the screen it will give me a popup say pleas instal the janus webrtc screen share plugin and restart the browser. pleas help !
+WebRTC Screensharing in electron

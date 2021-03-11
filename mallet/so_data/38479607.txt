@@ -1,1 +1,1 @@
-i'm current build a desktop applic use electron and mongodb. the object of this applic is to collect and store inform of various custom in the local scope of the applic (not on a server). i'v done some research into mongodb with node.js; howev i haven't found a way to use it in electron.
+How do i use mongodb with electron?

@@ -1,1 +1,1 @@
-electron now support typescript. but by run the exampl publish in:electron offici blog.i alway get the follow error:should i have done someth else?
+TypeScript support in Electron

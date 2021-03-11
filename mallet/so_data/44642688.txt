@@ -1,1 +1,1 @@
-i usethi will intercept all http request from this page. how can i do onli intercept some http requests?
+How can I intercept some HTTP request fallback to custom file?

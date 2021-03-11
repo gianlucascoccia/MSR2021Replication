@@ -1,1 +1,1 @@
-i'm use yarn workspac and my electron app is in
+How to specify custom dist folder in electron-forge

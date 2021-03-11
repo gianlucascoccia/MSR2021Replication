@@ -1,1 +1,1 @@
-i'm develop a web applic with node-webkit who has includ a node.j server and mongodb.mi web applic starts, at the launching, the mongodb daemon and the node.j "server". so,i would like to know, if mongodb is consid as embed (doe it mean that my project is under agpl licenc becaus of mongodb ?) or the licenc of mongodb is not impact the licenc of my project ?
+Using mongodb in standalone application

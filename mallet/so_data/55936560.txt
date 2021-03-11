@@ -1,1 +1,1 @@
-i have creat a electron app with javascript. i have multipl file namely: .bin .pak .dll and the .ex in total there are between 15 and 25 file's. is it possibl to includ all my .dll .bin .pak file in my .ex so that there will be one big .ex file ? i have alreadi look up asar and that work but i get a .asar file and not a .ex and then i can't execut my .asar file i now have 15-25 file's(.dl .bin .pak) and the .exei want to have one .ex includ all the .dll .bin .pak file's.
+Include .dll .pak .bin in .exe

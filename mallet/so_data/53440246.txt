@@ -1,1 +1,1 @@
-hi my code look like this in nodejs, it works! but when i tri to use exact same code in nwjs app, it doesn't! becaus as i sniff and see it think it run under a web browser and it tri to use nativ function of nwjs chromium browser. as you see it can not set a right origin header but it work under plain - nodej script
+extraHeaders doesnt work in socket.io-client

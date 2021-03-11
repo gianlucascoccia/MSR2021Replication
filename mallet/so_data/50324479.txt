@@ -1,1 +1,1 @@
-when creat a new .i am run maco high sierra 10.13.4.if you want ani more inform pleas ask.
+Electron: Setting the 'fullscreen' flag to false not disabling the fullscreen button on macOS

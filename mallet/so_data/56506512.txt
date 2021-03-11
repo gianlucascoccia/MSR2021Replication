@@ -1,1 +1,1 @@
-i am tri to build an electron app that requir nodegit, which is a nativ module. as far as i know, a nativ modul nativ librari must target the same .
+Maintaining native module dependency for node.js and electron at the same time

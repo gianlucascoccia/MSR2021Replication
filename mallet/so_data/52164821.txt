@@ -1,1 +1,1 @@
-i'm tri to instal but it doesn't work either.do anybodi know anoth solution?
+NPM The build tool for v141 cannot be found

@@ -1,1 +1,1 @@
-i have creat an but, app is not open unless user manual click on the icon. i googl a lot but, didn't find out ani solut to this exact issue. ani support would be appreciated. thank in advance.
+Electron app is not opening up automatically on system startup

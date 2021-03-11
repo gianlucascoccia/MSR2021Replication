@@ -1,1 +1,1 @@
-i am current tri to build a nativ c++ add-on for an electron app.i have success built and ran a folder through node. however, i don't see how to do this if i am make my own c++ module.ani assist is incred appreciated.
+How to Require N-api from electron

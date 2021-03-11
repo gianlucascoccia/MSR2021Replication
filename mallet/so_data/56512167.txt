@@ -1,1 +1,1 @@
-i am follow the exampl here and have this typescript code:
+How to correct error win refers to a value, but is being used a a type here

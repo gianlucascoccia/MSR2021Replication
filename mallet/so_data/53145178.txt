@@ -1,1 +1,1 @@
-i'm work on a game use nw.js, one that i'd like to be fullscreen. the fullscreen mode doe in fact make the game fullscreen, but it not true fullscreen like mani other games, it borderless windowed.thi is affect perform for other players, so i'm tri my best to get true fullscreen. is this not possibl with nw.js, or even anyth chromium?mi nw.js manifest:
+NW.js fullscreen mode is actually borderless windowed, not true fullscreen

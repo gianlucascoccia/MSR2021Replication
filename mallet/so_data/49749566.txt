@@ -1,1 +1,1 @@
-i am build an electron applic use https://webpack.electron.buildth applic has network chat capabl which i would like to test locally. i would like to be abl to open 2 consol window and run yarn dev in one and yarn dev2 in the other to caus electron to start up 2 distinct instanc of my app that don not share ani local storag or dev server etc. how do i configur the dev2 script?
+How to run multiple instance of webpack electron application

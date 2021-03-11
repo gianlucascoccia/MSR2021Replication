@@ -1,1 +1,1 @@
-as the titl above. now i am make an electron app that has function is show content of a docx file which includ word and images.do anyon know a nodej librari to do that?
+How to read a docx file using nodejs?

@@ -1,1 +1,1 @@
-use electron-edge-j call a c# dll method, but it not read config data from node.exe.config file. is there ani other do we need to keep app.config for electron?
+working with electron-edge-js for existing dll with app.config

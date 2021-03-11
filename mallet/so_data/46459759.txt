@@ -1,1 +1,1 @@
-background: i have a gui i'm put togeth for an applic i'v been work on. the app load it last state from a yaml file, and is suppos to save that state to the yaml file when the app closes. i'm use the follow event listener...mi issu is primarili with scope of the angular controller/variables. first, am i handl this correct in general?if this is reasonable, how can i updat doc.project_notes.text from my unload function or link the two variabl by reference?i'm pretti new to javascript.
+Trouble With 'Scope' of Angular Controller In Electron App

@@ -1,1 +1,1 @@
-i am display dynam data (as items) from the server, in the client. when the user click on an item, he will be direct to the item view page use it in electron?
+How to apply route in electron?

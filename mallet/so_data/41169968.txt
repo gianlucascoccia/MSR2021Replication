@@ -1,1 +1,1 @@
-i have an unzip xlsx file, in it i edit some file to be abl to generat a new xlsx file contain new data.in linux to recompress the file in xlsx i just need to go into the termin and type into the folder where the xlsx file are.th question now is how can i do this use node.js?
+Compress an uncompressed xlsx file using node.js (Electron)

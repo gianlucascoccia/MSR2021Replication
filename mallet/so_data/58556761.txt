@@ -1,1 +1,1 @@
-i am make an app for my own use, when i tri to post json to my php server at example.com, i get the follow error: uncaught error: self sign certif errori tri the follow code and it works:but i believ this approach is dangerous. what is the safe way to solv this error? i tri googl but did not find anyth use or mayb becaus i am a beginn i did not understand it.
+self signed certificate error on electron j

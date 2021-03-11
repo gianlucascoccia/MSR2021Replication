@@ -1,1 +1,1 @@
-how can i autom the process of instal a 3rd parti softwar instal along with my electron app installation. is that possible? usag scenario.i want to make an applic which deal with github repositories, now i want my user to instal my app. in the same time i would like to instal for them. as a background process. note: i want to autom the process for all the oper systems. is that possible?
+How to install 3rd party application using Electron a a background process

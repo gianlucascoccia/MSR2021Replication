@@ -1,1 +1,1 @@
-i'm implement oauth 2.0 in
+OAuth 2.0 client secret for Electron

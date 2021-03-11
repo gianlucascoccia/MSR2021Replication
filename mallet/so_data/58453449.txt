@@ -1,1 +1,1 @@
-is it possibl to specifi a differ package.json when do releas build? the reason is that if build the app for web and desktop, some of the depend could not be necessari for web, so they are devdependencies. could replac the package.json when do releas build but just wonder if there is a n better way. thank
+electron package with alternative package.json?

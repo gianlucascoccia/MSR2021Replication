@@ -1,1 +1,1 @@
-what i need is one file that instal my app and mysql database. i don't want that my end-us have to instal it by hand.
+Is there a way to ship nodewebkit apps with mysql?

@@ -1,1 +1,1 @@
-we have develop electron window app use react js framework. i have use thermal printer node librari to connect usb printer for print data. i have tri use share printer in the printer properti and use the command \system_name\printer_sharenam and it work perfect in window 8but window 7 it not working. ani idea to connect usb printer via electron app use node js ?
+Electron USB Printer Connection

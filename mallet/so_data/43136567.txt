@@ -1,1 +1,1 @@
-i have a save dialog in an electron app. at the moment, when a user click save it will save with the default name and file extens foo.pdf.when the name is changed, the file extens isn't added.i there a way to make sure that the .pdf file extens is ad to all file names?
+Electron Save Dialog Specify File Type

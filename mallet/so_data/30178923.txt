@@ -1,1 +1,1 @@
-i am work on a realtim data communic platform that use socket.io to connect from server to client. the server is run node.js, and the client is a desktop applic in the form of a webpag use atom electron.i am receiv messag on the client perfect well, but when i tri and send a message, through the format:edit (again):oth messag can be sent and receiv successfully.inspect the raw network data through the web inspector network panel reveal this:
+Socket.IO - Message sent from client is failing on server and client

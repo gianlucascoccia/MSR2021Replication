@@ -1,1 +1,1 @@
-has anyon been abl to success creat a zip file that can be read by node-webkit use ani of the node.j zip utility? i have tri node-zip, admzip, node-archiever, etc. but havent had much luck. for one reason or another, none of the file can be read by node-webkit (and sometim by, say, winzip as well)
+node.js zip utility that work with node-webkit?

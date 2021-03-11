@@ -1,1 +1,1 @@
-i'm tri to creat an applic with auto update, but i have an error when run the version searchth app find the version and when it is about to go down i get this error
+Error Cannot read property 'updaterCacheDirName' of undefined

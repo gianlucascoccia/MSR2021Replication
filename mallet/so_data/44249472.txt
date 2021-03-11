@@ -1,1 +1,1 @@
-i'm tri to iter through a nodelist obtain via nightmare.js. execut in the dev tool perform as expected, but in electroni can't convert the nodelist to array successfully. &#xd;&#xd;&#xd;&#xd;&#xd;i'v tri port the nodelist by various other methods. noth seam to work in electron. again, this is easili achiev in chrome tools.
+Electron Nightmare.js NodeList to Array

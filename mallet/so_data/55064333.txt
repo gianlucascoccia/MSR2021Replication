@@ -1,1 +1,1 @@
-i am tri to creat a function that swap key with valu in an object. for some reason, i'm get a typeerror: object.entri is not a function. what am i miss or do wrong here?thank you tehhowch / sylvainf!
+Object.entries is not a function in NWJS 0.36.3 (Node 11.10.1)

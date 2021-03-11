@@ -1,1 +1,1 @@
-here my compon the button still a normal html button! this confus me even in cmd there no errors.i'm use react insid an electronj app.
+React is not loading bootstrap cs file

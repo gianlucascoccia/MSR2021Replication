@@ -1,1 +1,1 @@
-i'm tri to get my for exampl to transpil my files?
+How to set npm start for electron app with "babel-node --presets es2015,stage-3"

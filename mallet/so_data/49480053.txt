@@ -1,1 +1,1 @@
-i am tri to creat backup system in electron app, where user can select databas file which he want to import use dialog. it was suppos to copi the file you choos and replac it with current, if exists. i am use sqlite and angularjs. my function look like thati built this code base on few tutori and it copi file content perfectly, but strang it add few sign itself or something. that causes, that databas file is corrupted, or is unabl to be read from.i get this error after read from replac file.
+Copy and replace database file in electron

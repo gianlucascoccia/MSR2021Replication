@@ -1,1 +1,1 @@
-i clone visual studio code sourc and follow the instruct for contributor from the link - https://github.com/microsoft/vscode/wiki/how-to-contribut but when i run yarn i'm get the follow error: i tri to rebuild the native-keymap project in vs2017 but then i got the similar messag for two other node_modul and eventu again from native-keymap.mi pc environment:window 10 and visual studio 2017 community.python: 2.7.14node: 8.11.1npm: 5.6.0yarn: 1.6.0
+Cannot build VS Code from source - Windows

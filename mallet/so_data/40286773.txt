@@ -1,1 +1,1 @@
-my goal is to creat a new postgr databas and connect to it whenev my applic is instal or run in develop mode. i start with the follow basic setup:thi also requir postgr to be instal locally. i think there must be a better way to do this. how should this be done with electron?
+Set up a local postgres database in electron with knex

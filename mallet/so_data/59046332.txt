@@ -1,1 +1,1 @@
-my electron app creat an empti array when it runs. the array is use to store some inform about user that should be shown on the &#xd;&#xd;&#xd;
+how to prevent empying an array when switching between page in Electron?

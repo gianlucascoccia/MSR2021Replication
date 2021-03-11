@@ -1,1 +1,1 @@
-i am current write some simpl plugin framework for electron. i requir the file in the render process. this work great for ui element but i want to add a plugin that run an express server dure startup. this work as long as the
+How to run a function in Electron from renderer process in main?

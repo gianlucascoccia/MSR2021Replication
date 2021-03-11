@@ -1,1 +1,1 @@
-i'm interest in take a electron project, run it on a server, and connect to the ui through a browser on my client.ar there ani exist project that help with build someth like this? or is this function in some way built into the electron framework?
+How to run Electron app on a server, and connect to it through a web browser from a client?

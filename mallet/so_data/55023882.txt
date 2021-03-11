@@ -1,1 +1,1 @@
-i'd like to have one singl electron window, split in two parts:th left part is a how to have them in one window?
+Two browser in the same Electron window

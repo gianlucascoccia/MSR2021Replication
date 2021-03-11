@@ -1,1 +1,1 @@
-i'm use a simpl browserwindow like so:thank
+How to open link in default browser using Electron

@@ -1,1 +1,1 @@
-when tri to read a file line by line use createreadstream and readline, i'm not get all lines. the first x line are skipped. test with a file contain 10000 line the first 4000 are skipped.
+Node on Electron: FS ReadLine skip first x line of file

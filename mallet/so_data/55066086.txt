@@ -1,1 +1,1 @@
-i have an electronj app with an angular6 renderer. my angular6 portion has consum key and secret on it to call a java rest api. becaus the app is instal a electron desktop app of course, user could see the consum key/secret. is there a way to protect these sensit valu on the angular/electronj side?
+Where to store sensitive data for ElectronJS app?

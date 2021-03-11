@@ -1,1 +1,1 @@
-i am use electron to convert my web app to desktop. i have two html page that i would like the user to be abl to access. is there an eleg way to switch between page via electron? im think like a side panel or someth similar. i have tri electron tab and it was no good.
+Multiple http page on electron

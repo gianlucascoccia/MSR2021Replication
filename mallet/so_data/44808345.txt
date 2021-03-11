@@ -1,1 +1,1 @@
-i'v written up an electron app which act as the user interfac for a smart mirror (i.e. display the time, date, etc.) but right now it current display the imag of the weather icon more than once, and i am not sure where in the code i made the error in. here is a link to the github repo sinc it too long to past in here. javascript code for all function is in scripts.jsthank you in advance.for reference, this is what it is current do and this is what i want.
+Electron app rendering image incorrectly

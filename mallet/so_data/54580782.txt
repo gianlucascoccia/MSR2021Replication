@@ -1,1 +1,1 @@
-here my code:th problem is that i'm tri to access cam_obj from within the function camfunc from within the camera object. i can't quit figur out whi it won't let me access the camfunc method even after attempt sever chang to get it to work.can anyon tell me how to access a object insid of a function that belong to an object? i'm relat new to javascript
+How do I call an object within a function in javascript?

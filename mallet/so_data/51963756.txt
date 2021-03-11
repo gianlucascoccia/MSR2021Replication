@@ -1,1 +1,1 @@
-i am use electron tray in my applic but when i quit the app ,the tray doesn't close immediately.instead on hover, it close immedi .is there ani solut that i can use to avoid this?
+tray icon doesn't close immediately on app.quit in electron

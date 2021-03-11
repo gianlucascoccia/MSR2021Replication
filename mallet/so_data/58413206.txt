@@ -1,1 +1,1 @@
-i need to autom a node-webkit exe web base application. i need to perform some click function and assert on that. pleas help me out how can i do this with use selenium
+Node-Webkit web based application automation through selenium

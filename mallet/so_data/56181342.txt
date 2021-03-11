@@ -1,1 +1,1 @@
-i am current work on my first applic use electron (v. 5.0.1) and, open chromium devtools, it come out that "require" is not defined.look on the web, i found that in 5.0+ version you have to add "nodeintegration: true" while you are set webprefer of a new browserwindow, but noth changed.
+'Uncaught ReferenceError: require is not defined at [...]' on Electron 5.0.1

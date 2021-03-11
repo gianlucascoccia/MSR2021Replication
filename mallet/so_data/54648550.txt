@@ -1,1 +1,1 @@
-i'm work on a react page use material-ui within electron. the main page should have an appbar with toolbar and drawer components. i have copi the sourc code from https://material-ui.com/demos/drawers/ for it. everyth work fine, except the place of the content. i have place a react router in the main tag this way:th problem is that the content is render horizontally, right besid the appbar/toolbar and i cannot figur out why. it look like the following:what is miss or how can i fix it?
+Misplaced page content material-ui layout with react

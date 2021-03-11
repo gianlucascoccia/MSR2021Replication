@@ -1,1 +1,1 @@
-could you pleas give me a piec of advic about how to implement crud or db(pouchdb) modif use form or ani other effici way in electron?th point is i would like whole applic to behav as desktop tool and it seem to be possibl in electron. howev i cannot determin the best way to do this especi if i would like to add to nice eye-candi trick to make ux as smooth as possible.
+CRUD in Electron

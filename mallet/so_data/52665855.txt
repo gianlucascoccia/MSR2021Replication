@@ -1,1 +1,1 @@
-i'v been search around but have not been abl to find an answer. how do i packag my electron app with the --asar option but allow certain sub-directori to be seen ? for exampl my app will use a sub-directori call data so user can copi textfil to it for processing. i did see someth call unpack but it wasn't veri clear how to use it.thank in advance,don
+Electron Packager

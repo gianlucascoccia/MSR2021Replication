@@ -1,1 +1,1 @@
-i have an electron app which load an html file on opening. when i tri to wait for an element with
+How can I wait to electron while loading html

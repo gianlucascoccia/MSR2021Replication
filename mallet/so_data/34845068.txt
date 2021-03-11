@@ -1,1 +1,1 @@
-i want to creat electron applic that will be game helper and it will show some cheat top on the ani game while user plays. you can imagin like "steam" applic overlay in the game. i tri to open my applic to the top and also tri to show nativ dialog &amp; alert to get app to top but os alway hide game app (minimized) befor show my app. my question is; is it possibl to run or should i stop to try?i ad exampl code that i tri below.
+How to create app with electron like steam-overlay

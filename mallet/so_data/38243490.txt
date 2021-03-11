@@ -1,1 +1,1 @@
-i'm use by chang how the canva is captured. will updat when that done.for #1, if i can't avoid captur the video stream i'll have to just tri to cap the total cpu usag at just over 6% by optim #2.
+Reducing CPU usage of navigator.webkitGetUserMedia (Electron: DesktopCapturer)

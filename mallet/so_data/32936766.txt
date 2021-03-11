@@ -1,1 +1,1 @@
-i have tri to use electron builder to build window installer. however, i just can build one time, but when i instal it throw error:i tri to build it again, but this time it throw error:do anybodi know how to solv this problem? where did i do wrong.
+Electron builder can't open output file

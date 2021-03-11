@@ -1,1 +1,1 @@
-i need to search for the chrome.ex path in my comput to use in launch the puppet browser. i know there is this veri common path: but i want to make sure if this is the path of the instal chrome in the user comput or it instal somewher else.
+Is there any way to search for the chrome.exe path in my computer from my electron app?

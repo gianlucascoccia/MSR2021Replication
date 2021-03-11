@@ -1,1 +1,1 @@
-i am tri to use googl materi icon in an electron app and ran across an issu in render the icons. the icon render perfect on window but not on osx. use devtool i have seen that both request the font as woff2 format success but onli window appear to render the icon...osx simpli list the ligatur text. window (left), osx (right)thes work in window build but not osx...it simpli list
+Material Icons ligature electron OSX

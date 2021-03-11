@@ -1,1 +1,1 @@
-i have problem with nw.js, when i run nw.ex or my project direct in cmd "nw.ex ./path/of/myapp", nw.js doesn't work. i alway get an empti white window. see this animation:note: my cursor alway load by interv when the nw.js window is active. i'v wait 5 minut but the program was not loaded.but 10 minut before, nw.js work correctly. now, after reboot, the problem persist.i use nw.js sdk 64bit (last version online).i have tri with nw.js stabl (not sdk) but i have same problem.
+Always getting an empty white window when starting nw.exe

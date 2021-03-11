@@ -1,1 +1,1 @@
-electron version: 1.4.0oper system: macos(darwin kernel version 15.4.0)expect behaviorwhen i trigger downloaditem.cancel()，ev done trigger onc that state is cancel'actu behaviorev done trigger twice. it a bug or trigger twice purposely?why?reproducesav , see the logs. cancel fire twice
+download-item.cancel() emit 'done' twice?

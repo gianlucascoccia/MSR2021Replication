@@ -1,1 +1,1 @@
-backgroundi am tri to encrypt my sqlite databas use sqlite3 and sqlcipher in an electron application. on the sqlite3 npm page hereit say to instal the build like this, yarn add sqlite3@4.0.8 --build-from-sourc --sqlite_libname=sqlciph --sqlite= build.how do i creat an encrypt sqlite build that will work on maco and windows.
+Using sqlcipher with sqlite3 in Electron-Builder applicatiomn

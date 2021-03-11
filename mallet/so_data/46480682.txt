@@ -1,1 +1,1 @@
-i am use electron forg for build and packag my electron app.how can i code sign my app (use electron forge) for window and mac?electrong-forge: https://github.com/electron-userland/electron-forg
+How to sign electron app using electron forge?

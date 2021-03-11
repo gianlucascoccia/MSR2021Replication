@@ -1,1 +1,1 @@
-i have an electron application.mi package.json has some app-specif set like etc. key will also be duplic which will be hard to manag when a new depend is added.i there ani way i can achiev this?
+Overriding package.json key while running npm script command

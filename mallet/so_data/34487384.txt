@@ -1,1 +1,1 @@
-i'm deal with nw.js recent and came across with a problem i couldn't figur out why. problem like this: when i drag the app window the first time after i launch my app, the height changes(about 20px higher), and then it keep the same.
+NWjs window height change when first dragged

@@ -1,1 +1,1 @@
-in my electron app i have instal sqlite3 via npmbut it fail to install!also, i am use python3. how do you instal a modul to work with electron?
+Electron app cant find sqlite3 module

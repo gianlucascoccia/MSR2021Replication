@@ -1,1 +1,1 @@
-in an electron webview use , can you use css to chang the result colors?in the abov image, the current find result is highlight in orang while addit result are highlight with yellow. i'd like to tweak the style of both of these
+Change webview find on page result style using css?

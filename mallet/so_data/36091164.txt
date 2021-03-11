@@ -1,1 +1,1 @@
-consid the follow example:which actual fix my problem. this however, is quit invasive, sinc as far as my understand goe it prevent the system from sleep at all! i don't need this much, i would just need my app to do someth when the comput is activ and onlin without forc it to stay awak forever.isn't there anyth in the middle, between have my user keep the app continu in the foreground, and make their comput sleepless forever?
+Avoid app throttling when Electron is in background

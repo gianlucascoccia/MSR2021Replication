@@ -1,1 +1,1 @@
-i have a hidden browserwindow as my worker.ther are mani request sent at the same time, that is be sent in the worker.even though the request are be sent from the worker, it caus the main browserwindow to kind of freez and lag.ani solutions..?
+Electron worker: Hidden BrowserWindow cause front to lag

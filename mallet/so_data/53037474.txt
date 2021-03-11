@@ -1,1 +1,1 @@
-i am make a node.j applic that can resiz images. i am abl to do this success with jimp. howev resiz an imag is not asynchronous, and freez the ui while resizing. i want to avoid this, so i tri use a webworker. . doe anyon know how to fix that?edit 2: i am use electron to creat my node.j app. they have a window properti (nodeintegrationinworker) that make it seem like i can run node.j function in a web worker, but when i tri to use require() it still tell me it is not a function.
+Node Js: Using a WebWorker to resize image

@@ -1,1 +1,1 @@
-i'm creat a databas and a tabl for my node webkit app, use this :but there is no tabl name dataworking. how do i open the databas vizdb and check if the tabl datawork is made?
+In a Node webkit App, WEB SQL API is not creating a database

@@ -1,1 +1,1 @@
-in what prevent other softwar from request and read this data?
+Prevent another app from reading password saved by Keytar

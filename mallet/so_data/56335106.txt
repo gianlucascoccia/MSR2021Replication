@@ -1,1 +1,1 @@
-i have an electron app in
+How to launch electron app on window written in `TypeScript`?

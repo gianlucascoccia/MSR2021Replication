@@ -1,1 +1,1 @@
-i am migrat exist silverlight applic in electron and i have use exist wcf servic in electron which alredi use in silverlight app. while deploy electron applic it build .ex setup file and wcf servic url is bind with .ex setup file. so i need to deploy separ .ex build for differ client (i.e. differ wcf url). is there ani way in electron to configur the wcf servic so there no need to creat a separ build? ani help would be appreciated.
+How to configure Service URL in Electron while creating build?

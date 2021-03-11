@@ -1,1 +1,1 @@
-i am tri to record my screen use media record api use electron like this. i have a start function which start record the screen. i use the electron api for this. and a stop function to stop record use mediarecord api from - https://developer.mozilla.org/en-us/docs/web/api/mediarecorder. current it stop after 7 seconds. this is how it look like. the code is pass without ani error. but when i open the video which is save use vlc, it has 0 byte and it doesn't start. how can fix this ?
+MediaRecorder not saving properly in Electron

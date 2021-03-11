@@ -1,1 +1,1 @@
-i did the follow in my this get trigger in mac os, but not in windows. is there anoth event or a differ way to do it in windows?
+electron url scheme "open-url" event

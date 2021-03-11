@@ -1,1 +1,1 @@
-chromium run various window in differ process through some heurist (like base on differ domain etc). in electron i'd like to be abl to forc a window into a separ render process from other windows.look through the doc for i don't see way.i there a way to forc a browserwindow to use a separ process from other window in electron?
+How do I get Electron to open each new Window in a separate process?

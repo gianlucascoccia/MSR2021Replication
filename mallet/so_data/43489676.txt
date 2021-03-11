@@ -1,1 +1,1 @@
-have the onmousemov attribut insid div tag on the front-end side of the electron app doesn't work.thi is the exact code used. know that the same script run flawless on chrome. browserwindow run with the initi valu preset, but doesn't chang accord to mous movement.thank in advance.
+onmousemove attribute not working in electron

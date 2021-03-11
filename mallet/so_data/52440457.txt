@@ -1,1 +1,1 @@
-i made a feather servic use nedb with , but i cannot seem to find where in my feather code i should do this.can anyon point me in the right direct please?
+When creating a feather service with nedb, is it possible to define a unique index?

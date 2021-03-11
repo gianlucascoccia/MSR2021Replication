@@ -1,1 +1,1 @@
-i'm tri to includ a node modul that was compil for nw.js use the
+Node.js require can't find libdpfpdd.so.2 file, which is in the same directory a my .node file

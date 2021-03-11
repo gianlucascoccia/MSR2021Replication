@@ -1,1 +1,1 @@
-i am use electron and i load a websit into the app with browserwindow.loadurl. in my case it is node possibl to activ the nodeintegr for this websit and it is also not possibl to host the websit locally.i it nevertheless possibl to interact with this websit in ani way?i notic that i can call a javascript via mainwindow.webcontents.executejavascript but i do not have figur out a way to communic back.can anyon help me?regardschri
+Electron: Interact with a Website that is loaded via BrowserWindow.loadURL

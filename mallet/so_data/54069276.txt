@@ -1,1 +1,1 @@
-now i develop a barcod generat app.her i use html2pdf.jsi use i don't know what is wrong with my code.
+How to fix html2pdf.js creating speed issue?

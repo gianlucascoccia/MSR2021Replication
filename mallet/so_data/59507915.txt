@@ -1,1 +1,1 @@
-i'm build an electron applic use quasar framework.i'm have some troubl debug the main process of electron of it with vs code.when i start my app with :
+Can't attach debugger to Quasar main process

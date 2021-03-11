@@ -1,1 +1,1 @@
-in macos, right click on the icon in the dock bar, all current window will be show and allow to switch. but i onli want to show a window, how to configur it? the other window belong to tray. i don't want it to be show in the dock bar.
+Electron, The window belongs to tray. I don’t want it to be showed in the dock bar

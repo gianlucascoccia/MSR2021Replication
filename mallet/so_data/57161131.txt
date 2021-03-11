@@ -1,1 +1,1 @@
-browserview.getallviews() show me a list of all browserview as browserview.fromid(id) should help me select one of them, i guess. but i don't understand how to set a uniqu id for a browserview.th actual problem i have, in case you suggest anoth solution:how do i keep my browserview organ and select specif one to be shown?
+Setting ID for a BrowserView

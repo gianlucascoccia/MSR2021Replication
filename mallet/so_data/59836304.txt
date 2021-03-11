@@ -1,1 +1,1 @@
-how can i detect when the user is drag a file?i want to show a window when it happens.i'm tri to make an app that i can drag file on to a window and it will move it to anoth directory.importanti use electron, not a regular browser and the window isn't shown ().edit:i test make a window that will detect if a file hover over it but i could't make the window to not take focus and to read the files.
+Detect if the user is dragging a file from file explorer and show a window

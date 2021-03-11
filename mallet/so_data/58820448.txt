@@ -1,1 +1,1 @@
-i have an applic built around electron-forg v6. everyth work fine minus one ux thing. after the app installs, it is suppos to start up automatically. it doesn't and im not sure why. is there some event im suppos to fire?
+Electron squirrel startup not starting app after install

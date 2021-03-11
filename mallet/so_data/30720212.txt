@@ -1,1 +1,1 @@
-is there ani way to use localstorag instead of cooki when deal with passport.j oauth implement (such as google, twitter or facebook) for persist login?th reason is quit simple: you can't use cooki in nativ app wrapper like node-webkit or atom shell.thanks!
+Using html5 localstorage instead of cooky with passport.js

@@ -1,1 +1,1 @@
-i get an error when run npm start. it was work fine and then sudden it start do this. i have reboot to make sure there are no hang processes. i did a npm cach verify. here is the log it provides.i don't have anymor ideas. i googl the error code, but didn't find a solut for my issue. ani help would be much appreciated.
+npm start give an error and doesn't start

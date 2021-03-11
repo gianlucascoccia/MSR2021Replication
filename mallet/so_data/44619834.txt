@@ -1,1 +1,1 @@
-i have a web app that i use electron to make it usabl as a desktop app.it use servic worker to make the app work offline. ani action done on the tab chang the local indexeddb and then add a task to the outbox. the servic worker is trigger use registration.sync.regist and it then clear the outbox.thi work fine on chrome but on electron i get an error:ani idea how to get around this ?
+How to enable background sync in Electron?

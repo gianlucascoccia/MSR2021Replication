@@ -1,1 +1,1 @@
-i ran into the problem of play aiff file in electron.if i play a local file, then everyth work correctly. but if i start download this file in a stream, for example, from drobox, and tri to play, an error will occur.mayb there is a solut to this problem, or are there librari for this?thank in advance.
+How to play AIFF file in Electron?

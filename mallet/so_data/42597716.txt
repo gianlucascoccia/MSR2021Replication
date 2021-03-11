@@ -1,1 +1,1 @@
-i'm use spectron to run integr test against my electron app. everyth is work fine apart from attempt to test that app set are persist proper between app restarts. while run tests, my app start up with new temporari what the correct way to do this? i'v also tri stop the applic instanc and start a new one with similar results.
+Losing webdriverio session when testing electron app restart using spectron

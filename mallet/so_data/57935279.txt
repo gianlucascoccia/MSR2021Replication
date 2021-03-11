@@ -1,1 +1,1 @@
-i have an electron app wherein i'll be instal an ipp printer use cup but still got the "command not found" error.
+lpadmin cannot be found when invoked in via child_process exec in electron

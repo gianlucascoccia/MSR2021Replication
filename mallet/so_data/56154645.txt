@@ -1,1 +1,1 @@
-i am use everyth is fine if i manual place the .dlls in the dir after the instal runs. one solut is: i can write a bit of code to drop those .dlls in after instal runs. it'd be nice to have it all be self-contain to avoid the abov altern solution.do anyon know of a better solution?
+How to get Electron packaging/installers to include your .dlls

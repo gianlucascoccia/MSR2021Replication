@@ -1,1 +1,1 @@
-i am tri to set autoupdat for macand it return empti error object when setfeedurl call's. {"sender":{"_events":{},"_eventscount":3}}what i do wrong?
+electron autoUpdater return empty error on mac on setFeedURL

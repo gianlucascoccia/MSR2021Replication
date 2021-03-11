@@ -1,1 +1,1 @@
-i am tri to fetch cooki from the default session and add them to a webpag load via a webview electron tag. so i use a preload script - likewhen i call the gettempl function from a webview page script, it act as expected.however, i need the cooki avail befor ani of my other script load. is there a way to forc nodej to wait for the async callback of the get function to return befor discard the preload script
+Wait for Async callback during Electron preload script

@@ -1,1 +1,1 @@
-i'v been hungri for a long time to connect to the mysql databas so that the user can not see the password. i do not know how to do it. i'v been read articles, here, but nowhere.how doe this, for example, make a discord? which is connect to the mysql database, and yet the user can not see the password?
+Electron Secure Mysql Credentials

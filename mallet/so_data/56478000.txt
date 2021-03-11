@@ -1,1 +1,1 @@
-i am use vue cli 3 and is defin properly. i must be miss something.
+Loading preload script in Electron and Vue

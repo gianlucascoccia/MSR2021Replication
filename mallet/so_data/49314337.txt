@@ -1,1 +1,1 @@
-we have creat applic in electron now we have to updat a valu in my databas when user uninstal that applic from the machine.do we have ani event or a workaround to catch the uninstal of electron software?
+Detect Electron uninstall event

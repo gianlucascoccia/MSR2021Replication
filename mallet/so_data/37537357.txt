@@ -1,1 +1,1 @@
-i am attempt to use nightmarej v2 and vo with node.j to look through a few search term and gather data from them. my code can be seen below:. when i tri this i get undefined. i assum it is someth with the generat but i am new to them so i can't tell. help is appreciated.
+NightmareJS not able to evaluate using vo

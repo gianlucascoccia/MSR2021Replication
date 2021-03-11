@@ -1,1 +1,1 @@
-i can do almost everyth els with nwjs so i find my failur to make this work veri frustrating.i have made the simplest of html file with in the window section of package.json, but the window background remain white.(i have a new dell tablet pc run window 8.1.) someth i'v missed?
+transparent background node webkit window

@@ -1,1 +1,1 @@
-i'm just start to learn about how javascript, html, and electron all work, and i want to know what run . thank you for your time!
+After npm read package.json, what run Electron?

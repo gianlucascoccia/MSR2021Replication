@@ -1,1 +1,1 @@
-i have an electron app which i test use spectron framework. the test will run everi night on a remot server which build other projects. i need to test offlin featur of the app and i need to deactiv the network/internet connect in various scenarios. the remot server run windows. the thing is that i can not use to kill the network and then reactiv it, so i need someth like proxi for my app that i can activ and deactiv in order to guarante that the server alway on the grid.ani idea who could i achiev this use windows, spectron or ani hack ?
+Testing Offline feature of Apps

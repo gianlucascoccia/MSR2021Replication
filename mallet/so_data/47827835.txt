@@ -1,1 +1,1 @@
-follow my previous question here,i have a desktop applic use electron platform and javascript where i am convert an html5 canva to jpeg using:thi refresh my whole application. how can i chang this behavior, such that the page doe not refresh when the download attribut is clicked?
+Electron issue with download attribute

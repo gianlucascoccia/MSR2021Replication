@@ -1,1 +1,1 @@
-i'm tri to creat an electron app, and i decid to use firebas (email/password) for authentication. right now, the app direct send the request to login via and thus the app also has the api key stored. if someon were to decompil /revers engin / investig http request with this app, would it be possibl to get the api key and creat user as they please. the onli solut i thought of was proxi everyth behind anoth server that take care of more logic, is this the onli way to prevent someth like this?
+Is it safe to have firebase key on a user local machine?

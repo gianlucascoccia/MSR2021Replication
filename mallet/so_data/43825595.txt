@@ -1,1 +1,1 @@
-this is a sampl from my db and i want to pick a random replay.
+how to get a random record from my nedb database

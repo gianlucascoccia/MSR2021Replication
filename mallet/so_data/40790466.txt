@@ -1,1 +1,1 @@
-i am creat a desktop applic use web-technolog and "client-side" node.js. by use nwjs, i can load node-modul "client-side".i would like to use someth like the node
+How to read a HTML file for jQuery, using Node.js

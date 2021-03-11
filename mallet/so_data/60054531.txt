@@ -1,1 +1,1 @@
-i follow the instruction:https://www.electronjs.org/docs/tutorial/first-appi type node v12.14.1 npm v6.13.7how can i reduc the error?thank for ani help!
+How can I solve the connection problem during npm install behind a proxy?

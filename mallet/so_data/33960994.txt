@@ -1,1 +1,1 @@
-i have and doesn't provid autocomplet to browserwindow.
+Autocomplete in IDE during electron app development

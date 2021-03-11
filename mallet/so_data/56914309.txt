@@ -1,1 +1,1 @@
-is it possibl to separ still stop work until the child_process are finished.what can i do about this? or have i been do it all wrong?
+How to seperate UI-thread from Main-thread

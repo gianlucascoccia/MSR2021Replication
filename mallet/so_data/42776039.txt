@@ -1,1 +1,1 @@
-i have an electron/react app with a load screen. the vast major of the time when i make a mistak the app will send error to node or the consol and i can debug. but with certain mistak the app will freez on the load screen with no log at all. for example, if i add doe anyon whi this is occurring? thank you.
+Why doe Electron/React app freeze and without sending error to the log?

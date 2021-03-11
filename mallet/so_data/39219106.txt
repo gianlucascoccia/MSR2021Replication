@@ -1,1 +1,1 @@
-i am tri to set auto updat in my electron mac app.i am use the follow code: is not working. the app is not get quit and relaunching. but if i manual quit the app and reopen, it open the updat app.in the app i have a window which is not closable. is that caus the issu here?
+Electron auto-updater not relaunching the app

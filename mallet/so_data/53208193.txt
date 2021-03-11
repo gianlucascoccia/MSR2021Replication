@@ -1,1 +1,1 @@
-i am build a desktop app use electronj and sequel as orm. the databas i am use is sqlite3. i want to generat databas schema as soon as user instal and run the app. current i have ad requir sql script in migrat folder and also ad sequel db:migrat &amp;&amp; electron .' in the start script in package.json. if i execut npm start on my dev environ then the databas schema is creat success but when i run it with product instal it is not creating. i am use electron packag for packag the app
+Initialize database through sequelize on electronjs app startup

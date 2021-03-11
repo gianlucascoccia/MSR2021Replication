@@ -1,1 +1,1 @@
-this is my first time build a desktop app use electron/node.j and i have no experi buld web apps.i am tri to add a submit form to my app.i tri to replic the tutori (w3), but keep get the same error message:index.htmlaction_page.phpam i do someth wrong?
+Form action submit for Electron desktop app

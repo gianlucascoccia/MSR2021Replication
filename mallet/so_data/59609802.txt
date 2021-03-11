@@ -1,1 +1,1 @@
-i'm tri to build my electron app with electron-builder, the run command is "yarn run build".th process.env.node_env valu is alway develop even in production.i tri to set in package.json, under script the prefix node_env=product befor the build command, the actual valu is still develop instead of production'.how can i fix the node_env variabl to be correct depend on it environment?thank a lot.th package.json attach below.
+electron - process.env.NODE_ENV is always 'development' even in production

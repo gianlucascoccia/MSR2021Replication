@@ -1,1 +1,1 @@
-i'm tri to generat a instanc of a webview use typescript.i'm use electron-forg react-typescript template.i tri the following:.i can't suscrib to event or inject code into the webview.i don't know what type should i be assigning, but i can't seem to find it.what the correct way to implement a webview, and have access to it method use typescript?
+Control a WebView object in Electron with typescript

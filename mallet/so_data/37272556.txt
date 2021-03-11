@@ -1,1 +1,1 @@
-i have creat a simpl webpage/app which has four button i use to play a sampl when i am stream games. what i am look for is a way to get a link to anoth webpag which i would then add as a sourc to my stream softwar to show an anim relat to the sound effect.what suggest would ani of you have to make this happen? the button webpag is run local on my pc, the anim webpag would also be run local (or on my home server)ani suggest appreciated..
+Best way to link two webpage or webapps

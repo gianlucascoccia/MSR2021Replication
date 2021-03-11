@@ -1,1 +1,1 @@
-i wrote a simpl nativ node addon in c++ use visual studio, follow this tutorialit need to use visual studio so it can access the window api.i need to build this for node-webkit. how can i do this? what is vcbuild.bat doing?thanks!
+node-webkit in visual studio

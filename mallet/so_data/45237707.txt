@@ -1,1 +1,1 @@
-how can i get onli the name of the select data. i do the follow but get the whole path of the file. i would like to display the filenam for the userwhat i get is "/users/void/desktop/abc.xlsx" and i would like to have in addit to that onli the file i opened.
+get file name of selected file

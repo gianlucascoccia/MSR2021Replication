@@ -1,1 +1,1 @@
-i'd like to set the background color dynam in an electron window without recreat the window. for my purposes, simpli set the color of an element like doe have the function, but unfortun it doesn't work. is there ani known alternative?
+Change Electron window background color without need to recreate window?

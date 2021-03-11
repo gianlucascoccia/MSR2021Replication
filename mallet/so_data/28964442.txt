@@ -1,1 +1,1 @@
-i have a python-bas app that control leds. it use app interfac to open up. how can i packag my nw.js app so it run a python script on startup?
+Run python script on node-webkit startup (nw.js)

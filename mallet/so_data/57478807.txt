@@ -1,1 +1,1 @@
-i have public url to xlsx file. it is someth like:ani advic is welcome.
+Download file in Electron and Angular app

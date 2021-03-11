@@ -1,1 +1,1 @@
-i am build an electron applic and i am use webcontents.executejavascipt() which is pretti much a eval() for the electron browser. i never had a problem until we put the project on my client window comput and this is the error:i get on windows: (clear wrong) c:usersmichael bruce allendocumentsgithubsandboxprojecton linux: (look beautiful) /home/codeamend/coding/projects/work/upwork/schedule-crawl/journal/learning/project_path
+Path missing slash in eval of es6 template string: escaping issue with Windows only

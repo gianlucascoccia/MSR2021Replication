@@ -1,1 +1,1 @@
-i am not abl to remov an error mentioned: "uncaught typeerror: cannot read properti on of undefined"i have tri to reinstal electron as well but still get the same error.
+Uncaught TypeError: Cannot read property 'on' of undefined. I have tried to reinstall electron a well

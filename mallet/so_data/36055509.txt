@@ -1,1 +1,1 @@
-i instal then i move the app into anoth folder and then back to the origin folder.prat i follow these step https://github.com/atom/electron/issues/654problem is that the icon doe not appear i can onli see a blank icon with a "disabled" figur on it like if the icon is missing.ani idea?
+Electron icns not showing up

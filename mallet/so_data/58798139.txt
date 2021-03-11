@@ -1,1 +1,1 @@
-i am tri to build an electron app with auto updat support. for that i am use file. and it is open the app with an error in consl not allow to load local resource: file:///opt/my-app/resources/app.asar/dist/my-app/index.htm am unabl to find the caus of this error and the solution. pleas tri to help me to make this work
+Error: Not allowed to load local resource - while using electron-builder for electron app update

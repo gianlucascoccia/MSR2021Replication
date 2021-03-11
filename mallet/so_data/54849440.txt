@@ -1,1 +1,1 @@
-i have a project on electronj for account management. i'm use photonkit . sampl of the ui is as:now, how can i navig between other html file without refresh the whole page (as spas)?n.b.: i may use jqueri but i don't want to use js framework like angular etc.
+How to navigate between file in electron with fixed navigation on left side?

@@ -1,1 +1,1 @@
-we have sever tool for our websit written in angular 1 for order tracking, price quotes, etc. it has a pretti normal npm structure.thi works, but seem hacky. is there a better way to do this? or would a better way to have an "electron" branch and a "web app" branch?
+How to Structure a Web/Electron App - Code will be in both place

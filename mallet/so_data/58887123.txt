@@ -1,1 +1,1 @@
-i have a basic app with a text editor and a titl bar. i don't want scrollbar to appear on the side unless the text editor goe into overflow. even then, i don't want the titlebar to disappear dure the scroll. right now, it does.i think there some css witchcraft i'm miss here, or mayb i'v done someth wrong.us react, js, and electron. the text editor is quill.j if that matters. use screenshot of what i mean:when i scroll down the text stay there, but the colour scrolls:
+Getting frameless React/Electron app title bar to not disappear during scroll

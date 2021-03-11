@@ -1,1 +1,1 @@
-in electron, i want to add a .cpp target, that use opencv and it videocapture. my binding.gyp look like:it tell me, that "have_ffmpeg" ist true, but it doe not open the .mp4 file. other opencv functions, like imread() and imwrit do work fine. in a standalon .cpp application, i can use opencv with ffmpeg and i can read that specif .mp4 file with the same absolut path.ani ideas, how to get the videocaptur work with the .mp4 file? mayb my bind is wrong?thank in advance!
+OpenCV in c++ linked with binding.gyp, doe not read Videofile with VideoCapture?

@@ -1,1 +1,1 @@
-we would love to set a static path for the electron-build portabl applic on windows. to be more specific, instead of generat a random folder name in temp/somerandomname, we would like to have the same path everi time e.g. temp/app-name-portable.we'v tri set the portable_executable_dir in our package.json script to a new path, but no luck with that.
+How to change electron-builder path for portable application on windows?

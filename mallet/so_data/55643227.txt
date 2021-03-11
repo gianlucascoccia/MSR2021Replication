@@ -1,1 +1,1 @@
-i am tri to do some autom with my electron app as a proof of concept for a legaci applic replac for my company. i understand that we can't realli interact with the dom from the main window, so i am tri to see what approach i can take here.i creat a becaus the websit use ntlm to send the credenti and i don't think this is support in that library.
+Electron preload javascript with persistence?

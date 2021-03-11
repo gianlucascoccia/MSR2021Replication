@@ -1,1 +1,1 @@
-i have the follow data in nedb.it updat the valu but it updat as a new row. it basic insert a new row with same valu except for the taskdon valu as true. it doe not delet the exist data. henc in the final data tabl after updat i get tow row for id 0 with all valu same except for the taskdone. i am not sure if i am do anyth wrong. it will be help if anybodi can tell me a correct way of updat the value.
+Update a row in nedb

@@ -1,1 +1,1 @@
-i have multipl webview in my electron app, i want focus first webview element when is pressed. i have manag that but when i am in anoth webview my element get focus but i am not abl to type anyth from that webview i have to compulsori go to first webview then it works.am i on wrong way or someth else?note: (i have singl browser window and all webview are place in it)
+electron webview not getting focused from another webview

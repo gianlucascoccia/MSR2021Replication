@@ -1,1 +1,1 @@
-make tray icon flash until the icon is click and the app window is back in the focus again (on window 10)however, if the app is minimized, the flash end automat after just a coupl of second without even click on the icon.how can i prevent this?
+Electron win.flashFrame() method when app is minimized

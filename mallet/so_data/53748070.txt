@@ -1,1 +1,1 @@
-i have electron app with vuex. store is configur for whole app with modules, my test modul browser.js:so how i should dispatch action?
+Vuex action dispatch problem with electron

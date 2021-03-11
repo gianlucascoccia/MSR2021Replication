@@ -1,1 +1,1 @@
-i'm build and electron app that load a page and conduct some test on a page onc the page is loaded. i want to enforc a timeout on the page load, so let say after 5 second if page doesn't load, move onto the next item. my code is someth like this in my main process: output. what go on?
+Javascript setTimeout/clearTimeout weird behavior in electron

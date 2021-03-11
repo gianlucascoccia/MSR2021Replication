@@ -1,1 +1,1 @@
-i tri to make a stand-alon webapp by use node-webkit and angularjs.i follow the angularjs.org tutori but i encount an error when i tri to creat the angular module. error: [$injector:modulerr] fail to instanti modul hecktelionapp due to: error: [$injector:nomod] modul hecktelionapp is not available! you either misspel the modul name or forgot to load it. if regist a modul ensur that you specifi the depend as the second argument.mi project hierarchi is as follows:which i made wrong ?
+Failed to instantiate module, AngularJS + NodeWebkit

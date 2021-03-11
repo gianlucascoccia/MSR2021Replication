@@ -1,1 +1,1 @@
-so i have some task that i need to be notifi when the user lock their machine. this is in order to paus those tasks. equal i need to know when the machin has been success unlock in order to resum said tasks. this is pure for a window onli function so doesn't need to be cross-platform. look through the electron doc and found this about the status codes.howev i can't find a way either with electron or nodej direct to listen to window messages.ani advic on the problem would be great appreciated. thank
+Event when machine ha been locked/unlocked (Electron Windows)

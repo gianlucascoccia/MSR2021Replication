@@ -1,1 +1,1 @@
-i'm tri to use jqueri in the node-webkit 0.12.3 version. i have done this succes by ad i have read that i could be a problem that i am acces the filesystem of anoth app but this is not correct. what am i do wrong?
+Using JQuery in node-webkit not possible

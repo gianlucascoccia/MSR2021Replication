@@ -1,1 +1,1 @@
-i'm use the current version(s) of electron forge, react, etc. via the ef react template. when i run the execut creat with i can provid whatev other info is needed--thi issu has bled me.
+Cannot package/build Electron Forge app for production

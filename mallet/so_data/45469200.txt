@@ -1,1 +1,1 @@
-i am use the npm librari child_process in an electron project to captur the stream of standard output from a c program with spawn. however, when i attempt to log the output from printf or fprintf captur by child.stdout.on('data'), noth show up. this is my test code:
+Child_process not capturing binary file output?

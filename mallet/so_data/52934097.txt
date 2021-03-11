@@ -1,1 +1,1 @@
-i am tri to add thumbnail toolbar with specifi button in a taskbar layout of an applic from it doc. but it show some problem.th main.js:i can't make ani sens with this problem.
+how to set window thumbnail toolbar in electron application

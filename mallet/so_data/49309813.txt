@@ -1,1 +1,1 @@
-when use without luck :/
+new Date().setFullYear(new Date().getFullYear()) return a 13 digit number

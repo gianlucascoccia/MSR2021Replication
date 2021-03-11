@@ -1,1 +1,1 @@
-i would like to remov onli some option from the frame, such as file, edit, view, etc. i would like to use onli the minimize, maxim and close options.it is possible?
+Electron Frameless

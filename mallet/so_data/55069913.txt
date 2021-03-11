@@ -1,1 +1,1 @@
-i'm curent make a screengrabb program use node and electron. i quick discov that use browserwindow in electron grant me use featur in the shape of attributes:thi make no sens to me, as both the bodi is set to width: 100vw and height: 100vh, and the canva is full width and heght, which i get from the electron.screen.getprimarydisplay().ani idea whi the event isn't trigger on the edges?
+Mousedown not working on edge in Electron

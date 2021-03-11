@@ -1,1 +1,1 @@
-i'm new to electron, and i realli love it so far, but i'm unabl to packag ani of mine apps, at first i thought that it mayb someth relat to my code, then i download "https://github.com/atom/electron-quick-start" run npm instal and then i run "electron-packag . foobar --platform=darwin --arch=x64 --version=0.28.2" it build the app but when i tri to open it i get so i didn't touch ani code from the example, just want to build it and i got an error, what am i do wrong? thanks!
+Error after packaging the app with electron-packager

@@ -1,1 +1,1 @@
-i want to add custom menu in menu bar in mac with electron (nodejs).how can this be done in electron?a an exampl there is:
+How to add custom menu icon in menubar on macOS with electron?

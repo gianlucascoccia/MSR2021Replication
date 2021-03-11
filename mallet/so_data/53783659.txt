@@ -1,1 +1,1 @@
-i'm write packag for atom editor.can anyon help with
+Permission denied when running fs-plus module

@@ -1,1 +1,1 @@
-in my angular2 project(angular cli), i need virtual keyboard, tri to use virtual keyboard git url i did npm instal jqueryad script in angularcli.json file "scripts": [ "../node_modules/jquery/dist/jquery.js" ],i have call keyboard function on function call as below: but im get follow error:thi is my screenshot of my error
+how to make virtual keyboard (jquery) work with angular 2 in an electron app

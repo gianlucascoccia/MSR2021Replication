@@ -1,1 +1,1 @@
-i am work on an electron app with react.j that set up some peer connect through webrtc. everyth look good with the connect and the peer receiv the stream, but the video on the peer end doe no play the audio. perhap i'm just not understand how getusermedia works, but i thought set constraint true for audio and video was enough.relav html (peer)again, all the connect are work just fine, and the video is stream as expected, but no audio. consol the stream show that the audio channel is enabled. ani ideas?
+WebRTC Video/Audio stream, but Audio is not playing

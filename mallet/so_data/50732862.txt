@@ -1,1 +1,1 @@
-i had been use electron-vu and i met a few problem when i tri to share a set of global var through electron and vue.i have tri vuex and i found that chang made in the main process(electron) doesn't appear in chrome process (valu are different).i have also tri electron-vu but it cant trigger vue update.
+sharing a global var through vue and electron

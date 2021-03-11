@@ -1,1 +1,1 @@
-is there a way to delet the cach everi time reload the page on electron js?i alreadi use but onli work when the app open again. thank
+Delete cache every time reloads the page. (Electron)

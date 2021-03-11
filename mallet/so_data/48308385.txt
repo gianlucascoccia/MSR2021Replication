@@ -1,1 +1,1 @@
-so i have a finish angular 5 app that i want to covert into an electron app. i'v gotten everyth to work in the app as it did in it web app form except for one thing. i cannot for the life of me figur out how to load rout into a new browserwindow. here is what i am work with and what i have tri so far:i load mainwindow with this:ani ideas? it the onli thing hold up the releas of this electron app.
+How to Load Angular 2+ Routes in a New BrowserWindow (Electron)?

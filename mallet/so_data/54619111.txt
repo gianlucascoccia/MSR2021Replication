@@ -1,1 +1,1 @@
-i'm tri to run my simpl electron app. i use typescript as a develop languag which compil into javascript. when i run the app i get the follow error:
+Typescript & Electron export is not defined

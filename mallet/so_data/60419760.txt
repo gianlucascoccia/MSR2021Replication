@@ -1,1 +1,1 @@
-while tri to test my electron app with the messag on the main screen show message: hello from preload.j but test fail
+Is it possible to use spectron to test electron apps which us contextBridge

@@ -1,1 +1,1 @@
-i'v been look for resourc on how to implement user auth in an electron app.i'd like to util third parti servic like github to allow user to login and signup. with a "regular" node.j application, i would like util someth like passport.j or similar to implement this.mi confus aris becaus electron app are client side, so have thing like your client secret key in client side code seem wrong. so what is the process of implement 3rd parti user auth in electron apps?
+3rd party User Auth with Electron

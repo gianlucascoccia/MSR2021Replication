@@ -1,1 +1,1 @@
-run into an issu ad redux devtool to my electron instance.follow instruct here, ad the extens to my chrome instance, then tri to call , no?
+Electron: add redux devtools

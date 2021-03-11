@@ -1,1 +1,1 @@
-i have webview/ifram insid electron framework. i want to debug the code insid the iframe.i launch electron app with debugg windowa shown in the picture.i want to debug the content that get loaded.
+How to debug an iframe/webview in electron framework

@@ -1,1 +1,1 @@
-we are run server which run multipl process each, who in turn current communic with each other use http (use 1-2 physic server per client, and there are multipl client with separ servers).th server are host local per client.we'r think of migrat our .is there a way around this?
+SSL Certificate issue with using HTTP/2 a a communication mechanism inside LAN

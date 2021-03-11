@@ -1,1 +1,1 @@
-i have angular 2 app packag in electron. i wonder if it is possibl to run shell script from that app. thank for ani help.
+Run shell script inside Angular app packaged in Electron

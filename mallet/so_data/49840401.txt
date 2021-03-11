@@ -1,1 +1,1 @@
-i run electron-packag to make a distribut from my app, but when i start the app.app, no window is shown, onli the top menu.question: how do i best debug / troubleshoot this?th app start a web server and make a tcp connect to anoth server. the html for the electron app is serv from the local web server.thi is the output when building:
+Electron package no window

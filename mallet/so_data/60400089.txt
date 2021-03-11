@@ -1,1 +1,1 @@
-i'm do some memori profil in my electron app and run with the thank you!
+Why are Node process.memoryUsage and Chrome performance.memory value different?

@@ -1,1 +1,1 @@
-i want to requir imag dynam from the applic support folder. i use the react-app-rewir packag to requir outsid of the src folder but when i use a window variabl in the imag src i get the error: error: cannot find module. i get the path like this and get an error code with a string that work when i use it direct in the src part of the imag tag. i also tri to just replac the window.path with the string /users/tobi/library/appl support/template-editor which also work fine
+How to require an image with react electron outside of src folder(Application Support)

@@ -1,1 +1,1 @@
-i'm build a desktop app for window use seem to work. a file example.created.fil in my_app/node_module/node-cmd/exampl directori is created.but ani other code doe not work. even if i onli chang the name of the file to be "touched" noth happens.
+Using node-cmd module while handling Squirrel Events function

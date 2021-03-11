@@ -1,1 +1,1 @@
-i'm creat an electron gui that need to call an execut file that take command line arguments. i'v includ the execut in doe not exist and it doesn't run the command. how can i refer this exe proper in my code?
+Including executable file to be called in Electron Vue app

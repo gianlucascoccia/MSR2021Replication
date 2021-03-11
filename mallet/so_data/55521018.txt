@@ -1,1 +1,1 @@
-i am get this error: websocket connect to ws://localhost:8000/socket.io/?eio=3&amp;transport=websocket failed: error in connect establishment: net::err_connection_refusedi have look for this error but it seem for me that my configur of the socket is well and i do not think is for the warn of electron.ani idea?thank mates!!
+Socket.IO ERR_CONNECTION_REFUSED

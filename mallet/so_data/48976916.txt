@@ -1,1 +1,1 @@
-use electron and node.j to write a simpl user interfac to a process that generat data, and then allow the user to call gnuplot to show the data. here is the code in main.j that call gnuplot (gnuplot5-qt).given the sigsegv, i'm assum that gnuplot is run out of memori when it crashes. is there some way to alloc more memory? is there a better way to call gnuplot? i'm just learn electron, node.js, and javascript. thank for your help.
+How to keep ChildProcess from running out of memory? Electron/Node.js

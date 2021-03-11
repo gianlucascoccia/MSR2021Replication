@@ -1,1 +1,1 @@
-cannot find modul coffee-script use grunt from a script
+Cannot find module 'coffee-script' using require grunt

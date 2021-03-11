@@ -1,1 +1,1 @@
-i updat the version of electron to 3.0.2, and now cut/copy/past not work in develop tools, but work in application.
+Electron Developer Tools (copy/cut/paste not working)

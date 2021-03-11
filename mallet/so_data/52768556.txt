@@ -1,1 +1,1 @@
-how can i detect if, for example, a browser is current open?i need this in my electron-application. ty :)i'v found noth like this online.i'v onli found how i can check which window is open from the window i have in my own application, but i need to know, what els is opened.it should be someth like this:
+How to get the current foreground application in electron(Javascript)

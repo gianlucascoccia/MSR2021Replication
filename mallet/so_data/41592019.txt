@@ -1,1 +1,1 @@
-index.htmlwhen i load this html on browser materi float label is work fine but when i load it with electron it stop work ..it should work like but it work like pleas help !!
+Angular 2 material not working with electron

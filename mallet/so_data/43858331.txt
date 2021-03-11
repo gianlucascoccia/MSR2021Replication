@@ -1,1 +1,1 @@
-this is a silli question, but i could not find a clear answer on the web.do i need to listen to a special "dom-ready-event" if my app is run within a thank you.
+DOM ready event inside Electron how?

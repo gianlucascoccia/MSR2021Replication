@@ -1,1 +1,1 @@
-when i creat a , or do i still need to?
+Does BrowserWindow.fromId return window that have been destroyed?

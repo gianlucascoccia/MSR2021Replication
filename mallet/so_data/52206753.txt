@@ -1,1 +1,1 @@
-i use vue ui to creat a vue project with typescript, i then ad electron, iview and less ...i onli correct the lexic problem in the *.ts file but when i run the vue-cli-servic serv task in vue ui, i get the follow output :mi solution: i delet it and i onli have the less relat error left ... problem solved?
+How to translate to typescript : require('module').globalPaths.push(process.env.NODE_MODULES_PATH);

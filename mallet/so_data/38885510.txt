@@ -1,1 +1,1 @@
-i am wrap a web app into a desktop app with electron. is there ani solution, which would allow load file from the zip archiv via urls, like so:i know this is possibl with electron asar archiv format (https://github.com/electron/electron/blob/master/docs/tutorial/application-packaging.md). how this can be done in node.j or nw.js, would also be relevant.
+Read content of ZIP file via URLs

@@ -1,1 +1,1 @@
-i am learn how to develop a desktop app with electron. i develop websit long time ago in php with session variabl and mani statement.mi project:i have a socket server which send me in real-tim data, i want to connect to the server and display the data onli if the user is allowed. the server and the data are depend on the page.should i consid the main process as a nodej server and the render process the client side ?pleas if my question doesn't follow the rules, just tell me in comment, i'll delet it.
+Confusing between webapp using NodeJs server and electron

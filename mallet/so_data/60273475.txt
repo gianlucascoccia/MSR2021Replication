@@ -1,1 +1,1 @@
-i have made an app with electron and am tri to packag it with electron builder. link to repositorydo not contain node_modul folder: repo herei have a folder name build with my icon.ico in it and my package.json is as follows:thank for the support so far
+Can't Add Icon To Electron App With Electron Builder

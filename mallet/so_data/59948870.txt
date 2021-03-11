@@ -1,1 +1,1 @@
-i am tri to find all element on the gui of an electron app that have a class tick-icon and no attribut hidden'. i can't figur out the webdriverio selector to do this.also i tri loop over all tick-icon element and get the hidden attribut but that didn't work either.a portion of the gui code look like this:
+using webdriverIO to get element without attribute

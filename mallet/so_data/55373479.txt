@@ -1,1 +1,1 @@
-nan
+How can the electron framework enable communication like an Ajax request?

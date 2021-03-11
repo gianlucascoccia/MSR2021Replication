@@ -1,1 +1,1 @@
-i would like creat a new folder in user data path on mac, but i'v a eacc problem on mac only.i want creat anyon know how i can creat new folder in app path ?thank you communiti :)
+Electron mkdirSync EACCES on MAC

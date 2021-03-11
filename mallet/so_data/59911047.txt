@@ -1,1 +1,1 @@
-just start use testcaf and i'm tri to get eslint set up.her the softwar and version i'm using:to the test. fabulously, the instal and my first test work fine and straight away!
+Setting up eslint for testcafe in neovim

@@ -1,1 +1,1 @@
-i am use node-webkit/nw.j as an autom tool to test my web application.mi applic has a record mode to captur all click event and keyboard events.al the captur event are log into a file and while in play mode, the log event are run from clean state.however, sinc file upload open up a file dialog, i cannot emul a file selection. sinc am use node webkit, i can programmat read a file from the user system and upload it as blob use and upload the file?
+How to programmatically upload file in node-webkit / nw.js

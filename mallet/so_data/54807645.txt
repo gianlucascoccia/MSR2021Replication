@@ -1,1 +1,1 @@
-i want to build electron app.so i'd like to know if the packag should be includ in the depdefend section as above.what did i miss?
+how to set package.json for first build electron

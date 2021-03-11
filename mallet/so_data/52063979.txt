@@ -1,1 +1,1 @@
-i have an app that was created, use electron framework. this app just open internet page. is it possibl to let my internet page know if user use electron app? i need to show user a bit differ version of page, if electron framework is be used. could you pleas propos a techniqu or method to do this? i will be veri grate for ani inform on this regard.
+How to tell website that electron is being used?

@@ -1,1 +1,1 @@
-i have the main menu as it run by default on everi electron app. i want to chang the content of it and add what it want to it. so, i tri to follow this document http://electron.atom.io/docs/v0.36.0/api/menu/so, the code of my hello world app in the index.j was the following: app threw an error when run [typeerror: cannot read properti menu of undefined]
+Cannot change element on default electron menu

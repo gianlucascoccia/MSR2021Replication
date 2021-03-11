@@ -1,1 +1,1 @@
-i want to clear cach data in electron(atom-shell). i don't find ani api like gui.app.clearcache()(node-webkit api to clear cach data) in electron. if you find ani api or ani other way pleas let me know. comment are appreci .
+How to clear the cache data in Electron(atom shell)?

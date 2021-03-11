@@ -1,1 +1,1 @@
-i have a nativ librari built for either node or electron. the project import this librari use the node implement (for testing). a further project requir the electron version. is there a way i can setup a configur for a condit import that is trump by the parent project?so project b would set the config to node, caus the librari to condit load the node native. project a could overrid that config to forc the librari to load the nativ electron config.how would i setup someth like this?
+Conditional import in javascript

@@ -1,1 +1,1 @@
-i am develop now a , and it is included.th question is if there a method of creat a distribut version for debian if it possibl the app should be portabl
+How to create a distribution version of my electron app for Debian?

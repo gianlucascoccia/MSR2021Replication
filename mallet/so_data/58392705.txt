@@ -1,1 +1,1 @@
-i have an interfac from lib.dom rather than electron?thanks!
+Typescript Electron type conflict with Dom type

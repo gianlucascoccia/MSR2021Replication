@@ -1,1 +1,1 @@
-how to use nwjc, tri to use it from command line from the project path, but get nwjc: command not found.do i need to download anyth more than nwbuilder and nw for use nwjc?
+How to use nwjc command?

@@ -1,1 +1,1 @@
-i am tri to spawn a child process in electron render process use a structur like to unbuff the process, but i find that it has no effect.mi question is, if the parent process (ie: electron) is use some buffer size instead of line buffering, that that affect the spawn process as well?
+Does a spawned process inherit the parent buffering setting?

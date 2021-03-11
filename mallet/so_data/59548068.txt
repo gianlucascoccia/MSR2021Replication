@@ -1,1 +1,1 @@
-i am creat an electron app that help me manag my disk space. however, i would like it to work on linux/unix too.i wrote the follow code, which work great for windows, but not linux/unix systems.sinc i am unfamiliar with linux/unix, i am wonder how i can achiev the same output for linux/unix too?
+Get Used/Free Disk Space for All Drives on All Platforms

@@ -1,1 +1,1 @@
-while read someon code on github electron, i came across the linewhat doe it do?
+What doe process.env.wifi_interface do?

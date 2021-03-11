@@ -1,1 +1,1 @@
-i am tri to run an applic in debug mode from visual studio code. when i click debug follow error occurs:nev heard of such modul before.us to work before, but all of sudden it stop to work. anyon has a clue what the problem might be?
+Cannot find module {applicationPath}

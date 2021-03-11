@@ -1,1 +1,1 @@
-i am tri to fix a tricki product issu in electron app.and electron-build take around 5-6 minut to build project.app project.dmg project.mac.zip and so on.i there i can onli build project.app and save time by not build .dmg file etc ?
+How to build only .app using electron-builder

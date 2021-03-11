@@ -1,1 +1,1 @@
-i have an electron app base on ) and they do not seem as a solut for me in this case.
+ElectronJS - sharing redux store between windows?

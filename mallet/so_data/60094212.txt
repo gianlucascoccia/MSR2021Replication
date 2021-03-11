@@ -1,1 +1,1 @@
-i want to creat a messag dialog box with 30 second count down along with a messag how to do that in typescript, count down should be like 30 29 28 .... 0 then this messag box should disappear automaticallylik this
+Dailog box with timer

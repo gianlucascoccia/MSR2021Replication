@@ -1,1 +1,1 @@
-i have a simpl electron applic that i'm incorpor one html page that has a swf object. i have includ the pepper flash player and replic the main.j code from the tutorial. when i run the applic from command prompt / git bash for testing, the swf work fine. however, onc i build the app and run it, the swf content won't load. the content area simpli display "couldn't load plugin.".i'v includ both 32bit and 64bit version of the flash player plugin.
+Electron using SWF work when testing but not after build

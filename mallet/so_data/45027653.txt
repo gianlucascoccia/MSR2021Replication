@@ -1,1 +1,1 @@
-i want to use node modul to get idl time on my electron app,for exampl use this modul :node-system-idle-tim how can integr this model with main.j electron file to read an idl time from the main window?pleas help me.
+How can use Node module to get idle time from an electron app?

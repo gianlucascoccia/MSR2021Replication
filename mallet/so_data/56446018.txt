@@ -1,1 +1,1 @@
-i'm tri to use a preload script to work around a cor header issu in electron 4.2.3. however, i can't get the preload script to run. a minim reproduct case:package.json script is just get ignored. even if i make a syntax error in the script, it doesn't show ani error anywhere.
+Why is Electron not running my preload script?

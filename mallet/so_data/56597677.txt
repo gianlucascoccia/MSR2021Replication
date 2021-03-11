@@ -1,1 +1,1 @@
-i want to switch my electron app to the browser tab. is it possibl to do so like switch the render process to the default browser and communic with the electron main process?
+Transfer electron renderer process to default browser

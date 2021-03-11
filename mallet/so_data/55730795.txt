@@ -1,1 +1,1 @@
-i tri to start and stop a tomcat instanc on window use electron.i have modifi the
+How do I stop Tomcat using shutdown.bat in app.on ("before-quit")?

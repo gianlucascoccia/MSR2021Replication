@@ -1,1 +1,1 @@
-it throw an error while start that libgtk3 cannot be find.i it possibl to build an electron app to work on system with libgtk2?actu it would be perfect if appimag includ all nesessari lib dependencies(lik fuse for example), even if it would be a big files of image.
+Electron AppImage for linux doesn't start on system with libgtk<3

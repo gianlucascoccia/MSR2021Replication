@@ -1,1 +1,1 @@
-when publish a build use electron-builder, a number of artifact are creat in github releas in addit to .zip, .dmg, etc files:ar these necessari for futur auto-upd detection? is there a reason to suppress them?
+Are electron-builder artifact necessary in a repo?

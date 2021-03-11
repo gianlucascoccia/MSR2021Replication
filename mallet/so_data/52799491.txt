@@ -1,1 +1,1 @@
-i am implement an note app in electron. so i want to open multipl window to show the note but i am not abl to do it. i am use the below code in main process.
+How to open multiple window in electron using electron-window-manager

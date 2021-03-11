@@ -1,1 +1,1 @@
-i creat a new angular2 project with angular-cli. i wrap it into electron to use it as a desktop application. the app is more or less a simpl window with a navbar and a plus sign in the middle. click the plus should allow import plugin to enrich the application. plugin are complet angular2 project itself, come with their own package.json and dependencies. they could be packag with webpack if necessary. is there a way/approach to do this? thank
+Angular2 Plugin Mechanism

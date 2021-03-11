@@ -1,1 +1,1 @@
-anyon face this,ninja: error: icudt.dll', need by obj/third_party/icu/source/i18n/icui18n.alphaindex.obj', miss and no known rule to make it
+Missing icudt.dll when building nwjs in Release_x64

@@ -1,1 +1,1 @@
-the develop environ is window 7 32bit and built with electron-react.i use the repositori here https://github.com/electron/electron-quick-start and proceed exact as they told, but the result was like the photo below.do you ever need someth els that need addit installation?
+I can't see Electron's screen

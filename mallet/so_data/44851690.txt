@@ -1,1 +1,1 @@
-i am use electron with angular 1.6.4.i have a controller, in which i dynam generat , to keep some order and to be abl to access inject services.i this possible? is the drag stuff mayb interfering?
+angular1 with electron: ng-dblclick not working

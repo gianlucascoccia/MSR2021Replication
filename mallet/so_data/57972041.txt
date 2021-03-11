@@ -1,1 +1,1 @@
-i am write a electron app. it won't have it use on the web as it oper with the file system. is it worth write articl instead of div, use ul and overwrit their default style and all other semant html5 access features. while i understand it is good practis it will take extra time and ship size etc.. and i am not awar screen reader support in electron.
+Is writing semantic html important in a electron app?

@@ -1,1 +1,1 @@
-i am current build a desktop app with electron, in which i includ html5 stream? i was think about overrid the partial request mechan with a callback which would return my data, but from my current read and understand of the api, this is not possible.
+Override video tag request mechanism

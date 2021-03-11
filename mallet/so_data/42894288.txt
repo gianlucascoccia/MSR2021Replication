@@ -1,1 +1,1 @@
-i'm have an issu set the icon for my electron app in two differ ways:non-packag (run the app via terminal)mi main.j doe specifi an icon value, point to the icon file, but it doe not apply.packag (with electron-packager)mi package.json file specifi the icon key, point to the icon file, and i have the .icn (mac) file in the build directory. i use electron-packag to build the app, but the icon is not applied, the default electron icon is use instead.not sure what i'm do wrong here, everyth appear correct.
+Electron — Can't get custom icon to appear

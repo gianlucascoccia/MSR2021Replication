@@ -1,1 +1,1 @@
-i'm tri to connect to oracl databas through the electron app i'm building. what option do i have?
+Trying to connect to Oracle DB through Electron in Windows 7

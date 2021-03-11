@@ -1,1 +1,1 @@
-i am current develop an electron applic which listen to the tcp socket and send request to the rest server after receiv data.for test purpos i use the follow code:, request doe not even leav my machine. strang thing is when i user ip address in url instead of domain name, request work fine. so, i suppos this problem is somehow relat to dns lookup. ani ideas?edit: when run this code in pure node.j the issu doe not appear.edit: this issu onli appear on linux.
+Node.js hang on HTTP request

@@ -1,1 +1,1 @@
-i have a problem instal sqlite3 with npm in window for an electron app.i instal sqlite3 with npm:it seem that it look for a file name "binding.gyp" but it is not and i do not know where it should be or what it must have to work.som help?thank in advance.
+Install npm sqlite3 on Windows for Electron App

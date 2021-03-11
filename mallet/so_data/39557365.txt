@@ -1,1 +1,1 @@
-i want my electron app could open *.txt-file (gener by my app) with system default applic (default text editor). i use to perform it - and it work fine... until i'v pack (mas) and sign the app. i suppos i have to add some entitl when signing, but alreadi tri bunch of them without success :(could anyon give me a hand with that?
+signed electron app shell.openItem() fails

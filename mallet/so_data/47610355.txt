@@ -1,1 +1,1 @@
-hi i am use electron and i want to chang the parameters.
+Customize window.open

@@ -1,1 +1,1 @@
-i have a node-webkit page like this:for some reason, i can onli drag the upper ~3 pixel of the titlebar div (which is 40 px high). bug or someth i'm do wrong? thanks.
+"-webkit-app-region: drag" only allowing drag in small region of element

@@ -1,1 +1,1 @@
-https://gyazo.com/7ea04fad47507a06fe7d38afbc58562bi can see these weird white line on this black box (both black boxes, mind you.)thi is veri strang and i never specifi my code to do this. is there ani way i can turn this off at all? this is veri annoying..mi code (it three.j + cannon.j exampl by whoever made it, but it modified):
+I can see line on a three.js object, even though wireframe is off

@@ -1,1 +1,1 @@
-is there a way to updat the screen faster? i am write 1000 row to a table, but it seem that electron, webkit or someth cannot render fast enough. onc the data is told to write, it take a few second for it to display on the screen.i am not sure if it is my code or electron/node/webkit that is make it slow. mayb it is jqueri that is slow?her is what i am doing:
+1,000 row rendered to a table is slow

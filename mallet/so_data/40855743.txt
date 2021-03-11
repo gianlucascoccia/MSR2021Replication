@@ -1,1 +1,1 @@
-i'm tri to build a small electron app. it get a file/fil from the user, then copi them to a specif folder, and add all the info about that file to a database.it work fine for one file at a time, but when i tri to handl more than one it doesn't work as i expect it (copi a file, updat the dom, copi next file, updat dom, etc).
+Variable give me wrong value inside function inside for loop

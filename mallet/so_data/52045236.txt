@@ -1,1 +1,1 @@
-alway has a white border gap on corners, make it rectangular. have attempt to increas border size of css but everyth expands.
+How to make corner rounded in electron app

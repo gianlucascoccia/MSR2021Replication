@@ -1,1 +1,1 @@
-i am tri to make a resiz and draggabl div to allow select of specif part of screen. i am get this while resiz and drag the div. pleas note, this onli happen with transpar windows. screenshot here
+Draggable and resizable div leaf a trail in electron frameless/transparent window

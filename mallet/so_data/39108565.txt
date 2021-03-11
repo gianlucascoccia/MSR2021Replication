@@ -1,1 +1,1 @@
-i am complet new to electron and node.j and current tri to implement an electron applic which is go to updat some gauges, chart (possibl in multipl windows) accord to valu receiv from a udp socket. now i wonder what is the best design pattern for such task accord to render/main process methodolog of electron?
+Updating render process from UDP socket

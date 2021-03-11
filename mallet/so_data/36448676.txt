@@ -1,1 +1,1 @@
-i am tri to build a kisok app that open a webpag in a new window. and on that new window i want to add the rule that onli that webpag is allowed. but it seam that chromium-arg is not a valid option on the open function. so if that option is not allow how do i solv this problem?
+Open new windws with kiosk and chromium-args

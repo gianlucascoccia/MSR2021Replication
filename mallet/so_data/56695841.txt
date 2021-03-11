@@ -1,1 +1,1 @@
-i am use electron with node js. i have use require() alreadi in two html file like this:whi would it allow me to use require() in a script on two html files, but not this new one?
+Require() is not defined in electron - node j

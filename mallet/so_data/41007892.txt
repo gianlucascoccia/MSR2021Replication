@@ -1,1 +1,1 @@
-i'm in the work of purchas authenticod cert from digicert for an open sourc electron project. howev i'm concern with how electron is built if my certif will remain safe. from what i can see electron-builder, code sign is onli done to the execut file like . what about the asar archive? technici couldn't someon malici swap out the asar archive, renam the executable, and then redistribut the newli form applic with my certif attached?how would one go about prevent someth like that?
+Electron and Authenticode - Prevent malicious redistribution

@@ -1,1 +1,1 @@
-i'm work with electron (javascript and angular) and have two render windows, i want that render 2 display some graph base on data that is present in render 1.however, sinc share object that contain data and method between render is not possibl in electron, i believ my best/fastest (in implementation) option is to chang the 2 render option and use instead 2 div in the same renderer.befor do that, i want to ask whether there is ani other option i am not seeing.
+Alternatives to create multiple window if you need to share data among them

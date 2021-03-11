@@ -1,1 +1,1 @@
-when i instal the electron quick start and runshould work as well, but it doe not – it just show the electron "dummy" screen.how can i specifi on the command line which javascript to run?
+Starting Electron with JS file a argument

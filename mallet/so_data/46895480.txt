@@ -1,1 +1,1 @@
-i have creat an electron (windows) app with electron-prebuilt, nativ node modul and python server. i want to includ other node modul like serial-port and web-scrapp with my app. i have instal the modul with npm and the modul get bundl in "app.asar" file. but on use the modul with requir method in my javascript function throw "cannot find the module" error. what to do?
+How to include 3rd party node module (website-scrapper) in electron app that us electron-prebuilt

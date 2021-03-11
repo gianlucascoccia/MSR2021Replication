@@ -1,1 +1,1 @@
-i'v post an issu https://github.com/nuxt-community/electron-template/issues/27 but mayb here it will be more efficienti'v use it is strang that templat doesn't work out of the box. how to proper configur electron and nuxt to work together?
+nuxt and electron - cannot get /

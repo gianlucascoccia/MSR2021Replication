@@ -1,1 +1,1 @@
-i'v built a single-pag app off of chentsulin electron/react boilerplate, which come with the follow node script for testing:i'v tri use webpack.ignoreplugin to ignor electron-json-storage, but that doesn't do anything. my guess is that electron-json-storag is tri to refer to an instanti electron session that doesn't exist. what the easiest way of dummi this up?
+Dummying an Electron session for Mocha/Chai test

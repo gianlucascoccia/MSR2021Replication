@@ -1,1 +1,1 @@
-i don't want a
+Prevent Electron app from redirecting when drag+dropping item in window

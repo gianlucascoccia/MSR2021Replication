@@ -1,1 +1,1 @@
-i'm work on a web app to download, decrypt, and creat a report of a user data. this report could be > 100 gb with individu file of up to 5 gb. the initi hope was to achiev this in the browser. but memori limitations, especi with a 5 gb file, have scrap this idea. instead the new plan is to provid a standalon app to compil and download the report.a suggest has been put forward to use electron. i'd like to know if this is viable? or will electron suffer from the same limit as the browser?
+Is Electron a good choice for an app dealing with a large amount of data?

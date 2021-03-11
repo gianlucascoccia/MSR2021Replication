@@ -1,1 +1,1 @@
-i would like to build a plugin where i put a chart or a tree compon for peopl to drag and drop and use/build their own flows. is this possibl to build in vs code? are there ani exampl or document on how to do that?
+Is there a way to build visual plugins in VS Code

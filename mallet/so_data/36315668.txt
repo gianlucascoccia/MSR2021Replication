@@ -1,1 +1,1 @@
-i'm build an electron app and use the npm packag electron-build to build the app and instal for windows. i'm tri to use the https://github.com/electron-userland/electron-builder/blob/master/src/httprequest.ts#l28thi lead me to believ there is someth up with the window machin or certificates. i'm run this on window 10, node 5.9.0.
+Electron Builder Code Signing Download Certificate Error

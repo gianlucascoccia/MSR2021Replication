@@ -1,1 +1,1 @@
-i want to start anoth node process from my electron app. i also want to kill/stop that process. how can i do it in electron ?
+How to start and stop another node process in electron in Windows?

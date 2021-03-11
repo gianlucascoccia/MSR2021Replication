@@ -1,1 +1,1 @@
-i have an electron app which render an html file with content along the line of:
+Electron Doesn't Return Proper Value From window.open()

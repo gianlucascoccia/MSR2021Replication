@@ -1,1 +1,1 @@
-is there a conveni way to get the mac system notif set in electron? (eg. play sound for notifications')th current lib i found can get getdonotdisturb but didn't find an api to check the notif settings.
+Get Mac notification setting in Electron

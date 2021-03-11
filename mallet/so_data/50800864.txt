@@ -1,1 +1,1 @@
-i would like, from the electron index.html file, to modifi a config file present in the.asar of my application. in my case i need to change, if necessary, my applic databas config in order to work.i understood that .asar is in readon and i want to know if there is a way to modifi this config file from electron without chang it posit in my application?i see the extraresourc option but i did not understand how it work.it also import that the config file stay in myapp/config folder.thank for your help :)
+Electron modify file store in .asar

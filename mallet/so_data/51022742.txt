@@ -1,1 +1,1 @@
-i am use shell.openexternal(url) method in my push notif electron app. onclick of the receiv push notifications,a new window open in internet explor but i want the same to be open in chrome.i it possible?
+Electron's shell.openExternal open a new window in internet explorer

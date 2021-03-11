@@ -1,1 +1,1 @@
-i'm tri to captur screen share of googl chrome. but it show black/dark video. electron version: 6.0.9 oper system: window 10 enterpris (1803) 64bit last known work electron version: na googl chrome version: 76.0.3809.132 (offici build) (64-bit)i have upload my electron fiddl gist hereit my output while tri to captur chrome windowi'v also report issu at github of electron
+Electron desktopCapturer can't capture google chrome window

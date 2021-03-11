@@ -1,1 +1,1 @@
-i instal but this doesn't fix it.
+Trying to use ffi in Electron is fatal erroring

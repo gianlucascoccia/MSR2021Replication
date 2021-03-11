@@ -1,1 +1,1 @@
-i tri to hide my main window so that i hasn't to load again later.i got the follow code:so that not work for me, when i close the window i get this error message:can somebodi help me? line 37 is the line with win.hide()thank you!
+Only hide the window when closing it [Electron]

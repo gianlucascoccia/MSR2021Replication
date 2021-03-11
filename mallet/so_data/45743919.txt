@@ -1,1 +1,1 @@
-recent i found some difficulti to plan autom test for our applic use electron. i'v tri to use spectron, which look like the offici framework to test electron apps, however, i found the document was veri hard to understand on their website. i know there are some famous app use electron, e.g slack, wordpress and github desktop. i wonder if they are realli use spectron or someth els as autom to test their apps. pretti much i just want to figur out if spectron is the onli way to test electron.
+Do I have to use Spectron to test Electron?

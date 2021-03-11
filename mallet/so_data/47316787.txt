@@ -1,1 +1,1 @@
-i'm code an app with electron, react (jsx) with babel. i switch to typescript this even and i can't figur out how to make everyth work. npm packet set up either react or typescript, but not both, and not with electron. (i also have to implement webpack)mi question here is: what is the minim structur of folders, file and packet to make everyth work? i just want to display a hello world on the main window use a react compon written in typescript.curr my packet are electron, react, reactdom, typescript.
+How to set up Electron with React and Typescript?

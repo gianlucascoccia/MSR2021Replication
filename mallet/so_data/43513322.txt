@@ -1,1 +1,1 @@
-convert my exist angular 2 project into electron base cross platform than i instal electron-forg start develop tool for develop to simpl easi way to package.a command to launch app : electron-forg startunlik return an refer error "webpackjsonp not defined" in error popup.i found one of stackoverflow answer to put your vendor.j befor main.j but unfortun it not work in my case.package.jsonanyon face this issu befor ? what would be a possibl case of this error ? your help would high appreci . thank in advance.
+Reference error: WebpackJsonp not defined

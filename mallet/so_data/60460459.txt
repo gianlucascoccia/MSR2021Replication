@@ -1,1 +1,1 @@
-i'm develop my first packag for atom. to do it, i need this packag refer to the node version that electron uses, but i think i can not chang it, becaus it the version that atom uses.how can i solv this and go on?thi is my environment:maco catalina 10.15atom 1.44.0electron 4.2.7chrome 69node 10.11.0
+Node module version conflict while developing package for Atom

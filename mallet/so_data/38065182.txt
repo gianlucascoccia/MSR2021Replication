@@ -1,1 +1,1 @@
-i'm tri to defin new instanc of callback function, but it becom messi and i don't think this is the right way of do so.
+Node.JS, Electron: BrowserWindow Outside ready

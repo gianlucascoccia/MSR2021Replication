@@ -1,1 +1,1 @@
-i am still veri new to electron but i have a problem that i can not solve. the request is not go out to ani website. i am use a window 10 (x64) machin to make my project.i want to store the body(html) into an array that will be call back in the index.html file. the call back work fine. it has been tested.her is the code for the .js fileif i am miss someth pleas give me some advis on it.
+Why this (Request) module is not working in my project?

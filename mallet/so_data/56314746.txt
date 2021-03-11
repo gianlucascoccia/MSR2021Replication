@@ -1,1 +1,1 @@
-i found the .node file in the modul folder of discord. i tri search the internet but nobodi has realli ask a question about extract .node files. i even tri to open up winrar but it fail to extract the ".node file imag
+Extracting .node file

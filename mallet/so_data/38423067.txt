@@ -1,1 +1,1 @@
-i am new to dekstop app by electron. howev i built a desktop app use this sourc code and just chang the link to my site. now i have a function desktop app for mac.but i want to open my app use a link say appname://and-some-link-followshow can i implement custom url schema to open dekstop app whenev i click appname://.... for example:i want to do someth like slack desktop app which open up by click slack://and-some-link ani help please. stuck here for 2 days. thank in advance.
+Custom url protocol for OSX desktop app using electron by atom

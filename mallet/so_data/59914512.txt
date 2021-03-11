@@ -1,1 +1,1 @@
-when attempt to write to the file . how would i ask for the permiss so that i can write to the file?
+Cross-platform way to get permission to write file on Electron

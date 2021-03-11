@@ -1,1 +1,1 @@
-i'm current build an electron applic intend to run on a raspberri pi 3 b+ which is run ubuntu mate on an in general is handl externals?
+How can I compile native module on my AMD64 machine for an ARM64 Raspberry Pi 3 running Ubuntu MATE using electron-builder?

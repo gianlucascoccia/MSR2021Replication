@@ -1,1 +1,1 @@
-i convert a default .net core applic and convert it to electron. but the databas is not working. what step should i use to add a local db.applic loads, but data is empti
+Electron .Net Core . Unable to update database . How to configure sqllite or sqlcompact in Electron

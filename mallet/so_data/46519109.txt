@@ -1,1 +1,1 @@
-i'm tri to get sqlite3 to work in an electron app run on windows7 and 10. run the follow command, i was abl to creat my node version is v7.4.0. electron v1.6.11.
+%1 is not a valid Win32 application.. Sqlite3 in Electron app

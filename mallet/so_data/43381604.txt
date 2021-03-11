@@ -1,1 +1,1 @@
-when i tri to run electron-rebuild to get grpc work for electron, i get the below error. when my colleagu doe the same thing, no error. we are unabl to determin what the differ is in our environments. both window 10 64, node64, vs2015 packag 3, "electron": "1.6.6", "electron-rebuild": "^1.5.7"ani ideas? the error isn't tell me much.
+electron-rebuild grpc build failure

@@ -1,1 +1,1 @@
-i am tri to link a python script with electron app use the npm python-shel package.th condit is to execut the script whenev i click on a button. so, suppos my directori contains:in the main.py, all i do for now is print "hello". now when i run, npm start i reciev the follow error:do anyon know whi this is not working? i saw mani articl on electron, they all do the same thing and it works. if there is someth that i am missing, pleas let me know.thank you.
+npm python-shell not working with electron

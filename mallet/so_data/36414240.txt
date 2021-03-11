@@ -1,1 +1,1 @@
-very, veri confused. i am use the npm packag '' as suggest in this electron documentation: http://electron.atom.io/docs/v0.33.0/api/auto-updater/#update-requeststhi clear doesn't line up with the npm package, as the object return by contain none of the method the doc say it should. npm packag info:https://www.npmjs.com/package/auto-updaterar the doc out of date/wrong or are they list the wrong npm package? i'm probabl do someth stupid.
+Electron auto-updater doesn't exist?

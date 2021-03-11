@@ -1,1 +1,1 @@
-i'm a complet electron beginner. let say you are creat a simpl memopad-lik app and want to save someth you type into a textarea in the browser window by click the app [file > save] menu, which should be a veri common feature.menu handler should be implement in the main process, and the textarea is clear in the render process. i can't figur out how to access what in the textarea from the main process.
+How to share data between Main/Renderer Processes

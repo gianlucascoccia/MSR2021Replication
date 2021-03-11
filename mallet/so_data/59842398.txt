@@ -1,1 +1,1 @@
-i am use videoj plugin within electronj app to display videos. upon detect the screen recording, i have to stop play the video.i it possibl in ani way, given these two framework involved? thank you veri much in advance.
+Is there a way to detect (and restrict) screen recording by an electronjs app?

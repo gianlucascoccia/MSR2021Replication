@@ -1,1 +1,1 @@
-what i havei creat a small webpack hmr hello world with the follow config file:. the applic work proper but when i edit a file, hmr doesn't happen. whi it doesn't work in nw.js when it work in the browser?
+Webpack HMR doesn't work with Node-Webkit/NW.js

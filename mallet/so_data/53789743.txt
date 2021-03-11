@@ -1,1 +1,1 @@
-i am work on a desktop app with electron.js. i have angular instal in it to make singl page application. now i want to have a user login and registr i.e basic authent system. but the problem is how do i handl if the user is log in. where do i store user token and which will be avail throughout the applic and can also be avail in the html page so that i can do condit render use this is my first time work with js framework,so i am not realli sure on what to look for.pleas help.
+How to handle authentication electron.js

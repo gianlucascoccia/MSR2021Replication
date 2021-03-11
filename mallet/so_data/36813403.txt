@@ -1,1 +1,1 @@
-border on top and left: that red line is be drawn with:
+Why doe Electron window have a border around my canvas?

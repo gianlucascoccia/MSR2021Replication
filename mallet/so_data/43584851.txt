@@ -1,1 +1,1 @@
-i'm use electron + nightmare.j to do unit tests.i need to copi a string to the clibboard > focus a element > past the content. then the test is about if my javascript is handl behav properly.i read in the electron doc about the clipboard api, and copy/past in webview, but not sure how that integr with the nightmare.j api, probabl in a so i can call it copy/past method?
+Is it possible to copy/paste with Electron?

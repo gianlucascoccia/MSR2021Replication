@@ -1,1 +1,1 @@
-i have a minim electron app and i am tri to build it (it run fine). my package.json is
+Application entry file doe not exist in Electron Builder

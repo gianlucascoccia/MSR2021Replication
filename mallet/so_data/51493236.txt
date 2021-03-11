@@ -1,1 +1,1 @@
-i want to add googl analyt in electron application. as it is js, i see there is onli one option creat an account for website'. doe anyon has use googl analyt in electron app for window and mac? which account to creat and what is the further process?
+How to add google analytics in electron

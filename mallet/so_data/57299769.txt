@@ -1,1 +1,1 @@
-i'm develop a desktop app use reactj and nwjs. i have a webview that render a website. i want to modifi the text of a render span, but it won't.i tri the same approach with electron js, but without success.cod of my package.jsonth span is correct updat in console, but not in browser.
+How can we update textContent of a span inside Nw.js or Electron.JS WebView?

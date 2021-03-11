@@ -1,1 +1,1 @@
-i'm new to electron, my goal is to run a django app within. the django app has been compil use pyinstal and place correct within my electron project structure.mi problem is that when i start electron (
+Electron need page reload to show content

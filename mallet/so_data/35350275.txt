@@ -1,1 +1,1 @@
-i need to find and select text in the textarea in my electron app. i found a pretti good solution.but when search the content are not scrolls. i tri to solv a problem like this:but it doe not work as we would like:how to solv this?
+Find and select text in textarea

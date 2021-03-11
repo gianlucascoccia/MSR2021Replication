@@ -1,1 +1,1 @@
-i'm tri to use electron to make a simpl applic use angular 4 and bootstrap. the project can be found here.when a run electron through electron src/main.jsin folder electron, i got the error uncaught error: bootstrap javascript requir jqueryi tri forc jqueri on main.ts, also tri to creat vendor.t and put it on .angular-cli.json like some workaround i found. but didn't work at all.i don't know what i should do to bootstrap detect jquery.
+Uncaught Error: Bootstrap's JavaScript requires jQuery on angular 4

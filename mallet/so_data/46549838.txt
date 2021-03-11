@@ -1,1 +1,1 @@
-i am use the greenwork sdk. i don't understand this error message. i can't tell if it tell me to recompil the greenworks-osx64.nod or chang my system node settings.i am use electron ~1.6.2 and node -v v8.6.0i miss there were other releas further down the page. i instal the one for electron 1.6.1. now my code run this: var greenwork = require('./greenworks'); var f = greenworks.initapi(); document.write(f); console.log(f); "false" log into the console.
+Confusing NODE_MODULE error

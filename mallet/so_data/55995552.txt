@@ -1,1 +1,1 @@
-i'm wonder if it is possibl to open a new window in fullscreen mode but with a fade-typ transit (not a slide transition) in the same way as when start a present on keynote.https://imgur.com/a/hrdvm7h
+Fullscreen with fade transition in Electron app

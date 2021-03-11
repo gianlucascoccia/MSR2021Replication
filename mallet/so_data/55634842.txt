@@ -1,1 +1,1 @@
-i'm use electron and angular 7 for a desktop app.tri to use geoloc i got error code:2 but not more detail of error.i'm use a valid api-key assign in process.env.google_api_key here is the code example, the onli way i manag it to work was simul my posit via develop tools.if i overrid my posit via dev tools, i get a posit object with the simul coords.vers in package.json"electron": "3.0.10","electron-builder": "20.36.2",thanks!
+Geolocation getCurrentPosition Error code: 2

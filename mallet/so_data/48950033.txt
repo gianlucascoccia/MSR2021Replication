@@ -1,1 +1,1 @@
-i'm develop an electron app. the applic should receiv a pdf file and transform into txt. i use the lib
+Electron convert PDF to Text

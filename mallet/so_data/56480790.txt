@@ -1,1 +1,1 @@
-i am start nwjs with a main.j file. this file open a window. package.json (manifest)how can i respond to window event from the nwjs background script?
+How to listen to event from the NWJS background script?

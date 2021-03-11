@@ -1,1 +1,1 @@
-i'd like to know how to send sever argument via ipcrender on an electron app.should i send an array of argument or just all the argument separ by comma?thanks,
+How to send several argument with ipcRenderer

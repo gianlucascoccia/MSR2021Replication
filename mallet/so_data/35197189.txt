@@ -1,1 +1,1 @@
-i'm tri to consol log whether or not my function is run successfully, or it encount an error.it log the error if encountered, but the els statement never executes.
+"else not running executing in function(err)

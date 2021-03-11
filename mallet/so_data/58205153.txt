@@ -1,1 +1,1 @@
-i'm tri to convert some code over from regular javascript (valid wtih flow) to typescript, and i'm get a rather inscrut error that i think might be an electron bug.at onc place in my code, i'm calling:th code work in javascript, so i know the close event exists. am i call the on method for it wrong somehow?
+Is this typescript error about overload not matching my code or a bug in the provided typings?

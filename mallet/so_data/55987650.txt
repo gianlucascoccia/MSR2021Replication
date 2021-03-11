@@ -1,1 +1,1 @@
-in the browser, i was build an array of imag data and as you can see here, convert it to quit a few differ form in order to download it in the browser, which worked:it not throw an error but the result file is invalid. how can i fix this?
+How can I save ImageData a a PNG in Electron

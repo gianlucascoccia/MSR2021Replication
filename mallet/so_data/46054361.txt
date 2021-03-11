@@ -1,1 +1,1 @@
-i am creat an eletron desktop applic for windows. i am use function. it work outsid of it though.
+Adding Python installation for an Electron app

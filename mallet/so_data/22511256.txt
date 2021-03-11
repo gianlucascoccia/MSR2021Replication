@@ -1,1 +1,1 @@
-i'm fair new to cef (chromium embed framework ), appjs, node-webkit. i am tri to compil a desktop standalon html application.. i notic that font-awesom anim doe not render proper and there a trembl effect for font and animations.. e.g loader spinner ect..
+CEF - undesired trembling effect for animation ( font awesome)

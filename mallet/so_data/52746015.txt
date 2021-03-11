@@ -1,1 +1,1 @@
-i'v creat an electron applic which use two nodej nativ modul file across the platforms.
+Can we rebuild node native module on Linux for win32 platform using node-gyp?

@@ -1,1 +1,1 @@
-i am use &#xd;&#xd;&#xd;
+JavaScript context translate doesnt work in electron

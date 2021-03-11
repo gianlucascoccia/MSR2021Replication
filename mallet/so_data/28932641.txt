@@ -1,1 +1,1 @@
-this is my first time with node webkit.at this point i have all the static part of my desktop app (built on html, css, js).howev to make it functional, i requir to store and retriev user input from a databas and/or files.how can i accomplish this and which is a better option (databas or file or both)? i also wish to know what databas engine(s) doe nw.js support and if at all there are ani gui tool to setup that database.ani help is great appreciated.
+Database and file in Node Webkit (nw.js)

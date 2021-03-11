@@ -1,1 +1,1 @@
-i'v got an array of instagram media data prepar for embedding. in the end of each html there a script work fine.how can i solv this problem except pars data and rewrit link?
+Embedding external link inside Electron

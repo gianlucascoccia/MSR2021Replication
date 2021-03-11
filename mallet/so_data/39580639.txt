@@ -1,1 +1,1 @@
-i am tri to set up an angular2 cli project in electron and am not quit sure where to start after get the basic angular piec generat by the cli set up. i have use angular2 with electron success before, but that was not with the cli piece. so, for clarification, i have generat the basic angular2 app use the angular2 cli. now i am unsur of how to wire it up with electron.ha anyon done this before? mayb you could provid some insight. ani tidbit of help will be great appreciated.thanks!
+Angular2 CLI with electron

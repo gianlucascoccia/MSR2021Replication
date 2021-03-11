@@ -1,1 +1,1 @@
-i'm run test use spectron, mocha and chai-as-promised. my ide is visual studio code.i start the app from within the test as follows:can i connect the visual studio code debugg to this application? i can run debug my test code but i need to debug the app at some point.
+Can I debug my electron app whilst testing it with Spectron?

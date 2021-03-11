@@ -1,1 +1,1 @@
-i have a big array of object that need to be filtered, process and then display to the end user. the applic is develop on top of ?note: i don't think this post should be submit to codereview, i have quit a few issues, yet i tri to be as specif as i can.
+How to process and display an array of object in AngularJS

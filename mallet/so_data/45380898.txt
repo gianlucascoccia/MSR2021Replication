@@ -1,1 +1,1 @@
-i am tri to download png and word file on a webserv use node request librari in electron. the file generat by the code are corrupted. below is the codei tri with and without header and encod options. but the result is still the same. is there ani other way
+Files downloaded in electron with node's request library are corrupted

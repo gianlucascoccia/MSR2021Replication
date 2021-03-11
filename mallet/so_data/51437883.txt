@@ -1,1 +1,1 @@
-is there ani way to get the current highlight text by the users?i know there is the solut like this answer to teach you how to access the text from webview creat by electron.however, i hope i can get the text from ani software, mayb in chrome, word, etc..i think this api current doe not support by electron. is there ani suggest to do the trick?thanks.
+Access current highlight text by Electron

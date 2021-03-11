@@ -1,1 +1,1 @@
-i'v got an electron also yield the same error.
+Proxy/SSL inspection on electron stylesheet load?

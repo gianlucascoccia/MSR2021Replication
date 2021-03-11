@@ -1,1 +1,1 @@
-i don't understand how i can chang valu of element of a page which is show in a webview. i need to fill form show in this webview with data i got on the local machin or a remot server with http and json response.i can't determin if it feasibl and how.
+How I can change value of a page element showing in a Webview in Electron

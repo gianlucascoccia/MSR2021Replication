@@ -1,1 +1,1 @@
-chrome consol is great and i'm look to use it as a develop environ for my app.i would like to custom it a bit further for my specif usecase. for exampl in the same way that when a javascript object version of a dom element is click in the consol the dom element is automat inspect i would like to trigger a custom function in the main page.i this possibl to do?thanks.
+Binding custom click event onto chrome console

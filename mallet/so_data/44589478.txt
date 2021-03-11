@@ -1,1 +1,1 @@
-when i instal here is the pasteb of all command and action i didi don't need work arounds, i need to build aplic later into an execut file, so i appreci your answer.
+npm install creating file at wrong directory for electron

@@ -1,1 +1,1 @@
-i want to be abl to make the menubar appear/disappear at certain times.accord to nw.js doccumentation, set window menu properti to null complet remov the menubar. however, the menubar persist when i use the follow script:i am miss something? or is this a bug?
+Cannot toggle window menubar visibility in NW.js

@@ -1,1 +1,1 @@
-i have develop angular-electron app.it a simpl app but it size is 159mb.i have use electron builder for build the electron app and includ auto-upd package.when i unpack asar file,it had node modul .when i specifi not to includ node modul in package.json ,the size of the app reduc to 89mb but the applic was not run .this is my package.jsoni there ani other way to reduc the file size of electron app
+compress the size of electron application

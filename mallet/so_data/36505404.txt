@@ -1,1 +1,1 @@
-use this boilerpl as refer i creat an electron app. it use webpack to bundl the script and express server to host it.webpack config is practic same as this and server this.electron script loads:it is take file path as the route. go through the boiler plate code did not help. what am i missing?
+How to use React Router with Electron?

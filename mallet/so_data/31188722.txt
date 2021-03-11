@@ -1,1 +1,1 @@
-i have a web applic build with flask and would like to make it into a desktop applic with the help of nw.js (also known as node-webkit).i found onlin that to be abl to do so i need to write a script which execut the python script and then load the homepage.in my case the python script is call db_app.pi and the homepag is call login.html'.thi is my code.mi problem is that the python script doe not run. the login.html page load up but the python code has no effect.ani idea on what i might be do wrong?thank you in advance.
+require('child_process').execFile() doe not work?

@@ -1,1 +1,1 @@
-i have an electron app that will just wrap a remot page while ad some extra features. with the follow code the page load and works. the problem is that it is miss usual browser shortcut for control the histori navig and page zooming.thus i like to add those shortcut manually. i fail when it come to find the document or window of the remot page to attach event listen to.how do i attach keydown (and others) event listen to the remot page?
+How to attach listener to the remote page in an electron app

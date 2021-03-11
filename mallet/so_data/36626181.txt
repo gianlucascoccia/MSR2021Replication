@@ -1,1 +1,1 @@
-i have an electron app with two to the other window? or via a global on the main process?
+Atom Electron: Render Canvas in Another Window

@@ -1,1 +1,1 @@
-i'm tri to do someth rather simple: write a text file with data enter in a text input field to a file...i tri use writefilesync with and without the encod paramet set. i'v tri createwritestream with and without encod the paramet set. i'v tri fileopen, fs.writesync, and fs.close. i even tri convert the date to a buffer object and write that. in everi case, i got the exact same results.th encod is also strange. notepad++ indic that the encod is "ucs2-l w/o bom" i'd expect it to be utf-8, as i'v been set the encod paramet to that.ani thoughts?
+Writing text file with node webkit

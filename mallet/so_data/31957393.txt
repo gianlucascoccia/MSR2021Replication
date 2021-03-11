@@ -1,1 +1,1 @@
-code from of a new window?
+How to overwrite window height and width from package.json in node webkit

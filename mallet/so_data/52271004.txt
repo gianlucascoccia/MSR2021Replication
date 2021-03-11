@@ -1,1 +1,1 @@
-i'm quit new to javascript. i want to make a veri simpl nativ pdf viewer use nw.js and pdf.js. it read a packag file and extract a buffer that contain a valid pdf file. then i convert the buffer into a stream like this:or am i think of the wrong direction?
+NW.js + PDF.js: How to provide an URL to pdf.js?

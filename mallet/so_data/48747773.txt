@@ -1,1 +1,1 @@
-i'm tri to write a littl electron app which nest multipl pdf file or page to one bigger page (for save paper when plot a lot of cad drawings).bas the unix command pdfnup from pdfjam is what i want - but due to differ os (mac and windows) i need a cross plattform solution.ha anyon done someth smiliar with node/javascript so far? after a lot of reasearch i haven't found a reason solut or library.
+Merge/nest multiple PDF page to one

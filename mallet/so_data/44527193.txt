@@ -1,1 +1,1 @@
-i am tri to run a web irc client, the lounge, as a regular window irc client.but after pack into a
+How to run web IRC Client in node-webkit on Windows?

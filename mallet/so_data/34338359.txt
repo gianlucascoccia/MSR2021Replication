@@ -1,1 +1,1 @@
-how do i make node-webkit (nw) accept ctrl++ and ctrl+- as shortcuts?i have tried:
+Node-Webkit Ctrl-plus and Ctrl-minus

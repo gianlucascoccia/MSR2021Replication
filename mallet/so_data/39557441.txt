@@ -1,1 +1,1 @@
-window.setresizable(false) is not work in nwjs. window.enterfulscreen() is also give undefin by nwjs inspector.i am on windows10 64 bit pc, have latest nwjs setup.do i need to import some modul and how?thank
+wnsow.setResizable not working in NWjs

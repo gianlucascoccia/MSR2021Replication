@@ -1,1 +1,1 @@
-i am look for good test autom framework for electron base mobil application. i did some research and found espressoappium ( still unclear if it works)i am concern sinc the ui will not be a nativ android ui. all our control will be web control in a browser which ive in webview. look for suggestions.
+Automation framework for Electron mobile app

@@ -1,1 +1,1 @@
-i'm use electron (v1.2.7) and i need session cooki to persist between app restart (for auth).i it possible? i know in chrome when you set "continu where you left off", the session is kept but not sure if this work the same in electron.a a workaround, i tri store the session cooki also as non session cooki but it fail with a generic error.clarification: i'm not set the session cooki they are set by other webpag dure authentication.
+In Electron, is the default session persistent?

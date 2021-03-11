@@ -1,1 +1,1 @@
-in my electron app i am tri to run a bash script that execut a sudo command. though i'm abl to execut the script as sudo without issue, this isn't an option becaus the script need to execut non privileg thing thing first.run this will generate:[spawn] stdout: test 1in my electron app consol as intended. however, the prompt for:password:appear in the electron process termin shell.i there a way to have this password prompt sent the the electron browser instead of the main terminal?
+Electron child process sudo password prompt doesn't pipe to stdout

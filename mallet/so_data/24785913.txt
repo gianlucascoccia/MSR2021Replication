@@ -1,1 +1,1 @@
-ok, the actual final reason of this is to have a folder well order of modul (in this case, functions).th folder structur should be someth like this:/app.js/node_modules//mainfunction.js/functions//func1.js/func2.js/func3.js/func4.js/...mainfunction.js:and everi function file has the same but without redeclar modules, have "exports.functx" instead, and to call the other modules, use the name of that function (module).thi might not work, it is just an idea.
+node module of module multiple calling direction

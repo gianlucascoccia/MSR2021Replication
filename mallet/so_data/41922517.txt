@@ -1,1 +1,1 @@
-i wonder how to get the correct path to file what should be load by fs.readfile:fil to load is in the app root directory. start the app in cli with npm startbut then the file isn't found rune the app by npm start.what is the correct way to determin the path to a file in ani environement?
+Electron file path in package issue

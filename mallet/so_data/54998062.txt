@@ -1,1 +1,1 @@
-guy i need to open some web applic into my electron app, i use
+DevTools wa disconnected from the page, electron

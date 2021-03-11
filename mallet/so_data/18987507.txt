@@ -1,1 +1,1 @@
-with file-encryptor and node-webkit it simpl to encrypt a local videofil (webm) to a local encrypt file like . but is there a way to decrypt and view this video? without a temp file?
+Is it possible to decode an AES encrypted video with node-webkit file on the fly?

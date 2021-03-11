@@ -1,1 +1,1 @@
-i am creat an applic with electron and i am tri to work with datat with jquery.but when i'm do it in the html file and when i want to test it:1 -> web page : it work in my browser 2 -> electron app : it doesn't work and it show onli the tabl not the datat featur like search or other how should i fix this problem ?
+How to create data table in an electron app

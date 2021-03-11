@@ -1,1 +1,1 @@
-i tri to extract an file (app.asar) to modifi the application, but i get an error while extract with the command: "asar extract app.asar app". would be realli cool if anyon could help me.th error:
+Trying to extract an electron Application

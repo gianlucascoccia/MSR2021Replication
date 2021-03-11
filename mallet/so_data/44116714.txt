@@ -1,1 +1,1 @@
-i have server for mobil app to my electron? becaus use two differ server will be cost when it come to host them3) what are other altern that enabl me to implement cross-platform desktop applic use my current mobil app server?note: the admin panel server function are complet differ from mobil apps.
+Running related apps in different server

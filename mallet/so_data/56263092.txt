@@ -1,1 +1,1 @@
-i'm start with electronj desktop-app so i decid to use angularj for the views.now, when i tri to use eletron ipc to communic betweet these two i get cannot read properti send of undefined.thi is what i'v done so far:main.j -- electronjsi'm obvious do someth wrong, can anyon give me a hand?
+Can't communicate electronjs-angularjs using IPC

@@ -1,1 +1,1 @@
-i'm develop a (desktop) applic in electron (v1.6.2) that has a event handlers. it seem that the applic is frozen when text is be dragged.i there anyth i can do about this?it would work either to: - - prevent the webview from actual drag text, and for me to simul it programmatically; - or to find a way to unfreez the applic dure the text-dragging, so that the field are active, can see event and can receiv drop text.
+Electron app interacting with WebView drag-drop

@@ -1,1 +1,1 @@
-i build my app use electron and these error occur in chrome console. otherwis my app is work fine if i run it through ng serve. error are as follows:
+Failed to load resource: net::ERR_FILE_NOT_FOUND in angular

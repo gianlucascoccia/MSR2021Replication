@@ -1,1 +1,1 @@
-i have seen other question about this but it is not the same.window 7 x64node 6.6.0electron 1.4.1npm 3.19.8mi problem is that if i run
+Cannot find module app when trying to run electron app

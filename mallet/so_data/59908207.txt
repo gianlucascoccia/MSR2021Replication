@@ -1,1 +1,1 @@
-whi my electron app has poor icon graphicsi recent creat and electron app howev when i packag it with electron rebuild the icon graphic of the instal and instal app are realli poor on windows.th icon am use is 512x512 and i don't have the same problem when i packag it to linux execut .deb file.a you can see the icon is not perfect.i there a way to improv the icon quality?
+Poor icon graphic on window excecutable app

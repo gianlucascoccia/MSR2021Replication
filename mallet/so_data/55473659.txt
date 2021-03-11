@@ -1,1 +1,1 @@
-with the default config, next is direct babel to use generat for my async function on the client-side. this is make debug more challeng that it seem like it should be. how do i disabl this behavior?i'm use an electron app, so i realli want the minim amount of transform to match the chromium runtime.her my current function to generators, anyway.
+Configure next.js to with Babel not to transform async function

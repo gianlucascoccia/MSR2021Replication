@@ -1,1 +1,1 @@
-i am work on an applic use node.js, electron. this applic will run it own instanc of mongodb. the start up of mongo is work use the follow code:ani assist is great appreciated.
+Programmatically stopping MongoDB

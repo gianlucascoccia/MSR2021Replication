@@ -1,1 +1,1 @@
-in electron, it is possibl to send sync messag from ipcrender to ipcmain via but is there ani way to send sync messag from ipcmain to ipcrenderer?
+Send sync message from IpcMain to IpcRenderer - Electron

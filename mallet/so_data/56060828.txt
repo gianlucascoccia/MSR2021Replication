@@ -1,1 +1,1 @@
-i can't find ani api for the opencv emscripten porti want to use it with electron / node and i can't find method to read a file to a mat (with provid a filepath)writ a mat to a file (with provid a filepath)decod a buffer to a matencod a mat to a jpg
+Where can I find an API for OpenCV.js?

@@ -1,1 +1,1 @@
-i can't get/chang ani content insid webview load insid an electron app, is this a secur block from chrome engin or i am do someth wrong?for example, use my code below i get noth in consol
+Change electron webview content

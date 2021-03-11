@@ -1,1 +1,1 @@
-i'm build desktop applic with electron and reactjs.i need to implement featur to select file from file system, like input="file" work in forms.actually, all i need is to obtain absolut path of the file.how can i achiev that?i tried: but it return fakepath due to secur reasons.i think dialog in electron may be use for this purpose, but how to propag file path to react applic then?
+How to select file on f with react and electron?

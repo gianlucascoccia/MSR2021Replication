@@ -1,1 +1,1 @@
-i am work on a page which has imag of vari sizes, and i want to chang the parent div size in accord to the new imag height.i have , and run the resiz function after the imag fulli loads?
+Does changing an img src attribute emit any emitters?

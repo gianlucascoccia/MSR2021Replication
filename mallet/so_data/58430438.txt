@@ -1,1 +1,1 @@
-i tri to excutejavascript in electron i have tri with tag and it have the same problem
+UnhandledPromiseRejectionWarning: Error: Script failed to execute- Electron execute script

@@ -1,1 +1,1 @@
-i'm develop an electron applic and i aim to split up my file structur is simpl - all three file are in the same directory.ani code critic are also welcome; i'v spent hour bang my head tri to figur all this out.
+TypeError: x is not a function in Node.js

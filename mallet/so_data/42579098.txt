@@ -1,1 +1,1 @@
-i have an electronj app with 2 buttons: "ff" and "ie", when i click on them, it open the relat browser via node childprocess spawn function.now, i want, somehow, to resiz the open browser window to be 600*600px (for instance).i tri to look if electron has some function to do that but i can't find nothing, i also tri to understand if i can do it thru window cli but also didn't find anything.do anyon have some idea how to perform this such behavior?thank you!
+Change external app window size from Electron code

@@ -1,1 +1,1 @@
-as a learn excercis i'm tri to implement a simpl markdown editor, and was wonder which was the best way to handl chang (made by anoth app) on the current open file. current i'm watch the file for chang (with node "fs" module) and notifi the render process of the chang to act accord (show a dialog, updat the view, etc), but whenev my own app make a chang (e.g. press "save") the event trigger too. is there a way to know that the event was trigger by my own app and ignor it?
+How do I handle file change on an electron app (markdown editor)?

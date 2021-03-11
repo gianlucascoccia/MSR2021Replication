@@ -1,1 +1,1 @@
-i have packag my applic for distribut on window x64 use the given below commandit has packag the applic but when i am run the packag app it is give below prompt
+Electron JS: Application not running after packaging using electron-packager (VCRUNTIME140.dll MSVCP140.dll)

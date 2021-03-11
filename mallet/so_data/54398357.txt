@@ -1,1 +1,1 @@
-i am current work on an instal for app made in electron, dure the instal process i need to make simpl post request to verifi credentials. i found that there is this how it is possibl to instal that plugin and use it?
+use inetc plugin for nsis with electron builder

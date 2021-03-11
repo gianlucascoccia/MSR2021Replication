@@ -1,1 +1,1 @@
-i am tri to creat a small react app that captur and set a global shortcut, that will be use to show and hide the electron app window. howev i have becom stuck, as when i tri to use ipcrender, from insid a react component, the follow error is thrown.
+Using Electron's ipcRender from inside a React component

@@ -1,1 +1,1 @@
-so basic i want to call
+How do i get input when opening my electron app from the browser

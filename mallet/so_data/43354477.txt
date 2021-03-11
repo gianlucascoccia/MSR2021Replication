@@ -1,1 +1,1 @@
-in react, i creat i also assign uniqu identifi (keys) to each span, (in the form of ids) which i also get from the origin array.problem:i would now like the user to select words, - not by click on them individually, but actual select them (so that the background of the word becom blue). whenev the user doe this, i would like to get back the id of the select spans. how could i implement someth like this?i am use react, redux &amp; electron.
+Get id's of multiple <span> element on selection? (React)

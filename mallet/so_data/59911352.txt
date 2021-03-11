@@ -1,1 +1,1 @@
-i have simpl custom starter pack with just one npm command ?
+Start react-create-app and Electron.js with one NPM command

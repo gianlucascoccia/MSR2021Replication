@@ -1,1 +1,1 @@
-first of all i do not know if the problem i am have is becaus of webpack or electron-build or a combination. to the problem. when i build for develop i am abl to use instal node-modul in the main.j file specifi in my package.json file&#xd;&#xd;&#xd;
+Using node-modules in main.js using electron-builder and webpack

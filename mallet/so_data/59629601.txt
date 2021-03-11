@@ -1,1 +1,1 @@
-in my electron app, i am use dialog npm packag to do prompts. i made a basic function for prompt replac : but in the console, it return undefin even after the prompt is completed. pleas help me in this. answer appreciated.
+prompt using dialog return undefined

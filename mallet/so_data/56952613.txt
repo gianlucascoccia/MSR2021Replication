@@ -1,1 +1,1 @@
-i want to build a desktop execut written in electron for cento 7 (gnome).i'm use electron-build tool in this way:i there a way to build all depend insid the executable?
+Is there a way to build an ElectronJS app executable for CentOS with all library embedded (without shared libraries)?

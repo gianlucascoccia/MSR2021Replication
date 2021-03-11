@@ -1,1 +1,1 @@
-i'm work on https://github.com/jigsaw-code/outline-cli tri to publish our binari to s3 instead of github.in src/electron/release_linux_action.sh i'v chang the invoc of electron-build to use our build directori to the bucket just fine, but that would involv give the project a depend on the aw cli and make us respons for publish correct as oppos to let electron-build do it for us. ani ideas?
+Publishing to S3 in electron-builder give me some weird artifact

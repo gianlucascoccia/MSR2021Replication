@@ -1,1 +1,1 @@
-it seem strang to me one thing, dure the instal of modules, appar doe not finish correctly, becaus it remain as follows:(it remain on hold)
+Electron failed to install correctly, please delete node_modules/electron and try installing again

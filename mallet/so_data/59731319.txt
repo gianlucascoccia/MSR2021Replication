@@ -1,1 +1,1 @@
-i am current develop a simpl hello world app use angular and electron (follow this guide: https://angularfirebase.com/lessons/desktop-apps-with-electron-and-angular/). the step are veri simple:i creat a new folder with angular cli;i instal electron in the develop environ use
+How can i reduce my 275MB Hello World Electron package size?

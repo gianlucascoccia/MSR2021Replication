@@ -1,1 +1,1 @@
-i was tri to creat a sampl demo app for neo4j use electron and the neo4j offici npm packag driver, and my code is realli realli basic but i'm get an error onc i tri to open a session. this code is written in the index.html in a script tag:ha anyon ever encount a problem like this?
+Neo4j official javascript driver with electron

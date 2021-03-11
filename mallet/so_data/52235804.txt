@@ -1,1 +1,1 @@
-i'm work on a fork of an ide on github and one of the main issu were that it save the file to cookies, instead of the common computer. so, i need a way to save and open files. i'v gotten the save file system down by use blobs. however, with the open file, accord to the console, provid an "unexpect string," even though it pretti vanilla.below is the function: all on one line: still to no avail.
+Electron dialog.showOpenDialog() Filters not working

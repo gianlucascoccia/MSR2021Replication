@@ -1,1 +1,1 @@
-in electron quick start demo, i ad this in index.html : work?
+electron : dialog box with window.prompt

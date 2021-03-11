@@ -1,1 +1,1 @@
-i'm look for a way to disabl look for the blockmap file in the updat process in electron-builder. this will never exist for us and we'r happi to reli on the full download. so far i cant seem to find ani way to do this. but it result in the log be spam with the fail and a stack trace. if this is not possibl is there a way to explicit declar a url for the blockmap in the latest.yml rather than it just insert .blockmap in the exe url. as i'm hope a 404 wont result in the stack trace, as we are get with the 403. thank
+Stop trying to Download block map in electron-builder update

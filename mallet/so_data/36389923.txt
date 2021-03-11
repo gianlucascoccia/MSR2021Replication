@@ -1,1 +1,1 @@
-i'm new to to the empti space of first imag to get the result like second image. i don't know what i'm do wrong. pleas help me out where am i wrong in this simpl application. ani kind of help will be appreciated.
+electron quick start application not working

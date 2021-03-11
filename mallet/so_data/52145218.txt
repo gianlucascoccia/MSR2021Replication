@@ -1,1 +1,1 @@
-i am new to electron framework. i'm tri to develop desktop applic use electron framework. i want to implement an use case like team viewer on the left side where i have local directori and on the right side i have network directories. i want to copi a file or folder from local to network use drag and drop functionality. how should i do that in javascript?
+electron Js ,Drag-drop, JavaScript

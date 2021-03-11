@@ -1,1 +1,1 @@
-i would like to past text with a shortcut (e.g., cmd+v) in an input box in a webpag embed by webview in electron.in develop mode, past text work without ani implement about it. but after packag the app with , past is not working. i do not have a clue for this.if you want to see the code, pleas look at this repository: https://github.com/junghyun87/dictionary-in-tray
+Paste text in an input box in a webpage embeded by webview in electron

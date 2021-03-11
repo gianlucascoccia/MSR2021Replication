@@ -1,1 +1,1 @@
-we have to rebuild an app that import data from various db and insert them in our db, in firebird 3 (with node-firebird).when run in a nodej project, with express, it work fine.now, i'm write a poc to emb the code in an electron app.everytim i tri to do anyth els than a select, the app crashes.her is the messag :
+Error when doing anything else than SELECT with node-firebird in Electron app

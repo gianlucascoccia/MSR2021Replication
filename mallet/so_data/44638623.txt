@@ -1,1 +1,1 @@
-i write electron applic and use textract to open text files. what i do currently:i'm just think - do i need to somehow care about close these files? what if i need to open 1000 file at the same time? can't find anyth in their docs.thank you.
+Dispose opened file in Textract?

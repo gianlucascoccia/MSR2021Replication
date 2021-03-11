@@ -1,1 +1,1 @@
-i am tri to implement paus and resum function with electron libraries. how could i call item.paus out of session.on('will-download') becaus it is function of item insid session.on('will-download') or from ani other way?
+How to call downloadItem.pause() and downloadItem.pause() from outside of session.on(‘will-download’)?

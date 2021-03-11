@@ -1,1 +1,1 @@
-i want to post a request from electron applic to django application. after posting, i could get the data of
+request post method error: get empty array

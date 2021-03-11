@@ -1,1 +1,1 @@
-i'm tri to handl the error messag from ssh2 use angular, i was tri to do a promis to handl it but it not working, i'm new on it, sorri if it too bad but i have no clue how to handl it. this is my promisethat ok i know what happening, the thing is i want to handl when it success and when it an error, for exampl if the connect is stablish to console.log an ok and if it not then console.error an error. basic what i need is to make the promis work, anyon can help me?thank you so much and sorri if i'm not be clear.
+Angular 6 SSH2 - How can I handle error using promises?

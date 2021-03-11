@@ -1,1 +1,1 @@
-i tri to write electron app with electron-prebuilt-compil package. i instal it follow the instructions, so in my devdepend there is not electron package. instead of this i have electron-prebuild-compil dependency. i have a problem with my code dure write unit test with mocha + spectron. i have modul with function:it work dure applic runtime, but if i want to test this module, there is an error: cannot find modul electron'what should i do to avoid this problem?
+Error: cannot find module electron while testing by mocha and spectron in electron-compile app

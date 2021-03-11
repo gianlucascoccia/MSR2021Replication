@@ -1,1 +1,1 @@
-in all the articl that explain how to use create-react-app with electron (eg : https://www.codementor.io/randyfindley/how-to-build-an-electron-app-using-create-react-app-and-electron-builder-ss1k0sf ) , they mention that electron.j file should be place within folder.i want to have typescript definit for this electron.j too (sinc i am use typescript for the react app also). how do i do this ?
+How to get typescript for electron.js file when using create-react-app

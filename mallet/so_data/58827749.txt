@@ -1,1 +1,1 @@
-i have develop this web-bas applic on a wamp server and it run ok, and now i start creat a desktop applic use electron from last week and i keep on get this error. but i can login and it work fine, except for the error i get. guys, pleas help me out on this one, this is my first-week use electron.below are all the link and script load
+Uncaught ReferenceError: $ is not defined on Electron

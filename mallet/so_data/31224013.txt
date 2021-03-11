@@ -1,1 +1,1 @@
-i am creat a file copier desktop applic use node webkit. my applic will have a flow. when it is opened, it will check whether ani profil date exist or not and accord it will open the first page. i will have a header which will never chang and it has links/button to differ views. my question is how do i implement view in node webkit and use some nice transit on chang of the view. here is a rough idea of what i want to implement.
+Implementing view in node webkit desktop application

@@ -1,1 +1,1 @@
-i am tri to make a small program in electron with angular2 and it work nice until i tri to use the find function on an array. there, i got an error
+Electron + Angular2 + es6-shim. Array ha not the find function

@@ -1,1 +1,1 @@
-i am work on a simpl app use electron and python. everyth work fine if i do not redirect to anoth page, but as soon as i do so, my entir javascript code wont run and applic freezes. i want my result to be in anoth html page (resultpage.html) but it redirect and no alert is generated.
+After redirect, my JavaScript code won't run

@@ -1,1 +1,1 @@
-instead of quit the application, i'd like to hide the main window when the system close button is click and show the main window when the applic is click or activate. i'm use the follow code to do this on my electron app:not sure what els to do.
+Show and Hide Main Window on Electron

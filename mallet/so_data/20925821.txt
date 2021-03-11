@@ -1,1 +1,1 @@
-in node-webkit, how can i set the background color of the window while the page is loading? it seem to alway be white, but i would either like it to be transparent, or (in my case) a shade of green.i'v tri set option of package.json, but it doesn't seem to have ani effect.
+Set loading background color of node-webkit window

@@ -1,1 +1,1 @@
-how can i toggl devtool in electron app after packaging. i develop this app in angular2. so, i just want to have a button which will toggl devtool on demand.thank you!
+How to get dev tool in electron app after packaging? ( electron app = angular2 + typescript)

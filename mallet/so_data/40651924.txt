@@ -1,1 +1,1 @@
-when use a webview element for display other page insid an electron app, is it possibl to read and write it cookies?
+Can I read webview's cooky in an Electron app?

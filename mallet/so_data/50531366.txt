@@ -1,1 +1,1 @@
-this node-bas desktop app load rough 3000 small imag (~50kb) from the local disk to be visibl all at onc on the main screen. the app load fine when i use chrome (v. 66), but fail to load in electron without an error report to the console. the upper limit of imag i am abl to load is 1000.i have includ up to 16384, with the same result as report above.how might i maxim load perform with electron? an imag is ad to the view everi hour.
+Loading thousand of image into Electron

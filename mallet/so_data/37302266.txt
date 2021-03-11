@@ -1,1 +1,1 @@
-i'm current work on an electron (1.0.1) project where i'm heavili depend of webviews. everyth work so far except when i tri to access
+Electron webview canceled request

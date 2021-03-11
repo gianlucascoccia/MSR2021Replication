@@ -1,1 +1,1 @@
-i'm tri to creat an app in node-webkit that allow peopl to print stuff. i'd like chrome print preview dialogu to display when i issu the print command, which shouldn't be too hard given this thing is built on webkit. is this possible? how can i do it?
+How do I get a Google Chrome style print-preview dialogue using node-webkit?

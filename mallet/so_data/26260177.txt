@@ -1,1 +1,1 @@
-i have a problem with the standard node-webkit notifications. i'm use version 0.10.5 and when i'm tri to put notif someth like that:new notification("hello world!");then i get the notification, but after a short time disappears. is there ani possibl to increas this time and run someth function after click on notification?greet
+Desktop notification - display time

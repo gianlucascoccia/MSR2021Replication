@@ -1,1 +1,1 @@
-i have an electron applic to be use on custom computers.th applic need to open iedriver.ex to open some url with some proxies. so i am call a python script that use selenium and iedriv via python-shel package.when i build my electron application, it work well on my machin becaus i alreadi instal python 3.x. but when i publish it to custom usage, the python 3.x should be instal on their machines. so how can i bundl python3.x with my application?her is my build configuration, thank in advance.
+How can I bundle Python 3.x to my Electron App that us ReactJs?

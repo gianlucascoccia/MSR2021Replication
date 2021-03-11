@@ -1,1 +1,1 @@
-i am tri to use a nest ...and so on
+Nested for loop start at wrong number

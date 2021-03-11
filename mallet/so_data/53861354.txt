@@ -1,1 +1,1 @@
-i'm tri to find which radio input are select so i can pass the info to my main.j (electron).
+JavaScript function return 'illegal return statement'

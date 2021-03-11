@@ -1,1 +1,1 @@
-i'm tri to use the onclick='shell.openitem('filename') with the filenam be popul by json. when i console.log(data[i].url) it return the correct kmz file for each button, but when i click on the button it say uncaught refer error: filename.kmz is not defined.thought on what i'm missing? thanks.
+Electron won't open file from JSON

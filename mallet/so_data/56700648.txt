@@ -1,1 +1,1 @@
-i want to creat a desktop app that allow me to load imag and arrang it into layout, like a veri simpl version of design app.i follow this tutori to setup my electron . everyth work out great.but i want to dynam load the imag from local hard disk, i am not sure how to do this.what is the best way to do this?
+electron-webpack with vue - dynamically load image

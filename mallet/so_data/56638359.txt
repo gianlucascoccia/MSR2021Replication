@@ -1,1 +1,1 @@
-develop an applic use electron but i'm get error when i run screen shot of error: http://prntscr.com/o32uon
+Electronjs "App threw an error during load, ReferenceError: require is not defined"

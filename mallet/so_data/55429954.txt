@@ -1,1 +1,1 @@
-i'm test an electron app that will use php for some busi logics. if i run the app from my mamp stack all will work correctly, but if i run the app use electron, i will reciev an
+Fix Uncaught syntax error unexpected token < in electron

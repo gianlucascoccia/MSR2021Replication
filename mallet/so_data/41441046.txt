@@ -1,1 +1,1 @@
-my npm version is 3.10.10and node version is v7.2.1and when i tri to instal electron in ubuntu via :
+Cannot install electron in Ubuntu

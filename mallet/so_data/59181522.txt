@@ -1,1 +1,1 @@
-i need to get recordset.recordset[i] to the notifier.onclick function but have not had ani luck tri to figur this out. i have tri set the variabl up global but was also unsuccessful....i have a feel this might be a simpl fix but i am still new. ani help would be great appreciated.
+Electron.js passing variable from function to function

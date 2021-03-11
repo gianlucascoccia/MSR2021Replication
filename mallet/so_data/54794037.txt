@@ -1,1 +1,1 @@
-when creat a pdf document (the primari purpos of the app), it will current list "chromium" as the content creator in maco finder. this string also evid in the pdf binari itself.i there a way to chang this to a custom valu from within the electron api? the document for printtopdf() say noth about this.
+Can Electron's printtopdf() tag the resulting document with the app's name a "content creator"?

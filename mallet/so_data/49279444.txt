@@ -1,1 +1,1 @@
-i am creat a react app which is use webpack to bundl all it requir file to build folder. here is the folder structur under my build folder after i build the application.when i run this applic as a browser applic the imag are load correctly. but when i use "electron ." to run the applic the imag are not shown in my application. main.j is the entri point. i am use yarn as my packag manager.should i re arrang the folder structur to get the imag avail in my electron app?how shall i get the imag avail in my electron app. thank in advance.
+How to get image in my electron app

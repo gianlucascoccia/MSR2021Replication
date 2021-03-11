@@ -1,1 +1,1 @@
-i'm build an electron application, and test out the , i get the expect build, save for the fact that none of my .obj model file are includ in the build. their parent directori as well as sibl file are includ in the build, just not the .obj files.ani insight would be appreciated.
+electron-packager excludes .obj model file in built application

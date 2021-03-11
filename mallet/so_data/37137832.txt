@@ -1,1 +1,1 @@
-i am tri to creat electron packag for osx howev i am end up have the follow error.
+electron-packager: Unable to create OSX package "The strict-ssl parameter is deprecated, use download.strictSSL..."

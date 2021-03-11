@@ -1,1 +1,1 @@
-i'm tri to add jqueri function to a desktop app written in electronus the electron-quick-start repo i'm ad the download jqueri file to the ani idea where i'm go wrong, what declar i should change/add?thank in advanc
+Integrate jQuery into a electron app

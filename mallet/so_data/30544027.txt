@@ -1,1 +1,1 @@
-i am develop an app use node-webkit. i have an ifram which load a webpage. the webpag has an unord list and i would like to get a trigger if an element in the unord list changes. signifi in the ajax function?
+Triggering event on change of element in unordered list in an iframe

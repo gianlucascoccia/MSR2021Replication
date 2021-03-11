@@ -1,1 +1,1 @@
-hi i am tri to invok an event on close of calculator.ex application,but the event itself rais while launch the application.. ani help ?
+Node j window child process on exit and close event

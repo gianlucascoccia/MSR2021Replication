@@ -1,1 +1,1 @@
-i am tri to use semanticui dropdown with electron, but for some reason the javascript compon of the dropdown is not be called/found. i have tri use bower, the gulp build, and npm. noth has work so far. this is the code i am using.htmlth error end up be uncaught typeerror: $(...).dropdown is not a functionani thought on whi this plugin isn't end be ran?edit:if i do not includ dropdown.j and dropdown.c from the semantic-ui-dropdown, there are no error but this is what the dropdown end up look like.
+SemanticUI Dropdown extension not being found in ElectronJs?

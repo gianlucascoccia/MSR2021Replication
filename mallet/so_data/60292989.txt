@@ -1,1 +1,1 @@
-i have tri to packag the electron app in local. i have tri the follow steps:i have got the follow except
+The edge module ha not been pre compiled for node j version V12.13.0

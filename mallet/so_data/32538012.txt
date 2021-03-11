@@ -1,1 +1,1 @@
-i have an applic that has a helper applic made with node-webkit in in. i can build and run the applic without problem but i cannot sign the whole application. it seem that i am get an error with the node-webkit application. the strang part is, that it work with xcode 6.3.2. the error i am get is:i don't realli understand what he is missing. what doe he expect me to do?
+Xcode 7 beta 5 crash when trying to sign Application

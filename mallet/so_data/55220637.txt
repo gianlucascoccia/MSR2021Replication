@@ -1,1 +1,1 @@
-i have a compon jobs-table.component.html. abov level i have flex-direction: column;ar there other way to fix this ?code here https://stackblitz.com/edit/angular-pkipxsthank advanc
+Property height 100% not working in Angular 7 + Electron 4

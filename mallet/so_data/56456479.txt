@@ -1,1 +1,1 @@
-i tri put part of my electron app into a differ process use webworkers. to do that i follow these guides: https://electronjs.org/docs/tutorial/multithreading, https://developer.mozilla.org/en-us/docs/web/api/web_workers_api/using_web_workersth problem is, that the web worker won't execut ani code. no console.log is shown, postmessag doesn't work etc. i can be sure it load the correct file becaus if i type the wrong filename, it give me an error, so the problem isn't there. mayb you have an idea what go on.renderer.jsnon of those log fire
+Electron web worker doesn't load

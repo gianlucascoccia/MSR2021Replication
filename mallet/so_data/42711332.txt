@@ -1,1 +1,1 @@
-angular-c doesn't accept the electron insid components. how to use electron browser window insid compon in angular-cli? i got an error fs.existsync like this. is there ani other option to use electron with angular2 components?&#xd;&#xd;&#xd;&#xd;&#xd;both are not work insid ts?
+how to use electron browser window inside component in angular-cli?

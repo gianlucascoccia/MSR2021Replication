@@ -1,1 +1,1 @@
-i am work on an app use node_webkit combin html, css and js. in one part of my app i want to updat the array.prototyp so that i can access the last element of an array easily. the code for that is:
+Change Array.prototype in ecmascript (javascript)

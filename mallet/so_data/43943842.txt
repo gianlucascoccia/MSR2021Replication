@@ -1,1 +1,1 @@
-i'm stuck with condit content rendering, depend on a valu presence. in the component, if api key is not given, i want to show an input with a button. when the api key is store use how this could be done?
+setState from inside of a callback to render related content in a React component

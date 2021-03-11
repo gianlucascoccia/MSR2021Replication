@@ -1,1 +1,1 @@
-i am build an atom electron app. right now i have this in the preload.j of one of my webviews: without execut it prior?
+Electron: loading an external script and passing it into a function

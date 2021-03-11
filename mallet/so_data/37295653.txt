@@ -1,1 +1,1 @@
-i am tri to debug the electron.j applic with vscode. in order to do that, i have made the given below pleas help. mani thanks.
+VSCode with ElectronJs: Debuging working but console.log is not logging

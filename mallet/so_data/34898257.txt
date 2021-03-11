@@ -1,1 +1,1 @@
-pleas guys, i need someon to help me out with a full code tutori on how to open a websit from a node webkit desktop applic on window os.yes! i have search and i saw gui.shell.openexternal("http://www.example.org") but i do not know how to link it up especi use the html hyperlink(a) tag!thanks!
+Hyperlink to a website using node-webkit

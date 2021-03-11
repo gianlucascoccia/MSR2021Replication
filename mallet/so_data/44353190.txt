@@ -1,1 +1,1 @@
-i am use a webview in my index.html file in my electron program. the webview has a preload and i simpli want to be abl to manipul the dom of the webview (not index.html).i have this code in my preloader. but the console.log output the document of index.html and not the document of the webview. how can i output the content of the webview?preload.j
+Electron webview preload log DOM

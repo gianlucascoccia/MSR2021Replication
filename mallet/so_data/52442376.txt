@@ -1,1 +1,1 @@
-from electron app menu, i would like to integr github issues. when a user click on "report issue" menu, a dialog open and the user fill the form and click on "submit", then the app add the issu to the github issu for the develop to debug the problem and releas updates.so how can one integr github issu with an app
+Reporting GitHub issue using electron app

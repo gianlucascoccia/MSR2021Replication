@@ -1,1 +1,1 @@
-frequent i just want to restart my app so i can set a breakpoint earlier in the code. is it possibl to avoid the whole compil process? i lose my breakpoint in .webpack/main/index.j when the file is delet each time. doe not work.
+How to start/debug electron-forge (or it output) without rebuilding each time?

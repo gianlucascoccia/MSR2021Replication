@@ -1,1 +1,1 @@
-i use this script is execut after i finish instal the app.but not success.
+The script that is executed to copy the app resource to local machine doe not work

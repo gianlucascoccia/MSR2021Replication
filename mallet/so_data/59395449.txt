@@ -1,1 +1,1 @@
-i am use this in electron to open an applic and it work fine.her is the code:mi issu is that it open in front of my main application.i there a way of make it minimize?
+NodeJs shell.openExternal open exe and minimize it

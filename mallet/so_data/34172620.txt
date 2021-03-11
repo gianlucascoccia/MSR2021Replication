@@ -1,1 +1,1 @@
-i have creat desktop applic use node webkit for window and mac is it possibl to creat for chromebook/chrom os.
+Can able to built chromebook/chrome o Desktop application using node webkit?

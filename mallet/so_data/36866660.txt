@@ -1,1 +1,1 @@
-i'v to develop a project with electron and typescript.for organiz purposes, i creat a folder call /src to hold my code. the idea is to modular into veri specif functions.when i run electron, it open a browser window that load my index.html file. i'm a littl fuzzi with the organ of the code, and call between main an render process.in my main.t file, i have the main process that load the window. but, where the render process code must be written?on the other hand, how you can creat differ view (pages) it the application?thank a lot!
+Electron App Folder Structure

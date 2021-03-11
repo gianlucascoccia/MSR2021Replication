@@ -1,1 +1,1 @@
-electron api expos function has a confus name becaus the electron team said regular chrome extens won't be supported, howev this function make me think regular extens are supported.so...what the differ between these two?ar regular chrome extens support in electron or onli dev tool ones?
+Difference between addExtension and addDevToolsExtension

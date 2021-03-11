@@ -1,1 +1,1 @@
-i develop an ionic application, and i want to use nwjs to make it as a desktop app.i there ani troubl to use nwjs with an ionic app or should i develop a new app?
+Is there any trouble using nwjs with an ionic app?

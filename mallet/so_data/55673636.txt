@@ -1,1 +1,1 @@
-i'm a window user and i'm develop an electron applic that is suppos to run cross-platform.yet, i can't figur out how to rebuild grpc for linux &amp; macos.i need to rebuild this applic from
+Electron - Rebuild gRPC

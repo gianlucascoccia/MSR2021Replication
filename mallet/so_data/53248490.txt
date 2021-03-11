@@ -1,1 +1,1 @@
-i am tri to convert my current code into a webpack js file. but i don't know how i can includ a librari on the remot variabel of electron.curr code:how do i import the windowmanag on the remot import?
+Electron import library on remote with webpack

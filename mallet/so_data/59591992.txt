@@ -1,1 +1,1 @@
-i was use node-adodb.j to read .mdb files. code :it work perfect on runtime, but when i built it and run the exe, i got spawn c:\windows\syswow64\cscript.ex error {"exitmessage":"uncaught fatal exception","exitcode":1} i had made some changes, but it didn't seem to workchangesversions：nod v12.12.0electron-builder@21.2.0electron@6.1.7vue-cli-plugin-electron-builder@1.4.4so, is there anyon could help me out this problem?
+After electron-build node-adodb got error: 'Spawn C:\WINDOWS\SysWOW64\cscript.exe error'

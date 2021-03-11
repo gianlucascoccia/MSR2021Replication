@@ -1,1 +1,1 @@
-i am write an electron app use react as for the ui and webpack for bundling. webpack is configur right now for the react part of the applic as follows: to make electron work so i assum the requir function work in browser as well sinc if i were to creat an electron app in a pure node.j environment(without webpack and react) it work without ani addit configuration. so i guess there is an issu with my webpack configuration, but i can't find ani use resourc onlin unfortunately. can anyon help me out? thank in advance!
+Require not defined in script tag

@@ -1,1 +1,1 @@
-is there a way to open url in default os browser?i have
+open url in default OS browser

@@ -1,1 +1,1 @@
-i am build a nativ node.j addon for electron (vscode, actually). electron has differ version and some of them have differ parameter, and the addon must be built for everi such parameter.so is there such a table, like this one for node.js?
+Where can I find a table with VSCode version matched with Electron versions?

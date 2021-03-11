@@ -1,1 +1,1 @@
-i'm learn electron and work with multipl window and ipc. in my main script i have the following: script.
+Passing Data to Windows in Electron

@@ -1,1 +1,1 @@
-i'm use codemirror latest (v5.49.0). for my electron text editor app, sometim line number are render overlap with the text. cannot reproduc the bug becaus it doesn't happen always. easili it can reproduc by refresh the app sever times. anyon have an idea? or may be this is a known issu for you?
+codemirror - line number overlapped with code

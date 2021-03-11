@@ -1,1 +1,1 @@
-i am build an app base on electron vue. my electron app is suppos to start it backend run from a docker container. to do this i call a bash file with the docker run command in it.
+starting docker backend from electron-vue frontend

@@ -1,1 +1,1 @@
-what i want to do is that i want to check if the program take up ani less space than the whole screen. if so, i will enabl the horizont and/or vertic scrollbar accord by use the properti in css. but how do i get the electron app dimensions? i alreadi know how to get the screen dimensions. in advance, thank :)
+How to get the app dimension with electron

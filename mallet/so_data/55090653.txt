@@ -1,1 +1,1 @@
-i am go through the electron quick-start repo. it has npm package.json filewhich is like this: is abl to execut it and whi i am receiv command not found error.
+npm run -- if start command entered manually it throw error command not found

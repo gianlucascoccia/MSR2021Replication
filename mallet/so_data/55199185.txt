@@ -1,1 +1,1 @@
-i creat simpl game use html 5, css 3, ecmascript 6, angularj 1.7.7, and jqueri 3.3.1. the game run smooth when test use firefox, but when i port it into desktop applic use electron the game goe wrong. it show error in electron debugg like i screenshot below.error in electron
+AngularJS and Electron: Can't run AngularJS application inside Electron

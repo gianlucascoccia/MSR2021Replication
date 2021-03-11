@@ -1,1 +1,1 @@
-i'm have troubl get code-sign to work on windows. i have the follow in package.json:it is tell me that the pfx file doe not exist. but it does! i'v tri all sort of variat for the csc_link variabl with no success. what do i need to do to enabl electron-build to find the pfx file?
+Code Sign Using Electron-Builder on Windows

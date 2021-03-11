@@ -1,1 +1,1 @@
-the npm packag for nw.js (packag name "nw") has version like this: i am current use nw as a depend in my package.json manifest, and i was wonder what version i need to specifi to get "the latest version that end with -sdk".i have tri thing like *-sdk and 0.x-sdk but that didn't quit work as intended. i had a look at the syntax for semant version but couldn't immedi find someth for tag like this. anyon know if this can be done via semant version syntax?thank
+How to add dependency to NPM package so that I get the latest version that end with a specific tag

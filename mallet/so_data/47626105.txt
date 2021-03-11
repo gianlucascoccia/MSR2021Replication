@@ -1,1 +1,1 @@
-i have a electron applic that on it initi window, has a simpl login form.when i use it pre-builiding, it work perfectly, with local and remot databases.aft i build it use electron-builder, it simpli fail to connect to ani databases, with no error messag shown, it act as if it can't reach the database.i'm use mysql and it librari from nodejs.
+Mysql stop working after build in Electron

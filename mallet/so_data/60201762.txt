@@ -1,1 +1,1 @@
-i have creat an applic with electron and next.from main window, creat child window. i want to load file to child window but it is throw file not found error.load file is in: renderer/components/overlay/overlay.html
+How to load external file in child window of electron main window in electronjs

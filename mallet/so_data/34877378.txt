@@ -1,1 +1,1 @@
-myself creat a node webkit helloworld applic base on the tutori given in this link. also i tri to run the same in ubuntu os use the command given in this link. but when i run the command how can i run the same as given by first link?
+Unable to run nw.js application in ubuntu

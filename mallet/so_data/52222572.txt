@@ -1,1 +1,1 @@
-i need to consum a http endpoint use a specif media type and that endpoint doesn't handl the option method.i imagin this would be imposs use regular browser but i beliv it should be possibl use electron, sinc i can do the same post request use postman.what kind of framework do i have to use to achiev that?
+How to bypass preflight in a HTTP post with complex mediatype using Electron?

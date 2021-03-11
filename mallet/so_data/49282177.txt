@@ -1,1 +1,1 @@
-i have attach the github link https://github.com/muaz-khan/rtcmulticonnection/blob/master/demos/cross-domain-screen-capturing.htmlso from this i'm abl to share the screen in chrome. i convert it to electron app. but soon after click open room or join room my electron app freezes. but there is no error, i view in consol no error is there and all step are get print as it doe like in chrome window. but screen share doesnt open.
+I have a webrtc based screen sharing for cross domain . Its running perfectly in web but when i convert it to electron it stop working

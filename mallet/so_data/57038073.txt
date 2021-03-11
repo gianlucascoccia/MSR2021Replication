@@ -1,1 +1,1 @@
-i'v made a simpl properti after packaging. do you have ani ideas?
+ipcMain: event.reply is not a function

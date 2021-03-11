@@ -1,1 +1,1 @@
-i am develop an angular app that run with electron. insid electron i am use oauth base on this tutori http://manos.im/blog/electron-oauth-with-github/. everyth work fine and i receiv the access_token insid the main.j from electron. to call my endpoint i need this token insid my angular service. how do i pass this token to angular?mi angular app is bundl with wepack and then includ in electron.
+Electron store OAuthToken to use in Angular

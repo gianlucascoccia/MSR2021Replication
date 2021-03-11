@@ -1,1 +1,1 @@
-in my app i have ?
+Angular detectChanges() disables change detection for child component

@@ -1,1 +1,1 @@
-i want to generat a uniqu to instal the application. how to do that?
+How to deploy an Electron app a an executable or installable in Windows?

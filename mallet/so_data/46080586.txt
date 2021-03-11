@@ -1,1 +1,1 @@
-so i have this nightmarej code i would like to execute(open new window and run the script) when you click a button insid an electron app. howev i search through the internet and noth work for me :/ (i have a mac)&#xd;&#xd;&#xd;&#xd;&#xd;thanks,bertram
+Run nightmare j script inside electron app

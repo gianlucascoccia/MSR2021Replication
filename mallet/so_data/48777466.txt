@@ -1,1 +1,1 @@
-in the applic quit confirm dialog, i want a way to set the button focus by default to no (n).also, yes (y), no (n) want to arrang them in this order (i do not want to use a method to arrang no (n) to the left). confirm dialog
+Can I set default focus button showMessageBox in electron?

@@ -1,1 +1,1 @@
-im tri to set the focus on an element in the webview after it lose his focusin my index.html i show up a keyboard and when i click on the button the element in the webview call blur and i want to set the focus back to the input html but it not work
+Electron focus() not working in webview

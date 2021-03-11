@@ -1,1 +1,1 @@
-we'r build a node-webkit/nw.j applic for os x and want to creat a updat for the applic so that it will be kept up-to-d automatically.becaus we deploy the nodejs, css and html in a from there. is there some way of do that on os x?also it might be good to state that we'r work on an older version of node-webkit, version 0.8.6. this is becaus a lot of nativ modul don't work on 0.9+ of node-webkit becaus they need nodej 0.10.
+Getting App.nw location on OSX

@@ -1,1 +1,1 @@
-i'm tri to show my applic on tray bar of ubuntu 18.04.use this code
+Electron tray icon is not showing on Ubunut 17.10

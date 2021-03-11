@@ -1,1 +1,1 @@
-so i'm current work on a littl desktop app to quick sort imag for deep learn data.i have a function that return the current imag path (the consol log is just ad for debug purposes):i have tri bind a variabl instead of a function but unfortunately, no luck there.do anyon have an idea what could be wrong?
+Angular / Electron fails to load local image on window

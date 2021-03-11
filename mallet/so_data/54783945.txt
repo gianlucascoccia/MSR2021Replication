@@ -1,1 +1,1 @@
-i have notic that in a render process of electron, it is the same with or without nodeintegration.her is the test repo : https://gitlab.com/doom-fr/electron-timer-bugi it normal ? what go wrong ?doom
+Electron setTimeout return number in renderer process instead of Timeout object

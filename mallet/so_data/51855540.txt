@@ -1,1 +1,1 @@
-i'm go to build a desktop app by electron that show my video files. my video are wmv format.html5 dose not support the format.how can i play my videos? thank you for your help :)
+how to play video wmv format in electron app?

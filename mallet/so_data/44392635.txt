@@ -1,1 +1,1 @@
-i have creat a node-webkit applic that load thousand of imag (7,480 to be exact) from disk into an html table. after about 3500 images, the load stops. in the console, i see . accord to task manager, the memori (privat work set) for my app is at around 1.37 gb when this happens. how can i prevent this from happening? is there a way for me to increas this limit? what addit detail should i provid to receiv help?
+Node-Webkit Application: Loading thousand of image from disk

@@ -1,1 +1,1 @@
-i know how to chang the background color in the css, but there is still the slightest border in the electron window (frameless), and i want to chang that to the same color as in my webpage. the window is generat in the and i don't know how to call that again, and chang the attribut for the backgroundcolor. ani help is appreciated.
+How do you change the background color of the electron browserWindow (e.g. with a button click)?

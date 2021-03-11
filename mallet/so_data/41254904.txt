@@ -1,1 +1,1 @@
-i have an electron app use angular 2. the app work fine until a load data from a local json file use ipcrenderer. then button which act on data in a servic no longer trigger chang detect process to updat the view. i creat a simplifi exampl app which demonstr the problem here:https://github.com/marshmellow1328/electron-angular-change-detectioni have no clue whi the button stop trigger the nativ chang detection. have to add changedetectorref seem like it shouldn't be necessary. if it is, i'd like to understand why.
+Angular 2 Change Detection Breaks Down with Electron

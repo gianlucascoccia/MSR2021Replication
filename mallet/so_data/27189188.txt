@@ -1,1 +1,1 @@
-how can i make polym work in a node-webkit application?i have succes follow the polym tutorials, and everyth work fine when i just use a server like wamp.to be clear : i have no problem work with nodewebkit itself, the question is how to get polym work in nodewebkit.
+Trying to get polymer working in node-webkit

@@ -1,1 +1,1 @@
-just start out with node webkit and i'm simpli load a websit through an ifram to start...(i know, dirti but get the job done with 2 hand and a bit of time). so my question is, how can i enabl popup on node-webkit from an ifram to get the googl oauth working? thank in advanc for your help.
+Node webkit and Google OAuth

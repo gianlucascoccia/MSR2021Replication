@@ -1,1 +1,1 @@
-i follow this tutori to add a login with googl in my electron app. first time it allow me to login but now it show me this: what am i do wrong?
+Issue in cooky while doing oauth2 login in electron app

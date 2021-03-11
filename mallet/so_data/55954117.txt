@@ -1,1 +1,1 @@
-i am work on an electron app, where one modul creat a is there ani way to fix this?
+How to fix race condition between Promise resolving on win.loadFile() and app.on('browser-window-created') event

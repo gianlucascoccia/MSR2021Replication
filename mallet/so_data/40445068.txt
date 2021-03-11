@@ -1,1 +1,1 @@
-i'v got an electron app, below is the is not what i am look for, as that make the app open so that the dock and toolbar are hiddencan anyon help?
+Electron Take Up 100% Of Screen (Not Full Screen)

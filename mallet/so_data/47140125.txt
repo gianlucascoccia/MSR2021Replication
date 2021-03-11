@@ -1,1 +1,1 @@
-i want to the show just specif form field on electron window as will in follow example. how can i do this in electron ?
+how to show an only specific html element in Electron?

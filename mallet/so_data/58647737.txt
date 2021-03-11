@@ -1,1 +1,1 @@
-i'm tri to use selenium on electron app and am use the follow modules: into the built app? i applic your help.
+How to pack chromedriver.exe on Mac

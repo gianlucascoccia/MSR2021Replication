@@ -1,1 +1,1 @@
-i want to download the file and save it to the desir folder but everi time i am get the below error. main.jsani help answer will be appreciated.
+TypeError: Cannot read property 'webContents' of null in Electron-dl

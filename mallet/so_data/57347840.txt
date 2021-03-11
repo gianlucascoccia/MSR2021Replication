@@ -1,1 +1,1 @@
-i'v creat a reactj webpage, and now i'm tri to implement it in electron app. when in develop there are no issues, but when i build the app, none of my rout are get render and i don't get ani errors.thi is my app.j file:
+Electron not rendering react route

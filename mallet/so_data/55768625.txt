@@ -1,1 +1,1 @@
-i have an electron project where i have a set of class extend from an abstract class. the abstract class has an import of a sequel instanc and a model (not illustr in the reproduct code below).when compiled, my electron app work fine. but in test, jest keep return the error similarly, if i comment the import of sequel from the abstract class, it allow my test to pass
+Circular dependency when importing sequelize

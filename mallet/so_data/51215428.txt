@@ -1,1 +1,1 @@
-i'm tri to have my electron app read a web page content that is load into a typic web browser like chrome that has no relat with my electron app. is this nativ possibl right now? if not, what an effici solut to implement this and get data back in json?
+ElectronJS - Read another app's content like the web content of an unrelated Chrome Window

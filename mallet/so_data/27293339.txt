@@ -1,1 +1,1 @@
-i'm build an app use atom shell, and i'm tri to open an ifram which would load a pdf file, and then, onc the pdf file is fulli loaded, run some js from the scope of that ifram (i'm will to run .is that possible? if so, how?
+Open an iframe with a URL and then run some JS

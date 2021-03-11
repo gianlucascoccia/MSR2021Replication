@@ -1,1 +1,1 @@
-let take a todo app as example, there is a main window - a, that will list all of the todo item and a button add item'. so when click on the add item , it will open up a second window - b, where there is a form for ad item. after the form is submitted, the newli ad item will be append to the list in window a.so the problem here is, how can i updat the item list in window a when when window b form is submitted? i am use react js for the renderer. so, how can react compon listen to the changes?
+Update main window DOM from other window in electron j

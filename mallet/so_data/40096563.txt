@@ -1,1 +1,1 @@
-i am just check out electron - and like the idea of use it for a nativ app.i am use bootstrap, and want each view to be contain in a differ file to another. i have got this work use the follow exampl : links, one for index.html and one for config_editor.html this is work - but the screen goe white when you click on a link, befor load in the next page - which break the immers of a desktop application'. how can this load be sped up? is there a differ method for achiev this desir behaviour?
+How do I stop a 'white' page refresh in a multi page electron app

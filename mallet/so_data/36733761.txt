@@ -1,1 +1,1 @@
-everi time i run my electron app,it start like this!alway turn the front-end element view,how can i start my app without this show on gui? besides,whi it goe with black bg? it went well on chrome.thank u，guy
+how can i turn off the debug view in electron?i cant find any about it using google

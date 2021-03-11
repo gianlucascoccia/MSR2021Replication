@@ -1,1 +1,1 @@
-when i tri to execut an osascript command under my electron project, it work under dev mode(1), but after build it with electron-packager(2) and execut the binari file, an error appears.it work with this execut command to debug:mi envmi node version: v4.5.0mi electron version: v1.3.5
+Open Terminal failed with osascript after electron-packager

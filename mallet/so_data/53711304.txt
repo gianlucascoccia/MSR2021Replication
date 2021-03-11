@@ -1,1 +1,1 @@
-i need to modifi the embed v8 engin in electronjs/nodej in order to intercept/block ani network access request, whether it be through request, http modul or even src tag in a html or ajax request, i need to pull this off at the core of v8 so that no one could tamper it use ani js code. ( mayb possibl through c++ addons. )c++ is not my best thing so if anyon could help me with the solut and implement i'll appreci it.
+Intercept any outgoing network request in V8 ( at core level )

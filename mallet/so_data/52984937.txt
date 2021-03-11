@@ -1,1 +1,1 @@
-i have some pouchdb in my electron app, and i need to clear some of these dbs when the app is close or make these dbs onli for that session!i have current 3 dbs: auth (i dont want to clear this one), home and page.i want to keep the db while the app is run becaus it improv load time, but when a new instanc of the app is open i want these last 2 to be with no data.ani ideas?
+How can i clean pouchdb when electron app is closing

@@ -1,1 +1,1 @@
-i'v tri to write a unit test in my electron app use jasmin and angular 6 but this way doe not work. i have a service, that is not need to be testet in my specif test of anoth service. so i decid to mock the first servic like this:thank for your help in advance!
+Angular 6 & Electron: Using a mocked class for unit testing and extend the real class doe not work

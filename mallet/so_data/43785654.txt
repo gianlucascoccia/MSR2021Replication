@@ -1,1 +1,1 @@
-i need to somehow import a lot of html page into one in electron(im use w2ui layout).i have tried: (uncaught referenceerror: requir is not defin at index.html:15)
+Different electron .html file in one

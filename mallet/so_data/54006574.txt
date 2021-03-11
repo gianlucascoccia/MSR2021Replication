@@ -1,1 +1,1 @@
-i am creat an electron app in windows. everyth is work fine but when i run the setup, the desktop shortcut icon is electron icon.thi is my
+Electron desktop app Icon is not displaying?

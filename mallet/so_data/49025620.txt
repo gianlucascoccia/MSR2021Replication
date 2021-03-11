@@ -1,1 +1,1 @@
-i am using:electron 1.7.9aureliai have a problem with the electron proxi setting, it doesn't work with autoupdater. on the main process i have this configur : of autoupdat bypass the proxy. is there someth that i am missing?
+Electron autoUpdater proxy

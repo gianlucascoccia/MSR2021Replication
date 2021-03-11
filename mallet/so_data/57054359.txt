@@ -1,1 +1,1 @@
-is it possibl to run cmd.ex and make some command with electron.js?if yes then how can i do this?
+Run cmd.exe and make some command with Electron.js

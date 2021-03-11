@@ -1,1 +1,1 @@
-just get start with electron and i would like to be abl to use loadurl to load a page, but without replac the whole page.th idea here is how someth like partials/templ so i can have consist layout at the top and bottom, but bring in the chang content into the middl section of my application.
+BrowserWindow loadURL into sub windows?

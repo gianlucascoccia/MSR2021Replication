@@ -1,1 +1,1 @@
-the follow code works:
+Why must I instantiate an Electron.BrowserWindow using "new BrowserWindow" instead of "new Electron.BrowserWindow"?

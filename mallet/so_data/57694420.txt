@@ -1,1 +1,1 @@
-i'm use the zerorpc packag within an electron-vu project as a client to communic with a remov server. befor use webpack to bundl the project, i was abl to call these function both in the main process and in the render process of electron but after use vue command line to creat a project which automat add in webpack and babel, it cannot load the module.i'v creat a basic vue.j project use it command line interfac and then instal vue-electron-build plugin and select electron 5 use the follow commands:
+Cannot load zmg.node after webpack bundle

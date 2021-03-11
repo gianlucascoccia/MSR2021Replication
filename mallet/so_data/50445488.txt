@@ -1,1 +1,1 @@
-below is my code:whenev voiceov highlight the input text field it read "you are current on text field, insid web content. to enter text in this filed, type. to exit web area,.."and when i start type it say nothing.and check other appilc or websit it read what i am typing.but in my case it not reading.pleas help if anyon know the solution.
+Voice over is not reading what I am typing in textbox

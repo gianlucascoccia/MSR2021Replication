@@ -1,1 +1,1 @@
-when my electron app start after everi restart not maxim while i set alwaysontop to be true and minimiz to be false.i creat mainwindow like below:i also ad it to shell:startup but when applic start up it remain minimize.os: window 10 home 64electron version:1.4.8electron-builder: ^8.6.0electron-prebuilt: ^1.4.8ani idea?
+Electron.atom app alwaysOnTop in Windows 10 tablet mode

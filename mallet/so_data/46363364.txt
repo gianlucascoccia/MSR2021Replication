@@ -1,1 +1,1 @@
-i am tri to creat an electron applic where user log in from the applic and after success authent server send some cooki in form of respons headers.when i send the user detail i get the someth like this in the responseif someon can help me in this issu or is there ani other librari which handl session smoothly?? i am realli new to electronthanks.
+Unable to get/read cooky from the server using electron application

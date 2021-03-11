@@ -1,1 +1,1 @@
-i have an electron applic that generat an imag and save it to a temporari folder as an svg, with a file-path like: /var/folders/yz/45454n1d4qqm00/temp-aa5678mpoli13554/my_image.svgwhat the best way (if even possible) to load this svg as markup, in a way that it can then be append to the dom?i'v tri use to the file-path also won't work).ani tip would be great appreciated!
+Electron -- Loading an SVG (as markup)

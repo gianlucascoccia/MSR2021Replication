@@ -1,1 +1,1 @@
-i am current have problem prevent my tooltip from leav the view.thi is my code for creat the tooltip instance:ani help is high appreci and if you need more information, don't hesit to ask. thank in advance!
+Problems with defining popper option

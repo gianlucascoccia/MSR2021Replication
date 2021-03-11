@@ -1,1 +1,1 @@
-i'm work on a project base on the angular electron repo, use the angular 4 versions. when i tri to run i'm veri much out of answer here, ani help is appreciated.
+ERROR in ./src/$$_gendir/app/app.module.ngfactory.ts: Cannot read property 'flags' of undefined

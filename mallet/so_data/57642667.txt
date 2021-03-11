@@ -1,1 +1,1 @@
-im creat a desktop app use angular-electroni'm use what wrong ?
+How to call electron-updater outside the main rendering process

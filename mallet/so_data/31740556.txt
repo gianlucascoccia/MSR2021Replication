@@ -1,1 +1,1 @@
-recently, i found atom-shel (https://github.com/atom/electron) an interest tool to develop cross-platform application.i want to give it try, but i am not sure whether it could support system api easily, such as access a usb disk, or video process api such as h264 decoder/encoder.. doe anyon have ani idea about this? thanks!
+Is it possible for atom-shell (electron) to use system level API?

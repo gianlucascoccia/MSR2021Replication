@@ -1,1 +1,1 @@
-i'm tri to implement a login system from my electron client, where i make a call to my rest api in flask to authenticate. this is suppos to set a cooki onto electron, but noth is be save to keep track of the session. is there ani way to save cooki in electron from a call to a rest api to keep track of sessions? i'm sure that my rest api is work as intended.
+Saving cooky in Electron

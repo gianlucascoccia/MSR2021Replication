@@ -1,1 +1,1 @@
-i creat a cross-platform applic written in nwjs.i have implement the webrtc technolog (without simplewebrtc, but with nativ api).mi client need to run the softwar behind an authent proxi server.now, for http and websocket connect i solv by "proxyagent". the problem is that i wouldn't know how to make webrtc work through the proxy.can anyon help me?
+How to make WebRTC work through a proxy server? (nwjs, node, webrtc stun turn, proxy)

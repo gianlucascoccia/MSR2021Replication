@@ -1,1 +1,1 @@
-how to overrid so the data is record in an extern sqlite database? app work on nw.js.
+Backbone SQLite sync override

@@ -1,1 +1,1 @@
-i'm awar that browser usual restrict player to type of media, but i'm wonder if it possibl for an electron-bas app to run local video with format such as mkv and avi. i can't find a definit sourc tell me what is and what is not available.
+Can electron apps play any video supported locally?

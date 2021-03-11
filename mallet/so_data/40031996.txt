@@ -1,1 +1,1 @@
-i'm tri to get the time durat of video with document.getelementbyid('my_video').dur in electron. i open the file use the folow code:but i can onli calcul when the download video is alreadi in my file folder in ani folder on my computer, i get "infinity". would anyon can help me?
+How to get the time duration of a video on electron?

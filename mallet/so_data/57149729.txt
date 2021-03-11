@@ -1,1 +1,1 @@
-"yarn electron-builder" is build my react electron app, it give this error:cannot resolv https://github.com/electron-userland/electron-builder-binaries/releases/download/wincodesign-2.4.1/wincodesign-2.4.1.7z: status code 500seem like the github repo isn't online..mi question, onli if the problem is caus by the repo be offline:how can we build without the repo in case of doomsday, like today?
+Electron-builder in a electron react app won't build - Server 500 error. How can we build without the repo?

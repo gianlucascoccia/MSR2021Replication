@@ -1,1 +1,1 @@
-i use electron-vu for my project. i can take a build succes for window with yarn but when i tri to build for dev i onli see directori list at the open window.i'v tri to upgrad yarn and other things. problem doesn't solved.mi build output is here:
+Showing "directory listing" problem at building in yarnpkg

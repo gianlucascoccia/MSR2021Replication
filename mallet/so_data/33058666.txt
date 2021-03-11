@@ -1,1 +1,1 @@
-is there a way to convert a framless window(for splash) to window with frame(for main application) in node window and then convert it to window with frame(for titl and minimize, close and maximize).hop i am clear. thank in advance.
+Node-Webkit : Framless to Frame window

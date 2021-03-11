@@ -1,1 +1,1 @@
-so i am quit new to this, and have a tight timeline, so here goe nothing. i am tri to creat a login system use express and passport for the backend, and react redux in the front end wrap into electron. i have the login work for the backend when use postman, but when i am use react the session cooki is not be pass to the frontend, so it is not allow me to login or stay log in. i should add i am also use isomorph fetch.
+Election: Passing Session Cookie to Front end (Backend Functional)

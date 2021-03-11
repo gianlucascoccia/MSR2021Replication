@@ -1,1 +1,1 @@
-how can i provid my custom index.html when use electron-webpack ?.i am new to webpack, i manag to configur it with electron but i didn't have the webpack-dev-serv watch my html file so i had to refresh everi time i made a change, and this is whi i tri electron-webpack.
+providing custom index.html file for electron-webpack

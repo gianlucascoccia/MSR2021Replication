@@ -1,1 +1,1 @@
-as this code snippet showed, both method can send event to the render process. i am wonder what are the differ between line a and line b in the code?
+what are the difference between `event.sender.send` and `webContents.send` in electron?

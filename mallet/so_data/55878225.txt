@@ -1,1 +1,1 @@
-nan
+in electron.js npm start command not working.its saying electron is not recognise a internal or external command

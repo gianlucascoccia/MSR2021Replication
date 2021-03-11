@@ -1,1 +1,1 @@
-i don't know can i ask a simpl answer here?can window 10 iot support electron app build with nodej and javascript/typescript?somewher i read it support linux arm, but how about window 10 iot?
+window 10 IOT electron app support

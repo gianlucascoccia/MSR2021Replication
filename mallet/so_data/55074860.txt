@@ -1,1 +1,1 @@
-in my code filter not appli if i am wrong where should i add my filter code?thanks.
+Unable to add filter to showSaveDialog in electron

@@ -1,1 +1,1 @@
-i want to creat a sort of modifi intellig browser with node-webkit and i want to modifi the behaviour of my browser when 404 or other type of request error become. for exampl my applic have a html button that ask for a remot page that will be unavailable. instead of present a normal 404 page (like the chrome one) i need to handl this and do someth (like for exampl log the error, present a local page or someth else). it possibl to overrid the normal behaviour of node-webkit and how?thanks,
+handle 404 and other error request on node-webkit

@@ -1,1 +1,1 @@
-how do i access the event handler for webrequest in spectron?i'v tri to use , but the promis it return never seem to resolve.
+Access WebRequest from Spectron

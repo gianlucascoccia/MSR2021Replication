@@ -1,1 +1,1 @@
-is there a way to ignor certif error if i want to download the new version of the app from a link that use https?this is my current error webexception: the under connect was closed: could not establish trust relationship for the ssl/tls secur channel. and my new version is not downloadedhow to bypass this?mani thank
+Electron auto-update http error

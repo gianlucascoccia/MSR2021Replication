@@ -1,1 +1,1 @@
-i have a angular project tri to run in window application. project includ firebase, electron. i am tri to build and publish window desktop app but it fail with mani errorspackage.jsonnpm err! exit status 1npm err!npm err! fail at the exampleapp packag script.npm err! this is probabl not a problem with npm. there is like addit log output above.npm err! a complet log of this run can be found in:npm err! c:\users\appdata\roaming\npm-cache_logs\2019-11-08t08_21_02_483z-debug.log
+How to solve electron and grpc version problem in angular project

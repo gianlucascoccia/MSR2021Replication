@@ -1,1 +1,1 @@
-is there a correct way of build nativ node.j modul that will proper bundl when packag the applic with electron-builder? the correct way i ask for includ have the modul be requir proper in production, testing, and development. proper requir in my eye would be [], and not use file inclus in the electron-build section of the package.json file.
+Proper way of bundling Native Modules with electron-builder?

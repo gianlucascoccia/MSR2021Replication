@@ -1,1 +1,1 @@
-i was tri to instal electron into my project, but it is give an error. i also tri to do this with unsafe-perm, but still give the same error.
+Failed at the electron@1.8.2 postinstall script

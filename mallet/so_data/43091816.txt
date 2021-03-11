@@ -1,1 +1,1 @@
-sorri for the "not so specif title" :smiley:i'm tri to pack my applic with electron-build, but it keep me block the build, throw this error:i thought it was an error by node-gyp, so i'v tryi instal int as global package, with no luck. read all this weird errors, i saw it has someth to do with ursa module, could it be?!ani help is apreci :smiley:
+Electron fails on build with exit code 255

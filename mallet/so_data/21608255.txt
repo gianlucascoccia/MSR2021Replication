@@ -1,1 +1,1 @@
-i have a problem with load node-modul in my node-webkit application.for exampl modul works.
+How to load external node module in node-webkit application

@@ -1,1 +1,1 @@
-use fs-extra to write file is fail on window 10. the outputfil method is suppos to creat ani miss directori befor writing, but it throw an error. i know the download directori alreadi exists, though. error: enoent: no such file or directory, open c:\users\josh\downloads\2018-01-13_15:14:11.png
+Electron can't write file on window 10

@@ -1,1 +1,1 @@
-i have creat a nwjs setup that open a window in kiosk mode from a js file, as per the instruct on the get start page of nwjs.packag jsonthi work fine on mac, but on linux ubuntu i get the follow error: window argument not foundth window doe open, but not in fullscreen/kiosk mode.how do i open a fullscreen window from a js file in nwjs?
+NWJS window argument not working on LINUX

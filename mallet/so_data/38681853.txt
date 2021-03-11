@@ -1,1 +1,1 @@
-is it possibl to creat a nw.js app (node), that don't have a window entri point?i want to use nw.js, becaus i want to creat windows, but not at the entri point. the app should work in the background, and open a window, at specif time.
+Create a NW.js without a window

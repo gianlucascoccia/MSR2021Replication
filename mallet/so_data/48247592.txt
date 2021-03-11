@@ -1,1 +1,1 @@
-i am use node js to connect local server (localhost), when i run the applic in electron the queri get executed. but when it is deploy into an applic .and when i instal the setup file, node js code wont execut the queries. it doesn't connect to local host. what is the solut for these??
+electron doe not connect to localhost

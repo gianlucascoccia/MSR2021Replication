@@ -1,1 +1,1 @@
-i use a global shortcut to popup a dialog.but i would like to fill the dialog depend on the applic have the focus at the moment the shortcut is triggered.but i can not find a way to do it. i read the extens code herebut it hard to know how to modifi the code, and how to recompil electron.if someon have a pointer, that will be great appreci :)
+Which app ha the focus when a global shortcut is triggered

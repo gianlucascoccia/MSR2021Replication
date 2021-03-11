@@ -1,1 +1,1 @@
-i am build a window desktop applic use electron and angular. the app work as expect dure development, but when i build the .ex file and run the app, i get the error below:i couldn't upload the imag here, this is the link: https://ibb.co/nmfqjnrmi electron.service.t file:
+Electron-Angular: A JavaScript Error Occurred in the main process

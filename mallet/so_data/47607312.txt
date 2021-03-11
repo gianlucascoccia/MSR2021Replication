@@ -1,1 +1,1 @@
-in angular 4 , electron desktop project,i want to implement sqlite ,tri few packag and resourc without ani luck.i need to get sqlite to access from app.component.t .ani help would be great appreciated.
+Sqlite3 in angular4 electron desktop Application

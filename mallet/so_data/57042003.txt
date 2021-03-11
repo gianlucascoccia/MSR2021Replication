@@ -1,1 +1,1 @@
-i am tri to creat .ex for my react web app for window use electron-installer-windows. it say that error: no descript or productdescript provided. pleas set either a descript in the app package.json or provid it in the this.options.when i run main follow the document given below:https://www.christianengvall.se/electron-windows-installer/https://www.npmjs.com/package/electron-installer-window
+Unable to build .exe for Electron

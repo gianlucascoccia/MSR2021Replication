@@ -1,1 +1,1 @@
-my project is build by angular 6 + electron, when i request a url by angular httpclient, the server respons 403. then set the referrer, but not effect.
+How to set header referrer in Angular6 + electron?

@@ -1,1 +1,1 @@
-this is my question: i put an ifram element in my mainwindow, just like this.
+How can I modify a 301 redirect in my iframe window? Electron

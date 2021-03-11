@@ -1,1 +1,1 @@
-i have a node project that was compil under node modul version 67, but now i am get an error that it requir node modul version 69. doe anyon know how i could resolv this issue?
+Node module wa compiled against diffferent node module 67

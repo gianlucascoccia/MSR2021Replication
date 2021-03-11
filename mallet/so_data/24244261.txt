@@ -1,1 +1,1 @@
-i'v develop a web app (nodewebkit) and i have a link "linked" to a pdf document:
+Disable PDF loading in browser's page

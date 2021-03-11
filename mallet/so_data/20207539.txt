@@ -1,1 +1,1 @@
-sinc node-webkit use requirejs() for browser context and require() for node context (may co-exist in same js) i have doubt it will work well with component.js. i would like to switch to component.j but will they go well together?now i am use aura.j http://aurajs.com/ which has veri similar concept to component.js.but component.j seem to have a much bigger eco-system.
+Is component.js compatible with node-webkit?

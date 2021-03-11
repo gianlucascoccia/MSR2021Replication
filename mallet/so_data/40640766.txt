@@ -1,1 +1,1 @@
-in the electron document for the webview tag, the follow exampl is given to show how to communic between the render process and the web page host in the webview: with sendtohost method and ipc-messag event you can easili communic between guest page and embedd page:
+Electron app: How do you use ipcRenderer.sendToHost()?

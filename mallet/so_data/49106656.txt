@@ -1,1 +1,1 @@
-i have a web applic on angularj run on localhost. i want to open it on the electron and add a pop-up window that should onli be in the desktop version. how do i add a new function without touch the origin project use onli the electron application?actu i want to expand the guest page by ad a block with inspect mode of the dom.th page is connect as follows:
+Access the DOM of the connected project from the Electron application?

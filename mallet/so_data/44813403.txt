@@ -1,1 +1,1 @@
-the webapp that i'm host in electron webview tag make call to constructor?
+Allowing an Electron-hosted webapp to call window.open and to use the result a if it were a regular Chrome window

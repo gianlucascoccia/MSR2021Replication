@@ -1,1 +1,1 @@
-the app work fine when i run it via .if i load the imag in the html it work fine.
+After building app using electron-packager the javascript can't find image

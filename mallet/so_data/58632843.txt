@@ -1,1 +1,1 @@
-i'm use electron-forg to build an electron app, i am use the webpack templat (https://www.electronforge.io/templates/webpack-template). in my applic i need to includ static asset (javascript, css and images)in order to do that i includ the i expect the css and other asset to be bundl in my applic in the same way they are bundl when i test the application.
+Electron forge bundling static asset in build

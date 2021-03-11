@@ -1,1 +1,1 @@
-i am tri to start the [electronnet-api-demo application]from electronnet offici github repo.(https://github.com/electronnet/electron.net-api-demos]1) the major of the time, message.ther is an execut run in task manager, but the applic window never appears. also, if i do "ctr-c" in cmd, i need to manual end the "electronnet-api-demo.exe" in task manager.i ran it twice without ani issue, and without chang anyth on my end.i am not understand what the problem is.
+Window Fails to Open ElectronNET/Electron.NET Application

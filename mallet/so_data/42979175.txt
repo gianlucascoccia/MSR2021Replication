@@ -1,1 +1,1 @@
-i am build an electron applic use electron-boilerplate.i have some variabl that i am keep in package.json under . howev in my electron app i don't see ani of the package.json var bind in the main process.ha anyon experienc the same issue?
+electron - process.env.npm_package* variable missing

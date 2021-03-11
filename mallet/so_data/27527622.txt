@@ -1,1 +1,1 @@
-some window modul are broken for node-webkit, ex. win32ole, so i use a "proxy". at the start of nw.ex the script use child_process.fork on a script with node.ex and run till the end of nw.exe. is the wrapper function on the nw.ex side. it send the json to the subprocess (script in node.exe). the subprocess make the real ole call and get the call result. now send the result back, but not via event. the main process is still wait for the result.
+child_process.fork in node.js for synchronous call

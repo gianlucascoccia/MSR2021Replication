@@ -1,1 +1,1 @@
-i recent upgrad to electron version 1.6.11 and now when i run my working?
+Why is crashReporter undefined in Electron?

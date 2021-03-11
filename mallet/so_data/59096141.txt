@@ -1,1 +1,1 @@
-build an electron app. tri to see if i can emb some sort of event listen into other applications, then base on that return a consol message. an exampl is be abl to track if i'm open a new tab on chrome and return a messag say "just open a new tab."
+How can I listen to event on other applications?

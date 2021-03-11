@@ -1,1 +1,1 @@
-i'll tri to describ a minim question in short paragraphs.in short, i want to use some logic or call some function in my electron app from the webpag that is in my electron app (i am actual wrap an electron app shell for my webpage).suppos i want to expos a function in my electron app. say, option.
+How to call a function/module in Electron from my webpage?

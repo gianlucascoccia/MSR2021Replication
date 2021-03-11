@@ -1,1 +1,1 @@
-the realtim databas (firebase) is take too much time after stand still for a while. i built a system in electron with firebase. all the crud oper work but if you stand still for a while and then perform some action, like insert or queri data the system take too much time to execute, reali slow to perform the action.i don't know it is desync or someth like that.
+Firebase WEB is taking time to work (CRUD operations) after some time in stand by

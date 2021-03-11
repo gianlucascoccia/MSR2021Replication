@@ -1,1 +1,1 @@
-i have a custom node.j addon that i'v written, but i'd like to use typescript. i can use bind to import the modul in javascript which will import addon.nod from build/release/how can i do this use typescript? doe it allow addon import?
+How to import a custom node.js addon module using TypeScript

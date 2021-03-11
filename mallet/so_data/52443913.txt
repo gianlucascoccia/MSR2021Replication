@@ -1,1 +1,1 @@
-i want to check if chrome browser is instal or not when my electron app run. i want a solut which will work for all os.
+How to check if particular software is installed or not on system using Electron?

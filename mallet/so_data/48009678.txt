@@ -1,1 +1,1 @@
-can anyon explain me whi this code is not working? i tri to requir the render in file protocol (without express static server) and it was fine, but when i do this with http protocol i got electron version : 1.7.10oper system : window 10
+Can't require renderer in http protocol in electron

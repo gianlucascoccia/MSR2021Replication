@@ -1,1 +1,1 @@
-i have a json file contain multipl maven dependencies:i'd like to load them and then launch a jar with these depend in the classpath. current i'm not sure how to do that.also, i plan on use electron, if that is of ani importance.
+How can I download maven dependency using node.js?

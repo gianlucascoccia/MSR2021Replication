@@ -1,1 +1,1 @@
-full disclosur i'm a node/npm/electron noob but i'm attempt to build an electron app to interfac with an exist python modul i wrote and i came across this github repo. so i clone it and i'm tri to run it from linux mint cinnamon version 3.2.7. the electron app start howev the python compon doesn't work. when i open the develop tool the consol display this error message;i there ani way that i get fix/get-around this issue?
+Electron app using python throw zmq.node error

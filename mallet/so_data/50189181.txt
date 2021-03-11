@@ -1,1 +1,1 @@
-i'm creat an app use it build nativ modul onli for my current os. is there a way to build nativ modul for all oper systems?
+Build native module with electron-builder for different OS

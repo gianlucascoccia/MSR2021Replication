@@ -1,1 +1,1 @@
-i build an electron app on appveyor, becaus it use nativ node modul dependencies.i need window version of that app.aft finish the build process successfully, i had no idea of get the exe file.i think there are some api or need some cmd on appveyor.yml file to get that. what should i add more after build?her is my appveyor.yml file.pleas explain in detail as much as possible, i have realli no idea of appveyor.
+How can I get or download the app built (exe file) from appveyor after finish building

@@ -1,1 +1,1 @@
-is there a way to somehow get the valu of httpon cooki in electron?th site i'm pre-load befor my main app loads, send an httpon cooki that has a key inside.i need this key for my http request headers.i tri with without luck.
+Electron get httponly cooky

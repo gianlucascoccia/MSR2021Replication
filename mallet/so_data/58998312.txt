@@ -1,1 +1,1 @@
-i have a node app that intercept respons headers. these header are usual lower case (e.g. to start the app and notic that the respons header are in lowercase.then, start fiddler (obvious make sure it captur traffic) and run the app. now, the header are pascal case.do anybodi know what caus this behavior? i can understand whi the header visibl from fiddler are in the origin casing, but whi are the header retriev in node not lowercased?
+Node app responseHeaders are not lowercased when running Fiddler

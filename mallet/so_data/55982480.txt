@@ -1,1 +1,1 @@
-in this electron document page, they recommend that to restart an application, one should execut produc the follow applic menu:a click on ani of the menu item will produc the same result: the app quit then restarts.
+What is the proper way to restart an Electron app?

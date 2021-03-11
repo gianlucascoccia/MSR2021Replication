@@ -1,1 +1,1 @@
-i am develop an electron applic in which there is a need to watch a directori so whenev user open a file from that directori there should be a event trigger in my applic get path and name of that file
+How to listen for file open event in window OS level using node j

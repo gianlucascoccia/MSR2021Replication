@@ -1,1 +1,1 @@
-i'm current work with github electron framework, and i'm tri to send a clone dom element from a preload script in a 's element and it attach css.is there a potenti fix for this? and if not, then is there ani way possibl to send a dom element between these two processes, possibl with anoth program or node.j module? thanks.
+How to make cloned DOM element JSON serializable

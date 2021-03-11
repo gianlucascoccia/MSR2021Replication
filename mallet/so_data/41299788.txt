@@ -1,1 +1,1 @@
-i'm current build an electron app.i'm tri to pass an array from the main process to my main window via the global object main.jsit return falsemi question here is, is there a way to share object without serial ? just a simpl object that is share between my window and the main process ?
+Share array between main and window without serialization

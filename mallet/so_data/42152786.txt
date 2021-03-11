@@ -1,1 +1,1 @@
-i am use electron to develop cross platform desktop apps.now i want to get the activ input method editor(ime) like sougou ime or microsoft pinyin. i ve read the electron doc but i get noth about this. mayb node.j has such api about ime.pleas help me.thanks![ img ] sougou pinyin in tray
+How to get the system active input method editor(IME) with electron api?

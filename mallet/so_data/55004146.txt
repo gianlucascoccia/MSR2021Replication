@@ -1,1 +1,1 @@
-i have some code that is share between multipl render in electron. i want those render to know whether they are the main window or one of the child windows. i'm wonder if there a quick way for an render to know what it id is.curr i am use the follow to determin when a render is the main one or not.in render javascriptthi works, but it seem a bit of a convolut way to work this out.i there anoth way that is more direct?
+Identifiying primary electron window

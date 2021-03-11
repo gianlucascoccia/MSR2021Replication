@@ -1,1 +1,1 @@
-i am pass an object in
+Run function passed in global in renderer thread

@@ -1,1 +1,1 @@
-i have troubl with use electron. as you can see the title, when i load remot module, it said it is undefined. this is the code of entri js:i don't know what am i missing. ani advic will veri appreciate.
+Electron.remote is undefined

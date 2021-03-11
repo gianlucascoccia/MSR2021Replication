@@ -1,1 +1,1 @@
-i'm use node webkit compon to wrap my html5 application.in this applic i need to run cmd or other (exe) file like "customapplication.exe" and pass some arguments.i'm realli hopeless in this matter. i would be realli glad if you could help me on this. it veri import and i don't want to chang my compon and use awesomium or other compnents.thank you veri much in advance.
+Node Webkit - How to execute an exe file?

@@ -1,1 +1,1 @@
-i am tri to creat the .ex file in order to be abl to run the applic that i fix on window environment.firstly, i use the command:i have also seen this question : electron atom app : invalid uri: the format of the uri could not be determinedbut it seem it doe not work.ani suggestion? thanks.
+Electron-Installer-Windows : Invalid URI: The format of the URI could not be determined

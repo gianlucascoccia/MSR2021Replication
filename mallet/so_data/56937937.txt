@@ -1,1 +1,1 @@
-i want to creat a new view from a separ javascript file. there might be unnecessari code present as well, you are free to point that out for me.thi is my first project, so you could consid this a noob question about javascript modules.i got it work before, when the code was place in the main.j file, but i can't figur out how to make it work in it own separ file.
+Creating a new view in Electron in a separate .js file

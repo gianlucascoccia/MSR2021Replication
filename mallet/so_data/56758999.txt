@@ -1,1 +1,1 @@
-i am set up a multi-pag electron application, howev whenev i start my applic it open all the pages, and anytim i click a button that is suppos to bring the user to the next page, it skip ahead and open the other page as well.i believ the issu was with set the parent/child relat of each window, howev when comment or remov those properti the issu persists.th 1st page to open should be a splashscreen with button that when pressed, will open page 2. page 2 has a button that when press will open page 3.
+Electron app opening all page upon startup

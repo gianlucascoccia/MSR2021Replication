@@ -1,1 +1,1 @@
-i have an electron app that count all mous click and keyboard press. the app still run but the count function is not work becaus the the privaci locked.i there a method can electron app automat allow accessibility->privaci on macos?
+Automatic Allow Privacy of the Electron App

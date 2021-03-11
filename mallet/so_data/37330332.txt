@@ -1,1 +1,1 @@
-1.stepsummary:so actual after these steps, when i show mainwindow back it doesn't rememb mainwindow set min-height and min-width are not working.when facebookwindow is not opened, all is fine, so someth must happen dure switch with windows. mayb someth is done in wrong order ?
+electron BrowserWindow min height and width not working after hide() show() method

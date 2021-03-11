@@ -1,1 +1,1 @@
-i want to run gamej (gamejs.org) just like i might on the browser, but instead in the "browser" of either nodewebkit, or electron.th exampl of includ the game.j download from the gamej site say i basic need to includ the script and then "require" it (use yabbl code or someth that been includ in gamejs.js)lik so:but, i get that synchron requir is not support by game.j in nodewebkit, and gamej is undefin in electron.what am i missing?
+Running GameJS in NW.js or Electron

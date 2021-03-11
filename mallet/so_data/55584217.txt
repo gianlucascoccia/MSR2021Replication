@@ -1,1 +1,1 @@
-i am creat an electronj app use the demo app as a template. i.e.mi app folder look like this:however, this doe not seem to work - the page get load with an empti bodi and header, with no error anywhere. anoth import question i can't seem to figur out, is how to use username/password in case proxi requir authentication.
+Using proxy in webview tag Electron

@@ -1,1 +1,1 @@
-i want to take an to an extern website, but i do not want it to happen insid electron, i want it to be in the default browser. i'v tri this code: doc from here : electron docsbut it does't work on mac os (when id click the , it noth happened...). so... how can i do that?thanks!
+How do I open a url from <a> on default OS browser in Electron app?

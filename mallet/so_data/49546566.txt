@@ -1,1 +1,1 @@
-on macos, when right-click on a file, then hold alt, it doe show more advanc options. is it possibl to reproduc it use electron? thank you!
+Is it possible to show an alternative menu when holding "Alt" on an opened context menu in Electron?

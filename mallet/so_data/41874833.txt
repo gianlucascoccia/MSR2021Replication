@@ -1,1 +1,1 @@
-whi is it possibl to write in node (electron) someth like this:
+Why do a Handler-Function only work anonymous in electron/node.js?

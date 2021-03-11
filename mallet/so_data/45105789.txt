@@ -1,1 +1,1 @@
-i'm have troubl stop a node.j process that spawn a child process. if i run the .js process from terminal, i can stop it use child process from my nodej app?
+Killing a process that spawned a process

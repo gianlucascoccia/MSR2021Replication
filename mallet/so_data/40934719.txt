@@ -1,1 +1,1 @@
-i would like to build a simpl chat app with electron. i wrote a node chat app befor use web sockets. now for a desktop app, i'm wonder how to do networking.a far as i can see, i have two options: use node net module, or go through http and actual run a web server as a "chat server".i guess http has the advantag of be less low-level and more familiar to me, on the other hand i'm wonder if it not overkill...ani sugestions?
+How to do networking within Electron?

@@ -1,1 +1,1 @@
-i am tri to adjust the durat of the node-notifi notif and if possibl add a delay befor it starts. so far i have been unabl to figur out how. ani ideas?
+How to delay node-notify in electron

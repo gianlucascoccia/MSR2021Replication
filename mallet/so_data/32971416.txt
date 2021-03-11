@@ -1,1 +1,1 @@
-i'm build out an electron app that will be develop by folk on both window and os x. i'd like to creat a cross-platform start script. so far, i'v had exact zero luck get someth that works. the issue, i think, is that i need to set the i'd realli like to creat a singl "start" script and elimin the platform-specif variants. is it possible?
+Cross platform NPM start script

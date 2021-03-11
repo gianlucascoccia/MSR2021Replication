@@ -1,1 +1,1 @@
-i am new to pouchdb and nw.js and may be this question is a littl bit too simple, (sorri for my ignorance).i am tri to to use pouchdb in a nw.js project via require() but with no luck.accord to the document for the pouchdb setup , under node.j section, i dit it exact as it say with no success. after that i instal leveldown compon into the project, and i have follow the follow instruct under in the index.html file, everyth work like a charm.nw.j version: 0.12.3 /pouchdb version: 5.2.1what am i missing?
+NW.js - PouchDB - Unable to use PouchDB via require() in node webkit

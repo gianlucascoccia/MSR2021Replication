@@ -1,1 +1,1 @@
-i have an electron applic and i fail to run
+electron-build failed on Ubuntu Linux

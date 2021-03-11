@@ -1,1 +1,1 @@
-i'm experi with node-webkit lately, if i call sth like that;i couldn't understand, is it caus by node-webkit or node.j itself. since; node test.js'work without problem.
+Node-Webkit sharing data in node via export

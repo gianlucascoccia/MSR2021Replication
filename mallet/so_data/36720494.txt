@@ -1,1 +1,1 @@
-im use electron
+Returning a bluebird promise to electron renderer process

@@ -1,1 +1,1 @@
-good day everyone,i am tri to creat an msi instal via electron so that it could take into all of the file in my folder, includ the python scripts. the unpack version (win-ia32-unpacked) execut works, but it must run within the project folder, as it depend on all of file within that folder.thi is how my package.json file look likeani help would be appreciated.
+Trouble creating MSI installer with electron

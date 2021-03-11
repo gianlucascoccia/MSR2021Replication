@@ -1,1 +1,1 @@
-problem description:thi is not a duplic of this question. i'm not tri to access the electron modul (i use a electron wrapper for angular to do this), i'm tri to use a npm nativ modul in angular while run angular insid electron.origin description:i have an angular app which i run with electron (a new app, doesn't do anyth yet).to access bluetooth i use nobl and bleno but while they are work from within electron (to test this i added,
+How to use Native Node Modules in angular running in electron

@@ -1,1 +1,1 @@
-i have a prefer window where i defin colors, then i trigger an alert when window close
+Electron how apply style on primary window when second window closes?

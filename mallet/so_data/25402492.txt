@@ -1,1 +1,1 @@
-problem-mayb it related?)
+nw reactjs requring in multiple file doe not work

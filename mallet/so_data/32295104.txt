@@ -1,1 +1,1 @@
-i'v been play with polym in an electron app for the last few day and i'm a bit stuck, i have a
+Polymer repeat working but not printing value

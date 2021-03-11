@@ -1,1 +1,1 @@
-when i start a new spectron applic (for each test suite) i would like to fix the size of the app (for consist across all machin and reloads). command like i just assum that the webdriv option came from the browserwindow class. how are webdriv and chromedriv option access in spectron?
+How are webdriver and chromedriver option accessed in Spectron's new Application()?

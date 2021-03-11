@@ -1,1 +1,1 @@
-i have a coupl script set up in package.json to switch between command line option for my electron app that would set up my_app.ex to execut with the "cybertech" flag added. thank for the help!
+Supplying command line option to a packaged electron app

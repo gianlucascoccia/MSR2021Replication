@@ -1,1 +1,1 @@
-i got a dynam creat webview. if the left mousebutton is press and hold, the goback function of the webview should get called. this is working, sinc the console.log is shown. how do i call the .goback() function in my loogoback function?
+Call goBack for dynamic created webview with jQuery

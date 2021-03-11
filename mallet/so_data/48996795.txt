@@ -1,1 +1,1 @@
-please, let some nice and patient person explain me what tool do i need and why?i use react and i will use redux and also rlectron and semantic-ui librari which need gulp.so my question is: do i need webpack?what is the main differ and how to deal with it?
+Explain me: webpack, gulp and react, redux

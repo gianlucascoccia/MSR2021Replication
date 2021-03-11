@@ -1,1 +1,1 @@
-i receiv the follow e-mail from apple.
+Apple no longer accepts submission of apps that use QuickTime or QTKit APIs of Electron App

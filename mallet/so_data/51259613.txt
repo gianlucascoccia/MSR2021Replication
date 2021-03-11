@@ -1,1 +1,1 @@
-electron-react app which use rail api have been packag use electron packager. when i click exe file, it take more than 30 second to start. it show white screen for more than 30 seconds. is it normal for electron app to behav like that. my app size is 350 mb. but surpris when i packag for linux it work fine. i use wine to packag for window from my ubuntu. doe it caus this perform issue?
+Electron app take too much start up time

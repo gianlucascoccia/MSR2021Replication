@@ -1,1 +1,1 @@
-how (or is it even possible) to use custom html dialog in electron? i know that electron provid certain dialog () tag as it doe not blend in with the user interface.ani help would be much appreciated. thanks!
+Custom HTML Dialog in Electron

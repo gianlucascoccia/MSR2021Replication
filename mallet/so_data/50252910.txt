@@ -1,1 +1,1 @@
-i am creat a nwjs app which need to download some file from a url and i need to display a progress bar to display the progress of the download. my current code just download the file but doe not display and updat a progress bar and i am wonder how this can be done. this just download the file and then chang the color of the progress bar when the download is complete. i want it to chang the width of the progress bar to show the progress of the download as it is downloading. thank in advance.
+How to display progress bar when downloading file in nwjs

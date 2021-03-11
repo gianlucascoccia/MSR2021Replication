@@ -1,1 +1,1 @@
-i am a .net develop and new to , but am not sure this will work for me and also don't know how to includ in my project.
+use .net dll in electron

@@ -1,1 +1,1 @@
-my helper window is implement like that: variable. is there a way to keep window object for new open without reinitializations? i still want to use "x" button for this purpose.mi app is target to mac os.
+Hide window instead closing in Electron

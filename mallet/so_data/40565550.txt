@@ -1,1 +1,1 @@
-i am tri to implement firebas web cloud messag on node-webkit (nwjs) application, but when i tri to get a token it return a error: "registr fail - push servic error". here is the code snippet i am use to get the token after authentication.
+Firebase cloud messaging "Registration failed - push service error" on Electron and node-webkit

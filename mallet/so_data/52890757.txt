@@ -1,1 +1,1 @@
-i can't manag to make a cor request from my electron app.i have set the requir websecuritythi request work when i curl curl https://books.zoho.com/api/v3/contacts\?organization_id\=12345 -h authorization: zoho-authtoken 984fe68e7f564c6bs01ee9ffb1dsa140 -h "content-type: application/x-www-form-urlencoded;charset=utf-8"
+CORS request with Electron

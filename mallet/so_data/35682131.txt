@@ -1,1 +1,1 @@
-i tri to packag my app use electron-packag and this command:do you have ani idea on what could be the problem?thank you.
+Electron-packager: cannot find module

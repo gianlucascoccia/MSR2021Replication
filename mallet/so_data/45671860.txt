@@ -1,1 +1,1 @@
-whi test.app has argment when i open it form launchpad? how to disabl this features？ps： i find chrome has this featur too
+Electron reuse command line args when use open -a

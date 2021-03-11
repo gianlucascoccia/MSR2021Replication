@@ -1,1 +1,1 @@
-version: webpack 2.3.3hi therei'm tri to build my first electron app use vuejs. everyth seem to be go great until i'v come to packag the app.when i run
+ERROR in renderer.js from UglifyJs Unexpected token punc «(»

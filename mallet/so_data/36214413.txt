@@ -1,1 +1,1 @@
-recent (in the past 1.5 weeks) the javascript librari webkitspeechrecognit has refus to work properly. i'v test other electron applic that util the librari (smart-mirror by evan cohen) and have run into issu with those.it throw network error under everi circumst i'v test it. the librari seem to work fine in standard browser environ but i can't seem to get it to work with electron. doe anybodi have ani experi in wrestl with this?
+WebkitSpeechRecognition Returning Network Error in Electron

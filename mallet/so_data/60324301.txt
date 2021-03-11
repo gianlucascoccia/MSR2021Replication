@@ -1,1 +1,1 @@
-i have an issu with my react-appl when i build it with electron-builder.i just want to show an applic logo with either dark or light font-colour depend on the current select theme. for that, i creat 2 separ svg (dark and light).th problemif i start the react-app with logo not work after second renderunpackag app.asarthi is my first question, so if you need ani further information, feel free to ask.thank
+Electron + React: SVG Loading Issue

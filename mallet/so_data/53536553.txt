@@ -1,1 +1,1 @@
-i'm have an electron app through which i am tri to call an url from the same network, but for some secur reason i consid the idea of use a proxy.but this doe not seem to do the trick. is my idea valid? ani idea what am i do wrong? thank
+Proxy in electron

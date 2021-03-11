@@ -1,1 +1,1 @@
-i have an angular 7 applic that run in an electron window. the electron process in with consol log statements, but none of them get executed.ani idea what the issu is that prevent rout from work successfully?
+Angular 7/Electron: Routing doe not complete after BrowserWindow.hide followed by BrowserWindow.show

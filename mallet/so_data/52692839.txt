@@ -1,1 +1,1 @@
-i'm tri to make a simpl electron app with sqlite3 data storag on window 10.seem like i cannot build sqlite3 becaus of some node-gyp issues. the stacktrac of the error.npm instal --global --product windows-build-toolsrun npm instal as administratorrun npm instal from vs2017 consoleupd npm and node-gyp versiondelet my node-modul and instal againit is all the same, i keep receiv this error. have you ani idea how to make sqlite3 build possible?nod version: 8.11.3npm version: 5.6.0
+Build sqlite3 on window 10 for electron app

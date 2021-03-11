@@ -1,1 +1,1 @@
-i need to concaten at string which content the path to a vue file and import this one.i'v tri the follow code:how can i import the vue file?
+Import component from a variable path name

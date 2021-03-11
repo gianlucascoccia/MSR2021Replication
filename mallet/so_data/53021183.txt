@@ -1,1 +1,1 @@
-i am work on an electron app recentlymi problem is that i don't want user to be abl to chang the page sizehow can i do that?
+How can i set the page size that would not be changeable

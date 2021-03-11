@@ -1,1 +1,1 @@
-i'm write a nw.js desktop app. and i want to play some audio file on html page.if i load some audio from the app path, it will work, like
+How to load local medium file in nw.js?

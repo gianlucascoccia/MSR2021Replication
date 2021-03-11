@@ -1,1 +1,1 @@
-in develop phase the jqueri load method to load html view work well with electron:)and i code everyth with that load jqueri method...how could i make it work ?
+How load html from renderer JS with ELECTRON

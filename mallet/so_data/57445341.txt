@@ -1,1 +1,1 @@
-in my end-to-end tests, apart from act on the electron app itself, i need to check extern things, name if a file has been created.to make it work i did someth like this:i'd like to write the first test like the second test, but i don't know how to chain the non-spectron check to the rest of the flow.
+How to combine action on the apps with external system check in Spectron and Chai

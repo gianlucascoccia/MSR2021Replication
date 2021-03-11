@@ -1,1 +1,1 @@
-in main.js, i'm do this: call. what am i do wrong?
+How to get handle to IPC?

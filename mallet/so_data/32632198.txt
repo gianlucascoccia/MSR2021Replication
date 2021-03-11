@@ -1,1 +1,1 @@
-i wish to inspect the sourc code of a few node-webkit desktop app (binaries) for secur purposes. how should i do so?
+How to decompile nw.js binaries?

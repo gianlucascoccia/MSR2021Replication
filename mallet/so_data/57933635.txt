@@ -1,1 +1,1 @@
-for exampl i want to load a remot address like ?edit: actual i don't have direct access to the sourc code of ducument becaus it is load from a remot url.
+Electron - Access DOM element in a loaded document using remote url

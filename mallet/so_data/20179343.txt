@@ -1,1 +1,1 @@
-tri to get googl drive api to work in node-webkit.when the auth messag is sent, it is sent with an origin of file:// which is rejected.not sure whi it is sent that way from gapi - anyon know how to auth googl drive from node-webkit?
+Node-webkit and google drive api

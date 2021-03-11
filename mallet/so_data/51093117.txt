@@ -1,1 +1,1 @@
-i am catch electron applic error with that alert goe away.how to preserv the default alert box while do a custom handler?
+how to preserve electron's default exception window after catching the exception?

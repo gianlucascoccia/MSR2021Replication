@@ -1,1 +1,1 @@
-i'v a project with nuxt. i use express for api. everyth work well when i build and start on web or localhost.then i need electron to publish this app for windows. there is no problem when i publish it on develop mode. package.jsonthank for read &amp; helps.
+Electron & Express & Nuxt Refused to execute ... the following Content Security Policy

@@ -1,1 +1,1 @@
-to provid suitabl level of secur when load remot content, it is state that a best practic is also high appreciated.
+Electron 'contextBridge'

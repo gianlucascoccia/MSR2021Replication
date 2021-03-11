@@ -1,1 +1,1 @@
-i creat an cross platform electron applic for play video from dvd (in offlin mode).when user insert dvd in the driver , the xml file (list of video url and details) should load from dvd.so for video url i need access to dvd driver name.*file:/ should be dvd drive name.ther was a npm packag but not workinghttps://www.npmjs.com/package/drivelist
+How to detect DVD drive name with nodejs?
