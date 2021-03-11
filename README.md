@@ -19,9 +19,9 @@ Data used in the study is available in the folder [data/processed](data/processe
 
 Below, we describe in a step-by-step fashion how this data was collected and processed.
 
-## Stack Overflow data
+## Stack Overflow dataset
 
-The Stack Oveflow data was collected by means of the [SOTorrent](https://empirical-software.engineering/sotorrent/) dataset.
+Starting point for the Stack Oveflow dataset was the [SOTorrent](https://empirical-software.engineering/sotorrent/) dataset.
 
 ### Tags selection
 
@@ -34,3 +34,9 @@ The queries used to select relevant Stack Overflow questions from SOTorrent are 
 First query selects relevant questions (based on their tags).
 
 Second query was used to collect accepted answers for the questions returned by the first query.
+
+## Topic modeling
+
+Topic modeling was executed by means of the [Mallet tool](http://mallet.cs.umass.edu).
+
+The commands used to execute the tool from the command line is provided in the (mallet_instructions.txt)[mallet_instructions.txt] file. 
