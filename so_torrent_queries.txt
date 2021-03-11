@@ -14,7 +14,7 @@ AND (Tags LIKE '%<electron>%' or
 	 Tags LIKE '%<node-webkit>%' 
 	 )
 
-#### SELECT Accepted Answers to posts 
+#### SELECT Accepted Answers to posts (ugly but it works)
 
 SELECT * FROM `sotorrent-org.2020_03_15.Posts` 
 WHERE PostTypeId = 2 
