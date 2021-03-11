@@ -19,6 +19,9 @@ Data used in the study is available in the folder [data/processed](data/processe
 
 Below, we describe in a step-by-step fashion how this data was collected and processed.
 
+Quick links:
+[Stack Overflow dataset](##Stack Overflow dataset)
+
 ## Stack Overflow dataset
 
 Starting point for the Stack Oveflow dataset was the [SOTorrent](https://empirical-software.engineering/sotorrent/) dataset.
@@ -39,4 +42,4 @@ Second query was used to collect accepted answers for the questions returned by 
 
 Topic modeling was executed by means of the [Mallet tool](http://mallet.cs.umass.edu).
 
-The commands used to execute the tool from the command line is provided in the (mallet_instructions.txt)[mallet_instructions.txt] file. 
+The commands used to execute the tool from the command line is provided in the [mallet_instructions.txt](mallet_instructions.txt) file. 
