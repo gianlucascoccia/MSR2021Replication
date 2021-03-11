@@ -19,9 +19,11 @@ The online appendix with the complete discussion of all topics mentioned in the 
 
 The Stack Oveflow data was collected by means of the [SOTorrent](https://empirical-software.engineering/sotorrent/) dataset.
 
-## Tags
+### Tags selection
 
-## Selection of relevant Stack Overflow questions
+Selection of tags related to desktop web apps questions, by means of significance and relevance metrics, is performed by the scripts: [extract_tagset_from_csv.py](notebook/extract_tagset_from_csv.py) and [createT.py](notebook/create_T.py).
+
+### Selection of relevant Stack Overflow questions
 
 The queries used to select relevant Stack Overflow questions from SOTorrent are available in the file: [so_torrent_queries.txt](so_torrent_queries.txt)
 
