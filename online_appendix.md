@@ -10,7 +10,7 @@ Questions in this topic discuss the fundamental logical structure of the desktop
   * Desktop web application development requires the usage of abstractions and frameworks to properly manage the application's logical structure when dealing with growing application complexity.
 
 **Examples:**
-  * 1)
+  * 1) https://stackoverflow.com/questions/20112297/angularjs-routerprovider-not-working-properly-in-node-webkit
   * 2)
   * 3)
 
