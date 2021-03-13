@@ -11,43 +11,27 @@ Paper preprint available [HERE](MSR2021_preprint.pdf).
 
 # Online appendix
 
-The online appendix with the complete discussion of all topics mentioned in the paper is available here: http\\.url
+The online appendix with the complete discussion of all topics mentioned in the paper is available [HERE](online_appendix.md).
 
 # Replication package
 
 Data used in the study is available in the folder [data/processed](data/processed).
 
-Below, we describe in a step-by-step fashion how this data was collected and processed.
+Raw data (w/o cleaning & filtering) is available in the folder [data/processed](data/raw).
 
-Quick links:
+# Scripts
 
-[Stack Overflow dataset](##stack-overflow-dataset)
-
-[GitHub dataset](##github-dataset)
-
-[Topic modeling](##topic-modeling)
-
-[Statistical analysis](##statistical-analysis)
-
-
-## Stack Overflow dataset
-
-Starting point for the Stack Oveflow dataset was the [SOTorrent](https://empirical-software.engineering/sotorrent/) dataset.
-
-### Tags selection
+## Tags selection
 
 Selection of tags related to desktop web apps questions, by means of significance and relevance metrics, is performed by the scripts: [extract_tagset_from_csv.py](notebook/extract_tagset_from_csv.py) and [createT.py](notebook/create_T.py).
 
-### Selection of relevant Stack Overflow questions
+## Selection of relevant Stack Overflow questions
 
 The queries used to select relevant Stack Overflow questions from SOTorrent are available in the file: [so_torrent_queries.txt](so_torrent_queries.txt)
 
 First query selects relevant questions (based on their tags).
 
 Second query was used to collect accepted answers for the questions returned by the first query.
-
-## GitHub dataset
-
 
 ## Topic modeling
 
@@ -56,4 +40,5 @@ Topic modeling was executed by means of the [Mallet tool](http://mallet.cs.umass
 The commands used to execute the tool from the command line is provided in the [mallet_instructions.txt](mallet_instructions.txt) file. 
 
 ## Statistical analysis
+
 
