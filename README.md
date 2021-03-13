@@ -17,7 +17,7 @@ The online appendix with the complete discussion of all topics mentioned in the 
 
 Data used in the study is available in the folder [data/processed](data/processed).
 
-Raw data (w/o cleaning & filtering) is available in the folder [data/processed](data/raw).
+Raw data (w/o cleaning & filtering) is available in the folder [data/raw](data/raw).
 
 ## Scripts
 
