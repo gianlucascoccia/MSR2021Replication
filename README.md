@@ -41,4 +41,5 @@ The commands used to execute the tool from the command line is provided in the [
 
 ### Statistical analysis
 
+Scripts used to analyze the collected data are available in the folder [notebook](notebook). The Python scripts in the folder were used to perform data cleaning and exploratory analysis. The statistical tests performed in the study were implemented in the R language and are available in the file [tests.r](notebook/tests.r)
 
