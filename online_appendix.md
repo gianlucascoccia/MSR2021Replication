@@ -11,7 +11,7 @@ Questions in this topic discuss the fundamental logical structure of the desktop
 
 **Examples:**
   * 1) https://stackoverflow.com/questions/20112297/angularjs-routerprovider-not-working-properly-in-node-webkit
-  * 2)
-  * 3)
+  * 2) https://stackoverflow.com/questions/36017543/what-is-the-best-way-to-communicate-from-angular2-to-electron-and-back
+  * 3) https://stackoverflow.com/questions/45700041/react-router-redirect-not-working-at-all-using-react-redux-electron
 
 ## GitHub Topics
