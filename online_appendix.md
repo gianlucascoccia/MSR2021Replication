@@ -46,24 +46,24 @@ this topic groups questions asking for clarification regarding interactions betw
 This topic contains questions relating to the persistent storage of data, by means of databases (e.g., *'nedb with electron and angularjs'*) or through the mechanisms offered by the browser (e.g., *'Auto-sync JS environment with LocalStorage or IndexedDB?'*). The presence of this topic highlights the importance of persistent data storage solutions in the development of desktop web apps.
   
 **Considerations:**
-  * 
+  * Desktop web apps often include database solutions to achieve persistent data storage. 
 
 **Examples:**
-  * 1)   
-  * 2) 
-  * 3) 
+  * 1) https://stackoverflow.com/questions/44966809/accessing-nedb-find-results
+  * 2) https://stackoverflow.com/questions/47751983/electron-knex-sqlite-handling
+  * 3) https://stackoverflow.com/questions/39752269/nw-js-node-webkit-where-is-sqlite-db-stored
   
 ### Dependencies
   
 This topic collects questions dealing with issues related to the inclusion of libraries or other software dependencies. An example is the post *'Requiring node modules in ionic + electron (5.0.0) desktop application'*. The ability to reuse existing web development libraries for desktop applications is advertised as one of the major strengths of desktop web app frameworks. Hence, we deemed it appropriate to investigate the reasons behind the presence of this topic among the most discussed on Stack Overflow. Conducting a manual analysis of related questions, we identified two main reasons: firstly, as specified in the official Electron faq (https://www.electronjs.org/docs/faq), the way these frameworks integrate the node.js backend and the frontend browser instance can result in compatibility issues when employing some popular libraries (e.g., JQuery or AngularJS), which require additional setup steps to be correctly integrated; secondly, it is common practice in the JavaScript ecosystem to use dependency managers, i.e., software libraries that assist in the integration of multiple external libraries. Integrating these within desktop web apps is not always straightforward. In both cases, solving these issues requires manually tweaking configuration files of libraries, frameworks, or underlying components (e.g., configuration files of the node.js backend server). Required edits are mostly specific for each library, hence deep knowledge of the involved technologies is necessary. For instance, the answer to the question *'Error: Can't resolve 'electron-is-dev' in electron & typescript & webpack project*' reports the need to configure the webpack.config.js file in order to integrate Electron with the Webpack module bundler. 
 
 **Considerations:**
-  * 
+  * Reuse of traditional web development libraries within desktop web apps is common, but their integration is not always straightforward
 
 **Examples:**
-  * 1)   
-  * 2) 
-  * 3) 
+  * 1) https://stackoverflow.com/questions/39295951/why-cant-i-use-functions-from-javascript-files-that-are-imported-by-require
+  * 2) https://stackoverflow.com/questions/42737885/ionic-2-build-error-cannot-find-module-dist-build
+  * 3) https://stackoverflow.com/questions/29806669/node-js-typescript-can-not-find-local-module
 
 
 ## GitHub Topics
