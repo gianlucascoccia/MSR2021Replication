@@ -25,9 +25,9 @@ This topic comprises questions about the build process of desktop web apps, whos
   * Despite frameworks' efforts to simplify deployment across multiple platforms, developers often ask for help regarding the build and deploy processes.
 	
  **Examples:**
-  * 1)
-  * 2)
-  * 3)
+  * 1) https://stackoverflow.com/questions/33152533/bundling-precompiled-binary-into-electron-app
+  * 2) https://stackoverflow.com/questions/39225801/electron-packager-on-windows-does-nothing
+  * 3) https://stackoverflow.com/questions/40593492/why-wont-electron-packager-bundle-node-modules-that-are-listed-in-package-js
 
 ### Client-server
 
@@ -37,9 +37,9 @@ this topic groups questions asking for clarification regarding interactions betw
  * Desktop web applications are often developed as an additional front-end client for existing applications and services.
 
 **Examples:**
-  * 1)
-  * 2)
-  * 3)
+  * 1) https://stackoverflow.com/questions/40623356/electron-app-that-opens-a-server-or-using-sockets-over-the-web
+  * 2) https://stackoverflow.com/questions/45044189/node-js-multicast-client
+  * 3) https://stackoverflow.com/questions/50081691/send-media-stream-to-clients-from-server
   
   
 ## GitHub Topics
