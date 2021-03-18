@@ -65,6 +65,42 @@ This topic collects questions dealing with issues related to the inclusion of li
   * 2) https://stackoverflow.com/questions/42737885/ionic-2-build-error-cannot-find-module-dist-build
   * 3) https://stackoverflow.com/questions/29806669/node-js-typescript-can-not-find-local-module
 
+### Errors
+
+This topic concerns those discussions in which assistance is requested regarding error messages encountered during application development or usage. An example of this kind of post is *'Electron: TypeError: Cannot create property default on symbol Symbol(nodejs.util.inspect.custom)'*.
+
+**Considerations:**
+  * Developers request assistance regarding a wide variety of they encounter during application development.  
+  
+**Examples:**
+  * 1) https://stackoverflow.com/questions/55552637/cannot-read-property-getcontext-of-undefined-electron
+  * 2) https://stackoverflow.com/questions/52311819/error-fs-readfilesync-is-not-a-function-using-electron
+  * 3) https://stackoverflow.com/questions/35210957/node-webkit-unexpected-undefined-is-not-a-function-on-string-prototype-includ
+
+### File manipulation
+
+This topic groups those questions in which developers report issues related to the creation, access, and modification of local files and folders (e.g., *'Write file to disk from blob in electron application'*). It's reasonable to think that file manipulation is more important for desktop app development than traditional web programming
+
+**Considerations:**
+  * File manipulation is frequently used in desktop applications, less so in traditional web application development.
+  * Developers often require assistance to perform file manipulation with the backend node.js APIs.
+  
+**Examples:**
+  * 1) https://stackoverflow.com/questions/39395195/how-to-write-wav-file-from-blob-in-javascript-node
+  * 2) https://stackoverflow.com/questions/36860397/loading-a-yaml-file-in-electron-app
+  * 3) https://stackoverflow.com/questions/44718683/nodejs-print-file-with-child-process
+
+### Inter-process communication
+
+This topic concerns the communication between concurrent processes. Indeed, desktop web app frameworks use a two-layer architecture composed of a back-end server and a front-end app window. These are executed in two concurrent processes and the communication between the two must be handled by the developer. An example of this kind of question is *'Communicate between parent and child renderer process Electron JS''}. Reasonably, we can expect that most web developers are not familiar with the inter-process communication concepts and, therefore, turn to Stack Overflow for clarification'*.
+
+**Considerations:**
+  * Desktop web apps developers are often unfamiliar familiar with IPC concepts.
+  
+**Examples:**
+  * 1) https://stackoverflow.com/questions/51347738/electron-ipc-reference-error
+  * 2) https://stackoverflow.com/questions/48961023/handling-nodejss-child-process-in-electron-app
+  * 3) https://stackoverflow.com/questions/47563511/angular-electron-ipc-communication-and-service-method-call
 
 ## GitHub Topics
 
