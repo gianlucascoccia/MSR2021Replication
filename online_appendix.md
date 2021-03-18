@@ -1,5 +1,3 @@
-# UNDER CONSTRUCTION
-
 # Topics description
 
 ## Stack Overflow topics
@@ -165,3 +163,40 @@ Questions in this topic discuss aspects related to the application user interfac
 
 ## GitHub Topics
 
+In the following, we briefly describe the relevant topics uniquely found in the GitHub dataset in detail and provide illustrative examples from selected GitHub issue reports.
+
+### Account, Cryptocurrencies, and Messaging
+
+Issues in these topics discuss complications that occur when using app functionalities associated with the respective arguments, e.g., login, profile update, sending/receiving cryptocurrencies, chats and private messages. Illustrative examples are the issue titled *'Invalid auto-login after login attempt with no data'* from the repository *simplenote-electron* and the issue *'Batch sending LSK to wallets'* from the repository *lisk-desktop*.
+
+**Examples:**
+  * 1) https://github.com/Foundry376/Mailspring/issues/1313
+  * 2) https://github.com/LiskHQ/lisk-desktop/issues/978
+  * 3) https://github.com/Automattic/simplenote-electron/issues/212
+
+### Feature request
+
+Issues in this topic suggest new application features or require improvements to existing ones. An issue of this kind is the following, taken from the app *Boostnote*: *'Add a lock button to the Preview mode'*. This kind of issue is frequently found in GitHub repositories..
+
+**Examples:**
+  * 1) https://github.com/Atraci/Atraci/issues/187
+  * 2) https://github.com/Automattic/simplenote-electron/issues/1009
+  * 3) https://github.com/Kong/insomnia/issues/266
+
+### Input
+
+This topics encompasses those issues that describe a problem tied to the application input methods. An instance of this kind of issue is *'Selecting text using the keyboard automatically copies it'* from the repository *extraterm*.
+
+**Examples:**
+  * 1) https://github.com/Eugeny/terminus/issues/768
+  * 2) https://github.com/OpenBazaar/openbazaar-desktop/issues/1098
+  * 3) https://github.com/Soundnode/soundnode-app/issues/705
+
+### Text manipulation
+
+Issues related to this topic describe problems related to the manipulation of on-screen text, e.g., display, selection and highlighting. An example is the issue *'Add Markdown fenced code blocks (Syntax highlighting)'* from the repository *beakerbrowser*.
+
+**Examples:**
+  * 1) https://github.com/BoostIO/Boostnote/issues/1490
+  * 2) https://github.com/Kong/insomnia/issues/1712
+  * 3) https://github.com/Kong/insomnia/issues/412
