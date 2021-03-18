@@ -102,5 +102,42 @@ This topic concerns the communication between concurrent processes. Indeed, desk
   * 2) https://stackoverflow.com/questions/48961023/handling-nodejss-child-process-in-electron-app
   * 3) https://stackoverflow.com/questions/47563511/angular-electron-ipc-communication-and-service-method-call
 
+### Developer tools
+
+These are questions asking for explanations on how to use existing development tools, such as code editors and debuggers, in the context of desktop web apps. An example is the Stack Overflow post *'How to debug Quasar Electron App with VS Code'*. Similarly to what has been observed for the Dependencies topic, by manually analyzing questions related to the topic, we found that some of the tools commonly used by developers (e.g., IDEs, debuggers) require additional configuration steps or workarounds to be used for desktop web app development. One example is in the answer to the question *'Debug typescript electron program in vscode'* in which, to enable the usage of the IDE built-in debugger within the Electron application, the necessary edits to multiple IDE and build process configuration files are described. 
+
+**Considerations:**
+  * Some commonly adopted developer tools (e.g., debuggers, IDEs) cannot be used out-of-the-box for desktop web application development.
+
+**Examples:**
+  * 1) https://stackoverflow.com/questions/38067606/debug-typescript-electron-program-in-vscode
+  * 2) https://stackoverflow.com/questions/35810902/empty-electron-window-when-debugging-typescript-app-in-visual-studio-code?rq=1
+  * 3) https://stackoverflow.com/questions/60214490/get-vscode-to-recognize-variable-is-being-used-in-different-javascript-file
+    
+### Page contents
+
+This topic groups questions in which and manipulation of page contents are debated. An example is the post *'Prevent DIV from scrolling on DOM content change'*.
+
+**Considerations:**
+  * Libraries and frameworks are often employed to perform page contents manipulation.
+  * Manipulation of page contents is also a common activiity in traditional web application development.
+
+**Examples:**
+  * 1) https://stackoverflow.com/questions/42138548/change-dom-with-electron-ipcrenderer
+  * 2) https://stackoverflow.com/questions/40878197/change-form-action-url-using-javascript-from-a-html-value
+  * 3) https://stackoverflow.com/questions/37675229/how-to-access-the-contents-of-an-iframe-in-nw-js
+
+### Platform integration
+
+This topic aggregates those questions in which the developer asks how to invoke native APIs (e.g., *'node-server-screenshot not working on live ubuntu server'*) or how to interact with hardware peripherals (e.g., *'Accessing USB devices from node-webkit?'*). This topic is of primary importance, given that integration with the underlying platform is one of the main advantages offered by desktop web app frameworks. Manual exploration of related questions reveals that developers often face difficulties when their application needs to support multiple platforms, as not all APIs and behaviors are standardized across platforms. One example is given in the *'ELECTRON: image file(.png) silent printing on Ubuntu'* Stack Overflow post, where the accepted answer points out the need to employ two different APIs to implement printing of documents on Windows and Ubuntu. Moreover, developers often experience difficulty in integrating the required software libraries to bridge between the web application and the underlying platform. This stems from the fact that existing Node.js native modules cannot be used as-is but needs to be recompiled before usage, as desktop web app frameworks employ a different application binary interface (https://www.electronjs.org/docs/tutorial/using-native-node-modules and https://www.npmjs.com/package/nw-gyp).
+
+**Considerations:**
+  * Developers face difficulties when supporting multiple platforms due to: (i) inconsistent APIs across platforms and (ii) difficulties in integrating native modules into the desktop web application.
+  
+**Examples:**
+  * 1) https://stackoverflow.com/questions/39812836/access-xinput-events-particularly-pen-pressure-in-electron
+  * 2) https://stackoverflow.com/questions/22385116/accessing-usb-devices-from-node-webkit
+  * 3) https://stackoverflow.com/questions/38243490/reducing-cpu-usage-of-navigator-webkitgetusermedia-electron-desktopcapturer
+
 ## GitHub Topics
 
