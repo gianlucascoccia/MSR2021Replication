@@ -139,5 +139,29 @@ This topic aggregates those questions in which the developer asks how to invoke 
   * 2) https://stackoverflow.com/questions/22385116/accessing-usb-devices-from-node-webkit
   * 3) https://stackoverflow.com/questions/38243490/reducing-cpu-usage-of-navigator-webkitgetusermedia-electron-desktopcapturer
 
+### Testing
+
+These posts discuss aspects related to application testing, often seeking clarification regarding test frameworks and tools. *'Mocha test setup to run two tests who require same beforeEach setup'* is an example. Analyzing the questions of this topic, we noticed that the main reason why developers experience testing-related difficulties is that commonly used testing frameworks and tools are often not compatible with desktop web app frameworks. Instead, ad-hoc tools or wrappers for existing ones must be utilized in their place. Multiple examples are found in Stack Overflow questions: packages such as *spectron*, *electron-chromedriver* and *nw-chromedriver* provide wrappers for the popular ChromeDriver automated testing tool; whereas, *nw-test-runner* and *electron-mocha* wrap around the Mocha testing framework. 
+
+**Considerations:**
+  * Ad-hoc wrappers are required to make existing testing frameworks and tools usable for desktop web application development.
+  
+**Examples:**
+  * 1) https://stackoverflow.com/questions/43529350/why-wont-these-chai-tests-fail
+  * 2) https://stackoverflow.com/questions/42551498/electron-run-end-to-end-tests-with-protractor
+  * 3) https://stackoverflow.com/questions/42490011/mocha-test-setup-to-run-two-tests-who-require-same-beforeeach-setup
+
+### User interface
+
+Questions in this topic discuss aspects related to the application user interface. Differently from the Page contents topic, questions in this topic deal more closely with aspects that are only found in desktop applications, such as the organization of the menu bar (*'Electron OSX application menu - how to add custom File menu?'*) and the organization of app windows (*'Node-Webkit (nwjs) How to align window to the right?'*).
+
+**Considerations:**
+  * Customizing the app user-inteface to provide an user experience that is very similar to the one of native applications is important for desktop application developers. At the same time it currently requires a considerable effort. 
+
+**Examples:**
+  * 1) https://stackoverflow.com/questions/28853289/style-system-tray-with-node-webkit-application
+  * 2) https://stackoverflow.com/questions/31790535/get-and-set-correct-window-position-with-node-js
+  * 3) https://stackoverflow.com/questions/38441935/electron-app-turn-off-on-screen-keyboard-windows-10-tablet
+
 ## GitHub Topics
 
