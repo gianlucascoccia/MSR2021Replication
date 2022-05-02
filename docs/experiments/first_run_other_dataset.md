@@ -53,7 +53,7 @@ The files for each questions will be at the `tcc_mallet/so_data/` folder. The fi
 With the questions separeted into diferent files, run the mallet tool with the following comands:
 
 ```sh
-mallet/mallet-2.0.8/bin/mallet import-dir --input tcc_mallet/so_data/ --output tcc_mallet/so.mallet --keep-sequence --remove-stopwords --extra-stopwords mallet/extra_stopwords_so.txt
+mallet/mallet-2.0.8/bin/mallet import-dir --input tcc_mallet/so_data/ --output tcc_mallet/so.mallet --keep-sequence --remove-stopwords --extra-stopwords tcc_mallet/extra_stopwords_so.txt
 ```
 
 ```sh
@@ -71,6 +71,6 @@ python3 parse_topics_composition.py
 To evaluate the generated topics, the following script was created to place all the topics content into one single file, to compare and understands the similarities.
 
 ```sh
-python3 python3 unite_topics_in_one_file.py
+python3 unite_topics_in_one_file.py
 ```
 
