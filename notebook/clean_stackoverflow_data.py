@@ -6,11 +6,15 @@ import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+import os
+
+DATASET_PATH = os.getenv('DATASET_PATH')
+
 #nltk.download('stopwords')
 
 # %% Load questions
 
-so_questions = pd.read_csv('../tcc_data/raw/so_questions.csv')
+so_questions = pd.read_csv(DATASET_PATH)
 
 print("Loaded CSV!")
 
