@@ -15,6 +15,15 @@ The Mallet tool will be available to use at `mallet/mallet-2.0.8/bin/mallet`.
 ## Install python libraries
 
 pip intall and etc
+pip install:
+- pandas
+- nltk
+
+
+Dentro do python console
+ >>> import nltk
+  >>> nltk.download('punkt')
+
 
 ## Run the MSR2021Replication
 
