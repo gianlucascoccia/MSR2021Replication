@@ -9,6 +9,7 @@ from nltk.tokenize import word_tokenize
 import os
 
 DATASET_PATH = os.getenv('DATASET_PATH')
+OUTPUT_PATH = os.getenv('OUTPUT_PATH')
 
 #nltk.download('stopwords')
 
@@ -37,9 +38,17 @@ so_questions.Body = so_questions.Body.apply(lambda x: ' '.join([w for w in word_
 print("Removed stopwords!")
 
 # %% Store cleaned and processed data
+subfolder = os.path.join(OUTPUT_PATH, 'processed/')
+
+if not os.path.exists(subfolder):
+  os.makedirs(subfolder)
+  print('Folder {} created!'.format(subfolder))
+
+processed_csv = os.path.join(subfolder, 'so_questions.csv')
 
 # Questions
-so_questions.to_csv('../tcc_data/processed/so_questions.csv')
+so_questions.to_csv(processed_csv)
+
 print("Saved new csv!")
 
 

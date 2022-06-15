@@ -3,16 +3,25 @@
 import glob
 import pandas as pd
 import nltk
+import os
 
 # %% params
 
-OUT_FOLDER = '../tcc_mallet/so_data/'
 STEMMING = False
 LEMMING =  True
 
+OUTPUT_PATH = os.getenv('OUTPUT_PATH')
+OUT_FOLDER = os.path.join(OUTPUT_PATH, 'so_data/')
+PROCESSED_CSV = os.path.join(OUTPUT_PATH, 'processed/so_questions.csv')
+
+if not os.path.exists(OUT_FOLDER):
+  os.makedirs(OUT_FOLDER)
+  print('Folder {} created!'.format(OUT_FOLDER))
+
+
 # %%  load stack overflow questions
 
-so = pd.read_csv('../tcc_data/processed/so_questions.csv')
+so = pd.read_csv(PROCESSED_CSV)
 
 # %% utility funcs
 

@@ -1,12 +1,20 @@
 # %% imports
 
 import pandas as pd
+import os
 
 # %% params
 
-IN_FILE = '../tcc_mallet/so_composition.txt'
-OUT_FILE = '../tcc_data/processed/SO_T_output_Mallet/so_topic_matrix.csv'
-OUT_DOCS_FOLDER = '../tcc_data/processed/SO_T_output_Mallet/topics'
+OUTPUT_PATH = os.getenv('OUTPUT_PATH')
+IN_FILE =  os.path.join(OUTPUT_PATH, 'so_composition.txt')
+OUT_FILE = os.path.join(OUTPUT_PATH, 'processed/SO_T_output_Mallet/so_topic_matrix.csv')
+OUT_DOCS_FOLDER = os.path.join(OUTPUT_PATH, 'processed/SO_T_output_Mallet/topics')
+
+
+if not os.path.exists(OUT_DOCS_FOLDER):
+  os.makedirs(OUT_DOCS_FOLDER)
+  print('Folder {} created!'.format(OUT_DOCS_FOLDER))
+
 THRESHOLD = 0.5
 NUM_TOPICS = 14
 
