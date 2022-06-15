@@ -1,4 +1,4 @@
-# %% imports 
+# %% imports
 
 import glob
 import pandas as pd
@@ -6,13 +6,13 @@ import nltk
 
 # %% params
 
-OUT_FOLDER = '../mallet/so_data/'
-STEMMING = False 
+OUT_FOLDER = '../tcc_mallet/so_data/'
+STEMMING = False
 LEMMING =  True
 
 # %%  load stack overflow questions
 
-so = pd.read_csv('../data/processed/so_questions.csv')
+so = pd.read_csv('../tcc_data/processed/so_questions.csv')
 
 # %% utility funcs
 
@@ -34,16 +34,16 @@ def df_to_file(_index, _row, _fieldname):
         issue_body = ' '.join(stem_text(issue_body))
     if LEMMING:
         issue_body = ' '.join(lemmatize_text(issue_body))
-    with open(OUT_FOLDER + issue_name + '.txt', 'a') as issue_file:
+    with open(OUT_FOLDER + issue_name + '.txt', 'a+') as issue_file:
         issue_file.write(issue_body + '\n')
-
-# %% output comments one question per file as mallet requires (body only)
-
-#for index, row in so.iterrows():
-#    df_to_file(index, row, 'Body')
 
 # %% output one question per file as mallet requires (title only)
 
 for index, row in so.iterrows():
     df_to_file(index, row, 'Title')
+
+# %% output comments one question per file as mallet requires (body only)
+
+for index, row in so.iterrows():
+   df_to_file(index, row, 'Body')
 
