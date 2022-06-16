@@ -2,6 +2,7 @@ import pandas as pd
 import os
 
 OUTPUT_PATH = os.getenv('OUTPUT_PATH')
+TOPICS_NUM = os.getenv('TOPICS_NUM')
 
 OUT_FOLDER =  os.path.join(OUTPUT_PATH, 'so_data/')
 
@@ -26,7 +27,7 @@ if not os.path.exists(OUT_FOLDER):
 
 print('Uniting documents...')
 
-for i in range(1,15):
+for i in range(1, TOPICS_NUM):
   topic = 'topic_{}'.format(i)
   print(topic)
   so = pd.read_csv('../tcc_data/processed/SO_T_output_Mallet/topics/{}.csv'.format(topic))
