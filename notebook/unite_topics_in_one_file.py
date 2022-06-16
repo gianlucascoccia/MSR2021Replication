@@ -1,11 +1,9 @@
 import pandas as pd
 import os
+from output_folder import get_output_folder
 
-OUTPUT_PATH = os.getenv('OUTPUT_PATH')
 TOPICS_NUM = os.getenv('TOPICS_NUM')
-
-OUT_FOLDER =  os.path.join(OUTPUT_PATH, 'so_data/')
-
+OUT_FOLDER = get_output_folder('so_data/')
 
 def df_to_file(row, topic):
   file_name = str(int(row['filename']))
@@ -20,18 +18,18 @@ def df_to_file(row, topic):
   with open(path, 'a+') as file:
     file.write(content + '\n\n')
 
+def unite_questions_documents_by_topic():
+  print('Uniting documents...')
 
-if not os.path.exists(OUT_FOLDER):
-  os.makedirs(OUT_FOLDER)
-  print('Folder {} created!'.format(OUT_FOLDER))
+  for i in range(1, TOPICS_NUM):
+    topic = 'topic_{}'.format(i)
+    print(topic)
+    so = pd.read_csv(
+        '../tcc_data/processed/SO_T_output_Mallet/topics/{}.csv'.format(topic))
+    for _, row in so.iterrows():
+      df_to_file(row,  topic)
 
-print('Uniting documents...')
+    print('Done!')
 
-for i in range(1, TOPICS_NUM):
-  topic = 'topic_{}'.format(i)
-  print(topic)
-  so = pd.read_csv('../tcc_data/processed/SO_T_output_Mallet/topics/{}.csv'.format(topic))
-  for index, row in so.iterrows():
-    df_to_file(row,  topic)
-
-print('Done!')
+if __name__ == '__main__':
+  unite_questions_documents_by_topic()
