@@ -20,7 +20,6 @@ Data used in the study is available in the folder [data/processed](data/processe
 Raw data (w/o cleaning & filtering) is available in the folder [data/raw](data/raw).
 
 ## Scripts
-
 ### Tags selection
 
 Selection of tags related to desktop web apps questions, by means of significance and relevance metrics, is performed by the scripts: [extract_tagset_from_csv.py](notebook/extract_tagset_from_csv.py) and [createT.py](notebook/create_T.py).
@@ -37,9 +36,20 @@ Second query was used to collect accepted answers for the questions returned by 
 
 Topic modeling was executed by means of the [Mallet tool](http://mallet.cs.umass.edu).
 
-The commands used to execute the tool from the command line is provided in the [mallet_instructions.txt](mallet_instructions.txt) file. 
+The commands used to execute the tool from the command line is provided in the [mallet_instructions.txt](mallet_instructions.txt) file.
 
 ### Statistical analysis
 
 Scripts used to analyze the collected data are available in the folder [notebook](notebook). The Python scripts in the folder were used to perform data cleaning and exploratory analysis. The statistical tests performed in the study were implemented in the R language and are available in the file [tests.r](notebook/tests.r)
 
+### StackOverflow datasets
+
+To analyse StackOverflow datasets, run the jupyter notebook using the following command:
+
+```sh
+jupyter-notebook SO_dataset_analysis.ipynb
+```
+
+This notebooks run the scripts to clean the dataset, run the Mallet Tool and analyse the results.
+
+For more instructions on how to run the scripts access the [Getting Started](./docs/getting_started.md) document.

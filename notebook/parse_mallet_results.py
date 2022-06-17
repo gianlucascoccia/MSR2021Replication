@@ -4,11 +4,13 @@ import glob
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
+import os
 
 # %% params
 
-IN_FOLDER = '../mallet/so_results/'
-OUT_FILE = '../mallet/so_results/topics_report_so.txt'
+OUTPUT_PATH = os.getenv('OUTPUT_PATH')
+IN_FOLDER =  os.path.join(OUTPUT_PATH, '/so_results/')
+OUT_FILE = os.path.join(OUTPUT_PATH, 'so_results/topics_report_so.txt')
 
 # %% List files in folder
 
