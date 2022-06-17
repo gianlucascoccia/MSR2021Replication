@@ -13,7 +13,6 @@ def df_to_file(row, topic):
   content = text_file.read()
   text_file.close()
 
-  get_output_folder('topics')
   path = get_output_file(
     'topics/{}.txt'.format(topic)
   )
@@ -22,12 +21,13 @@ def df_to_file(row, topic):
     file.write(content + '\n\n')
 
 def unite_questions_documents_by_topic():
-  print('Uniting documents...')
+
+  get_output_folder('topics')
 
   for i in range(1, TOPICS_NUM + 1):
     topic = 'topic_{}'.format(i)
     file = get_output_file(
-        'topics/{}.csv'.format(topic))
+        'processed/SO_T_output_Mallet/topics/{}.csv'.format(topic))
     so = pd.read_csv(file)
     for _, row in so.iterrows():
       df_to_file(row,  topic)
