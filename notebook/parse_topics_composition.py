@@ -8,7 +8,7 @@ OUT_FILE = get_output_file('processed/SO_T_output_Mallet/so_topic_matrix.csv')
 OUT_DOCS_FOLDER = get_output_folder('processed/SO_T_output_Mallet/topics')
 
 THRESHOLD = 0.5
-TOPICS_NUM = os.getenv('TOPICS_NUM')
+TOPICS_NUM = int(os.getenv('TOPICS_NUM'))
 
 def parse_input_file(docs):
   with open(IN_FILE, 'r') as in_file:
