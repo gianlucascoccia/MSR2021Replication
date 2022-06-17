@@ -1,7 +1,5 @@
 .DS_Store
-tcc_mallet/so_data/*.txt
-tcc_data/processed/SO_T_output_Mallet/*.csv
-tcc_data/raw/*.csv
-tcc_data/processed/SO_T_output_Mallet/topics/*.csv
-tcc_data/processed/*.csv
-tcc_mallet/*
+tcc/*.csv
+__pycache__
+.ipynb_checkpoints
+output/*

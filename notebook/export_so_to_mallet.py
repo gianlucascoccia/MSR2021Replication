@@ -1,21 +1,16 @@
-# %% imports
-
-import glob
 import pandas as pd
 import nltk
+import os
+from output_folder import get_output_file, get_output_folder
 
-# %% params
-
-OUT_FOLDER = '../tcc_mallet/so_data/'
 STEMMING = False
 LEMMING =  True
 
-# %%  load stack overflow questions
+OUTPUT_PATH = os.getenv('OUTPUT_PATH')
+OUT_FOLDER = get_output_folder('so_data/')
+PROCESSED_CSV = get_output_file('processed/so_questions.csv')
 
-so = pd.read_csv('../tcc_data/processed/so_questions.csv')
-
-# %% utility funcs
-
+# Utility functions
 w_tokenizer = nltk.tokenize.WhitespaceTokenizer()
 lemmatizer = nltk.stem.WordNetLemmatizer()
 stemmer = nltk.stem.snowball.SnowballStemmer("english")
@@ -37,13 +32,17 @@ def df_to_file(_index, _row, _fieldname):
     with open(OUT_FOLDER + issue_name + '.txt', 'a+') as issue_file:
         issue_file.write(issue_body + '\n')
 
-# %% output one question per file as mallet requires (title only)
+def export_to_mallet():
+  # load stack overflow questions
+  so = pd.read_csv(PROCESSED_CSV)
 
-for index, row in so.iterrows():
+  # output one question per file as mallet requires (title only)
+  for index, row in so.iterrows():
     df_to_file(index, row, 'Title')
 
-# %% output comments one question per file as mallet requires (body only)
+  # output comments one question per file as mallet requires (body only)
+  for index, row in so.iterrows():
+    df_to_file(index, row, 'Body')
 
-for index, row in so.iterrows():
-   df_to_file(index, row, 'Body')
-
+if __name__ == '__main__':
+  export_to_mallet()

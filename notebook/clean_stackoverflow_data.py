@@ -1,42 +1,46 @@
-# %% Imports
-
+from output_folder import get_output_folder
 import pandas as pd
-import numpy as np
 import re
-import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-#nltk.download('stopwords')
-
-# %% Load questions
-
-so_questions = pd.read_csv('../tcc_data/raw/so_questions.csv')
-
-print("Loaded CSV!")
-
-# %% Remove code from body
-
-so_questions.Body = so_questions.Body.apply(lambda x: re.sub('\<code(.*)code>', '', x))
-print("Removed questions body!")
-
-# %% Remove HTML Tags from body
-
-so_questions.Body = so_questions.Body.apply(lambda x: re.sub('<[^<]+?>', '', x))
-so_questions.Body = so_questions.Body.apply(lambda x: re.sub('&#xA;', '', x))
-print("Removed HTML tags!")
+import os
+from output_folder import get_output_folder
 
 
-# %% Remove stopwords from body
-
-# TODO: The stop words aplication is not working properly. Need refector
-so_questions.Body = so_questions.Body.apply(lambda x: ' '.join([w for w in word_tokenize(x) if not w in stopwords.words('english')]))
-print("Removed stopwords!")
-
-# %% Store cleaned and processed data
-
-# Questions
-so_questions.to_csv('../tcc_data/processed/so_questions.csv')
-print("Saved new csv!")
+def load_questions():
+  DATASET_PATH = os.getenv('DATASET_PATH')
+  print(DATASET_PATH)
+  so_questions = pd.read_csv(DATASET_PATH)
+  print("Loaded CSV!")
+  return so_questions
 
 
-# %%
+def remove_html_tags(questions):
+  # Remove code from body
+  questions.Body = questions.Body.apply(lambda x: re.sub('\<code(.*)code>', '', x))
+
+  # Remove HTML Tags from body
+  questions.Body = questions.Body.apply(lambda x: re.sub('<[^<]+?>', '', x))
+  questions.Body = questions.Body.apply(lambda x: re.sub('&#xA;', '', x))
+  print("Removed HTML tags!")
+
+def remove_stopwords(questions):
+  questions.Body = questions.Body.apply(lambda x: ' '.join([w for w in word_tokenize(x) if not w in stopwords.words('english')]))
+  print("Removed stopwords!")
+
+def save_processed_data(questions):
+  # Store cleaned and processed data
+  folder = get_output_folder('processed/')
+  processed_csv = os.path.join(folder, 'so_questions.csv')
+
+  questions.to_csv(processed_csv)
+  print("Saved new csv!")
+
+def clean_so_data():
+  questions = load_questions()
+  remove_html_tags(questions)
+  remove_stopwords(questions)
+  save_processed_data(questions)
+
+if __name__ == '__main__':
+  clean_so_data()
