@@ -1,21 +1,22 @@
 FROM ubuntu:20.04
 
+WORKDIR /app
 
-ENV DATASET_PATH=./so_questions.csv
-ENV OUTPUT_PATH=./notebook/output
-ENV TOPICS_NUM=15
+ENV TZ="America/Sao_Paulo"
 
-RUN apt update -y
-RUN apt install -y python3-pip libpq-dev python-dev
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
-COPY notebook/requirements.txt /requirements.txt
-RUN pip3 install --upgrade pip 
-RUN pip3 install -r requirements.txt
-RUN pip3 install jupyterlab
+RUN apt update -y \
+    &&  apt install -y python3-pip libpq-dev python-dev ant make
 
+COPY makefile makefile
+COPY notebook notebook
+COPY mallet mallet
+COPY tcc tcc
+COPY output output
 
-COPY notebook /notebook
-COPY mallet /mallet
+RUN pip3 install --upgrade pip \
+    && pip3 install -r notebook/requirements.txt \
+    && pip3 install jupyterlab
 
-WORKDIR /notebook
 CMD jupyter-lab --ip='*' --port=8888 --allow-root --NotebookApp.token='' --NotebookApp.password=''
