@@ -14,6 +14,7 @@ COPY notebook notebook
 COPY mallet mallet
 COPY tcc tcc
 COPY output output
+COPY init-docker.py .
 
 RUN pip3 install --upgrade pip \
     && pip3 install -r notebook/requirements.txt \
