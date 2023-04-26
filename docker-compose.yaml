@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  notebook:
+    container_name: notebook
+    build: .
+    ports:
+      - 8888:8888
+      - 40000:40000
+    environment:
+      - DATASET_PATH=./tcc/so_questions.csv
+      - OUTPUT_PATH=./output
+      - TOPICS_NUM=15  
+    volumes:
+      - ./output/:/app/output
