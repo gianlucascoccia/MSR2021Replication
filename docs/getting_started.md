@@ -91,3 +91,36 @@ $ python3 manage_results.py
 ```
 
 This script will create document files for each topic containg all the questions related to this topic.
+
+## Run with docker
+
+
+### Run container dokcer
+
+Run the docker container
+
+``` make start ```
+
+### Install dependeces and exec docker
+
+To install the dependencies and enter the container
+
+``` make init ```
+
+### Prepare data
+
+Prepare data
+
+``` make prepare ```
+
+### Process data
+
+Process the data with mallet
+
+``` make process ```
+
+Process the results
+
+### Results
+
+``` make results ```
