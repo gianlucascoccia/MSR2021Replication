@@ -13,3 +13,5 @@ services:
       - TOPICS_NUM=15  
     volumes:
       - ./output/:/app/output
+      - ./output/so_results:/app/output/so_results
+      - ./extra_stop_words:/app/extra_stop_words

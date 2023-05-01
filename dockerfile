@@ -15,6 +15,7 @@ COPY mallet mallet
 COPY tcc tcc
 COPY output output
 COPY init-docker.py .
+COPY SO_dataset_analysis.ipynb .
 
 RUN pip3 install --upgrade pip \
     && pip3 install -r notebook/requirements.txt \
