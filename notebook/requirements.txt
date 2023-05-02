@@ -1,2 +1,2 @@
 nltk
-pandas
+pandas==1.5
