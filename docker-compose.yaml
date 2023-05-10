@@ -15,3 +15,13 @@ services:
       - ./output/:/app/output
       - ./output/so_results:/app/output/so_results
       - ./extra_stop_words:/app/extra_stop_words
+
+  notebook-test:
+    container_name: notebook-test
+    build:
+      context: .
+      dockerfile: DockerfileTest
+    volumes:
+      - './notebook/:/home/notebook'
+    command:
+      bash -c "pytest -vv --cov"
