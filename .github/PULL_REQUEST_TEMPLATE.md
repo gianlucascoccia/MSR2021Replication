@@ -8,8 +8,7 @@ Closes: <!-- Link to the issue that is fixed by this PR (required if applicable)
 
 ### What's being changed (if available, include any code snippets, screenshots, or gifs):
 
-<!-- Let us know what you are changing. Share anything that could provide the most context.
-If you made changes to the `content` directory, a table will populate in a comment below with links to the preview and current production articles. -->
+<!-- Let us know what you are changing. Share anything that could provide the most context without the need to initialize the project. -->
 
 ### Check off the following:
 
