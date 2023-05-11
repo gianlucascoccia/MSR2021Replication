@@ -1,12 +1,12 @@
 ### Description:
-Brief description about the issue.
+<!-- Brief description about the issue. -->
 
 ### Tasks:
-Checklist of actions that must be performed.
+Checklist of tasks that must be performed.
 
 - [ ]
 
 ### Acceptance criteria:
-Define the criteria for the issue to be considered complete.
+<!-- Define the criteria for the issue to be considered complete. -->
 
 - [ ]
