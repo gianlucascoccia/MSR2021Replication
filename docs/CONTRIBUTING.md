@@ -1,6 +1,6 @@
 # Welcome to StackOverflow Mining contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [docs.github.com](https://docs.github.com/en) :sparkles:.
+Thank you for investing your time in contributing to our project! :sparkles:.
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
@@ -37,7 +37,7 @@ they are:
 
 Please review our [existing issues](https://github.com/FGA-GCES/MSR2021Replication/issues) to find one that interests you. You can narrow your search using `tags` as filters. See [Labels](https://github.com/FGA-GCES/MSR2021Replication/labels) for more information. As a general rule, we do not attribute problems to anyone. If you find an issue to resolve, you can open a PR with a fix.
 
-## make branches
+### make branches
 
 The original repository must be forked. As a rule, creations of branches in the original fork will not be accepted.
 
