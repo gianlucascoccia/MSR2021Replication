@@ -37,6 +37,10 @@ they are:
 
 Please review our [existing issues](https://github.com/FGA-GCES/MSR2021Replication/issues) to find one that interests you. You can narrow your search using `tags` as filters. See [Labels](https://github.com/FGA-GCES/MSR2021Replication/labels) for more information. As a general rule, we do not attribute problems to anyone. If you find an issue to resolve, you can open a PR with a fix.
 
+## make branches
+
+The original repository must be forked. As a rule, creations of branches in the original fork will not be accepted.
+
 ### Commit your update
 
 Commit the changes once you are happy with them. Don't forget to follow the commit policy used in this project.
