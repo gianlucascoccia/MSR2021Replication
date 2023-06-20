@@ -16,12 +16,11 @@ services:
       - ./output/so_results:/app/output/so_results
       - ./extra_stop_words:/app/extra_stop_words
 
-  notebook-test:
-    container_name: notebook-test
+  test-r:
+    container_name: test-r
     build:
       context: .
-      dockerfile: DockerfileTest
+      dockerfile: dockerfiler
     volumes:
-      - './notebook/:/home/notebook'
-    command:
-      bash -c "pytest -vv --cov"
+      - ./notebook:/app
+      - ./data:/app/data
